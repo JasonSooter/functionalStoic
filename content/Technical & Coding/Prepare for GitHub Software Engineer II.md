@@ -1,0 +1,121 @@
+---
+linter-yaml-title-alias: Prepare for GitHub Software Engineer II
+title: Prepare for GitHub Software Engineer II
+date created: 2024-09-21T20:54:55-06:00
+date modified: 2024-09-21T20:58:35-06:00
+---
+# Prepare for GitHub Software Engineer II
+
+## Summary
+
+## Changelog
+
+## Resources
+
+## Action Items
+
+## FAQ
+
+---
+🙋
+✨
+[Source]()
+
+---
+
+## Content
+
+## Job Description
+
+### Software Engineer II
+
+- https://www.github.careers/careers-home/jobs/3243
+- Locations: United States
+- Category: Engineering
+- Job Type: Experienced Professional
+- Job Level: Individual Contributor
+- Remote: Yes
+- Req ID: 3243
+
+### Job Description
+
+**About GitHub**
+
+As the global home for all developers, GitHub is the complete AI-powered developer platform to build, scale, and deliver secure software. Over 100 million people, including developers from 90 of the Fortune 100 companies, use GitHub to build amazing things together across 330+ million repositories. With all the collaborative features of GitHub, it has never been easier for individuals and teams to write faster, better code.
+
+**Locations**
+
+In this role you can work from Remote, United States
+
+**Overview**
+
+As a software engineer at GitHub, you will enhance the collaboration experience at GitHub by working closely with a community of engineers and designers with a distributed, diverse and passionate team delivering the services that millions of developers depend on. In this role you will design, prototype, implement, ship and support highly performant and inspiring user experiences with your team.
+
+We are looking for creative problem solvers and diverse thinkers, people who care about culture as well as customers and features. We believe that how we do things is as important as what we do. Big vision, a common purpose, passion for quality, curiosity, dedication, and investment in fun and collaboration are what lead to great results. Great products reflect the teams that build them.
+
+**Responsibilities**
+
+- Design, develop, test and ship high-quality technical solutions that scale across multiple GitHub services.
+- Collaborate with cross-functional teams to define and implement innovative solutions.
+- Provide technical leadership, mentorship, pairing opportunities, and code reviews to encourage the growth of others.
+- Own and advocate for the health and quality of the systems that the team builds, including participating in on-call and first responder rotations
+- Write architecture briefs and proposals, carry out code experiments, and build prototypes to learn how we can achieve planetary scale with our systems.
+- Design and implement APIs to facilitate seamless integration between software components.
+- Utilize CI/CD tools to set up automated pipelines for continuous integration and delivery.
+- Become intimately familiar with the systems you build and take pride in writing maintainable code.
+
+**Qualifications**
+
+### Required Qualifications
+
+- 2+ years experience in Software Engineering, Computer Science, or related technical discipline with proven experience maintaining production software coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, Go, Ruby, Rust, or Python
+- OR Associate’s Degree in Computer Science, Electrical Engineering, Electronics Engineering, Math, Physics, Computer Engineering, Computer Science, or related field AND 1+ year(s) experience
+- OR Bachelor's Degree in Computer Science or related field
+- OR equivalent experience.
+
+### Preferred Qualifications
+
+- Experience with Git and GitHub
+- Experience using Azure technologies is a bonus
+- Experience using front-end frameworks like React.js
+- Understanding of REST principles and experience with backend APIs
+- Strong written and verbal communication skill
+- Passionate about healthy team culture and collaboration
+- Comfortable working transparently in an agile environment and soliciting feedback from peers.
+
+**Compensation Range**
+
+The base salary range for this job is USD $75,000.00 - USD $198,900.00 /Yr.
+
+These pay ranges are intended to cover roles based across the United States. An individual's base pay depends on various factors including geographical location and review of experience, knowledge, skills, abilities of the applicant. At GitHub certain roles are eligible for benefits and additional rewards, including annual bonus and stock. These rewards are allocated based on individual impact in role. In addition, certain roles also have the opportunity to earn sales incentives based on revenue or utilization, depending on the terms of the plan and the employee's role.
+
+**GitHub values**
+
+- Customer-obsessed
+- Ship to learn
+- Growth mindset
+- Own the outcome
+- Better together
+- Diverse and inclusive
+
+**Manager fundamentals**
+
+- Model
+- Coach
+- Care
+
+**Leadership principles**
+
+- Create clarity
+- Generate energy
+- Deliver success
+
+**Who We Are**
+
+GitHub is the world’s leading AI-powered developer platform with 100 million developers and counting. We’re also home to the biggest open-source community on earth (and 99% of the world’s software has open-source code in its DNA). Many of the apps and programs you use every day are built on GitHub.
+Our teams are dreamers, doers, and pioneers, leading the way in AI, driving humanitarian efforts around the globe, and even sending open source to Mars (and beyond!). At GitHub, our goal is to create the space you need to do your best work. We’re remote-first and offer competitive pay, generous learning and growth opportunities, and excellent benefits to support you, wherever you are—because we know that people flourish when they can work on their own terms.
+Join us, and let’s change the world, together.
+
+**EEO Statement**
+
+GitHub is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people of all walks of life. We don't discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!
