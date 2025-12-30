@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: { provider: "plausible" },
     locale: "en-US",
     baseUrl: "notes.jasonsooter.com",
-    ignorePatterns: ["private", "templates", ".obsidian", "people/family/**"],
+    ignorePatterns: ["private", "templates", ".obsidian", "People/Family"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
