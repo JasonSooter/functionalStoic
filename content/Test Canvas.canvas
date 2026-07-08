@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"6c910f52c29eff55","x":0,"y":0,"width":400,"height":400,"type":"file","file":"Hobbies/Cycling/Cycling.md"},
-		{"id":"e520174f06b3ad6f","x":-400,"y":-399,"width":400,"height":399,"type":"file","file":"Freiburg Welcome Cover.jpg"},
-		{"id":"1b9d495df9a6becf","x":-360,"y":100,"width":250,"height":60,"color":"3","type":"text","text":"adsfasdf"}
+		{"id":"6c910f52c29eff55","type":"file","file":"Hobbies/Cycling/Cycling.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"e520174f06b3ad6f","type":"file","file":"Freiburg Welcome Cover.jpg","x":-400,"y":-399,"width":400,"height":399},
+		{"id":"1b9d495df9a6becf","type":"text","text":"adsfasdf","x":-360,"y":100,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[]
 }
