@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /Hobbies/Cycling/Cycling.md
 aliases:
   - Bikes
   - Biking

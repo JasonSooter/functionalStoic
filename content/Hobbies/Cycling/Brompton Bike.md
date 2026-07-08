@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /Hobbies/Cycling/Brompton Bike.md
 aliases:
   - Brompton
 title: Brompton Bike

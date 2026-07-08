@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /index.md
 title: Index
 created: 2026-07-08T07:43:48.000Z
 modified: 2026-07-08T08:56:23.511Z
