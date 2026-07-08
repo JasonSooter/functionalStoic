@@ -1,13 +1,17 @@
 ---
 publish: true
+permalink: /Hobbies/Cycling/Cycling.md
 aliases:
   - Bikes
   - Biking
 title: Cycling
-created: 2024-02-08T19:20:20.000Z
-modified: 2026-07-08T07:04:56.581Z
+created: 2025-09-25T14:40:52.000Z
+modified: 2026-07-08T08:42:35.051Z
+published: 2026-07-08T08:42:35.051Z
 tags:
   - hobbies/bikes
+date created: 2025-09-25T16:40:52+02:00
+date modified: 2026-07-08T10:42:34+02:00
 ---
 
 # Cycling
