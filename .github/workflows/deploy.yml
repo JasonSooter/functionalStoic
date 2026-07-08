@@ -1,0 +1,63 @@
+name: Deploy Quartz site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      # Actions are pinned to immutable commit SHAs (not mutable version tags)
+      # to defend against supply-chain tag-hijack attacks. The trailing comment
+      # records the human-readable release each SHA corresponds to.
+      - name: Checkout
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7
+        with:
+          fetch-depth: 0 # Fetch all history for git info (created/modified dates)
+      - name: Setup Node
+        uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - name: Cache Quartz community plugins
+        uses: actions/cache@caa296126883cff596d87d8935842f9db880ef25 # v5
+        with:
+          path: .quartz/plugins
+          key: quartz-plugins-${{ runner.os }}-${{ hashFiles('quartz.lock.json') }}
+          restore-keys: |
+            quartz-plugins-${{ runner.os }}-
+      - name: Install dependencies
+        run: npm ci
+      # Install community plugins from the committed quartz.lock.json (pinned
+      # plugin commits) rather than re-resolving from quartz.config.yaml, so CI
+      # builds are reproducible and supply-chain-stable.
+      - name: Install Quartz plugins
+        run: npx quartz plugin install
+      - name: Build Quartz
+        run: npx quartz build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5
