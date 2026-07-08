@@ -15,7 +15,23 @@ const config: QuartzConfig = {
     analytics: { provider: "plausible" },
     locale: "en-US",
     baseUrl: "notes.jasonsooter.com",
-    ignorePatterns: ["private", "templates", ".obsidian", "People/Family"],
+    // Path-based safety net. Primary opt-in gate is the quartz-syncer plugin
+    // (allNotesPublishableByDefault: false); these patterns prevent private
+    // folders from rendering even if a note is accidentally flagged to publish.
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "People/Family",
+      "People/Family/**",
+      "People/Friends",
+      "People/Friends/**",
+      "Archives",
+      "Archives/**",
+      "**/*Journal Entries*",
+      "**/*Weekly Review*",
+      "**/*Year-End Review*",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -71,7 +87,10 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    // Hard requirement: only notes with `publish: true` frontmatter are built.
+    // Requires quartz-syncer `includeAllFrontmatter: true` so the publish key
+    // survives into content/ (the syncer strips it otherwise).
+    filters: [Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
