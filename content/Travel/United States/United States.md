@@ -2,8 +2,8 @@
 publish: true
 title: United States
 created: 2025-05-31T02:24:43.925Z
-modified: 2026-07-17T15:37:55.114Z
-published: 2026-07-17T15:37:55.114Z
+modified: 2026-07-17T16:08:30.365Z
+published: 2026-07-17T16:08:30.365Z
 tags:
   - places
 linter-yaml-title-alias: United States
@@ -57,6 +57,5 @@ Overall, the United States is characterized by its dynamic and influential cultu
 
 > [!question] Title
 > Contents
-> [Source]()
 
 ## Content

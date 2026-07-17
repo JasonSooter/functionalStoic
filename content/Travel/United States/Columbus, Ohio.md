@@ -2,8 +2,8 @@
 publish: true
 title: Columbus, Ohio
 created: 2024-11-09T03:06:38.002Z
-modified: 2026-07-17T15:37:49.530Z
-published: 2026-07-17T15:37:49.530Z
+modified: 2026-07-17T16:08:33.501Z
+published: 2026-07-17T16:08:33.501Z
 tags:
   - places
 date created: 2024-11-08T20:06:38-07:00
@@ -43,7 +43,6 @@ icon: building-2
 
 🙋
 ✨
-[Source]()
 
 ---
 

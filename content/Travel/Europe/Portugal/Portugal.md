@@ -2,8 +2,8 @@
 publish: true
 title: Portugal
 created: 2024-10-05T01:14:07.929Z
-modified: 2026-07-17T15:37:37.537Z
-published: 2026-07-17T15:37:37.537Z
+modified: 2026-07-17T16:08:40.004Z
+published: 2026-07-17T16:08:40.004Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/portugal
@@ -41,7 +41,6 @@ flag: 🇵🇹
 
 🙋
 ✨
-[Source]()
 
 ---
 

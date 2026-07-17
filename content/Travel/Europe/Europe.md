@@ -2,8 +2,8 @@
 publish: true
 title: Europe
 created: 2024-01-04T21:17:33.000Z
-modified: 2026-07-17T15:37:46.019Z
-published: 2026-07-17T15:37:46.019Z
+modified: 2026-07-17T16:08:40.370Z
+published: 2026-07-17T16:08:40.370Z
 tags:
   - places
 aliases:
@@ -143,7 +143,6 @@ I'm sorry, but could you provide more context or specify which "Untitled" work y
 
 > [!question] Title
 > Contents
-> [Source]()
 
 ## Content
 

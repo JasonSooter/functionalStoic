@@ -2,8 +2,8 @@
 publish: true
 title: Mexico
 created: 2024-12-22T21:32:19.528Z
-modified: 2026-07-17T15:37:57.835Z
-published: 2026-07-17T15:37:57.835Z
+modified: 2026-07-17T16:08:34.329Z
+published: 2026-07-17T16:08:34.329Z
 tags:
   - places
 linter-yaml-title-alias: Mexico
@@ -31,6 +31,5 @@ Mexico
 
 > [!question] Title
 > Contents
-> [Source]()
 
 ## Content

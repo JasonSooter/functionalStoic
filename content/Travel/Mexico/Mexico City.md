@@ -2,8 +2,8 @@
 publish: true
 title: Mexico City
 created: 2024-12-22T21:32:36.142Z
-modified: 2026-07-17T15:37:56.535Z
-published: 2026-07-17T15:37:56.535Z
+modified: 2026-07-17T16:08:34.740Z
+published: 2026-07-17T16:08:34.740Z
 tags:
   - places
 linter-yaml-title-alias: Mexico City
@@ -30,7 +30,6 @@ icon: building-2
 
 > [!question] Title
 > Contents
-> [Source]()
 
 ## Content
 

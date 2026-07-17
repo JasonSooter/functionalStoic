@@ -2,8 +2,8 @@
 publish: true
 title: Seattle
 created: 2025-03-25T12:06:03.737Z
-modified: 2026-07-17T15:37:53.090Z
-published: 2026-07-17T15:37:53.090Z
+modified: 2026-07-17T16:08:30.750Z
+published: 2026-07-17T16:08:30.750Z
 tags:
   - places
 linter-yaml-title-alias: Seattle
@@ -40,7 +40,6 @@ Seattle is also committed to sustainability and environmentalism, with initiativ
 
 > [!question] Title
 > Contents
-> [Source]()
 
 ## Content
 

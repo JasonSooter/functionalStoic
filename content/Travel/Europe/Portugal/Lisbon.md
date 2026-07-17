@@ -2,8 +2,8 @@
 publish: true
 title: Lisbon
 created: 2026-07-17T14:36:22.287Z
-modified: 2026-07-17T15:37:39.027Z
-published: 2026-07-17T15:37:39.027Z
+modified: 2026-07-17T16:08:39.720Z
+published: 2026-07-17T16:08:39.720Z
 tags:
   - places
 location:
@@ -42,7 +42,6 @@ Capital of [[Portugal]]. Each `geo:` link below is a separate map marker in Map 
 
 🙋
 ✨
-[Source]()
 
 ---
 

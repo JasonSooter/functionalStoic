@@ -2,8 +2,8 @@
 publish: true
 title: New York
 created: 2024-10-31T23:12:38.665Z
-modified: 2026-07-17T15:37:51.553Z
-published: 2026-07-17T15:37:51.553Z
+modified: 2026-07-17T16:08:32.073Z
+published: 2026-07-17T16:08:32.073Z
 tags:
   - places
 date created: 2025-10-12T10:47:31-06:00
@@ -39,7 +39,6 @@ locations:
 
 🙋
 ✨
-[Source]()
 
 ---
 
