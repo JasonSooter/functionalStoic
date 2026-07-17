@@ -54,6 +54,10 @@ interface GeoMarker {
 // entry (city, state, continent) fall back to a colored dot.
 const ICON_EMOJI: Record<string, string> = {
   landmark: "🏛️",
+  museum: "🖼️",
+  park: "🌳",
+  coworking: "💻",
+  mention: "📖",
 };
 
 function escapeHtml(s: string): string {

@@ -9748,6 +9748,7 @@ function u2(e2, t2, n2, o2, i2, u3) {
   var a2, c2, p2 = t2;
   if ("ref" in p2) for (c2 in p2 = {}, t2) "ref" == c2 ? a2 = t2[c2] : p2[c2] = t2[c2];
   var l2 = { type: e2, props: p2, key: n2, ref: a2, __k: null, __: null, __b: 0, __e: null, __c: null, constructor: void 0, __v: --f2, __i: -1, __u: 0, __source: i2, __self: u3 };
+  if ("function" == typeof e2 && (a2 = e2.defaultProps)) for (c2 in a2) void 0 === p2[c2] && (p2[c2] = a2[c2]);
   return l.vnode && l.vnode(l2), l2;
 }
 
@@ -9910,15 +9911,36 @@ var maplibre_css_text_default = `.maplibregl-map{font:12px/20px Helvetica Neue,A
 var map_default = ".geo-map-wrapper {\n  margin: 1rem 0;\n}\n\n.geo-map {\n  height: 480px;\n  width: 100%;\n  border-radius: 8px;\n  overflow: hidden;\n  z-index: 0;\n}\n\n.geo-map-empty {\n  padding: 1rem;\n  border: 1px dashed var(--lightgray);\n  border-radius: 8px;\n  color: var(--gray);\n  font-size: 0.9rem;\n}\n\n.geo-divicon {\n  background: transparent;\n  border: none;\n}\n\n.geo-pin {\n  width: 18px;\n  height: 18px;\n  border-radius: 50%;\n  border: 2px solid #fff;\n  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);\n}\n\n.geo-pin-emoji {\n  width: auto;\n  height: auto;\n  border: none;\n  border-radius: 0;\n  box-shadow: none;\n  background: transparent !important;\n  font-size: 20px;\n  line-height: 1;\n  text-shadow: 0 0 2px rgba(0, 0, 0, 0.35);\n}\n\n.maplibregl-popup-content {\n  background: var(--light);\n  color: var(--darkgray);\n  border-radius: 6px;\n  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3);\n  padding: 0.4rem 0.7rem;\n}\n\n.maplibregl-popup-content a {\n  color: var(--secondary);\n}\n\n.maplibregl-popup-tip {\n  border-top-color: var(--light);\n  border-bottom-color: var(--light);\n}\n\n.maplibregl-ctrl-attrib {\n  background: transparent !important;\n}";
 
 // src/map.inline.ts
-var map_inline_default = 'var d="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js",g="https://tiles.openfreemap.org/styles/liberty",f="https://tiles.openfreemap.org/styles/fiord",s=null;function M(){let e=window;return e.maplibregl?Promise.resolve(e.maplibregl):s||(s=new Promise((n,t)=>{let r=document.createElement("script");r.src=d,r.async=!0,r.crossOrigin="anonymous",r.onload=()=>{let o=window.maplibregl;o?n(o):t(new Error("geo-map: MapLibre GL loaded but global missing"))},r.onerror=()=>t(new Error("geo-map: failed to load MapLibre GL")),document.head.appendChild(r)}),s)}var b={landmark:"\\u{1F3DB}\\uFE0F"};function L(e){return e.replace(/[&<>"\']/g,n=>({"&":"&amp;","<":"&lt;",">":"&gt;",\'"\':"&quot;","\'":"&#39;"})[n])}function w(){return document.documentElement.getAttribute("saved-theme")==="dark"}function m(e=w()){return e?f:g}function h(e){let n=document.createElement("div"),t=e.flag||(e.icon?b[e.icon]:void 0);return t?(n.className="geo-pin geo-pin-emoji",n.textContent=t):(n.className="geo-pin",n.style.background=e.color||"#2563eb"),n}function y(e){document.querySelectorAll(".geo-map").forEach(n=>{let t=n;if(t._geoMap)return;let r=t.getAttribute("data-geo-markers");if(!r)return;let o;try{o=JSON.parse(r)}catch{return}if(!o.length)return;let i=new e.Map({container:t,style:m(),center:[0,25],zoom:1,attributionControl:{compact:!0}});t._geoMap=i,i.addControl(new e.NavigationControl({showCompass:!1}),"top-left");let c=new e.LngLatBounds;for(let a of o){let u=new e.Popup({offset:14,closeButton:!1}).setHTML(`<a href="${a.url}" class="internal">${L(a.title)}</a>`);new e.Marker({element:h(a),anchor:"center"}).setLngLat([a.lng,a.lat]).setPopup(u).addTo(i),c.extend([a.lng,a.lat])}let l=()=>{i.resize(),o.length===1?i.jumpTo({center:[o[0].lng,o[0].lat],zoom:6}):i.fitBounds(c,{padding:40,maxZoom:6,duration:0})};if(t.clientHeight>0)l();else if(typeof ResizeObserver<"u"){let a=new ResizeObserver(()=>{t.clientHeight>0&&(l(),a.disconnect())});a.observe(t)}else setTimeout(l,250)})}async function E(){if(document.querySelector(".geo-map"))try{let e=await M();y(e)}catch(e){console.error(e)}}document.addEventListener("nav",E);var p=window;p.__geoThemeHook||(p.__geoThemeHook=!0,document.addEventListener("themechange",e=>{let n=e.detail,t=m(n?.theme==="dark");document.querySelectorAll(".geo-map").forEach(r=>{let o=r._geoMap;o&&o.setStyle(t)})}));\n';
+var map_inline_default = 'var d="https://cdn.jsdelivr.net/npm/maplibre-gl@4.7.1/dist/maplibre-gl.js",g="https://tiles.openfreemap.org/styles/liberty",f="https://tiles.openfreemap.org/styles/fiord",s=null;function M(){let e=window;return e.maplibregl?Promise.resolve(e.maplibregl):s||(s=new Promise((n,t)=>{let r=document.createElement("script");r.src=d,r.async=!0,r.crossOrigin="anonymous",r.onload=()=>{let o=window.maplibregl;o?n(o):t(new Error("geo-map: MapLibre GL loaded but global missing"))},r.onerror=()=>t(new Error("geo-map: failed to load MapLibre GL")),document.head.appendChild(r)}),s)}var b={landmark:"\\u{1F3DB}\\uFE0F",museum:"\\u{1F5BC}\\uFE0F",park:"\\u{1F333}",coworking:"\\u{1F4BB}",mention:"\\u{1F4D6}"};function L(e){return e.replace(/[&<>"\']/g,n=>({"&":"&amp;","<":"&lt;",">":"&gt;",\'"\':"&quot;","\'":"&#39;"})[n])}function w(){return document.documentElement.getAttribute("saved-theme")==="dark"}function m(e=w()){return e?f:g}function h(e){let n=document.createElement("div"),t=e.flag||(e.icon?b[e.icon]:void 0);return t?(n.className="geo-pin geo-pin-emoji",n.textContent=t):(n.className="geo-pin",n.style.background=e.color||"#2563eb"),n}function k(e){document.querySelectorAll(".geo-map").forEach(n=>{let t=n;if(t._geoMap)return;let r=t.getAttribute("data-geo-markers");if(!r)return;let o;try{o=JSON.parse(r)}catch{return}if(!o.length)return;let i=new e.Map({container:t,style:m(),center:[0,25],zoom:1,attributionControl:{compact:!0}});t._geoMap=i,i.addControl(new e.NavigationControl({showCompass:!1}),"top-left");let c=new e.LngLatBounds;for(let a of o){let u=new e.Popup({offset:14,closeButton:!1}).setHTML(`<a href="${a.url}" class="internal">${L(a.title)}</a>`);new e.Marker({element:h(a),anchor:"center"}).setLngLat([a.lng,a.lat]).setPopup(u).addTo(i),c.extend([a.lng,a.lat])}let l=()=>{i.resize(),o.length===1?i.jumpTo({center:[o[0].lng,o[0].lat],zoom:6}):i.fitBounds(c,{padding:40,maxZoom:6,duration:0})};if(t.clientHeight>0)l();else if(typeof ResizeObserver<"u"){let a=new ResizeObserver(()=>{t.clientHeight>0&&(l(),a.disconnect())});a.observe(t)}else setTimeout(l,250)})}async function y(){if(document.querySelector(".geo-map"))try{let e=await M();k(e)}catch(e){console.error(e)}}document.addEventListener("nav",y);var p=window;p.__geoThemeHook||(p.__geoThemeHook=!0,document.addEventListener("themechange",e=>{let n=e.detail,t=m(n?.theme==="dark");document.querySelectorAll(".geo-map").forEach(r=>{let o=r._geoMap;o&&o.setStyle(t)})}));\n';
 
-// src/mapView.tsx
+// src/assets.ts
+var MAP_CSS = `${maplibre_css_text_default}
+${map_default}`;
+var MAP_SCRIPT = map_inline_default;
+
+// src/markers.ts
 function parseCoords(raw) {
   if (typeof raw !== "string") return null;
   const parts = raw.split(",").map((p2) => Number(p2.trim()));
   if (parts.length !== 2 || parts.some((n2) => Number.isNaN(n2))) return null;
   return [parts[0], parts[1]];
 }
+var GEO_RE = /\[([^\]]*)\]\(geo:(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)\)(?:\s*#([\w/-]+))?/g;
+function extractInlineGeo(raw) {
+  const out = [];
+  GEO_RE.lastIndex = 0;
+  let m2;
+  while ((m2 = GEO_RE.exec(raw)) !== null) {
+    out.push({ label: m2[1] || "", lat: Number(m2[2]), lng: Number(m2[3]), tag: m2[4] });
+  }
+  return out;
+}
+function tagToIcon(tag) {
+  if (!tag) return "mention";
+  return tag.replace(/^place\//, "");
+}
+
+// src/mapView.tsx
 function render({ entries, slug: slug2, allSlugs, linkResolution }) {
   const markers = [];
   for (const entry of entries) {
@@ -9944,12 +9966,99 @@ var mapViewRegistration = {
   name: "Map",
   icon: "map",
   render,
-  css: `${maplibre_css_text_default}
-${map_default}`,
-  afterDOMLoaded: map_inline_default
+  css: MAP_CSS,
+  afterDOMLoaded: MAP_SCRIPT
 };
 viewRegistry.register(mapViewRegistration);
 
-export { mapViewRegistration };
+// src/geoTransformer.ts
+var GeoLinks = () => ({
+  name: "GeoLinks",
+  markdownPlugins() {
+    return [
+      () => (_tree, file) => {
+        const raw = typeof file.value === "string" ? file.value : String(file.value ?? "");
+        const found = extractInlineGeo(raw);
+        if (found.length) file.data.geoLinks = found;
+      }
+    ];
+  }
+});
+
+// src/geoMapPage.tsx
+var SLUG = "map";
+function collectMarkers(allFiles, pageSlug, allSlugs, linkResolution) {
+  const markers = [];
+  for (const file of allFiles) {
+    const slug2 = file.slug;
+    if (!slug2) continue;
+    const fm = file.frontmatter ?? {};
+    const url = transformLink(pageSlug, slug2, { strategy: linkResolution, allSlugs });
+    const title = typeof fm.title === "string" && fm.title.length > 0 ? fm.title : file.slug || "Untitled";
+    const coords = parseCoords(fm.coordinates);
+    if (coords) {
+      markers.push({
+        title,
+        url,
+        lat: coords[0],
+        lng: coords[1],
+        color: typeof fm.color === "string" ? fm.color : void 0,
+        flag: typeof fm.flag === "string" ? fm.flag : void 0,
+        icon: typeof fm.icon === "string" ? fm.icon : void 0
+      });
+    }
+    const links = file.geoLinks ?? [];
+    for (const g3 of links) {
+      markers.push({
+        title: g3.label || title,
+        url,
+        lat: g3.lat,
+        lng: g3.lng,
+        icon: tagToIcon(g3.tag)
+      });
+    }
+  }
+  return markers;
+}
+var GeoMapBody = () => {
+  const Body = ({ fileData, allFiles, cfg }) => {
+    const pageSlug = fileData.slug ?? SLUG;
+    const allSlugs = allFiles.map((f3) => f3.slug).filter((s3) => typeof s3 === "string");
+    const linkResolution = cfg.geoMapLinkResolution ?? "shortest";
+    const markers = collectMarkers(allFiles, pageSlug, allSlugs, linkResolution);
+    return /* @__PURE__ */ u2("div", { class: "geo-map-wrapper", children: markers.length === 0 ? /* @__PURE__ */ u2("div", { class: "geo-map-empty", children: [
+      "No geolocated notes yet \u2014 add a ",
+      /* @__PURE__ */ u2("code", { children: "coordinates" }),
+      " property or an inline",
+      " ",
+      /* @__PURE__ */ u2("code", { children: "[name](geo:lat,lng)" }),
+      " link."
+    ] }) : /* @__PURE__ */ u2("div", { class: "geo-map", "data-geo-markers": JSON.stringify(markers) }) });
+  };
+  Body.css = MAP_CSS;
+  Body.afterDOMLoaded = MAP_SCRIPT;
+  return Body;
+};
+var GeoMapPage = () => ({
+  name: "GeoMapPage",
+  priority: 20,
+  match: ({ fileData }) => "isGeoMapPage" in fileData,
+  generate() {
+    return [
+      {
+        slug: SLUG,
+        title: "Map",
+        data: {
+          frontmatter: { title: "Map", tags: [] },
+          isGeoMapPage: true
+        }
+      }
+    ];
+  },
+  layout: "content",
+  body: GeoMapBody
+});
+
+export { GeoLinks, GeoMapPage, mapViewRegistration };
 //# sourceMappingURL=index.js.map
 //# sourceMappingURL=index.js.map
