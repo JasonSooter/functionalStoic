@@ -14,5 +14,3 @@ architect: "[[Gustave Eiffel]]"
 color: red
 icon: landmark
 ---
-
-![[Map View.base|Map]]
