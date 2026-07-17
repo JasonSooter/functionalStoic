@@ -15,4 +15,4 @@ color: red
 icon: landmark
 ---
 
-![[Places.base|Map]]
+![[Map View.base|Map]]
