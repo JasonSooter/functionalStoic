@@ -2,8 +2,8 @@
 publish: true
 title: United States
 created: 2025-05-31T02:24:43.925Z
-modified: 2026-07-17T16:08:30.365Z
-published: 2026-07-17T16:08:30.365Z
+modified: 2026-07-17T19:27:29.222Z
+published: 2026-07-17T19:27:29.222Z
 tags:
   - places
 linter-yaml-title-alias: United States
@@ -33,7 +33,7 @@ WHERE contains(file.path, this.file.name)
 
 ## Summary
 
-The United States of America (USA) is a country primarily located in North America. It consists of 50 states, a federal district (Washington, D.C., which is the capital), five major unincorporated territories, and various possessions. The contiguous 48 states and Washington, D.C. are located in central North America between Canada to the north and Mexico to the south. Alaska is in the northwest region of North America, bordered by Canada to the east and the Arctic and Pacific Oceans to the north and west. Hawaii, a state and archipelago, is located in the central Pacific Ocean.
+The United States of America (USA) is a country primarily located in North America. It consists of 50 states, a federal district (Washington, D.C., which is the capital), five major unincorporated territories, and various possessions. The contiguous 48 states and Washington, D.C. are located in central North America between Canada to the north and [[Mexico]] to the south. Alaska is in the northwest region of North America, bordered by Canada to the east and the Arctic and Pacific Oceans to the north and west. Hawaii, a state and archipelago, is located in the central Pacific Ocean.
 
 The USA is a federal republic and a representative democracy with three branches of government: executive (headed by the President), legislative (comprising Congress, which includes the Senate and the House of Representatives), and judicial (led by the Supreme Court).
 

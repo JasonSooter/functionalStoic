@@ -2,13 +2,13 @@
 publish: true
 title: Mexico City
 created: 2024-12-22T21:32:36.142Z
-modified: 2026-07-17T16:08:34.740Z
-published: 2026-07-17T16:08:34.740Z
+modified: 2026-07-17T19:27:12.226Z
+published: 2026-07-17T19:27:12.226Z
 tags:
   - places
 linter-yaml-title-alias: Mexico City
-date created: 2024-12-22T14:32:36-07:00
-date modified: 2026-02-21T09:56:46-07:00
+date created: 2024-12-22T22:32:36+01:00
+date modified: 2026-07-17T21:27:11+02:00
 categories:
   - "[[Places]]"
 coordinates: 19.4326,-99.1332
@@ -16,7 +16,7 @@ color: green
 icon: building-2
 ---
 
-# Mexico City
+# [[Mexico City]]
 
 ## Summary
 
@@ -42,7 +42,7 @@ icon: building-2
 
 ## Maria's Comments
 
-In Mexico City, the things we enjoyed the most were:
+In [[Mexico City]], the things we enjoyed the most were:
 
 - Taking a hop on, hop off bus to get a lay of the land. There's a stop right in la Roma.
 - going to the ruins under the main cathedral in the Zocalo (main square)
