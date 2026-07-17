@@ -139,6 +139,12 @@
       "commit": "6ed61928d3c0178d7cef972ebcbca6a206a2f065",
       "installedAt": "2026-07-08T19:10:18.797Z"
     },
+    "geo-map": {
+      "source": "./plugins/geo-map",
+      "resolved": "./plugins/geo-map",
+      "commit": "local",
+      "installedAt": "2026-07-17T15:05:19.283Z"
+    },
     "github-flavored-markdown": {
       "source": "github:quartz-community/github-flavored-markdown",
       "resolved": "https://github.com/quartz-community/github-flavored-markdown.git",
