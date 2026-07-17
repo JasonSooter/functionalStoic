@@ -8,10 +8,6 @@ configuration:
     provider: plausible
   locale: en-US
   baseUrl: notes.jasonsooter.com
-  # Path-based safety net. Primary opt-in gate is the quartz-syncer plugin
-  # (allNotesPublishableByDefault: false) + the explicit-publish plugin below;
-  # these patterns prevent private folders from rendering even if a note is
-  # accidentally flagged to publish.
   ignorePatterns:
     - private
     - templates
@@ -33,10 +29,6 @@ configuration:
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
-      # Palette aligned with jasonsooter.com: white/near-black with a blue
-      # accent (light) and a gray-950 background (dark). Roles: light=page bg,
-      # lightgray=borders, gray=muted, darkgray=body text, dark=headings,
-      # secondary=links/accent, tertiary=hover.
       lightMode:
         light: "#ffffff"
         lightgray: "#e5e7eb"
@@ -117,10 +109,6 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
-  # Hard requirement: ONLY notes with `publish: true` frontmatter are built.
-  # explicit-publish is the build-time backstop; remove-draft is disabled so
-  # the gate is strictly opt-in (not opt-out). Requires quartz-syncer
-  # `includeAllFrontmatter: true` so the publish key survives into content/.
   - source: github:quartz-community/remove-draft
     enabled: false
   - source: github:quartz-community/explicit-publish
@@ -180,7 +168,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: github:quartz-community/tag-list
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -208,7 +196,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options: {}
@@ -218,10 +206,6 @@ plugins:
   - source: github:quartz-community/footer
     enabled: true
     options:
-      # Interim site-wide section nav (mirrors jasonsooter.com). This loader has
-      # no top/sidebar "links" slot, so the footer is the supported place for
-      # arbitrary section links until a dedicated nav component is added during
-      # the migration. Some targets 404 until their content is migrated.
       links:
         About: /about
         My Notes: https://publish.obsidian.md/functional-stoic
@@ -232,7 +216,7 @@ plugins:
         Projects: /projects
         Tags: /tags
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -284,6 +268,14 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
+    enabled: true
+    order: 50
+    options:
+      theme: anuppuccin
 layout:
   groups:
     toolbar:
