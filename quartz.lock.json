@@ -141,7 +141,7 @@
     },
     "geo-map": {
       "source": "./plugins/geo-map",
-      "resolved": "/Users/jasonsooter/dev-space/functionalStoic/plugins/geo-map",
+      "resolved": "./plugins/geo-map",
       "commit": "local",
       "installedAt": "2026-07-17T15:05:19.283Z"
     },

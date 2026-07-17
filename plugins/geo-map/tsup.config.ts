@@ -3,8 +3,8 @@ import type { Plugin } from "esbuild";
 import path from "path";
 
 // Compiles `.scss` -> CSS string, reads `.css` -> string, and bundles
-// `*.inline.ts` browser scripts (including their imports, e.g. leaflet) into a
-// minified string. Mirrors the loader used by @quartz-community/graph.
+// `*.inline.ts` browser scripts (with their imports) into a minified string.
+// Mirrors the loader used by @quartz-community/graph.
 const inlineAssetPlugin: Plugin = {
   name: "inline-asset-loader",
   setup(parentBuild) {

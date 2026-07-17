@@ -109,15 +109,16 @@ function initGeoMaps(maplibregl: MapLibre) {
       style: styleUrl(),
       center: [0, 25],
       zoom: 1,
-      attributionControl: { compact: true },
+      attributionControl: false,
     });
     container._geoMap = map;
+    map.addControl(new maplibregl.AttributionControl({ compact: true }), "bottom-right");
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-left");
 
     const bounds = new maplibregl.LngLatBounds();
     for (const m of markers) {
       const popup = new maplibregl.Popup({ offset: 14, closeButton: false }).setHTML(
-        `<a href="${m.url}" class="internal">${escapeHtml(m.title)}</a>`,
+        `<a href="${escapeHtml(m.url)}" class="internal">${escapeHtml(m.title)}</a>`,
       );
       new maplibregl.Marker({ element: markerElement(m), anchor: "center" })
         .setLngLat([m.lng, m.lat])

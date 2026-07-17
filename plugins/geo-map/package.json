@@ -1,7 +1,7 @@
 {
   "name": "@functionalstoic/geo-map",
   "version": "0.1.0",
-  "description": "Leaflet map view for Quartz Bases + a vault-wide geo map of inline geo: links.",
+  "description": "MapLibre GL map view for Quartz Bases + a vault-wide /map of inline geo: links.",
   "type": "module",
   "license": "MIT",
   "author": "Jason Sooter",
