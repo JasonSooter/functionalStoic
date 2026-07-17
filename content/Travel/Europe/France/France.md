@@ -5,8 +5,8 @@ aliases:
   - Paris
 title: France
 created: 2024-10-05T01:12:38.489Z
-modified: 2026-07-17T15:37:30.507Z
-published: 2026-07-17T15:37:30.507Z
+modified: 2026-07-17T16:08:36.789Z
+published: 2026-07-17T16:08:36.789Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/france
@@ -41,7 +41,6 @@ flag: 🇫🇷
 
 🙋
 ✨
-[Source]()
 
 ---
 
@@ -67,7 +66,6 @@ flag: 🇫🇷
 
 🙋
 ✨
-[Source]()
 
 ---
 

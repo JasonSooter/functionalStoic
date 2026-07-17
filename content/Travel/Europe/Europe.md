@@ -2,13 +2,13 @@
 publish: true
 title: Europe
 created: 2024-01-04T21:17:33.000Z
-modified: 2026-07-17T15:37:46.019Z
-published: 2026-07-17T15:37:46.019Z
+modified: 2026-07-17T19:50:15.598Z
+published: 2026-07-17T19:50:15.598Z
 tags:
   - places
 aliases:
 date created: 2023-09-26T12:52:39+02:00
-date modified: 2026-02-21T09:56:46-07:00
+date modified: 2026-07-17T21:50:13+02:00
 linter-yaml-title-alias: Europe
 categories:
   - "[[Places]]"
@@ -19,18 +19,17 @@ icon: globe
 
 # Europe
 
-- [[Austria|Austria]]
-- [[Travel/Europe/Europe.md|Europe]]
-- [[Finland|Finland]]
-- [[France|France]]
-- [[Germany|Germany 1]]
-- [[Netherlands|Netherlands]]
-- [[Belgium|Belgium]]
-- [[Portugal|Portugal]]
-- [[Denmark|Denmark]]
-- [[Sweden|Sweden]]
-- [[Norway|Norway]]
-- [[Spain|Spain]]
+- [[Austria]]
+- [[Finland]]
+- [[France]]
+- [[Germany|Germany]]
+- [[Netherlands]]
+- [[Belgium]]
+- [[Portugal]]
+- [[Denmark]]
+- [[Sweden]]
+- [[Norway]]
+- [[Spain]]
 
 ## Summary
 
@@ -143,7 +142,6 @@ I'm sorry, but could you provide more context or specify which "Untitled" work y
 
 > [!question] Title
 > Contents
-> [Source]()
 
 ## Content
 

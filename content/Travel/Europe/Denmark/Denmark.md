@@ -1,20 +1,18 @@
 ---
 publish: true
-aliases:
-  - Copenhagen, Denmark
-  - Copenhagen
 title: Denmark
 created: 2024-10-05T01:12:37.477Z
-modified: 2026-07-17T15:37:27.043Z
-published: 2026-07-17T15:37:27.043Z
+modified: 2026-07-17T16:18:34.860Z
+published: 2026-07-17T16:18:34.860Z
 tags:
   - travel/europe/denmark
   - travel/europe/denmark/copenhagen
   - travel/europe/europe-2023
   - places
-date created: 2023-12-11T21:11:51-07:00
-date modified: 2026-02-21T09:56:46-07:00
+date created: 2024-10-05T03:12:37+02:00
+date modified: 2026-07-17T18:18:34+02:00
 linter-yaml-title-alias: Denmark
+aliases:
 categories:
   - "[[Places]]"
 coordinates: 55.6761,12.5683
@@ -24,6 +22,8 @@ flag: 🇩🇰
 ---
 
 # Denmark
+
+- [[Copenhagen]]
 
 ## Summary
 
@@ -42,57 +42,10 @@ flag: 🇩🇰
 
 🙋
 ✨
-[Source]()
 
 ---
 
 ## Content
-
-## Copenhagen
-
-- Author: Jason Sooter
-- Notebook:
-- Review:
-
-### Summary
-
-- [Photo Album](https://photos.google.com/share/AF1QipPoYwP1foQnLLwWNVISrtexmSeX-yiUpD62A6kH2XEqn-2BYOUKT2wEphZHBM5-OQ?obfsgid=107485953341554495988\&email=jason.sooter@gmail.com\&key=V1ZINkJ0YjdiQTFHSEJHWjEzNm9rUmVwRlVDb0dR)
-
-### Key Ideas
-
-- Stefano at the Stella Rosa Bike Shop
-  - Bike Shop Address
-    - STELLA ROSSA CYKLER - CVR 35082859
-    - Oehlenschlagersgade 26, kld.tv.
-    - 663 Kobenhavn V
-    - stefano.clari@gmail.com - Tel. +45.60641523
-  - I had such a wonderful discussion with him
-- Kastellet
-- Experimentarium
-- Amager Bakke / Copenhill
-- Thomas Dambo Trolls
-  - Captain Nalle
-
-### Further Lines of Inquiry
-
-### Quotes
-
-### Todo
-
-### Tags
-
-### Resources Mentioned
-
-- Public Transportation
-  - Skånetrafiken:
-    - Train from [[Sweden|Sweden]] → Copenhagen
-    - Mobile App: [Skånetrafiken - Apps on Google Play](https://play.google.com/store/apps/details?id=se.skanetrafiken.washington\&hl=en_US\&gl=US)
-    - I had to get a Swedish number through Twilio to get this to work. It would not send to my US number and it was required for verification. Buying tickets at the station might have made more sense
-
-### What We Did
-
-- Visited the Castelet
-  - [A star fort like all of these](https://www.theatlantic.com/photo/2023/11/photos-star-forts/675936/)
 
 ## Relocating to Denmark
 
@@ -113,7 +66,6 @@ flag: 🇩🇰
 
 🙋
 ✨
-[Source]()
 
 ---
 

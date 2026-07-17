@@ -1,13 +1,9 @@
 ---
 publish: true
-aliases:
-  - Boom, Belgium
-  - Antwerp, Belgium
-  - Antwerp
 title: Belgium
 created: 2024-10-05T01:12:36.403Z
-modified: 2026-07-17T15:37:25.021Z
-published: 2026-07-17T15:37:25.021Z
+modified: 2026-07-17T16:17:21.621Z
+published: 2026-07-17T16:17:21.621Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/belgium
@@ -16,7 +12,8 @@ cssclasses:
   - banner-image
 linter-yaml-title-alias: Belgium
 date created: 2023-09-26T13:22:28+02:00
-date modified: 2026-02-21T09:56:46-07:00
+date modified: 2026-07-17T18:17:06+02:00
+aliases:
 cssclass: banner-image
 categories:
   - "[[Places]]"
@@ -31,10 +28,10 @@ locations:
 flag: 🇧🇪
 ---
 
-- [[#Antwerp]]
-- [[#Boom]]
-
 # Belgium
+
+- [[Antwerp]]
+- [[Boom]]
 
 ## Summary
 
@@ -50,17 +47,9 @@ flag: 🇧🇪
 
 🙋
 ✨
-[Source]()
 
 ---
 
 ## Content
 
-### Boom
-
-### Antwerp
-
-- [Europe '23: Belgium - Google Photos](https://photos.google.com/share/AF1QipNx-nNZ2o4pWIyy5qBhOsmBnh6CbbhwxBVBzXn3b5POQIF4a_hbbjT9fg4PKupcRQ)
-- Public Transit
-  - De Lijn App (City of Antwerp)
-  - SNCB International ([[Trains]] in / out of Belgium)
+[[Boom]]

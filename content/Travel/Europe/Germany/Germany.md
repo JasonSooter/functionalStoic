@@ -5,15 +5,15 @@ aliases:
   - Berlin
 title: Germany
 created: 2024-08-10T03:01:42.779Z
-modified: 2026-07-17T15:37:32.024Z
-published: 2026-07-17T15:37:32.024Z
+modified: 2026-07-17T16:51:11.901Z
+published: 2026-07-17T16:51:11.901Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/germany/berlin
   - travel/europe/germany
   - places
 date created: 2023-08-31T18:44:43+02:00
-date modified: 2026-07-17T17:36:02+02:00
+date modified: 2026-07-17T18:07:50+02:00
 linter-yaml-title-alias: Germany
 categories:
   - "[[Places]]"
@@ -48,7 +48,6 @@ flag: 🇩🇪
 
 🙋
 ✨
-[Source]()
 
 ---
 
@@ -120,6 +119,5 @@ Germany is renowned for its cultural events like Oktoberfest, classical composer
 
 > [!question] Title
 > Contents
-> [Source]()
 
 ## Content

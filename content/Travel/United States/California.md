@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-07-17T15:37:48.013Z
-published: 2026-07-17T15:37:48.013Z
+modified: 2026-07-17T16:08:32.957Z
+published: 2026-07-17T16:08:32.957Z
 tags:
   - places
 linter-yaml-title-alias: California
@@ -32,7 +32,6 @@ icon: map
 
 🙋
 ✨
-[Source]()
 
 ---
 

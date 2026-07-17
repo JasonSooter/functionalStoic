@@ -7,8 +7,8 @@ aliases:
   - Stockholm, Sweden
 title: Sweden
 created: 2024-10-05T01:15:15.417Z
-modified: 2026-07-17T15:37:42.616Z
-published: 2026-07-17T15:37:42.616Z
+modified: 2026-07-17T16:08:35.932Z
+published: 2026-07-17T16:08:35.932Z
 tags:
   - travel/europe/sweden/malmo
   - travel/europe/europe-2023
@@ -50,7 +50,6 @@ flag: 🇸🇪
 
 🙋
 ✨
-[Source]()
 
 ---
 
