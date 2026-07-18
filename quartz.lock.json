@@ -139,12 +139,6 @@
       "commit": "6ed61928d3c0178d7cef972ebcbca6a206a2f065",
       "installedAt": "2026-07-08T19:10:18.797Z"
     },
-    "geo-map": {
-      "source": "./plugins/geo-map",
-      "resolved": "./plugins/geo-map",
-      "commit": "local",
-      "installedAt": "2026-07-17T15:05:19.283Z"
-    },
     "github-flavored-markdown": {
       "source": "github:quartz-community/github-flavored-markdown",
       "resolved": "https://github.com/quartz-community/github-flavored-markdown.git",
@@ -198,6 +192,23 @@
       "resolved": "https://github.com/quartz-community/page-title.git",
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-07-08T19:10:17.957Z"
+    },
+    "quartz-geo-map": {
+      "source": "github:JasonSooter/quartz-geo-map",
+      "resolved": "https://github.com/JasonSooter/quartz-geo-map.git",
+      "commit": "9d6d1f4e97ad297c7240c7960b21d0c26c6dc684",
+      "installedAt": "2026-07-18T05:56:07.958Z"
+    },
+    "quartz-themes": {
+      "source": {
+        "name": "quartz-themes",
+        "repo": "github:saberzero1/quartz-themes",
+        "subdir": "plugin"
+      },
+      "resolved": "https://github.com/saberzero1/quartz-themes.git",
+      "commit": "97eda25157952db578a5dfb920738fe2d535548e",
+      "subdir": "plugin",
+      "installedAt": "2026-07-18T05:56:07.994Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",

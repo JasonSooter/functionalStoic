@@ -229,12 +229,7 @@ plugins:
     enabled: true
     options: {}
     order: 50
-  # Local plugin: registers a MapLibre GL "map" view type into bases-page's
-  # viewRegistry so `type: map` base views render as an interactive map, and
-  # generates a /map page aggregating inline geo: links across all notes.
-  # Must load BEFORE bases-page (order 50) so the view is registered before
-  # BasesBody snapshots the registry for its afterDOMLoaded scripts.
-  - source: ./plugins/geo-map
+  - source: github:JasonSooter/quartz-geo-map
     enabled: true
     order: 45
   - source: github:quartz-community/note-properties
