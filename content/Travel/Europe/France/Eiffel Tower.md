@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-17T13:25:56.183Z
-modified: 2026-07-17T17:03:05.879Z
-published: 2026-07-17T17:03:05.879Z
+modified: 2026-07-17T19:58:19.417Z
+published: 2026-07-17T19:58:19.417Z
 categories:
   - "[[Places]]"
 type:

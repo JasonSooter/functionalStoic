@@ -2,8 +2,8 @@
 publish: true
 title: Europe
 created: 2024-01-04T21:17:33.000Z
-modified: 2026-07-17T19:50:15.598Z
-published: 2026-07-17T19:50:15.598Z
+modified: 2026-07-17T19:55:11.936Z
+published: 2026-07-17T19:55:11.936Z
 tags:
   - places
 aliases:
@@ -64,7 +64,7 @@ The route consists of 10 cities:
 7. [[Belgium]]
 8. [[France]]
 9. [[Spain|Barcelona, Spain]]
-10. [[Portugal]]
+10. [[Lisbon]]
 
 # Taking Europe for Granted
 
