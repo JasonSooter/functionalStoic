@@ -2,16 +2,16 @@
 publish: true
 title: Europe
 created: 2024-01-04T21:17:33.000Z
-modified: 2026-07-17T19:55:11.936Z
-published: 2026-07-17T19:55:11.936Z
+modified: 2026-07-19T13:59:17.259Z
+published: 2026-07-19T13:59:17.259Z
 tags:
   - places
 aliases:
 date created: 2023-09-26T12:52:39+02:00
-date modified: 2026-07-17T21:50:13+02:00
+date modified: 2026-07-19T15:59:15+02:00
 linter-yaml-title-alias: Europe
 categories:
-  - "[[Places]]"
+  - Places
 coordinates: 54.5260,15.2551
 color: grey
 icon: globe
