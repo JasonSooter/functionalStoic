@@ -261,6 +261,9 @@ plugins:
   - source: github:JasonSooter/quartz-geo-map
     enabled: true
     order: 45
+  - source: github:JasonSooter/quartz-folder-note-links
+    enabled: true
+    order: 65
   - source: github:quartz-community/note-properties
     enabled: true
     options:
