@@ -193,6 +193,12 @@
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-07-08T19:10:17.957Z"
     },
+    "quartz-folder-note-links": {
+      "source": "github:JasonSooter/quartz-folder-note-links",
+      "resolved": "https://github.com/JasonSooter/quartz-folder-note-links.git",
+      "commit": "dca3a0974d836cab7aa02e6533af645f1df64089",
+      "installedAt": "2026-07-19T17:09:51.496Z"
+    },
     "quartz-geo-map": {
       "source": "github:JasonSooter/quartz-geo-map",
       "resolved": "https://github.com/JasonSooter/quartz-geo-map.git",
