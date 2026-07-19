@@ -2,7 +2,7 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
   "installCommand": "npm ci",
-  "buildCommand": "rm -rf .quartz/plugins && npx quartz plugin install && npx quartz build",
+  "buildCommand": "sh scripts/vercel-build.sh",
   "outputDirectory": "public",
   "cleanUrls": true,
   "trailingSlash": false
