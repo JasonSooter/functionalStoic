@@ -141,38 +141,10 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
-    options:
-      localGraph:
-        drag: true
-        zoom: true
-        depth: 2
-        scale: 1.1
-        repelForce: 0.5
-        centerForce: 0.3
-        linkDistance: 30
-        fontSize: 0.6
-        opacityScale: 1
-        showTags: false
-        removeTags: []
-        focusOnHover: false
-        enableRadial: false
-      globalGraph:
-        drag: true
-        zoom: true
-        depth: -1
-        scale: 0.9
-        repelForce: 0.5
-        centerForce: 0.2
-        linkDistance: 30
-        fontSize: 0.6
-        opacityScale: 1
-        showTags: false
-        removeTags: []
-        focusOnHover: true
-        enableRadial: true
     layout:
       position: right
       priority: 10
+    options: {}
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -261,9 +233,6 @@ plugins:
   - source: github:JasonSooter/quartz-geo-map
     enabled: true
     order: 45
-  - source: github:JasonSooter/quartz-folder-note-links
-    enabled: true
-    order: 65
   - source: github:quartz-community/note-properties
     enabled: true
     options:
@@ -327,8 +296,12 @@ layout:
     folder:
       exclude:
         - reader-mode
+      positions:
+        right: []
     tag:
       exclude:
         - reader-mode
+      positions:
+        right: []
     canvas: {}
     bases: {}
