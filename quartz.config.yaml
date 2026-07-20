@@ -150,7 +150,6 @@ plugins:
         depth: 2
       globalGraph:
         showTags: false
-        depth: 2
   - source: github:quartz-community/search
     enabled: true
     layout:
