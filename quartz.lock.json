@@ -145,12 +145,6 @@
       "commit": "3eabbaa252ce175665ab3f62e1af25948a83e8b6",
       "installedAt": "2026-07-08T19:10:03.526Z"
     },
-    "graph": {
-      "source": "github:quartz-community/graph",
-      "resolved": "https://github.com/quartz-community/graph.git",
-      "commit": "46f0ba1c3c0cc484697572e7bcf315fa384d80d2",
-      "installedAt": "2026-07-08T19:10:15.661Z"
-    },
     "hard-line-breaks": {
       "source": "github:quartz-community/hard-line-breaks",
       "resolved": "https://github.com/quartz-community/hard-line-breaks.git",
@@ -204,6 +198,12 @@
       "resolved": "https://github.com/JasonSooter/quartz-geo-map.git",
       "commit": "ee5af0c485ce8c0c46fbd80793238b2e5f781077",
       "installedAt": "2026-07-19T19:10:34.797Z"
+    },
+    "quartz-graph": {
+      "source": "github:JasonSooter/quartz-graph",
+      "resolved": "https://github.com/JasonSooter/quartz-graph.git",
+      "commit": "b5cc41b1f4b19454a256a07e4300b6a3255bc8cf",
+      "installedAt": "2026-07-20T07:37:37.037Z"
     },
     "quartz-themes": {
       "source": {
