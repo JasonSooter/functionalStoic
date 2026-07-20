@@ -13,6 +13,13 @@ permissions:
   pull-requests: write
   issues: write
 
+# Only one sync may run at a time so a scheduled run and a manual dispatch can't
+# race on pushing the same branch or opening duplicate PRs. Queue, don't cancel —
+# an in-flight merge/PR should finish rather than be interrupted.
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -31,14 +38,17 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git remote add upstream https://github.com/jackyzha0/quartz.git
-          git fetch --no-tags upstream v5
+          # Explicit refspec so refs/remotes/upstream/v5 always exists (a bare
+          # `fetch upstream v5` can miss it if v5 ever collides with a tag name).
+          git fetch --no-tags upstream +refs/heads/v5:refs/remotes/upstream/v5
 
           if git merge-base --is-ancestor upstream/v5 HEAD; then
             echo "Already up to date with upstream/v5 — nothing to sync."
             exit 0
           fi
 
-          BRANCH="sync/upstream-v5-$(date +%Y%m%d)"
+          # Include the run id so same-day re-runs get distinct branches.
+          BRANCH="sync/upstream-v5-$(date +%Y%m%d)-${GITHUB_RUN_ID}"
           git checkout -b "$BRANCH"
 
           if git merge --no-edit upstream/v5; then
