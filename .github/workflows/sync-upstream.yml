@@ -1,0 +1,54 @@
+name: Sync upstream Quartz v5
+
+# This site is a fork of jackyzha0/quartz. Dependency + core updates come from
+# upstream (vetted together), not from one-off Dependabot version bumps. This
+# workflow merges upstream/v5 monthly and opens a PR so you can review + deploy.
+on:
+  schedule:
+    - cron: "0 6 1 * *" # 06:00 UTC on the 1st of each month
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Merge upstream/v5 and open a PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git remote add upstream https://github.com/jackyzha0/quartz.git
+          git fetch --no-tags upstream v5
+
+          if git merge-base --is-ancestor upstream/v5 HEAD; then
+            echo "Already up to date with upstream/v5 — nothing to sync."
+            exit 0
+          fi
+
+          BRANCH="sync/upstream-v5-$(date +%Y%m%d)"
+          git checkout -b "$BRANCH"
+
+          if git merge --no-edit upstream/v5; then
+            git push origin "$BRANCH"
+            gh pr create --base main --head "$BRANCH" \
+              --title "Sync upstream Quartz v5 ($(date +%Y-%m-%d))" \
+              --body "Automated monthly merge of \`jackyzha0/quartz@v5\` — carries upstream's dependency bumps and fixes. Review the diff + Vercel preview, then merge. If the lockfile looks off, run \`npm install\` on the branch."
+          else
+            git merge --abort
+            gh issue create \
+              --title "Upstream v5 sync needs a manual merge ($(date +%Y-%m-%d))" \
+              --body $'The scheduled upstream sync hit merge conflicts. Resolve locally:\n\n```\ngit fetch upstream\ngit merge upstream/v5\n# resolve conflicts (for quartz.lock.json / package-lock.json run npm install), then open a PR\n```'
+          fi
