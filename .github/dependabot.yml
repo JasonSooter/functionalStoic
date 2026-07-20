@@ -1,20 +1,15 @@
 version: 2
+# This repo is a FORK of jackyzha0/quartz (Quartz v5, vendored under quartz/).
+# Core dependency bumps must arrive from upstream — vetted and tested together —
+# by merging `upstream/v5` (see .github/workflows/sync-upstream.yml), NOT as
+# one-off registry-latest PRs (which diverge us, e.g. a premature TypeScript 7).
+#
+# So version-update PRs are disabled here (open-pull-requests-limit: 0).
+# Dependabot SECURITY updates are unaffected by this limit — they still fire,
+# controlled by repo Settings → Code security → Dependabot, so CVEs surface.
 updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"
-    groups:
-      production-dependencies:
-        applies-to: "version-updates"
-        patterns:
-          - "*"
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-    groups:
-      ci-dependencies:
-        applies-to: "version-updates"
-        patterns:
-          - "*"
+    open-pull-requests-limit: 0
