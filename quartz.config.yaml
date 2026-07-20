@@ -280,6 +280,10 @@ plugins:
     order: 50
     options:
       theme: anuppuccin
+  - source: github:JasonSooter/quartz-folder-note-links,
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
