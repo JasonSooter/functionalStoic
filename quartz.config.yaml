@@ -287,7 +287,7 @@ plugins:
       theme: anuppuccin
   - source: github:JasonSooter/quartz-folder-note-links
     enabled: true
-    order: 50
+    order: 65
     options: {}
 layout:
   groups:
