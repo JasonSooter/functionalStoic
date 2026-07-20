@@ -196,8 +196,8 @@
     "quartz-folder-note-links": {
       "source": "github:JasonSooter/quartz-folder-note-links",
       "resolved": "https://github.com/JasonSooter/quartz-folder-note-links.git",
-      "commit": "dca3a0974d836cab7aa02e6533af645f1df64089",
-      "installedAt": "2026-07-19T17:09:51.496Z"
+      "commit": "89ea0d6001a8f756306c36c3a87acb107e206400",
+      "installedAt": "2026-07-19T20:14:03.784Z"
     },
     "quartz-geo-map": {
       "source": "github:JasonSooter/quartz-geo-map",
