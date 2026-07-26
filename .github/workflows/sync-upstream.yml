@@ -74,22 +74,25 @@ jobs:
 
           git push origin "$BRANCH"
 
-          PR_BODY="Automated merge of \`jackyzha0/quartz@v5\`. The fork's structural divergences (removed CI workflows, kept quartz.lock.json) were auto-resolved in the fork's favour; any content conflicts would have stopped the run instead. Review the diff + Vercel preview, then merge."
-          COMPARE="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/compare/main...${BRANCH}?expand=1"
+          # Conventional-commit title + the repo's standard PR description template.
+          TITLE="chore: sync upstream Quartz v5 ($(date +%Y-%m-%d))"
+          BODY=$'## Before this PR\n- The fork is behind `jackyzha0/quartz@v5`.\n\n## After this PR\n- Merged the latest upstream Quartz `v5` (engine, CLI, components, deps). Fork-specific divergences (removed CI workflows, kept `quartz.lock.json`) were auto-resolved in favour of the fork.\n\n## Reason that prompted this change\n- Scheduled/manual upstream sync to pick up upstream fixes and improvements.\n\n## Test Plan\n- Review the diff and confirm the Vercel preview build is green + key pages render.'
 
           # Try to open the PR automatically. On a fork the GITHUB_TOKEN often
           # can't (createPullRequest → "not accessible by integration"), so fall
-          # back to a one-click compare link and still succeed.
-          if gh pr create --base main --head "$BRANCH" \
-               --title "Sync upstream Quartz v5 ($(date +%Y-%m-%d))" --body "$PR_BODY"; then
+          # back to a compare link pre-filled with the title + body, and still succeed.
+          if gh pr create --base main --head "$BRANCH" --title "$TITLE" --body "$BODY"; then
             echo "Opened the sync PR."
           else
-            echo "::notice::Auto-PR not permitted (fork token). Branch pushed — open the PR: $COMPARE"
+            ET=$(jq -rn --arg s "$TITLE" '$s|@uri')
+            EB=$(jq -rn --arg s "$BODY" '$s|@uri')
+            COMPARE="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/compare/main...${BRANCH}?expand=1&title=${ET}&body=${EB}"
+            echo "::notice::Auto-PR not permitted (fork token). Open the pre-filled PR: $COMPARE"
             {
               echo "### Upstream sync branch pushed 🚀"
               echo ""
               echo "The merge is ready but the token couldn't auto-open a PR (fork limitation)."
               echo ""
-              echo "**[→ Create the sync PR]($COMPARE)**"
+              echo "**[→ Create the sync PR (pre-filled title + body)]($COMPARE)**"
             } >> "$GITHUB_STEP_SUMMARY"
           fi
