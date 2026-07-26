@@ -72,6 +72,23 @@ jobs:
           fi
 
           git push origin "$BRANCH"
-          gh pr create --base main --head "$BRANCH" \
-            --title "Sync upstream Quartz v5 ($(date +%Y-%m-%d))" \
-            --body "Automated merge of \`jackyzha0/quartz@v5\`. The fork's structural divergences (removed CI workflows, kept quartz.lock.json) were auto-resolved in the fork's favour; any content conflicts would have stopped the run instead. Review the diff + Vercel preview, then merge."
+
+          PR_BODY="Automated merge of \`jackyzha0/quartz@v5\`. The fork's structural divergences (removed CI workflows, kept quartz.lock.json) were auto-resolved in the fork's favour; any content conflicts would have stopped the run instead. Review the diff + Vercel preview, then merge."
+          COMPARE="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/compare/main...${BRANCH}?expand=1"
+
+          # Try to open the PR automatically. On a fork the GITHUB_TOKEN often
+          # can't (createPullRequest → "not accessible by integration"), so fall
+          # back to a one-click compare link and still succeed.
+          if gh pr create --base main --head "$BRANCH" \
+               --title "Sync upstream Quartz v5 ($(date +%Y-%m-%d))" --body "$PR_BODY"; then
+            echo "Opened the sync PR."
+          else
+            echo "::notice::Auto-PR not permitted (fork token). Branch pushed — open the PR: $COMPARE"
+            {
+              echo "### Upstream sync branch pushed 🚀"
+              echo ""
+              echo "The merge is ready but the token couldn't auto-open a PR (fork limitation)."
+              echo ""
+              echo "**[→ Create the sync PR]($COMPARE)**"
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
