@@ -1,8 +1,8 @@
 name: Sync upstream Quartz v5
 
-# This site is a fork of jackyzha0/quartz. Dependency + core updates come from
-# upstream (vetted together), not from one-off Dependabot version bumps. This
-# workflow merges upstream/v5 monthly and opens a PR so you can review + deploy.
+# This site is a fork of jackyzha0/quartz. Core updates come from upstream
+# (vetted together), not from one-off Dependabot version bumps. This workflow
+# merges upstream/v5 monthly and opens a PR to review + deploy.
 on:
   schedule:
     - cron: "0 6 1 * *" # 06:00 UTC on the 1st of each month
@@ -11,11 +11,9 @@ on:
 permissions:
   contents: write
   pull-requests: write
-  issues: write
 
-# Only one sync may run at a time so a scheduled run and a manual dispatch can't
-# race on pushing the same branch or opening duplicate PRs. Queue, don't cancel —
-# an in-flight merge/PR should finish rather than be interrupted.
+# Only one sync at a time so a scheduled run and a manual dispatch can't race on
+# the branch push / duplicate PRs. Queue, don't cancel an in-flight merge.
 concurrency:
   group: sync-upstream
   cancel-in-progress: false
@@ -25,7 +23,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main (full history)
-        uses: actions/checkout@v4
+        # Pinned to a commit SHA (not a moving tag) for supply-chain safety.
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
         with:
           fetch-depth: 0
 
@@ -39,7 +38,7 @@ jobs:
 
           git remote add upstream https://github.com/jackyzha0/quartz.git
           # Explicit refspec so refs/remotes/upstream/v5 always exists (a bare
-          # `fetch upstream v5` can miss it if v5 ever collides with a tag name).
+          # `fetch upstream v5` can miss it on a tag-name collision).
           git fetch --no-tags upstream +refs/heads/v5:refs/remotes/upstream/v5
 
           if git merge-base --is-ancestor upstream/v5 HEAD; then
@@ -47,18 +46,50 @@ jobs:
             exit 0
           fi
 
-          # Include the run id so same-day re-runs get distinct branches.
           BRANCH="sync/upstream-v5-$(date +%Y%m%d)-${GITHUB_RUN_ID}"
           git checkout -b "$BRANCH"
 
-          if git merge --no-edit upstream/v5; then
-            git push origin "$BRANCH"
-            gh pr create --base main --head "$BRANCH" \
-              --title "Sync upstream Quartz v5 ($(date +%Y-%m-%d))" \
-              --body "Automated monthly merge of \`jackyzha0/quartz@v5\` — carries upstream's dependency bumps and fixes. Review the diff + Vercel preview, then merge. If the lockfile looks off, run \`npm install\` on the branch."
+          # This fork intentionally diverges from upstream and hits predictable
+          # add/delete conflicts every sync: it removed upstream's CI workflows
+          # (deploy is on Vercel) and keeps a quartz.lock.json upstream lacks.
+          # Auto-resolve those in the fork's favour; only genuine *content*
+          # conflicts should stop the sync for manual review.
+          if ! git merge --no-edit upstream/v5; then
+            git status --porcelain | while IFS= read -r line; do
+              code=$(printf '%s' "$line" | cut -c1-2)
+              path=$(printf '%s' "$line" | cut -c4-)
+              case "$code" in
+                DU | DD) git rm -f --ignore-unmatch "$path" || true ;; # deleted by us -> keep deleted
+                UD) git add -- "$path" || true ;;                     # deleted by them -> keep ours
+              esac
+            done
+            if git diff --name-only --diff-filter=U | grep -q .; then
+              echo "::error::Upstream sync has content conflicts needing manual resolution:"
+              git diff --name-only --diff-filter=U || true
+              echo "Resolve locally: git fetch upstream && git merge upstream/v5"
+              exit 1
+            fi
+            git commit --no-edit
+          fi
+
+          git push origin "$BRANCH"
+
+          PR_BODY="Automated merge of \`jackyzha0/quartz@v5\`. The fork's structural divergences (removed CI workflows, kept quartz.lock.json) were auto-resolved in the fork's favour; any content conflicts would have stopped the run instead. Review the diff + Vercel preview, then merge."
+          COMPARE="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/compare/main...${BRANCH}?expand=1"
+
+          # Try to open the PR automatically. On a fork the GITHUB_TOKEN often
+          # can't (createPullRequest → "not accessible by integration"), so fall
+          # back to a one-click compare link and still succeed.
+          if gh pr create --base main --head "$BRANCH" \
+               --title "Sync upstream Quartz v5 ($(date +%Y-%m-%d))" --body "$PR_BODY"; then
+            echo "Opened the sync PR."
           else
-            git merge --abort
-            gh issue create \
-              --title "Upstream v5 sync needs a manual merge ($(date +%Y-%m-%d))" \
-              --body $'The scheduled upstream sync hit merge conflicts. Resolve locally:\n\n```\ngit fetch upstream\ngit merge upstream/v5\n# resolve conflicts (for quartz.lock.json / package-lock.json run npm install), then open a PR\n```'
+            echo "::notice::Auto-PR not permitted (fork token). Branch pushed — open the PR: $COMPARE"
+            {
+              echo "### Upstream sync branch pushed 🚀"
+              echo ""
+              echo "The merge is ready but the token couldn't auto-open a PR (fork limitation)."
+              echo ""
+              echo "**[→ Create the sync PR]($COMPARE)**"
+            } >> "$GITHUB_STEP_SUMMARY"
           fi
