@@ -23,7 +23,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main (full history)
-        uses: actions/checkout@v5 # v5 runs on Node 24 (v4 warns: Node 20 deprecated)
+        # Pinned to a commit SHA (not a moving tag) for supply-chain safety.
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
         with:
           fetch-depth: 0
 
