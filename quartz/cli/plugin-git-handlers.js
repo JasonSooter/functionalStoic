@@ -848,6 +848,11 @@ export async function handlePluginInstallUnified({
             )
             const branchArg = entry.ref ? ` --branch ${entry.ref}` : ""
             await execAsync(`git clone --depth 1${branchArg} "${entry.resolved}" "${pluginDir}"`)
+            // A --depth 1 clone only contains the branch HEAD, so `checkout` fails
+            // when the pinned commit has scrolled out of history (the plugin's
+            // branch advanced past it). Fetch the exact commit first — GitHub
+            // allows fetch-by-SHA — so any pinned commit remains restorable.
+            await execAsync(`git fetch --depth 1 origin ${entry.commit}`, { cwd: pluginDir })
             await execAsync(`git checkout ${entry.commit}`, { cwd: pluginDir })
           }
           console.log(styleText("green", `✓ ${name} restored`))
