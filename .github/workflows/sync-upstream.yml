@@ -75,7 +75,7 @@ jobs:
           git push origin "$BRANCH"
 
           # Conventional-commit title + the repo's standard PR description template.
-          TITLE="chore: sync upstream Quartz v5 ($(date +%Y-%m-%d))"
+          TITLE="chore(deps): sync upstream Quartz v5 ($(date +%Y-%m-%d))"
           BODY=$'## Before this PR\n- The fork is behind `jackyzha0/quartz@v5`.\n\n## After this PR\n- Merged the latest upstream Quartz `v5` (engine, CLI, components, deps). Fork-specific divergences (removed CI workflows, kept `quartz.lock.json`) were auto-resolved in favour of the fork.\n\n## Reason that prompted this change\n- Scheduled/manual upstream sync to pick up upstream fixes and improvements.\n\n## Test Plan\n- Review the diff and confirm the Vercel preview build is green + key pages render.'
 
           # Try to open the PR automatically. On a fork the GITHUB_TOKEN often
