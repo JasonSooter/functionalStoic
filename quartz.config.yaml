@@ -221,6 +221,9 @@ plugins:
         Questions: /blog/questions
         Projects: /projects
         Tags: /tags
+    layout:
+      position: footer
+      priority: 50
   - source: github:quartz-community/recent-notes
     enabled: true
   - source: github:quartz-community/spacer
