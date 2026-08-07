@@ -12,3 +12,13 @@
 html[saved-theme] body article a.internal-link.tag-link.tag-link {
   display: inline-flex;
 }
+
+// Folder and tag pages list every entry's full tag set, which on the reading
+// lists is ~45 date pills per entry — the tags drown out the titles they belong
+// to. The shared PageList component renders this unconditionally (see
+// `tag-page/src/components/PageList.tsx:93`, same in `folder-page`), so there is
+// no option to switch off; hide it here instead. Scoped to that component's
+// markup so inline tags in page content are untouched.
+li.section-li > .section > ul.tags {
+  display: none;
+}
