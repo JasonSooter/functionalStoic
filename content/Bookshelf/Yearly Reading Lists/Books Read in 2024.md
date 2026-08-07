@@ -4,10 +4,10 @@ aliases:
   - 24 Books in 2024
 title: Books Read in 2024
 created: 2024-12-21T17:24:42.000Z
-modified: 2026-08-07T04:47:02.121Z
-published: 2026-08-07T04:47:02.121Z
-date created: 2024-03-29T13:06:33-06:00
-date modified: 2026-02-21T09:56:53-07:00
+modified: 2026-08-07T05:29:46.197Z
+published: 2026-08-07T05:29:46.197Z
+date created: 2024-12-21T18:24:42+01:00
+date modified: 2026-08-07T07:29:44+02:00
 linter-yaml-title-alias: Books Read in 2024
 ---
 
@@ -33,13 +33,13 @@ _**Goal**_
 12. \#🗓️/2024/04/25 [A Short History of Nearly Everything](https://app.thestorygraph.com/books/4cd25a5a-a3f2-48e0-bc83-ed314b751706) #📚/status/finished #people/authors/bill-bryson
 13. \#🗓️/2024/05/02 [Stoner](https://app.thestorygraph.com/books/42e4b1a6-4261-4016-b15a-61cd42e20112) #📚/status/finished
 14. \#🗓️/2024/05/16 [[How to Do Nothing]] #📚/status/finished
-15. \#🗓️/2024/05/26 [The Ultimate Journey - Canada to [[Mexico]] Down the Continental Divide](https://app.thestorygraph.com/books/1609595f-bb01-4fb9-b11e-9736b5889333) #📚/status/finished
+15. \#🗓️/2024/05/26 [The Ultimate Journey - Canada to Mexico Down the Continental Divide](https://app.thestorygraph.com/books/1609595f-bb01-4fb9-b11e-9736b5889333) #📚/status/finished
 16. \#🗓️/2024/05/29 [The Daughter of Doctor Moreau](https://app.thestorygraph.com/books/435a76b5-d9fd-4d1f-9676-1bc0bc8be063) #📚/status/finished
 17. \#🗓️/2024/06/16 [Gates of Fire](https://app.thestorygraph.com/books/c493595a-5994-49a3-b42e-096d4b5974c1) #📚/status/finished
 18. \#🗓️/2024/07/16 [The Year of Living Danishly](https://app.thestorygraph.com/books/4c4b1c52-6e37-4733-8aaf-504fec41e8ba) #📚/status/finished
 19. \#🗓️/2024/08/12 [Do Cats have Belly Buttons?](https://app.thestorygraph.com/books/71f9d07f-c413-4cbf-ac7c-caad7fdc58dd) #📚/status/finished
 20. \#🗓️/2024/08/12 [The Magician's Elephant](https://app.thestorygraph.com/books/a06d48a1-6df1-4759-8720-db2a0fd0e23d) #📚/status/finished
-21. \#🗓️/2024/08/14[The Caves of Steel](https://www.goodreads.com/book/show/41811.The_Caves_of_Steel) #📚/status/finished Recommended #twilio/people/kat-chaires
+21. \#🗓️/2024/08/14[The Caves of Steel](https://www.goodreads.com/book/show/41811.The_Caves_of_Steel) #📚/status/finished Recommended by #twilio/people/kat-chaires
 22. \#🗓️/2024/08/27 [[Slow Productivity]] #📚/status/finished
 23. \#🗓️/2024/09/17 [[Co-Intelligence - Living and Working with AI]] #📚/status/finished
 24. \#🗓️/2024/09/28 [[The Soul of an Octopus]] #📚/status/finished
