@@ -1,3 +1,14 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// The anuppuccin theme sets `display: flex` on tag links, which makes them
+// block-level: an inline tag breaks onto its own line and its pill stretches the
+// full content width. Keep the pill, restore inline flow.
+//
+// The theme's selector is `html[saved-theme="dark"] body a.internal-link.tag-link`
+// and its stylesheet loads after this one, so `.tag-link` is repeated below to
+// out-specify it rather than tie and lose on source order.
+html[saved-theme] body article a.internal-link.tag-link.tag-link {
+  display: inline-flex;
+}

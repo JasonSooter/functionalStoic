@@ -78,6 +78,12 @@ plugins:
     options:
       markdownLinkResolution: shortest
     order: 60
+  # Links emoji-leading tags (#📚/…, #🗓️/…) that remark-obsidian's tokenizer drops,
+  # and undoes crawl-links' truncation of tag text. Ordered above both: its markdown
+  # pass must follow obsidian-flavored-markdown (30) and its html pass crawl-links (60).
+  - source: ./plugins/emoji-tags
+    enabled: true
+    order: 61
   - source: github:quartz-community/github-flavored-markdown
     enabled: true
     order: 40
@@ -163,8 +169,10 @@ plugins:
     layout:
       position: right
       priority: 50
+  # Notes already open with an H1 matching `title` (Obsidian Linter convention),
+  # so rendering the frontmatter title here duplicates it.
   - source: github:quartz-community/article-title
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
