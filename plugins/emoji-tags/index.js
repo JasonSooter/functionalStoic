@@ -89,12 +89,26 @@ function restoreTagText() {
   }
 }
 
+// crawl-links records every internal link as an outgoing edge, tag links included.
+// The graph builds its edges from that list, so tags land in it as ordinary nodes —
+// `showTags: false` can't suppress them, because it only skips the separate pass over
+// `details.tags` (graph.inline.ts:154). Drop tag links from the edge data so the graph
+// honours that setting. The tags stay clickable: tag pages are generated from
+// `frontmatter.tags`, which this doesn't touch.
+function unlinkTagsFromGraph() {
+  return (_tree, file) => {
+    const links = file.data.links
+    if (!Array.isArray(links)) return
+    file.data.links = links.filter((link) => !link.startsWith("tags/"))
+  }
+}
+
 export const EmojiTags = () => ({
   name: "EmojiTags",
   markdownPlugins() {
     return [linkEmojiTags]
   },
   htmlPlugins() {
-    return [restoreTagText]
+    return [restoreTagText, unlinkTagsFromGraph]
   },
 })
