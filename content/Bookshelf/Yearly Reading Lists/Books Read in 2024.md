@@ -4,10 +4,10 @@ aliases:
   - 24 Books in 2024
 title: Books Read in 2024
 created: 2024-12-21T17:24:42.000Z
-modified: 2026-08-07T05:29:46.197Z
-published: 2026-08-07T05:29:46.197Z
+modified: 2026-08-07T05:31:29.224Z
+published: 2026-08-07T05:31:29.224Z
 date created: 2024-12-21T18:24:42+01:00
-date modified: 2026-08-07T07:29:44+02:00
+date modified: 2026-08-07T07:31:28+02:00
 linter-yaml-title-alias: Books Read in 2024
 ---
 
@@ -57,6 +57,6 @@ _**Goal**_
 36. \#🗓️/2024/12/25[[The Daily Stoic]] #📚/status/finished
 37. \#🗓️/2024/12/27 [[Mastering SQL Joins]] #📚/status/finished
 38. \#🗓️/2024/12/28 [The Spy and the Traitor](https://app.thestorygraph.com/books/b241455f-85b1-495b-a57b-bc6b34deb713) #📚/status/finished Recommended by #people/friends/david-french
-39. \#🗓️/2024/12/29[[Orwell, George, 1903-1950-Animal Farm-Highlights|Animal Farm]] #📚/status/finished
+39. \#🗓️/2024/12/29[[Animal Farm]] #📚/status/finished
 40. \#🗓️/2024/12/31 [[The Importance of Being Earnest]] by Oscar Wilde #📚/status/finished
 41. \#🗓️/2024/12/31 [The Time Machine](https://app.thestorygraph.com/books/0b4d6fbc-f0d7-440f-ac2e-d48ec05291c9) #📚/status/finished
