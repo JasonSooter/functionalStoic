@@ -181,10 +181,10 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
-  # Below the content, not above it: on the reading lists this block runs to dozens
-  # of date pills and pushed the title most of the way down the viewport.
+  # Off for now: on the reading lists this block runs to dozens of date pills and
+  # swamped the page. Tags remain clickable inline and keep their own tag pages.
   - source: github:quartz-community/tag-list
-    enabled: true
+    enabled: false
     layout:
       position: afterBody
       priority: 10
@@ -234,8 +234,12 @@ plugins:
     layout:
       position: footer
       priority: 50
+  # Each entry rendered its full tag list, so a reading list showed ~45 date pills
+  # and nothing else. Show just the title and date.
   - source: github:quartz-community/recent-notes
     enabled: true
+    options:
+      showTags: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
