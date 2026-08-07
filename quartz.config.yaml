@@ -78,6 +78,12 @@ plugins:
     options:
       markdownLinkResolution: shortest
     order: 60
+  # Links emoji-leading tags (#📚/…, #🗓️/…) that remark-obsidian's tokenizer drops,
+  # and undoes crawl-links' truncation of tag text. Ordered above both: its markdown
+  # pass must follow obsidian-flavored-markdown (30) and its html pass crawl-links (60).
+  - source: ./plugins/emoji-tags
+    enabled: true
+    order: 61
   - source: github:quartz-community/github-flavored-markdown
     enabled: true
     order: 40
@@ -163,8 +169,10 @@ plugins:
     layout:
       position: right
       priority: 50
+  # Notes already open with an H1 matching `title` (Obsidian Linter convention),
+  # so rendering the frontmatter title here duplicates it.
   - source: github:quartz-community/article-title
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
@@ -173,11 +181,13 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+  # Off for now: on the reading lists this block runs to dozens of date pills and
+  # swamped the page. Tags remain clickable inline and keep their own tag pages.
   - source: github:quartz-community/tag-list
-    enabled: true
+    enabled: false
     layout:
-      position: beforeBody
-      priority: 30
+      position: afterBody
+      priority: 10
   - source: github:quartz-community/page-title
     enabled: true
     layout:
@@ -224,8 +234,12 @@ plugins:
     layout:
       position: footer
       priority: 50
+  # Each entry rendered its full tag list, so a reading list showed ~45 date pills
+  # and nothing else. Show just the title and date.
   - source: github:quartz-community/recent-notes
     enabled: true
+    options:
+      showTags: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

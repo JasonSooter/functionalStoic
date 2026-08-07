@@ -1,0 +1,23 @@
+{
+  "name": "emoji-tags",
+  "version": "1.0.0",
+  "description": "Renders Obsidian tags that begin with an emoji as tag links",
+  "type": "module",
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "quartz": {
+    "name": "emoji-tags",
+    "displayName": "Emoji Tags",
+    "category": "transformer",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 31,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
