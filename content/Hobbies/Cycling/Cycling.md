@@ -6,12 +6,12 @@ aliases:
   - Biking
 title: Cycling
 created: 2024-02-08T19:20:20.000Z
-modified: 2026-07-09T07:11:38.565Z
-published: 2026-07-09T07:11:38.565Z
+modified: 2026-08-03T09:41:55.000Z
+published: 2026-08-03T09:41:55.000Z
 tags:
   - hobbies/bikes
 date created: 2025-09-25T16:40:52+02:00
-date modified: 2026-07-08T10:42:34+02:00
+date modified: 2026-08-03T11:41:54+02:00
 ---
 
 # Cycling
@@ -26,6 +26,15 @@ date modified: 2026-07-08T10:42:34+02:00
 ## My Bikes
 
 - [[Brompton Bike]]
+- Surly Long Disc Trucker
+  - Boxed Dimensions
+    - 59 x 34 x 10 (inches)
+    - 150 x 87 x 25 (centimeters)
+    - 49 lb
+- Canyon Grail
+  - In Case Dimensions
+    - 50 x 34 x 150 (centimeters)
+    - 42 lbs
 
 ## Twenty Little Cycling Drawings
 

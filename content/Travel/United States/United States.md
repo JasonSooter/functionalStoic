@@ -2,8 +2,8 @@
 publish: true
 title: United States
 created: 2025-05-31T02:24:43.925Z
-modified: 2026-07-17T19:27:29.222Z
-published: 2026-07-17T19:27:29.222Z
+modified: 2026-07-26T12:04:11.846Z
+published: 2026-07-26T12:04:11.846Z
 tags:
   - places
 linter-yaml-title-alias: United States
@@ -28,7 +28,7 @@ WHERE contains(file.path, this.file.name)
 - [[Travel/United States/Columbus, Ohio.md|Columbus, Ohio]]
 - [[Travel/United States/Seattle.md|Seattle]]
 - [[Travel/United States/United States.md|United States]]
-- [[Travel/United States/New York.md|New York]]
+- [[New York|New York]]
 - [[Travel/United States/Train in the US.md|Train in the US]]
 
 ## Summary

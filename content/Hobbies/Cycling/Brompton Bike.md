@@ -5,10 +5,10 @@ aliases:
   - Brompton
 title: Brompton Bike
 created: 2024-02-22T12:32:18.000Z
-modified: 2026-07-17T16:09:01.690Z
-published: 2026-07-17T16:09:01.690Z
+modified: 2026-07-26T10:52:34.465Z
+published: 2026-07-26T10:52:34.465Z
 date created: 2023-10-27T10:00:47+02:00
-date modified: 2026-02-21T09:56:49-07:00
+date modified: 2026-07-26T12:52:32+02:00
 linter-yaml-title-alias: Brompton Bike
 ---
 
@@ -47,6 +47,11 @@ linter-yaml-title-alias: Brompton Bike
 
 - Cool Road Trip using the G-Line in Germany
   - [G Line Winter Adventures - out on the road with German Roamers - YouTube](https://www.youtube.com/watch?v=1PAZZ7JcPP8\&t=7s)
+
+Dimensions when shipping to Germany
+
+72 cm x 75 cm x 44 cm
+47 lb / 22 kg
 
 ## What Can Go Wrong With a Brompton
 
