@@ -1,0 +1,99 @@
+name: Task marker guard
+
+# quartz-syncer strips `- [ ]` / `- [x]` markers when it publishes, so no task
+# ever renders as a checkbox on the site. That is patched locally in the Obsidian
+# plugin (see ~/dev-space/quartz-syncer-taskfix), but every syncer update
+# overwrites main.js and silently reintroduces the bug.
+#
+# This is the tripwire. It fires at the only moment that matters — the first
+# publish after the patch is lost — instead of relying on remembering.
+#
+# It flags a *regression*: a note that had task markers before this push and has
+# none after. Completing a task is safe (`[x]` still matches). The one false
+# positive is deliberately deleting the last task from a note; see the failure
+# message for how to proceed.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+
+permissions:
+  contents: read
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history)
+        # Pinned to a commit SHA (not a moving tag) for supply-chain safety.
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+        with:
+          fetch-depth: 0
+
+      - name: Check for stripped task markers
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+
+          # Any single character between the brackets, so custom task chars
+          # (`[/]`, `[-]`, `[>]`) count too.
+          PATTERN='^[[:space:]]*[-*+] \[[^]]\][[:space:]]'
+
+          if [ -z "${BEFORE:-}" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            echo "No previous commit for this push (new branch or initial push) — nothing to compare."
+            exit 0
+          fi
+          if ! git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then
+            echo "::notice::Previous commit $BEFORE is unreachable (force push?) — skipping."
+            exit 0
+          fi
+
+          count() { # count(ref, path) -> number of task lines, 0 if absent
+            git show "$1:$2" 2>/dev/null | grep -cE "$PATTERN" || true
+          }
+
+          regressed=0
+          while IFS= read -r f; do
+            case "$f" in
+              *.md) ;;
+              *) continue ;;
+            esac
+            old=$(count "$BEFORE" "$f")
+            new=$(count "$AFTER" "$f")
+            if [ "$old" -gt 0 ] && [ "$new" -eq 0 ]; then
+              echo "::error file=$f::Had $old task marker(s) before this push, now 0 — markers were stripped."
+              regressed=1
+            fi
+          done < <(git diff --name-only --diff-filter=M "$BEFORE" "$AFTER" -- content)
+
+          if [ "$regressed" -eq 0 ]; then
+            echo "✓ No task markers were stripped in this push."
+            exit 0
+          fi
+
+          cat >> "$GITHUB_STEP_SUMMARY" <<'EOF'
+          ### Task markers were stripped 🔴
+
+          A note that had `- [ ]` / `- [x]` items before this push has none after.
+          The overwhelmingly likely cause is that **quartz-syncer updated and
+          overwrote the local patch**.
+
+          Fix it:
+
+          ```sh
+          cd ~/dev-space/quartz-syncer-taskfix
+          node patch-tasklists.mjs --check   # expect: ○ unpatched
+          node patch-tasklists.mjs           # re-apply
+          ```
+
+          Then restart Obsidian and republish the affected note(s).
+
+          If instead you genuinely deleted the last task from that note, this is a
+          false positive — confirm the patch is still applied with `--check`, then
+          re-run this workflow from the Actions tab to clear it.
+          EOF
+
+          exit 1
