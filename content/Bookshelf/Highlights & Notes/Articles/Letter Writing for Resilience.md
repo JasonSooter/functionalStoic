@@ -3,11 +3,11 @@ publish: true
 aliases: Letter Writing for Resilience
 title: Letter Writing for Resilience
 created: 2026-08-16T08:57:32.291Z
-modified: 2026-08-16T08:59:11.166Z
-published: 2026-08-16T08:59:11.166Z
+modified: 2026-08-16T09:02:51.637Z
+published: 2026-08-16T09:02:51.637Z
 linter-yaml-title-alias: Letter Writing for Resilience
 date created: 2026-08-16T10:57:32+02:00
-date modified: 2026-08-16T10:57:40+02:00
+date modified: 2026-08-16T11:02:49+02:00
 ---
 
 # Letter Writing for Resilience
@@ -31,7 +31,7 @@ date modified: 2026-08-16T10:57:40+02:00
 ## Highlights
 
 - ‘Twas not so long ago that not knowing was the norm. You would mail a letter, hope someone got it, and that’s it. ([View Highlight](https://read.readwise.io/read/01jw43r5sk56b09jwb0wp0ph8p))
-- I was raised in a thank you note household. For every gift, a thank you note. I spent years trying to avoid this responsibility, but now I love it. Thank you notes for dinner. Thank you notes for gifts. Thank you notes anytime! ([View Highlight](https://read.readwise.io/read/01jw43sm31ryp419e9m08j9nze))
+- I was raised in a “Thank You” note household. For every gift, a “Thank You” note. I spent years trying to avoid this responsibility, but now I love it. “Thank You” notes for dinner. “Thank You” notes for gifts. “Thank You” notes anytime! ([View Highlight](https://read.readwise.io/read/01jw43sm31ryp419e9m08j9nze))
 
 > I also like this idea. But should act on it way more often!
 

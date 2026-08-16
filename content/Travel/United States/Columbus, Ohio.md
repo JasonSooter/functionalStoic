@@ -2,12 +2,12 @@
 publish: true
 title: Columbus, Ohio
 created: 2024-11-09T03:06:38.002Z
-modified: 2026-07-17T16:08:33.501Z
-published: 2026-07-17T16:08:33.501Z
+modified: 2026-08-16T10:56:49.528Z
+published: 2026-08-16T10:56:49.528Z
 tags:
   - places
-date created: 2024-11-08T20:06:38-07:00
-date modified: 2026-02-21T09:56:46-07:00
+date created: 2024-11-09T04:06:38+01:00
+date modified: 2026-08-16T12:56:47+02:00
 linter-yaml-title-alias: Columbus, Ohio
 categories:
   - "[[Places]]"
@@ -35,7 +35,7 @@ icon: building-2
 
 ## Action Items
 
-- Visit "The Short North" neighborhood as mentioned in [[Walkable City]]
+- [x] Visit "The Short North" neighborhood as mentioned in [[Walkable City]]
 
 ## FAQ
 

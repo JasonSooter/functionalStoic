@@ -6,12 +6,12 @@ aliases:
   - Biking
 title: Cycling
 created: 2024-02-08T19:20:20.000Z
-modified: 2026-08-03T09:41:55.000Z
-published: 2026-08-03T09:41:55.000Z
+modified: 2026-08-16T10:56:20.898Z
+published: 2026-08-16T10:56:20.898Z
 tags:
   - hobbies/bikes
 date created: 2025-09-25T16:40:52+02:00
-date modified: 2026-08-03T11:41:54+02:00
+date modified: 2026-08-16T12:56:18+02:00
 ---
 
 # Cycling
@@ -21,7 +21,7 @@ date modified: 2026-08-03T11:41:54+02:00
 
 ## Changelog
 
-- \#🗓️/2024/05/25 Met a guy named David, brother Zach in a wheelchair - making the party bike from recycled cycles and connecting an e-trike. Located at the intersection of Centennial at end - across from power trail
+- \#🗓️/2024/05/25 Met a guy named David, brother Zach in a wheelchair - making the party bike from recycled cycles into an e-trike. Located at the intersection of Centennial at end - across from power trail
 
 ## My Bikes
 
@@ -57,9 +57,9 @@ date modified: 2026-08-03T11:41:54+02:00
 
 \#🗓️/2020/10/18
 
-- 27 x 1 1/4 tube
-- 700 x 38 c
-- 29 x 2.2
+- [x] 27 x 1 1/4 tube
+- [x] 700 x 38 c
+- [x] 29 x 2.2
 
 ## Mountain Biking
 

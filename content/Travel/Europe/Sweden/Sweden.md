@@ -7,8 +7,8 @@ aliases:
   - Stockholm, Sweden
 title: Sweden
 created: 2024-10-05T01:15:15.417Z
-modified: 2026-07-17T16:08:35.932Z
-published: 2026-07-17T16:08:35.932Z
+modified: 2026-08-16T10:56:54.256Z
+published: 2026-08-16T10:56:54.256Z
 tags:
   - travel/europe/sweden/malmo
   - travel/europe/europe-2023
@@ -17,7 +17,7 @@ tags:
   - places
 linter-yaml-title-alias: Sweden
 date created: 2023-09-26T12:55:16+02:00
-date modified: 2026-02-21T09:56:46-07:00
+date modified: 2026-08-16T12:56:52+02:00
 categories:
   - "[[Places]]"
 coordinates: 59.3293,18.0686
@@ -96,7 +96,7 @@ It is neat how similar it remains after more than 100 years
 
 SL: Android App: [SL-Journey planner and Tickets](https://play.google.com/store/apps/details?id=com.sl.SLBiljetter\&hl=en_US\&gl=US)
 
-- Explore Functionalism #🗓️/2023/09/23
+- [ ] Explore Functionalism #🗓️/2023/09/23
   - Reference: "1930 – Functionalism made its breakthrough at the Stockholm Exhibition”
   - ![[Attachments/PXL_20230923_101947073.MP.jpg]]
 

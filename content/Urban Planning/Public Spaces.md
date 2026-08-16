@@ -5,11 +5,11 @@ aliases:
   - Project for Public Spaces
 title: Public Spaces
 created: 2024-10-19T03:09:58.413Z
-modified: 2026-07-20T07:49:19.389Z
-published: 2026-07-20T07:49:19.389Z
+modified: 2026-08-16T10:56:41.086Z
+published: 2026-08-16T10:56:41.086Z
 linter-yaml-title-alias: Public Spaces
-date created: 2024-10-18T21:09:58-06:00
-date modified: 2026-02-21T09:56:46-07:00
+date created: 2024-10-19T05:09:58+02:00
+date modified: 2026-08-16T12:56:39+02:00
 ---
 
 # Public Spaces
@@ -28,7 +28,7 @@ Public spaces are essential components of urban environments, offering areas for
 
 ## Action Items
 
-- Look up the Project for Public Spaces. ✅ 2025-06-07
+- [x] Look up the Project for Public Spaces. ✅ 2025-06-07
 
 ## FAQ
 

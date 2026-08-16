@@ -5,15 +5,15 @@ aliases:
   - Utrecht
 title: Netherlands
 created: 2023-12-12T04:11:52.000Z
-modified: 2026-07-17T16:08:35.150Z
-published: 2026-07-17T16:08:35.150Z
+modified: 2026-08-16T10:56:57.771Z
+published: 2026-08-16T10:56:57.771Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/netherlands/utrecht
   - travel/europe/netherlands
   - places
 date created: 2023-08-31T18:44:43+02:00
-date modified: 2026-06-28T19:33:43+02:00
+date modified: 2026-08-16T12:56:56+02:00
 linter-yaml-title-alias: Netherlands
 categories:
   - "[[Places]]"
@@ -40,7 +40,7 @@ flag: 🇳🇱
 
 ## Action Items
 
-- Go to Ferdinand Bolstraat when in Amsterdam
+- [ ] Go to Ferdinand Bolstraat when in Amsterdam
 
 ## FAQ
 

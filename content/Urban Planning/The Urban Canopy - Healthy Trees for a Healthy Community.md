@@ -2,11 +2,11 @@
 publish: true
 title: The Urban Canopy - Healthy Trees for a Healthy Community
 created: 2025-07-14T14:40:58.615Z
-modified: 2026-07-20T07:49:23.319Z
-published: 2026-07-20T07:49:23.319Z
+modified: 2026-08-16T10:54:20.469Z
+published: 2026-08-16T10:54:20.469Z
 linter-yaml-title-alias: The Urban Canopy - Healthy Trees for a Healthy Community
-date created: 2025-07-14T08:40:58-06:00
-date modified: 2026-02-21T09:56:46-07:00
+date created: 2025-07-14T16:40:58+02:00
+date modified: 2026-08-16T12:54:18+02:00
 ---
 
 # The Urban Canopy - Healthy Trees for a Healthy Community
@@ -29,12 +29,12 @@ In conclusion, "The Urban Canopy - Healthy Trees for a Healthy Community" advoca
 
 ## Action Items
 
-- Find a video of a Tub Grinder.
-- Find the tree tour that can be biked.
-- Look up Champion Trees.
-- Look up National Champion Trees.
-- Look up City Park Arboretum.
-- Look up Emerald Ash Borer.
+- [ ] Find a video of a Tub Grinder.
+- [ ] Find the tree tour that can be biked.
+- [ ] Look up Champion Trees.
+- [ ] Look up National Champion Trees.
+- [ ] Look up City Park Arboretum.
+- [ ] Look up Emerald Ash Borer.
 
 ## FAQ
 

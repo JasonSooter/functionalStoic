@@ -2,12 +2,12 @@
 publish: true
 title: New York
 created: 2024-10-31T23:12:38.665Z
-modified: 2026-07-26T10:54:53.609Z
-published: 2026-07-26T10:54:53.609Z
+modified: 2026-08-16T10:55:06.294Z
+published: 2026-08-16T10:55:06.294Z
 tags:
   - places
 date created: 2024-11-01T00:12:38+01:00
-date modified: 2026-07-26T12:54:51+02:00
+date modified: 2026-08-16T12:55:06+02:00
 linter-yaml-title-alias: New York
 categories:
   - "[[Places]]"
@@ -51,7 +51,7 @@ locations:
 
 ### Sections
 
-1. [[#Hudson Valley Tra[[New York]] Trail]]
+1. [[#Hudson Valley Trail]]
 2. Champlain Valley Trail
 
 ## Hudson Valley Trail
@@ -77,15 +77,15 @@ locations:
 
 - [Day 1 - 2024 Empire State Trail - Albany → Hudson - Google Photos](https://photos.app.goo.gl/YdwZLEPypvyv4ZPy5)
 
-- Add Strava link ✅ 2025-04-27
+- [x] Add Strava link ✅ 2025-04-27
 
-- Add place I stayed ✅ 2025-04-27
+- [x] Add place I stayed ✅ 2025-04-27
 
-- Add name of major trail sections ✅ 2025-04-27
+- [x] Add name of major trail sections ✅ 2025-04-27
 
-- Add mileage ✅ 2025-04-27
+- [x] Add mileage ✅ 2025-04-27
 
-- Add link to Google Photo Album ✅ 2025-04-27
+- [x] Add link to Google Photo Album ✅ 2025-04-27
 
 #### Day 2 - Hudson → Poughkeepsie
 

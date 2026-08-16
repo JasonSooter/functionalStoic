@@ -5,15 +5,15 @@ aliases:
   - Berlin
 title: Germany
 created: 2024-08-10T03:01:42.779Z
-modified: 2026-07-17T16:51:11.901Z
-published: 2026-07-17T16:51:11.901Z
+modified: 2026-08-16T10:57:09.626Z
+published: 2026-08-16T10:57:09.626Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/germany/berlin
   - travel/europe/germany
   - places
 date created: 2023-08-31T18:44:43+02:00
-date modified: 2026-07-17T18:07:50+02:00
+date modified: 2026-08-16T12:57:08+02:00
 linter-yaml-title-alias: Germany
 categories:
   - "[[Places]]"
@@ -40,7 +40,7 @@ flag: 🇩🇪
 
 ## Action Items
 
-- Look up the [[#Rendsburg High Bridge]] in Rendsberg, Germany with the large train bridge into the city ✅ 2024-10-04
+- [x] Look up the [[#Rendsburg High Bridge]] in Rendsberg, Germany with the large train bridge into the city ✅ 2024-10-04
 
 ## FAQ
 

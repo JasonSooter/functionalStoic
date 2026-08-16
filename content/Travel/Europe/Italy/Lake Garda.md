@@ -2,11 +2,11 @@
 publish: true
 title: Lake Garda
 created: 2026-07-26T09:48:10.357Z
-modified: 2026-07-26T09:56:47.992Z
-published: 2026-07-26T09:56:47.992Z
+modified: 2026-08-16T10:57:04.112Z
+published: 2026-08-16T10:57:04.112Z
 linter-yaml-title-alias: Lake Garda
 date created: 2026-07-26T11:48:10+02:00
-date modified: 2026-07-26T11:52:34+02:00
+date modified: 2026-08-16T12:57:03+02:00
 ---
 
 # Lake Garda
@@ -33,7 +33,7 @@ Overall, Lake Garda is a multicultural and multi-activity destination, appealing
 
 ## Action Items
 
-- Consider visiting as part of a trip to Italy
+- [ ] Consider visiting as part of a trip to Italy
   - Recommended by Juliana Hagen
 
 ## FAQ
