@@ -3,9 +3,9 @@ publish: true
 aliases:
   - 40 Books in 2026
 title: Books Read in 2026
-created: 2026-08-02T06:40:18.805Z
-modified: 2026-08-07T04:47:14.513Z
-published: 2026-08-07T04:47:14.513Z
+created: 2026-08-08T20:53:51.097Z
+modified: 2026-08-08T20:53:51.098Z
+published: 2026-08-08T20:53:51.098Z
 date created: 2025-11-30T18:32:03+01:00
 date modified: 2026-08-03T11:54:58+02:00
 ---
@@ -49,7 +49,7 @@ Highest return per hour on the whole list. Seven books, all part-read, several o
 2. The Pleasures of Reading in an Age of Distraction — already have a highlights note
 3. German Men Sit Down To Pee — short and light
 4. A Philosophy of Walking — pairs with [[Wanderlust - A History of Walking]]
-5. Civil Disobedience — ~30pp, could be one evening
+5. Civil Disobedience **and Other Essays** (Dover Thrift, 90pp) — ~\$4, one or two evenings. Not the standalone 30pp essay, which does not clear the bar for a counted book. See [[#Thoreau]]
 6. [[There Are Places in the World Where Rules Are Less Important Than Kindness]] — ~112pp, open **33 months**
 7. [[Feminist City]]
 
@@ -154,7 +154,21 @@ These were all `currently-reading` or `to-read` in StoryGraph and completely abs
 #### Thoreau
 
 1. Walden by Henry David Thoreau #📚/status/paused #media-type/ebook — started #🗓️/2025/09/27
-2. Civil Disobedience by Henry David Thoreau #📚/status/currently-reading #media-type/print — started #🗓️/2025/09/27
+   - Stays paused. The masterpiece, but the wrong shape for a 40-book year, and I already stalled on it once. Read "Walking" first — it is the same argument in a tenth the length. If it lands, Walden stops being an obligation
+2. Civil Disobedience by Henry David Thoreau #📚/status/paused #media-type/print — started #🗓️/2025/09/27
+   - \#🗓️/2026/08/02 Superseded by the collection below rather than dropped. Read it there
+3. Civil Disobedience and Other Essays by Henry David Thoreau #📚/status/to-read #media-type/print #priority/1
+   - \#🗓️/2026/08/02 **Dover Thrift, 90pp, ~\$4.** Contents: Civil Disobedience (p1), Slavery in Massachusetts (p19), A Plea for Captain John Brown (p31), **Walking (p49)**, Life Without Principle (p75). Goodreads 4.06 on the fuller collection
+   - **Why the collection and not the essay.** A 30pp pamphlet is not one of my 40. I built #📚/status/reference precisely because I care about counting honestly, and taking the tick here would corrode the number. The collection is a defensible book, still one or two evenings, and it satisfies "I want to have read Thoreau" _with_ the political essay rather than instead of it
+   - **I already chose "Walking" and then read something else.** In [[Wanderlust - A History of Walking]] (#🗓️/2025/03) I left myself the task _"Read something from Thoreau. 'Walking' would be a good start"_ — still unchecked — and tagged the neighbouring highlight #add-book-to-read. Six months later I opened Walden and Civil Disobedience instead. Neither was the one I picked
+   - **The vault agrees.** Every Thoreau trace I have is nature, attention and walking, never politics: [[Wanderlust - A History of Walking]], [[Alexander von Humboldt]] (Walden Pond, twice), and [[How to Do Nothing]] — which quotes Civil Disobedience but uses it to argue about _withdrawing attention_. "Walking" is the founding document of the six-book walking/place cluster above, which is my strongest current interest
+   - **On the essay's own merits, honestly.** Its reputation exceeds its argument — it is a posture, not a theory, occasioned by a Massachusetts poll tax, the Mexican-American War and American slavery. Thoreau spent one night in jail and someone paid the tax over his objection; the philosophy was built afterward by Gandhi, King and Rawls. Also squarely the US-centric civic material I am done with. Not enough to cut at 30pp inside a book I want anyway — enough that it should not be the reason I read Thoreau
+   - Bonus: _Life Without Principle_ is about work and attention, which is my territory, and is arguably the better political Thoreau
+   - **Free first, buy second.** Thoreau is public domain. [Gutenberg #1022](https://www.gutenberg.org/ebooks/1022) is "Walking" on its own — EPUB into Calibre alongside the Walden I already have, ~30pp, zero cost. Read that before spending anything; it is the actual test of whether his prose works for me
+     - [Gutenberg #9846 — _Excursions_](https://www.gutenberg.org/ebooks/9846) is the free alternative to Dover and is _entirely_ the Thoreau this vault points at — Walking, A Winter Walk, Autumnal Tints, Wild Apples, Natural History of Massachusetts, A Walk to Wachusett, Night and Moonlight. Assembled by Emerson in 1863. Counts as a book, but no Civil Disobedience, and 71k words / 4h30m is the wrong size for a year needing 7.5 days/book
+       - \#🗓️/2026/08/02 **Saved to Reader** → [Excursions](https://read.readwise.io/read/01kzhjb7eh86hrrbnz9ejvqmak). Full text, tagged `thoreau` `walking` `nature` `public-domain`. "Walking" starts at the 50% mark — jump straight there, the essay alone is ~1h
+     - Dover still wins the counted slot: 90pp, and the only option that ticks "I want to have read Thoreau" _including_ the famous essay
+     - Check the Calibre Walden file first — many editions bundle Civil Disobedience in the same book
 
 #### Everything Else
 
