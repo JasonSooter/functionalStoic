@@ -2,12 +2,12 @@
 publish: true
 aliases: Letter Writing for Resilience
 title: Letter Writing for Resilience
-created: 2025-05-25T16:38:21.523Z
-modified: 2026-08-16T06:16:50.380Z
-published: 2026-08-16T06:16:50.380Z
+created: 2026-08-16T08:57:32.291Z
+modified: 2026-08-16T08:59:11.166Z
+published: 2026-08-16T08:59:11.166Z
 linter-yaml-title-alias: Letter Writing for Resilience
-date created: 2025-05-25T18:38:21+02:00
-date modified: 2026-08-16T07:52:17+02:00
+date created: 2026-08-16T10:57:32+02:00
+date modified: 2026-08-16T10:57:40+02:00
 ---
 
 # Letter Writing for Resilience
@@ -19,12 +19,12 @@ date modified: 2026-08-16T07:52:17+02:00
 ## Metadata
 
 - Author: #people/authors/sarah-m-chappell
-
 - Full Title: Letter Writing for Resilience
-
+- Document Tags: #lifestyle
 - Summary: The author reflects on the joys and anxieties of letter writing in a world dominated by fast technology. They emphasize that waiting for a response can build resilience and acceptance of uncertainty. Despite not knowing if their letter was received, they find value in the act of writing and connecting through snail mail.
-
 - URL: https://sarahmchappell.substack.com/p/letter-writing-for-resilience
+
+## Action Items
 
 - [ ] Create a note "On Uncertainty". A section on the benefits of it might be helpful
 
