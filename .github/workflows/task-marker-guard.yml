@@ -55,6 +55,13 @@ jobs:
             git show "$1:$2" 2>/dev/null | grep -cE "$PATTERN" || true
           }
 
+          # Workflow-command properties are comma-delimited, and note paths here
+          # really do contain commas (`Travel/United States/Columbus, Ohio.md`).
+          # Percent-encode per GitHub's escaping rules or the annotation breaks.
+          esc_prop() {
+            printf '%s' "$1" | sed -e 's/%/%25/g' -e 's/\r/%0D/g' -e 's/:/%3A/g' -e 's/,/%2C/g'
+          }
+
           regressed=0
           while IFS= read -r f; do
             case "$f" in
@@ -64,7 +71,7 @@ jobs:
             old=$(count "$BEFORE" "$f")
             new=$(count "$AFTER" "$f")
             if [ "$old" -gt 0 ] && [ "$new" -eq 0 ]; then
-              echo "::error file=$f::Had $old task marker(s) before this push, now 0 — markers were stripped."
+              echo "::error file=$(esc_prop "$f")::Had $old task marker(s) before this push, now 0 — markers were stripped."
               regressed=1
             fi
           done < <(git diff --name-only --diff-filter=M "$BEFORE" "$AFTER" -- content)
