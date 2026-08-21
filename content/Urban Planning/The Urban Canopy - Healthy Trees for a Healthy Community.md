@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Urban Canopy - Healthy Trees for a Healthy Community
-created: 2025-07-14T14:40:58.615Z
-modified: 2026-08-16T10:54:20.469Z
-published: 2026-08-16T10:54:20.469Z
+created: 2025-07-15T13:40:48.000Z
+modified: 2026-08-16T10:54:20.000Z
+published: 2026-08-16T10:54:20.000Z
 linter-yaml-title-alias: The Urban Canopy - Healthy Trees for a Healthy Community
 date created: 2025-07-14T16:40:58+02:00
 date modified: 2026-08-16T12:54:18+02:00

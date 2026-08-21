@@ -2,9 +2,9 @@
 publish: true
 aliases: Letter Writing for Resilience
 title: Letter Writing for Resilience
-created: 2026-08-16T08:57:32.291Z
-modified: 2026-08-16T09:02:51.637Z
-published: 2026-08-16T09:02:51.637Z
+created: 2025-10-25T01:57:43.000Z
+modified: 2026-08-16T09:02:51.000Z
+published: 2026-08-16T09:02:51.000Z
 linter-yaml-title-alias: Letter Writing for Resilience
 date created: 2026-08-16T10:57:32+02:00
 date modified: 2026-08-16T11:02:49+02:00

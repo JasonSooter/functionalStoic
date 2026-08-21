@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Books Read in 2021
-created: 2024-09-22T03:00:05.509Z
-modified: 2026-08-07T04:46:44.830Z
-published: 2026-08-07T04:46:44.830Z
+created: 2025-09-08T15:33:53.000Z
+modified: 2026-08-07T04:46:44.000Z
+published: 2026-08-07T04:46:44.000Z
 linter-yaml-title-alias: Books Read in 2021
 date created: 2024-09-21T21:00:05-06:00
 date modified: 2026-02-21T09:56:53-07:00

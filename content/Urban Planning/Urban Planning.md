@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Urban Design
 title: Urban Planning
-created: 2024-09-02T19:46:57.608Z
-modified: 2026-07-20T07:49:10.721Z
-published: 2026-07-20T07:49:10.721Z
+created: 2025-07-19T03:28:46.000Z
+modified: 2026-07-20T07:49:10.000Z
+published: 2026-07-20T07:49:10.000Z
 tags:
   - urban-planning
 date created: 2024-09-02T13:46:57-06:00

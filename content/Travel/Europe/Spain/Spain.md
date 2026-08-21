@@ -4,9 +4,9 @@ aliases:
   - Barcelona, Spain
   - Barcelona
 title: Spain
-created: 2023-12-12T03:43:03.000Z
-modified: 2026-07-17T15:37:41.033Z
-published: 2026-07-17T15:37:41.033Z
+created: 2025-09-08T15:33:53.000Z
+modified: 2026-07-17T15:37:41.000Z
+published: 2026-07-17T15:37:41.000Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/spain/barcelona

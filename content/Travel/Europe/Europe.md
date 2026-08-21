@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Europe
-created: 2024-01-04T21:17:33.000Z
-modified: 2026-07-19T13:59:17.259Z
-published: 2026-07-19T13:59:17.259Z
+created: 2025-09-08T15:33:53.000Z
+modified: 2026-07-19T13:59:17.000Z
+published: 2026-07-19T13:59:17.000Z
 tags:
   - places
 aliases:

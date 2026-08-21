@@ -1,9 +1,9 @@
 ---
 publish: true
 title: United States
-created: 2025-05-31T02:24:43.925Z
-modified: 2026-07-26T12:04:11.846Z
-published: 2026-07-26T12:04:11.846Z
+created: 2025-09-08T15:33:53.000Z
+modified: 2026-07-26T12:04:11.000Z
+published: 2026-07-26T12:04:11.000Z
 tags:
   - places
 linter-yaml-title-alias: United States

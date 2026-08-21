@@ -6,9 +6,9 @@ aliases:
   - Turku, Finland
   - Turku
 title: Finland
-created: 2024-01-04T20:21:47.000Z
-modified: 2026-07-17T15:37:28.524Z
-published: 2026-07-17T15:37:28.524Z
+created: 2025-09-09T19:55:13.000Z
+modified: 2026-07-17T15:37:28.000Z
+published: 2026-07-17T15:37:28.000Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/finland/helsinki

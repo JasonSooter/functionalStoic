@@ -3,11 +3,11 @@ publish: true
 aliases:
   - 40 Books in 2026
 title: Books Read in 2026
-created: 2026-08-08T20:53:51.097Z
-modified: 2026-08-08T20:53:51.098Z
-published: 2026-08-08T20:53:51.098Z
+created: 2025-11-30T17:32:03.000Z
+modified: 2026-08-21T16:11:42.980Z
+published: 2026-08-21T16:11:42.980Z
 date created: 2025-11-30T18:32:03+01:00
-date modified: 2026-08-03T11:54:58+02:00
+date modified: 2026-08-21T18:11:42+02:00
 ---
 
 # Books Read in 2026
@@ -97,28 +97,30 @@ Short literary fiction, the shape I reliably finish: [[Dept. Of Speculation]], [
 1. \#🗓️/2026/01/01 [[Good Inside]] #📚/status/finished
 2. \#🗓️/2026/01/04 [[Charlotte's Web]] #📚/status/finished
 3. \#🗓️/2026/01/06 [[Captains Courageous]] #📚/status/finished
-4. \#🗓️/2026/01/19 Abundance #📚/status/finished
+4. \#🗓️/2026/01/19 [Abundance](https://app.thestorygraph.com/books/d66b6c1a-12ab-48a6-9468-822ae0338c79) #📚/status/finished
 5. \#🗓️/2026/01/25 [[The Country Girls]] #📚/status/finished
-6. \#🗓️/2026/01/31 Walking Practice #📚/status/finished
+6. \#🗓️/2026/01/31 [Walking Practice](https://app.thestorygraph.com/books/de718286-865f-40c8-8772-d95807cb9c89) #📚/status/finished
 7. \#🗓️/2026/02/03 [[Quiet]] #📚/status/finished
 8. \#🗓️/2026/03/07 [[Hunchback]] #📚/status/finished
-9. \#🗓️/2026/03/11 Last of the Breed #📚/status/finished
-10. \#🗓️/2026/03/17 Born a Crime #📚/status/finished
-11. \#🗓️/2026/04/01 Greenlights #📚/status/finished
+9. \#🗓️/2026/03/11 [Last of the Breed](https://app.thestorygraph.com/books/063887bd-bd61-4514-aa4b-f819a79ecf1d) #📚/status/finished
+10. \#🗓️/2026/03/17 [Born a Crime](https://app.thestorygraph.com/books/3e69f5e2-e09b-4f8f-8bd7-54c88422ce82) #📚/status/finished
+11. \#🗓️/2026/04/01 [Greenlights](https://app.thestorygraph.com/books/456898cc-17fd-41c3-bfe9-354e5f7c8fa7) #📚/status/finished
 12. \#🗓️/2026/04/02 [[Brave New World]] #📚/status/finished
 13. \#🗓️/2026/06/13 [[Project Hail Mary]] #📚/status/finished
 14. \#🗓️/2026/06/13 [[Jonathan Livingston Seagull]] #📚/status/finished
 15. \#🗓️/2026/06/17 [[The Subtle Art of Not Giving a Fck]] #📚/status/finished
-16. \#🗓️/2026/06/25 Surely You're Joking Mr. Feynman #📚/status/finished
+16. \#🗓️/2026/06/25 [Surely You're Joking Mr. Feynman](https://app.thestorygraph.com/books/ba8a36f6-853e-4666-a661-e7f610070efd) #📚/status/finished
 17. \#🗓️/2026/07/06 [[Death in Venice]] #📚/status/finished
-18. \#🗓️/2026/07/18 The Wonderful Wizard of Oz #📚/status/finished
+18. \#🗓️/2026/07/18 [The Wonderful Wizard of Oz](https://app.thestorygraph.com/books/71d34290-c7b7-42ed-a880-bc983e7858ec) #📚/status/finished
 19. \#🗓️/2026/07/19 [[Dept. Of Speculation]] #📚/status/finished
 20. \#🗓️/2026/07/27 [[The Dry Heart]] #📚/status/finished
+21. \#🗓️/2026/08/13 [[Ethan Frome]] #📚/status/finished
+22. \#🗓️/2026/08/18 [Sapiens](https://app.thestorygraph.com/books/a18282a8-5369-47ad-9603-1f403a7cd8fa) #📚/status/finished
 
 ## Currently Reading
 
-1. [[Ethan Frome]] #📚/status/currently-reading #media-type/ebook #priority/1
-2. Sapiens #📚/status/currently-reading #media-type/audio #priority/1 #📚/library/audible
+1. [[The Place of Tides]] by James Rebanks #📚/status/currently-reading #media-type/ebook — started #🗓️/2026/05/23
+2. [[There Are Places in the World Where Rules Are Less Important Than Kindness]] #📚/status/currently-reading #media-type/ebook #priority/1
 3. [[My Family and Other Animals]] #📚/status/currently-reading #media-type/family #priority/1
 4. [[Middlemarch]] #📚/status/currently-reading #media-type/ebook #priority/2
 5. [[Wanderlust - A History of Walking]] #📚/status/currently-reading #media-type/ebook #priority/2
@@ -143,12 +145,11 @@ These were all `currently-reading` or `to-read` in StoryGraph and completely abs
 
 1. A Philosophy of Walking by Frédéric Gros #📚/status/currently-reading #media-type/ebook — started #🗓️/2026/05/14
    - Direct companion to [[Wanderlust - A History of Walking]], which is also in progress
-2. The Place of Tides by James Rebanks #📚/status/paused #media-type/ebook — started #🗓️/2026/05/23
-3. Of Thorn & Briar - A Year with the West Country Hedgelayer by Paul Lamb #📚/status/paused #media-type/ebook — started #🗓️/2026/06/04
-4. The Way Around - A Field Guide to Going Nowhere by Nicholas Triolo #📚/status/paused #media-type/ebook — started #🗓️/2026/01/13
-5. Braiding Sweetgrass by Robin Wall Kimmerer #📚/status/currently-reading #media-type/audio — started #🗓️/2025/01/24
+2. Of Thorn & Briar - A Year with the West Country Hedgelayer by Paul Lamb #📚/status/paused #media-type/ebook — started #🗓️/2026/06/04
+3. The Way Around - A Field Guide to Going Nowhere by Nicholas Triolo #📚/status/paused #media-type/ebook — started #🗓️/2026/01/13
+4. Braiding Sweetgrass by Robin Wall Kimmerer #📚/status/currently-reading #media-type/audio — started #🗓️/2025/01/24
    - Same author as [[The Serviceberry]], which I read #🗓️/2024/12/24
-6. Outside Lies Magic by John R. Stilgoe #📚/status/paused #media-type/print — started #🗓️/2023/11/11
+5. Outside Lies Magic by John R. Stilgoe #📚/status/paused #media-type/print — started #🗓️/2023/11/11
    - Six books in progress on walking, place and noticing. On the evidence this is my strongest current interest, and the Up Next list did not represent it at all
 
 #### Thoreau
@@ -182,55 +183,55 @@ These were all `currently-reading` or `to-read` in StoryGraph and completely abs
 
 ## Up Next
 
-1. \#🗓️/2025/02/11 In Patagonia by Bruce Chatwin #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
+1. \#🗓️/2025/03/11 [[Time's Echo]] #📚/status/to-read #media-type/ebook #priority/1
+2. \#🗓️/2025/02/11 In Patagonia by Bruce Chatwin #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
    - \#🗓️/2026/07/31 Purchased on Audible before cancelling. Unabridged Penguin Audio edition narrated by Hugh Fraser, 8h27m
-2. Entangled Life by Merlin Sheldrake #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
+3. Entangled Life by Merlin Sheldrake #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
    - Book about Fungi.
    - \#📚/library/in-calibre
    - \#🗓️/2026/07/31 Purchased. Narrated by the author, ~9h — worth hearing even though the text is already in Calibre
-3. \#🗓️/2025/06/26 [The Joy Luck Club](https://app.thestorygraph.com/books/52320baa-8e13-4e76-b9cf-4d7de50ac94c) recommended by #people/friends/clarissa-lee #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
+4. \#🗓️/2025/06/26 [The Joy Luck Club](https://app.thestorygraph.com/books/52320baa-8e13-4e76-b9cf-4d7de50ac94c) recommended by #people/friends/clarissa-lee #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
    - \#🗓️/2026/07/31 Purchased on Audible before cancelling
-4. You're Not Listening: What You're Missing and Why It Matters #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
+5. You're Not Listening: What You're Missing and Why It Matters #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
    - Recommended by #people/friends/kolt-kane while discussing [[How to Know a Person]]
    - \#🗓️/2026/07/31 Purchased on Audible before cancelling
-5. \#🗓️/2026/07/31 As I Lay Dying by [[William Faulkner]] #📚/status/to-read #media-type/ebook #priority/1
+6. \#🗓️/2026/07/31 As I Lay Dying by [[William Faulkner]] #📚/status/to-read #media-type/ebook #priority/1
    - Replaces The Sound and the Fury, which I cut because #source/ai/chatGPT had picked it and it is the hardest thing Faulkner wrote. I want to have read a Faulkner, and this is the entry point.
    - \~250 pages, 59 short chapters across 15 narrators. Faulkner's modernist technique in a form that stays legible, unlike _The Sound and the Fury_.
    - Fits the short-literary-novel lane I actually finish: [[Death in Venice]], [[The Dry Heart]], [[Dept. Of Speculation]], [[Agostino]], [[Bonjour Tristesse]]
-6. Trillions by Robin Wigglesworth #📚/status/to-read #media-type/ebook #priority/1
+7. Trillions by Robin Wigglesworth #📚/status/to-read #media-type/ebook #priority/1
    - Book recommendation In a post, [Summer Reading](https://jlcollinsnh.com/2024/09/02/kibanda-repairs-summer-reading/) by #people/authors/jl-collins
    - This is best described as the biography of the index fund. Compelling reading if you are a huge fan of these things and how they’ve vastly improved the investment world for us individual investors. But even if your interest is mild, Robin Wigglesworth does such a brilliant job, you’ll likely find it a compelling read. ([View Highlight](https://read.readwise.io/read/01j79bfzvpv76fe4yzkk950z7t))
    - \#🗓️/2026/07/31 Ranked high. I invest only in index funds (VT), so this is the origin story of what I already own — Jack Bogle founded Vanguard and Nate Most invented the ETF structure. Both halves of the ticker are characters in the book.
    - Same shape as the nonfiction I actually finish: biography-of-a-thing. [[Cod]], [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]], [[The Brompton - Engineering for Change]], [[Wheels of Change]], [[Just for Fun - The Story of an Accidental Revolutionary]]
    - Caveat: the last third moves into ETF-industry mechanics and the index-concentration debate, which is drier than the Bogle origin material
-7. \#🗓️/2026/08/01 Untangled: Guiding Teenage Girls Through the Seven Transitions into Adulthood by Lisa Damour #📚/status/to-read #media-type/ebook #priority/1 #people/family/andrea-sooter
+8. \#🗓️/2026/08/01 Untangled: Guiding Teenage Girls Through the Seven Transitions into Adulthood by Lisa Damour #📚/status/to-read #media-type/ebook #priority/1 #people/family/andrea-sooter
    - Ranked high because it is the most time-sensitive book on this list. My eldest (f, 14) is squarely in the window right now; my youngest (f, 11) reaches it in a year or two. This book has an expiry date the others do not.
    - GR **4.52** across **19,592** ratings — the highest-rated book in the entire parenting cluster by a wide margin.
    - Seven strands: Parting with Childhood, Joining a New Tribe, Harnessing Emotions, Contending with Adult Authority, Planning for the Future, Entering the Romantic World, Caring for Herself. Each chapter has a "when to worry" section separating normal adolescence from real concern.
    - \#🗓️/2026/08/01 I had culled this one. The reason was wrong: my old note apologised that it was "focused on girls" and argued the approach could apply to boys — because I had filed it in a run of books about my son. I judged it by its neighbours. I have two daughters; this is the on-target book, not the extrapolation.
    - Follow-on if this lands: _Under Pressure_ by the same author, on stress and anxiety in girls — the girls-specific counterpart to [[The Anxious Generation]]
-8. \#🗓️/2026/08/02 The Silk Roads - A New History of the World by Peter Frankopan #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
+9. \#🗓️/2026/08/02 The Silk Roads - A New History of the World by Peter Frankopan #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
    - Book recommendation In a post, [Summer Reading](https://jlcollinsnh.com/2024/09/02/kibanda-repairs-summer-reading/) by #people/authors/jl-collins
    - ⚠️ **Get the illustrated edition before starting.** I already own this on Audible, but audio is the worst possible format for this specific book. The single most common complaint about it is that it badly needs maps — it covers Persia, Central Asia and the steppe, places most readers cannot picture. An audiobook strips out the one thing the text is already short of. The illustrated edition adds proper maps and plates. Read that, or at minimum keep it open alongside the audio.
    - \#🗓️/2026/08/02 I had culled this. The reason was wrong: I read the "I wish there were more and better maps" line as my own verdict, but it is #people/authors/jl-collins reviewing the book in the post above — a minor caveat inside a recommendation. I have not read it. Same misreading I made on [[Trillions]], from the same post.
    - GR **4.18** across **42,526** ratings
    - Anchors a cluster I am actively building rather than duplicating Sapiens: trade routes, commodities and East–West exchange. See [[The Travels of Ibn Battuta]] and [[Nathaniel's Nutmeg]] on this list, and [[Cod]], [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] and [[On the Hippie Trail]] already read. Sapiens is species-level deep time; this is geopolitics and commerce. Different projects.
    - Honest caveats: historians flag real overclaims (an asserted Ramayana/Homer link, South American plunder financing the Taj Mahal), the definition of "silk roads" is elastic and bent toward Frankopan's own specialism, and the final third on the 20th century is the weakest and most polemical stretch
-9. The Hour of the Star
-10. Hot and Bothered - What No One Tells You About Menopause and How to Feel Like Yourself Again by Jancee Dunn #📚/status/to-read #media-type/ebook #priority/1 #people/family/andrea-sooter
+10. The Hour of the Star
+11. Hot and Bothered - What No One Tells You About Menopause and How to Feel Like Yourself Again by Jancee Dunn #📚/status/to-read #media-type/ebook #priority/1 #people/family/andrea-sooter
     - \#🗓️/2026/08/02 Author and reason recorded — the entry was previously just a bare title with no author, which made it unassessable and easy to cull by accident.
     - Reading this for [[Andrea]], not for me. Menopause affects her now or in the near future and I would rather understand it early than react to it late.
     - GR **4.18**. Part memoir, part practical — Dunn is a journalist writing from inside the experience.
     - Sits with [[Untangled]] as the other book here about a phase happening to someone I love on a timeline I do not control
-11. [[Thinking in Systems - A Primer]] #📚/status/paused #media-type/ebook #priority/3
-12. [[Meditations]] #📚/status/currently-reading #media-type/ebook #priority/3
-13. [[Engineering in Plain Sight]] #📚/status/reference #media-type/ebook #priority/3
-14. \#🗓️/2024/08/08 [[Feminist City]] #📚/status/currently-reading #media-type/ebook #priority/1
-15. [[Nathaniel's Nutmeg]] #📚/status/currently-reading #media-type/ebook #priority/1
+12. [[Thinking in Systems - A Primer]] #📚/status/paused #media-type/ebook #priority/3
+13. [[Meditations]] #📚/status/currently-reading #media-type/ebook #priority/3
+14. [[Engineering in Plain Sight]] #📚/status/reference #media-type/ebook #priority/3
+15. \#🗓️/2024/08/08 [[Feminist City]] #📚/status/currently-reading #media-type/ebook #priority/1
+16. [[Nathaniel's Nutmeg]] #📚/status/currently-reading #media-type/ebook #priority/1
     - \#🗓️/2026/08/02 Un-paused. I am finding it genuinely interesting and intend to finish it, so "paused" was misleading.
     - Sits with [[The Silk Roads]] and [[The Travels of Ibn Battuta]] — spice trade, trade routes, East–West exchange
-16. [[How to Know a Person]] #📚/status/paused #media-type/ebook #priority/1
-17. [[There Are Places in the World Where Rules Are Less Important Than Kindness]] #📚/status/currently-reading #media-type/ebook #priority/1
+17. [[How to Know a Person]] #📚/status/paused #media-type/ebook #priority/1
 18. \#🗓️/2023/10/10 [[Factfulness]] by [[Hans Rosling]] #📚/status/to-read #media-type/ebook #priority/1
     - \#🗓️/2026/08/02 Confirmed keeper, not a survivor of the cull. I really liked [[Hans Rosling|How I Learned to Understand the World]] (#🗓️/2024/03/15) and want the argument book from the same man, not just the memoir. The "fourth optimism book" objection does not apply — the pull here is Rosling himself.
 19. \#🗓️/2025/01/26 [[Connections]] by James Burke #📚/status/to-read #media-type/ebook #priority/1
@@ -246,57 +247,56 @@ These were all `currently-reading` or `to-read` in StoryGraph and completely abs
 22. \#🗓️/2025/01/26 [[War and Peace]] #📚/status/to-read #media-type/ebook #priority/1
     - [[Darien Mitchell-Tontar]] mentioned he planned to read it as it is Eric North's top recommendation. High praise in [[Darien Mitchell-Tontar|Darien]]'s opinion given Eric has a Linguistics degree
 23. \#🗓️/2025/02/04 Built - The Hidden Stories Behind Our Structures by Roma Agrawal #📚/status/to-read #media-type/ebook #priority/1
-24. \#🗓️/2025/03/11 [[Time's Echo]] #📚/status/to-read #media-type/ebook #priority/1
-25. \#🗓️/2025/03/11 [[The Year of Less]] #📚/status/to-read #media-type/ebook #priority/1
-26. \#🗓️/2025/01/31 Power Metal: The Race for the Resources That Will Shape the Future by Vince Beiser #📚/status/to-read #media-type/ebook #priority/1
+24. \#🗓️/2025/03/11 [[The Year of Less]] #📚/status/to-read #media-type/ebook #priority/1
+25. \#🗓️/2025/01/31 Power Metal: The Race for the Resources That Will Shape the Future by Vince Beiser #📚/status/to-read #media-type/ebook #priority/1
     - [Interview on the Daily Show](https://www.youtube.com/watch?v=pWR1ywEoQkM)
-27. \#🗓️/2025/01/26 [How Infrastructure Works](https://www.penguinrandomhouse.com/books/612711/how-infrastructure-works-by-deb-chachra/?ref=sentiers.media) ([View Highlight](https://read.readwise.io/read/01jfwfcxjg23xgeesq1hh0cfce)) by Deb Chachra #📚/status/to-read #media-type/ebook #priority/1
+26. \#🗓️/2025/01/26 [How Infrastructure Works](https://www.penguinrandomhouse.com/books/612711/how-infrastructure-works-by-deb-chachra/?ref=sentiers.media) ([View Highlight](https://read.readwise.io/read/01jfwfcxjg23xgeesq1hh0cfce)) by Deb Chachra #📚/status/to-read #media-type/ebook #priority/1
     - Recommended by #people/authors/patrick-tanguay
-28. \#🗓️/2024/12/20 7 Pillars by Lawrence of Arabia #📚/status/to-read #media-type/ebook #priority/1
-29. \#🗓️/2024/08/31 Swann's Way (In Search of Lost Time, Vol. 1) by Marcel Proust #📚/status/to-read #media-type/ebook #priority/1
+27. \#🗓️/2024/12/20 7 Pillars by Lawrence of Arabia #📚/status/to-read #media-type/ebook #priority/1
+28. \#🗓️/2024/08/31 Swann's Way (In Search of Lost Time, Vol. 1) by Marcel Proust #📚/status/to-read #media-type/ebook #priority/1
     - Proust’s monumental work is a deep exploration of memory, time, and society. It’s often regarded as one of the greatest literary achievements of the 20th century.
     - \#🗓️/2026/07/31 Narrowed from the full 7-volume cycle to Vol. 1 so it is actually startable. Decide on Vol. 2 only after finishing
     - Translation matters: Moncrieff/Enright (Modern Library) for one consistent voice, or Lydia Davis (Penguin) for Vol. 1 specifically — Davis is the sharper prose but Penguin switches translators each volume
-30. \#🗓️/2024/08/31 Madame Bovary by **Gustave Flaubert** #📚/status/to-read #media-type/ebook #priority/1
+29. \#🗓️/2024/08/31 Madame Bovary by **Gustave Flaubert** #📚/status/to-read #media-type/ebook #priority/1
     - This novel is a classic in realism, depicting the life of Emma Bovary and her romantic and existential struggles. It’s known for its stylistic perfection and critique of bourgeois society.
-31. \#🗓️/2024/08/31 The Trial by **Franz Kafka** #📚/status/to-read #media-type/ebook #priority/1
+30. \#🗓️/2024/08/31 The Trial by **Franz Kafka** #📚/status/to-read #media-type/ebook #priority/1
     - _The Trial_ is one of Kafka’s most famous works, capturing the sense of alienation and absurdity as the protagonist, Josef K., navigates a nightmarish legal system. It’s a quintessential example of Kafka’s exploration of bureaucratic oppression.
-32. \#🗓️/2024/08/31 To the Lighthouse by **Virginia Woolf** #📚/status/to-read #media-type/ebook #priority/1
+31. \#🗓️/2024/08/31 To the Lighthouse by **Virginia Woolf** #📚/status/to-read #media-type/ebook #priority/1
     - This novel is a key work of modernist literature, known for its stream-of-consciousness technique and its deep exploration of the interior lives of its characters. It reflects on themes of time, memory, and the nature of artistic creation.
-33. \#🗓️/2024/07/22 The Open-Air Life #📚/status/to-read #media-type/ebook #priority/1
-34. The Invention of Nature by Andrea Wulf #📚/status/to-read #media-type/ebook #priority/1
-35. \#🗓️/2024/07/22 [Dark Matter](https://www.goodreads.com/book/show/27833670-dark-matter) #📚/status/to-read #media-type/ebook #priority/1 #twilio/people/kat-chaires
-36. \#🗓️/2024/06/17 Amusing Ourselves to Death by Neil Postman #📚/status/to-read #media-type/ebook #priority/1
-37. \#🗓️/2025/01/16 Nexus by Yuval Noah Harari #📚/status/to-read #media-type/audio #priority/2
+32. \#🗓️/2024/07/22 The Open-Air Life #📚/status/to-read #media-type/ebook #priority/1
+33. The Invention of Nature by Andrea Wulf #📚/status/to-read #media-type/ebook #priority/1
+34. \#🗓️/2024/07/22 [Dark Matter](https://www.goodreads.com/book/show/27833670-dark-matter) #📚/status/to-read #media-type/ebook #priority/1 #twilio/people/kat-chaires
+35. \#🗓️/2024/06/17 Amusing Ourselves to Death by Neil Postman #📚/status/to-read #media-type/ebook #priority/1
+36. \#🗓️/2025/01/16 Nexus by Yuval Noah Harari #📚/status/to-read #media-type/audio #priority/2
     - [Interview on the Daily Show](https://www.youtube.com/watch?v=euBAVec2RhE)
     - \#🗓️/2026/07/31 Good audio candidate, deferred — don't want two Harari books back to back with Sapiens
-38. Constructive living by David Reynolds #📚/status/to-read #media-type/ebook #priority/1
+37. Constructive living by David Reynolds #📚/status/to-read #media-type/ebook #priority/1
     - Recommended by #people/friends/kolt-kane
       - _"It's kind of an introduction into two Japanese concepts/therapy techniques (morita therapy and bailan) that focus on productive action as therapy vs western ideas about talking about your feelings or uncovering some repressed feelings etc. it's very refreshing. I feel like I had let go of a great deal of skepticism on the subject over the years. It's nice to recover a healthy amount"_
-39. Midlife by Kieran Setiya #📚/status/to-read #media-type/ebook #priority/1
+38. Midlife by Kieran Setiya #📚/status/to-read #media-type/ebook #priority/1
     - In [[Four Thousand Weeks]], he mentions how he was moving towards 40 and feeling an emptiness. I've felt certain feelings in this area and would like to dig in more #📚/status/to-read #media-type/ebook #priority/1
-40. [[The Travels of Ibn Battuta]] #📚/status/to-read #media-type/ebook #priority/1
-41. \#🗓️/2023/12/03 The Anatomy of Peace by The Arbinger Institute #people/authors/the-arbinger-institute #📚/status/to-read #media-type/ebook #priority/1 #people/family/andrea-sooter
+39. [[The Travels of Ibn Battuta]] #📚/status/to-read #media-type/ebook #priority/1
+40. \#🗓️/2023/12/03 The Anatomy of Peace by The Arbinger Institute #people/authors/the-arbinger-institute #📚/status/to-read #media-type/ebook #priority/1 #people/family/andrea-sooter
     - [[Andrea]] mentioned it. She stated it aligns with Good Inside
-42. \#🗓️/2024/05/31 The Autobiography of Benjamin Franklin #📚/status/to-read #media-type/ebook #priority/1
-43. \#🗓️/2024/12/10 [Story of Your Life](https://en.wikipedia.org/wiki/Story_of_Your_Life?ref=blog.codinghorror.com) novella it was based on for so much additional nuance.
+41. \#🗓️/2024/05/31 The Autobiography of Benjamin Franklin #📚/status/to-read #media-type/ebook #priority/1
+42. \#🗓️/2024/12/10 [Story of Your Life](https://en.wikipedia.org/wiki/Story_of_Your_Life?ref=blog.codinghorror.com) novella it was based on for so much additional nuance.
     - Ready to read in Readwise Reader
     - Recommended by #people/authors/jeff-atwood [in this post](https://read.readwise.io/read/01jerdf0jkj1tbcammdwkkjeh3) #📚/status/to-read #media-type/ebook #priority/1
     - The movie [Arrival](https://en.wikipedia.org/wiki/Arrival_\(film\)?ref=blog.codinghorror.com) is based on this book
-44. In [a post from Helen Russell](https://mshelenrussell.substack.com/p/a-very-bookish-week-science-quizzes), she mentions:
+43. In [a post from Helen Russell](https://mshelenrussell.substack.com/p/a-very-bookish-week-science-quizzes), she mentions:
     - This time, we discussed Elif Shafak’s _[There Are Rivers in the Sky](https://uk.bookshop.org/p/books/there-are-rivers-in-the-sky-elif-shafak/7364268?aid=6421\&ean=9780241435014&)_ - a tsunami of a novel that explores the fluidity of time, memory, and water. Beginning in ancient Mesopotamia, it follows a raindrop’s journey through centuries, from the hair of King Ashurbanipal to Victorian London, where it lands on the tongue of Arthur Smyth, an impoverished child who later becomes a renowned Assyriologist. Arthur is based on a real life Victorian, George Smith - a self-taught scholar who discovered and translated the _Epic of Gilgamesh_ from cuneiform tablets in the 19th century. Like Arthur in the novel, Smith rose from humble beginnings to become a key figure in the study of ancient Mesopotamian history. The novel fictionalises his journey, along with a young Yazidi girl and a hydrologist who investigates water’s memory.
     - It’s a book that had me turning down corners, scribbling notes (always a good sign) and seeking out a stack of other books that relate to the big umbrella-problems of morality, ecology and belonging. ([View Highlight](https://read.readwise.io/read/01jpctg8q1g4jk90h4mkt5cba6))
-45. [_Memories, Dreams, Reflections_](https://en.wikipedia.org/wiki/Memories,_Dreams,_Reflections) - Carl Jung's autobiography ([View Highlight](https://read.readwise.io/read/01j54j19xcx1f7f8q8wmr13j89))
+44. [_Memories, Dreams, Reflections_](https://en.wikipedia.org/wiki/Memories,_Dreams,_Reflections) - Carl Jung's autobiography ([View Highlight](https://read.readwise.io/read/01j54j19xcx1f7f8q8wmr13j89))
     - Mentioned [in a post](https://ckarchive.com/b/p9ueh9h37n9d6sm6ggw6kam7l9033) by Oliver Burkeman #📚/status/to-read #media-type/ebook #priority/1
-46. [[Burning the Books]] #📚/status/to-read #media-type/ebook #priority/3
+45. [[Burning the Books]] #📚/status/to-read #media-type/ebook #priority/3
     - \#🗓️/2026/08/02 Pulled back from the cull to evaluate properly later, not to read now. Parked at the end deliberately.
     - The case against: added #🗓️/2021/06/23 and untouched for five years. The entire provenance was "[[Ajay David]] mentioned he was reading it."
     - The case for, which I did not check at the time: I keep a [[Little Free Library]] project and the vault has a live thread on libraries and public knowledge. Worth testing that before deciding.
-47. \#🗓️/2023/08/25 How to Write Short - Word Craft for Fast Times by Roy Peter Clark #📚/status/to-read #media-type/ebook #priority/3
+46. \#🗓️/2023/08/25 How to Write Short - Word Craft for Fast Times by Roy Peter Clark #📚/status/to-read #media-type/ebook #priority/3
     - \#🗓️/2026/08/02 Pulled back from the cull to evaluate properly later, not to read now. Parked at the end deliberately.
     - The case against: minor craft book, dormant since 2023.
     - The case for, which I did not check at the time: I said "I am not primarily a writer" without looking. [[On Writing]] is 215 lines and there is a `Writing Tasks/` directory. Recommended by #people/authors/richard-reeves, whose _Of Boys and Men_ I rated 5.0.
-48. \#🗓️/2026/08/03 Fortune's Formula - The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street by William Poundstone #📚/status/to-read #media-type/ebook #priority/1 #people/friends/kolt-kane
+47. \#🗓️/2026/08/03 Fortune's Formula - The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street by William Poundstone #📚/status/to-read #media-type/ebook #priority/1 #people/friends/kolt-kane
     - Recommended by #people/friends/kolt-kane. Third Kolt recommendation on this list after _Constructive Living_ and _You're Not Listening_ — his hit rate is the reason this ranks where it does.
     - Three braided threads: Claude Shannon inventing information theory at Bell Labs, John Kelly deriving the **Kelly criterion** from Shannon's channel-capacity math, and Ed Thorp carrying it from blackjack tables to the first quant hedge fund. A mob/wire-service subplot runs underneath about bookies profiting from information latency.
     - The idea worth the price of admission: bet a fraction of bankroll proportional to your edge. Kelly maximises long-run **geometric** growth, not expected value — which is the formal argument for why volatility drag is real and why maximising expected return eventually bankrupts you. Directly load-bearing for how I already think about a globally diversified VT position.
@@ -305,13 +305,13 @@ These were all `currently-reading` or `to-read` in StoryGraph and completely abs
     - Shannon connection to [[Surely You're Joking Mr. Feynman]] (#🗓️/2026/06/25) — same era, same kind of playful polymath. Speculation, but I suspect that portrait is why Kolt thought of me rather than the betting maths.
     - ⚠️ Caveat: Poundstone is a populariser and the maths stays gestural. If it lands and I want rigour, the follow-ons are Thorp's _A Man for All Markets_ (better memoir) and Kelly's original 1956 paper, which is six pages and readable. Do not add either until this one is finished.
     - The Samuelson-vs-Kelly academic fight is the intellectual spine of the back half — whether log utility is the right objective function at all. Poundstone does not declare a winner, which is to his credit.
-49. \#🗓️/2026/08/03 Annals of the Former World by John McPhee #📚/status/to-read #media-type/print #priority/2
+48. \#🗓️/2026/08/03 Annals of the Former World by John McPhee #📚/status/to-read #media-type/print #priority/2
     - The deep-time book _Timefulness_ wants to be. Pulitzer for General Nonfiction, 1999. Five books collected into one: McPhee drives Interstate 80 across the United States with a different geologist in each volume and reads the continent off the roadcuts.
     - The reason to read it is the prose, independent of subject. McPhee is the structural craftsman other nonfiction writers study — which also makes it a live entry for the _How to Write Short_ / [[On Writing]] thread rather than only the natural-world one.
     - Joins the walking-place-noticing cluster the StoryGraph reconciliation found is my strongest actual interest: [[Wanderlust - A History of Walking]], A Philosophy of Walking, Outside Lies Magic, The Way Around.
     - ⚠️ Caveat, and it is the real one: ~700 pages, and it is a **Tier 3 hard book**. The 2026 budget for those is exactly two and both are spoken for ([[Middlemarch]], The Silk Roads). This is a 2027 book. Print, not audio — same failure mode as The Silk Roads, it needs maps and cross-sections.
     - Cheap way in if I want to test McPhee first: _Basin and Range_, the first ~200pp volume, published standalone.
-50. \#🗓️/2026/08/03 Seeing Like a State by James C. Scott #📚/status/to-read #media-type/ebook #priority/1
+49. \#🗓️/2026/08/03 Seeing Like a State by James C. Scott #📚/status/to-read #media-type/ebook #priority/1
     - If what actually attracted me to _Timefulness_ was how landscape and infrastructure decisions play out over centuries, this is the book — and it is closer to my urbanism lane than to my geology one.
     - Thesis: states impose **legibility** on complex systems — cadastral maps, scientific forestry, standardised surnames, Brasília — and the simplification that makes a system administrable is the same simplification that makes it fail. Scott's counter-concept is _mētis_, local practical knowledge that resists being written down.
     - Direct line to Jane Jacobs, whom Scott credits explicitly, and to [[Feminist City]] and How Infrastructure Works already on this list. Also the sharpest available frame for what I do professionally: schema design, canonical data models and Protocols are legibility projects, and they fail in exactly the ways Scott describes.

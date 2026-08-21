@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Paris
-created: 2026-07-17T14:36:02.899Z
-modified: 2026-07-17T15:37:44.520Z
-published: 2026-07-17T15:37:44.520Z
+created: 2026-07-17T14:36:02.000Z
+modified: 2026-07-17T15:37:44.000Z
+published: 2026-07-17T15:37:44.000Z
 tags:
   - places
 location:
