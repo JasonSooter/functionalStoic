@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Mexico City
-created: 2025-01-04T21:14:36.000Z
-modified: 2026-07-17T19:27:12.000Z
-published: 2026-07-17T19:27:12.000Z
+created: 2024-12-22T21:32:36.142Z
+modified: 2026-07-17T19:27:12.226Z
+published: 2026-07-17T19:27:12.226Z
 tags:
   - places
 linter-yaml-title-alias: Mexico City

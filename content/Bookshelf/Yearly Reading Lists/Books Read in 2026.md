@@ -3,11 +3,11 @@ publish: true
 aliases:
   - 40 Books in 2026
 title: Books Read in 2026
-created: 2025-11-30T17:32:03.000Z
-modified: 2026-08-21T16:11:42.980Z
-published: 2026-08-21T16:11:42.980Z
+created: 2026-08-08T20:53:51.097Z
+modified: 2026-08-21T16:19:22.000Z
+published: 2026-08-21T16:19:22.000Z
 date created: 2025-11-30T18:32:03+01:00
-date modified: 2026-08-21T18:11:42+02:00
+date modified: 2026-08-21T18:19:20+02:00
 ---
 
 # Books Read in 2026
@@ -214,7 +214,7 @@ These were all `currently-reading` or `to-read` in StoryGraph and completely abs
 9. \#🗓️/2026/08/02 The Silk Roads - A New History of the World by Peter Frankopan #📚/status/to-read #media-type/audio #priority/1 #📚/library/audible
    - Book recommendation In a post, [Summer Reading](https://jlcollinsnh.com/2024/09/02/kibanda-repairs-summer-reading/) by #people/authors/jl-collins
    - ⚠️ **Get the illustrated edition before starting.** I already own this on Audible, but audio is the worst possible format for this specific book. The single most common complaint about it is that it badly needs maps — it covers Persia, Central Asia and the steppe, places most readers cannot picture. An audiobook strips out the one thing the text is already short of. The illustrated edition adds proper maps and plates. Read that, or at minimum keep it open alongside the audio.
-   - \#🗓️/2026/08/02 I had culled this. The reason was wrong: I read the "I wish there were more and better maps" line as my own verdict, but it is #people/authors/jl-collins reviewing the book in the post above — a minor caveat inside a recommendation. I have not read it. Same misreading I made on [[Trillions]], from the same post.
+   - \#🗓️/2026/08/02 I had culled this. The reason was wrong: I read the "I wish there were more and better maps" line as my own verdict, but it is #people/authors/jl-collins reviewing the book in the post above — a minor caveat inside a recommendation. I have not read it. Same misreading I made on Trillions, from the same post.
    - GR **4.18** across **42,526** ratings
    - Anchors a cluster I am actively building rather than duplicating Sapiens: trade routes, commodities and East–West exchange. See [[The Travels of Ibn Battuta]] and [[Nathaniel's Nutmeg]] on this list, and [[Cod]], [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] and [[On the Hippie Trail]] already read. Sapiens is species-level deep time; this is geopolitics and commerce. Different projects.
    - Honest caveats: historians flag real overclaims (an asserted Ramayana/Homer link, South American plunder financing the Taj Mahal), the definition of "silk roads" is elastic and bent toward Frankopan's own specialism, and the final third on the 20th century is the weakest and most polemical stretch

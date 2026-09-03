@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Theory of Proximity
 title: Theory of Proximity Gains
-created: 2025-09-08T15:33:53.000Z
-modified: 2026-07-20T07:49:29.000Z
-published: 2026-07-20T07:49:29.000Z
+created: 2024-08-09T00:41:16.182Z
+modified: 2026-07-20T07:49:29.001Z
+published: 2026-07-20T07:49:29.001Z
 date created: 2024-08-08T18:41:16-06:00
 date modified: 2026-02-21T09:56:46-07:00
 linter-yaml-title-alias: Theory of Proximity Gains

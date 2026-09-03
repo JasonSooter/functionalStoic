@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Books Read in 2022
-created: 2025-02-04T14:01:43.000Z
-modified: 2026-08-07T04:46:49.000Z
-published: 2026-08-07T04:46:49.000Z
+created: 2024-09-22T03:08:51.232Z
+modified: 2026-08-07T04:46:49.775Z
+published: 2026-08-07T04:46:49.775Z
 linter-yaml-title-alias: Books Read in 2022
 date created: 2024-09-21T21:08:51-06:00
 date modified: 2026-02-21T09:56:53-07:00

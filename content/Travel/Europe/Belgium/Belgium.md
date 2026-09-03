@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Belgium
-created: 2025-09-09T19:54:43.000Z
-modified: 2026-07-17T16:17:21.000Z
-published: 2026-07-17T16:17:21.000Z
+created: 2024-10-05T01:12:36.403Z
+modified: 2026-07-17T16:17:21.621Z
+published: 2026-07-17T16:17:21.621Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/belgium

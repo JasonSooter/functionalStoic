@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Yearly Reading Lists
-created: 2025-09-08T15:33:53.000Z
-modified: 2026-08-07T05:05:33.000Z
-published: 2026-08-07T05:05:33.000Z
+created: 2024-11-30T03:20:41.171Z
+modified: 2026-08-07T05:05:33.428Z
+published: 2026-08-07T05:05:33.428Z
 date created: 2024-11-30T04:20:41+01:00
 date modified: 2026-08-07T07:04:31+02:00
 tags:

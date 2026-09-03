@@ -4,9 +4,9 @@ permalink: brompton
 aliases:
   - Brompton
 title: Brompton Bike
-created: 2025-09-08T15:33:53.000Z
-modified: 2026-07-26T10:52:34.000Z
-published: 2026-07-26T10:52:34.000Z
+created: 2024-02-22T12:32:18.000Z
+modified: 2026-07-26T10:52:34.465Z
+published: 2026-07-26T10:52:34.465Z
 date created: 2023-10-27T10:00:47+02:00
 date modified: 2026-07-26T12:52:32+02:00
 linter-yaml-title-alias: Brompton Bike

@@ -5,13 +5,13 @@ aliases:
   - Bikes
   - Biking
 title: Cycling
-created: 2025-09-25T14:40:52.000Z
-modified: 2026-08-16T10:56:20.000Z
-published: 2026-08-16T10:56:20.000Z
+created: 2024-02-08T19:20:20.000Z
+modified: 2026-08-29T13:46:53.175Z
+published: 2026-08-29T13:46:53.175Z
 tags:
   - hobbies/bikes
 date created: 2025-09-25T16:40:52+02:00
-date modified: 2026-08-16T12:56:18+02:00
+date modified: 2026-08-29T15:46:49+02:00
 ---
 
 # Cycling
@@ -129,3 +129,9 @@ Here are the steps you can follow to fix a derailleur that causes the chain to c
 
 > [!quote] There is power in the small, purposeful actions we take each day. Riding a bike may seem modest, but it’s a quiet act of defiance and hope for a better future. At Brompton, we remain committed to shaping that better future—one bike, one ride, and one city at a time.  
 > —Will Butler-Adams (Looking Back at 2024 email)
+
+## Possibilities Opened Up By Cycling
+
+![[Attachments/Possibilities Opened Up By Cycling.png]]
+
+- ([View Source Highlight](https://read.readwise.io/read/01k88k25b9rm8qhqe0k22ast2d))

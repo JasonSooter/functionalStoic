@@ -4,9 +4,9 @@ aliases:
   - Public Space
   - Project for Public Spaces
 title: Public Spaces
-created: 2025-06-21T01:33:20.000Z
-modified: 2026-08-16T10:56:41.000Z
-published: 2026-08-16T10:56:41.000Z
+created: 2024-10-19T03:09:58.413Z
+modified: 2026-08-16T10:56:41.086Z
+published: 2026-08-16T10:56:41.086Z
 linter-yaml-title-alias: Public Spaces
 date created: 2024-10-19T05:09:58+02:00
 date modified: 2026-08-16T12:56:39+02:00
