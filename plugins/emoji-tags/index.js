@@ -9,8 +9,7 @@ import { pathToRoot, slugTag } from "@quartz-community/utils"
 // so the tokenizer bails on the first character and the tag stays plain text.
 //
 // This plugin converts the tags it missed, emitting the same mdast shape so
-// crawl-links resolves them identically, then repairs the link text crawl-links
-// truncates (see restoreTagText below).
+// crawl-links resolves them identically.
 
 const TAG_CHAR = String.raw`[\p{L}\p{M}\p{Extended_Pictographic}\u{FE0F}\u{200D}0-9_-]`
 
@@ -65,30 +64,6 @@ function linkEmojiTags() {
   }
 }
 
-// crawl-links' `prettyLinks` truncates internal link text to its basename. It tries
-// to exempt tags with a `!value.startsWith("#")` guard, but tag link text carries no
-// "#" — that comes from `.tag-link::before` — so the guard never fires and every
-// nested tag is flattened to its last segment (`#🗓️/2024/04/25` → `#25`). Put the
-// full tag back, reading it from the slug crawl-links resolved.
-function restoreTagText() {
-  return (tree) => {
-    visit(tree, "element", (node) => {
-      if (node.tagName !== "a" || !node.properties) return
-
-      const classes = node.properties.className
-      if (!Array.isArray(classes) || !classes.includes("tag-link")) return
-
-      const slug = node.properties["data-slug"]
-      if (typeof slug !== "string" || !slug.startsWith("tags/")) return
-
-      const [child] = node.children
-      if (node.children.length === 1 && child?.type === "text") {
-        child.value = slug.slice("tags/".length)
-      }
-    })
-  }
-}
-
 // crawl-links records every internal link as an outgoing edge, tag links included.
 // The graph builds its edges from that list, so tags land in it as ordinary nodes —
 // `showTags: false` can't suppress them, because it only skips the separate pass over
@@ -109,6 +84,6 @@ export const EmojiTags = () => ({
     return [linkEmojiTags]
   },
   htmlPlugins() {
-    return [restoreTagText, unlinkTagsFromGraph]
+    return [unlinkTagsFromGraph]
   },
 })
