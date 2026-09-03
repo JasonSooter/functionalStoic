@@ -3,8 +3,9 @@
 > and fixed in commit `59161a7` (2026-08-30), which bumped
 > `@quartz-community/remark-obsidian` to 0.2.4 — adopting the `listItem`
 > toMarkdown handler proposed below. Shipped in quartz-syncer **2.0.5**;
-> verified end-to-end on **2.0.10** (2026-09-03), with all 11 task-bearing notes
-> republishing with their markers intact.
+> verified end-to-end on **2.0.10** (2026-09-03), with every task-bearing note
+> republishing with its marker count unchanged. That was 11 notes on the day of
+> verification; the count of 12 below is from 2026-08-16, when this was written.
 >
 > The local patch and the CI guard that backed it have been retired. This file is
 > kept as the record of the investigation.
