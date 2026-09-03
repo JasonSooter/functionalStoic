@@ -77,7 +77,7 @@
       "source": "github:quartz-community/crawl-links",
       "resolved": "https://github.com/quartz-community/crawl-links.git",
       "commit": "2673605b9d47a84cc1b0a4a119fe6dfd116b7762",
-      "installedAt": "2026-09-03T07:18:13.773996Z"
+      "installedAt": "2026-09-03T07:18:13.773Z"
     },
     "created-modified-date": {
       "source": "github:quartz-community/created-modified-date",
