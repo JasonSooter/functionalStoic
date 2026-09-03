@@ -82,9 +82,10 @@ jobs:
           # pushed, so the sync itself is fine — but the job must still FAIL.
           # GitHub only notifies on failed workflows by default, so exiting 0 here
           # meant a silent green run and a sync branch nobody knew about.
-          if PR_ERR=$(gh pr create --base main --head "$BRANCH" \
+          # 2>&1 so a failure keeps its message; on success this is the PR URL.
+          if PR_OUT=$(gh pr create --base main --head "$BRANCH" \
             --title "$TITLE" --body "$BODY" 2>&1); then
-            echo "Opened the sync PR: $PR_ERR"
+            echo "Opened the sync PR: $PR_OUT"
             exit 0
           fi
 
@@ -92,22 +93,30 @@ jobs:
           EB=$(jq -rn --arg s "$BODY" '$s|@uri')
           COMPARE="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/compare/main...${BRANCH}?expand=1&title=${ET}&body=${EB}"
 
+          # Workflow commands are line-based: a raw newline in the message ends the
+          # annotation and dumps the remainder into the log as plain text, and gh
+          # errors are sometimes multi-line. Percent-encode per GitHub's escaping
+          # rules so the whole thing survives as one line and still renders broken.
+          PR_OUT_ESC=$(jq -rn --arg s "$PR_OUT" \
+            '$s | gsub("%";"%25") | gsub("\r";"%0D") | gsub("\n";"%0A")')
+
           # Report what actually went wrong. "Resource not accessible by
-          # integration (createPullRequest)" means Settings → Actions → General →
-          # "Allow GitHub Actions to create and approve pull requests" is off.
-          echo "::error::Sync branch pushed but the PR could not be opened: ${PR_ERR}"
+          # integration (createPullRequest)" most commonly means Settings → Actions
+          # → General → "Allow GitHub Actions to create and approve pull requests"
+          # is off, though other integration-permission limits produce it too.
+          echo "::error::Sync branch pushed but the PR could not be opened: ${PR_OUT_ESC}"
           {
             echo "### Upstream sync branch pushed, PR not opened 🔴"
             echo ""
             echo "The merge succeeded and \`$BRANCH\` is pushed, but opening the PR failed:"
             echo ""
             echo '```'
-            echo "${PR_ERR}"
+            echo "${PR_OUT}"
             echo '```'
             echo ""
-            echo "If that reads \`Resource not accessible by integration\`, enable"
-            echo "**Settings → Actions → General → Allow GitHub Actions to create and"
-            echo "approve pull requests**, then re-run this workflow."
+            echo "If that reads \`Resource not accessible by integration\`, the usual"
+            echo "cause is **Settings → Actions → General → Allow GitHub Actions to"
+            echo "create and approve pull requests** being off — enable it and re-run."
             echo ""
             echo "**[→ Create the sync PR now (pre-filled title + body)]($COMPARE)**"
           } >> "$GITHUB_STEP_SUMMARY"
