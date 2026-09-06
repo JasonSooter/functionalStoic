@@ -4,10 +4,10 @@ aliases:
   - 40 Books in 2026
 title: Books Read in 2026
 created: 2026-08-08T20:53:51.097Z
-modified: 2026-08-21T16:19:22.000Z
-published: 2026-08-21T16:19:22.000Z
+modified: 2026-09-06T10:32:44.382Z
+published: 2026-09-06T10:32:44.382Z
 date created: 2025-11-30T18:32:03+01:00
-date modified: 2026-08-21T18:19:20+02:00
+date modified: 2026-09-06T12:32:42+02:00
 ---
 
 # Books Read in 2026
@@ -119,13 +119,14 @@ Short literary fiction, the shape I reliably finish: [[Dept. Of Speculation]], [
 
 ## Currently Reading
 
-1. [[The Place of Tides]] by James Rebanks #📚/status/currently-reading #media-type/ebook — started #🗓️/2026/05/23
-2. [[There Are Places in the World Where Rules Are Less Important Than Kindness]] #📚/status/currently-reading #media-type/ebook #priority/1
-3. [[My Family and Other Animals]] #📚/status/currently-reading #media-type/family #priority/1
-4. [[Middlemarch]] #📚/status/currently-reading #media-type/ebook #priority/2
-5. [[Wanderlust - A History of Walking]] #📚/status/currently-reading #media-type/ebook #priority/2
-6. [[Great Short Books]] #📚/status/reference #media-type/ebook #priority/3
-7. \#🗓️/2024/08/31 Faust by [[Goethe]] #📚/status/paused #media-type/ebook #priority/2
+1. Peace Corps - The Great Adventure #📚/status/currently-reading #media-type/ebook — started #🗓️/2026/04/09
+2. [[The Place of Tides]] by James Rebanks #📚/status/currently-reading #media-type/ebook — started #🗓️/2026/05/23
+3. [[There Are Places in the World Where Rules Are Less Important Than Kindness]] #📚/status/currently-reading #media-type/ebook #priority/1
+4. [[My Family and Other Animals]] #📚/status/currently-reading #media-type/family #priority/1
+5. [[Middlemarch]] #📚/status/currently-reading #media-type/ebook #priority/2
+6. [[Wanderlust - A History of Walking]] #📚/status/currently-reading #media-type/ebook #priority/2
+7. [[Great Short Books]] #📚/status/reference #media-type/ebook #priority/3
+8. \#🗓️/2024/08/31 Faust by [[Goethe]] #📚/status/paused #media-type/ebook #priority/2
    - \#🗓️/2026/08/02 Restored and moved here from _Up Next_. I culled this claiming it was the wrong entry point to German literature and that I had "read exactly one play in five years." StoryGraph says I started it #🗓️/2025/12/07 and it is **currently-reading**. I was arguing against a book I am in the middle of.
    - The lesson is about sources, not about Goethe: my Obsidian list did not know this. StoryGraph is where my real reading state lives.
 
@@ -177,9 +178,8 @@ These were all `currently-reading` or `to-read` in StoryGraph and completely abs
    - Cycling lane with [[Wheels of Change]] and [[Bicycle Diaries]], both read
 2. The Pleasures of Reading in an Age of Distraction by Alan Jacobs #📚/status/currently-reading #media-type/ebook — started #🗓️/2026/04/12
    - I already keep a highlights note for this one
-3. Peace Corps - The Great Adventure #📚/status/paused #media-type/ebook — started #🗓️/2026/04/09
-4. 365 Tao - Daily Meditations by Deng Ming-Dao #📚/status/currently-reading #media-type/ebook — started #🗓️/2025/11/28
-5. The Lion Women of Tehran by Marjan Kamali #📚/status/to-read #media-type/print — added #🗓️/2026/03/19
+3. 365 Tao - Daily Meditations by Deng Ming-Dao #📚/status/currently-reading #media-type/ebook — started #🗓️/2025/11/28
+4. The Lion Women of Tehran by Marjan Kamali #📚/status/to-read #media-type/print — added #🗓️/2026/03/19
 
 ## Up Next
 

@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Tour Bike Checklist
-created: 2026-01-02T19:22:44-07:00
-modified: 2026-09-03T17:25:41.981Z
-published: 2026-09-03T17:25:41.981Z
+created: 2026-01-03T02:22:44.686Z
+modified: 2026-09-03T17:25:42.000Z
+published: 2026-09-03T17:25:42.000Z
 linter-yaml-title-alias: Tour Bike Checklist
 date created: 2026-01-02T19:22:44-07:00
 date modified: 2026-01-02T19:25:45-07:00
@@ -25,7 +25,6 @@ A packing checklist for self-supported bike touring and bikepacking trips — wh
 
 > [!question] Title
 > Contents
-> 
 
 ## Content
 
@@ -35,7 +34,7 @@ A packing checklist for self-supported bike touring and bikepacking trips — wh
 - Garmin Bike Computer
 - Voila Bikepacking Straps
 - 2 Water Bottles
-- 
+-
 
 ## Personal Gear
 
