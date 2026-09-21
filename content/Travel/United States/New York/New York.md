@@ -2,8 +2,8 @@
 publish: true
 title: New York
 created: 2024-10-31T23:12:38.665Z
-modified: 2026-08-16T10:55:06.294Z
-published: 2026-08-16T10:55:06.294Z
+modified: 2026-09-06T17:58:54.180Z
+published: 2026-09-06T17:58:54.180Z
 tags:
   - places
 date created: 2024-11-01T00:12:38+01:00
@@ -33,6 +33,8 @@ locations:
 - \#🗓️/2025/10/11 I rode the D Line from 7th & 53rd to NYC Velo
 
 ## Resources
+
+- [What's Under Your Feet in New York](https://nebula.tv/videos/practical-engineering-whats-under-your-feet-in-new-york-city/?__readwiseLocation=)
 
 ## Action Items
 
