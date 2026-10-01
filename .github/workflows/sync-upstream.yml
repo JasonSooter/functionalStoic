@@ -54,10 +54,34 @@ jobs:
           # (deploy is on Vercel) and keeps a quartz.lock.json upstream lacks.
           # Auto-resolve those in the fork's favour; only genuine *content*
           # conflicts should stop the sync for manual review.
+          #
+          # FORK_OWNED files are ones this fork deliberately rewrote, so ANY
+          # conflict on them (content or add/delete) resolves to the fork's copy.
+          # Add a path here when upstream keeps editing a file the fork owns.
+          #   .github/dependabot.yml — version-update PRs disabled; deps arrive
+          #     via this sync (upstream reworked its groups → 2026-10 failure).
+          FORK_OWNED=(
+            .github/dependabot.yml
+          )
           if ! git merge --no-edit upstream/v5; then
             git status --porcelain | while IFS= read -r line; do
               code=$(printf '%s' "$line" | cut -c1-2)
               path=$(printf '%s' "$line" | cut -c4-)
+              case "$code" in
+                DD | AU | UA | DU | UD | AA | UU) ;; # unmerged entries only
+                *) continue ;;
+              esac
+              for owned in "${FORK_OWNED[@]}"; do
+                if [ "$path" = "$owned" ]; then
+                  # Restore ours; if ours deleted it, keep it deleted.
+                  if git cat-file -e "HEAD:$path" 2>/dev/null; then
+                    git checkout HEAD -- "$path" && git add -- "$path"
+                  else
+                    git rm -f --ignore-unmatch -- "$path"
+                  fi
+                  continue 2
+                fi
+              done
               case "$code" in
                 DU | DD) git rm -f --ignore-unmatch "$path" || true ;; # deleted by us -> keep deleted
                 UD) git add -- "$path" || true ;;                     # deleted by them -> keep ours
@@ -76,7 +100,7 @@ jobs:
 
           # Conventional-commit title + the repo's standard PR description template.
           TITLE="chore(deps): sync upstream Quartz v5 ($(date +%Y-%m-%d))"
-          BODY=$'## Before this PR\n- The fork is behind `jackyzha0/quartz@v5`.\n\n## After this PR\n- Merged the latest upstream Quartz `v5` (engine, CLI, components, deps). Fork-specific divergences (removed CI workflows, kept `quartz.lock.json`) were auto-resolved in favour of the fork.\n\n## Reason that prompted this change\n- Scheduled/manual upstream sync to pick up upstream fixes and improvements.\n\n## Test Plan\n- Review the diff and confirm the Vercel preview build is green + key pages render.'
+          BODY=$'## Before this PR\n- The fork is behind `jackyzha0/quartz@v5`.\n\n## After this PR\n- Merged the latest upstream Quartz `v5` (engine, CLI, components, deps). Fork-specific divergences (removed CI workflows, kept `quartz.lock.json`, fork-owned files like `.github/dependabot.yml`) were auto-resolved in favour of the fork.\n\n## Reason that prompted this change\n- Scheduled/manual upstream sync to pick up upstream fixes and improvements.\n\n## Test Plan\n- Review the diff and confirm the Vercel preview build is green + key pages render.'
 
           # Try to open the PR automatically. If that fails the branch is already
           # pushed, so the sync itself is fine — but the job must still FAIL.
