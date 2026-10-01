@@ -98,9 +98,13 @@ jobs:
 
           git push origin "$BRANCH"
 
+          # The body opens with a merge-method warning: a SQUASH merge drops upstream
+          # from main's ancestry, so the next sync re-merges everything since the
+          # last real merge commit (re-adding files the fork deleted, re-conflicting
+          # on files it customised) and the "already up to date" check never fires.
           # Conventional-commit title + the repo's standard PR description template.
           TITLE="chore(deps): sync upstream Quartz v5 ($(date +%Y-%m-%d))"
-          BODY=$'## Before this PR\n- The fork is behind `jackyzha0/quartz@v5`.\n\n## After this PR\n- Merged the latest upstream Quartz `v5` (engine, CLI, components, deps). Fork-specific divergences (removed CI workflows, kept `quartz.lock.json`, fork-owned files like `.github/dependabot.yml`) were auto-resolved in favour of the fork.\n\n## Reason that prompted this change\n- Scheduled/manual upstream sync to pick up upstream fixes and improvements.\n\n## Test Plan\n- Review the diff and confirm the Vercel preview build is green + key pages render.'
+          BODY=$'> [!WARNING]\n> Merge with **Create a merge commit**, not squash. Squashing drops upstream from `main`\x27s history and breaks the next sync.\n\n## Before this PR\n- The fork is behind `jackyzha0/quartz@v5`.\n\n## After this PR\n- Merged the latest upstream Quartz `v5` (engine, CLI, components, deps). Fork-specific divergences (removed CI workflows, kept `quartz.lock.json`, fork-owned files like `.github/dependabot.yml`) were auto-resolved in favour of the fork.\n\n## Reason that prompted this change\n- Scheduled/manual upstream sync to pick up upstream fixes and improvements.\n\n## Test Plan\n- Review the diff and confirm the Vercel preview build is green + key pages render.'
 
           # Try to open the PR automatically. If that fails the branch is already
           # pushed, so the sync itself is fine — but the job must still FAIL.
