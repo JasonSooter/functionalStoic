@@ -55,6 +55,7 @@
     "@quartz-community/content-page": "^1.0.0",
     "@quartz-community/crawl-links": "^1.0.0",
     "@quartz-themes/core": "^2.0.0",
+    "@quartz-themes/anuppuccin": "^1.0.1",
     "@quartz-community/created-modified-date": "^1.0.0",
     "@quartz-community/darkmode": "^1.0.0",
     "@quartz-community/description": "^1.0.0",
