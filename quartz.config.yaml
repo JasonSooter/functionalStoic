@@ -294,10 +294,9 @@ plugins:
       position: afterBody
       priority: 50
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
+  # Theme package (@quartz-themes/anuppuccin) is an npm dependency: core
+  # require()s it, and would `npm install` it mid-build if it were missing.
+  - source: "@quartz-themes/core"
     enabled: true
     order: 50
     options:
