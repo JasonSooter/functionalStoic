@@ -31,16 +31,35 @@ li.section-li > .section > ul.tags {
 article.photo-led p:has(> img) {
   text-align: center;
 
+  // Sized by height, not width: landscape photos fill the column, portrait ones
+  // stop at 75% of the viewport instead of running a full screen tall. An
+  // explicit `|320` size in the note still wins on width.
   img {
     display: block;
-    margin-inline: auto;
+    margin: 1rem auto 0;
     max-width: 100%;
+    max-height: 75vh;
+    height: auto;
+  }
+
+  // base.scss lifts `p > img + em` by 1rem to tuck it under an image's bottom
+  // margin, but the theme zeroes that margin, so the caption rode up over the
+  // photo. Undo the lift and space it normally.
+  img + em {
+    transform: none;
   }
 
   em {
     display: block;
-    margin-top: 0.4rem;
+    margin-top: 0.5rem;
     font-size: 0.9em;
     color: var(--darkgray);
   }
+}
+
+// The theme zeroes every table's bottom margin, so the next heading sat flush
+// against the last row. Space the wrapper Quartz puts around each table instead
+// of fighting the theme's specificity on `table` itself.
+article .table-container {
+  margin-bottom: 1.5rem;
 }
