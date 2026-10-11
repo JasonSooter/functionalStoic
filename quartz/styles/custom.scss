@@ -56,3 +56,10 @@ article.photo-led p:has(> img) {
     color: var(--darkgray);
   }
 }
+
+// The theme zeroes every table's bottom margin, so the next heading sat flush
+// against the last row. Space the wrapper Quartz puts around each table instead
+// of fighting the theme's specificity on `table` itself.
+article .table-container {
+  margin-bottom: 1.5rem;
+}
