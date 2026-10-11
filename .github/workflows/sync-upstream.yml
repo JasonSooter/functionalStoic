@@ -20,7 +20,10 @@ concurrency:
 
 jobs:
   sync:
-    runs-on: ubuntu-latest
+    # Pinned rather than `ubuntu-latest`, which moves between Ubuntu releases on
+    # GitHub's schedule (actions/runner-images#14748). Moved to 26.04 deliberately,
+    # with a manual run to confirm; bump again by choice, not by surprise.
+    runs-on: ubuntu-26.04
     steps:
       - name: Checkout main (full history)
         # Pinned to a commit SHA (not a moving tag) for supply-chain safety.
