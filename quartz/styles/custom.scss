@@ -22,3 +22,25 @@ html[saved-theme] body article a.internal-link.tag-link.tag-link {
 li.section-li > .section > ul.tags {
   display: none;
 }
+
+// Photo-led notes (opt in with `cssclasses: [photo-led]`): center each image and
+// the italic caption written on the line directly beneath it. With no blank line
+// between them, Markdown puts both in one paragraph — `<p><img><em>caption</em></p>`
+// — so centering that paragraph centers the caption with it. Every other note
+// keeps the theme's left-aligned images.
+article.photo-led p:has(> img) {
+  text-align: center;
+
+  img {
+    display: block;
+    margin-inline: auto;
+    max-width: 100%;
+  }
+
+  em {
+    display: block;
+    margin-top: 0.4rem;
+    font-size: 0.9em;
+    color: var(--darkgray);
+  }
+}
