@@ -2,8 +2,8 @@
 publish: true
 title: "Coffeeneuring 2026 | 1 of 8: Cycle Garage"
 created: 2026-10-11T07:55:46.000Z
-modified: 2026-10-11T08:19:43.830Z
-published: 2026-10-11T08:19:43.830Z
+modified: 2026-10-11T08:21:11.651Z
+published: 2026-10-11T08:21:11.651Z
 tags:
   - hobbies/cycling
   - hobbies/cycling/coffeeneuring
@@ -24,7 +24,7 @@ strava: https://www.strava.com/activities/20527562592
 
 # Coffeeneuring 2026 · 1 of 8: Cycle Garage
 
-![[Attachments/Coffeeneuring 2026 1 - Brewline sign.jpg]]
+![[Attachments/Coffeeneuring 2026 1 - Cycle Garage Logo.jpg]]
 _Café on one side, bike shop on the other._
 
 **Cycle Garage, Freiburg** · Saturday 10 October 2026 · 56 km · Cortado

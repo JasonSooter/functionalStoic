@@ -5,8 +5,8 @@ aliases:
   - Berlin
 title: Germany
 created: 2024-08-10T03:01:42.779Z
-modified: 2026-08-16T10:57:09.626Z
-published: 2026-08-16T10:57:09.626Z
+modified: 2026-09-26T05:01:00.000Z
+published: 2026-09-26T05:01:00.000Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/germany/berlin

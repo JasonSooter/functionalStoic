@@ -2,10 +2,11 @@
 publish: true
 title: Lisbon
 created: 2026-07-17T14:36:22.287Z
-modified: 2026-07-17T16:08:39.720Z
-published: 2026-07-17T16:08:39.720Z
-tags:
-  - places
+modified: 2026-09-25T10:31:49.000Z
+published: 2026-09-25T10:31:49.000Z
+tags: |-
+  places
+  source/ai/claude
 location:
   - 38.7223
   - -9.1393
@@ -63,3 +64,13 @@ View of the bridge on the way to [[#Resvés Cowork Space]] along the [Tagus Rive
 - <https://resvescowork.pt/>
 
 This was an excellent co-working space. Potentially, the best that I've been in. It had a friendly atmosphere and was full of people with plenty of the necessary amenities like coffee, meeting rooms, booths, and large monitors for rent.
+
+#### Lisbon and the Spice Race — Houtman's Reconnaissance (1592)
+
+In **1592** the Amsterdam merchant Reynier Pauw sent his cousin **Cornelis de Houtman**, with Houtman's brother Frederick, to **Lisbon**, then the European terminus of the Portuguese spice trade. Whether Houtman had legitimate business there or went mainly as a commercial spy is unclear ([Wikipedia](https://en.wikipedia.org/wiki/Cornelis_de_Houtman)). Giles Milton, _Nathaniel's Nutmeg_ (1999):
+
+> Exactly what Houtman discovered in Lisbon is not known, but it convinced the merchants that there was no time to be lost in entering the spice race.
+
+What followed: Houtman led the **first Dutch expedition to the East Indies**, four ships leaving Amsterdam on **2 April 1595** and reaching **Banten (Java) in June 1596**. It was a human and commercial disaster: of 249 men, **87 returned**, and Houtman's conduct wrecked the trade at Banten. But it opened the route that became the **Dutch East India Company (VOC)** empire, and ended Lisbon's century as Europe's spice capital.
+
+Source highlight: [Readwise](https://readwise.io/open/739134113).

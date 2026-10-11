@@ -7,8 +7,8 @@ aliases:
   - Stockholm, Sweden
 title: Sweden
 created: 2024-10-05T01:15:15.417Z
-modified: 2026-08-16T10:56:54.256Z
-published: 2026-08-16T10:56:54.256Z
+modified: 2026-09-26T05:01:00.000Z
+published: 2026-09-26T05:01:00.000Z
 tags:
   - travel/europe/sweden/malmo
   - travel/europe/europe-2023
@@ -133,7 +133,7 @@ SL: Android App: [SL-Journey planner and Tickets](https://play.google.com/store/
 
 - Blueberry Lemon Pancakes at The Greasy Spoon
 - City Museum
-- A bus & 2 subway [[trains]]
+- A bus & 2 subway [[Trains]]
 - Went to the Botanic garden where we saw the giant Lilly pads that we'd seen on David Attenborough's Green Planet
 - Ellie & I hiked to a high point
 - Scared pigeons on the plaza

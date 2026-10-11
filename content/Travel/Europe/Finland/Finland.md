@@ -7,8 +7,8 @@ aliases:
   - Turku
 title: Finland
 created: 2024-01-04T20:21:47.000Z
-modified: 2026-07-17T15:37:28.524Z
-published: 2026-07-17T15:37:28.524Z
+modified: 2026-09-26T05:01:00.000Z
+published: 2026-09-26T05:01:00.000Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/finland/helsinki
@@ -106,7 +106,7 @@ tags: #source/publications/the-atlantic #🗓️/2016/09/19
 - \#🗓️/2023/09/22
 - [Google Photos for Day 3](https://photos.google.com/search/%20September%2022nd%202023)
 - [Instagram Post](https://www.instagram.com/p/CxpLp9muhoNkE8guR1kiBEeXYKTSbtWWsNMBzA0/)
-  - Day 3 in [[Finland]] off to [[#Turku]]! We had about a 3hr train ride from Helsinki to a different town, [[#Turku]], where we boarded an overnight ferry (cruise ship!) to [[travel]] across the Baltic Sea to [[Sweden|Sweden]]. We als went by the [[#Turku]] Castle next to the ferry port … this castle reminded me of the movie Ever After! The kids are doing really well keeping up with their own backpacks, and occupying themselves with their [[travel]] journals or audiobooks during our train rides. The [[trains]] & subways are a big highlight for them!
+  - Day 3 in [[Finland]] off to [[#Turku]]! We had about a 3hr train ride from Helsinki to a different town, [[#Turku]], where we boarded an overnight ferry (cruise ship!) to [[travel]] across the Baltic Sea to [[Sweden|Sweden]]. We als went by the [[#Turku]] Castle next to the ferry port … this castle reminded me of the movie Ever After! The kids are doing really well keeping up with their own backpacks, and occupying themselves with their [[travel]] journals or audiobooks during our train rides. The [[Trains]] & subways are a big highlight for them!
 - The Lego store
 - The tram ride to the train station
 - The train ride up to Tol[[Finland]]down to [[#Turku]]

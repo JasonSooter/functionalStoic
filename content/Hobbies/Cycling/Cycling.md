@@ -6,8 +6,8 @@ aliases:
   - Biking
 title: Cycling
 created: 2024-02-08T19:20:20.000Z
-modified: 2026-08-29T13:46:53.175Z
-published: 2026-08-29T13:46:53.175Z
+modified: 2026-10-02T09:31:46.000Z
+published: 2026-10-02T09:31:46.000Z
 tags:
   - hobbies/bikes
 date created: 2025-09-25T16:40:52+02:00
@@ -135,3 +135,18 @@ Here are the steps you can follow to fix a derailleur that causes the chain to c
 ![[Attachments/Possibilities Opened Up By Cycling.png]]
 
 - ([View Source Highlight](https://read.readwise.io/read/01k88k25b9rm8qhqe0k22ast2d))
+
+## Freiburg Bike Service Map Layers
+
+Two point layers for QGIS and OsmAnd (loaded on both, 2026-10-02):
+
+- **VAG repair stations (20)**, from [VAG Freiburg](https://www.vag-freiburg.de/mehr-mobilitaet/mehr-fahrrad/reparaturstationen): [[Attachments/freiburg_vag_repair_stations.geojson|GeoJSON]] · [[Attachments/freiburg_vag_repair_stations.gpx|GPX]]
+- **Inner-tube vending machines (10)**, from OpenStreetMap via [boxlocator.com](https://boxlocator.com/en/box/575882380/Germany/79106/Baden-W%C3%BCrttemberg/Freiburg%20im%20Breisgau/Klarastra%C3%9Fe/63): [[Attachments/freiburg_tube_vending_machines.geojson|GeoJSON]] · [[Attachments/freiburg_tube_vending_machines.gpx|GPX]]
+
+GeoJSON for QGIS (drag in), GPX for OsmAnd (import as Favourites).
+
+Both layers in one file for QGIS: [[Attachments/freiburg_bike_service.gpkg|GeoPackage]].
+
+## The Possibilities Opened Up by Cycling
+
+![[Attachments/possibilities-opened-up-by-cycling.jpg]]

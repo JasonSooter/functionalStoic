@@ -2,10 +2,11 @@
 publish: true
 title: New York
 created: 2024-10-31T23:12:38.665Z
-modified: 2026-09-06T17:58:54.180Z
-published: 2026-09-06T17:58:54.180Z
+modified: 2026-09-25T14:24:23.000Z
+published: 2026-09-25T14:24:23.000Z
 tags:
   - places
+  - source/ai/claude
 date created: 2024-11-01T00:12:38+01:00
 date modified: 2026-08-16T12:55:06+02:00
 linter-yaml-title-alias: New York
@@ -126,3 +127,12 @@ Utica
 - Munson Art Museum
 - Thomas Cole, The Voyage of Life
   - https://youtu.be/Mk-hLFKSCgA?si=WmedbuQi8Zinajm7
+
+## Learning Manhattan: the city as a hand
+
+> [!quote] Tom Hanks, "Go See Costas," in _Uncommon Type_ (2017)
+> Look. New York, New York, is a simple city to learn. It is shaped like your hand. The numbered avenues are long and run from your fingertips to your wrist. The numbered streets run across the palm. Broadway is the lifeline and curves the length around. The two middle fingers are the Central Park.
+
+Source: [Readwise highlight](https://readwise.io/open/866278152). In the story, a ship's chief says this to **Assan**, a newly arrived Bulgarian immigrant, on their first walk through Manhattan, holding up his palm; Assan _"studied his own palm"_ (checked in the book's text). A mnemonic for a grid you learn on foot.
+
+_Added 2026-09-25 by Claude (`source/ai/claude`)._

@@ -4,10 +4,10 @@ aliases:
   - 24 Books in 2024
 title: Books Read in 2024
 created: 2024-12-21T17:24:42.000Z
-modified: 2026-08-16T10:57:42.589Z
-published: 2026-08-16T10:57:42.589Z
+modified: 2026-09-21T06:36:46.236Z
+published: 2026-09-21T06:36:46.236Z
 date created: 2024-12-21T18:24:42+01:00
-date modified: 2026-08-16T12:57:41+02:00
+date modified: 2026-09-21T08:36:45+02:00
 linter-yaml-title-alias: Books Read in 2024
 ---
 
@@ -40,8 +40,8 @@ _**Goal**_
 19. \#🗓️/2024/08/12 [Do Cats have Belly Buttons?](https://app.thestorygraph.com/books/71f9d07f-c413-4cbf-ac7c-caad7fdc58dd) #📚/status/finished
 20. \#🗓️/2024/08/12 [The Magician's Elephant](https://app.thestorygraph.com/books/a06d48a1-6df1-4759-8720-db2a0fd0e23d) #📚/status/finished
 21. \#🗓️/2024/08/14[The Caves of Steel](https://www.goodreads.com/book/show/41811.The_Caves_of_Steel) #📚/status/finished Recommended by #twilio/people/kat-chaires
-22. \#🗓️/2024/08/27 [[Slow Productivity]] #📚/status/finished
-23. \#🗓️/2024/09/17 [[Co-Intelligence - Living and Working with AI]] #📚/status/finished
+22. \#🗓️/2024/08/27 Slow Productivity #📚/status/finished
+23. \#🗓️/2024/09/17 [[Co-Intelligence]] #📚/status/finished
 24. \#🗓️/2024/09/28 [[The Soul of an Octopus]] #📚/status/finished
 25. \#🗓️/2024/10/09 [How Old Is A Whale](https://app.thestorygraph.com/books/2384edcf-565d-4001-80d6-de7803dd7240) #📚/status/finished
 26. \#🗓️/2024/10/10 [The Hobbit](https://app.thestorygraph.com/books/9dcf4dd3-5fc9-4911-9774-0a5ae45f2c47) #📚/status/finished

@@ -4,14 +4,15 @@ aliases:
   - Utrecht, Netherlands
   - Utrecht
 title: Netherlands
-created: 2023-12-12T04:11:52.000Z
-modified: 2026-08-16T10:56:57.771Z
-published: 2026-08-16T10:56:57.771Z
+created: 2026-09-26T05:01:00.000Z
+modified: 2026-09-26T05:01:00.000Z
+published: 2026-09-26T05:01:00.000Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/netherlands/utrecht
   - travel/europe/netherlands
   - places
+  - source/ai/claude
 date created: 2023-08-31T18:44:43+02:00
 date modified: 2026-08-16T12:56:56+02:00
 linter-yaml-title-alias: Netherlands
@@ -57,7 +58,7 @@ flag: 🇳🇱
 
 ### Summary
 
-- [Photo Album](https://photos.google.com/share/AF1QipOy_Is-xdfW485Krh-6QOuvoMig0zbDkoCyWL22JTUauBpoH2YK6l47M60HSuN_pA?obfsgid=107485953341554495988\&email=jason.sooter@gmail.com\&key=dUl5Nm85dDRIZGM4U0NWWXN6LUliSDY5X3N1TXlB)
+- [Photo Album](https://photos.google.com/share/AF1QipOy_Is-xdfW485Krh-6QOuvoMig0zbDkoCyWL22JTUauBpoH2YK6l47M60HSuN_pA?key=dUl5Nm85dDRIZGM4U0NWWXN6LUliSDY5X3N1TXlB)
 
 ### Key Ideas
 
@@ -81,3 +82,17 @@ flag: 🇳🇱
   - [NS International](https://www.nsinternational.com/en)
     - [[Trains]] for leaving the Netherlands
     - We used it to go from Utrecht → [[Belgium]]
+
+## De Hogeweyk: the dementia village (Weesp)
+
+_Added 2026-09-25 (#source/ai/claude)._
+
+> [!quote] Linnesby-Maria, "Indulgence Is Not the Same as Care"
+> \[A] few years ago I read an article about a dementia home in the Netherlands. The home is actually a village. The entire open-air establishment is designed to feel like — in fact, to be — a village, in which residents live together in ordinary houses with carers, and move freely indoors and out, going to stores and cafes and so forth. ([View Highlight](https://readwise.io/open/853000640))
+
+- **What it is:** **De Hogeweyk** in **Weesp**, near Amsterdam, opened **December 2009** on a four-acre site ([Wikipedia](https://en.wikipedia.org/wiki/Hogeweyk)).
+- **Scale:** **152 residents in 27 houses**, about six or seven per house (23 original houses, 4 added in 2018) ([official site](https://hogeweyk.dementiavillage.com/)).
+- **Houses by way of life:** seven lifestyle types, including urban, upper-class Dutch (_Goois_), trades, Dutch-Indonesian (_Indisch_), homemakers, cultural and Christian, so residents live among people with familiar routines ([Wikipedia](https://en.wikipedia.org/wiki/Hogeweyk)).
+- **The village:** a supermarket, a café-restaurant that's **open to the public**, a pub, a theatre, a hairdresser, clubs and a town square (official site and Wikipedia).
+- **Who started it:** staff of the Vivium care group. Wikipedia credits Yvonne van Amerongen and Jannette Spiering; the official site names Jannette Spiering and Eloy van Hal.
+- **Not confirmed:** that residents never handle money (the article's claim), and the often-repeated outcome claims (less medication, more activity), which trace to press coverage rather than a cited study.
