@@ -1,19 +1,21 @@
 ---
-title: First Major Mountain Ride
-linter-yaml-title-alias: First Major Mountain Ride
-date created: '2026-10-16T21:17:04+02:00'
-date modified: '2026-10-16T21:17:04+02:00'
 publish: true
-date: '2020-06-06'
-modified: '2020-06-06'
+title: First Major Mountain Ride
 description: Horsetooth Reservoir - 3 Dams Ride
+created: 2020-06-06
+modified: 2020-06-06
+published: 2020-06-06
 tags:
-- blog
-- cycling
-- bike-ride
-- fort-collins
+  - blog
+  - cycling
+  - bike-ride
+  - fort-collins
 cssclasses:
-- photo-led
+  - photo-led
+linter-yaml-title-alias: First Major Mountain Ride
+date created: 2026-10-16T21:17:04+02:00
+date modified: 2026-10-16T21:17:04+02:00
+date: 2020-06-06
 ---
 
 # First Major Mountain Ride

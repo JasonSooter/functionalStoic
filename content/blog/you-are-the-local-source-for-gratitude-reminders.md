@@ -1,17 +1,19 @@
 ---
-title: You are the local source for 'Gratitude Reminders'
-linter-yaml-title-alias: You are the local source for 'Gratitude Reminders'
-date created: '2026-10-16T21:17:04+02:00'
-date modified: '2026-10-16T21:17:04+02:00'
 publish: true
-date: '2018-02-28'
-modified: '2018-02-28'
+title: You are the local source for 'Gratitude Reminders'
 description: Reflection upon 8 years in the Photography Industry
+created: 2018-02-28
+modified: 2018-02-28
+published: 2018-02-28
 tags:
-- blog
-- gratitude
+  - blog
+  - gratitude
 cssclasses:
-- photo-led
+  - photo-led
+linter-yaml-title-alias: You are the local source for 'Gratitude Reminders'
+date created: 2026-10-16T21:17:04+02:00
+date modified: 2026-10-16T21:17:04+02:00
+date: 2018-02-28
 ---
 
 # You are the local source for 'Gratitude Reminders'
@@ -38,7 +40,7 @@ awareness, and appropriate value of that mission is where it might not be as
 natural.
 
 Like many things, if you don't take the time to actively engage with an idea,
-you may miss the key benefit of that idea altogether. 
+you may miss the key benefit of that idea altogether.
 
 ![[Attachments/Sooter_Family_1.jpg]]
 
@@ -130,7 +132,7 @@ is great and a service you should definitely be knowledgeable about. In the end,
 any printing method is better than them never being hung and remaining on a
 flash drive (See the atrocity mentioned above).
 
-_*So make the following a Non-Negotiable:*_
+__So make the following a Non-Negotiable:__
 
 > "Clients end up with something they will see on a regular basis on their wall"
 

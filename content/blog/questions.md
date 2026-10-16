@@ -1,11 +1,13 @@
 ---
-title: Questions
-linter-yaml-title-alias: Questions
-date created: '2026-10-16T21:17:04+02:00'
-date modified: '2026-10-16T21:17:04+02:00'
 publish: true
-date: '2017-01-01'
-modified: '2017-01-01'
+title: Questions
+created: 2017-01-01
+modified: 2017-01-01
+published: 2017-01-01
+linter-yaml-title-alias: Questions
+date created: 2026-10-16T21:17:04+02:00
+date modified: 2026-10-16T21:17:04+02:00
+date: 2017-01-01
 ---
 
 # Questions

@@ -1,10 +1,13 @@
 ---
-title: About
-linter-yaml-title-alias: About
-date created: '2026-10-16T21:17:20+02:00'
-date modified: '2026-10-16T21:17:20+02:00'
 publish: true
+title: About
 description: Jason Sooter — Solutions Architect, cyclist, reader, thinking in public.
+created: 2026-10-16T19:27:42.550Z
+modified: 2026-10-16T19:27:42.551Z
+published: 2026-10-16T19:27:42.551Z
+linter-yaml-title-alias: About
+date created: 2026-10-16T21:17:20+02:00
+date modified: 2026-10-16T21:17:20+02:00
 ---
 
 # About
@@ -34,6 +37,6 @@ I enjoy cycling (12 bikes of my own), reading, and basically everything outdoors
 
 ## Elsewhere
 
-- Email: [hello@jasonsooter.com](mailto:hello@jasonsooter.com)
+- Email: <hello@jasonsooter.com>
 - GitHub: [JasonSooter](https://github.com/JasonSooter)
 - LinkedIn: [jason-sooter](https://www.linkedin.com/in/jason-sooter/)

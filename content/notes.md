@@ -1,10 +1,13 @@
 ---
-title: Notes
-linter-yaml-title-alias: Notes
-date created: '2026-10-16T21:27:42+02:00'
-date modified: '2026-10-16T21:27:42+02:00'
 publish: true
+title: Notes
 description: Jumping-off points into the notes I keep in Obsidian.
+created: 2026-10-16T19:27:42.552Z
+modified: 2026-10-16T19:27:42.552Z
+published: 2026-10-16T19:27:42.552Z
+linter-yaml-title-alias: Notes
+date created: 2026-10-16T21:27:42+02:00
+date modified: 2026-10-16T21:27:42+02:00
 ---
 
 # Notes
