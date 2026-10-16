@@ -2,16 +2,14 @@ import { h } from "preact"
 import { resolveRelative } from "@quartz-community/utils"
 
 // What the old Next.js site had around its posts, rebuilt for Quartz:
-// - on the home page: the latest posts (app/Main.tsx), recently updated notes, and
-//   the newsletter form
-// - after each blog post: the newsletter form and Giscus comments
+// - on the home page: the latest posts (app/Main.tsx) and recently updated notes
+// - after each blog post: Giscus comments
 // A blog post is a page under blog/ tagged `blog`; Uses and Questions live there
-// too but are plain pages, so they get neither.
+// too but are plain pages, so they get no comments.
 
 const defaultOptions = {
   postLimit: 5,
   noteLimit: 5,
-  buttondownUser: "",
   giscus: null,
 }
 
@@ -76,34 +74,6 @@ function PostItem({ page, from, locale }) {
   )
 }
 
-function Newsletter({ user }) {
-  if (!user) return null
-  return h(
-    "section",
-    { class: "newsletter" },
-    h("h2", null, "Subscribe to the newsletter"),
-    h(
-      "form",
-      {
-        action: `https://buttondown.com/api/emails/embed-subscribe/${user}`,
-        method: "post",
-        target: "_blank",
-      },
-      h("label", { for: "bd-email", class: "sr-only" }, "Email address"),
-      h("input", {
-        type: "email",
-        name: "email",
-        id: "bd-email",
-        placeholder: "Enter your email",
-        required: true,
-        autocomplete: "email",
-      }),
-      h("input", { type: "hidden", name: "embed", value: "1" }),
-      h("button", { type: "submit" }, "Sign up"),
-    ),
-  )
-}
-
 function Comments({ giscus }) {
   if (!giscus?.repo || !giscus?.repoId || !giscus?.categoryId) return null
   return h("div", {
@@ -137,36 +107,6 @@ const style = `
 .blog-extras .all-posts { display: block; text-align: right; font-weight: 500; margin-top: 1rem; }
 .blog-extras .recent-notes-list { padding-left: 1.25rem; }
 .blog-extras .recent-notes-list time { color: var(--gray); font-size: 0.9rem; margin-left: 0.5rem; }
-.blog-extras .newsletter {
-  margin: 3rem 0 1rem;
-  padding: 1.5rem;
-  border-radius: 0.5rem;
-  background: var(--highlight);
-  text-align: center;
-}
-.blog-extras .newsletter h2 { margin: 0 0 1rem; font-size: 1.25rem; }
-.blog-extras .newsletter form { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; }
-.blog-extras .newsletter input[type="email"] {
-  min-width: 16rem;
-  padding: 0.5rem 1rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 0.375rem;
-  background: var(--light);
-  color: var(--dark);
-  font: inherit;
-}
-.blog-extras .newsletter button {
-  padding: 0.5rem 1.25rem;
-  border: 0;
-  border-radius: 0.375rem;
-  background: var(--secondary);
-  color: #fff;
-  font: inherit;
-  font-weight: 500;
-  cursor: pointer;
-}
-.blog-extras .newsletter button:hover { background: var(--tertiary); }
-.blog-extras .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 .blog-extras .giscus-mount { margin-top: 2rem; }
 @media (max-width: 800px) {
   .blog-extras .post-item { grid-template-columns: 1fr; gap: 0.25rem; }
@@ -254,17 +194,11 @@ export const BlogExtras = (userOpts) => {
               ),
             ),
           ),
-        h(Newsletter, { user: opts.buttondownUser }),
       )
     }
 
     if (isPost(fileData)) {
-      return h(
-        "div",
-        { class: "blog-extras post" },
-        h(Newsletter, { user: opts.buttondownUser }),
-        h(Comments, { giscus: opts.giscus }),
-      )
+      return h("div", { class: "blog-extras post" }, h(Comments, { giscus: opts.giscus }))
     }
 
     return null

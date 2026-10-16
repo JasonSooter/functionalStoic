@@ -333,14 +333,12 @@ plugins:
     options:
       title: functionalStoic
       description: Blog posts by Jason Sooter
-  # Home-page feed, plus newsletter + Giscus after blog posts. Each piece renders
-  # nothing until its options are filled in.
+  # Home-page feed, plus Giscus comments after blog posts.
   - source: ./plugins/blog-extras
     enabled: true
     options:
       postLimit: 5
       noteLimit: 5
-      buttondownUser: ""
       giscus:
         repo: JasonSooter/functionalStoic
         repoId: R_kgDOQwvlIg
