@@ -115,7 +115,9 @@ const style = `
 
 // Giscus is loaded per page (SPA navigation swaps the mount), themed to match the
 // current Quartz theme, and re-themed when the dark-mode toggle flips.
+// Wrapped and semicolon-terminated: Quartz concatenates component scripts.
 const giscusScript = `
+;(() => {
 const giscusTheme = () =>
   document.documentElement.getAttribute("saved-theme") === "dark" ? "transparent_dark" : "light"
 
@@ -149,6 +151,7 @@ document.addEventListener("themechange", () => {
   const frame = document.querySelector("iframe.giscus-frame")
   frame?.contentWindow?.postMessage({ giscus: { setConfig: { theme: giscusTheme() } } }, "https://giscus.app")
 })
+})();
 `
 
 export const BlogExtras = (userOpts) => {

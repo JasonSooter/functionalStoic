@@ -105,19 +105,23 @@ const style = `
 
 // Close the mobile menu after an SPA navigation; it would otherwise stay open on
 // the new page because micromorph keeps the <details> element.
+//
+// Quartz concatenates every component's script into one bundle, so each script
+// here is a self-contained statement ending in a semicolon; without one, a
+// following script that opens with "(" is parsed as a call on this one.
 const navScript = `
-document.addEventListener("nav", () => {
+;document.addEventListener("nav", () => {
   for (const menu of document.querySelectorAll(".site-nav details[open]")) {
     menu.removeAttribute("open")
   }
-})
+});
 `
 
 // gtag with page views sent per SPA navigation. Quartz fires "nav" on first load
 // and after every client-side navigation, so the automatic page view is disabled
 // to avoid counting the first page twice.
 const analyticsScript = (id) => `
-(() => {
+;(() => {
   const s = document.createElement("script")
   s.async = true
   s.src = "https://www.googletagmanager.com/gtag/js?id=${id}"
@@ -132,7 +136,7 @@ const analyticsScript = (id) => `
       page_title: document.title,
     })
   })
-})()
+})();
 `
 
 function NavLinks({ links, slug, base }) {
