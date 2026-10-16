@@ -327,6 +327,16 @@ plugins:
     layout:
       position: header
       priority: 10
+  # Old PostLayout: centered date + title, author/tags/prev-next column.
+  - source: ./plugins/post-layout
+    enabled: true
+    options:
+      author: Jason Sooter
+      avatar: /attachments/jason-sooter-avatar.png
+      authorHref: /about
+    layout:
+      position: beforeBody
+      priority: 1
   # Posts-only RSS at the old site's /feed.xml.
   - source: ./plugins/blog-feed
     enabled: true

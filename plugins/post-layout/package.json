@@ -1,0 +1,30 @@
+{
+  "name": "post-layout",
+  "version": "1.0.0",
+  "description": "Blog post header and side column (author, tags, prev/next), after the old jasonsooter.com PostLayout",
+  "type": "module",
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components.js",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "quartz": {
+    "name": "post-layout",
+    "displayName": "Post Layout",
+    "category": "component",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "PostLayout": {
+        "displayName": "Post Layout",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 1
+      }
+    }
+  }
+}

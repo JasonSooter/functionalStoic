@@ -6,7 +6,8 @@
 // it. Note pages keep Quartz's explorer / graph / backlinks sidebars.
 // ---------------------------------------------------------------------------
 
-$readingWidth: 48rem;
+$readingWidth: 52rem;
+$postWidth: 72rem;
 
 body:is(
     [data-slug="index"],
@@ -30,6 +31,130 @@ body:is(
   }
 }
 
+// ---------------------------------------------------------------------------
+// Blog posts (plugins/post-layout): wider page, centered date + title, then the
+// author/tags/prev-next column beside the post — the old PostLayout. The
+// page-header and popover-hint wrappers are flattened with `display: contents`
+// so the hero and aside can sit in the same grid as the article.
+// ---------------------------------------------------------------------------
+
+body:has(.post-hero) .page > #quartz-body {
+  grid-template-columns: minmax(0, $postWidth);
+
+  & .center {
+    display: grid;
+    // Stands in for .page-header's top margin, lost to `display: contents`.
+    padding-top: 2.5rem;
+    grid-template-columns: 15rem minmax(0, 1fr);
+    column-gap: 3rem;
+    align-items: start;
+
+    // (article also carries .popover-hint, so the wrapper is matched by parent.)
+    & > *,
+    & > .page-header > *,
+    & > .page-header > .popover-hint > *,
+    & .post-hero {
+      grid-column: 1 / -1;
+    }
+    & > .page-header,
+    & > .page-header > .popover-hint,
+    & .post-layout {
+      display: contents;
+    }
+    & .post-aside {
+      grid-column: 1;
+      position: sticky;
+      top: 2rem;
+    }
+    // base.scss pins the article to the page grid's `grid-center` area, which
+    // doesn't exist in this grid and would stack it over the hero.
+    & > article {
+      grid-area: auto;
+      grid-column: 2;
+    }
+    & > hr,
+    & > .page-footer {
+      grid-column: 2;
+    }
+  }
+
+  // The hero carries the title and date; the article's own H1, breadcrumbs and
+  // date line would repeat them.
+  & .breadcrumb-container,
+  & .content-meta,
+  & article .markdown-preview-view > h1:first-child,
+  & article > h1:first-child {
+    display: none;
+  }
+
+  // Pages without the aside (Uses, Questions) read as one centered column.
+  &:not(:has(.post-aside)) .center > article {
+    grid-column: 1 / -1;
+    max-width: $readingWidth;
+    margin: 0 auto;
+  }
+
+  @media all and ($mobile) {
+    & .center {
+      grid-template-columns: minmax(0, 1fr);
+      & .post-aside,
+      & > article,
+      & > hr,
+      & > .page-footer {
+        grid-column: 1;
+      }
+      & .post-aside {
+        position: static;
+        order: 10;
+        margin-top: 2rem;
+      }
+      & > hr,
+      & > .page-footer {
+        order: 11;
+      }
+    }
+  }
+}
+
+// Roomier reading text on the blog-style pages, like the old site's prose.
+body:is(
+    [data-slug="index"],
+    [data-slug^="blog/"],
+    [data-slug="about"],
+    [data-slug="projects"],
+    [data-slug="notes"]
+  )
+  article {
+  font-size: 1.125rem;
+  line-height: 1.8;
+
+  & p,
+  & li {
+    color: var(--darkgray);
+  }
+  & img {
+    border-radius: 0.375rem;
+  }
+}
+
+// Quotes as the old site set them: italic, a quiet grey rule, no tint — instead
+// of Quartz's accent bar. Callouts (Obsidian `> [!note]`) keep their own style.
+article blockquote:not(.callout) {
+  margin: 2rem 0;
+  padding: 0.25rem 0 0.25rem 1.25rem;
+  border-left: 4px solid var(--lightgray);
+  background: none;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 1.15em;
+  color: var(--dark);
+
+  & p {
+    color: inherit;
+    margin: 0.5rem 0;
+  }
+}
+
 // Bring the top bar up from Quartz's 6rem gutter to roughly where the old site
 // put its header, on every page so it doesn't jump between layouts.
 .page > #quartz-body {
@@ -47,7 +172,8 @@ body:is(
 }
 
 // Page titles: large and tight like the old PageTitle component.
-article > h1:first-of-type {
+article > h1:first-child,
+article .markdown-preview-view > h1:first-child {
   font-size: 2.25rem;
   line-height: 1.15;
   letter-spacing: -0.02em;
