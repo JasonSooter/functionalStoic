@@ -1,16 +1,89 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// ---------------------------------------------------------------------------
+// jasonsooter.com look: one centered reading column for the home page, the blog
+// and the site pages, with the top bar (site-nav + search/theme toolbar) over
+// it. Note pages keep Quartz's explorer / graph / backlinks sidebars.
+// ---------------------------------------------------------------------------
 
-// The anuppuccin theme sets `display: flex` on tag links, which makes them
-// block-level: an inline tag breaks onto its own line and its pill stretches the
-// full content width. Keep the pill, restore inline flow.
-//
-// The theme's selector is `html[saved-theme="dark"] body a.internal-link.tag-link`
-// and its stylesheet loads after this one, so `.tag-link` is repeated below to
-// out-specify it rather than tie and lose on source order.
-html[saved-theme] body article a.internal-link.tag-link.tag-link {
-  display: inline-flex;
+$readingWidth: 48rem;
+
+body:is(
+    [data-slug="index"],
+    [data-slug^="blog/"],
+    [data-slug="about"],
+    [data-slug="projects"],
+    [data-slug="notes"]
+  )
+  .page
+  > #quartz-body {
+  grid-template-columns: minmax(0, $readingWidth);
+  grid-template-rows: auto;
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer";
+  justify-content: center;
+
+  & .sidebar {
+    display: none;
+  }
+}
+
+// Bring the top bar up from Quartz's 6rem gutter to roughly where the old site
+// put its header, on every page so it doesn't jump between layouts.
+.page > #quartz-body {
+  & .page-header {
+    margin-top: 2.5rem;
+  }
+  & .sidebar {
+    padding-top: 2.5rem;
+  }
+}
+
+.page-header > header {
+  margin: 0 0 2.5rem;
+  flex-wrap: wrap;
+}
+
+// Page titles: large and tight like the old PageTitle component.
+article > h1:first-of-type {
+  font-size: 2.25rem;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  margin-top: 0.5rem;
+  @media all and ($mobile) {
+    font-size: 1.875rem;
+  }
+}
+
+// Tags as plain uppercase accent links, like components/Tag.tsx, instead of pills.
+a.internal.tag-link,
+.tags a.internal.tag-link {
+  background: none;
+  padding: 0;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  font-weight: 500;
+  color: var(--secondary);
+  &::before {
+    content: "";
+  }
+  &:hover {
+    color: var(--tertiary);
+  }
+}
+
+// Internal links: accent colour without Quartz's tinted background box.
+article a.internal:not(.tag-link) {
+  background-color: transparent;
+  padding: 0;
+  text-decoration: underline;
+  text-decoration-color: var(--lightgray);
+  text-underline-offset: 3px;
+  &:hover {
+    text-decoration-color: currentColor;
+  }
 }
 
 // Folder and tag pages list every entry's full tag set, which on the reading

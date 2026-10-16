@@ -1,0 +1,163 @@
+---
+title: You are the local source for 'Gratitude Reminders'
+linter-yaml-title-alias: You are the local source for 'Gratitude Reminders'
+date created: '2026-10-16T21:17:04+02:00'
+date modified: '2026-10-16T21:17:04+02:00'
+publish: true
+date: '2018-02-28'
+modified: '2018-02-28'
+description: Reflection upon 8 years in the Photography Industry
+tags:
+- blog
+- gratitude
+cssclasses:
+- photo-led
+---
+
+# You are the local source for 'Gratitude Reminders'
+
+> This post is my reflection upon 8 years in the Photography Industry. I hope you enjoy it.
+> —Mr. Bloom!
+
+For the last 7 years, I've had the fortunate opportunity to work closely with
+the Professional Portrait Photography industry. In the process, I have viewed
+photography on the websites of thousands of Photographers across the US, Canada,
+many other countries. Their work primarily covering family, children, newborn,
+and wedding.
+
+This has given me an appreciation of their true purpose, one that I may have
+completely missed (_or at least not fully appreciated_) had my life gone down a
+different path.
+
+> "To capture moments in time while bringing out the true personalities of the
+> subjects"
+
+There is nothing profound about that observation. It exists in the minds of
+countless Photographers and Non-Photographers alike. However, the appreciation,
+awareness, and appropriate value of that mission is where it might not be as
+natural.
+
+Like many things, if you don't take the time to actively engage with an idea,
+you may miss the key benefit of that idea altogether. 
+
+![[Attachments/Sooter_Family_1.jpg]]
+
+> First year of The Organic Bloom. Just Andrea & I — Brenda Horan Photography
+
+We recently moved into a new home and in the process have been updating our wall
+frames. This post was prompted by the way in which my wife chose to hang the
+frames in our hallway.
+
+The collection of images in the hallway are basically a history of our small
+family since the beginning of The Organic Bloom. It's hard to walk past it
+without being reminded of the really great people I have around me. Even if
+that's while rushing out to settle a dispute early in the morning when I'd
+rather be in bed. Ha!
+
+Each portrait is a different slice of time and has different memories attached
+to it but they all come together to solidify a gratitude that sticks with me
+through the day.
+
+You'll have to forgive the obvious Dad sentimentality that is likely to show
+through in the remainder of this post 😄
+
+![[Attachments/Sooter_Family_2.jpg]]
+
+> Ellie has now arrived on the scene — Brenda Horan Photography
+
+Let's get a bit philosophical for a moment. In what ways do you as a
+Photographer convey to your clients (or potential clients) the value they are
+going to receive in the years (and maybe decades) to come? I think that one of
+the clear tangible results is _**Gratitude**_.
+
+While not everyone (or anyone) has a perfect family situation, countless study
+after countless study finds Gratitude to improve life in basically every
+category. And often there is much to be grateful for in regards to family.
+
+Being grateful has benefits in your personal life, career, social circle, etc.
+It's very easy to slide into a place of not accurately appreciating the life
+situation around you. But I would argue that having really large images on your
+walls that you can't help but notice is a very good reminder.
+
+![[Attachments/Sooter_Family_3.jpg]]
+
+> We're in a holding pattern with just Ellie — Vanessa Campbell Photography
+
+And this is where you come in (**\_\_\_\_**) photographer (Family, child,
+newborn, wedding, etc). You can (get to) help people put big reminders of
+beneficial people on their walls. You can help your clients all but certainly
+put reminders to start their day with Gratitude. Where they can't miss it. Where
+it stares them down every day. Even if the day was rough before. Even if the
+family has splits and strife. Even if the children aren't quite appreciating
+their siblings or parents like they should. The finished product you deliver can
+have a lasting benefit far greater than being just a decoration that matches
+their living room.
+
+![[Attachments/Sooter_Family_4.jpg]]
+
+> Mac arrives to make it more interesting. — Vanessa Campbell Photography
+
+I won't be the first person to talk about how digital photos in the world have
+made some drastic changes in how photography is bought and used. As a matter of
+fact, I'm a huge fan of Google Photos and being able to search years of photos
+for some specific thing or event. But, we also run the risk of having so many
+photos that we can't even figure out how to appreciate them.
+
+So this is where you come in. We've established that people need big reminders
+on their wall of the people that are special in their life. Your passion to
+capture specific moments in time is just the event needed to trigger a display
+of this year's snapshot in time.
+
+![[Attachments/Sooter_Family_5.jpg]]
+
+> 2 is enough right? — Vanessa Campbell Photography
+
+But we all know this isn't as easy and straightforward as it should be. You'll
+get busy. Your clients will get busy. Details slip through the cracks. And
+consistently, people go through the effort of having their portraits done with
+you and those wonderful photos end up in a drawer on a fancy flash drive. This
+is a tragedy of monumental proportion. One that you need to be aware of and have
+a plan of action to make sure it doesn't happen to your clients.
+
+![[Attachments/Sooter_Family_6.jpg]]
+
+> Nope, apparently not, Poppy shows up to add to the mix! — Destiny Photography
+
+I'm obviously biased toward picture frames since I own a company that makes
+them, but I don't care how photos get up on a wall. There are many other nice
+photography options. Helping your clients figure out the print options available
+is great and a service you should definitely be knowledgeable about. In the end,
+any printing method is better than them never being hung and remaining on a
+flash drive (See the atrocity mentioned above).
+
+_*So make the following a Non-Negotiable:*_
+
+> "Clients end up with something they will see on a regular basis on their wall"
+
+Anything less is letting your customers miss out on a huge benefit that you can
+provide, passion and what makes you unique.
+
+![[Attachments/Sooter_Family_7.jpg]]
+
+> Oh, my babies are no longer babies. They ask lots of real questions!
+
+At the beginning of The Organic Bloom we made the decision to work exclusively
+with Professional Portrait Photographers. That decision has had Pros and Cons.
+However, one of the ideals that have reinforced my resolve is that I've really
+enjoyed supporting the local photography businesses in towns across America (and
+Canada, UK, and Australia to some extent).
+
+The goal of promoting the value of photographers by redirecting consumers to
+their local photographer using our vendor locator
+(https://www.theorganicbloom.com/locator) has been a part of that but the
+reasoning is much more important. You have something to offer and we want to
+direct people your way so they can get that. Your passion is unique and it
+provides the opportunity for big giant wall gratitude reminders. I look forward
+to your comments below.
+
+> I'm so grateful for mine — Jason
+
+![[Attachments/Sooter_Family_8.jpg]]
+
+> Our family 7 years later. I'm so grateful for the record of this progression.
+> — Vanessa Campbell Photography

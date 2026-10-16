@@ -1,0 +1,30 @@
+{
+  "name": "blog-extras",
+  "version": "1.0.0",
+  "description": "Home-page feed, newsletter signup and Giscus comments for blog posts",
+  "type": "module",
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components.js",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "quartz": {
+    "name": "blog-extras",
+    "displayName": "Blog Extras",
+    "category": "component",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "BlogExtras": {
+        "displayName": "Blog Extras",
+        "defaultPosition": "afterBody",
+        "defaultPriority": 10
+      }
+    }
+  }
+}

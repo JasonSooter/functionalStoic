@@ -1,0 +1,30 @@
+{
+  "name": "site-nav",
+  "version": "1.0.0",
+  "description": "Top navigation bar for jasonsooter.com, plus Google Analytics",
+  "type": "module",
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components.js",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "quartz": {
+    "name": "site-nav",
+    "displayName": "Site Nav",
+    "category": "component",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "SiteNav": {
+        "displayName": "Site Nav",
+        "defaultPosition": "header",
+        "defaultPriority": 10
+      }
+    }
+  }
+}

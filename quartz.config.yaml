@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: notes.jasonsooter.com
+  baseUrl: www.jasonsooter.com
   ignorePatterns:
     - private
     - templates
@@ -25,8 +25,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Space Grotesk
+      body: Space Grotesk
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -35,9 +35,9 @@ configuration:
         gray: "#9ca3af"
         darkgray: "#374151"
         dark: "#111827"
-        secondary: "#2563eb"
-        tertiary: "#1d4ed8"
-        highlight: rgba(37, 99, 235, 0.1)
+        secondary: "#db2777"
+        tertiary: "#be185d"
+        highlight: rgba(236, 72, 153, 0.08)
         textHighlight: "#fde68a88"
       darkMode:
         light: "#030712"
@@ -45,9 +45,9 @@ configuration:
         gray: "#4b5563"
         darkgray: "#d1d5db"
         dark: "#f9fafb"
-        secondary: "#60a5fa"
-        tertiary: "#93c5fd"
-        highlight: rgba(96, 165, 250, 0.12)
+        secondary: "#f472b6"
+        tertiary: "#f9a8d4"
+        highlight: rgba(244, 114, 182, 0.1)
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
@@ -102,7 +102,9 @@ plugins:
       renderEngine: katex
     order: 80
   - source: github:quartz-community/citations
-    enabled: false
+    enabled: true
+    options:
+      bibliographyFile: ./bibliography.bib
     order: 85
   - source: github:quartz-community/hard-line-breaks
     enabled: false
@@ -113,8 +115,18 @@ plugins:
   - source: github:quartz-community/roam
     enabled: false
     order: 92
+  # Without options this plugin falls back to Quartz's default fonts (Schibsted
+  # Grotesk / Source Sans Pro) and overrides the theme typography above.
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      header:
+        name: Space Grotesk
+        weights: [400, 500, 600, 700]
+      body:
+        name: Space Grotesk
+        weights: [400, 500, 600, 700]
+      code: IBM Plex Mono
   - source: github:quartz-community/remove-draft
     enabled: false
   - source: github:quartz-community/explicit-publish
@@ -159,7 +171,7 @@ plugins:
   - source: github:quartz-community/search
     enabled: true
     layout:
-      position: left
+      position: header
       priority: 20
       group: toolbar
       groupOptions:
@@ -181,6 +193,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+      condition: not-index
   # Off for now: on the reading lists this block runs to dozens of date pills and
   # swamped the page. Tags remain clickable inline and keep their own tag pages.
   - source: github:quartz-community/tag-list
@@ -188,21 +201,22 @@ plugins:
     layout:
       position: afterBody
       priority: 10
+  # The site title lives in site-nav's top bar now.
   - source: github:quartz-community/page-title
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
-      position: left
+      position: header
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
     enabled: true
     layout:
-      position: left
+      position: header
       priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
@@ -223,14 +237,12 @@ plugins:
     enabled: true
     options:
       links:
-        About: /about
-        My Notes: https://publish.obsidian.md/functional-stoic
-        Blog: /blog
+        Email: mailto:hello@jasonsooter.com
+        GitHub: https://github.com/JasonSooter
+        LinkedIn: https://www.linkedin.com/in/jason-sooter/
         Uses: /blog/uses
-        Bookshelf: /blog/bookshelf
         Questions: /blog/questions
-        Projects: /projects
-        Tags: /tags
+        RSS: /feed.xml
     layout:
       position: footer
       priority: 50
@@ -240,6 +252,11 @@ plugins:
     enabled: true
     options:
       showTags: false
+    # The home page has blog-extras' own "Recently updated notes" list.
+    layout:
+      position: afterBody
+      priority: 30
+      condition: not-index
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -294,13 +311,46 @@ plugins:
       position: afterBody
       priority: 50
       display: all
-  # Theme package (@quartz-themes/anuppuccin) is an npm dependency: core
-  # require()s it, and would `npm install` it mid-build if it were missing.
-  - source: "@quartz-themes/core"
+  # Top bar from the old jasonsooter.com: site title + section links, and GA.
+  - source: ./plugins/site-nav
     enabled: true
-    order: 50
     options:
-      theme: anuppuccin
+      title: "𝑓(S) functionalStoic"
+      googleAnalyticsId: G-X6H4S6KLTW
+      links:
+        Blog: /blog
+        Notes: /notes
+        Bookshelf: /bookshelf
+        Projects: /projects
+        About: /about
+        Tags: /tags
+    layout:
+      position: header
+      priority: 10
+  # Posts-only RSS at the old site's /feed.xml.
+  - source: ./plugins/blog-feed
+    enabled: true
+    options:
+      title: functionalStoic
+      description: Blog posts by Jason Sooter
+  # Home-page feed, plus newsletter + Giscus after blog posts. Each piece renders
+  # nothing until its options are filled in.
+  - source: ./plugins/blog-extras
+    enabled: true
+    options:
+      postLimit: 5
+      noteLimit: 5
+      buttondownUser: ""
+      giscus:
+        repo: JasonSooter/functionalStoic
+        repoId: R_kgDOQwvlIg
+        # Announcement-type, so only Giscus (on a reader's first comment) and
+        # maintainers can open threads.
+        category: Announcements
+        categoryId: DIC_kwDOQwvlIs4DIqiP
+    layout:
+      position: afterBody
+      priority: 20
   - source: github:JasonSooter/quartz-folder-note-links
     enabled: true
     order: 65
@@ -308,7 +358,7 @@ plugins:
 layout:
   groups:
     toolbar:
-      priority: 35
+      priority: 20
       direction: row
       gap: 0.5rem
   byPageType:
