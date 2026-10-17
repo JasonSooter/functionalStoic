@@ -4,8 +4,8 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
+  # Google Analytics is loaded by plugins/site-nav (googleAnalyticsId).
+  analytics: null
   locale: en-US
   baseUrl: www.jasonsooter.com
   ignorePatterns:
@@ -28,27 +28,29 @@ configuration:
       header: Space Grotesk
       body: Space Grotesk
       code: IBM Plex Mono
+    # Nord (https://www.nordtheme.com): Snow Storm for light mode, Polar Night for
+    # dark, Frost blues as the accent. Tag green lives in custom.scss (--tag).
     colors:
       lightMode:
-        light: "#ffffff"
-        lightgray: "#e5e7eb"
-        gray: "#9ca3af"
-        darkgray: "#374151"
-        dark: "#111827"
-        secondary: "#db2777"
-        tertiary: "#be185d"
-        highlight: rgba(236, 72, 153, 0.08)
-        textHighlight: "#fde68a88"
+        light: "#eceff4"
+        lightgray: "#d8dee9"
+        gray: "#5c667a"
+        darkgray: "#3b4252"
+        dark: "#2e3440"
+        secondary: "#5e81ac"
+        tertiary: "#4c6a92"
+        highlight: rgba(94, 129, 172, 0.12)
+        textHighlight: "#ebcb8b88"
       darkMode:
-        light: "#030712"
-        lightgray: "#1f2937"
-        gray: "#4b5563"
-        darkgray: "#d1d5db"
-        dark: "#f9fafb"
-        secondary: "#f472b6"
-        tertiary: "#f9a8d4"
-        highlight: rgba(244, 114, 182, 0.1)
-        textHighlight: "#b3aa0288"
+        light: "#2e3440"
+        lightgray: "#3b4252"
+        gray: "#8b95a7"
+        darkgray: "#d8dee9"
+        dark: "#eceff4"
+        secondary: "#88c0d0"
+        tertiary: "#8fbcbb"
+        highlight: rgba(136, 192, 208, 0.15)
+        textHighlight: "#ebcb8b55"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -174,8 +176,6 @@ plugins:
       position: header
       priority: 20
       group: toolbar
-      groupOptions:
-        grow: true
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
@@ -217,7 +217,7 @@ plugins:
     enabled: true
     layout:
       position: header
-      priority: 35
+      priority: 25
       group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true

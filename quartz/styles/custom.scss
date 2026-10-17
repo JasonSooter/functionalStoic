@@ -7,6 +7,18 @@
 // ---------------------------------------------------------------------------
 
 $readingWidth: 52rem;
+
+// Nord Aurora green for tags; Frost blue (the accent) for section headings.
+:root {
+  --tag: #4f7a52;
+}
+:root[saved-theme="dark"] {
+  --tag: #a3be8c;
+}
+
+article :is(h2, h3, h4) {
+  color: var(--secondary);
+}
 $postWidth: 72rem;
 
 body:is(
@@ -27,6 +39,17 @@ body:is(
   justify-content: center;
 
   & .sidebar {
+    display: none;
+  }
+
+  // The notes' "Recent Notes" list is for note pages; these have their own.
+  & .recent-notes {
+    display: none;
+  }
+
+  // Reader mode only fades the sidebars, which these pages don't have, so the
+  // button would do nothing visible here.
+  & .readermode {
     display: none;
   }
 }
@@ -191,12 +214,12 @@ a.internal.tag-link,
   text-transform: uppercase;
   font-size: 0.85em;
   font-weight: 500;
-  color: var(--secondary);
+  color: var(--tag);
   &::before {
     content: "";
   }
   &:hover {
-    color: var(--tertiary);
+    color: var(--secondary);
   }
 }
 
@@ -261,4 +284,57 @@ article.photo-led p:has(> img) {
 // of fighting the theme's specificity on `table` itself.
 article .table-container {
   margin-bottom: 1.5rem;
+}
+
+// ---------------------------------------------------------------------------
+// Top bar: one row — title, section links, then search / reader / theme
+// icons at the end. Search collapses to an icon button.
+// ---------------------------------------------------------------------------
+
+.page-header > header {
+  // Header.tsx's `display: flex` isn't applied on these pages; set it here.
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 1.25rem;
+}
+
+.page-header > header .search {
+  min-width: 0;
+  flex: 0 0 auto;
+
+  & > .search-button {
+    border: none;
+    padding: 0;
+    height: 32px;
+
+    & > p {
+      display: none;
+    }
+    & svg {
+      margin: 0;
+      width: 20px;
+      height: 20px;
+    }
+  }
+}
+
+// /blog: the post cards (plugins/blog-extras) replace the folder page's list.
+body[data-slug="blog/index"] {
+  & .page-listing,
+  & .breadcrumb-container,
+  & .content-meta,
+  & .center > hr {
+    display: none;
+  }
+}
+
+// Search matches: the default tints pink text with a pink background, which
+// all but hides it. Use a soft tint, body-coloured text and an accent underline.
+.search > .search-container > .search-space > .search-layout .highlight {
+  background: color-mix(in srgb, var(--secondary) 18%, transparent);
+  color: var(--dark);
+  border-radius: 2px;
+  box-shadow: inset 0 -2px 0 var(--secondary);
 }
