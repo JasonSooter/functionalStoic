@@ -1,8 +1,10 @@
 import { h } from "preact"
-import { resolveRelative } from "@quartz-community/utils"
+import { resolveRelative, slugifyFilePath } from "@quartz-community/utils"
 
 // What the old Next.js site had around its posts, rebuilt for Quartz:
 // - on the home page: the latest posts (app/Main.tsx) and recently updated notes
+// - on /blog: post cards with a preview image (frontmatter `image:`, a vault path
+//   like `Attachments/x.jpg`; a typographic placeholder otherwise)
 // - after each blog post: Giscus comments
 // A blog post is a page under blog/ tagged `blog`; Uses and Questions live there
 // too but are plain pages, so they get no comments.
@@ -74,6 +76,46 @@ function PostItem({ page, from, locale }) {
   )
 }
 
+// Posts without an `image:` get a typographic placeholder instead.
+function previewSrc(page, from) {
+  return resolveRelative(from, slugifyFilePath(page.frontmatter.image.replace(/^\//, "")))
+}
+
+function PostCard({ page, from, locale }) {
+  const href = resolveRelative(from, page.slug)
+  const tags = (page.frontmatter?.tags ?? []).filter((t) => t !== "blog")
+  return h(
+    "li",
+    { class: "post-card" },
+    h(
+      "a",
+      { href, class: "internal post-card-image", tabindex: "-1", "aria-hidden": "true" },
+      page.frontmatter?.image
+        ? h("img", { src: previewSrc(page, from), alt: "", loading: "lazy" })
+        : h("span", { class: "post-card-placeholder" }, page.frontmatter?.title),
+    ),
+    h(
+      "div",
+      { class: "post-card-body" },
+      h("time", { class: "post-date" }, formatDate(dateOf(page, "created"), locale)),
+      h("h2", null, h("a", { href, class: "internal" }, page.frontmatter?.title)),
+      tags.length > 0 &&
+        h(
+          "ul",
+          { class: "post-tags" },
+          tags.map((t) =>
+            h(
+              "li",
+              null,
+              h("a", { href: resolveRelative(from, `tags/${t}`), class: "internal tag" }, t),
+            ),
+          ),
+        ),
+      page.description && h("p", { class: "post-summary" }, page.description),
+    ),
+  )
+}
+
 function Comments({ giscus }) {
   if (!giscus?.repo || !giscus?.repoId || !giscus?.categoryId) return null
   return h("div", {
@@ -101,13 +143,57 @@ const style = `
 .blog-extras .post-body h3 { margin: 0; font-size: 1.5rem; }
 .blog-extras .post-body h3 a { color: var(--dark); background: none; padding: 0; }
 .blog-extras .post-tags { display: flex; flex-wrap: wrap; gap: 0.75rem; list-style: none; padding: 0; margin: 0.5rem 0 0; }
-.blog-extras .post-tags a.tag { text-transform: uppercase; font-size: 0.85rem; font-weight: 500; background: none; padding: 0; }
+.blog-extras .post-tags a.tag { text-transform: uppercase; font-size: 0.85rem; font-weight: 500; background: none; padding: 0; color: var(--tag); }
 .blog-extras .post-summary { color: var(--darkgray); margin: 0.75rem 0; }
 .blog-extras .read-more { font-weight: 500; background: none; padding: 0; }
 .blog-extras .all-posts { display: block; text-align: right; font-weight: 500; margin-top: 1rem; }
 .blog-extras .recent-notes-list { padding-left: 1.25rem; }
 .blog-extras .recent-notes-list time { color: var(--gray); font-size: 0.9rem; margin-left: 0.5rem; }
 .blog-extras .giscus-mount { margin-top: 2rem; }
+.blog-extras ul.post-cards {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+  gap: 2.5rem 2rem;
+}
+.blog-extras .post-card { margin: 0; display: flex; flex-direction: column; }
+.blog-extras .post-card-image {
+  display: block;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  border: 1px solid var(--lightgray);
+  margin-bottom: 1rem;
+}
+.blog-extras .post-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: 0;
+  transition: transform 0.3s ease;
+}
+.blog-extras .post-card-placeholder {
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 1.25rem;
+  font-family: var(--headerFont);
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: var(--dark);
+  background:
+    radial-gradient(circle at 85% 15%, color-mix(in srgb, var(--secondary) 35%, transparent), transparent 60%),
+    linear-gradient(135deg, var(--lightgray), var(--light));
+}
+.blog-extras .post-card:hover .post-card-image img { transform: scale(1.03); }
+.blog-extras .post-card-body h2 { font-size: 1.4rem; margin: 0.25rem 0 0; line-height: 1.25; }
+.blog-extras .post-card-body h2 a { color: var(--dark); }
+.blog-extras .post-card-body h2 a:hover { color: var(--secondary); }
 @media (max-width: 800px) {
   .blog-extras .post-item { grid-template-columns: 1fr; gap: 0.25rem; }
 }
@@ -197,6 +283,19 @@ export const BlogExtras = (userOpts) => {
               ),
             ),
           ),
+      )
+    }
+
+    if (slug === "blog/index") {
+      const posts = allFiles.filter(isPost).sort(byDate("created"))
+      return h(
+        "div",
+        { class: "blog-extras blog-index" },
+        h(
+          "ul",
+          { class: "post-cards" },
+          posts.map((page) => h(PostCard, { page, from: slug, locale })),
+        ),
       )
     }
 
