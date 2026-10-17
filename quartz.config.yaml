@@ -4,8 +4,8 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
+  # Google Analytics is loaded by plugins/site-nav (googleAnalyticsId).
+  analytics: null
   locale: en-US
   baseUrl: www.jasonsooter.com
   ignorePatterns:
