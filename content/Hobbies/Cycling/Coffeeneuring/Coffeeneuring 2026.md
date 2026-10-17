@@ -3,8 +3,8 @@ publish: true
 title: Coffeeneuring 2026
 description: Eight coffee rides from Freiburg in autumn 2026, with coffee in Germany, France and Switzerland.
 created: 2026-10-11T07:55:45.000Z
-modified: 2026-10-11T08:45:08.000Z
-published: 2026-10-11T08:45:08.000Z
+modified: 2026-10-11T08:55:05.691Z
+published: 2026-10-11T08:55:05.691Z
 tags:
   - hobbies/cycling
   - hobbies/cycling/coffeeneuring
@@ -44,6 +44,7 @@ rides_goal: 8
 ### Ride 1 · Cycle Garage
 
 **Cycle Garage, Freiburg** · Saturday 10 October · 56 km · Cortado
+
 Group ride out to the Tuniberg · [Strava](https://www.strava.com/activities/20527562592)
 
 ![[Attachments/Coffeeneuring 2026 1 - Cycle Garage Logo.jpg]]

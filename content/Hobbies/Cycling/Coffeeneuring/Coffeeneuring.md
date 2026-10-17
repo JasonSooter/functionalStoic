@@ -2,9 +2,9 @@
 publish: true
 title: Coffeeneuring
 description: An autumn challenge of riding a bike to coffee, and my years doing it.
-created: 2025-11-06T17:19:39.000Z
-modified: 2026-10-11T08:38:39.360Z
-published: 2026-10-11T08:38:39.360Z
+created: 2026-10-11T08:51:21.942Z
+modified: 2026-10-11T08:51:21.943Z
+published: 2026-10-11T08:51:21.943Z
 tags:
   - hobbies/cycling
   - hobbies/cycling/coffeeneuring
@@ -20,7 +20,7 @@ date modified: 2026-10-11T10:38:38+02:00
 
 The name is a joke on _randonneuring_, long-distance riding where you push through 200 km or more against the clock. Coffeeneuring flips it. The ride can be short, the pace is yours, and the destination is the point.
 
-![[Attachments/Coffeeneuring 2026 1 - Cortado.jpg|320]]
+![[Attachments/Coffeeneuring 2026 1 - Cortado.jpg]]
 _The reward, every time._
 
 ## Where it Comes From

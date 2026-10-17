@@ -6,8 +6,8 @@ aliases:
   - Biking
 title: Cycling
 created: 2024-02-08T19:20:20.000Z
-modified: 2026-10-02T09:31:46.000Z
-published: 2026-10-02T09:31:46.000Z
+modified: 2026-10-16T20:22:29.000Z
+published: 2026-10-16T20:22:29.000Z
 tags:
   - hobbies/bikes
 date created: 2025-09-25T16:40:52+02:00
@@ -40,12 +40,6 @@ date modified: 2026-08-29T15:46:49+02:00
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb69d0a96-125f-4ed8-8b4d-7cba006c79c5_4000x4000.png)
 
-## Bike Welding
-
-- Dana Wolfe Hood - <https://www.dwhdesigns.com/about> -  970-412 -4025 - dana.w.hood@comcast.net
-  - Met Dana at an Akinz tent at the REI Block Party
-  - He can TIG weld bikes. I discussed turning some of the old trek frames into disc brake bikes
-
 ## Bike Touring
 
 - [[3800 Mile Tandem Bike Ride Across America]]
@@ -53,13 +47,11 @@ date modified: 2026-08-29T15:46:49+02:00
   - The P’tit Train du Nord trail is located in the province of Quebec, Canada. It stretches through the Laurentians region, connecting various towns and offering scenic views of lakes and rivers, particularly as it leads to Mont Tremblant.
   - Canada’s P’tit Train du Nord is a converted railway that has been turned into a beautiful trail for biking, walking, and enjoying nature. It goes through a scenic area with lots of trees, rivers, and mountains. People can use the trail to spend time outside, have fun, and see the sights. It's a great place for families and friends to explore together.
 
-## Bike Shop
+## My Local Bike Shop
 
-\#🗓️/2020/10/18
+Cycle Garage, Freiburg
 
-- [x] 27 x 1 1/4 tube
-- [x] 700 x 38 c
-- [x] 29 x 2.2
+- Christian & Eva
 
 ## Mountain Biking
 

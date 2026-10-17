@@ -12,10 +12,12 @@ tags:
   - fort-collins
 cssclasses:
   - photo-led
+socialImage: Attachments/horsetooth-reservoir.png
 linter-yaml-title-alias: First Major Mountain Ride
 date created: 2026-10-16T21:17:04+02:00
 date modified: 2026-10-16T21:17:04+02:00
 date: 2020-06-06
+image: Attachments/horsetooth-reservoir.png
 ---
 
 # First Major Mountain Ride

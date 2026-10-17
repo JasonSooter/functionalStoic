@@ -2,8 +2,8 @@
 publish: true
 title: Italy
 created: 2026-07-26T09:46:17.730Z
-modified: 2026-07-26T09:56:41.125Z
-published: 2026-07-26T09:56:41.125Z
+modified: 2026-10-13T03:21:32.000Z
+published: 2026-10-13T03:21:32.000Z
 linter-yaml-title-alias: Italy
 date created: 2026-07-26T11:46:17+02:00
 date modified: 2026-07-26T11:56:36+02:00
@@ -12,6 +12,7 @@ date modified: 2026-07-26T11:56:36+02:00
 # Italy
 
 - [[Lake Garda]]
+- [[Savignano sul Rubicone]] — the (official) Rubicon; see [[Concepts/Rubicon|Rubicon]]
 
 ## Summary
 

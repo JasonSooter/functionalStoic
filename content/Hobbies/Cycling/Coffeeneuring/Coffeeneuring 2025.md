@@ -2,9 +2,9 @@
 publish: true
 title: Coffeeneuring 2025
 description: Seven coffee rides in autumn 2025, from Penn Station on an Erie Canal bike trip to the Front Range in Colorado.
-created: 2025-11-06T17:19:46.000Z
-modified: 2026-10-11T08:40:29.286Z
-published: 2026-10-11T08:40:29.286Z
+created: 2026-10-11T08:51:21.945Z
+modified: 2026-10-11T08:51:21.946Z
+published: 2026-10-11T08:51:21.946Z
 tags:
   - hobbies/cycling
   - hobbies/cycling/coffeeneuring
@@ -22,7 +22,7 @@ rides_goal: 7
 
 **☕ ☕ ☕ ☕ ☕ ☕ ☕** — 7 of 7 rides · done
 
-![[Attachments/Birch Coffee NYC.png|420]]
+![[Attachments/Birch Coffee NYC.png]]
 _Ride 1: Birch Coffee, before the train north._
 
 ## The Rides
