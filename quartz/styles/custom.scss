@@ -29,6 +29,12 @@ body:is(
   & .sidebar {
     display: none;
   }
+
+  // Reader mode only fades the sidebars, which these pages don't have, so the
+  // button would do nothing visible here.
+  & .readermode {
+    display: none;
+  }
 }
 
 // ---------------------------------------------------------------------------
