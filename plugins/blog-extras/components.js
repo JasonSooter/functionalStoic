@@ -21,6 +21,7 @@ const defaultOptions = {
     ["urban-planning", "How cities are shaped for people"],
     ["infrastructure", "How the systems underneath everyday life work"],
     ["projects", "Things I've built", "static/projects-hero.jpg"],
+    ["concepts", "Ideas and mental models worth keeping"],
   ],
   // [label, slug] quick links under the home intro.
   jumps: [
