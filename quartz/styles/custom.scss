@@ -450,7 +450,8 @@ body[data-slug="404"] {
   }
   & .center > article,
   & .center > hr,
-  & .recent-notes {
+  & .recent-notes,
+  & .readermode {
     display: none;
   }
 }
