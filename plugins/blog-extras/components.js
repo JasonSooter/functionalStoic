@@ -1,5 +1,5 @@
 import { h } from "preact"
-import { resolveRelative, slugifyFilePath } from "@quartz-community/utils"
+import { resolveRelative } from "@quartz-community/utils"
 
 // What the old Next.js site had around its posts, rebuilt for Quartz:
 // - on the home page: the latest posts (app/Main.tsx) and recently updated notes
@@ -10,8 +10,17 @@ import { resolveRelative, slugifyFilePath } from "@quartz-community/utils"
 // too but are plain pages, so they get no comments.
 
 const defaultOptions = {
-  postLimit: 5,
-  noteLimit: 5,
+  postLimit: 4,
+  noteLimit: 6,
+  // [label, slug] quick links under the home intro.
+  jumps: [
+    ["Blog", "blog/index"],
+    ["Bookshelf", "bookshelf/index"],
+    ["Travel", "travel/index"],
+    ["Cycling", "hobbies/cycling/index"],
+    ["Urban Planning", "urban-planning/index"],
+    ["Infrastructure", "infrastructure/index"],
+  ],
   giscus: null,
 }
 
@@ -39,46 +48,49 @@ const byDate = (type) => (a, b) =>
 const formatDate = (d, locale) =>
   d?.toLocaleDateString(locale, { year: "numeric", month: "long", day: "numeric" })
 
-function PostItem({ page, from, locale }) {
+// plugins/social-image records each page's card image as `coverImage`:
+// frontmatter `image:` if set, else the first embedded image. Callers fall back
+// to a typographic placeholder.
+const coverOf = (page) => page.coverImage
+
+function previewSrc(page, from) {
+  return resolveRelative(from, coverOf(page))
+}
+
+// "travel/europe/portugal/lisbon" -> "Travel · Europe · Portugal"
+const folderLabel = (slug) =>
+  slug
+    .split("/")
+    .slice(0, -1)
+    .filter((s) => s !== "index")
+    .map((s) => s.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()))
+    .join(" · ")
+
+function NoteCard({ page, from, locale }) {
   const href = resolveRelative(from, page.slug)
-  const tags = (page.frontmatter?.tags ?? []).filter((t) => t !== "blog")
+  const where = folderLabel(page.slug)
   return h(
     "li",
-    { class: "post-item" },
-    h("time", { class: "post-date" }, formatDate(dateOf(page, "created"), locale)),
+    { class: "note-card" },
     h(
-      "div",
-      { class: "post-body" },
-      h("h3", null, h("a", { href, class: "internal" }, page.frontmatter?.title)),
-      tags.length > 0 &&
-        h(
-          "ul",
-          { class: "post-tags" },
-          tags.map((t) =>
-            h(
-              "li",
-              null,
-              h("a", { href: resolveRelative(from, `tags/${t}`), class: "internal tag" }, t),
-            ),
-          ),
-        ),
-      page.description && h("p", { class: "post-summary" }, page.description),
+      "a",
+      { href, class: "internal note-card-link" },
       h(
-        "a",
-        {
-          href,
-          class: "internal read-more",
-          "aria-label": `Read more: "${page.frontmatter?.title}"`,
-        },
-        "Read more →",
+        "span",
+        { class: "note-card-image" },
+        coverOf(page)
+          ? h("img", { src: previewSrc(page, from), alt: "", loading: "lazy" })
+          : h("span", { class: "post-card-placeholder note-placeholder" }, where || "Notes"),
+      ),
+      h(
+        "span",
+        { class: "note-card-body" },
+        where && h("span", { class: "note-card-where" }, where),
+        h("span", { class: "note-card-title" }, page.frontmatter?.title),
+        h("time", null, formatDate(dateOf(page, "modified"), locale)),
       ),
     ),
   )
-}
-
-// Posts without an `image:` get a typographic placeholder instead.
-function previewSrc(page, from) {
-  return resolveRelative(from, slugifyFilePath(page.frontmatter.image.replace(/^\//, "")))
 }
 
 function PostCard({ page, from, locale }) {
@@ -90,7 +102,7 @@ function PostCard({ page, from, locale }) {
     h(
       "a",
       { href, class: "internal post-card-image", tabindex: "-1", "aria-hidden": "true" },
-      page.frontmatter?.image
+      coverOf(page)
         ? h("img", { src: previewSrc(page, from), alt: "", loading: "lazy" })
         : h("span", { class: "post-card-placeholder" }, page.frontmatter?.title),
     ),
@@ -131,24 +143,10 @@ const style = `
 .blog-extras { margin-top: 2rem; }
 .blog-extras a.internal { background-color: transparent; padding: 0; }
 .blog-extras h2 { font-size: 1.5rem; margin: 2.5rem 0 1rem; }
-.blog-extras ul.post-list { list-style: none; padding: 0; margin: 0; }
-.blog-extras .post-item {
-  display: grid;
-  grid-template-columns: 10rem 1fr;
-  gap: 1rem;
-  padding: 2rem 0;
-  border-bottom: 1px solid var(--lightgray);
-}
 .blog-extras .post-date { color: var(--gray); font-weight: 500; }
-.blog-extras .post-body h3 { margin: 0; font-size: 1.5rem; }
-.blog-extras .post-body h3 a { color: var(--dark); background: none; padding: 0; }
 .blog-extras .post-tags { display: flex; flex-wrap: wrap; gap: 0.75rem; list-style: none; padding: 0; margin: 0.5rem 0 0; }
 .blog-extras .post-tags a.tag { text-transform: uppercase; font-size: 0.85rem; font-weight: 500; background: none; padding: 0; color: var(--tag); }
 .blog-extras .post-summary { color: var(--darkgray); margin: 0.75rem 0; }
-.blog-extras .read-more { font-weight: 500; background: none; padding: 0; }
-.blog-extras .all-posts { display: block; text-align: right; font-weight: 500; margin-top: 1rem; }
-.blog-extras .recent-notes-list { padding-left: 1.25rem; }
-.blog-extras .recent-notes-list time { color: var(--gray); font-size: 0.9rem; margin-left: 0.5rem; }
 .blog-extras .giscus-mount { margin-top: 2rem; }
 .blog-extras ul.post-cards {
   list-style: none;
@@ -190,6 +188,36 @@ const style = `
     radial-gradient(circle at 85% 15%, color-mix(in srgb, var(--secondary) 35%, transparent), transparent 60%),
     linear-gradient(135deg, var(--lightgray), var(--light));
 }
+.blog-extras .home-jumps { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.5rem 0 1rem; }
+.blog-extras .home-jumps a {
+  padding: 0.35rem 0.9rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: var(--darkgray);
+}
+.blog-extras .home-jumps a:hover { border-color: var(--secondary); color: var(--secondary); }
+.blog-extras .home-section-head { display: flex; align-items: baseline; justify-content: space-between; margin: 3rem 0 1.25rem; }
+.blog-extras .home-section-head h2 { margin: 0; }
+.blog-extras .home-section-head a { font-weight: 500; }
+.blog-extras ul.note-cards {
+  list-style: none; padding: 0; margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr));
+  gap: 1.25rem;
+}
+.blog-extras .note-card { margin: 0; }
+.blog-extras .note-card-link { display: flex; flex-direction: column; height: 100%; border: 1px solid var(--lightgray); border-radius: 0.5rem; overflow: hidden; color: var(--dark); transition: border-color 0.2s ease; }
+.blog-extras .note-card-link:hover { border-color: var(--secondary); }
+.blog-extras .note-card-image { display: block; aspect-ratio: 16 / 10; overflow: hidden; }
+.blog-extras .note-card-image img { width: 100%; height: 100%; object-fit: cover; margin: 0; transition: transform 0.3s ease; }
+.blog-extras .note-card-link:hover .note-card-image img { transform: scale(1.04); }
+.blog-extras .note-placeholder { font-size: 1.1rem; }
+.blog-extras .note-card-body { display: flex; flex-direction: column; gap: 0.2rem; padding: 0.75rem 0.9rem 0.9rem; }
+.blog-extras .note-card-where { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--tag); font-weight: 600; }
+.blog-extras .note-card-title { font-weight: 600; line-height: 1.3; }
+.blog-extras .note-card-body time { font-size: 0.85rem; color: var(--gray); }
 .blog-extras .post-card:hover .post-card-image img { transform: scale(1.03); }
 .blog-extras .post-card-body h2 { font-size: 1.4rem; margin: 0.25rem 0 0; line-height: 1.25; }
 .blog-extras .post-card-body h2 a { color: var(--dark); }
@@ -230,9 +258,6 @@ const style = `
 @media (max-width: 800px) {
   .blog-extras.not-found { flex-direction: column; align-items: flex-start; gap: 1rem; margin: 2rem 0; }
   .blog-extras .not-found-code { border-right: 0; padding-right: 0; font-size: 4.5rem; }
-}
-@media (max-width: 800px) {
-  .blog-extras .post-item { grid-template-columns: 1fr; gap: 0.25rem; }
 }
 `
 
@@ -290,35 +315,36 @@ export const BlogExtras = (userOpts) => {
       return h(
         "div",
         { class: "blog-extras home" },
-        h("h2", null, "Latest posts"),
+        h(
+          "nav",
+          { class: "home-jumps", "aria-label": "Jump to" },
+          opts.jumps.map(([text, target]) =>
+            h("a", { class: "internal", href: resolveRelative(slug, target) }, text),
+          ),
+        ),
+        h(
+          "div",
+          { class: "home-section-head" },
+          h("h2", null, "Latest posts"),
+          h("a", { class: "internal", href: resolveRelative(slug, "blog/index") }, "All posts →"),
+        ),
         h(
           "ul",
-          { class: "post-list" },
-          posts.slice(0, opts.postLimit).map((page) => h(PostItem, { page, from: slug, locale })),
+          { class: "post-cards" },
+          posts.slice(0, opts.postLimit).map((page) => h(PostCard, { page, from: slug, locale })),
         ),
-        posts.length > opts.postLimit &&
+        notes.length > 0 &&
           h(
-            "a",
-            { class: "internal all-posts", href: resolveRelative(slug, "blog/index") },
-            "All posts →",
+            "div",
+            { class: "home-section-head" },
+            h("h2", null, "Recently updated notes"),
+            h("a", { class: "internal", href: resolveRelative(slug, "notes") }, "All notes →"),
           ),
-        notes.length > 0 && h("h2", null, "Recently updated notes"),
         notes.length > 0 &&
           h(
             "ul",
-            { class: "recent-notes-list" },
-            notes.map((page) =>
-              h(
-                "li",
-                null,
-                h(
-                  "a",
-                  { class: "internal", href: resolveRelative(slug, page.slug) },
-                  page.frontmatter?.title,
-                ),
-                h("time", null, formatDate(dateOf(page, "modified"), locale)),
-              ),
-            ),
+            { class: "note-cards" },
+            notes.map((page) => h(NoteCard, { page, from: slug, locale })),
           ),
       )
     }

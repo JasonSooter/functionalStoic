@@ -353,8 +353,8 @@ plugins:
   - source: ./plugins/blog-extras
     enabled: true
     options:
-      postLimit: 5
-      noteLimit: 5
+      postLimit: 4
+      noteLimit: 6
       giscus:
         repo: JasonSooter/functionalStoic
         repoId: R_kgDOQwvlIg
