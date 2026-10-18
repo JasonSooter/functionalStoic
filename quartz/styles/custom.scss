@@ -321,6 +321,11 @@ body[data-slug="blog/index"] {
   }
 }
 
+// /tags: blog-extras' tag cloud replaces tag-page's per-tag listings.
+body[data-slug="tags/index"] .center > .popover-hint > :not(article) {
+  display: none;
+}
+
 // Search matches: the default tints pink text with a pink background, which
 // all but hides it. Use a soft tint, body-coloured text and an accent underline.
 .search > .search-container > .search-space > .search-layout .highlight {

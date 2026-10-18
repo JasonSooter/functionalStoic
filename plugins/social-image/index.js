@@ -18,7 +18,12 @@ export const SocialImage = () => ({
       () => (tree, file) => {
         const fm = file.data.frontmatter
         let cover = fm?.image ?? fm?.socialImage
-        if (typeof cover === "string" && cover && !isAbsoluteURL(cover)) {
+        if (typeof cover === "string" && isAbsoluteURL(cover)) {
+          file.data.coverImage = cover
+          if (fm) fm.socialImage = cover
+          return
+        }
+        if (typeof cover === "string" && cover) {
           // Accept Obsidian-style values: `Attachments/x.jpg`, a bare `x.jpg`
           // (attachments live in Attachments/), or `[[x.jpg]]` / `![[x.jpg]]`.
           const path = cover.replace(/^!?\[\[|\]\]$/g, "").replace(/^\//, "")
