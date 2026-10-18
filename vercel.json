@@ -32,6 +32,36 @@
       "source": "/blog/rendering-reference",
       "destination": "/blog",
       "permanent": true
+    },
+    {
+      "source": "/2021-Fort-Collins-Intersection-Counts",
+      "destination": "/blog/2021-fort-collins-intersection-counts",
+      "permanent": true
+    },
+    {
+      "source": "/first-major-mountain-bike-ride",
+      "destination": "/blog/first-major-mountain-bike-ride",
+      "permanent": true
+    },
+    {
+      "source": "/improving-my-git-hygiene-with-patch",
+      "destination": "/blog/improving-my-git-hygiene-with-patch",
+      "permanent": true
+    },
+    {
+      "source": "/jwt-learnings",
+      "destination": "/blog/jwt-learnings",
+      "permanent": true
+    },
+    {
+      "source": "/the-sweet-smell-of-success",
+      "destination": "/blog/the-sweet-smell-of-success",
+      "permanent": true
+    },
+    {
+      "source": "/you-are-the-local-source-for-gratitude-reminders",
+      "destination": "/blog/you-are-the-local-source-for-gratitude-reminders",
+      "permanent": true
     }
   ],
   "headers": [
