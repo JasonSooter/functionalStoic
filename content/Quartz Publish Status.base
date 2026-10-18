@@ -1,8 +1,0 @@
-views:
-  - type: table
-    name: Published Notes
-    filters:
-      and:
-        - publish == true
-  - type: table
-    name: Unpublished Notes
