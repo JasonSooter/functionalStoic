@@ -453,3 +453,61 @@ body[data-slug="404"] {
 .popover-hint:has(> article .markdown-preview-view > *) > .page-listing {
   display: none;
 }
+
+// /blog/questions: each question (a bullet that opens with a bold line) reads
+// as a card — the question as its heading, the musing below in quieter text.
+body[data-slug="blog/questions"] article {
+  & h2 {
+    margin-top: 2.5rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  & ul:has(> li > p > strong:first-child) {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 0;
+    display: grid;
+    gap: 0.9rem;
+  }
+
+  & ul:has(> li > p > strong:first-child) > li {
+    position: relative;
+    margin: 0;
+    padding: 1rem 1.25rem 1.05rem 3.1rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 10px;
+    background: color-mix(in srgb, var(--lightgray) 22%, transparent);
+    color: var(--darkgray);
+    font-size: 0.95rem;
+    line-height: 1.6;
+
+    &::before {
+      content: "?";
+      position: absolute;
+      left: 1rem;
+      top: 0.95rem;
+      width: 1.5rem;
+      height: 1.5rem;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      font-weight: 700;
+      font-size: 0.85rem;
+      color: var(--light);
+      background: var(--secondary);
+    }
+
+    & > p {
+      margin: 0;
+    }
+
+    & > p > strong:first-child {
+      display: block;
+      margin-bottom: 0.4rem;
+      color: var(--dark);
+      font-size: 1.08rem;
+      line-height: 1.4;
+    }
+  }
+}
