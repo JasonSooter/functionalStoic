@@ -39,6 +39,7 @@ image: Attachments/Hobbies Hero.jpg
 - [[Hobbies/Hiking/Hiking in Germany — Clubs and Magazines.md|Hiking in Germany — Clubs and Magazines]]
 - [[Hobbies/Hiking/Larimer County Open Spaces.md|Larimer County Open Spaces]]
 - [[Hobbies/Lyric Outdoor Movies.md|Lyric Outdoor Movies]]
+- [[Hobbies/Cycling/Mac's Gravel Ghost.md|Mac's Gravel Ghost]]
 - [[Hobbies/Mushroom Foraging.md|Mushroom Foraging]]
 - [[Hobbies/Music.md|Music]]
 - [[Hobbies/Pelicans.md|Pelicans]]
