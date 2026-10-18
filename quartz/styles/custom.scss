@@ -61,7 +61,10 @@ body:is(
 // so the hero and aside can sit in the same grid as the article.
 // ---------------------------------------------------------------------------
 
-body:has(.post-hero) .page > #quartz-body {
+// Scoped to #quartz-body: hover popovers are appended to <body> with a post's
+// .post-hero inside, and a bare `body:has(.post-hero)` flipped whichever page
+// was underneath (e.g. /blog) into this grid.
+body:has(#quartz-body .post-hero) .page > #quartz-body {
   grid-template-columns: minmax(0, $postWidth);
 
   & .center {
@@ -337,4 +340,16 @@ body[data-slug="blog/index"] {
   color: var(--dark);
   border-radius: 2px;
   box-shadow: inset 0 -2px 0 var(--secondary);
+}
+
+// Popover previews of a post: keep the title, drop the side column.
+.popover .post-aside {
+  display: none;
+}
+.popover .post-hero {
+  padding: 0 0 1rem;
+  margin-bottom: 1rem;
+  & h1 {
+    font-size: 1.6rem;
+  }
 }

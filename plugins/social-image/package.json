@@ -1,0 +1,23 @@
+{
+  "name": "social-image",
+  "version": "1.0.0",
+  "description": "Turns a note's image/socialImage vault path into an absolute URL for og:image",
+  "type": "module",
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "quartz": {
+    "name": "social-image",
+    "displayName": "Social Image",
+    "category": "transformer",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 95,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
