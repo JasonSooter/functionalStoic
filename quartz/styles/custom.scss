@@ -21,13 +21,7 @@ article :is(h2, h3, h4) {
 }
 $postWidth: 72rem;
 
-body:is(
-    [data-slug="index"],
-    [data-slug^="blog/"],
-    [data-slug="about"],
-    [data-slug="projects"],
-    [data-slug="notes"]
-  )
+body:is([data-slug="index"], [data-slug^="blog/"], [data-slug="about"], [data-slug="projects"])
   .page
   > #quartz-body {
   grid-template-columns: minmax(0, $readingWidth);
@@ -143,13 +137,7 @@ body:has(#quartz-body .post-hero) .page > #quartz-body {
 }
 
 // Roomier reading text on the blog-style pages, like the old site's prose.
-body:is(
-    [data-slug="index"],
-    [data-slug^="blog/"],
-    [data-slug="about"],
-    [data-slug="projects"],
-    [data-slug="notes"]
-  )
+body:is([data-slug="index"], [data-slug^="blog/"], [data-slug="about"], [data-slug="projects"])
   article {
   font-size: 1.125rem;
   line-height: 1.8;
@@ -393,7 +381,6 @@ body[data-slug="blog/index"] {
       [data-slug^="blog/"],
       [data-slug="about"],
       [data-slug="projects"],
-      [data-slug="notes"],
       [data-slug="404"]
     )
   ) {
@@ -423,7 +410,6 @@ body:not(
       [data-slug^="blog/"],
       [data-slug="about"],
       [data-slug="projects"],
-      [data-slug="notes"],
       [data-slug="404"]
     )
   )
