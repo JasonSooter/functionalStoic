@@ -337,6 +337,10 @@ plugins:
     layout:
       position: beforeBody
       priority: 1
+  # Absolute og:image URLs from a note's image/socialImage vault path.
+  - source: ./plugins/social-image
+    enabled: true
+    order: 95
   # Posts-only RSS at the old site's /feed.xml.
   - source: ./plugins/blog-feed
     enabled: true
