@@ -4,14 +4,18 @@ aliases:
   - 24 Books in 2024
 title: Books Read in 2024
 created: 2024-12-21T17:24:42.000Z
-modified: 2026-09-21T06:36:46.236Z
-published: 2026-09-21T06:36:46.236Z
+modified: 2026-10-18T15:15:43.101Z
+published: 2026-10-18T15:15:43.101Z
+socialImage: Attachments/Books Read in 2024 Hero.jpg
 date created: 2024-12-21T18:24:42+01:00
-date modified: 2026-09-21T08:36:45+02:00
+date modified: 2026-10-18T17:15:42+02:00
 linter-yaml-title-alias: Books Read in 2024
+image: Attachments/Books Read in 2024 Hero.jpg
 ---
 
 # Books Read in 2024
+
+![[Attachments/Books Read in 2024 Hero.jpg]]
 
 _**Goal**_
 

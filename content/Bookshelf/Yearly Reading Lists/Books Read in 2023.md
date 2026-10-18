@@ -4,14 +4,18 @@ aliases:
   - 12 Books in 2023
 title: Books Read in 2023
 created: 2024-02-04T17:04:00.000Z
-modified: 2026-08-16T10:57:50.689Z
-published: 2026-08-16T10:57:50.689Z
+modified: 2026-10-18T15:15:43.056Z
+published: 2026-10-18T15:15:43.056Z
+socialImage: Attachments/Books Read in 2023 Hero.jpg
 date created: 2024-02-04T18:04:00+01:00
-date modified: 2026-08-16T12:57:50+02:00
+date modified: 2026-10-18T17:15:42+02:00
 linter-yaml-title-alias: Books Read in 2023
+image: Attachments/Books Read in 2023 Hero.jpg
 ---
 
 # Books Read in 2023
+
+![[Attachments/Books Read in 2023 Hero.jpg]]
 
 ## Goal
 

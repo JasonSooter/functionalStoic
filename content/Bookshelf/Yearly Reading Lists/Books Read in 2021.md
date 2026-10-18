@@ -2,14 +2,18 @@
 publish: true
 title: Books Read in 2021
 created: 2024-09-22T03:00:05.509Z
-modified: 2026-08-07T04:46:44.830Z
-published: 2026-08-07T04:46:44.830Z
+modified: 2026-10-18T15:15:42.946Z
+published: 2026-10-18T15:15:42.946Z
+socialImage: Attachments/Books Read in 2021 Hero.jpg
 linter-yaml-title-alias: Books Read in 2021
 date created: 2024-09-21T21:00:05-06:00
-date modified: 2026-02-21T09:56:53-07:00
+date modified: 2026-10-18T17:15:42+02:00
+image: Attachments/Books Read in 2021 Hero.jpg
 ---
 
 # Books Read in 2021
+
+![[Attachments/Books Read in 2021 Hero.jpg]]
 
 1. \#🗓️/2021/01/01 Around the World in 80 Days by Jules Verne #📚/status/finished
 2. \#🗓️/2021/02/01 26 Fairmont Street #📚/status/finished
