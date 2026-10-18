@@ -455,3 +455,10 @@ body[data-slug="404"] {
     display: none;
   }
 }
+
+// Folder pages whose folder has its own note (Yearly Reading Lists, Europe, …):
+// the note already introduces and links its contents, so drop the generated
+// list under it. Folders without a note keep the list as their only content.
+.popover-hint:has(> article .markdown-preview-view > *) > .page-listing {
+  display: none;
+}
