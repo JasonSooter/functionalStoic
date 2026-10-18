@@ -21,7 +21,9 @@ const isPost = (page) => isBlogPage(page) && (page.frontmatter?.tags ?? []).incl
 // formatted in UTC below) so the day doesn't shift with the build machine's zone.
 const created = (page) => {
   const d = page.frontmatter?.date ?? page.dates?.created
-  return d ? new Date(d) : undefined
+  const date = d ? new Date(d) : undefined
+  // A malformed `date:` would otherwise make toISOString() throw and fail the build.
+  return date && !isNaN(date) ? date : undefined
 }
 
 function NavLink({ label, page, from }) {

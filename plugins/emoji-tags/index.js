@@ -31,10 +31,19 @@ function linkEmojiTags() {
       if (!EMOJI_TAG.test(node.value)) return
       EMOJI_TAG.lastIndex = 0
 
+      // `\#🗓️/…` is an escaped tag, plain text in Obsidian, but the parser has
+      // already dropped the backslash from node.value. Look for it in the source.
+      const { start, end } = node.position ?? {}
+      const source =
+        start?.offset != null && end?.offset != null
+          ? String(file.value).slice(start.offset, end.offset)
+          : ""
+
       const replacement = []
       let cursor = 0
 
       for (const match of node.value.matchAll(EMOJI_TAG)) {
+        if (source.includes(`\\${match[0]}`)) continue
         if (match.index > cursor) {
           replacement.push({ type: "text", value: node.value.slice(cursor, match.index) })
         }

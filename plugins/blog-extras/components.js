@@ -1,5 +1,5 @@
 import { h } from "preact"
-import { resolveRelative } from "@quartz-community/utils"
+import { isAbsoluteURL, resolveRelative } from "@quartz-community/utils"
 
 // What the old Next.js site had around its posts, rebuilt for Quartz:
 // - on the home page: the latest posts (app/Main.tsx) and recently updated notes
@@ -63,8 +63,11 @@ const formatDate = (d, locale) =>
 // to a typographic placeholder.
 const coverOf = (page) => page.coverImage
 
+// A cover is a site-root path, or an absolute URL when `image:` names one.
+const imageSrc = (from, cover) => (isAbsoluteURL(cover) ? cover : resolveRelative(from, cover))
+
 function previewSrc(page, from) {
-  return resolveRelative(from, coverOf(page))
+  return imageSrc(from, coverOf(page))
 }
 
 // "travel/europe/portugal/lisbon" -> "Travel · Europe · Portugal"
@@ -156,7 +159,7 @@ function HubCard({ folder, blurb, fallback, allFiles, from }) {
         "span",
         { class: "note-card-image" },
         cover
-          ? h("img", { src: resolveRelative(from, cover), alt: "", loading: "lazy" })
+          ? h("img", { src: imageSrc(from, cover), alt: "", loading: "lazy" })
           : h("span", { class: "post-card-placeholder note-placeholder" }, title),
       ),
       h(
@@ -262,6 +265,16 @@ const style = `
 .blog-extras .note-card-body time { font-size: 0.85rem; color: var(--gray); }
 .blog-extras .hub-card-blurb { font-size: 0.9rem; color: var(--darkgray); line-height: 1.4; }
 .blog-extras.notes-hub { margin-top: 0.5rem; }
+.blog-extras.tag-cloud { margin-top: 0.5rem; }
+.blog-extras .tag-cloud-total { color: var(--gray); margin: 0 0 1.25rem; }
+.blog-extras .tag-groups { list-style: none; padding: 0; margin: 0; }
+.blog-extras .tag-group { margin: 0; padding: 0.75rem 0; border-top: 1px solid var(--lightgray); display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.4rem 1rem; }
+.blog-extras .tag-group > .tag-link { font-weight: 600; font-size: 1.05rem; text-transform: uppercase; letter-spacing: 0.02em; }
+.blog-extras .tag-children { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; }
+.blog-extras .tag-children li { margin: 0; }
+.blog-extras .tag-cloud .tag-link { background: none; padding: 0; color: var(--tag); white-space: nowrap; }
+.blog-extras .tag-cloud .tag-link:hover { color: var(--secondary); }
+.blog-extras .tag-count { margin-left: 0.3rem; font-size: 0.75rem; font-weight: 500; color: var(--gray); }
 .blog-extras .post-card:hover .post-card-image img { transform: scale(1.03); }
 .blog-extras .post-card-body h2 { font-size: 1.4rem; margin: 0.25rem 0 0; line-height: 1.25; }
 .blog-extras .post-card-body h2 a { color: var(--dark); }
@@ -345,6 +358,53 @@ document.addEventListener("themechange", () => {
 })
 })();
 `
+
+// "a/b/c" -> ["a", "a/b", "a/b/c"]: a page tagged a/b/c also counts under a and a/b,
+// as tag-page lists it there.
+const tagPrefixes = (tag) => tag.split("/").map((_, i, parts) => parts.slice(0, i + 1).join("/"))
+
+// /tags: tag-page lists every tag with its pages, hundreds of sections long.
+// Show one compact row per top-level tag instead, its sub-tags beside it.
+function TagCloud({ allFiles, from }) {
+  const counts = new Map()
+  for (const page of allFiles) {
+    if (page.unlisted === true) continue
+    const tags = new Set((page.frontmatter?.tags ?? []).flatMap(tagPrefixes))
+    for (const tag of tags) counts.set(tag, (counts.get(tag) ?? 0) + 1)
+  }
+  const sorted = [...counts.keys()].sort((a, b) => a.localeCompare(b))
+  const roots = sorted.filter((t) => !t.includes("/"))
+  const chip = (tag, label) =>
+    h(
+      "a",
+      { class: "internal tag-link", href: resolveRelative(from, `tags/${tag}`) },
+      label,
+      h("span", { class: "tag-count" }, counts.get(tag)),
+    )
+  return h(
+    "div",
+    { class: "blog-extras tag-cloud" },
+    h("p", { class: "tag-cloud-total" }, `${counts.size} tags`),
+    h(
+      "ul",
+      { class: "tag-groups" },
+      roots.map((root) => {
+        const children = sorted.filter((t) => t.startsWith(`${root}/`))
+        return h(
+          "li",
+          { class: "tag-group" },
+          chip(root, root),
+          children.length > 0 &&
+            h(
+              "ul",
+              { class: "tag-children" },
+              children.map((t) => h("li", null, chip(t, t.slice(root.length + 1)))),
+            ),
+        )
+      }),
+    ),
+  )
+}
 
 export const BlogExtras = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
@@ -437,6 +497,10 @@ export const BlogExtras = (userOpts) => {
           ),
         ),
       )
+    }
+
+    if (slug === "tags/index") {
+      return h(TagCloud, { allFiles, from: slug })
     }
 
     if (slug === "blog/index") {

@@ -156,8 +156,16 @@ plugins:
       showFolderCount: false
   - source: github:quartz-community/tag-page
     enabled: true
+    # The /tags index is replaced by blog-extras' tag cloud (custom.scss hides
+    # tag-page's listing); one page per tag keeps that hidden HTML small.
+    options:
+      numPages: 1
   - source: github:quartz-community/explorer
     enabled: true
+    # The header nav already links these root pages. The explorer only
+    # stringifies filterFn and rebuilds it in the browser, so a string works here.
+    options:
+      filterFn: '(node) => node.slugSegment !== "tags" && !["about", "map", "notes"].includes(node.slug)'
     layout:
       position: left
       priority: 50
@@ -325,6 +333,7 @@ plugins:
         Blog: /blog
         Notes: /notes
         Bookshelf: /bookshelf
+        Map: /map
         Projects: /projects
         About: /about
         Tags: /tags
@@ -382,6 +391,8 @@ layout:
     # body, after the old site's not-found page.
     "404":
       template: full-width
+      exclude:
+        - recent-notes
       positions:
         beforeBody: []
         left: []

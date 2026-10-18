@@ -180,7 +180,9 @@ export const SiteNav = (userOpts) => {
 
   const Component = ({ fileData, displayClass }) => {
     const slug = fileData.slug ?? ""
-    const base = pathToRoot(slug)
+    // The 404 page is served at whatever URL was missing, so relative links
+    // would resolve against that path; make them root-absolute there.
+    const base = slug === "404" ? "" : pathToRoot(slug)
     return h(
       "nav",
       { class: ["site-nav", displayClass].filter(Boolean).join(" "), "aria-label": "Main" },
