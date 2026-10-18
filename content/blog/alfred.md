@@ -8,10 +8,14 @@ published: 2021-10-22
 tags:
   - blog
   - tools
+socialImage: Attachments/Alfred Hero.jpg
 linter-yaml-title-alias: Alfred
 date created: 2026-10-16T21:17:04+02:00
 date modified: 2026-10-16T21:17:04+02:00
 date: 2021-10-22
+image: Attachments/Alfred Hero.jpg
 ---
 
 # Alfred
+
+![[Attachments/Alfred Hero.jpg]]

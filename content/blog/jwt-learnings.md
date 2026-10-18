@@ -8,13 +8,17 @@ published: 2019-09-14
 tags:
   - blog
   - software-development
+socialImage: Attachments/JWT Learnings Hero.jpg
 linter-yaml-title-alias: JWT Learnings
 date created: 2026-10-16T21:17:04+02:00
 date modified: 2026-10-16T21:17:04+02:00
 date: 2019-09-14
+image: Attachments/JWT Learnings Hero.jpg
 ---
 
 # JWT Learnings
+
+![[Attachments/JWT Learnings Hero.jpg]]
 
 JWTs (JSON Web Token) is pronounced \`jot\`
 
