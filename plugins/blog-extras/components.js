@@ -194,6 +194,43 @@ const style = `
 .blog-extras .post-card-body h2 { font-size: 1.4rem; margin: 0.25rem 0 0; line-height: 1.25; }
 .blog-extras .post-card-body h2 a { color: var(--dark); }
 .blog-extras .post-card-body h2 a:hover { color: var(--secondary); }
+.blog-extras.not-found {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  margin: 4rem 0;
+}
+.blog-extras .not-found-code {
+  margin: 0;
+  padding-right: 2rem;
+  border-right: 2px solid var(--lightgray);
+  font-family: var(--headerFont);
+  font-size: 6rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--dark);
+}
+.blog-extras .not-found-body { max-width: 28rem; }
+.blog-extras .not-found-body h1 { margin: 0 0 0.75rem; font-size: 1.6rem; }
+.blog-extras .not-found-body p { color: var(--gray); margin: 0 0 1.5rem; }
+.blog-extras .not-found-home {
+  display: inline-block;
+  padding: 0.5rem 1.1rem;
+  border-radius: 0.5rem;
+  background: var(--secondary);
+  color: var(--light) !important;
+  font-weight: 600;
+}
+.blog-extras .not-found-home:hover { background: var(--tertiary); }
+.blog-extras .not-found-body ul { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; padding: 0; margin: 1.5rem 0 0; }
+.blog-extras .not-found-body li { margin: 0; }
+.blog-extras .not-found-body li a { font-weight: 500; background: none; padding: 0; }
+@media (max-width: 800px) {
+  .blog-extras.not-found { flex-direction: column; align-items: flex-start; gap: 1rem; margin: 2rem 0; }
+  .blog-extras .not-found-code { border-right: 0; padding-right: 0; font-size: 4.5rem; }
+}
 @media (max-width: 800px) {
   .blog-extras .post-item { grid-template-columns: 1fr; gap: 0.25rem; }
 }
@@ -283,6 +320,38 @@ export const BlogExtras = (userOpts) => {
               ),
             ),
           ),
+      )
+    }
+
+    // Served at any missing URL, so links are root-absolute, not relative.
+    if (slug === "404") {
+      const links = [
+        ["/blog", "Blog"],
+        ["/notes", "Notes"],
+        ["/bookshelf", "Bookshelf"],
+        ["/tags", "Tags"],
+        ["/about", "About"],
+      ]
+      return h(
+        "div",
+        { class: "blog-extras not-found" },
+        h("p", { class: "not-found-code" }, "404"),
+        h(
+          "div",
+          { class: "not-found-body" },
+          h("h1", null, "Sorry, I couldn’t find this page."),
+          h(
+            "p",
+            null,
+            "It may have moved, or the link may be out of date. Search (top right) or try one of these:",
+          ),
+          h("a", { class: "not-found-home", href: "/" }, "Back to the homepage"),
+          h(
+            "ul",
+            null,
+            links.map(([href, text]) => h("li", null, h("a", { href }, text))),
+          ),
+        ),
       )
     }
 

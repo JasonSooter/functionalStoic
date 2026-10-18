@@ -252,7 +252,9 @@ plugins:
     enabled: true
     options:
       showTags: false
-    # The home page has blog-extras' own "Recently updated notes" list.
+      limit: 4
+    # The home page has blog-extras' own "Recently updated notes" list; on note
+    # pages custom.scss pushes this block down to sit just above the footer.
     layout:
       position: afterBody
       priority: 30
@@ -374,7 +376,10 @@ layout:
       direction: row
       gap: 0.5rem
   byPageType:
+    # full-width (not minimal) keeps the site-nav header; blog-extras renders the
+    # body, after the old site's not-found page.
     "404":
+      template: full-width
       positions:
         beforeBody: []
         left: []
