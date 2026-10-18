@@ -12,6 +12,16 @@ import { resolveRelative } from "@quartz-community/utils"
 const defaultOptions = {
   postLimit: 4,
   noteLimit: 6,
+  // Topic hubs on /notes: [folder, blurb, fallback image (site path) for hubs
+  // without a folder note of their own].
+  hubs: [
+    ["bookshelf", "What I've read, year by year"],
+    ["travel", "Trips and places, mostly Europe"],
+    ["hobbies", "Cycling, coffeeneuring and other pursuits"],
+    ["urban-planning", "How cities are shaped for people"],
+    ["infrastructure", "How the systems underneath everyday life work"],
+    ["projects", "Things I've built", "static/projects-hero.jpg"],
+  ],
   // [label, slug] quick links under the home intro.
   jumps: [
     ["Blog", "blog/index"],
@@ -128,6 +138,38 @@ function PostCard({ page, from, locale }) {
   )
 }
 
+function HubCard({ folder, blurb, fallback, allFiles, from }) {
+  const hub = allFiles.find((p) => p.slug === `${folder}/index`)
+  const count = allFiles.filter(
+    (p) => p.slug?.startsWith(`${folder}/`) && !p.slug.endsWith("/index"),
+  ).length
+  const title =
+    hub?.frontmatter?.title ?? folder.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())
+  const cover = (hub && coverOf(hub)) ?? fallback
+  return h(
+    "li",
+    { class: "note-card hub-card" },
+    h(
+      "a",
+      { href: resolveRelative(from, `${folder}/index`), class: "internal note-card-link" },
+      h(
+        "span",
+        { class: "note-card-image" },
+        cover
+          ? h("img", { src: resolveRelative(from, cover), alt: "", loading: "lazy" })
+          : h("span", { class: "post-card-placeholder note-placeholder" }, title),
+      ),
+      h(
+        "span",
+        { class: "note-card-body" },
+        h("span", { class: "note-card-title" }, title),
+        h("span", { class: "hub-card-blurb" }, blurb),
+        h("span", { class: "note-card-where" }, `${count} note${count === 1 ? "" : "s"}`),
+      ),
+    ),
+  )
+}
+
 function Comments({ giscus }) {
   if (!giscus?.repo || !giscus?.repoId || !giscus?.categoryId) return null
   return h("div", {
@@ -218,6 +260,8 @@ const style = `
 .blog-extras .note-card-where { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--tag); font-weight: 600; }
 .blog-extras .note-card-title { font-weight: 600; line-height: 1.3; }
 .blog-extras .note-card-body time { font-size: 0.85rem; color: var(--gray); }
+.blog-extras .hub-card-blurb { font-size: 0.9rem; color: var(--darkgray); line-height: 1.4; }
+.blog-extras.notes-hub { margin-top: 0.5rem; }
 .blog-extras .post-card:hover .post-card-image img { transform: scale(1.03); }
 .blog-extras .post-card-body h2 { font-size: 1.4rem; margin: 0.25rem 0 0; line-height: 1.25; }
 .blog-extras .post-card-body h2 a { color: var(--dark); }
@@ -376,6 +420,20 @@ export const BlogExtras = (userOpts) => {
             "ul",
             null,
             links.map(([href, text]) => h("li", null, h("a", { href }, text))),
+          ),
+        ),
+      )
+    }
+
+    if (slug === "notes") {
+      return h(
+        "div",
+        { class: "blog-extras notes-hub" },
+        h(
+          "ul",
+          { class: "note-cards hub-cards" },
+          opts.hubs.map(([folder, blurb, fallback]) =>
+            h(HubCard, { folder, blurb, fallback, allFiles, from: slug }),
           ),
         ),
       )

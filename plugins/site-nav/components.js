@@ -117,6 +117,22 @@ const navScript = `
 });
 `
 
+// The explorer scrolls the current page's link into view on load with the
+// default block:"start". Its sidebar isn't a scroll container, so that scrolled
+// the whole window and cut off the header. Keep explorer links at "nearest",
+// which only scrolls when the link is actually off-screen.
+const explorerScrollScript = `
+;(() => {
+  const original = Element.prototype.scrollIntoView
+  Element.prototype.scrollIntoView = function (arg) {
+    if (this.closest && this.closest(".explorer")) {
+      return original.call(this, { block: "nearest", inline: "nearest" })
+    }
+    return original.call(this, arg)
+  }
+})();
+`
+
 // gtag with page views sent per SPA navigation. Quartz fires "nav" on first load
 // and after every client-side navigation, so the automatic page view is disabled
 // to avoid counting the first page twice.
@@ -200,6 +216,8 @@ export const SiteNav = (userOpts) => {
   Component.displayName = "SiteNav"
   Component.css = style
   Component.afterDOMLoaded =
-    navScript + (opts.googleAnalyticsId ? analyticsScript(opts.googleAnalyticsId) : "")
+    navScript +
+    explorerScrollScript +
+    (opts.googleAnalyticsId ? analyticsScript(opts.googleAnalyticsId) : "")
   return Component
 }
