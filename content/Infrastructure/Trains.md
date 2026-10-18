@@ -3,17 +3,21 @@ publish: true
 permalink: Urban-Planning/Trains
 title: Trains
 created: 2026-09-26T05:11:47.000Z
-modified: 2026-09-26T05:12:09.000Z
-published: 2026-09-26T05:12:09.000Z
+modified: 2026-10-18T15:02:54.099Z
+published: 2026-10-18T15:02:54.099Z
 tags:
   - infrastructure
   - infrastructure/trains
+socialImage: Attachments/Trains Hero.jpg
 date created: 2025-02-23T20:36:45-07:00
-date modified: 2026-09-26T07:11:59+02:00
+date modified: 2026-10-18T17:02:53+02:00
 linter-yaml-title-alias: Trains
+image: Attachments/Trains Hero.jpg
 ---
 
 # Trains
+
+![[Attachments/Trains Hero.jpg]]
 
 ## Summary
 

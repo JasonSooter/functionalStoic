@@ -2,22 +2,26 @@
 publish: true
 title: United States
 created: 2025-05-31T02:24:43.925Z
-modified: 2026-07-26T12:04:11.846Z
-published: 2026-07-26T12:04:11.846Z
+modified: 2026-10-18T15:02:53.910Z
+published: 2026-10-18T15:02:53.910Z
 tags:
   - places
+socialImage: Attachments/United States Hero.jpg
 linter-yaml-title-alias: United States
 date created: 2025-05-30T20:24:43-06:00
-date modified: 2026-02-21T09:56:46-07:00
+date modified: 2026-10-18T17:02:53+02:00
 categories:
   - "[[Places]]"
 coordinates: 38.9072,-77.0369
 color: blue
 icon: flag
 flag: 🇺🇸
+image: Attachments/United States Hero.jpg
 ---
 
 # United States
+
+![[Attachments/United States Hero.jpg]]
 
 ```
 LIST FROM ""

@@ -2,22 +2,26 @@
 publish: true
 title: Europe
 created: 2024-01-04T21:17:33.000Z
-modified: 2026-07-19T13:59:17.259Z
-published: 2026-07-19T13:59:17.259Z
+modified: 2026-10-18T15:02:53.871Z
+published: 2026-10-18T15:02:53.871Z
 tags:
   - places
+socialImage: Attachments/Europe Hero.jpg
 aliases:
 date created: 2023-09-26T12:52:39+02:00
-date modified: 2026-07-19T15:59:15+02:00
+date modified: 2026-10-18T17:02:53+02:00
 linter-yaml-title-alias: Europe
 categories:
   - Places
 coordinates: 54.5260,15.2551
 color: grey
 icon: globe
+image: Attachments/Europe Hero.jpg
 ---
 
 # Europe
+
+![[Attachments/Europe Hero.jpg]]
 
 - [[Austria]]
 - [[Finland]]

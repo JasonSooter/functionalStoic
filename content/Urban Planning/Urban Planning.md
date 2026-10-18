@@ -4,16 +4,20 @@ aliases:
   - Urban Design
 title: Urban Planning
 created: 2024-09-02T19:46:57.608Z
-modified: 2026-09-26T05:23:23.000Z
-published: 2026-09-26T05:23:23.000Z
+modified: 2026-10-18T15:02:54.053Z
+published: 2026-10-18T15:02:54.053Z
 tags:
   - urban-planning
+socialImage: Attachments/Urban Planning Hero.jpg
 date created: 2024-09-02T13:46:57-06:00
-date modified: 2026-02-21T09:56:46-07:00
+date modified: 2026-10-18T17:02:53+02:00
 linter-yaml-title-alias: Urban Planning
+image: Attachments/Urban Planning Hero.jpg
 ---
 
 # Urban Planning
+
+![[Attachments/Urban Planning Hero.jpg]]
 
 ## Summary
 
