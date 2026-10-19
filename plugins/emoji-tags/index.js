@@ -1,5 +1,5 @@
 import { visit, SKIP } from "unist-util-visit"
-import { pathToRoot, slugTag } from "@quartz-community/utils"
+import { pathToRoot, resolveRelative, slugTag } from "@quartz-community/utils"
 
 // Tags whose first character is an emoji never reach obsidian-flavored-markdown's
 // tag handling: remark-obsidian's tokenizer tests each character with
@@ -87,12 +87,35 @@ function unlinkTagsFromGraph() {
   }
 }
 
+// crawl-links slugifies every link target, and slugifyFilePath reads a path ending
+// in two equal segments as an Obsidian folder note (`Folder/Folder.md` -> `folder/index`).
+// So a date tag like `🗓️/2023/11/11` links to `tags/🗓️/2023/11/index`, the month,
+// while tag-page emits the day at `tags/🗓️/2023/11/11`. This runs after crawl-links
+// (higher order) and points each tag link back at its own tag page.
+function repairTagLinks() {
+  return (tree, file) => {
+    const slug = file.data.slug
+    if (!slug) return
+    visit(tree, "element", (node) => {
+      if (node.tagName !== "a") return
+      const classes = node.properties?.className
+      if (!Array.isArray(classes) || !classes.includes("tag-link")) return
+      const text = node.children?.[0]?.type === "text" ? node.children[0].value : undefined
+      if (!text || /\s/.test(text)) return
+      const target = `tags/${slugTag(text.replace(/^#/, ""))}`
+      if (node.properties["data-slug"] === target) return
+      node.properties["data-slug"] = target
+      node.properties.href = resolveRelative(slug, target)
+    })
+  }
+}
+
 export const EmojiTags = () => ({
   name: "EmojiTags",
   markdownPlugins() {
     return [linkEmojiTags]
   },
   htmlPlugins() {
-    return [unlinkTagsFromGraph]
+    return [unlinkTagsFromGraph, repairTagLinks]
   },
 })
