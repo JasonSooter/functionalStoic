@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Norway
-created: 2025-09-08T15:33:53.000Z
-modified: 2026-07-17T16:08:35.000Z
-published: 2026-07-17T16:08:35.000Z
+created: 2025-02-24T04:31:10.411Z
+modified: 2026-07-17T16:08:35.507Z
+published: 2026-07-17T16:08:35.507Z
 tags:
   - places
 linter-yaml-title-alias: Norway

@@ -3,12 +3,14 @@ publish: true
 aliases:
   - 40 Books in 2025
 title: Books Read in 2025
-created: 2025-10-16T19:49:27.000Z
-modified: 2026-10-18T15:15:43.000Z
-published: 2026-10-18T15:15:43.000Z
+created: 2024-12-28T02:28:32.724Z
+modified: 2026-10-18T15:15:43.150Z
+published: 2026-10-18T15:15:43.150Z
+socialImage: Attachments/Books Read in 2025 Hero.jpg
 date created: 2024-12-27T19:28:32-07:00
-date modified: 2026-02-21T09:56:53-07:00
+date modified: 2026-10-18T17:15:42+02:00
 linter-yaml-title-alias: Books Read in 2025
+image: Attachments/Books Read in 2025 Hero.jpg
 ---
 
 # Books Read in 2025

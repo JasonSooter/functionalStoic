@@ -4,7 +4,7 @@ aliases:
   - Berlin, Germany
   - Berlin
 title: Germany
-created: 2025-09-09T19:54:50.000Z
+created: 2024-08-10T03:01:42.779Z
 modified: 2026-09-26T05:01:00.000Z
 published: 2026-09-26T05:01:00.000Z
 tags:

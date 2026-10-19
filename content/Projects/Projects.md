@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Personal Projects
-created: 2025-09-08T15:33:53.000Z
-modified: 2026-10-18T16:43:41.000Z
-published: 2026-10-18T16:43:41.000Z
+created: 2023-12-12T04:11:56.000Z
+modified: 2026-10-18T16:43:41.242Z
+published: 2026-10-18T16:43:41.242Z
 socialImage: Attachments/Projects Hero.jpg
 date created: 2023-12-12T05:11:56+01:00
 date modified: 2026-08-16T10:45:11+02:00

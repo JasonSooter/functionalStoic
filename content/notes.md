@@ -2,9 +2,9 @@
 publish: true
 title: Notes
 description: Notes along the way — on books, travel, cycling, cities and the systems underneath them.
-created: 2026-10-18T17:12:54.000Z
-modified: 2026-10-18T17:12:54.000Z
-published: 2026-10-18T17:12:54.000Z
+created: 2026-10-16T19:27:42.552Z
+modified: 2026-10-18T17:12:54.925Z
+published: 2026-10-18T17:12:54.925Z
 linter-yaml-title-alias: Notes
 date created: 2026-10-16T21:27:42+02:00
 date modified: 2026-10-18T17:51:50+02:00

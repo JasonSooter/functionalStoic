@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Columbus, Ohio
-created: 2025-03-25T12:05:55.000Z
-modified: 2026-08-16T10:56:49.000Z
-published: 2026-08-16T10:56:49.000Z
+created: 2024-11-09T03:06:38.002Z
+modified: 2026-08-16T10:56:49.528Z
+published: 2026-08-16T10:56:49.528Z
 tags:
   - places
 date created: 2024-11-09T04:06:38+01:00

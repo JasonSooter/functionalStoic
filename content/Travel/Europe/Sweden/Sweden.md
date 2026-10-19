@@ -6,7 +6,7 @@ aliases:
   - Malmo, Sweden
   - Stockholm, Sweden
 title: Sweden
-created: 2025-09-09T19:55:01.000Z
+created: 2024-10-05T01:15:15.417Z
 modified: 2026-09-26T05:01:00.000Z
 published: 2026-09-26T05:01:00.000Z
 tags:

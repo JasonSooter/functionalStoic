@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Portugal
-created: 2024-12-16T00:55:00.000Z
-modified: 2026-07-17T16:08:40.000Z
-published: 2026-07-17T16:08:40.000Z
+created: 2024-10-05T01:14:07.929Z
+modified: 2026-07-17T16:08:40.004Z
+published: 2026-07-17T16:08:40.004Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/portugal

@@ -2,9 +2,9 @@
 publish: true
 title: About
 description: Jason Sooter — Solutions Architect, cyclist, reader, thinking in public.
-created: 2026-10-17T19:34:04.000Z
-modified: 2026-10-17T19:34:04.000Z
-published: 2026-10-17T19:34:04.000Z
+created: 2026-10-16T19:27:42.550Z
+modified: 2026-10-17T19:34:04.849Z
+published: 2026-10-17T19:34:04.849Z
 linter-yaml-title-alias: About
 date created: 2026-10-16T21:17:20+02:00
 date modified: 2026-10-17T21:34:03+02:00

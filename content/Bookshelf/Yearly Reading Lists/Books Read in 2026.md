@@ -3,11 +3,13 @@ publish: true
 aliases:
   - 40 Books in 2026
 title: Books Read in 2026
-created: 2025-11-30T17:32:03.000Z
-modified: 2026-10-18T15:15:43.000Z
-published: 2026-10-18T15:15:43.000Z
+created: 2026-08-08T20:53:51.097Z
+modified: 2026-10-18T15:15:43.204Z
+published: 2026-10-18T15:15:43.204Z
+socialImage: Attachments/Books Read in 2026 Hero.jpg
 date created: 2025-11-30T18:32:03+01:00
-date modified: 2026-09-06T12:32:42+02:00
+date modified: 2026-10-18T17:15:42+02:00
+image: Attachments/Books Read in 2026 Hero.jpg
 ---
 
 # Books Read in 2026

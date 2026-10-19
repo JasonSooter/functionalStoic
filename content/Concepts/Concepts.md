@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Two Things Can Be True
 title: Concepts
-created: 2025-10-25T01:57:59.000Z
-modified: 2026-10-18T17:11:01.000Z
-published: 2026-10-18T17:11:01.000Z
+created: 2024-03-26T13:42:27.000Z
+modified: 2026-10-18T17:11:01.353Z
+published: 2026-10-18T17:11:01.353Z
 tags: source/ai/claude
 socialImage: Attachments/Concepts Hero.jpg
 date created: 2024-03-26T14:42:27+01:00

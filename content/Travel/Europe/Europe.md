@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Europe
-created: 2025-09-08T15:33:53.000Z
-modified: 2026-10-18T15:02:53.000Z
-published: 2026-10-18T15:02:53.000Z
+created: 2024-01-04T21:17:33.000Z
+modified: 2026-10-18T15:02:53.871Z
+published: 2026-10-18T15:02:53.871Z
 tags:
   - places
 socialImage: Attachments/Europe Hero.jpg

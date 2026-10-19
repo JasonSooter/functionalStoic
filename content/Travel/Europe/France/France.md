@@ -4,7 +4,7 @@ aliases:
   - Paris, France
   - Paris
 title: France
-created: 2025-09-09T19:55:11.000Z
+created: 2024-10-05T01:12:38.489Z
 modified: 2026-09-26T05:01:00.000Z
 published: 2026-09-26T05:01:00.000Z
 tags:
