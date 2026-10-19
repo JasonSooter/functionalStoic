@@ -4,7 +4,7 @@ title: "Taschengeld: German Financial Training for Children"
 description: What the German Taschengeldtabelle is, where it came from, whether the evidence supports it, and how we implemented Taschengeld and Budgetgeld for three kids.
 created: 2026-08-31
 modified: 2026-10-01
-published: 2026-10-18T16:54:07.594Z
+published: 2026-10-18T16:54:07.000Z
 tags:
   - concepts/parenting
   - german-life

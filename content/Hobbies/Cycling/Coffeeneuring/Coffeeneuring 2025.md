@@ -2,9 +2,9 @@
 publish: true
 title: Coffeeneuring 2025
 description: Seven coffee rides in autumn 2025, from Penn Station on an Erie Canal bike trip to the Front Range in Colorado.
-created: 2026-10-11T08:51:21.945Z
-modified: 2026-10-11T08:51:21.946Z
-published: 2026-10-11T08:51:21.946Z
+created: 2025-11-11T18:49:43.000Z
+modified: 2026-10-11T08:51:21.000Z
+published: 2026-10-11T08:51:21.000Z
 tags:
   - hobbies/cycling
   - hobbies/cycling/coffeeneuring

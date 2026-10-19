@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Austria
-created: 2025-12-06T03:21:08.447Z
-modified: 2026-07-17T16:16:02.800Z
-published: 2026-07-17T16:16:02.800Z
+created: 2025-12-06T03:23:50.000Z
+modified: 2026-07-17T16:16:02.000Z
+published: 2026-07-17T16:16:02.000Z
 tags:
   - places
 linter-yaml-title-alias: Austria

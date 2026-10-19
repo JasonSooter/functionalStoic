@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Bookshelf
-created: 2025-06-07T02:31:53.122Z
-modified: 2026-10-18T15:07:28.296Z
-published: 2026-10-18T15:07:28.296Z
+created: 2025-06-07T02:37:00.000Z
+modified: 2026-10-18T15:07:28.000Z
+published: 2026-10-18T15:07:28.000Z
 socialImage: Attachments/Bookshelf Hero.jpg
 linter-yaml-title-alias: Bookshelf
 date created: 2025-06-06T20:31:53-06:00

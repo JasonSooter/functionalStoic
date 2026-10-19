@@ -2,9 +2,9 @@
 publish: true
 title: Coffeeneuring 2026
 description: Eight coffee rides from Freiburg in autumn 2026, with coffee in Germany, France and Switzerland.
-created: 2026-10-11T07:55:45.000Z
-modified: 2026-10-11T08:55:05.691Z
-published: 2026-10-11T08:55:05.691Z
+created: 2026-10-11T08:01:10.000Z
+modified: 2026-10-11T08:55:05.000Z
+published: 2026-10-11T08:55:05.000Z
 tags:
   - hobbies/cycling
   - hobbies/cycling/coffeeneuring

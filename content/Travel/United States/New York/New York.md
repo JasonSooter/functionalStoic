@@ -1,12 +1,11 @@
 ---
 publish: true
 title: New York
-created: 2024-10-31T23:12:38.665Z
+created: 2025-04-27T19:56:41.000Z
 modified: 2026-09-25T14:24:23.000Z
 published: 2026-09-25T14:24:23.000Z
 tags:
   - places
-  - source/ai/claude
 date created: 2024-11-01T00:12:38+01:00
 date modified: 2026-08-16T12:55:06+02:00
 linter-yaml-title-alias: New York

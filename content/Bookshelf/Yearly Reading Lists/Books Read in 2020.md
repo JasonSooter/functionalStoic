@@ -1,14 +1,12 @@
 ---
 publish: true
 title: Books Read in 2020
-created: 2024-09-21T23:08:25.766Z
-modified: 2026-10-18T15:15:42.893Z
-published: 2026-10-18T15:15:42.893Z
-socialImage: Attachments/Books Read in 2020 Hero.jpg
+created: 2025-04-26T18:19:11.000Z
+modified: 2026-10-18T15:15:42.000Z
+published: 2026-10-18T15:15:42.000Z
 linter-yaml-title-alias: Books Read in 2020
 date created: 2024-09-21T17:08:25-06:00
-date modified: 2026-10-18T17:15:42+02:00
-image: Attachments/Books Read in 2020 Hero.jpg
+date modified: 2026-02-21T09:56:53-07:00
 ---
 
 # Books Read in 2020

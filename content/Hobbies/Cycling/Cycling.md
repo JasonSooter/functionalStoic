@@ -5,15 +5,13 @@ aliases:
   - Bikes
   - Biking
 title: Cycling
-created: 2024-02-08T19:20:20.000Z
-modified: 2026-10-18T15:02:54.014Z
-published: 2026-10-18T15:02:54.014Z
+created: 2025-09-25T14:40:52.000Z
+modified: 2026-10-18T15:02:54.000Z
+published: 2026-10-18T15:02:54.000Z
 tags:
   - hobbies/bikes
-socialImage: Attachments/Cycling Hero.jpg
 date created: 2025-09-25T16:40:52+02:00
-date modified: 2026-10-18T17:02:53+02:00
-image: Attachments/Cycling Hero.jpg
+date modified: 2026-08-29T15:46:49+02:00
 ---
 
 # Cycling
@@ -145,4 +143,4 @@ Both layers in one file for QGIS: [[Attachments/freiburg_bike_service.gpkg|GeoPa
 
 ## The Possibilities Opened Up by Cycling
 
-![[Attachments/possibilities-opened-up-by-cycling.jpg]]
+![[possibilities-opened-up-by-cycling.jpg]]

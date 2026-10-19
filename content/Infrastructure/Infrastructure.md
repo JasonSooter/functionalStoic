@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Infrastructure
-created: 2026-09-26T05:07:50.000Z
-modified: 2026-10-18T15:06:54.261Z
-published: 2026-10-18T15:06:54.261Z
+created: 2026-09-26T05:10:37.000Z
+modified: 2026-10-18T15:06:54.000Z
+published: 2026-10-18T15:06:54.000Z
 tags:
   - infrastructure
   - note-type/table-of-contents

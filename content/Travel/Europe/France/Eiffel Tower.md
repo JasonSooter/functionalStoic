@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Eiffel Tower
-created: 2026-07-17T13:25:56.183Z
-modified: 2026-08-21T16:16:51.000Z
-published: 2026-08-21T16:16:51.000Z
+created: 2026-07-17T13:59:55.000Z
+modified: 2026-08-21T16:16:51.517Z
+published: 2026-08-21T16:16:51.517Z
 categories:
   - "[[Places]]"
 type:

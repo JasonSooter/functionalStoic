@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Two Things Can Be True
 title: Concepts
-created: 2024-03-26T13:42:27.000Z
-modified: 2026-10-18T17:11:01.353Z
-published: 2026-10-18T17:11:01.353Z
+created: 2025-10-25T01:57:59.000Z
+modified: 2026-10-18T17:11:01.000Z
+published: 2026-10-18T17:11:01.000Z
 tags: source/ai/claude
 socialImage: Attachments/Concepts Hero.jpg
 date created: 2024-03-26T14:42:27+01:00
@@ -157,7 +157,8 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Happiness.md|Happiness]]
 - [[Concepts/Hara Hachi Bu — Eating to 80 Percent.md|Hara Hachi Bu — Eating to 80 Percent]]
 - [[Concepts/Hauptstrom.md|Hauptstrom]]
-- [[Concepts/Health/Health.md|Health]]
+- [[Concepts/Health 2/Health.md|Health]]
+- [[Concepts/Health 2/Health 2.md|Health 2]]
 - [[Concepts/Hedgehog and Fox.md|Hedgehog and Fox]]
 - [[Concepts/Hermeneutic Circle.md|Hermeneutic Circle]]
 - [[Concepts/Heroic Consistency.md|Heroic Consistency]]
@@ -194,7 +195,7 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Jokes.md|Jokes]]
 - [[Concepts/Journey vs. Destination.md|Journey vs. Destination]]
 - [[Concepts/Jugendfeier.md|Jugendfeier]]
-- [[Concepts/Health/Jumping into Cold Water.md|Jumping into Cold Water]]
+- [[Concepts/Health 2/Jumping into Cold Water.md|Jumping into Cold Water]]
 - [[Concepts/Khanmigo.md|Khanmigo]]
 - [[Concepts/Knowing vs. Understanding.md|Knowing vs. Understanding]]
 - [[Concepts/Knowledge.md|Knowledge]]
@@ -335,7 +336,7 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Statistical Literacy.md|Statistical Literacy]]
 - [[Concepts/Staying in the Tastemaker Camp.md|Staying in the Tastemaker Camp]]
 - [[Concepts/Stoicism.md|Stoicism]]
-- [[Concepts/Health/Strength Training.md|Strength Training]]
+- [[Concepts/Health 2/Strength Training.md|Strength Training]]
 - [[Concepts/Sunk Cost Bias.md|Sunk Cost Bias]]
 - [[Concepts/Systems of Work Organization.md|Systems of Work Organization]]
 - [[Concepts/Systems Thinking.md|Systems Thinking]]
@@ -370,7 +371,7 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Varieties of Capitalism.md|Varieties of Capitalism]]
 - [[Concepts/Virtue.md|Virtue]]
 - [[Concepts/Virtuous Circle.md|Virtuous Circle]]
-- [[Concepts/Health/Vitamins.md|Vitamins]]
+- [[Concepts/Health 2/Vitamins.md|Vitamins]]
 - [[Concepts/Vorfreude.md|Vorfreude]]
 - [[Concepts/Walks with Friends.md|Walks with Friends]]
 - [[Concepts/Wealth.md|Wealth]]

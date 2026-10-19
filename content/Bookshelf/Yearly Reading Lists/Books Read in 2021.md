@@ -1,14 +1,12 @@
 ---
 publish: true
 title: Books Read in 2021
-created: 2024-09-22T03:00:05.509Z
-modified: 2026-10-18T15:15:42.946Z
-published: 2026-10-18T15:15:42.946Z
-socialImage: Attachments/Books Read in 2021 Hero.jpg
+created: 2025-09-08T15:33:53.000Z
+modified: 2026-10-18T15:15:42.000Z
+published: 2026-10-18T15:15:42.000Z
 linter-yaml-title-alias: Books Read in 2021
 date created: 2024-09-21T21:00:05-06:00
-date modified: 2026-10-18T17:15:42+02:00
-image: Attachments/Books Read in 2021 Hero.jpg
+date modified: 2026-02-21T09:56:53-07:00
 ---
 
 # Books Read in 2021

@@ -2,9 +2,9 @@
 publish: true
 title: Coffeeneuring
 description: An autumn challenge of riding a bike to coffee, and my years doing it.
-created: 2026-10-11T08:51:21.942Z
-modified: 2026-10-11T08:51:21.943Z
-published: 2026-10-11T08:51:21.943Z
+created: 2025-11-06T17:19:39.000Z
+modified: 2026-10-11T08:51:21.000Z
+published: 2026-10-11T08:51:21.000Z
 tags:
   - hobbies/cycling
   - hobbies/cycling/coffeeneuring

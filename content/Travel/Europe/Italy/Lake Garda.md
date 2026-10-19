@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Lake Garda
-created: 2026-07-26T09:48:10.357Z
-modified: 2026-08-16T10:57:04.112Z
-published: 2026-08-16T10:57:04.112Z
+created: 2026-07-26T09:56:47.000Z
+modified: 2026-08-16T10:57:04.000Z
+published: 2026-08-16T10:57:04.000Z
 linter-yaml-title-alias: Lake Garda
 date created: 2026-07-26T11:48:10+02:00
 date modified: 2026-08-16T12:57:03+02:00

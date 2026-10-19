@@ -2,9 +2,9 @@
 publish: true
 permalink: Urban-Planning/Trains
 title: Trains
-created: 2026-09-26T05:11:47.000Z
-modified: 2026-10-18T15:02:54.099Z
-published: 2026-10-18T15:02:54.099Z
+created: 2026-09-26T05:12:09.000Z
+modified: 2026-10-18T15:02:54.000Z
+published: 2026-10-18T15:02:54.000Z
 tags:
   - infrastructure
   - infrastructure/trains

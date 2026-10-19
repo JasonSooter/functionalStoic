@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Hobbies
-created: 2025-06-21T01:37:22.764Z
-modified: 2026-10-18T15:07:53.323Z
-published: 2026-10-18T15:07:53.323Z
+created: 2025-08-16T00:34:06.000Z
+modified: 2026-10-18T15:07:53.000Z
+published: 2026-10-18T15:07:53.000Z
 tags:
   - people/authors/marina-cooley
   - source/ai/claude

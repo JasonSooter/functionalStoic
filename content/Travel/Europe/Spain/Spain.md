@@ -4,7 +4,7 @@ aliases:
   - Barcelona, Spain
   - Barcelona
 title: Spain
-created: 2023-12-12T03:43:03.000Z
+created: 2025-09-08T15:33:53.000Z
 modified: 2026-09-25T16:27:15.000Z
 published: 2026-09-25T16:27:15.000Z
 tags:
@@ -12,7 +12,6 @@ tags:
   - travel/europe/spain/barcelona
   - travel/europe/spain
   - places
-  - source/ai/claude
 date created: 2023-08-31T18:44:43+02:00
 date modified: 2026-02-21T09:56:46-07:00
 linter-yaml-title-alias: Spain
