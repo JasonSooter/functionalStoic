@@ -1,0 +1,23 @@
+{
+  "name": "empty-sections",
+  "version": "1.0.0",
+  "description": "Drops empty template headings and placeholder callouts from published notes",
+  "type": "module",
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "quartz": {
+    "name": "empty-sections",
+    "displayName": "Empty Sections",
+    "category": "transformer",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 25,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}

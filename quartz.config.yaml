@@ -69,6 +69,11 @@ plugins:
         dark: github-dark
       keepBackground: false
     order: 20
+  # Drops empty template headings and the `[!question] Title` placeholder
+  # callout from published notes (vault templates stay intact).
+  - source: ./plugins/empty-sections
+    enabled: true
+    order: 25
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
@@ -79,6 +84,9 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      # Marks links to pages that aren't published with a `broken` class;
+      # custom.scss shows them as plain text instead of 404ing links.
+      disableBrokenWikilinks: true
     order: 60
   # Links emoji-leading tags (#📚/…, #🗓️/…) that remark-obsidian's tokenizer drops,
   # and undoes crawl-links' truncation of tag text. Ordered above both: its markdown
@@ -262,6 +270,7 @@ plugins:
     enabled: true
     options:
       showTags: false
+      hideFolderPages: true
       limit: 4
     # The home page has blog-extras' own "Recently updated notes" list; on note
     # pages custom.scss pushes this block down to sit just above the footer.
@@ -380,6 +389,12 @@ plugins:
     enabled: true
     order: 65
     options: {}
+  # Links to unpublished notes become plain text (see crawl-links'
+  # disableBrokenWikilinks above); folder-note link lists get a class for
+  # custom.scss. Must run after folder-note-links (65).
+  - source: ./plugins/link-cleanup
+    enabled: true
+    order: 66
 layout:
   groups:
     toolbar:
