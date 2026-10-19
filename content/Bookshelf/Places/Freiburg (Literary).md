@@ -4,8 +4,8 @@ aliases:
   - Freiburg im Breisgau (literary places)
 title: Freiburg
 created: 2026-10-19T14:13:04.000Z
-modified: 2026-10-19T18:46:48.000Z
-published: 2026-10-19T18:46:48.000Z
+modified: 2026-10-19T19:18:20.000Z
+published: 2026-10-19T19:18:20.000Z
 tags:
   - places
   - place/literary
@@ -19,6 +19,7 @@ icon: book
 location:
   - 47.995
   - 7.85
+coordinates: 47.995,7.85
 ---
 
 # Freiburg

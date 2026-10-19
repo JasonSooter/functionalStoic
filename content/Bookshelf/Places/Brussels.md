@@ -5,8 +5,8 @@ aliases:
   - Brussel
 title: Brussels
 created: 2026-10-19T14:14:27.000Z
-modified: 2026-10-19T18:46:47.000Z
-published: 2026-10-19T18:46:47.000Z
+modified: 2026-10-19T19:18:18.000Z
+published: 2026-10-19T19:18:18.000Z
 tags:
   - places
   - place/literary
@@ -22,6 +22,7 @@ location:
   - 50.8467
   - 4.3525
 within: "[[Belgium (Literary)]]"
+coordinates: 50.8467,4.3525
 ---
 
 # Brussels

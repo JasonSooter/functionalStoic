@@ -7,8 +7,8 @@ aliases:
   - Fuglenes
 title: Meridian Column, Hammerfest
 created: 2026-10-19T14:07:07.000Z
-modified: 2026-10-19T18:45:36.000Z
-published: 2026-10-19T18:45:36.000Z
+modified: 2026-10-19T19:18:23.000Z
+published: 2026-10-19T19:18:23.000Z
 tags:
   - places
   - place/literary
@@ -24,6 +24,7 @@ location:
   - 70.67
   - 23.6633
 within: "[[Hammerfest]]"
+coordinates: 70.67,23.6633
 ---
 
 # Meridian Column, Hammerfest

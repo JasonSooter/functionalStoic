@@ -4,8 +4,8 @@ aliases:
   - Aarlen
 title: Arlon
 created: 2026-10-19T14:07:25.000Z
-modified: 2026-10-19T18:45:23.000Z
-published: 2026-10-19T18:45:23.000Z
+modified: 2026-10-19T19:18:10.000Z
+published: 2026-10-19T19:18:10.000Z
 tags:
   - places
   - place/literary
@@ -20,6 +20,7 @@ location:
   - 49.683
   - 5.817
 within: "[[Belgium (Literary)]]"
+coordinates: 49.683,5.817
 ---
 
 # Arlon

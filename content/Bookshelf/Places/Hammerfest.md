@@ -4,8 +4,8 @@ aliases:
   - Hammerfest, Norway
 title: Hammerfest
 created: 2026-10-19T14:07:44.000Z
-modified: 2026-10-19T18:46:49.000Z
-published: 2026-10-19T18:46:49.000Z
+modified: 2026-10-19T19:18:22.000Z
+published: 2026-10-19T19:18:22.000Z
 tags:
   - places
   - place/literary
@@ -20,6 +20,7 @@ location:
   - 70.6634
   - 23.6821
 within: "[[Norway (Literary)]]"
+coordinates: 70.6634,23.6821
 ---
 
 # Hammerfest

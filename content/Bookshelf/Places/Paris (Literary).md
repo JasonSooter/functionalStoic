@@ -4,8 +4,8 @@ aliases:
   - Paris (literary places)
 title: Paris
 created: 2026-10-19T14:14:18.000Z
-modified: 2026-10-19T18:46:58.000Z
-published: 2026-10-19T18:46:58.000Z
+modified: 2026-10-19T19:18:26.000Z
+published: 2026-10-19T19:18:26.000Z
 tags:
   - places
   - place/literary
@@ -19,6 +19,7 @@ icon: book
 location:
   - 48.8567
   - 2.3522
+coordinates: 48.8567,2.3522
 ---
 
 # Paris

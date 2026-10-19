@@ -5,8 +5,8 @@ aliases:
   - Schauinsland
 title: Schauinslandbahn
 created: 2026-10-19T14:08:41.000Z
-modified: 2026-10-19T18:45:41.000Z
-published: 2026-10-19T18:45:41.000Z
+modified: 2026-10-19T19:18:29.000Z
+published: 2026-10-19T19:18:29.000Z
 tags:
   - places
   - place/literary
@@ -22,6 +22,7 @@ location:
   - 47.936
   - 7.8654
 within: "[[Freiburg (Literary)]]"
+coordinates: 47.936,7.8654
 ---
 
 # Schauinslandbahn

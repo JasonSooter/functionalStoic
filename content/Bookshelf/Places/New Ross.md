@@ -5,8 +5,8 @@ aliases:
   - Ros Mhic Thriúin
 title: New Ross
 created: 2026-10-19T14:06:31.000Z
-modified: 2026-10-19T18:46:56.000Z
-published: 2026-10-19T18:46:56.000Z
+modified: 2026-10-19T19:18:25.000Z
+published: 2026-10-19T19:18:25.000Z
 tags:
   - places
   - place/literary
@@ -21,6 +21,7 @@ location:
   - 52.396
   - -6.945
 within: "[[Ireland]]"
+coordinates: 52.396,-6.945
 ---
 
 # New Ross

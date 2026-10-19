@@ -6,8 +6,8 @@ aliases:
   - School House Hill (Ethan Frome)
 title: Courthouse Hill, Lenox
 created: 2026-10-19T14:06:05.000Z
-modified: 2026-10-19T18:45:27.000Z
-published: 2026-10-19T18:45:27.000Z
+modified: 2026-10-19T19:18:19.000Z
+published: 2026-10-19T19:18:19.000Z
 tags:
   - places
   - place/literary
@@ -23,6 +23,7 @@ location:
   - 42.3575
   - -73.285
 within: "[[Lenox]]"
+coordinates: 42.3575,-73.285
 ---
 
 # Courthouse Hill, Lenox

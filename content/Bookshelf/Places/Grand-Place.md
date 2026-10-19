@@ -6,8 +6,8 @@ aliases:
   - Grand Place
 title: Grand-Place
 created: 2026-10-19T14:13:53.000Z
-modified: 2026-10-19T18:45:30.000Z
-published: 2026-10-19T18:45:30.000Z
+modified: 2026-10-19T19:18:21.000Z
+published: 2026-10-19T19:18:21.000Z
 tags:
   - places
   - place/literary
@@ -22,6 +22,7 @@ location:
   - 50.8467
   - 4.3525
 within: "[[Brussels]]"
+coordinates: 50.8467,4.3525
 ---
 
 # Grand-Place

@@ -4,8 +4,8 @@ aliases:
   - Brugge
 title: Bruges
 created: 2026-10-19T14:13:59.000Z
-modified: 2026-10-19T18:46:46.000Z
-published: 2026-10-19T18:46:46.000Z
+modified: 2026-10-19T19:18:17.000Z
+published: 2026-10-19T19:18:17.000Z
 tags:
   - places
   - place/literary
@@ -20,6 +20,7 @@ location:
   - 51.2089
   - 3.2242
 within: "[[Belgium (Literary)]]"
+coordinates: 51.2089,3.2242
 ---
 
 # Bruges

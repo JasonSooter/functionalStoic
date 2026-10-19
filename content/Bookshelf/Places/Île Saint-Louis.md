@@ -5,8 +5,8 @@ aliases:
   - Île St.-Louis
 title: Île Saint-Louis
 created: 2026-10-19T14:13:33.000Z
-modified: 2026-10-19T18:45:44.000Z
-published: 2026-10-19T18:45:44.000Z
+modified: 2026-10-19T19:18:32.000Z
+published: 2026-10-19T19:18:32.000Z
 tags:
   - places
   - place/literary
@@ -21,6 +21,7 @@ location:
   - 48.8517
   - 2.3564
 within: "[[Paris (Literary)]]"
+coordinates: 48.8517,2.3564
 ---
 
 # Île Saint-Louis

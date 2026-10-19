@@ -1,15 +1,14 @@
 ---
 publish: true
-aliases:
-  - Two Things Can Be True
 title: Concepts
 created: 2024-03-26T13:42:27.000Z
-modified: 2026-10-18T17:11:01.353Z
-published: 2026-10-18T17:11:01.353Z
-tags: source/ai/claude
+modified: 2026-10-19T19:20:37.000Z
+published: 2026-10-19T19:20:37.000Z
+tags:
+  - concepts
 socialImage: Attachments/Concepts Hero.jpg
 date created: 2024-03-26T14:42:27+01:00
-date modified: 2026-08-16T10:45:49+02:00
+date modified: 2026-10-19T21:22:00+02:00
 image: Attachments/Concepts Hero.jpg
 ---
 
@@ -106,6 +105,7 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Depth of Experience.md|Depth of Experience]]
 - [[Concepts/Desirable Difficulties.md|Desirable Difficulties]]
 - [[Concepts/Diffusion of Innovation.md|Diffusion of Innovation]]
+- [[Concepts/Digital Garden.md|Digital Garden]]
 - [[Concepts/Diminishers.md|Diminishers]]
 - [[Concepts/Do We All See the Same Colors.md|Do We All See the Same Colors]]
 - [[Concepts/Ecological Economics.md|Ecological Economics]]
@@ -154,6 +154,7 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Grief.md|Grief]]
 - [[Concepts/Grit.md|Grit]]
 - [[Concepts/Habits.md|Habits]]
+- [[Concepts/Hanlon's Razor.md|Hanlon's Razor]]
 - [[Concepts/Happiness.md|Happiness]]
 - [[Concepts/Hara Hachi Bu — Eating to 80 Percent.md|Hara Hachi Bu — Eating to 80 Percent]]
 - [[Concepts/Hauptstrom.md|Hauptstrom]]
@@ -182,6 +183,7 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Illuminators vs Diminishers.md|Illuminators vs Diminishers]]
 - [[Concepts/Imperfect Action.md|Imperfect Action]]
 - [[Concepts/Imperfectionism.md|Imperfectionism]]
+- [[Concepts/Imposter Syndrome.md|Imposter Syndrome]]
 - [[Concepts/Independence.md|Independence]]
 - [[Concepts/Individual Charity and Systems Change.md|Individual Charity and Systems Change]]
 - [[Concepts/Inequality.md|Inequality]]
@@ -329,6 +331,7 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Social Activities to Do More Of.md|Social Activities to Do More Of]]
 - [[Concepts/Social Intelligence.md|Social Intelligence]]
 - [[Concepts/Social Media.md|Social Media]]
+- [[Concepts/Solarpunk.md|Solarpunk]]
 - [[Concepts/Solitude.md|Solitude]]
 - [[Concepts/Spaced Repetition.md|Spaced Repetition]]
 - [[Concepts/Spacing Effect.md|Spacing Effect]]
@@ -354,6 +357,7 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/The Light Phone.md|The Light Phone]]
 - [[Concepts/The Paradox of Knowledge Acquisition.md|The Paradox of Knowledge Acquisition]]
 - [[Concepts/The Penalty of Leadership.md|The Penalty of Leadership]]
+- [[Concepts/The Rule of 7.md|The Rule of 7]]
 - [[Concepts/The Swedish Theory of Love.md|The Swedish Theory of Love]]
 - [[Concepts/Theory of Mind.md|Theory of Mind]]
 - [[Concepts/Things That Help Me.md|Things That Help Me]]
@@ -363,6 +367,7 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Transformers.md|Transformers]]
 - [[Concepts/Trap Questions and Trap Decisions.md|Trap Questions and Trap Decisions]]
 - [[Concepts/Truth and Beauty vs. Comfort and Happiness.md|Truth and Beauty vs. Comfort and Happiness]]
+- [[Concepts/Two Things Can Be True.md|Two Things Can Be True]]
 - [[Concepts/Types of Bias.md|Types of Bias]]
 - [[Concepts/Types of Fallacy.md|Types of Fallacy]]
 - [[Concepts/Understanding, Interpreting and Perceiving.md|Understanding, Interpreting and Perceiving]]
@@ -390,151 +395,6 @@ image: Attachments/Concepts Hero.jpg
 - [[Concepts/Year of Learning and Growing.md|Year of Learning and Growing]]
 - [[Concepts/Zero-Sum and Non-Zero-Sum Thinking.md|Zero-Sum and Non-Zero-Sum Thinking]]
 - [[Concepts/Zettelkasten.md|Zettelkasten]]
-
-## Solarpunk
-
-<https://piszek.com/2021/07/18/newsletter-solarpunk/>
-
-## Hyperactive Hive Mind
-
-- #people/authors/cal-newport
-- [A \$5.5 Billion Reminder that Email is Not Work](http://feedproxy.google.com/~r/StudyHacks/~3/XzMIPO-fDyE/)
-- Plug for his book: [A World Without Email: Reimagining Work in an Age of Communication Overload](https://smile.amazon.com/dp/0525536558/ref=cm_sw_r_sm_apa_glt_fabc_BQKXKYJZ78Y5X7PBBMQY)
-
-## Productivity #concepts/productivity
-
-- <https://trms.me/the-productivity-trap/>
-  - Manage the balance of Chaos & Order
-  - Too much order, you loose the value of serendipity & creative force that can be really helpful in accomplishing important work
-  - Too much chaos, and it ruins any possibility of getting important work done as you will be unavoidably detained by the consequences of inconsequential tasks
-
-## Imposter Syndrome #concepts/imposter-syndrome
-
-- [Everyone has imposter syndrome, so maybe no one needs to have imposter syndrome](https://workbravely.com/blog/world-of-work/imposter-syndrome/)
-
-### Burkeman: imposter syndrome as a symptom of the "control" problem
-
-_Added 2026-09-25 by Claude (`source/ai/claude`)._
-
-> [!quote] Oliver Burkeman, _Meditations for Mortals_ (Location 82)
-> For some it manifests as imposter syndrome, the belief that there's a basic level of expertise that pretty much everyone else has attained, but that you haven't, and that you won't be able to stop second-guessing yourself until you get there.
-
-Source: [[Bookshelf/Highlights & Notes/Books/Meditations for Mortals#^rw-870052569|Meditations for Mortals — highlight]] · Your note: _"Connect with Imposter Syndrome."_
-
-**What Burkeman adds to the usual account.** He doesn't treat imposter syndrome as a confidence problem. It's one form of a single anxiety, together with busyness and the rest: _"the idea that there exists some way of being in the world … that you have yet to discover. And that you won't be able to relax into your life until you do"_ (Location 87, your highlight, where you wrote _"This is such a good problem statement"_). His cure follows. There is no finish line of competence to reach, so the second-guessing can't be ended by getting there, only by dropping the idea that there's a _there_. See [[Concepts/Imperfectionism|Imperfectionism]].
-
-Related in this vault: [[Types of Fallacy]] (your note tying impostor syndrome to "fake knowledge") · _How to Take Smart Notes_ (Ahrens on imposter feelings as a by-product of glimpsing how much there is to know).
-
-## Marginal Gains Theory #concepts/marginal-gains-theory #concepts/1-percent-principle
-
-- Relates to #concepts/heroic-consistency, as it is small changes compounded over time.
-- Introduced to it by #twilio/people/jeremiah-brazeau, in a R\&D Leaders Top of Mind email
-  - `Well, I am a big believer in action and getting better 1% at a time (theory of marginal gains for those interested)`
-- \#🗓️/2021/09/20[Marginal Gains Theory | Why Successful People Seek 1% Improvement Every Day](https://www.youtube.com/watch?v=kUttbcVanw4)
-  - This video mentioned the [[#5-Hour Rule]] as it relates to the practice of prioritizing consistent improvement
-
-## 5-Hour Rule #concepts/5-hour-rule
-
-- [The 5-Hourr Rule | Why Constant Learners Become Successful People](https://www.youtube.com/watch?v=O7071k1J0O0)
-
-## Complexity Matrix / Value Vs Effort
-
-## The Rule of 7
-
-#source/publications/sketchplanations
-
-> The idea that consistent repeating of a message is required to get someone to take action
-
-[Source](https://sketchplanations.com/the-rule-of-7)
-![The Rule of 7|700](https://images.prismic.io/sketchplanations/bba61026-cf3b-417c-8157-34d37ae37262_SP+742+-+The+Rule+of+7.png)
-
-## Combinational Creativity
-
-[Source](https://nesslabs.com/programmed-creativity#:~:text=plagiarism.%E2%80%9D%20%E2%80%94%20William%20Inge.-,Combinational%20creativity,-is%20the%20process)
-
-The process of combining old ideas to come up with something new.
-
-- Be Creative on demand
-  1. Choose two ideas which you find interesting (maybe from other people)
-  2. Make them have idea sex (the [words](https://nesslabs.com/conor-white-sullivan-interview) of Conor White-Sullivan, founder of [Roam Research](https://nesslabs.com/roam-research)).
-  3. It may not result in an amazing idea, but it will certainly help get your creative juices flowing.
-
-## Digital Garden
-
-[Source](https://nesslabs.com/programmed-creativity#:~:text=to%20pick%20from.-,Create%20a%20digital%20garden,-Finally%2C%20if%20you)
-
-- Create a Digital Garden
-  - [Creating a DIY Digital Garden with Obsidian and Gatsby - DEV Community](https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e)
-  - [Seph News](https://seph.news/about)
-  - [binnyva/gatsby-garden: A Digital Garden Theme for Gatsby](https://github.com/binnyva/gatsby-garden)
-    - Gatsby Garden lets you create a static HTML version of your markdown notes
-  - [Gatsby-garden NPM | npm.io](https://npm.io/package/gatsby-garden)
-  - [Digital Zen Garden : A Brief History & Ethos of the Digital Garden](https://notes.binnyva.com/a-brief-history-ethos-of-the-digital-garden)
-  - [Digital Zen Garden : Home](https://notes.binnyva.com/)
-  - [Digital Zen Garden : Think Again by Adam Grant](https://notes.binnyva.com/think-again-by-adam-grant)
-- Example Site:
-  - [SuperMemo Guru - supermemo.guru](https://supermemo.guru/wiki/SuperMemo_Guru)
-    - [Incremental writing - supermemo.guru](https://supermemo.guru/wiki/Incremental_writing)
-    - [Pleasure of knowing - supermemo.guru](https://supermemo.guru/wiki/Pleasure_of_knowing)
-  - [Patrick Collison](https://patrickcollison.com/)
-  - [Ben's Working Notes](https://notes.benjaminreinhardt.com/About_these_notes)
-
-### Method & Tooling
-
-## Circular Conversations
-
-- [Stop Those Circular Conversations in Your Head and Get Some Sleep - Thinking Directions](https://www.thinkingdirections.com/stop-those-circular-conversations-in-your-head-and-get-some-sleep/) #source/blog/thinking-directions
-  - I often suffer from this. I've read it before, but should read it again
-
-## Galls Law
-
-Gall’s Law is a rule of thumb for the design of systems that states:
-
-> All complex systems that work evolved from simpler systems that worked.
->
-> \[And conversely…] A complex system designed from scratch never works and cannot be patched up to make it work."
-
-## Hanlon's Razor #concepts/hanlons-razor
-
-_Added 2026-09-25 by Claude, from your [[Bookshelf/Highlights & Notes/Articles/Hanlon's Razor|Sketchplanations highlight]]. `source/ai/claude`_
-
-> Never attribute to malice that which is adequately explained by stupidity.
-
-- **The picture.** Sketchplanations draws someone angry about litter outside their house when it actually fell out of a neighbour's bin bag around the corner ([sketchplanations.com/hanlons-razor](https://sketchplanations.com/hanlons-razor)).
-
-- **Origin.** Robert J. Hanlon submitted the line to Arthur Bloch's _Murphy's Law Book Two_ (1980). Robert Heinlein said it earlier, in _Logic of Empire_ (1941): _"You have attributed conditions to villainy that simply result from stupidity"_ ([Wikipedia](https://en.wikipedia.org/wiki/Hanlon%27s_razor)). ⚠️ Older attributions (Goethe, Napoleon) are folklore-level.
-
-- **Caveats, from the sources themselves:**
-  - It's a default, not a verdict. Farnam Street: assume no malice, _"but if malice is confirmed, be ruthless"_ ([fs.blog](https://fs.blog/mental-model-hanlons-razor/)).
-  - Sketchplanations: negligence still carries responsibility.
-
-- **In practice (Slack, customers, family):** "stupidity" is harsher than it needs to be. Try _carelessness, missing context or competing priorities_ before _intent_. It's usually cheaper to be wrong about kindness than about malice.
-
-- Also listed in [[Mental Models]] (#9).
-
-- **Correction (Claude, 2026-09-25, later run):** the Goethe attribution above is **not** folklore-level. _The Sorrows of Young Werther_ (1774), letter of 4 May, verbatim in the standard English translation: _"misunderstandings and neglect occasion more mischief in the world than even malice and wickedness"_ ([Gutenberg](https://www.gutenberg.org/files/2527/2527-h/2527-h.htm)). The versions circulating online are paraphrases. The Stoic version is older still: see [[Concepts/Generous Assumptions|Generous Assumptions]].
-
-## Two Things Can Be True
-
-tag: #concepts/two-things-can-be-true
-date: #🗓️/2024/09/09
-
-### Changelog
-
-### Resources
-
-### Action Items
-
-### FAQ
-
----
-
-🙋
-✨
-
----
-
-### Content
 
 ## Parent Notes
 

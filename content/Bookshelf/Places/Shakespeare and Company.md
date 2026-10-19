@@ -5,8 +5,8 @@ aliases:
   - Shakespeare and Company (bookstore)
 title: Shakespeare and Company
 created: 2026-10-19T14:13:38.000Z
-modified: 2026-10-19T18:45:42.000Z
-published: 2026-10-19T18:45:42.000Z
+modified: 2026-10-19T19:18:30.000Z
+published: 2026-10-19T19:18:30.000Z
 tags:
   - places
   - place/literary
@@ -21,6 +21,7 @@ location:
   - 48.8525
   - 2.3469
 within: "[[Paris (Literary)]]"
+coordinates: 48.8525,2.3469
 ---
 
 # Shakespeare and Company
