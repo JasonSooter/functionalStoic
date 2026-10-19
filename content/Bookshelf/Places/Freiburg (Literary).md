@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Freiburg im Breisgau (literary places)
 title: Freiburg
 created: 2026-10-19T14:13:04.000Z
-modified: 2026-10-19T19:18:20.000Z
-published: 2026-10-19T19:18:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-19T22:29:45.600Z
+published: 2026-10-19T22:29:45.600Z
+aliases:
+  - Freiburg im Breisgau (literary places)
 books:
   - "The Tram Network in Transition: Dismantling, Expansion, Future Plans"
 categories:
@@ -19,6 +15,10 @@ icon: book
 location:
   - 47.995
   - 7.85
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 coordinates: 47.995,7.85
 ---
 
@@ -27,13 +27,15 @@ coordinates: 47.995,7.85
 Freiburg im Breisgau, Jason's home city in the Black Forest. Travel note: [[Freiburg]]. (File named "(Literary)" to avoid clashing with the Travel note's name.)
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Tram Network in Transition: Dismantling, Expansion, Future Plans | VAG Freiburg | subject | 125 years of Freiburg trams: built, bombed, cut back in the 1960s, then expanded district by district since 1983. |
 
 ## Sub-places
 
+- [[Bertoldsbrunnen]]
+- [[Landwasser]]
+- [[Mundenhof]]
 - [[Schauinslandbahn]]
 
 ## The Tram Network in Transition: Dismantling, Expansion, Future Plans — VAG Freiburg (2026)
