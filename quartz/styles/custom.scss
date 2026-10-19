@@ -511,3 +511,57 @@ body[data-slug="blog/questions"] article {
     }
   }
 }
+
+// Folder notes: the link list Quartz Syncer generates from a dataview query
+// (plugins/link-cleanup tags it `folder-index`) reads as a grid of tiles.
+article ul.folder-index {
+  list-style: none;
+  padding: 0;
+  margin: 1.25rem 0 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+  gap: 0.6rem;
+
+  & > li {
+    margin: 0;
+    display: flex;
+
+    & > p {
+      margin: 0;
+      display: flex;
+      flex: 1;
+    }
+  }
+
+  & a.internal {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    min-height: 3.25rem;
+    padding: 0.6rem 0.9rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 10px;
+    background: color-mix(in srgb, var(--lightgray) 22%, transparent);
+    color: var(--dark);
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.35;
+    transition:
+      border-color 0.15s ease,
+      background-color 0.15s ease;
+
+    &:hover {
+      border-color: var(--secondary);
+      background: color-mix(in srgb, var(--secondary) 12%, transparent);
+    }
+  }
+}
+
+// Phones: site-nav's menu covers the sections, so drop the left sidebar (the
+// explorer's own menu button and a spacer), which otherwise sits on a row of
+// its own above the header.
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left {
+    display: none;
+  }
+}

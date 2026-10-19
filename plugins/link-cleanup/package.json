@@ -1,0 +1,23 @@
+{
+  "name": "link-cleanup",
+  "version": "1.0.0",
+  "description": "Unlinks unpublished notes and tidies folder-note link lists",
+  "type": "module",
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "quartz": {
+    "name": "link-cleanup",
+    "displayName": "Link Cleanup",
+    "category": "transformer",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 66,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
