@@ -2,8 +2,8 @@
 publish: true
 title: Langdon Nature Discovery Park
 created: 2026-10-20T10:42:55.175Z
-modified: 2026-10-20T10:42:55.175Z
-published: 2026-10-20T10:42:55.175Z
+modified: 2026-10-20T19:40:29.456Z
+published: 2026-10-20T19:40:29.456Z
 aliases:
   - Langdon Nature Discovery Centre
   - Langdon Nature Reserve
@@ -16,6 +16,9 @@ books:
   - "[[072 Introducing Creativity Diagrams]]"
   - '#076 I should probably write that down'
   - "[[081 the Cafe From a Great Height]]"
+  - '#052 Particular responsibility for uneven ground'
+  - '#053 I have significant news'
+  - '#054 These are my meal-deal choices'
 categories:
   - "[[Places]]"
 color: purple
@@ -39,6 +42,7 @@ within: "[[Basildon]]"
 Essex Wildlife Trust nature reserve and visitor centre at Langdon Hills, near [[Basildon]], [[Essex]], England; the newsletter's "The Cafe" is its café.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #063 Stop and watch and listen | Diagram Club | setting | A ranger-led bird walk: stopping to watch and listen. |
@@ -48,6 +52,9 @@ Essex Wildlife Trust nature reserve and visitor centre at Langdon Hills, near [[
 | [[072 Introducing Creativity Diagrams]] | Diagram Club | setting | A storytelling walk around the reserve. |
 | #076 I should probably write that down | Diagram Club | setting | The café manager's career break. |
 | [[081 the Cafe From a Great Height]] | Diagram Club | setting | The Cafe seen from a plane. |
+| #052 Particular responsibility for uneven ground | Diagram Club | setting | Volunteer café news; The Cafe named as Essex Wildlife Trust Langdon. |
+| #053 I have significant news | Diagram Club | setting | Milk jugs, A-boards and stacked chairs at The Cafe. |
+| #054 These are my meal-deal choices | Diagram Club | backdrop | An Artisan Market at The Cafe. |
 
 ## #063 Stop and watch and listen — Diagram Club (2025)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6wqmbjjgvj273n5m7rnx)
@@ -110,4 +117,31 @@ Source: [[081 the Cafe From a Great Height]] · [Readwise highlight](https://rea
 
 - **Role:** setting
 - **In the article:** A photo taken from a plane from Gatwick to Copenhagen shows the car park and the nature reserve; the building, he jokes, is in there somewhere.
+- **Why it matters:** The café at the reserve is the newsletter's recurring home base.
+
+## #052 Particular responsibility for uneven ground — Diagram Club (2025)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5dcjxh003km12hpxzwnxx5e)
+
+> The Cafe, with its brilliant staff and volunteers, is, in real life, Essex Wildlife Trust Langdon.
+
+- **Role:** setting
+- **In the article:** The author, a volunteer steward, writes the week's café news (the final cup of redbush tea) and explains that The Cafe is, in real life, Essex Wildlife Trust Langdon.
+- **Why it matters:** The café at the reserve is the newsletter's recurring home base.
+
+## #053 I have significant news — Diagram Club (2025)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5dcjyw7aaw36ayrbm1vd32z)
+
+> The Cafe is, in actual life, Langdon Nature Discovery Park.
+
+- **Role:** setting
+- **In the article:** The author describes helping at The Cafe (carrying milk jugs, bringing in the A-board, stacking chairs) and his mistakes there, then notes that The Cafe is really Langdon Nature Discovery Park.
+- **Why it matters:** The café at the reserve is the newsletter's recurring home base.
+
+## #054 These are my meal-deal choices — Diagram Club (2025)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5dck0xjn3ygyky6aa8rxcjz)
+
+> We have an Artisan Market, this Sunday 7th September, 11-5, at The Cafe, aka Langdon Nature Discovery Park, SS16 6EJ.
+
+- **Role:** backdrop
+- **In the article:** The author moves surplus wooden furniture to The Cafe and invites readers to an Artisan Market there on Sunday 7 September.
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.

@@ -1,0 +1,45 @@
+---
+publish: true
+title: Denmark
+created: 2026-10-20T19:39:32.434Z
+modified: 2026-10-20T19:39:32.434Z
+published: 2026-10-20T19:39:32.434Z
+aliases: []
+books:
+  - Will mushrooms go mainstream in Denmark?
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 56.0,10.0
+geo_note: approximate (country centroid)
+geo_source: GeoNames 2623032
+icon: newspaper
+location:
+  - 56
+  - 10
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+---
+
+# Denmark
+
+Country in northern Europe. See also the Travel note [[Denmark]]. The pin is the country's centroid.
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| Will mushrooms go mainstream in Denmark? | Helen Russell | subject | A sensible experimenter that might lead on psychedelic therapy. |
+
+## Sub-places
+_None yet._
+
+## Will mushrooms go mainstream in Denmark? — Helen Russell
+Source: [Readwise highlight](https://read.readwise.io/read/01m5dcntkbs8dz3ysbwmbynkbd)
+
+> Denmark has a knack for experimenting sensibly (see: wind power, bike lanes, gender-neutral parental leave).
+
+- **Role:** subject
+- **In the article:** The essay discusses a Danish party's proposal to offer psychedelics in psychiatric treatment, contrasting Danish winters, culture and cautious regulation with the UK and imagining Denmark as a careful leader in the field.
+- **Why it matters:** Country-level subject of the argument; no particular site is described.

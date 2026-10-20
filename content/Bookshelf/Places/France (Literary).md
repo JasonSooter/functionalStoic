@@ -2,8 +2,8 @@
 publish: true
 title: France
 created: 2026-10-20T10:42:20.396Z
-modified: 2026-10-20T13:49:23.498Z
-published: 2026-10-20T13:49:23.498Z
+modified: 2026-10-20T19:41:49.550Z
+published: 2026-10-20T19:41:49.550Z
 aliases: []
 books: []
 categories:
@@ -22,6 +22,8 @@ Country in western Europe. See also the Travel note [[France]]. Hub for literary
 
 ## Sub-places
 
+- [[Bessèges]]
+- [[Bordeaux]]
 - [[Culmont-Chalindrey station]]
 - [[Dijon-Ville station]]
 - [[French Riviera]]
@@ -29,3 +31,4 @@ Country in western Europe. See also the Travel note [[France]]. Hub for literary
 - [[Lyon Part-Dieu]]
 - [[Réunion]]
 - [[Seine–Nord Europe Canal]]
+- [[Vercors]]

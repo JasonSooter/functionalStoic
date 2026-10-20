@@ -2,8 +2,8 @@
 publish: true
 title: Fort Collins
 created: 2026-10-20T10:42:09.288Z
-modified: 2026-10-20T16:29:31.321Z
-published: 2026-10-20T16:29:31.321Z
+modified: 2026-10-20T19:42:15.421Z
+published: 2026-10-20T19:42:15.421Z
 aliases:
   - FoCo
 books:
@@ -34,7 +34,9 @@ City on the Front Range in northern [[Colorado]], USA. See also the note [[Fort 
 | Foco Bike Mob News, 12/18/25 | Foco Bike Mob | setting | A bike club's mission to make the city the most prominent cycling city in the US. |
 
 ## Sub-places
+
 - [[Hughes property (Fort Collins)]]
+- [[New Belgium Brewing]]
 
 ## Foco Bike Mob News, 12/18/25 — Foco Bike Mob (2025)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce3efcvx5t8ywbcqvskt1p)

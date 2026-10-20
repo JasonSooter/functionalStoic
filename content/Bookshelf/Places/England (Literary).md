@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-10-20T10:42:19.108Z
-modified: 2026-10-20T13:49:29.874Z
-published: 2026-10-20T13:49:29.874Z
+modified: 2026-10-20T19:42:12.404Z
+published: 2026-10-20T19:42:12.404Z
 aliases: []
 books: []
 categories:
@@ -23,5 +23,7 @@ Country of the United Kingdom. See also the Travel note [[England]]. Hub for lit
 ## Sub-places
 
 - [[Brooks England factory]]
+- [[Caen Hill Locks]]
+- [[Cornwall]]
 - [[Manchester]]
 - [[Norwich]]

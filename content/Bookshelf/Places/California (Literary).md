@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2026-10-20T04:35:47.000Z
-modified: 2026-10-20T16:29:33.061Z
-published: 2026-10-20T16:29:33.061Z
+modified: 2026-10-20T19:41:53.246Z
+published: 2026-10-20T19:41:53.246Z
 aliases: []
 books: []
 categories:
@@ -22,10 +22,13 @@ Hub for literary places in California. See the Travel note [[California]] and th
 
 ## Sub-places
 
+- [[Auburn Dam]]
 - [[Berkeley, California]]
 - [[Cajon Pass]]
 - [[Fairfax, California]]
+- [[Foresthill Bridge]]
 - [[Hangar One (Mountain View)]]
 - [[Los Angeles Aqueduct]]
 - [[San Francisco]]
+- [[Silicon Valley]]
 - [[Steamer Lane]]

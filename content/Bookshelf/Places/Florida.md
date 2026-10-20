@@ -2,8 +2,8 @@
 publish: true
 title: Florida
 created: 2026-10-19T22:29:17.000Z
-modified: 2026-10-20T10:45:15.485Z
-published: 2026-10-20T10:45:15.485Z
+modified: 2026-10-20T19:41:47.134Z
+published: 2026-10-20T19:41:47.134Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -34,6 +34,7 @@ State in the south-eastern United States; see also the [[United States]] travel 
 
 ## Sub-places
 
+- [[Daytona International Speedway]]
 - [[Kissimmee River]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)

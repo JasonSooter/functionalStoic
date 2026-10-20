@@ -2,8 +2,8 @@
 publish: true
 title: Amsterdam
 created: 2026-10-19T22:28:50.000Z
-modified: 2026-10-20T10:44:57.445Z
-published: 2026-10-20T10:44:57.445Z
+modified: 2026-10-20T19:41:54.466Z
+published: 2026-10-20T19:41:54.466Z
 aliases: []
 books:
   - The Absolute Best Transportation for Cities (trams)
@@ -36,6 +36,7 @@ Capital of the Netherlands; see also the [[Netherlands]] travel note. Hub for li
 - [[Amsterdam Centraal]]
 - [[Anne Frank House]]
 - [[Canals of Amsterdam]]
+- [[Centrum Wiskunde & Informatica]]
 - [[Ferdinand Bolstraat]]
 - [[IJburg]]
 

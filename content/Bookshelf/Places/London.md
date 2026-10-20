@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-20T13:49:32.278Z
-published: 2026-10-20T13:49:32.278Z
+modified: 2026-10-20T19:42:10.312Z
+published: 2026-10-20T19:42:10.312Z
 aliases: []
 books: []
 categories:
@@ -26,5 +26,6 @@ Capital of England and the United Kingdom, on the Thames; see the Travel note [[
 - [[London Transport Museum Depot]]
 - [[Lord's Cricket Ground]]
 - [[Palace of Westminster]]
+- [[Regent's Canal]]
 - [[Royal Agricultural Hall]]
 - [[Westminster Hall]]
