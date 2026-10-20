@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Kunsthistorisches Museum
-created: 2026-10-20T01:27:55.642Z
-modified: 2026-10-20T01:27:55.642Z
-published: 2026-10-20T01:27:55.642Z
 aliases:
   - Kunsthistorische Museum
   - Museum of Fine Arts, Vienna
+title: Kunsthistorisches Museum
+created: 2026-10-20T01:27:56.000Z
+modified: 2026-10-20T01:27:56.000Z
+published: 2026-10-20T01:27:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 48.2039
   - 16.3616
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vienna (Literary)]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Vienna (Literary)]]"
 The great art museum on the Ringstrasse in Vienna, Austria. See [[Vienna (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | A fabulous museum so big it gives Bryson museum fatigue a third of the way through. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bek50hdj1pec8ksnt78xcw)
 
 > I decided to start at the top with the Kunsthistorische Museum. It was fabulous—vast, grand, full of great paintings.

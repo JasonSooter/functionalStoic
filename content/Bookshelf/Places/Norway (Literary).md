@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Norway
-created: 2026-10-19T14:07:00.000Z
-modified: 2026-10-20T02:12:24.460Z
-published: 2026-10-20T02:12:24.460Z
 aliases:
   - Norway (literary places)
+title: Norway
+created: 2026-10-19T14:07:00.000Z
+modified: 2026-10-20T02:12:24.000Z
+published: 2026-10-20T02:12:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Norway

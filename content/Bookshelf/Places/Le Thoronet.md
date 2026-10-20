@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Le Thoronet
-created: 2026-10-20T04:31:41.037Z
-modified: 2026-10-20T04:31:41.037Z
-published: 2026-10-20T04:31:41.037Z
+created: 2026-10-20T04:31:41.000Z
+modified: 2026-10-20T04:31:41.000Z
+published: 2026-10-20T04:31:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Trace Velocio 2026. Le Thoronet to Sault
@@ -15,10 +19,6 @@ icon: book
 location:
   - 43.4528
   - 6.3044
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Provence]]"
 Village in the Var, Provence. See [[Provence]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Trace Velocio 2026. Le Thoronet to Sault | Mostly Bikes x Me | setting | Pre-dawn start of a 24-hour Easter ride to Sault. |
 
 ## Trace Velocio 2026. Le Thoronet to Sault — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bs6hdpf22e1sh6t3z48jgw)
 
 > We rolled out of Le Thoronet in the shadow of its tacky blinking sign and into the darkness of Provence.

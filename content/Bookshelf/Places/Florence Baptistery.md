@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Florence Baptistery
-created: 2026-10-19T22:26:02.230Z
-modified: 2026-10-19T22:26:02.230Z
-published: 2026-10-19T22:26:02.230Z
 aliases:
   - Baptistery of San Giovanni
   - Battistero di San Giovanni
+title: Florence Baptistery
+created: 2026-10-19T22:26:02.000Z
+modified: 2026-10-19T22:26:02.000Z
+published: 2026-10-19T22:26:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 43.7731
   - 11.255
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florence]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Florence]]"
 The octagonal baptistery opposite Florence Cathedral, with a thirteenth-century mosaic cupola; see [[Florence]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | subject | The cupola Rovelli thinks gave Dante the shape of a three-sphere universe. |
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Readwise highlight](https://read.readwise.io/read/01m5b44hkd6by9mc6jvpky88hv)
 
 > Dante left Florence in 1301, while the extraordinary mosaics in the cupola of the Baptistery were being completed.

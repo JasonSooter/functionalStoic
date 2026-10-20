@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Italy
-created: 2026-10-19T22:29:10.724Z
-modified: 2026-10-20T02:12:20.808Z
-published: 2026-10-20T02:12:20.808Z
 aliases:
   - Italia
+title: Italy
+created: 2026-10-20T01:38:54.000Z
+modified: 2026-10-20T02:12:21.000Z
+published: 2026-10-20T02:12:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Italy

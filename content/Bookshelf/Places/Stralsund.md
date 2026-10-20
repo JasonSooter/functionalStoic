@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Stralsund
-created: 2026-10-20T04:23:46.383Z
-modified: 2026-10-20T04:23:46.383Z
-published: 2026-10-20T04:23:46.383Z
+created: 2026-10-20T04:23:46.000Z
+modified: 2026-10-20T04:23:46.000Z
+published: 2026-10-20T04:23:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Stralsund

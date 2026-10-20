@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Chongqing
-created: 2026-10-20T04:23:36.950Z
-modified: 2026-10-20T04:23:36.950Z
-published: 2026-10-20T04:23:36.950Z
+created: 2026-10-20T04:23:37.000Z
+modified: 2026-10-20T04:23:37.000Z
+published: 2026-10-20T04:23:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Chongqing

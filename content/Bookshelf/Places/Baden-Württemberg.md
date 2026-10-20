@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Baden-Württemberg
-created: 2026-10-20T01:36:30.191Z
-modified: 2026-10-20T04:36:14.238Z
-published: 2026-10-20T04:36:14.238Z
+created: 2026-10-20T01:36:30.000Z
+modified: 2026-10-20T04:36:14.000Z
+published: 2026-10-20T04:36:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Baden-Württemberg

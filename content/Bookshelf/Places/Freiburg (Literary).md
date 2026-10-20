@@ -1,27 +1,25 @@
 ---
 publish: true
-title: Freiburg
-created: 2026-10-19T14:13:04.000Z
-modified: 2026-10-20T04:36:15.982Z
-published: 2026-10-20T04:36:15.982Z
 aliases:
   - Freiburg im Breisgau (literary places)
-books:
-  - "The Tram Network in Transition: Dismantling, Expansion, Future Plans"
-  - "Destroyed City, Broken Trams: When Freiburg Lay in Ruins"
-  - "Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben"
-categories:
-  - "[[Places]]"
-color: purple
-coordinates: 47.995,7.85
-icon: book
-location:
-  - 47.995
-  - 7.85
+title: Freiburg
+created: 2026-10-19T14:13:04.000Z
+modified: 2026-10-20T04:36:16.000Z
+published: 2026-10-20T04:36:16.000Z
 tags:
   - places
   - place/literary
   - source/ai/claude
+books:
+  - "The Tram Network in Transition: Dismantling, Expansion, Future Plans"
+categories:
+  - "[[Places]]"
+color: purple
+icon: book
+location:
+  - 47.995
+  - 7.85
+coordinates: 47.995,7.85
 ---
 
 # Freiburg
@@ -29,6 +27,7 @@ tags:
 Freiburg im Breisgau, Jason's home city in the Black Forest. Travel note: [[Freiburg]]. (File named "(Literary)" to avoid clashing with the Travel note's name.)
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Tram Network in Transition: Dismantling, Expansion, Future Plans | VAG Freiburg | subject | 125 years of Freiburg trams: built, bombed, cut back in the 1960s, then expanded district by district since 1983. |
@@ -61,6 +60,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5a83vc5y76epkjtqgj
 - **Why it matters:** The city is the subject: the article argues that Freiburg's growth can be read straight off its tram map, because of the rule that every new district gets a tram. It's also Jason's home network; his own highlight on the piece reads "Yes! We enjoy the benefits to this day."
 
 ## Destroyed City, Broken Trams: When Freiburg Lay in Ruins — VAG Freiburg (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5beympjg925xgn5wqc4ftpn)
 
 > It destroyed large parts of the old town, but also districts such as Betzenhausen, Stühlinger, the Mooswald settlement and above all Neuburg.
@@ -70,6 +70,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5beympjg925xgn5wqc
 - **Why it matters:** The whole city is the subject: the raid is the event the tram network had to be rebuilt from. The article also exists in Reader as a second copy ("fixed preview"), scanned as the same text.
 
 ## Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben — Saskia Schuh (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5brfjn4mg6rf6f0xwk9w815)
 
 > In Freiburg seien die Diskussionen auch deutlich häufiger als in Tübingen oder Konstanz, wo es ebenfalls eine Verpackungssteuer gibt.

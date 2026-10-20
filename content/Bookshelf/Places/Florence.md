@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Florence
-created: 2026-10-19T22:29:05.704Z
-modified: 2026-10-20T01:38:55.519Z
-published: 2026-10-20T01:38:55.519Z
 aliases:
   - Firenze
+title: Florence
+created: 2026-10-20T01:38:56.000Z
+modified: 2026-10-20T01:38:56.000Z
+published: 2026-10-20T01:38:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Florence

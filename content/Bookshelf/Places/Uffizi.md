@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Uffizi
-created: 2026-10-20T01:25:57.241Z
-modified: 2026-10-20T01:25:57.241Z
-published: 2026-10-20T01:25:57.241Z
 aliases:
   - Uffizi Gallery
   - Galleria degli Uffizi
+title: Uffizi
+created: 2026-10-20T01:25:57.000Z
+modified: 2026-10-20T01:25:57.000Z
+published: 2026-10-20T01:25:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 43.7683
   - 11.2553
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florence]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Florence]]"
 The Uffizi Gallery beside the Piazza della Signoria in [[Florence]], Italy.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | Forty minutes in line, then a shuffle through crowded rooms. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bejhw2p1j0pyfbcg35xvyy)
 
 > I went to the Uffizi and had to stand in line for forty minutes and then had to shuffle around amid crowds of people straining to see the paintings.

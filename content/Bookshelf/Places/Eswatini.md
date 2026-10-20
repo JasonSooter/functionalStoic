@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Eswatini
-created: 2026-10-20T04:35:57.570Z
-modified: 2026-10-20T04:35:57.570Z
-published: 2026-10-20T04:35:57.570Z
 aliases:
   - Swaziland
+title: Eswatini
+created: 2026-10-20T04:35:58.000Z
+modified: 2026-10-20T04:35:58.000Z
+published: 2026-10-20T04:35:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Eswatini

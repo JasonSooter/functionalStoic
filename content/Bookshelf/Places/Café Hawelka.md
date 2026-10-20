@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Café Hawelka
-created: 2026-10-20T01:28:05.011Z
-modified: 2026-10-20T01:28:05.011Z
-published: 2026-10-20T01:28:05.011Z
 aliases:
   - Hawelka
+title: Café Hawelka
+created: 2026-10-20T01:28:05.000Z
+modified: 2026-10-20T01:28:05.000Z
+published: 2026-10-20T01:28:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - 48.2079
   - 16.3694
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vienna (Literary)]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Vienna (Literary)]]"
 Coffee house off the Graben in central Vienna, Austria. See [[Vienna (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | The one friendly café in Vienna, dark and musty, where a waiter brings him USA Today. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bek7p4wtnt3v9kmkems5y7)
 
 > The one friendly café I found was the Hawelka, around the corner from my hotel.

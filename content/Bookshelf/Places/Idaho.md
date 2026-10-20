@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Idaho
-created: 2026-10-20T04:35:35.854Z
-modified: 2026-10-20T04:35:35.854Z
-published: 2026-10-20T04:35:35.854Z
+created: 2026-10-20T04:35:36.000Z
+modified: 2026-10-20T04:35:36.000Z
+published: 2026-10-20T04:35:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Idaho

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Sarajevo
-created: 2026-10-20T01:28:34.972Z
-modified: 2026-10-20T01:28:34.972Z
-published: 2026-10-20T01:28:34.972Z
+created: 2026-10-20T01:28:35.000Z
+modified: 2026-10-20T01:28:35.000Z
+published: 2026-10-20T01:28:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Neither Here Nor There
@@ -15,10 +19,6 @@ icon: book
 location:
   - 43.8564
   - 18.4131
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Sarajevo
@@ -26,14 +26,17 @@ tags:
 Capital of Bosnia and Herzegovina, on the river Miljacka.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | journey waypoint | Minarets, Cyrillic signs and a hotel dining room where Bryson is the only customer who can afford it. |
 
 ## Sub-places
+
 _None yet._
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bekf7jeym29qehpy1hdk59)
 
 > Seven slow, hot hours after leaving Split, we rolled into Sarajevo, capital of the republic of Bosnia-Hercegovina.

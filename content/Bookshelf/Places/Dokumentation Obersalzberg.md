@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Dokumentation Obersalzberg
-created: 2026-10-20T04:21:52.769Z
-modified: 2026-10-20T04:21:52.769Z
-published: 2026-10-20T04:21:52.769Z
 aliases:
   - Obersalzberg Documentation Center
   - Obersalzberg
+title: Dokumentation Obersalzberg
+created: 2026-10-20T04:21:53.000Z
+modified: 2026-10-20T04:21:53.000Z
+published: 2026-10-20T04:21:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 47.6317
   - 13.0403
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bavaria]]"
 ---
 
@@ -29,6 +29,7 @@ within: "[[Bavaria]]"
 Documentation centre on the Obersalzberg above Berchtesgaden, on the Nazi-era use of the mountain. See [[Bavaria]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | Where Berchtesgaden confronts the Obersalzberg's Nazi past. |

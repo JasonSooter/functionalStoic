@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Bielefeld
-created: 2026-10-20T04:23:30.921Z
-modified: 2026-10-20T04:23:30.921Z
-published: 2026-10-20T04:23:30.921Z
+created: 2026-10-20T04:23:31.000Z
+modified: 2026-10-20T04:23:31.000Z
+published: 2026-10-20T04:23:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Bielefeld

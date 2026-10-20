@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Rhineland-Palatinate
-created: 2026-10-20T04:23:42.827Z
-modified: 2026-10-20T04:23:42.827Z
-published: 2026-10-20T04:23:42.827Z
 aliases:
   - Rheinland-Pfalz
+title: Rhineland-Palatinate
+created: 2026-10-20T04:23:43.000Z
+modified: 2026-10-20T04:23:43.000Z
+published: 2026-10-20T04:23:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Rhineland-Palatinate

@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Hirschsprung Collection
-created: 2026-10-19T22:24:46.560Z
-modified: 2026-10-19T22:24:46.560Z
-published: 2026-10-19T22:24:46.560Z
 aliases:
   - Den Hirschsprungske Samling
   - Østre Anlæg
+title: Hirschsprung Collection
+created: 2026-10-19T22:24:47.000Z
+modified: 2026-10-19T22:24:47.000Z
+published: 2026-10-19T22:24:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 55.6899
   - 12.5775
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Copenhagen (Literary)]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Copenhagen (Literary)]]"
 Art museum of nineteenth-century Danish painting in Østre Anlæg park, Copenhagen; see [[Copenhagen (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | "The best museum of all": a little-visited house of Skagen paintings. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b441y6yxj7jj0yhjdrzh8f)
 
 > The best museum of all I saved for last—the Hirschsprung Collection in Østre Anlaeg Park. Everything about it is wonderful.

@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Cambridge
-created: 2026-10-19T22:29:24.352Z
-modified: 2026-10-19T22:29:24.352Z
-published: 2026-10-19T22:29:24.352Z
+created: 2026-10-19T22:29:24.000Z
+modified: 2026-10-19T22:29:24.000Z
+published: 2026-10-19T22:29:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Cambridge

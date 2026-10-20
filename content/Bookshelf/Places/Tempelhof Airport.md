@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Tempelhof Airport
-created: 2026-10-19T22:26:54.274Z
-modified: 2026-10-19T22:26:54.274Z
-published: 2026-10-19T22:26:54.274Z
 aliases:
   - Flughafen Berlin-Tempelhof
   - Tempelhofer Feld
+title: Tempelhof Airport
+created: 2026-10-19T22:26:54.000Z
+modified: 2026-10-19T22:26:54.000Z
+published: 2026-10-19T22:26:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Inside The World's Darkest Airport
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 52.476
   - 13.395
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Berlin]]"
 Former airport in [[Berlin]]: a Nazi-era terminal building and an airfield that is now the public park Tempelhofer Feld.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Inside The World's Darkest Airport | The B1M | subject | A walk through one building's layers: Nazi showpiece, Cold War lifeline, public park. |
 
 ## Inside The World's Darkest Airport — The B1M (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b44tbspeype3rr929sfskz)
 
 > This is Tempelhof Airport, the last remnants of Germania.

@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Sanremo
-created: 2026-10-20T02:08:08.996Z
-modified: 2026-10-20T02:08:08.996Z
-published: 2026-10-20T02:08:08.996Z
 aliases:
   - San Remo
   - Hotel Bellevue, San Remo
+title: Sanremo
+created: 2026-10-20T02:08:09.000Z
+modified: 2026-10-20T02:08:09.000Z
+published: 2026-10-20T02:08:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Dry Heart]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 43.8175
   - 7.775
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy (Literary)]]"
 ---
 
@@ -29,14 +29,17 @@ within: "[[Italy (Literary)]]"
 Resort town on the Italian Riviera, Liguria. See [[Italy (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Dry Heart]] | Natalia Ginzburg | turning point | A windy seaside holiday that ends with the death of the narrator's baby. |
 
 ## Sub-places
+
 _None yet._
 
 ## The Dry Heart — Natalia Ginzburg (1947)
+
 Source: [[The Dry Heart]] · [Readwise highlight](https://read.readwise.io/read/01m5bfwf5pq3h0fgqmpc2r84vj)
 
 > San Remo was very windy.

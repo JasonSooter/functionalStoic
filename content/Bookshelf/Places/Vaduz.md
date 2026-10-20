@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Vaduz
-created: 2026-10-20T01:26:53.740Z
-modified: 2026-10-20T01:26:53.740Z
-published: 2026-10-20T01:26:53.740Z
+created: 2026-10-20T01:26:54.000Z
+modified: 2026-10-20T01:26:54.000Z
+published: 2026-10-20T01:26:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Neither Here Nor There
@@ -15,10 +19,6 @@ icon: book
 location:
   - 47.1406
   - 9.5222
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Liechtenstein]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Liechtenstein]]"
 Capital of [[Liechtenstein]], below the princely castle on the Rhine valley side.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | An undistinguished little capital under a Wizard-of-Oz castle. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bejx7mk2rrde0m4chwnge7)
 
 > Vaduz is not terribly picturesque, but its setting is memorable.

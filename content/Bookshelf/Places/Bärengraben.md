@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Bärengraben
-created: 2026-10-20T01:26:43.603Z
-modified: 2026-10-20T01:26:43.603Z
-published: 2026-10-20T01:26:43.603Z
 aliases:
   - Bear Pit
   - Bern bear pits
+title: Bärengraben
+created: 2026-10-20T01:26:44.000Z
+modified: 2026-10-20T01:26:44.000Z
+published: 2026-10-20T01:26:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 46.948
   - 7.4596
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bern]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Bern]]"
 The bear pits across the Nydegg Bridge from the old town of [[Bern]], Switzerland.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | Bryson crosses the bridge to see Bern's famous bears and finds the pits empty. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bejvk7pdjf5h1jxw56f464)
 
 > I crossed the high, arched Nydegg Bridge to see the famous bear pits

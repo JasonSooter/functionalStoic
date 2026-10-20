@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Orkney
-created: 2026-10-20T04:23:16.642Z
-modified: 2026-10-20T04:23:16.642Z
-published: 2026-10-20T04:23:16.642Z
 aliases:
   - Orkney Islands
+title: Orkney
+created: 2026-10-20T04:23:17.000Z
+modified: 2026-10-20T04:23:17.000Z
+published: 2026-10-20T04:23:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Orkney

@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Saxony
-created: 2026-10-20T04:23:44.623Z
-modified: 2026-10-20T04:23:44.623Z
-published: 2026-10-20T04:23:44.623Z
 aliases:
   - Sachsen
+title: Saxony
+created: 2026-10-20T04:23:45.000Z
+modified: 2026-10-20T04:23:45.000Z
+published: 2026-10-20T04:23:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Saxony

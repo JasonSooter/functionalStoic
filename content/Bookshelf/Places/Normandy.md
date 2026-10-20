@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Normandy
-created: 2026-10-20T04:35:41.150Z
-modified: 2026-10-20T04:35:41.150Z
-published: 2026-10-20T04:35:41.150Z
 aliases:
   - Normandie
+title: Normandy
+created: 2026-10-20T04:35:41.000Z
+modified: 2026-10-20T04:35:41.000Z
+published: 2026-10-20T04:35:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Normandy

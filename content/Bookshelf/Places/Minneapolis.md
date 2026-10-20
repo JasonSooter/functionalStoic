@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Minneapolis
-created: 2026-10-20T04:20:03.678Z
-modified: 2026-10-20T04:20:03.678Z
-published: 2026-10-20T04:20:03.678Z
+created: 2026-10-20T04:20:04.000Z
+modified: 2026-10-20T04:20:04.000Z
+published: 2026-10-20T04:20:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - It is important to remember that we are winning
@@ -15,10 +19,6 @@ icon: book
 location:
   - 44.9819
   - -93.2692
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Minnesota]]"
 ---
 
@@ -27,14 +27,17 @@ within: "[[Minnesota]]"
 Largest city in Minnesota, on the Mississippi. See [[Minnesota]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | It is important to remember that we are winning | Garrett Bucks | turning point | Neighbourly solidarity in a snowy January as evidence that organised communities win. |
 
 ## Sub-places
+
 _None yet._
 
 ## It is important to remember that we are winning — Garrett Bucks (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bredpv75x0hvg80e6cxrjc)
 
 > Nothing proves this better than Minneapolis in January.

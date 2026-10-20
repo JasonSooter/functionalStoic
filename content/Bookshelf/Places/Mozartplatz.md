@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Mozartplatz
-created: 2026-10-20T01:27:21.985Z
-modified: 2026-10-20T01:27:21.985Z
-published: 2026-10-20T01:27:21.985Z
+created: 2026-10-20T01:27:22.000Z
+modified: 2026-10-20T01:27:22.000Z
+published: 2026-10-20T01:27:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Neither Here Nor There
@@ -15,10 +19,6 @@ icon: book
 location:
   - 47.7989
   - 13.0474
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Salzburg]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Salzburg]]"
 Square in the old town of [[Salzburg]], Austria, with a statue of Mozart.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | Bryson's remembered beautiful Salzburg turns out to have a square like a supermarket car park. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bek07fp5295jh9qy960d7y)
 
 > The main square in Salzburg, the Mozartplatz, was quite astonishingly ugly for a city that prides itself on beauty.

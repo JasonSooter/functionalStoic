@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Amsterdam
-created: 2026-10-19T22:28:49.688Z
-modified: 2026-10-19T22:28:49.688Z
-published: 2026-10-19T22:28:49.688Z
+created: 2026-10-19T22:28:50.000Z
+modified: 2026-10-19T22:28:50.000Z
+published: 2026-10-19T22:28:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Amsterdam

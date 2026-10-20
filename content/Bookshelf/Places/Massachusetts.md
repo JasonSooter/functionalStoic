@@ -2,18 +2,18 @@
 publish: true
 title: Massachusetts
 created: 2026-10-19T14:06:09.000Z
-modified: 2026-10-20T04:36:07.958Z
-published: 2026-10-20T04:36:07.958Z
+modified: 2026-10-20T04:36:08.000Z
+published: 2026-10-20T04:36:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Massachusetts

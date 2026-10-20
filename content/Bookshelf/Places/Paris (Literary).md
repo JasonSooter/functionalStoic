@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Paris
-created: 2026-10-19T14:14:18.000Z
-modified: 2026-10-20T04:36:10.690Z
-published: 2026-10-20T04:36:10.690Z
 aliases:
   - Paris (literary places)
+title: Paris
+created: 2026-10-19T14:14:18.000Z
+modified: 2026-10-20T04:36:11.000Z
+published: 2026-10-20T04:36:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -15,10 +19,6 @@ icon: book
 location:
   - 48.8567
   - 2.3522
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 coordinates: 48.8567,2.3522
 ---
 
@@ -27,6 +27,7 @@ coordinates: 48.8567,2.3522
 Capital of France. Travel note: [[Paris]]. (File named "(Literary)" to avoid clashing with the Travel note's name.)
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | A few March days of rude bakers, homicidal traffic and showy architecture, with flashbacks to 1972 and his honeymoon. |

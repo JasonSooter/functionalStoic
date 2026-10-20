@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Stelvio Pass
-created: 2026-10-20T01:34:59.171Z
-modified: 2026-10-20T01:34:59.171Z
-published: 2026-10-20T01:34:59.171Z
 aliases:
   - Passo dello Stelvio
   - Stilfser Joch
+title: Stelvio Pass
+created: 2026-10-20T01:34:59.000Z
+modified: 2026-10-20T01:34:59.000Z
+published: 2026-10-20T01:34:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Passo dello Stelvio
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 46.5286
   - 10.4528
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy (Literary)]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Italy (Literary)]]"
 High Alpine road pass between South Tyrol and Lombardy, Italy. See [[Italy (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Passo dello Stelvio | Mostly Bikes x Me | subject | A whole post in four words about the descent. |
 
 ## Passo dello Stelvio — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bez3e94n6bmtp83spa9t3z)
 
 > Send more brake pads

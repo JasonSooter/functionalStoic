@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Amritsar
-created: 2026-10-20T04:33:23.446Z
-modified: 2026-10-20T04:33:23.446Z
-published: 2026-10-20T04:33:23.446Z
 aliases:
   - Grand Trunk Road near Amritsar
+title: Amritsar
+created: 2026-10-20T04:33:23.000Z
+modified: 2026-10-20T04:33:23.000Z
+published: 2026-10-20T04:33:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[It's All About the Bike]]"
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - 31.64
   - 74.86
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Punjab]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Punjab]]"
 City in Punjab, India, on the Grand Trunk Road. See [[Punjab]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike]] | Robert Penn | turning point | A pothole crash on the Grand Trunk Road, and a roadside repair that proves steel's worth. |
 
 ## It's All About the Bike — Robert Penn (2010)
+
 Source: [[It's All About the Bike]] · [Readwise highlight](https://read.readwise.io/read/01m5bs7gd9857f7d9ax4w3hd16)
 
 > I was slipstreaming a tractor on the Grand Trunk Road near Amritsar.

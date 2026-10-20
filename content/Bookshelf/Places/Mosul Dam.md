@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Mosul Dam
-created: 2026-10-20T04:19:59.132Z
-modified: 2026-10-20T04:19:59.132Z
-published: 2026-10-20T04:19:59.132Z
+created: 2026-10-20T04:19:59.000Z
+modified: 2026-10-20T04:19:59.000Z
+published: 2026-10-20T04:19:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Fixing the Most Dangerous Dam in the World
@@ -15,10 +19,6 @@ icon: book
 location:
   - 36.6303
   - 42.8231
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iraq]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Iraq]]"
 Iraq's largest dam, on the Tigris north of Mosul. See [[Iraq]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Fixing the Most Dangerous Dam in the World | Practical Engineering | subject | Forty years of foundation trouble at a dam built on soluble rock. |
 
 ## Fixing the Most Dangerous Dam in the World — Practical Engineering (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5brecfp4hjhmf5k5xrc34ds)
 
 > The wild story of Mosul Dam in northern Iraq.

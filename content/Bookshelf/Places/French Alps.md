@@ -1,19 +1,19 @@
 ---
 publish: true
 title: French Alps
-created: 2026-10-20T01:34:01.016Z
-modified: 2026-10-20T04:36:09.350Z
-published: 2026-10-20T04:36:09.350Z
+created: 2026-10-20T01:34:01.000Z
+modified: 2026-10-20T04:36:09.000Z
+published: 2026-10-20T04:36:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # French Alps

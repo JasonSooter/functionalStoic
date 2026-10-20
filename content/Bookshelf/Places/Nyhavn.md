@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Nyhavn
-created: 2026-10-19T22:24:34.759Z
-modified: 2026-10-19T22:24:34.759Z
-published: 2026-10-19T22:24:34.759Z
+created: 2026-10-19T22:24:35.000Z
+modified: 2026-10-19T22:24:35.000Z
+published: 2026-10-19T22:24:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Neither Here Nor There
@@ -15,10 +19,6 @@ icon: book
 location:
   - 55.6797
   - 12.5906
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Copenhagen (Literary)]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Copenhagen (Literary)]]"
 The seventeenth-century canal and harbour street in central Copenhagen; see [[Copenhagen (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | A piece of Amsterdam gone astray, and Bryson's first proof that Copenhagen is fun. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b43v8crm3kh1c0xhjrhrsq)
 
 > I walked along Nyhavn, a three-block-long street with a canal in the middle filled with tall-masted ships and lined with narrow, step-gabled seventeenth- and eighteenth-century houses, looking for all the world like a piece of Amsterdam gone astray.

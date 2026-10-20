@@ -1,12 +1,16 @@
 ---
 publish: true
-title: St. Peter's Basilica
-created: 2026-10-19T22:31:15.474Z
-modified: 2026-10-19T22:31:15.474Z
-published: 2026-10-19T22:31:15.474Z
 aliases:
   - Basilica di San Pietro
   - St Peter's Basilica
+title: St. Peter's Basilica
+created: 2026-10-19T22:31:15.000Z
+modified: 2026-10-19T22:31:15.000Z
+published: 2026-10-19T22:31:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 41.9022
   - 12.4533
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rome]]"
 ---
 
@@ -29,6 +29,7 @@ within: "[[Rome]]"
 The papal basilica in Vatican City, on the west bank of the Tiber in [[Rome]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | The one building that brings Bryson close to his knees. |

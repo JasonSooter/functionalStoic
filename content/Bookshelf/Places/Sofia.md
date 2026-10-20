@@ -1,28 +1,27 @@
 ---
 publish: true
-title: Sofia
-created: 2026-10-20T01:28:52.605Z
-modified: 2026-10-20T01:28:52.605Z
-published: 2026-10-20T01:28:52.605Z
 aliases:
   - TSUM
   - TZUM
+title: Sofia
+created: 2026-10-20T01:28:53.000Z
+modified: 2026-10-20T01:28:53.000Z
+published: 2026-10-20T01:28:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 42.7,23.33
-geo_note: city-level coordinate (English Wikipedia gives two decimals); the TSUM department
-  store has no standard-source coordinate
+geo_note: city-level coordinate (English Wikipedia gives two decimals); the TSUM department store has no standard-source coordinate
 icon: book
 location:
   - 42.7
   - 23.33
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Sofia
@@ -30,14 +29,17 @@ tags:
 Capital of Bulgaria, below Mount Vitosha.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | The TSUM department store, then and now, as the measure of Bulgaria's shortages in 1990. |
 
 ## Sub-places
+
 - [[Vitosha Boulevard]]
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bekhjxssp97jf2vcp2cktf)
 
 > Sofia had a dark and enormous department store called TSUM, at least as big as Selfridge’s in London, spread over five floors

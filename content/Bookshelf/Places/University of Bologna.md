@@ -1,12 +1,16 @@
 ---
 publish: true
-title: University of Bologna
-created: 2026-10-19T22:25:55.341Z
-modified: 2026-10-19T22:25:55.341Z
-published: 2026-10-19T22:25:55.341Z
 aliases:
   - Università di Bologna
   - Alma Mater Studiorum
+title: University of Bologna
+created: 2026-10-19T22:25:55.000Z
+modified: 2026-10-19T22:25:55.000Z
+published: 2026-10-19T22:25:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 44.4939
   - 11.3428
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bologna]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Bologna]]"
 The university in [[Bologna]], founded in the eleventh century and among the oldest in the world.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | subject | Where Copernicus, and five centuries later Rovelli, found both the knowledge of the past and the nerve to overturn it. |
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Readwise highlight](https://read.readwise.io/read/01m5b44g5jk4caspgetwa30zhq)
 
 > The university was occupied for several months by politically engaged students. I got involved with the friends of Radio Alice, the independent radio station that had become the voice of the student revolt.

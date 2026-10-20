@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Florida
-created: 2026-10-19T22:29:16.596Z
-modified: 2026-10-19T22:29:16.596Z
-published: 2026-10-19T22:29:16.596Z
+created: 2026-10-19T22:29:17.000Z
+modified: 2026-10-19T22:29:17.000Z
+published: 2026-10-19T22:29:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Florida

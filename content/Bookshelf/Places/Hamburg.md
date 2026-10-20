@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Hamburg
-created: 2026-10-19T22:28:50.868Z
-modified: 2026-10-19T22:28:50.868Z
-published: 2026-10-19T22:28:50.868Z
+created: 2026-10-19T22:28:51.000Z
+modified: 2026-10-19T22:28:51.000Z
+published: 2026-10-19T22:28:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Hamburg

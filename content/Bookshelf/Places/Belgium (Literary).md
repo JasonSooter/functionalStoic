@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Belgium
-created: 2026-10-19T14:07:28.000Z
-modified: 2026-10-20T04:23:58.820Z
-published: 2026-10-20T04:23:58.820Z
 aliases:
   - Belgium (literary places)
+title: Belgium
+created: 2026-10-19T14:07:28.000Z
+modified: 2026-10-20T04:23:59.000Z
+published: 2026-10-20T04:23:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Belgium

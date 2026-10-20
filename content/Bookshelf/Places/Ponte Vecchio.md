@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Ponte Vecchio
-created: 2026-10-20T01:25:52.609Z
-modified: 2026-10-20T01:25:52.609Z
-published: 2026-10-20T01:25:52.609Z
+created: 2026-10-20T01:25:53.000Z
+modified: 2026-10-20T01:25:53.000Z
+published: 2026-10-20T01:25:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Neither Here Nor There
@@ -15,10 +19,6 @@ icon: book
 location:
   - 43.768
   - 11.2532
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florence]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Florence]]"
 The medieval shop-lined bridge over the Arno in [[Florence]], Italy.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | The clearest sign, for Bryson, of Florence's decline since 1972. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bejgd785kpmw1dyzhd7fpx)
 
 > Nowhere is the decline in quality in Florence more vivid than the Ponte Vecchio, the shop-lined bridge across the Arno River.

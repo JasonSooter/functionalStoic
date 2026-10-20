@@ -1,9 +1,13 @@
 ---
 publish: true
 title: New Orleans
-created: 2026-10-20T02:11:52.747Z
-modified: 2026-10-20T02:11:52.747Z
-published: 2026-10-20T02:11:52.747Z
+created: 2026-10-20T02:11:53.000Z
+modified: 2026-10-20T02:11:53.000Z
+published: 2026-10-20T02:11:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -15,10 +19,6 @@ icon: book
 location:
   - 29.9761
   - -90.0783
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # New Orleans
@@ -26,14 +26,17 @@ tags:
 City on the Mississippi in Louisiana, USA.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why the Levees Failed in New Orleans | Practical Engineering | subject | The 2005 flooding as an engineering failure, not a natural disaster. |
 
 ## Sub-places
+
 _None yet._
 
 ## Why the Levees Failed in New Orleans — Practical Engineering (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxmvdeb9rbhz077cjjf31)
 
 > What happened in New Orleans in August 2005 wasn’t a natural disaster.

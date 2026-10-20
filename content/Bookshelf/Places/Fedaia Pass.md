@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Fedaia Pass
-created: 2026-10-20T02:12:29.665Z
-modified: 2026-10-20T02:12:29.665Z
-published: 2026-10-20T02:12:29.665Z
 aliases:
   - Passo Fedaia
+title: Fedaia Pass
+created: 2026-10-20T02:12:30.000Z
+modified: 2026-10-20T02:12:30.000Z
+published: 2026-10-20T02:12:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Passo Staulanza and Passo Fedaia.
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - 46.4535
   - 11.889
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dolomites]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Dolomites]]"
 Road pass below the Marmolada in the [[Dolomites]], Italy.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Passo Staulanza and Passo Fedaia. | Mostly Bikes x Me | subject | Possibly the hardest climb the writer has done on a loaded bike. |
 
 ## Passo Staulanza and Passo Fedaia. — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfwnjp8davz11z2v4b9kwr)
 
 > Fedaia might be the hardest road climb I’ve experienced on a loaded bike.

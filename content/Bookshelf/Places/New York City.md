@@ -1,20 +1,20 @@
 ---
 publish: true
-title: New York City
-created: 2026-10-20T02:08:16.604Z
-modified: 2026-10-20T04:23:56.108Z
-published: 2026-10-20T04:23:56.108Z
 aliases:
   - NYC
+title: New York City
+created: 2026-10-20T04:23:56.000Z
+modified: 2026-10-20T04:23:56.000Z
+published: 2026-10-20T04:23:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # New York City

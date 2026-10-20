@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Provence
-created: 2026-10-19T22:29:25.712Z
-modified: 2026-10-20T04:36:06.634Z
-published: 2026-10-20T04:36:06.634Z
+created: 2026-10-20T01:38:52.000Z
+modified: 2026-10-20T04:36:07.000Z
+published: 2026-10-20T04:36:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Provence

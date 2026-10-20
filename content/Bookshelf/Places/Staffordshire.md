@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Staffordshire
-created: 2026-10-20T04:35:49.290Z
-modified: 2026-10-20T04:35:49.290Z
-published: 2026-10-20T04:35:49.290Z
+created: 2026-10-20T04:35:49.000Z
+modified: 2026-10-20T04:35:49.000Z
+published: 2026-10-20T04:35:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Staffordshire

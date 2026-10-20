@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Piggs Peak
-created: 2026-10-20T04:33:57.383Z
-modified: 2026-10-20T04:33:57.383Z
-published: 2026-10-20T04:33:57.383Z
 aliases:
   - Pigg's Peak
+title: Piggs Peak
+created: 2026-10-20T04:33:57.000Z
+modified: 2026-10-20T04:33:57.000Z
+published: 2026-10-20T04:33:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Peace Corps - The Great Adventure]]"
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - -25.967
   - 31.25
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Eswatini]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Eswatini]]"
 Timber town in the forested north-west of Eswatini (Swaziland). See [[Eswatini]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure]] | Peace Corps | journey waypoint | A volunteer fetches planks from the Mondi Timber sawmill for his woodworking shop. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
+
 Source: [[Peace Corps - The Great Adventure]] · [Readwise highlight](https://read.readwise.io/read/01m5bs7sd86vrzwvzk5jt5ervp)
 
 > Mondi Timber was a huge lumber operation with a large sawmill. I found the yard manager and followed him to his office.

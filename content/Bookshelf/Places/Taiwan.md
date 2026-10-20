@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Taiwan
-created: 2026-10-19T22:29:19.492Z
-modified: 2026-10-19T22:29:19.492Z
-published: 2026-10-19T22:29:19.492Z
+created: 2026-10-19T22:29:19.000Z
+modified: 2026-10-19T22:29:19.000Z
+published: 2026-10-19T22:29:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Taiwan

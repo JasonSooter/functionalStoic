@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Bologna
-created: 2026-10-19T22:29:02.896Z
-modified: 2026-10-19T22:29:02.896Z
-published: 2026-10-19T22:29:02.896Z
+created: 2026-10-19T22:29:03.000Z
+modified: 2026-10-19T22:29:03.000Z
+published: 2026-10-19T22:29:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Bologna

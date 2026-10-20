@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Reeperbahn
-created: 2026-10-19T22:24:13.830Z
-modified: 2026-10-19T22:24:13.830Z
-published: 2026-10-19T22:24:13.830Z
 aliases:
   - Grosse Freiheit
   - Kaiserkeller
+title: Reeperbahn
+created: 2026-10-19T22:24:14.000Z
+modified: 2026-10-19T22:24:14.000Z
+published: 2026-10-19T22:24:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 53.5494
   - 9.9622
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hamburg]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Hamburg]]"
 The nightlife street of St. Pauli in [[Hamburg]], with the side street Grosse Freiheit.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | Hamburg's "avenue of sin", comically tame by daylight. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b43qwdhkp75qr45fw2b1fs)
 
 > I walked a few hundred yards inland and uphill to the Reeperbahn, that famed mile-long avenue of sin. It looked disappointingly unlusty.

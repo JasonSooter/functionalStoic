@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Innsbruck
-created: 2026-10-20T01:27:16.877Z
-modified: 2026-10-20T01:27:16.877Z
-published: 2026-10-20T01:27:16.877Z
+created: 2026-10-20T01:27:17.000Z
+modified: 2026-10-20T01:27:17.000Z
+published: 2026-10-20T01:27:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Neither Here Nor There
@@ -15,10 +19,6 @@ icon: book
 location:
   - 47.2683
   - 11.3933
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austria (Literary)]]"
 ---
 
@@ -27,14 +27,17 @@ within: "[[Austria (Literary)]]"
 Capital of Tyrol on the river Inn, Austria. See the Travel note [[Innsbruck]] and [[Austria (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | An unchanged station buffet and a golden evening walk give Bryson his first real sense of being in Europe. |
 
 ## Sub-places
+
 _None yet._
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bejymvrsa36tx491hjk0p4)
 
 > I walked through the station at Innsbruck with an almost eerie sense of familiarity

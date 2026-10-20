@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Sicily
-created: 2026-10-19T22:29:06.912Z
-modified: 2026-10-19T22:29:06.912Z
-published: 2026-10-19T22:29:06.912Z
 aliases:
   - Sicilia
+title: Sicily
+created: 2026-10-19T22:29:07.000Z
+modified: 2026-10-19T22:29:07.000Z
+published: 2026-10-19T22:29:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Sicily

@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Sorrento
-created: 2026-10-19T22:29:30.940Z
-modified: 2026-10-19T22:29:30.940Z
-published: 2026-10-19T22:29:30.940Z
 aliases:
   - Piazza Tasso
   - Corso Italia
+title: Sorrento
+created: 2026-10-19T22:29:31.000Z
+modified: 2026-10-19T22:29:31.000Z
+published: 2026-10-19T22:29:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 40.6261
   - 14.3761
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy (Literary)]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Italy (Literary)]]"
 Town on the Bay of Naples, Campania, Italy. Its centre is the Piazza Tasso.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | Love at first sight: the town where Bryson "wanted to live here, starting now". |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b449s1c9z2y6xw0jvzx6nh)
 
 > I fell in love with Sorrento in an instant.
