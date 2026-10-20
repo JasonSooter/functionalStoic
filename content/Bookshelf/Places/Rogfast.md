@@ -1,0 +1,45 @@
+---
+publish: true
+title: Rogfast
+created: 2026-10-20T02:12:09.616Z
+modified: 2026-10-20T02:12:09.616Z
+published: 2026-10-20T02:12:09.616Z
+aliases:
+  - Kvitsøy interchange
+  - Rogfast tunnel
+books:
+  - The MASSIVE Ventilation Shafts Under Norway
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 59.0739,5.4553
+geo_note: article coordinate for the Rogfast tunnel (English Wikipedia); the interchange
+  lies under the island of Kvitsøy
+icon: book
+location:
+  - 59.0739
+  - 5.4553
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Norway (Literary)]]"
+---
+
+# Rogfast
+
+Undersea road tunnel under the Boknafjord in Rogaland, Norway, with an underground interchange beneath the island of Kvitsøy. See [[Norway (Literary)]].
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| The MASSIVE Ventilation Shafts Under Norway | The B1M | subject | Two roundabouts 250 metres under a small island. |
+
+## The MASSIVE Ventilation Shafts Under Norway — The B1M (2026)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxrvp4a7e1v880paqcbj9)
+
+> There's a freaking underground roundabout here.
+
+- **Role:** subject
+- **In the video:** The presenter stands at the bottom of a finished ventilation shaft under the island (spelled "Kavitzoy" in the auto-transcript, population 500). Some 250 m below, the interchange has two roundabouts, a link tunnel and a 4.1 km slip road climbing to the island, with access tunnels and shafts threaded between them, which the video calls a world first.
+- **Why it matters:** The interchange is the video's subject. The text's spellings ("Rockfast", "Kavitzoy") are transcription errors for Rogfast and Kvitsøy.

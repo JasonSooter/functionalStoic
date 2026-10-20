@@ -1,0 +1,46 @@
+---
+publish: true
+title: Sanremo
+created: 2026-10-20T02:08:08.996Z
+modified: 2026-10-20T02:08:08.996Z
+published: 2026-10-20T02:08:08.996Z
+aliases:
+  - San Remo
+  - Hotel Bellevue, San Remo
+books:
+  - "[[The Dry Heart]]"
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 43.8175,7.775
+icon: book
+location:
+  - 43.8175
+  - 7.775
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Italy (Literary)]]"
+---
+
+# Sanremo
+
+Resort town on the Italian Riviera, Liguria. See [[Italy (Literary)]].
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| [[The Dry Heart]] | Natalia Ginzburg | turning point | A windy seaside holiday that ends with the death of the narrator's baby. |
+
+## Sub-places
+_None yet._
+
+## The Dry Heart — Natalia Ginzburg (1947)
+Source: [[The Dry Heart]] · [Readwise highlight](https://read.readwise.io/read/01m5bfwf5pq3h0fgqmpc2r84vj)
+
+> San Remo was very windy.
+
+- **Role:** turning point
+- **In the book:** Late in the novella, the narrator's friend Francesca takes her and the baby to San Remo, a trip the narrator had once said was "the last place in the world I wanted to go to". They stay at the Hotel Bellevue. Francesca, bored by "a resort for doddering old gentlemen", goes boating and dancing while the narrator stays in with the baby and her knitting; Augusto joins them after a fortnight. Here the baby falls ill and dies, and Alberto arrives at dawn.
+- **Why it matters:** Almost every other setting in the book is an unnamed city or a fictional village (Maona); San Remo is the one real, named place, and it is where the marriage's last tie breaks. Afterwards the narrator still sees "the long halls and red-carpeted stairways of the Hotel Bellevue". The book's main city and the narrator's village, Maona, can't be mapped.

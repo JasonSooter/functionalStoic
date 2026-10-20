@@ -2,13 +2,14 @@
 publish: true
 title: Bertoldsbrunnen
 created: 2026-10-19T22:27:43.725Z
-modified: 2026-10-19T22:27:43.725Z
-published: 2026-10-19T22:27:43.725Z
+modified: 2026-10-20T02:10:03.854Z
+published: 2026-10-20T02:10:03.854Z
 aliases:
   - Bertold Fountain
 books:
   - "100 Years of Bus Transport in Freiburg: A History of Technology"
   - "[[Accessibility - Public Transport Without Discrimination Is the Goal]]"
+  - Good advice and positive vibes – Ifete Berisha
 categories:
   - "[[Places]]"
 color: purple
@@ -33,6 +34,7 @@ Fountain and tram stop in Freiburg's old-town pedestrian zone; see [[Freiburg (L
 |---|---|---|---|
 | 100 Years of Bus Transport in Freiburg: A History of Technology | VAG Freiburg | turning point | Starting point of Freiburg's first motor-bus line, in 1925. |
 | [[Accessibility - Public Transport Without Discrimination Is the Goal]] | VAG Freiburg | subject | The pedestrian zone where tram platforms could only be built 16 cm high. |
+| Good advice and positive vibes – Ifete Berisha | VAG Freiburg | setting | The view from the VAG service counter onto the busiest stop in town. |
 
 ## 100 Years of Bus Transport in Freiburg: A History of Technology — VAG Freiburg (2026)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b451fhjxy79cj7h0a50vea)
@@ -51,3 +53,12 @@ Source: [[Accessibility - Public Transport Without Discrimination Is the Goal]] 
 - **Role:** subject
 - **In the article:** VAG's standard platform height is 24 cm, but at Bertoldsbrunnen "No dangerous tripping hazards are to arise in the pedestrian zone", so the platforms stayed at 16 cm. Passengers with reduced mobility therefore often need a ramp: newer trams have a folding ramp at one door, and drivers of older ones carry a portable ramp.
 - **Why it matters:** It's the article's clearest case of a place's character limiting accessibility: a central tram stop inside a pedestrian zone, whose needs compete with level boarding.
+
+## Good advice and positive vibes – Ifete Berisha — VAG Freiburg (2026)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5bfx1vs931a5pqs8xg903f3)
+
+> The view from the pluspunkt window onto the bustle at the Bertoldsbrunnen is just as familiar to Ilfete Berisha as the ride out into the countryside to her workplaces at the valley and mountain stations.
+
+- **Role:** setting
+- **In the article:** A staff profile of a VAG service employee who has worked at the pluspunkt customer counter at the Bertoldsbrunnen since 2013. At the start and end of each month the queue reaches the fountain. She also works shifts at the [[Schauinslandbahn]], riding her e-bike out to Günterstal, and finds the clientele there "more holiday-like and less stressful".
+- **Why it matters:** The busy stop is her main workplace and the contrast to the quiet cable car; the piece is built on that pairing.

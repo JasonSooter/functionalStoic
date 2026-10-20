@@ -1,0 +1,42 @@
+---
+publish: true
+title: Galata Bridge
+created: 2026-10-20T01:29:03.006Z
+modified: 2026-10-20T01:29:03.006Z
+published: 2026-10-20T01:29:03.006Z
+aliases:
+  - Galata Köprüsü
+books:
+  - Neither Here Nor There
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 41.02,28.9731
+icon: book
+location:
+  - 41.02
+  - 28.9731
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Istanbul]]"
+---
+
+# Galata Bridge
+
+The bridge across the Golden Horn in [[Istanbul]], Turkey.
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| Neither Here Nor There | Bill Bryson | setting | Crowds, fishermen and two men leading bears to the station. |
+
+## Neither Here Nor There — Bill Bryson (1991)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5bekmzbgm1zj2stbkk0sv82)
+
+> The Galata bridge swarmed with pedestrians, beggars, vendors, and load bearers.
+
+- **Role:** setting
+- **In the book:** Chapter 22. Amateur fishermen pull "the most poisoned-looking fish I ever hope to see" from the water. At the end of the bridge two men lead brown bears on leashes across the traffic to Sirkeci Station. "No one gave them a second glance."
+- **Why it matters:** The chapter's main picture of the city's chaotic street life, before Bryson retreats into the cool of [[Hagia Sophia]].
