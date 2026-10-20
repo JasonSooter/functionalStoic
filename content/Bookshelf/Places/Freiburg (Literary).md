@@ -2,13 +2,14 @@
 publish: true
 title: Freiburg
 created: 2026-10-19T14:13:04.000Z
-modified: 2026-10-20T01:36:54.385Z
-published: 2026-10-20T01:36:54.385Z
+modified: 2026-10-20T04:36:15.982Z
+published: 2026-10-20T04:36:15.982Z
 aliases:
   - Freiburg im Breisgau (literary places)
 books:
   - "The Tram Network in Transition: Dismantling, Expansion, Future Plans"
   - "Destroyed City, Broken Trams: When Freiburg Lay in Ruins"
+  - "Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben"
 categories:
   - "[[Places]]"
 color: purple
@@ -32,16 +33,21 @@ Freiburg im Breisgau, Jason's home city in the Black Forest. Travel note: [[Frei
 |---|---|---|---|
 | The Tram Network in Transition: Dismantling, Expansion, Future Plans | VAG Freiburg | subject | 125 years of Freiburg trams: built, bombed, cut back in the 1960s, then expanded district by district since 1983. |
 | Destroyed City, Broken Trams: When Freiburg Lay in Ruins | VAG Freiburg | subject | The RAF raid of 27 November 1944 and what it did to the city and its trams. |
+| Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben | Saskia Schuh | subject | How Freiburg's packaging tax is landing with local cafés, bakeries and shops. |
 
 ## Sub-places
 
 - [[Bertoldsbrunnen]]
+- [[Carl-Schurz-Haus]]
+- [[Dietenbach (Freiburg)]]
 - [[Europa-Park Stadion]]
 - [[Freiburg Hauptbahnhof]]
 - [[Landwasser]]
+- [[Messe Freiburg]]
 - [[Mundenhof]]
 - [[Schauinslandbahn]]
 - [[Schwabentor]]
+- [[Stadtgarten (Freiburg)]]
 - [[Theater Freiburg]]
 
 ## The Tram Network in Transition: Dismantling, Expansion, Future Plans — VAG Freiburg (2026)
@@ -62,3 +68,12 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5beympjg925xgn5wqc
 - **Role:** subject
 - **In the article:** A VAG history piece for the raid's 80th anniversary. "Operation Tigerfish" struck between 7:58 and 8:18 p.m. on 27 November 1944: 2,797 dead, almost 10,000 injured, 5,700 apartments destroyed. About 30 trams and three town-gas buses were on the streets; 900 metres of track and much of the overhead line were destroyed, but none of the 344 tram staff were killed. Cars burned in front of the municipal theatre and the main station, and two parked at the Betriebshof-Nord depot were written off. Women conductors walked home past "dark mountains of rubble". Service resumed on 26 May 1945 on the Holzmarkt–Günterstal and Oberlinden–Littenweiler routes.
 - **Why it matters:** The whole city is the subject: the raid is the event the tram network had to be rebuilt from. The article also exists in Reader as a second copy ("fixed preview"), scanned as the same text.
+
+## Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben — Saskia Schuh (2026)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5brfjn4mg6rf6f0xwk9w815)
+
+> In Freiburg seien die Diskussionen auch deutlich häufiger als in Tübingen oder Konstanz, wo es ebenfalls eine Verpackungssteuer gibt.
+
+- **Role:** subject
+- **In the article:** A report on a chamber of commerce (IHK) survey of local businesses about the city's tax on disposable packaging, presented at a bakery on Lehener Straße; Freiburg businesses report more arguments with customers over the tax than in Tübingen or Konstanz, which have the same tax.
+- **Why it matters:** The city's own policy is the subject; the comparison with the other two towns frames Freiburg as the harder case.

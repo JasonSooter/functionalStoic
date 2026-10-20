@@ -2,8 +2,8 @@
 publish: true
 title: Provence
 created: 2026-10-19T22:29:25.712Z
-modified: 2026-10-20T01:38:51.602Z
-published: 2026-10-20T01:38:51.602Z
+modified: 2026-10-20T04:36:06.634Z
+published: 2026-10-20T04:36:06.634Z
 aliases: []
 books: []
 categories:
@@ -23,6 +23,9 @@ Region of south-eastern France; see also the [[France]] travel note. Hub for lit
 ## Sub-places
 
 - [[Brantes]]
+- [[Le Thoronet]]
 - [[Malaucène]]
 - [[Mont Ventoux]]
 - [[Nyons]]
+- [[Sault]]
+- [[Verdon Gorge]]

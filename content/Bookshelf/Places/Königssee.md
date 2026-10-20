@@ -2,13 +2,14 @@
 publish: true
 title: Königssee
 created: 2026-10-20T01:36:22.287Z
-modified: 2026-10-20T01:36:22.287Z
-published: 2026-10-20T01:36:22.287Z
+modified: 2026-10-20T04:22:26.078Z
+published: 2026-10-20T04:22:26.078Z
 aliases:
   - Koenigssee
   - St. Bartholomä
 books:
   - Erinnerungen aus dem Wochenende 17.08.2026
+  - "[[10 Lesser-Known German Cities That Will Amaze You]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -32,6 +33,7 @@ Alpine lake in the Berchtesgaden National Park, [[Bavaria]], Germany, with the p
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Erinnerungen aus dem Wochenende 17.08.2026 | goethe.de | journey waypoint | A boat across the lake, a trumpet echo in the middle, an afternoon at St. Bartholomä. |
+| [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | The steep-walled lake beside Berchtesgaden, crossed by electric boat to St. Bartholomä. |
 
 ## Erinnerungen aus dem Wochenende 17.08.2026 — goethe.de (2026)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5beyaf3902xmt8y4jscb0zy)
@@ -41,3 +43,12 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5beyaf3902xmt8y4js
 - **Role:** journey waypoint
 - **In the article:** The youth course from [[Schloss Stein]] crosses the lake by boat with a guide; in the middle of the lake he plays a trumpet "und die Musik war über den ganzen See zu hören". The destination is the St. Bartholomä peninsula, where the group spends the afternoon. On Sunday the group goes to the Chiemsee instead.
 - **Why it matters:** The weekend's main excursion. The trumpet echo is the one scene that gives the place character in a short post.
+
+## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
+Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Readwise highlight](https://read.readwise.io/read/01m5brfeezksmdtq9647g09qbs)
+
+> Next to Berchtesgaden is Lake Königssee, surrounded by steep rock faces.
+
+- **Role:** subject
+- **In the video:** Part of the Berchtesgaden stop, after the [[Dokumentation Obersalzberg]]: electric boats carry visitors across the lake to the church of St. Bartholomew.
+- **Why it matters:** The scenic half of the Berchtesgaden stop, set against the Obersalzberg's history.

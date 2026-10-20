@@ -2,8 +2,8 @@
 publish: true
 title: Baden-Württemberg
 created: 2026-10-20T01:36:30.191Z
-modified: 2026-10-20T01:36:30.191Z
-published: 2026-10-20T01:36:30.191Z
+modified: 2026-10-20T04:36:14.238Z
+published: 2026-10-20T04:36:14.238Z
 aliases: []
 books: []
 categories:
@@ -21,4 +21,8 @@ tags:
 Germany's south-western state; see [[Freiburg (Literary)]] and the Travel note [[Germany]]. Hub for literary places in the state outside Freiburg itself.
 
 ## Sub-places
+
+- [[Blautopf]]
+- [[Feldberg]]
+- [[Marbach am Neckar]]
 - [[Vörstetten]]

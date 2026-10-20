@@ -2,8 +2,8 @@
 publish: true
 title: Belgium
 created: 2026-10-19T14:07:28.000Z
-modified: 2026-10-19T22:29:44.088Z
-published: 2026-10-19T22:29:44.088Z
+modified: 2026-10-20T04:23:58.820Z
+published: 2026-10-20T04:23:58.820Z
 aliases:
   - Belgium (literary places)
 books: []
@@ -27,4 +27,5 @@ Hub for literary places in Belgium. Travel note: [[Belgium]]. (File named "(Lite
 - [[Bruges]]
 - [[Brussels]]
 - [[Durbuy]]
+- [[Liège]]
 - [[Spa]]

@@ -2,8 +2,8 @@
 publish: true
 title: Berlin
 created: 2026-10-19T22:29:20.344Z
-modified: 2026-10-19T22:29:20.344Z
-published: 2026-10-19T22:29:20.344Z
+modified: 2026-10-20T04:23:54.772Z
+published: 2026-10-20T04:23:54.772Z
 aliases: []
 books: []
 categories:
@@ -22,4 +22,5 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 
 ## Sub-places
 
+- [[Berlin Tegel Airport]]
 - [[Tempelhof Airport]]

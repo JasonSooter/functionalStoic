@@ -1,0 +1,41 @@
+---
+publish: true
+title: Palm Jumeirah
+created: 2026-10-20T04:19:55.015Z
+modified: 2026-10-20T04:19:55.015Z
+published: 2026-10-20T04:19:55.015Z
+aliases: []
+books:
+  - Dubai Has a Sewage Problem
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 25.1181,55.1333
+icon: book
+location:
+  - 25.1181
+  - 55.1333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Dubai]]"
+---
+
+# Palm Jumeirah
+
+Palm-shaped artificial island off the coast of Dubai. See [[Dubai]].
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| Dubai Has a Sewage Problem | The B1M | subject | Even Dubai's most exclusive island had raw sewage on its roads. |
+
+## Dubai Has a Sewage Problem — The B1M (2026)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5breb3a9r524a16kbv9hehd)
+
+> it’s not immune from Dubai’s problematic pong. In 2018 raw sewage was spotted flowing onto
+
+- **Role:** subject
+- **In the video:** An overloaded temporary treatment plant sent raw sewage onto the road on the island's eastern crescent in 2018, and residents complained of smells, blocked pipes and water problems the following year. The video goes on to the new deep tunnel system meant to carry the city's sewage to Jebel Ali.
+- **Why it matters:** It is the vivid proof that the city's sewage failures reach even its showpiece real estate.
