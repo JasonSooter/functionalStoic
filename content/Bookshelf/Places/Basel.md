@@ -2,8 +2,8 @@
 publish: true
 title: Basel
 created: 2026-10-20T01:37:39.000Z
-modified: 2026-10-20T07:21:57.067Z
-published: 2026-10-20T07:21:57.067Z
+modified: 2026-10-20T10:46:04.928Z
+published: 2026-10-20T10:46:04.928Z
 aliases:
   - Bâle
   - Rhine knee
@@ -36,7 +36,7 @@ City on the Rhine where Switzerland, France and Germany meet. See [[Switzerland 
 | [[Why Swimming in the Rhine Is Allowed in Switzerland but Banned in Germany]] | Franziska Müller, Simon Ormiston | subject | The city that made its river swimmable, held up against German cities that ban it. |
 
 ## Sub-places
-_None yet._
+- [[Basel Badischer Bahnhof]]
 
 ## Why swimming in the Rhine is allowed in Switzerland but banned in Germany — Franziska Müller, Simon Ormiston (2026)
 Source: [[Why Swimming in the Rhine Is Allowed in Switzerland but Banned in Germany]] · [Readwise highlight](https://read.readwise.io/read/01m5beyjygrdhbx1d1r2q0fr2y)

@@ -2,8 +2,8 @@
 publish: true
 title: Bavaria
 created: 2026-10-20T01:36:23.000Z
-modified: 2026-10-20T07:55:48.500Z
-published: 2026-10-20T07:55:48.500Z
+modified: 2026-10-20T10:47:23.530Z
+published: 2026-10-20T10:47:23.530Z
 aliases:
   - Bayern
 books: []
@@ -23,6 +23,7 @@ Germany's south-eastern state; see the Travel note [[Germany]]. Hub for literary
 
 ## Sub-places
 
+- [[Alte Mainbrücke]]
 - [[Dokumentation Obersalzberg]]
 - [[Isar (Munich)]]
 - [[Königssee]]

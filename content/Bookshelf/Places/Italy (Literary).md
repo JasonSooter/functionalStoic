@@ -2,8 +2,8 @@
 publish: true
 title: Italy
 created: 2026-10-20T01:38:54.000Z
-modified: 2026-10-20T07:55:51.832Z
-published: 2026-10-20T07:55:51.832Z
+modified: 2026-10-20T10:46:14.684Z
+published: 2026-10-20T10:46:14.684Z
 aliases:
   - Italia
 books: []
@@ -23,6 +23,7 @@ See the [[Italy]] travel note. Hub for literary places in Italy that have no cit
 
 ## Sub-places
 
+- [[Aosta]]
 - [[Aprica Pass]]
 - [[Capri]]
 - [[Castel Gandolfo]]

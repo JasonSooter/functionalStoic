@@ -2,8 +2,8 @@
 publish: true
 title: Basildon
 created: 2026-10-20T02:11:37.000Z
-modified: 2026-10-20T07:21:57.951Z
-published: 2026-10-20T07:21:57.951Z
+modified: 2026-10-20T10:46:26.711Z
+published: 2026-10-20T10:46:26.711Z
 aliases: []
 books:
   - '#084 Keep on doing the (seemingly insignificant) thing you do'
@@ -32,6 +32,10 @@ New town in south [[Essex]], England.
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #084 Keep on doing the (seemingly insignificant) thing you do | Diagram Club | setting | A much-mocked town you can cross almost entirely by traffic-free cycle paths. |
+
+## Sub-places
+
+- [[Langdon Nature Discovery Park]]
 
 ## #084 Keep on doing the (seemingly insignificant) thing you do — Diagram Club (2026)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxkn8pt8a1j3fhtfzp8wx)

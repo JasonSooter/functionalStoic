@@ -2,8 +2,8 @@
 publish: true
 title: Zurich
 created: 2026-10-20T01:37:46.000Z
-modified: 2026-10-20T07:23:46.603Z
-published: 2026-10-20T07:23:46.603Z
+modified: 2026-10-20T10:45:18.901Z
+published: 2026-10-20T10:45:18.901Z
 aliases:
   - Zürich
 books:
@@ -33,7 +33,7 @@ Switzerland's largest city, at the north end of Lake Zurich. See [[Switzerland (
 | Zurich’s Insane Plan To End Traffic | OBF | subject | How votes against burying the trams turned Zurich into a tram-first, car-light city. |
 
 ## Sub-places
-_None yet._
+- [[Zürich Hauptbahnhof]]
 
 ## Zurich’s Insane Plan To End Traffic — OBF (2026)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bez9mchz56x1h0p44p7nmz)

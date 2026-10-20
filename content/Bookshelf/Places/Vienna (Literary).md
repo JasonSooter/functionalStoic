@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Vienna
+created: 2026-10-20T01:27:52.000Z
+modified: 2026-10-20T10:46:12.476Z
+published: 2026-10-20T10:46:12.476Z
 aliases:
   - Wien
   - Ringstrasse
-title: Vienna
-created: 2026-10-20T01:27:52.000Z
-modified: 2026-10-20T01:27:52.000Z
-published: 2026-10-20T01:27:52.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -21,6 +17,10 @@ icon: book
 location:
   - 48.2083
   - 16.3725
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Austria (Literary)]]"
 ---
 
@@ -29,21 +29,20 @@ within: "[[Austria (Literary)]]"
 Capital of Austria on the Danube. See the Travel note [[Vienna]] and [[Austria (Literary)]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | The grandest city Bryson has ever seen, and one of the least welcoming. |
 
 ## Sub-places
-
 - [[Café Central]]
 - [[Café Hawelka]]
 - [[Kunsthistorisches Museum]]
 - [[Prater]]
+- [[Ringstrasse]]
 - [[Sigmund Freud Museum]]
+- [[Wien Westbahnhof]]
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bek8z8snb8p6c4t780jkge)
 
 > Vienna is certainly the grandest city I have ever seen.

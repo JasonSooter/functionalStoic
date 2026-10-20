@@ -2,8 +2,8 @@
 publish: true
 title: Baden-Württemberg
 created: 2026-10-20T01:36:30.000Z
-modified: 2026-10-20T07:55:50.028Z
-published: 2026-10-20T07:55:50.028Z
+modified: 2026-10-20T10:47:09.386Z
+published: 2026-10-20T10:47:09.386Z
 aliases: []
 books: []
 categories:
@@ -25,5 +25,7 @@ Germany's south-western state; see [[Freiburg (Literary)]] and the Travel note [
 - [[Blautopf]]
 - [[Feldberg]]
 - [[Marbach am Neckar]]
+- [[Old Rhine Bridge (Konstanz)]]
 - [[Stuttgart]]
+- [[Taubenkopf wind turbines]]
 - [[Vörstetten]]

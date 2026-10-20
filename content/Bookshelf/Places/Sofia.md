@@ -2,8 +2,8 @@
 publish: true
 title: Sofia
 created: 2026-10-20T01:28:53.000Z
-modified: 2026-10-20T07:41:29.287Z
-published: 2026-10-20T07:41:29.287Z
+modified: 2026-10-20T10:47:21.486Z
+published: 2026-10-20T10:47:21.486Z
 aliases:
   - TSUM
   - TZUM
@@ -37,6 +37,7 @@ Capital of Bulgaria, below Mount Vitosha.
 ## Sub-places
 
 - [[Sofia Central Station]]
+- [[TSUM (Sofia)]]
 - [[Vitosha Boulevard]]
 
 ## Neither Here Nor There — Bill Bryson (1991)

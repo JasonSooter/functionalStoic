@@ -2,8 +2,8 @@
 publish: true
 title: Paris
 created: 2026-10-19T14:14:18.000Z
-modified: 2026-10-20T07:41:31.687Z
-published: 2026-10-20T07:41:31.687Z
+modified: 2026-10-20T10:46:21.471Z
+published: 2026-10-20T10:46:21.471Z
 aliases:
   - Paris (literary places)
 books:
@@ -11,6 +11,7 @@ books:
 categories:
   - "[[Places]]"
 color: purple
+coordinates: 48.8567,2.3522
 icon: book
 location:
   - 48.8567
@@ -19,7 +20,6 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-coordinates: 48.8567,2.3522
 ---
 
 # Paris
@@ -34,9 +34,11 @@ Capital of France. Travel note: [[Paris]]. (File named "(Literary)" to avoid cla
 ## Sub-places
 
 - [[Avenue de la Grande Armée]]
+- [[Centre Pompidou]]
 - [[Île Saint-Louis]]
 - [[Shakespeare and Company]]
 - [[Tour Montparnasse]]
+- [[Vélodrome d'Hiver]]
 
 ## Neither Here Nor There — Bill Bryson (1991)
 

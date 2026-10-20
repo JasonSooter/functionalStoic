@@ -2,8 +2,8 @@
 publish: true
 title: Freiburg
 created: 2026-10-19T14:13:04.000Z
-modified: 2026-10-20T07:40:43.212Z
-published: 2026-10-20T07:40:43.212Z
+modified: 2026-10-20T10:47:08.334Z
+published: 2026-10-20T10:47:08.334Z
 aliases:
   - Freiburg im Breisgau (literary places)
 books:
@@ -46,13 +46,17 @@ Freiburg im Breisgau, Jason's home city in the Black Forest. Travel note: [[Frei
 - [[Dietenbach (Freiburg)]]
 - [[Europa-Park Stadion]]
 - [[Freiburg Hauptbahnhof]]
+- [[Hirschenhofweg mobility station]]
 - [[Landwasser]]
+- [[Maria-von-Rudloff-Platz]]
 - [[Messe Freiburg]]
 - [[Mundenhof]]
 - [[Schauinslandbahn]]
 - [[Schwabentor]]
 - [[Stadtgarten (Freiburg)]]
+- [[Stühlinger Brücke]]
 - [[Theater Freiburg]]
+- [[Waldsee (Freiburg)]]
 
 ## The Tram Network in Transition: Dismantling, Expansion, Future Plans — VAG Freiburg (2026)
 

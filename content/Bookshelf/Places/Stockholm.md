@@ -2,8 +2,8 @@
 publish: true
 title: Stockholm
 created: 2026-10-20T01:30:13.000Z
-modified: 2026-10-20T07:39:22.869Z
-published: 2026-10-20T07:39:22.869Z
+modified: 2026-10-20T10:46:34.735Z
+published: 2026-10-20T10:46:34.735Z
 aliases: []
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
@@ -36,6 +36,7 @@ Not pinned yet: Djurgården, the island park where Bryson spends a Sunday mornin
 
 ## Sub-places
 
+- [[Djurgården]]
 - [[Gamla stan]]
 - [[Hötorget metro station]]
 - [[Kungsträdgården metro station]]
