@@ -2,8 +2,8 @@
 publish: true
 title: Washington, D.C.
 created: 2026-10-20T10:48:35.885Z
-modified: 2026-10-20T10:48:35.885Z
-published: 2026-10-20T10:48:35.885Z
+modified: 2026-10-20T13:49:24.734Z
+published: 2026-10-20T13:49:24.734Z
 aliases: []
 books: []
 categories:
@@ -21,5 +21,7 @@ tags:
 Capital of the United States. Hub for literary places in the region.
 
 ## Sub-places
+
+- [[Rubell Museum]]
 - [[Washington Union Station]]
 - [[White House]]

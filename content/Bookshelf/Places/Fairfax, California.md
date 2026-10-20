@@ -2,8 +2,8 @@
 publish: true
 title: Fairfax, California
 created: 2026-10-20T07:36:30.694Z
-modified: 2026-10-20T07:36:30.694Z
-published: 2026-10-20T07:36:30.694Z
+modified: 2026-10-20T13:49:06.506Z
+published: 2026-10-20T13:49:06.506Z
 aliases:
   - Fairfax
   - Repack
@@ -33,6 +33,10 @@ Small town in Marin County at the foot of Mount Tamalpais, north of San Francisc
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike]] | Robert Penn | setting | Gravy's wheel workshop at the Fairfax Cyclery, and the Repack descent above town. |
+
+## Sub-places
+- [[Fairfax Cyclery]]
+- [[Repack]]
 
 ## It's All About the Bike — Robert Penn (2010)
 

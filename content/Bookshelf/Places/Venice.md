@@ -2,8 +2,8 @@
 publish: true
 title: Venice
 created: 2026-10-20T07:53:09.271Z
-modified: 2026-10-20T07:53:09.271Z
-published: 2026-10-20T07:53:09.271Z
+modified: 2026-10-20T13:49:05.382Z
+published: 2026-10-20T13:49:05.382Z
 aliases:
   - Venezia
   - Lido
@@ -38,7 +38,10 @@ City on islands in the Venetian lagoon, north-eastern Italy, with the Lido as it
 ## Sub-places
 
 - [[Grand Canal (Venice)]]
+- [[Hôtel des Bains]]
+- [[Lido di Venezia]]
 - [[Piazza San Marco]]
+- [[St Mark's Basilica]]
 - [[Venezia Santa Lucia railway station]]
 
 ## Death in Venice — Thomas Mann (1912)

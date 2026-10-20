@@ -2,8 +2,8 @@
 publish: true
 title: Copenhagen
 created: 2026-10-19T22:28:53.000Z
-modified: 2026-10-20T07:22:11.894Z
-published: 2026-10-20T07:22:11.894Z
+modified: 2026-10-20T13:49:34.030Z
+published: 2026-10-20T13:49:34.030Z
 aliases:
   - København
 books:
@@ -37,6 +37,7 @@ Capital of Denmark; see the [[Copenhagen]] travel note. Hub for literary places 
 
 - [[Hirschsprung Collection]]
 - [[Nyhavn]]
+- [[Nørrebrogade]]
 - [[Tivoli Gardens]]
 
 ## #080 Cycling in Copenhagen — Diagram Club (2026)

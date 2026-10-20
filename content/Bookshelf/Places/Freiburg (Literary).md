@@ -2,8 +2,8 @@
 publish: true
 title: Freiburg
 created: 2026-10-19T14:13:04.000Z
-modified: 2026-10-20T10:47:08.334Z
-published: 2026-10-20T10:47:08.334Z
+modified: 2026-10-20T13:47:43.108Z
+published: 2026-10-20T13:47:43.108Z
 aliases:
   - Freiburg im Breisgau (literary places)
 books:
@@ -11,6 +11,7 @@ books:
   - "Destroyed City, Broken Trams: When Freiburg Lay in Ruins"
   - "Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben"
   - "Verdi-Streik: Am Montag fahren in Freiburg keine Busse und Bahnen"
+  - Germany's "Green" City (with more bikes than cars!)
 categories:
   - "[[Places]]"
 color: purple
@@ -37,6 +38,7 @@ Freiburg im Breisgau, Jason's home city in the Black Forest. Travel note: [[Frei
 | Destroyed City, Broken Trams: When Freiburg Lay in Ruins | VAG Freiburg | subject | The RAF raid of 27 November 1944 and what it did to the city and its trams. |
 | Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben | Saskia Schuh | subject | How Freiburg's packaging tax is landing with local cafés, bakeries and shops. |
 | Verdi-Streik: Am Montag fahren in Freiburg keine Busse und Bahnen | Matthias Joers | subject | A day-long strike stops the city's trams and almost all its buses. |
+| Germany's "Green" City (with more bikes than cars!) | Not Just Bikes | subject | A video tour of Freiburg as a car-light model city. |
 
 ## Sub-places
 
@@ -46,16 +48,21 @@ Freiburg im Breisgau, Jason's home city in the Black Forest. Travel note: [[Frei
 - [[Dietenbach (Freiburg)]]
 - [[Europa-Park Stadion]]
 - [[Freiburg Hauptbahnhof]]
+- [[Friedrichsbau Kino]]
 - [[Hirschenhofweg mobility station]]
 - [[Landwasser]]
 - [[Maria-von-Rudloff-Platz]]
 - [[Messe Freiburg]]
 - [[Mundenhof]]
+- [[Opfinger See bus stop]]
+- [[Reichsgrafenstraße]]
 - [[Schauinslandbahn]]
 - [[Schwabentor]]
 - [[Stadtgarten (Freiburg)]]
 - [[Stühlinger Brücke]]
 - [[Theater Freiburg]]
+- [[Tunisee]]
+- [[Vauban]]
 - [[Waldsee (Freiburg)]]
 
 ## The Tram Network in Transition: Dismantling, Expansion, Future Plans — VAG Freiburg (2026)
@@ -94,3 +101,12 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5c3pvxg8dbakgddscw
 - **Role:** subject
 - **In the article:** The Freiburger Wochenbericht reports that the VAG will be on strike all day on Monday, 2 February: no VAG trams and only a very few buses run. It lists which lines are unaffected or partly running and notes that the Breisgau S-Bahn and Deutsche Bahn regional trains still reach Freiburg.
 - **Why it matters:** The whole city's public transport is the subject; the strike shows how much daily life depends on the network the VAG history pieces describe.
+
+## Germany's "Green" City (with more bikes than cars!) — Not Just Bikes
+Source: [Readwise highlight](https://read.readwise.io/read/01m5cre8ada2akhvetfg3he3th)
+
+> This is Freiburg im Breisgau, a city in the Black Forest.
+
+- **Role:** subject
+- **In the video:** A tour of the city as a model of car-light planning: the pedestrianised old town, the tram network kept and expanded, rebuilding after the war, the [[Vauban]] district and the main station.
+- **Why it matters:** The whole city is the subject, held up as proof that a mid-sized German city can have more bikes than cars.

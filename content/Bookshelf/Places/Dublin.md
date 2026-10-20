@@ -2,8 +2,8 @@
 publish: true
 title: Dublin
 created: 2026-10-20T07:37:20.068Z
-modified: 2026-10-20T07:37:20.068Z
-published: 2026-10-20T07:37:20.068Z
+modified: 2026-10-20T13:49:09.650Z
+published: 2026-10-20T13:49:09.650Z
 aliases:
   - Baile Átha Cliath
 books:
@@ -34,6 +34,7 @@ Capital of Ireland, on the River Liffey. See [[Ireland]].
 
 ## Sub-places
 
+- [[Albert College Park]]
 - [[St Stephen's Green]]
 
 ## Ireland’s $27BN Mission to Save Dublin — The B1M (2026)

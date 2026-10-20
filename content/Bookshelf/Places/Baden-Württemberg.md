@@ -2,8 +2,8 @@
 publish: true
 title: Baden-Württemberg
 created: 2026-10-20T01:36:30.000Z
-modified: 2026-10-20T10:47:09.386Z
-published: 2026-10-20T10:47:09.386Z
+modified: 2026-10-20T13:49:11.430Z
+published: 2026-10-20T13:49:11.430Z
 aliases: []
 books: []
 categories:
@@ -22,8 +22,10 @@ Germany's south-western state; see [[Freiburg (Literary)]] and the Travel note [
 
 ## Sub-places
 
+- [[Altbach station]]
 - [[Blautopf]]
 - [[Feldberg]]
+- [[Mannheim]]
 - [[Marbach am Neckar]]
 - [[Old Rhine Bridge (Konstanz)]]
 - [[Stuttgart]]

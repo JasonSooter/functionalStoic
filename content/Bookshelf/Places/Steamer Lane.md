@@ -1,0 +1,42 @@
+---
+publish: true
+title: Steamer Lane
+created: 2026-10-20T13:45:34.397Z
+modified: 2026-10-20T13:45:34.397Z
+published: 2026-10-20T13:45:34.397Z
+aliases: []
+books:
+  - ‘Feisty’ Otters Are Once Again Hijacking Surfboards in Santa Cruz
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 36.9538,-122.0241
+geo_source: GeoNames 5398769
+icon: newspaper
+location:
+  - 36.9538
+  - -122.0241
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[California (Literary)]]"
+---
+
+# Steamer Lane
+
+Surf break at Lighthouse Point, Santa Cruz, [[California (Literary)|California]].
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| ‘Feisty’ Otters Are Once Again Hijacking Surfboards in Santa Cruz | Margherita Bassi | setting | Otter steals a surfer's board. |
+
+## ‘Feisty’ Otters Are Once Again Hijacking Surfboards in Santa Cruz — Margherita Bassi (2025)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5crdx8bz6ktpabvjeae173v)
+
+> While surfing at Steamer Lane, a popular surf spot, 21-year-old Isabella Orduna felt a “nip” on her foot.
+
+- **Role:** setting
+- **In the article:** A surfer at Steamer Lane feels a nip, finds a sea otter on her board and is helped ashore by a marine safety officer who retrieves the board; signs at the spot warn about otters.
+- **Why it matters:** The named site of the central incident, and a recurring otter hot spot.

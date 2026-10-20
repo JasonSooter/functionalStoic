@@ -2,8 +2,8 @@
 publish: true
 title: Catalonia
 created: 2026-10-20T07:34:59.936Z
-modified: 2026-10-20T07:34:59.936Z
-published: 2026-10-20T07:34:59.936Z
+modified: 2026-10-20T13:49:12.446Z
+published: 2026-10-20T13:49:12.446Z
 aliases:
   - Catalunya
   - Cataluña
@@ -25,4 +25,6 @@ Autonomous community in north-eastern Spain. See [[Spain]]. Hub for literary pla
 ## Sub-places
 
 - [[Coll de Banyuls]]
+- [[Coll de Manrella]]
+- [[El Mont]]
 - [[Girona]]

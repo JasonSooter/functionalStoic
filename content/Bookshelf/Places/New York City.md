@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-20T10:45:11.461Z
-published: 2026-10-20T10:45:11.461Z
+modified: 2026-10-20T13:49:16.638Z
+published: 2026-10-20T13:49:16.638Z
 aliases:
   - NYC
 books:
@@ -36,8 +36,10 @@ See the Travel note [[New York]]. Hub for literary places in the city.
 
 - [[40 Wall Street]]
 - [[Brooklyn]]
+- [[Central Park]]
 - [[Chrysler Building]]
 - [[Madison Square Garden (1890)]]
+- [[Myka]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Readwise highlight](https://read.readwise.io/read/01m5ce5e0fq0803z77naxg4e2r)

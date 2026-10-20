@@ -2,8 +2,8 @@
 publish: true
 title: Italy
 created: 2026-10-20T01:38:54.000Z
-modified: 2026-10-20T10:46:14.684Z
-published: 2026-10-20T10:46:14.684Z
+modified: 2026-10-20T13:49:36.970Z
+published: 2026-10-20T13:49:36.970Z
 aliases:
   - Italia
 books: []
@@ -29,6 +29,7 @@ See the [[Italy]] travel note. Hub for literary places in Italy that have no cit
 - [[Castel Gandolfo]]
 - [[Como]]
 - [[Dolomites]]
+- [[Lazio]]
 - [[Milan]]
 - [[Naples]]
 - [[Recanati]]
@@ -37,3 +38,4 @@ See the [[Italy]] travel note. Hub for literary places in Italy that have no cit
 - [[South Tyrol]]
 - [[Stelvio Pass]]
 - [[Venice]]
+- [[Vicenza]]
