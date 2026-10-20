@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Silicon Valley
-created: 2026-10-20T19:39:22.990Z
-modified: 2026-10-20T19:39:22.990Z
-published: 2026-10-20T19:39:22.990Z
+created: 2026-10-20T19:39:23.000Z
+modified: 2026-10-20T19:39:23.000Z
+published: 2026-10-20T19:39:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Breakneck
@@ -17,10 +21,6 @@ icon: book
 location:
   - 37.4049
   - -122.1111
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California (Literary)]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[California (Literary)]]"
 Region of the San Francisco Peninsula and Santa Clara Valley, [[California (Literary)|California]], USA. The pin is the region's representative point.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | setting | Rich, drab and dysfunctional, the foil to China’s building. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcn9b7aw00ycv2w2cc18pg)
 
 > Silicon Valley can be an amazingly drab place.

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Zurich
-created: 2026-10-20T01:37:46.000Z
-modified: 2026-10-20T10:45:18.901Z
-published: 2026-10-20T10:45:18.901Z
 aliases:
   - Zürich
+title: Zurich
+created: 2026-10-20T01:37:46.000Z
+modified: 2026-10-20T10:45:19.000Z
+published: 2026-10-20T10:45:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Zurich’s Insane Plan To End Traffic
 categories:
@@ -16,10 +20,6 @@ icon: video
 location:
   - 47.3744
   - 8.5411
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland (Literary)]]"
 ---
 
@@ -28,14 +28,17 @@ within: "[[Switzerland (Literary)]]"
 Switzerland's largest city, at the north end of Lake Zurich. See [[Switzerland (Literary)]] and the Travel note [[Switzerland]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Zurich’s Insane Plan To End Traffic | OBF | subject | How votes against burying the trams turned Zurich into a tram-first, car-light city. |
 
 ## Sub-places
+
 - [[Zürich Hauptbahnhof]]
 
 ## Zurich’s Insane Plan To End Traffic — OBF (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bez9mchz56x1h0p44p7nmz)
 
 > At peak times, up to 17,000 people an hour converge on the square in front of the main station.

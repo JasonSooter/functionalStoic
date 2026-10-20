@@ -1,21 +1,21 @@
 ---
 publish: true
-title: Catalonia
-created: 2026-10-20T07:34:59.936Z
-modified: 2026-10-20T13:49:12.446Z
-published: 2026-10-20T13:49:12.446Z
 aliases:
   - Catalunya
   - Cataluña
+title: Catalonia
+created: 2026-10-20T07:35:00.000Z
+modified: 2026-10-20T13:49:12.000Z
+published: 2026-10-20T13:49:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Catalonia

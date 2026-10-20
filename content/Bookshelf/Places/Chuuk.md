@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Chuuk
-created: 2026-10-20T07:35:14.004Z
-modified: 2026-10-20T07:35:14.004Z
-published: 2026-10-20T07:35:14.004Z
 aliases:
   - Truk
+title: Chuuk
+created: 2026-10-20T07:35:14.000Z
+modified: 2026-10-20T07:35:14.000Z
+published: 2026-10-20T07:35:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Chuuk

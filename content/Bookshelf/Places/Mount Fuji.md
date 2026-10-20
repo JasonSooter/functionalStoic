@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Mount Fuji
-created: 2026-10-20T07:36:20.346Z
-modified: 2026-10-20T07:36:20.346Z
-published: 2026-10-20T07:36:20.346Z
 aliases:
   - Fuji
   - Fujisan
+title: Mount Fuji
+created: 2026-10-20T07:36:20.000Z
+modified: 2026-10-20T07:36:20.000Z
+published: 2026-10-20T07:36:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Hunchback]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 35.3608
   - 138.7275
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Japan]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Japan]]"
 Japan's highest mountain, on the border of Shizuoka and Yamanashi prefectures. See [[Japan]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Hunchback]] | Saou Ichikawa | backdrop | Faintly visible from Shaka's window, on the side she cannot turn her head toward. |
 
 ## Hunchback — Saou Ichikawa (2023)
+
 Source: [[Hunchback]] · [Readwise highlight](https://read.readwise.io/read/01m5c3nx2vqa95zd0zg8fnqtc4)
 
 > On clear days, the peak of Mount Fuji was faintly visible from my west-facing floor-to-ceiling window, but west lay to the right, meaning I couldn’t turn my head in that direction.

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Binhai
-created: 2026-10-20T19:39:14.458Z
-modified: 2026-10-20T19:39:14.458Z
-published: 2026-10-20T19:39:14.458Z
 aliases:
   - Binhai New Area
+title: Binhai
+created: 2026-10-20T19:39:14.000Z
+modified: 2026-10-20T19:39:14.000Z
+published: 2026-10-20T19:39:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Breakneck
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 39.0088
   - 117.7106
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tianjin]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Tianjin]]"
 Binhai New Area, the coastal development zone of [[Tianjin]], China.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | subject | "China's Manhattan": empty towers and a library of fake spines. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcnmvf3hxkwms3bebkn06p)
 
 > The skyscrapers in Binhai, the zone that Tianjin has designated a financial district, are mostly empty.

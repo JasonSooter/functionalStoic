@@ -1,14 +1,17 @@
 ---
 publish: true
-title: Homestake (Eagle County)
-created: 2026-10-20T19:35:06.929Z
-modified: 2026-10-20T19:35:06.929Z
-published: 2026-10-20T19:35:06.929Z
 aliases:
   - Homestake Road
+title: Homestake (Eagle County)
+created: 2026-10-20T19:35:07.000Z
+modified: 2026-10-20T19:35:07.000Z
+published: 2026-10-20T19:35:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - Is nature calling while you’re in nature? More and more, Colorado officials are
-    asking you to pack your own poop out
+  - Is nature calling while you’re in nature? More and more, Colorado officials are asking you to pack your own poop out
 categories:
   - "[[Places]]"
 color: purple
@@ -19,10 +22,6 @@ icon: newspaper
 location:
   - 39.5075
   - -106.3786
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Colorado]]"
 Popular dispersed-camping area along Homestake Road in the Eagle–Holy Cross Ranger District, Eagle County, [[Colorado]], USA. The pin is on Homestake Creek.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Is nature calling while you’re in nature? More and more, Colorado officials are asking you to pack your own poop out | Stina Sieg | setting | The forest spot where campers must now pack out their waste. |
 
 ## Is nature calling while you’re in nature? More and more, Colorado officials are asking you to pack your own poop out — Stina Sieg (2022)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcj5gaweq6zahzfcvvk5ty)
 
 > In one particularly popular spot in the forest, known as Homestake, users are now required to take their human waste out with them.

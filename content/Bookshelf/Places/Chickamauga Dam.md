@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Chickamauga Dam
-created: 2026-10-20T10:42:14.620Z
-modified: 2026-10-20T10:42:14.620Z
-published: 2026-10-20T10:42:14.620Z
+created: 2026-10-20T10:42:15.000Z
+modified: 2026-10-20T10:42:15.000Z
+published: 2026-10-20T10:42:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Sawing a Dam in Half (on Purpose)
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 35.1039
   - -85.2294
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tennessee]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Tennessee]]"
 TVA dam on the Tennessee River near Chattanooga, [[Tennessee]], USA.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sawing a Dam in Half (on Purpose) | Practical Engineering | subject | A second slot cut, done without a cofferdam. |
 
 ## Sawing a Dam in Half (on Purpose) — Practical Engineering (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce3k5amky4b1gh8sdwktt2)
 
 > At Chickamauga Dam, the geometry made a cofferdam less feasible.

@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Venice
-created: 2026-10-20T07:53:09.271Z
-modified: 2026-10-20T13:49:05.382Z
-published: 2026-10-20T13:49:05.382Z
 aliases:
   - Venezia
   - Lido
   - Lido di Venezia
   - Hôtel des Bains
+title: Venice
+created: 2026-10-20T07:53:09.000Z
+modified: 2026-10-20T13:49:05.000Z
+published: 2026-10-20T13:49:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Death in Venice]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 45.4375
   - 12.3358
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy (Literary)]]"
 ---
 
@@ -31,6 +31,7 @@ within: "[[Italy (Literary)]]"
 City on islands in the Venetian lagoon, north-eastern Italy, with the Lido as its sea barrier. See [[Italy (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Death in Venice]] | Thomas Mann | setting | The Lido hotel and beach where Aschenbach watches Tadzio and dies, across the water from a city hiding cholera. |
@@ -45,6 +46,7 @@ City on islands in the Venetian lagoon, north-eastern Italy, with the Lido as it
 - [[Venezia Santa Lucia railway station]]
 
 ## Death in Venice — Thomas Mann (1912)
+
 Source: [[Death in Venice]] · [Readwise highlight](https://read.readwise.io/read/01m5c4pzc9fx9xwzs5bn02gkpc)
 
 > An autumnal, off-season mood seemed to lie upon the once so colorful and animated, now all but deserted pleasure haunt, its sand no longer kept clean.

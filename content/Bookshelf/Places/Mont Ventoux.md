@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Mont Ventoux
-created: 2026-10-19T22:29:50.000Z
-modified: 2026-10-20T19:40:58.476Z
-published: 2026-10-20T19:40:58.476Z
 aliases:
   - Ventoux
   - Bédoin
   - Malaucène
+title: Mont Ventoux
+created: 2026-10-19T22:29:50.000Z
+modified: 2026-10-20T19:40:58.000Z
+published: 2026-10-20T19:40:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Ventoux, Malaucene
   - "[[It's All About the Bike]]"
@@ -23,10 +27,6 @@ icon: book
 location:
   - 44.1744
   - 5.2789
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 ---
 
@@ -45,6 +45,7 @@ Mountain in the Vaucluse, climbed by cyclists from Bédoin and Malaucène, among
 | Gorges de la Nesque to Sault & Ventoux | Mostly Bikes x Me | journey waypoint | An unplanned summit on the way home, quiet in summer as in winter. |
 
 ## Ventoux, Malaucene — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b459h3pz6cdvmf96fcqca1)
 
 > Bedoin is the classic climb, and if you want to gawk at l'émetteur, then definitely, Bedoin. Malaucene is more scenic though.
@@ -55,6 +56,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5b459h3pz6cdvmf96f
 - **Real vs. fictional:** The post says only "Ventoux"; the mountain, its Provence setting and the summit pin come from the place names and Wikipedia.
 
 ## It's All About the Bike — Robert Penn (2010)
+
 Source: [[It's All About the Bike]] · [Readwise highlight](https://read.readwise.io/read/01m5bs7k66e8kjxaqtp3h0px2a)
 
 > they really did find his body in the road, with amphetamines and cognac in his blood, 1 mile from the top of the infamous Mont Ventoux.
@@ -64,6 +66,7 @@ Source: [[It's All About the Bike]] · [Readwise highlight](https://read.readwis
 - **Why it matters:** A brief illustration of cycling's bond with suffering; the mountain's reputation does the work.
 
 ## Ventoux Three Ways — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5d203vnv4s54m3hg3c15pck)
 
 > The climb from Sault has never been so grueling.
@@ -73,6 +76,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5d203vnv4s54m3hg3c
 - **Why it matters:** The mountain is the whole post; the text gives only this verdict.
 
 ## Bédoin, Ventoux, sides of dirt — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5d205a4s945e2z12gr5czpj)
 
 > Quick spin up Ventoux with some dirt rambles thrown in for extra fun time.
@@ -82,6 +86,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5d205a4s945e2z12gr
 - **Why it matters:** One more ride on the writer's home mountain that season; the text is a single line.
 
 ## Gorges de la Nesque to Sault & Ventoux — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcmqkq8btry0d23tzecvvf)
 
 > The summit in summer is a reminder of how special and quiet it is in winter.

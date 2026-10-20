@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Cannes
-created: 2026-10-20T13:43:09.576Z
-modified: 2026-10-20T13:43:09.576Z
-published: 2026-10-20T13:43:09.576Z
+created: 2026-10-20T13:43:10.000Z
+modified: 2026-10-20T13:43:10.000Z
+published: 2026-10-20T13:43:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Bonjour Tristesse]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 43.5513
   - 7.0128
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[French Riviera]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[French Riviera]]"
 Resort city on the [[French Riviera]], France.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bonjour Tristesse]] | Françoise Sagan | turning point | Casino night that unites Raymond and Anne. |
 
 ## Bonjour Tristesse — Françoise Sagan (1954)
+
 Source: [[Bonjour Tristesse]] · [Readwise highlight](https://read.readwise.io/read/01m5crck4j9jwfqa6vrxczaw4k)
 
 > One morning my father decided that we were going to spend the evening in Cannes, gaming and dancing.

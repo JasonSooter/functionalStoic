@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Granada
-created: 2026-10-20T07:53:43.164Z
-modified: 2026-10-20T07:53:43.164Z
-published: 2026-10-20T07:53:43.164Z
+created: 2026-10-20T07:53:43.000Z
+modified: 2026-10-20T07:53:43.000Z
+published: 2026-10-20T07:53:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Granada

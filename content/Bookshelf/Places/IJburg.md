@@ -1,9 +1,13 @@
 ---
 publish: true
 title: IJburg
-created: 2026-10-20T10:42:20.508Z
-modified: 2026-10-20T10:42:20.508Z
-published: 2026-10-20T10:42:20.508Z
+created: 2026-10-20T10:42:21.000Z
+modified: 2026-10-20T10:42:21.000Z
+published: 2026-10-20T10:42:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Absolute Best Transportation for Cities (trams)
@@ -16,10 +20,6 @@ icon: video
 location:
   - 52.3546
   - 4.9983
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Amsterdam]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Amsterdam]]"
 Neighbourhood on artificial islands in eastern [[Amsterdam]], Netherlands.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Absolute Best Transportation for Cities (trams) | Not Just Bikes | subject | Built tram-first: the line opened before the homes. |
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce4b0je9amht5k33btx74k)
 
 > I’ve talked before about IJburg in Amsterdam.

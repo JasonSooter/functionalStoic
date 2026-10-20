@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Coney Island
-created: 2026-10-20T19:38:26.107Z
-modified: 2026-10-20T19:38:26.107Z
-published: 2026-10-20T19:38:26.107Z
+created: 2026-10-20T19:38:26.000Z
+modified: 2026-10-20T19:38:26.000Z
+published: 2026-10-20T19:38:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 40.575
   - -73.9825
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Brooklyn]]"
 Seaside amusement district at the southern end of [[Brooklyn]], New York City, USA.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | setting | Saturday outings with their father: rides they can't afford and a hot dog. |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Readwise highlight](https://read.readwise.io/read/01m5dcmxecwsbrkjmk62cyrjw1)
 
 > On Saturdays, my father took us to Coney Island, the three of us riding the double L train to the F train to the last stop.

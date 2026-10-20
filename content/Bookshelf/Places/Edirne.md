@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Edirne
-created: 2026-10-20T07:34:54.356Z
-modified: 2026-10-20T07:34:54.356Z
-published: 2026-10-20T07:34:54.356Z
 aliases:
   - Adrianople
+title: Edirne
+created: 2026-10-20T07:34:54.000Z
+modified: 2026-10-20T07:34:54.000Z
+published: 2026-10-20T07:34:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Edirne

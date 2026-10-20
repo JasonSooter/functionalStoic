@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Houten
-created: 2026-10-20T13:45:59.978Z
-modified: 2026-10-20T13:45:59.978Z
-published: 2026-10-20T13:45:59.978Z
+created: 2026-10-20T13:46:00.000Z
+modified: 2026-10-20T13:46:00.000Z
+published: 2026-10-20T13:46:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Best-Designed Town in the Netherlands (and therefore, the world)
@@ -16,10 +20,6 @@ icon: video
 location:
   - 52.033
   - 5.167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Netherlands (Literary)]]"
 ---
 
@@ -28,14 +28,17 @@ within: "[[Netherlands (Literary)]]"
 Planned town just south-east of Utrecht, [[Netherlands (Literary)|Netherlands]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Best-Designed Town in the Netherlands (and therefore, the world) | Not Just Bikes | subject | Model of a car-light, bike-first town. |
 
 ## Sub-places
+
 - [[Houten Castellum railway station]]
 
 ## The Best-Designed Town in the Netherlands (and therefore, the world) — Not Just Bikes
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5cre301w6dc77g0pbxdfp2w)
 
 > This is Houten. It's a town just outside of Utrecht, in the Netherlands.

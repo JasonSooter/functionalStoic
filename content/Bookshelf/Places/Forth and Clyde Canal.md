@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Forth and Clyde Canal
-created: 2026-10-20T13:44:26.559Z
-modified: 2026-10-20T13:44:26.559Z
-published: 2026-10-20T13:44:26.559Z
+created: 2026-10-20T13:44:27.000Z
+modified: 2026-10-20T13:44:27.000Z
+published: 2026-10-20T13:44:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Hidden Engineering Behind the Falkirk Wheel]]"
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 55.9333
   - -4.4833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Scotland]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Scotland]]"
 Canal across central [[Scotland]] from the Firth of Forth to the Clyde.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hidden Engineering Behind the Falkirk Wheel]] | Wesley Crump | backdrop | The lower canal the Wheel serves. |
 
 ## The Hidden Engineering Behind the Falkirk Wheel — Wesley Crump (2025)
+
 Source: [[The Hidden Engineering Behind the Falkirk Wheel]] · [Readwise highlight](https://read.readwise.io/read/01m5crd9asm9sv12mk1v7as13w)
 
 > The Forth and Clyde Canal, as its name strongly suggests, connects the Firth of Forth to the Firth of Clyde.

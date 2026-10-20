@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Oxagon
-created: 2026-10-20T10:42:11.228Z
-modified: 2026-10-20T10:42:11.228Z
-published: 2026-10-20T10:42:11.228Z
+created: 2026-10-20T10:42:11.000Z
+modified: 2026-10-20T10:42:11.000Z
+published: 2026-10-20T10:42:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Is The Line Really Dead?
@@ -12,10 +16,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: video
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Saudi Arabia]]"
 ---
 
@@ -24,11 +24,13 @@ within: "[[Saudi Arabia]]"
 Planned port and industrial city in NEOM, on the Red Sea coast of [[Saudi Arabia]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Is The Line Really Dead? | The B1M | turning point | Where the seawater and concrete supply chain for The Line is meant to begin. |
 
 ## Is The Line Really Dead? — The B1M (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce3frfqbc8346hd1bcgf05)
 
 > It all begins here at The Oxagon, another of NEOM’s megaprojects

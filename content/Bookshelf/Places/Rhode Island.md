@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Rhode Island
-created: 2026-10-20T10:42:27.048Z
-modified: 2026-10-20T10:42:27.048Z
-published: 2026-10-20T10:42:27.048Z
+created: 2026-10-20T10:42:27.000Z
+modified: 2026-10-20T10:42:27.000Z
+published: 2026-10-20T10:42:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - What if everyone on Earth was in the same place and jumped at the same time?
@@ -17,10 +21,6 @@ icon: video
 location:
   - 41.7504
   - -71.4998
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Rhode Island
@@ -28,14 +28,17 @@ tags:
 Smallest US state, in New England.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What if everyone on Earth was in the same place and jumped at the same time? | xkcd's What If? | setting | Everyone on Earth packed into one small state. |
 
 ## Sub-places
+
 _None yet._
 
 ## What if everyone on Earth was in the same place and jumped at the same time? — xkcd's What If? (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce4phpcth4m2v8qezr89qn)
 
 > This crowd takes up an area the size of Rhode Island.

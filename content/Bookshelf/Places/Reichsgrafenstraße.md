@@ -1,28 +1,27 @@
 ---
 publish: true
-title: Reichsgrafenstraße
-created: 2026-10-20T13:41:55.301Z
-modified: 2026-10-20T13:41:55.301Z
-published: 2026-10-20T13:41:55.301Z
 aliases:
   - Reichsgrafenstrasse
+title: Reichsgrafenstraße
+created: 2026-10-20T13:41:55.000Z
+modified: 2026-10-20T13:41:55.000Z
+published: 2026-10-20T13:41:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Verwaltungsgericht weist Klage gegen Parkraumordnung in der Wiehre zurück
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 47.9863,7.8576
-geo_note: approximate (centre of the Wiehre district; no standard point is printed
-  for the street)
+geo_note: approximate (centre of the Wiehre district; no standard point is printed for the street)
 geo_source: GeoNames 2809510
 icon: newspaper
 location:
   - 47.9863
   - 7.8576
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg (Literary)]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Freiburg (Literary)]]"
 Street in the Wiehre district of [[Freiburg (Literary)|Freiburg]], Germany.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Verwaltungsgericht weist Klage gegen Parkraumordnung in der Wiehre zurück | Wochenbericht | subject | Test case of the Wiehre parking ruling. |
 
 ## Verwaltungsgericht weist Klage gegen Parkraumordnung in der Wiehre zurück — Wochenbericht (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5crbsavw02nmftp2s7f8xd0)
 
 > So zum Beispiel in der Reichsgrafenstraße, wo bis vor einem Jahr auf beiden Straßenseiten bewirtschaftete Parkplätze eingerichtet waren, bei denen es seit Jahrzehnten geduldet wurde, dass Autos auch teilweise auf dem Gehweg stehen.

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Kungsträdgården metro station
-created: 2026-10-20T07:38:51.549Z
-modified: 2026-10-20T07:38:51.549Z
-published: 2026-10-20T07:38:51.549Z
 aliases:
   - Kungsträdgården station
+title: Kungsträdgården metro station
+created: 2026-10-20T07:38:52.000Z
+modified: 2026-10-20T07:38:52.000Z
+published: 2026-10-20T07:38:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Every Metro System Should be this Beautiful
 categories:
@@ -16,10 +20,6 @@ icon: video
 location:
   - 59.3306
   - 18.0733
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Stockholm]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Stockholm]]"
 Terminus of Stockholm's blue line, under the Kungsträdgården park. See [[Stockholm]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Every Metro System Should be this Beautiful | Not Just Bikes | subject | Winner of the host's award for the most unhinged artwork. |
 
 ## Every Metro System Should be this Beautiful — Not Just Bikes (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c3pgvg49w46yyp8z9k0pt3)
 
 > is Kungsträdgården, at the

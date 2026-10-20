@@ -1,11 +1,15 @@
 ---
 publish: true
-title: ITER
-created: 2026-10-20T19:34:56.172Z
-modified: 2026-10-20T19:34:56.172Z
-published: 2026-10-20T19:34:56.172Z
 aliases:
   - International Thermonuclear Experimental Reactor
+title: ITER
+created: 2026-10-20T19:34:56.000Z
+modified: 2026-10-20T19:34:56.000Z
+published: 2026-10-20T19:34:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - America is Building The World’s First Nuclear Fusion Plant
 categories:
@@ -17,10 +21,6 @@ icon: video
 location:
   - 43.7089
   - 5.7785
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Provence]]"
 International fusion experiment under construction at Saint-Paul-lès-Durance in [[Provence]], southern France.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | America is Building The World’s First Nuclear Fusion Plant | The B1M | backdrop | The giant international reactor the CFS project is measured against. |
 
 ## America is Building The World’s First Nuclear Fusion Plant — The B1M (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcj42z1s5h7m1d2bahv24n)
 
 > The place is absolutely epic, both in its scale and its ambition.

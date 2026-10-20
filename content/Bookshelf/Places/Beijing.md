@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Beijing
-created: 2026-10-20T19:38:52.602Z
-modified: 2026-10-20T19:38:52.602Z
-published: 2026-10-20T19:38:52.602Z
+created: 2026-10-20T19:38:53.000Z
+modified: 2026-10-20T19:38:53.000Z
+published: 2026-10-20T19:38:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Breakneck
@@ -16,10 +20,6 @@ icon: book
 location:
   - 39.9075
   - 116.3972
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[China]]"
 Capital of [[China]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | subject | Dreary, controlling capital that stands for the engineering state. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcn8d6hjkkfgjjap36cs3s)
 
 > Beijing enthralls not because it is nice but because it isn’t. By most measures, life in Beijing is dreary.

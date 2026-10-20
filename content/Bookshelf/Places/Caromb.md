@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Caromb
-created: 2026-10-20T19:35:53.950Z
-modified: 2026-10-20T19:35:53.950Z
-published: 2026-10-20T19:35:53.950Z
 aliases:
   - Lac du Paty
+title: Caromb
+created: 2026-10-20T19:35:54.000Z
+modified: 2026-10-20T19:35:54.000Z
+published: 2026-10-20T19:35:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Gare de Orange
   - Lac du Paty
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 44.1119
   - 5.1083
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 ---
 
@@ -30,12 +30,14 @@ within: "[[Provence]]"
 Village at the foot of Mont Ventoux in the Vaucluse, [[Provence]], France.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Gare de Orange | Mostly Bikes x Me | setting | Dark early start for the ride to the train at Orange. |
 | Lac du Paty | Mostly Bikes x Me | subject | The village's water supply, the Lac du Paty, up steep switchbacks. |
 
 ## Gare de Orange — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dck593c62adz4p614ce743)
 
 > Caromb turns out the lights at night, but they flick on before we exit towards Aubignan.
@@ -45,6 +47,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5dck593c62adz4p614
 - **Why it matters:** The start of the day's journey north; the village is the riders' base in these posts.
 
 ## Lac du Paty — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dck830bwwdt0zrhapgmkhd)
 
 > The Lac du Paty is Caromb’s water supply and, by necessity, is located both near the village and well above it.

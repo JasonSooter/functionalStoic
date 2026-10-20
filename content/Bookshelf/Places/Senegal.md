@@ -2,18 +2,18 @@
 publish: true
 title: Senegal
 created: 2026-10-20T04:35:38.000Z
-modified: 2026-10-20T13:49:15.746Z
-published: 2026-10-20T13:49:15.746Z
+modified: 2026-10-20T13:49:16.000Z
+published: 2026-10-20T13:49:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Senegal

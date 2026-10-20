@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Berlin Tegel Airport
-created: 2026-10-20T04:19:44.000Z
-modified: 2026-10-20T07:21:58.782Z
-published: 2026-10-20T07:21:58.782Z
 aliases:
   - Tegel Airport
   - Berlin TXL
   - Flughafen Tegel
+title: Berlin Tegel Airport
+created: 2026-10-20T04:19:44.000Z
+modified: 2026-10-20T07:21:59.000Z
+published: 2026-10-20T07:21:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Inside Berlin’s Abandoned Tegel Airport
 categories:
@@ -18,10 +22,6 @@ icon: video
 location:
   - 52.5597
   - 13.2878
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Berlin]]"
 Former airport in north-western Berlin, closed in 2020. See [[Berlin]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Inside Berlin’s Abandoned Tegel Airport | The B1M | subject | Built in 90 days for the Airlift, later a modernist hexagon, now a ghost airport being cleared for redevelopment. |
 
 ## Inside Berlin’s Abandoned Tegel Airport — The B1M (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bre7rd0p2wtybrvfnzw4bf)
 
 > The solution was a former artillery firing range in the French controlled northwestern sector of the city. It was flat, open, and perfect

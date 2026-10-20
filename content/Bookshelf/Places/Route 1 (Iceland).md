@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Route 1 (Iceland)
-created: 2026-10-20T10:42:18.664Z
-modified: 2026-10-20T10:42:18.664Z
-published: 2026-10-20T10:42:18.664Z
 aliases:
   - Ring Road
   - Hringvegur
+title: Route 1 (Iceland)
+created: 2026-10-20T10:42:19.000Z
+modified: 2026-10-20T10:42:19.000Z
+published: 2026-10-20T10:42:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "A Hundred Words for Wind: 1,000 mile Bike-to-Ski in Iceland"
 categories:
@@ -14,10 +18,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iceland]]"
 ---
 
@@ -26,11 +26,13 @@ within: "[[Iceland]]"
 Iceland's Ring Road (Hringvegur), the 1,300-odd-kilometre highway around the island.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Hundred Words for Wind: 1,000 mile Bike-to-Ski in Iceland | The Radavist | journey waypoint | A 1,000-mile bike-and-ski loop of Iceland in 35 days. |
 
 ## A Hundred Words for Wind: 1,000 mile Bike-to-Ski in Iceland — The Radavist (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce3dmpcc5r1rcnkr4ynfym)
 
 > Join Cody and Matt on the unfolding of a wild idea and discover what happens when you experience a place, as raw and unforgiving as Iceland, at the pace of a bike.

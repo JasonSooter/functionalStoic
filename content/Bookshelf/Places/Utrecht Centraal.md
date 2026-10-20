@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Utrecht Centraal
-created: 2026-10-20T13:46:04.542Z
-modified: 2026-10-20T13:46:04.542Z
-published: 2026-10-20T13:46:04.542Z
+created: 2026-10-20T13:46:05.000Z
+modified: 2026-10-20T13:46:05.000Z
+published: 2026-10-20T13:46:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Best-Designed Town in the Netherlands (and therefore, the world)
@@ -16,10 +20,6 @@ icon: video
 location:
   - 52.0893
   - 5.1101
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Netherlands (Literary)]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Netherlands (Literary)]]"
 Main railway station of Utrecht, [[Netherlands (Literary)|Netherlands]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Best-Designed Town in the Netherlands (and therefore, the world) | Not Just Bikes | journey waypoint | Change of trains on the way to Houten. |
 
 ## The Best-Designed Town in the Netherlands (and therefore, the world) — Not Just Bikes
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5cre491zp6hnqr3fjmw6tnm)
 
 > To get to Houten I took an Intercity train from Amsterdam to Utrecht Centraal.

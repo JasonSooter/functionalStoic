@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Zheng'an County
-created: 2026-10-20T19:39:05.874Z
-modified: 2026-10-20T19:39:05.874Z
-published: 2026-10-20T19:39:05.874Z
+created: 2026-10-20T19:39:06.000Z
+modified: 2026-10-20T19:39:06.000Z
+published: 2026-10-20T19:39:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Breakneck
@@ -17,10 +21,6 @@ icon: book
 location:
   - 28.5535
   - 107.4544
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Guizhou]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Guizhou]]"
 County in northern [[Guizhou]], China. The pin is the county seat.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | journey waypoint | Streetlamps hung with guitars: the self-styled guitar capital of the world. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcnbxaz01nbqxsxfjef1yb)
 
 > It turned out that we were cycling through Zheng’an County, the self-styled guitar capital of the world.

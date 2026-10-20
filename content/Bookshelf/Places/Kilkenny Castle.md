@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Kilkenny Castle
-created: 2026-10-20T10:42:30.684Z
-modified: 2026-10-20T10:42:30.684Z
-published: 2026-10-20T10:42:30.684Z
+created: 2026-10-20T10:42:31.000Z
+modified: 2026-10-20T10:42:31.000Z
+published: 2026-10-20T10:42:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 52.6507
   - -7.2489
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kilkenny]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Kilkenny]]"
 Castle in the city of [[Kilkenny]], Ireland.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] | Kyla Scanlon | journey waypoint | Where the fatigue of the trip catches up. |
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
+
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Readwise highlight](https://read.readwise.io/read/01m5ce5g5ttbne0cykn5817sz1)
 
 > Inside Kilkenny Castle, I felt the fatigue of the trip catch up with me.

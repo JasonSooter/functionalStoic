@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Fort Collins
-created: 2026-10-20T10:42:09.288Z
-modified: 2026-10-20T19:42:15.421Z
-published: 2026-10-20T19:42:15.421Z
 aliases:
   - FoCo
+title: Fort Collins
+created: 2026-10-20T10:42:09.000Z
+modified: 2026-10-20T19:42:15.000Z
+published: 2026-10-20T19:42:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Foco Bike Mob News, 12/18/25
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 40.5475
   - -105.0658
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -29,6 +29,7 @@ within: "[[Colorado]]"
 City on the Front Range in northern [[Colorado]], USA. See also the note [[Fort Collins]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Foco Bike Mob News, 12/18/25 | Foco Bike Mob | setting | A bike club's mission to make the city the most prominent cycling city in the US. |
@@ -39,6 +40,7 @@ City on the Front Range in northern [[Colorado]], USA. See also the note [[Fort 
 - [[New Belgium Brewing]]
 
 ## Foco Bike Mob News, 12/18/25 — Foco Bike Mob (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce3efcvx5t8ywbcqvskt1p)
 
 > Our goal is to do our part in making Fort Collins the most prominent cycling city in the US by holding space for people have fun riding bikes with one another.

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Anacostia River Trail
-created: 2026-10-20T16:26:55.136Z
-modified: 2026-10-20T16:26:55.136Z
-published: 2026-10-20T16:26:55.136Z
 aliases:
   - Anacostia Riverwalk Trail
+title: Anacostia River Trail
+created: 2026-10-20T16:26:55.000Z
+modified: 2026-10-20T16:26:55.000Z
+published: 2026-10-20T16:26:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[17 Responses to “Year in Review - 2024”]]"
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 38.8782
   - -76.9691
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington DC]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Washington DC]]"
 Riverside walking and cycling trail along the Anacostia in [[Washington DC|Washington, D.C.]]
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[17 Responses to “Year in Review - 2024”]] | MG (Chasing Mailboxes) | subject | "One of my favorite places in the world", ridden again after her husband's recovery. |
 
 ## Year in Review: 2024 — MG (Chasing Mailboxes) (2024)
+
 Source: [[17 Responses to “Year in Review - 2024”]] · [Readwise highlight](https://read.readwise.io/read/01m5d20ndreqp3g2m77sfjx85c)
 
 > AND we also went meandering along the Anacostia River Trail, one of my favorite places in the world.

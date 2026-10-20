@@ -1,12 +1,16 @@
 ---
 publish: true
-title: St Canice's Cathedral
-created: 2026-10-20T10:42:34.132Z
-modified: 2026-10-20T10:42:34.132Z
-published: 2026-10-20T10:42:34.132Z
 aliases:
   - St. Canice's Cathedral
   - St Canice's round tower
+title: St Canice's Cathedral
+created: 2026-10-20T10:42:34.000Z
+modified: 2026-10-20T10:42:34.000Z
+published: 2026-10-20T10:42:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 52.6567
   - -7.2572
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kilkenny]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Kilkenny]]"
 Cathedral and early medieval round tower in [[Kilkenny]], Ireland.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] | Kyla Scanlon | turning point | The round tower that answers the essay's question. |
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
+
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Readwise highlight](https://read.readwise.io/read/01m5ce5gvf8b0gnptwj9xr91d6)
 
 > I then climbed the narrow staircase of St. Canice’s Cathedral to the old monks’ tower. It’s been standing since the sixth century, where bells once rang to call monks to prayer.

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Cinelli factory (Milan)
-created: 2026-10-20T13:52:09.223Z
-modified: 2026-10-20T13:52:09.223Z
-published: 2026-10-20T13:52:09.223Z
 aliases:
   - Columbus-Cinelli factory
+title: Cinelli factory (Milan)
+created: 2026-10-20T13:52:09.000Z
+modified: 2026-10-20T13:52:09.000Z
+published: 2026-10-20T13:52:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -13,17 +17,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 45.4304,9.3816
-geo_note: approximate (the point printed for Cinelli; the book says only 'factory
-  on the outskirts of Milan')
+geo_note: approximate (the point printed for Cinelli; the book says only 'factory on the outskirts of Milan')
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 45.4304
   - 9.3816
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Milan]]"
 ---
 

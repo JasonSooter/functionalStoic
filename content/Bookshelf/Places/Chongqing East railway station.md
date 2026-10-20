@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Chongqing East railway station
-created: 2026-10-20T04:20:54.000Z
-modified: 2026-10-20T07:22:06.851Z
-published: 2026-10-20T07:22:06.851Z
 aliases:
   - Chongqing East
+title: Chongqing East railway station
+created: 2026-10-20T04:20:54.000Z
+modified: 2026-10-20T07:22:07.000Z
+published: 2026-10-20T07:22:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - China Built a City Sized Train Station
 categories:
@@ -16,10 +20,6 @@ icon: video
 location:
   - 29.4869
   - 106.6693
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Chongqing]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Chongqing]]"
 High-speed rail hub on the south-eastern edge of Chongqing, China. See [[Chongqing]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | China Built a City Sized Train Station | The B1M | subject | A 1.22-million-square-metre station built on a mountainside in 38 months. |
 
 ## China Built a City Sized Train Station — The B1M (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5brexwewzbbm47r43c2cdz9)
 
 > no other train station lives up to the ludicrous size of Chongqing East.

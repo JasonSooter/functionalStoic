@@ -1,28 +1,27 @@
 ---
 publish: true
-title: Central Communication Port
-created: 2026-10-20T13:46:36.463Z
-modified: 2026-10-20T13:46:36.463Z
-published: 2026-10-20T13:46:36.463Z
 aliases:
   - CPK
+title: Central Communication Port
+created: 2026-10-20T13:46:36.000Z
+modified: 2026-10-20T13:46:36.000Z
+published: 2026-10-20T13:46:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Why Europe is Building a $34BN Transport Mega-Hub
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 52.1333,20.4833
-geo_note: approximate (planned site near Stanisławów, Gmina Baranów, as printed in
-  the Wikipedia infobox)
+geo_note: approximate (planned site near Stanisławów, Gmina Baranów, as printed in the Wikipedia infobox)
 geo_source: Wikipedia (en)
 icon: video
 location:
   - 52.1333
   - 20.4833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Poland]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Poland]]"
 Planned airport and rail hub west of [[Warsaw]], [[Poland]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Why Europe is Building a $34BN Transport Mega-Hub | The B1M | subject | Poland's planned mega-hub. |
+| Why Europe is Building a \$34BN Transport Mega-Hub | The B1M | subject | Poland's planned mega-hub. |
 
-## Why Europe is Building a $34BN Transport Mega-Hub — The B1M (2025)
+## Why Europe is Building a \$34BN Transport Mega-Hub — The B1M (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5crenpkh7bdjyv85zyb8x08)
 
 > Meanwhile, the new port will be built here on a greenfield site covering nearly 2,600 hectares of largely rural land.

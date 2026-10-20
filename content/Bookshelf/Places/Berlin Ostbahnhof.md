@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Berlin Ostbahnhof
-created: 2026-10-20T13:45:10.892Z
-modified: 2026-10-20T13:45:10.892Z
-published: 2026-10-20T13:45:10.892Z
 aliases:
   - Ostbahnhof
+title: Berlin Ostbahnhof
+created: 2026-10-20T13:45:11.000Z
+modified: 2026-10-20T13:45:11.000Z
+published: 2026-10-20T13:45:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "Inside Deutsche Bahn’s Newest Train: The ICE-L"
 categories:
@@ -17,10 +21,6 @@ icon: video
 location:
   - 52.51
   - 13.4347
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Berlin]]"
 Main-line station in Friedrichshain, [[Berlin]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Inside Deutsche Bahn’s Newest Train: The ICE-L | Simply Railway | setting | Stage for the ICE-L unveiling. |
 
 ## Inside Deutsche Bahn’s Newest Train: The ICE-L — Simply Railway (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5crdfrfpmh1kstndqhtd9j6)
 
 > Good morning, folks, and welcome to Berlin-Ostbahnhof for a very important event! Today is the unveiling of Deutsche Bahn’s newest train, the ICE-L.

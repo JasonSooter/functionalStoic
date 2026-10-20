@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Old Rhine Bridge (Konstanz)
-created: 2026-10-20T10:42:57.863Z
-modified: 2026-10-20T10:42:57.863Z
-published: 2026-10-20T10:42:57.863Z
 aliases:
   - Alte Rheinbrücke
   - Rheinbrücke Konstanz
+title: Old Rhine Bridge (Konstanz)
+created: 2026-10-20T10:42:58.000Z
+modified: 2026-10-20T10:42:58.000Z
+published: 2026-10-20T10:42:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Rhine River Explained in Under 3 Minutes]]"
 categories:
@@ -19,10 +23,6 @@ icon: video
 location:
   - 47.667
   - 9.183
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Baden-Württemberg]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Baden-Württemberg]]"
 Bridge carrying road and rail over the Rhine in Konstanz, [[Baden-Württemberg]], Germany.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Rhine River Explained in Under 3 Minutes]] | FactSpark | journey waypoint | Kilometre zero of the Rhine. |
 
 ## The Rhine River explained in under 3 Minutes — FactSpark (2026)
+
 Source: [[The Rhine River Explained in Under 3 Minutes]] · [Readwise highlight](https://read.readwise.io/read/01m5ce8j8mhwf186jj1hmcrxxe)
 
 > in the city of Constance marks the 0 km datum

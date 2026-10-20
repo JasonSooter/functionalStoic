@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Saint-Raphaël
-created: 2026-10-20T16:27:54.942Z
-modified: 2026-10-20T16:27:54.942Z
-published: 2026-10-20T16:27:54.942Z
 aliases:
   - Saint-Raphael
   - Bar du Soleil
+title: Saint-Raphaël
+created: 2026-10-20T16:27:55.000Z
+modified: 2026-10-20T16:27:55.000Z
+published: 2026-10-20T16:27:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Bonjour Tristesse]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 43.4252
   - 6.7684
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[French Riviera]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[French Riviera]]"
 Resort town on the Var coast at the foot of the Esterel. See [[French Riviera]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bonjour Tristesse]] | Françoise Sagan | setting | The evening of the engagement announcement, from the Bar du Soleil to a nightclub. |
 
 ## Bonjour Tristesse — Françoise Sagan (1954)
+
 Source: [[Bonjour Tristesse]] · [Readwise highlight](https://read.readwise.io/read/01m5d21gt12dddq5vah7kvj0cj)
 
 > After dinner we went to a nightclub in Saint-Raphaël.

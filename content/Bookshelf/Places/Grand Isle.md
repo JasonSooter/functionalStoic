@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Grand Isle
-created: 2026-10-20T13:43:28.841Z
-modified: 2026-10-20T19:41:09.291Z
-published: 2026-10-20T19:41:09.291Z
+created: 2026-10-20T13:43:29.000Z
+modified: 2026-10-20T19:41:09.000Z
+published: 2026-10-20T19:41:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Awakening]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 29.2366
   - -89.9873
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Louisiana]]"
 ---
 

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: El Hajeb
-created: 2026-10-20T07:36:40.217Z
-modified: 2026-10-20T07:36:40.217Z
-published: 2026-10-20T07:36:40.217Z
+created: 2026-10-20T07:36:40.000Z
+modified: 2026-10-20T07:36:40.000Z
+published: 2026-10-20T07:36:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
@@ -15,10 +19,6 @@ icon: book
 location:
   - 33.6928
   - -5.3711
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Morocco]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Morocco]]"
 Town in the Fès-Meknès region of Morocco, south of Meknes. See [[Morocco]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure]] | Peace Corps | setting | Orin Hargraves's town, where a neighbour's shouted request makes him feel he belongs. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
+
 Source: [[Peace Corps - The Great Adventure]] · [Readwise highlight](https://read.readwise.io/read/01m5c3q033x4m52jnjkzqsksaw)
 
 > I lived in the upstairs apartment of a beautiful colonial-period villa in the part of the town that had been built by the French.

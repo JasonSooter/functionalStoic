@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Marcy Houses
-created: 2026-10-20T19:38:35.287Z
-modified: 2026-10-20T19:38:35.287Z
-published: 2026-10-20T19:38:35.287Z
+created: 2026-10-20T19:38:35.000Z
+modified: 2026-10-20T19:38:35.000Z
+published: 2026-10-20T19:38:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 40.697
   - -73.951
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Brooklyn]]"
 Public-housing project in Bedford–Stuyvesant, [[Brooklyn]], New York City, USA.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | turning point | A woman found dead on the roof, who turns out to be Angela's mother. |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Readwise highlight](https://read.readwise.io/read/01m5dcn3m5rrt5xxpeyd5d6amv)
 
 > A week after Christmas, a woman was found coatless and dead on the roof of the Marcy Houses projects.

@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Gornergrat
-created: 2026-10-20T01:37:54.000Z
-modified: 2026-10-20T10:44:47.633Z
-published: 2026-10-20T10:44:47.633Z
 aliases:
   - Gornergrat Bahn
   - Kulmhotel Gornergrat
+title: Gornergrat
+created: 2026-10-20T01:37:54.000Z
+modified: 2026-10-20T10:44:48.000Z
+published: 2026-10-20T10:44:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Best 30-Minute Train Ride in Switzerland
   - The Alpine Hotel You Can't Get to by Car
@@ -18,10 +22,6 @@ icon: video
 location:
   - 45.9833
   - 7.7847
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Zermatt]]"
 ---
 
@@ -30,12 +30,14 @@ within: "[[Zermatt]]"
 Rocky ridge above [[Zermatt]], Valais, Switzerland, at the top of the Gornergrat rack railway.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Best 30-Minute Train Ride in Switzerland | Simply Railway | journey waypoint | The end of the line at 3,089 metres: 29 four-thousanders, an observatory hotel and a gold-plated locomotive. |
 | The Alpine Hotel You Can't Get to by Car | Not Just Bikes | setting | A night in Switzerland's highest hotel, reachable only by train. |
 
 ## The Best 30-Minute Train Ride in Switzerland — Simply Railway (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5beyddq1rn30b90hyqyc4f7)
 
 > Welcome to Gornergrat — 3,089 meters, the end of the line.
@@ -45,6 +47,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5beyddq1rn30b90hyq
 - **Why it matters:** The summit is the ride's destination and the video's payoff.
 
 ## The Alpine Hotel You Can't Get to by Car — Not Just Bikes (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce3nmxsrncqk3gs7bbrf54)
 
 > This is Gornergrat, and it has the highest hotel in Switzerland. The only way to get here is by train, and that’s my kind of destination.

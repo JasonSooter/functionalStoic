@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Honduras
-created: 2026-10-20T07:35:12.024Z
-modified: 2026-10-20T07:35:12.024Z
-published: 2026-10-20T07:35:12.024Z
+created: 2026-10-20T07:35:12.000Z
+modified: 2026-10-20T07:35:12.000Z
+published: 2026-10-20T07:35:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Honduras

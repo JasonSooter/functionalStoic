@@ -1,39 +1,38 @@
 ---
 publish: true
-title: Langdon Nature Discovery Park
-created: 2026-10-20T10:42:55.175Z
-modified: 2026-10-20T19:40:29.456Z
-published: 2026-10-20T19:40:29.456Z
 aliases:
   - Langdon Nature Discovery Centre
   - Langdon Nature Reserve
   - The Cafe (Diagram Club)
+title: Langdon Nature Discovery Park
+created: 2026-10-20T10:42:55.000Z
+modified: 2026-10-20T19:40:29.000Z
+published: 2026-10-20T19:40:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - '#063 Stop and watch and listen'
-  - '#065 In case 2009 ever comes around again'
-  - '#066 Selling my bicycles'
+  - "#063 Stop and watch and listen"
+  - "#065 In case 2009 ever comes around again"
+  - "#066 Selling my bicycles"
   - "[[071 Things That Help Me]]"
   - "[[072 Introducing Creativity Diagrams]]"
-  - '#076 I should probably write that down'
+  - "#076 I should probably write that down"
   - "[[081 the Cafe From a Great Height]]"
-  - '#052 Particular responsibility for uneven ground'
-  - '#053 I have significant news'
-  - '#054 These are my meal-deal choices'
+  - "#052 Particular responsibility for uneven ground"
+  - "#053 I have significant news"
+  - "#054 These are my meal-deal choices"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.5617,0.4219
-geo_note: approximate (Langdon Hills village point; no coordinate found for the reserve
-  or centre)
+geo_note: approximate (Langdon Hills village point; no coordinate found for the reserve or centre)
 geo_source: GeoNames 2644942
 icon: newspaper
 location:
   - 51.5617
   - 0.4219
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Basildon]]"
 ---
 
@@ -57,6 +56,7 @@ Essex Wildlife Trust nature reserve and visitor centre at Langdon Hills, near [[
 | #054 These are my meal-deal choices | Diagram Club | backdrop | An Artisan Market at The Cafe. |
 
 ## #063 Stop and watch and listen — Diagram Club (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6wqmbjjgvj273n5m7rnx)
 
 > We (a group of about 8) did see some interesting birds that I hadn’t seen at Langdon before, such as a little grebe.
@@ -66,6 +66,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6wqmbjjgvj273n5
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base, so it reappears in almost every issue.
 
 ## #065 In case 2009 ever comes around again — Diagram Club (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6w5ncnmg8wrf5fxwjfj1)
 
 > A bit of fun from The Cafe this week, as we tested the new drive-through service for people on bicycles.
@@ -75,6 +76,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6w5ncnmg8wrf5fx
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base, so it reappears in almost every issue.
 
 ## #066 Selling my bicycles — Diagram Club (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6vk859tb7nmbd64z9kv0)
 
 > Thank you to Charlotte, the ace manager of The Cafe, aka Langdon Nature Discovery Centre.
@@ -84,6 +86,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6vk859tb7nmbd64
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base, so it reappears in almost every issue.
 
 ## #071 Things that help me — Diagram Club (2026)
+
 Source: [[071 Things That Help Me]] · [Readwise highlight](https://read.readwise.io/read/01m5ce92g5gy9cjh394hppgqnq)
 
 > The Cafe is, in real life, Essex Wildlife Trust Langdon Nature Discovery Park, and I genuinely think the Hub is a great place to hire
@@ -93,6 +96,7 @@ Source: [[071 Things That Help Me]] · [Readwise highlight](https://read.readwis
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #072 Introducing Creativity Diagrams — Diagram Club (2026)
+
 Source: [[072 Introducing Creativity Diagrams]] · [Readwise highlight](https://read.readwise.io/read/01m5ce93v6ztexxwn9dvsskghz)
 
 > With James outside Langdon Nature Discovery Centre.
@@ -102,6 +106,7 @@ Source: [[072 Introducing Creativity Diagrams]] · [Readwise highlight](https://
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #076 I should probably write that down — Diagram Club (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce95hkz4ck4fhr03tb5973)
 
 > As hinted at last week there is big news for us Cafegoers, in that Charlotte, manager of The Cafe / Langdon Nature Discovery Centre, is taking a career break and leaving for six months.
@@ -111,6 +116,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5ce95hkz4ck4fhr03t
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #081 The Cafe from a great height — Diagram Club (2026)
+
 Source: [[081 the Cafe From a Great Height]] · [Readwise highlight](https://read.readwise.io/read/01m5ce9710ddfwysdarj5sjab6)
 
 > The main aspect of The Cafe you can actually see in the photo is the car park, but we know the building is there somewhere.
@@ -120,6 +126,7 @@ Source: [[081 the Cafe From a Great Height]] · [Readwise highlight](https://rea
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #052 Particular responsibility for uneven ground — Diagram Club (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcjxh003km12hpxzwnxx5e)
 
 > The Cafe, with its brilliant staff and volunteers, is, in real life, Essex Wildlife Trust Langdon.
@@ -129,6 +136,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5dcjxh003km12hpxzw
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #053 I have significant news — Diagram Club (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcjyw7aaw36ayrbm1vd32z)
 
 > The Cafe is, in actual life, Langdon Nature Discovery Park.
@@ -138,6 +146,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5dcjyw7aaw36ayrbm1
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #054 These are my meal-deal choices — Diagram Club (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dck0xjn3ygyky6aa8rxcjz)
 
 > We have an Artisan Market, this Sunday 7th September, 11-5, at The Cafe, aka Langdon Nature Discovery Park, SS16 6EJ.

@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Repack
-created: 2026-10-20T13:51:48.107Z
-modified: 2026-10-20T13:51:48.107Z
-published: 2026-10-20T13:51:48.107Z
 aliases:
   - Repack Road
   - Repack Downhill
+title: Repack
+created: 2026-10-20T13:51:48.000Z
+modified: 2026-10-20T13:51:48.000Z
+published: 2026-10-20T13:51:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -15,10 +19,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fairfax, California]]"
 ---
 

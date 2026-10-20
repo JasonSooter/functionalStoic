@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Italy
-created: 2026-10-20T01:38:54.000Z
-modified: 2026-10-20T16:29:35.513Z
-published: 2026-10-20T16:29:35.513Z
 aliases:
   - Italia
+title: Italy
+created: 2026-10-20T01:38:54.000Z
+modified: 2026-10-20T19:47:17.000Z
+published: 2026-10-20T19:47:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Italy
@@ -38,5 +38,6 @@ See the [[Italy]] travel note. Hub for literary places in Italy that have no cit
 - [[Sorrento]]
 - [[South Tyrol]]
 - [[Stelvio Pass]]
+- [[Turin]]
 - [[Venice]]
 - [[Vicenza]]

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Times Square
-created: 2026-10-20T19:38:39.254Z
-modified: 2026-10-20T19:38:39.254Z
-published: 2026-10-20T19:38:39.254Z
+created: 2026-10-20T19:38:39.000Z
+modified: 2026-10-20T19:38:39.000Z
+published: 2026-10-20T19:38:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 40.7575
   - -73.9858
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[New York City]]"
 Square at Broadway and Seventh Avenue in Midtown Manhattan, [[New York City]], USA.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | backdrop | The place the girls fear most, where girls like them disappear. |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Readwise highlight](https://read.readwise.io/read/01m5dcn4vjgpakn91sce1kfmnh)
 
 > But in Times Square that same year, brown girls were dying.

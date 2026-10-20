@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Bodinnick Ferry
-created: 2026-10-20T19:37:53.299Z
-modified: 2026-10-20T19:37:53.299Z
-published: 2026-10-20T19:37:53.299Z
 aliases:
   - Bodinnick
+title: Bodinnick Ferry
+created: 2026-10-20T19:37:53.000Z
+modified: 2026-10-20T19:37:53.000Z
+published: 2026-10-20T19:37:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - '#050 Is that a kayaking nun?'
+  - "#050 Is that a kayaking nun?"
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 50.3404
   - -4.6264
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fowey]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Fowey]]"
 Car ferry across the River Fowey between [[Fowey]] and Bodinnick, Cornwall, England. The pin is the village of Bodinnick.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #050 Is that a kayaking nun? | Diagram Club | subject | Cheaper with a car than without. |
 
 ## #050 Is that a kayaking nun? — Diagram Club (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcmmvjhw2g41y61sxyzhgb)
 
 > The Bodinnick Ferry, where it is cheaper to travel with a car than without

@@ -2,18 +2,18 @@
 publish: true
 title: California
 created: 2026-10-20T04:35:47.000Z
-modified: 2026-10-20T19:41:53.246Z
-published: 2026-10-20T19:41:53.246Z
+modified: 2026-10-20T19:41:53.000Z
+published: 2026-10-20T19:41:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # California

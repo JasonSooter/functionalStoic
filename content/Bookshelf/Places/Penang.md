@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Penang
-created: 2026-10-20T10:42:37.479Z
-modified: 2026-10-20T10:42:37.479Z
-published: 2026-10-20T10:42:37.479Z
 aliases:
   - George Town
+title: Penang
+created: 2026-10-20T10:42:37.000Z
+modified: 2026-10-20T10:42:37.000Z
+published: 2026-10-20T10:42:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 5.4144
   - 100.3292
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Malaysia]]"
 ---
 
@@ -30,14 +30,17 @@ within: "[[Malaysia]]"
 Island state of [[Malaysia]]; the point is George Town.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] | Robert Penn | backdrop | Where an old mechanic taught Penn to build a wheel. |
 
 ## Sub-places
+
 _None yet._
 
 ## It's All About the Bike — Robert Penn (2010)
+
 Source: [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Readwise highlight](https://read.readwise.io/read/01m5ce5md2rkvtmafary1rjmx9)
 
 > I had a set of notes I’d written two years earlier, in Penang, Malaysia.

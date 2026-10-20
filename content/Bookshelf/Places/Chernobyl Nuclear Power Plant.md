@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Chernobyl Nuclear Power Plant
-created: 2026-10-20T07:54:44.454Z
-modified: 2026-10-20T07:54:44.454Z
-published: 2026-10-20T07:54:44.454Z
 aliases:
   - Chernobyl
   - Chornobyl
+title: Chernobyl Nuclear Power Plant
+created: 2026-10-20T07:54:44.000Z
+modified: 2026-10-20T07:54:44.000Z
+published: 2026-10-20T07:54:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The 10 Biggest Construction Fails of 2025
 categories:
@@ -17,10 +21,6 @@ icon: video
 location:
   - 51.3892
   - 30.0994
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ukraine]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Ukraine]]"
 Decommissioned nuclear plant in northern Ukraine, site of the 1986 disaster. See [[Ukraine]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The 10 Biggest Construction Fails of 2025 | The B1M | subject | A drone strike punches a hole in the shelter over reactor 4. |
 
 ## The 10 Biggest Construction Fails of 2025 — The B1M (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c4qh80hkypvhaw5npba5gv)
 
 > The attack blasted a 6 m wide hole in the hermetically sealed shelter covering the infamous reactor 4.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Cape Wind
-created: 2026-10-20T19:39:28.018Z
-modified: 2026-10-20T19:39:28.018Z
-published: 2026-10-20T19:39:28.018Z
+created: 2026-10-20T19:39:28.000Z
+modified: 2026-10-20T19:39:28.000Z
+published: 2026-10-20T19:39:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Breakneck
@@ -16,10 +20,6 @@ icon: book
 location:
   - 41.542
   - -70.321
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Massachusetts]]"
 Cancelled offshore wind farm on Horseshoe Shoal in Nantucket Sound, [[Massachusetts]], USA.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | subject | Sixteen years of lawsuits sink an offshore wind farm. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcnqjjh7p5qc2v412hz81r)
 
 > Unfortunately, Cape Wind was in Nantucket Sound, home to some of the wealthiest, and mostly liberal, US citizens

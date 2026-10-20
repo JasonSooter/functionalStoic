@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Navi Mumbai
-created: 2026-10-20T07:34:56.228Z
-modified: 2026-10-20T07:34:56.228Z
-published: 2026-10-20T07:34:56.228Z
 aliases:
   - New Bombay
+title: Navi Mumbai
+created: 2026-10-20T07:34:56.000Z
+modified: 2026-10-20T07:34:56.000Z
+published: 2026-10-20T07:34:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Navi Mumbai

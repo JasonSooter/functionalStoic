@@ -1,15 +1,18 @@
 ---
 publish: true
-title: Vijayapura district
-created: 2026-10-20T16:26:38.840Z
-modified: 2026-10-20T16:26:38.840Z
-published: 2026-10-20T16:26:38.840Z
 aliases:
   - Vijayapura
   - Bijapur district
+title: Vijayapura district
+created: 2026-10-20T16:26:39.000Z
+modified: 2026-10-20T16:26:39.000Z
+published: 2026-10-20T16:26:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - How a District in India Came Together to Plant 15 Million Trees - The New York
-    Times
+  - How a District in India Came Together to Plant 15 Million Trees - The New York Times
 categories:
   - "[[Places]]"
 color: purple
@@ -20,10 +23,6 @@ icon: newspaper
 location:
   - 16.6667
   - 75.9167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Karnataka]]"
 ---
 
@@ -32,11 +31,13 @@ within: "[[Karnataka]]"
 District in northern [[Karnataka]], India.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How a District in India Came Together to Plant 15 Million Trees - The New York Times | Karan Deep Singh | subject | An arid district that planted 15 million trees in a decade. |
 
 ## How a District in India Came Together to Plant 15 Million Trees — Karan Deep Singh (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5d20hddwgwbacay2gvx40vm)
 
 > Over the last decade, Vijayapura has planted and sustained more than 15 million trees, transforming the region from arid to green.

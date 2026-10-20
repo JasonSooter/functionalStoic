@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Cité du Train
-created: 2026-10-20T02:11:46.000Z
-modified: 2026-10-20T07:22:08.711Z
-published: 2026-10-20T07:22:08.711Z
 aliases:
   - Cite du Train
   - French railway museum, Mulhouse
+title: Cité du Train
+created: 2026-10-20T02:11:46.000Z
+modified: 2026-10-20T07:22:09.000Z
+published: 2026-10-20T07:22:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - "[[An Afternoon at Europe's Largest Railway Museum \U0001F1EB\U0001F1F7]]"
+  - "[[An Afternoon at Europe's Largest Railway Museum 🇫🇷]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +21,6 @@ icon: video
 location:
   - 47.7506
   - 7.2939
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alsace]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Alsace]]"
 The French national railway museum in Mulhouse, [[Alsace]], France.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[An Afternoon at Europe's Largest Railway Museum 🇫🇷]] | Simply Railway | subject | An afternoon among a hundred historic trains, from steam to the TGV. |
 
 ## An Afternoon at Europe's Largest Railway Museum 🇫🇷 — Simply Railway (2026)
+
 Source: [[An Afternoon at Europe's Largest Railway Museum 🇫🇷]] · [Readwise highlight](https://read.readwise.io/read/01m5bfxapxafbkj21rq1befrn2)
 
 > The Cité du Train was officially opened in 1971 and is home to more than 100 historic trains and locomotives, covering nearly two centuries of railway history.

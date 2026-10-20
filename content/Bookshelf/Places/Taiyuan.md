@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Taiyuan
-created: 2026-10-20T07:54:16.500Z
-modified: 2026-10-20T16:25:29.572Z
-published: 2026-10-20T16:25:29.572Z
 aliases:
   - Taiyuan Greenway
+title: Taiyuan
+created: 2026-10-20T07:54:17.000Z
+modified: 2026-10-20T16:25:30.000Z
+published: 2026-10-20T16:25:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - '#068 One reason for optimism'
+  - "#068 One reason for optimism"
   - "#057 From China, part two: Taiyuan"
   - "[[058 I Need to Address Breakfast Soups]]"
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 37.8704
   - 112.5497
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -30,6 +30,7 @@ within: "[[China]]"
 Capital of Shanxi province, northern China. See [[China]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #068 One reason for optimism | Diagram Club | subject | Where the young PACS campaigners give the writer his reason for hope. |
@@ -37,6 +38,7 @@ Capital of Shanxi province, northern China. See [[China]].
 | [[058 I Need to Address Breakfast Soups]] | Diagram Club | subject | Photo essay on the elevated Greenway and the city's bike lanes. |
 
 ## #068 One reason for optimism — Diagram Club (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c4q90x3xx5qbx8k5x4fgf8)
 
 > Me with the PACS team on our cycling and filming day in Taiyuan: Sharon, Chen, Tian, and Peter.
@@ -46,6 +48,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5c4q90x3xx5qbx8k5x
 - **Why it matters:** The people he met in Taiyuan are the "one reason for optimism" of the title; the city's pollution makes their work the point.
 
 ## #057 From China, part two: Taiyuan — Diagram Club (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5d1zxaj7r6mzasvgmmp0pg9)
 
 > Then we cycled along the Greenway, a traffic-free path that goes under and over roadways, to Laboo, a cycling cafe.
@@ -56,6 +59,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5d1zxaj7r6mzasvgmm
 - **Real vs. fictional:** The Greenway and Laboo have no standard-source coordinates, so they are described here and the pin is the city.
 
 ## 058 I Need to Address Breakfast Soups — Diagram Club (2025)
+
 Source: [[058 I Need to Address Breakfast Soups]] · [Readwise highlight](https://read.readwise.io/read/01m5d1zybb8n7jg7dsdcahh4vd)
 
 > The Greenways, both here in Taiyuan and in Chengdu, surpass anything we have in the UK.

@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Tianjin
-created: 2026-10-20T19:39:53.693Z
-modified: 2026-10-20T19:39:53.693Z
-published: 2026-10-20T19:39:53.693Z
+created: 2026-10-20T19:39:54.000Z
+modified: 2026-10-20T19:39:54.000Z
+published: 2026-10-20T19:39:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -22,4 +22,5 @@ within: "[[China]]"
 Port city south-east of Beijing, China. Hub for literary places in the city.
 
 ## Sub-places
+
 - [[Binhai]]

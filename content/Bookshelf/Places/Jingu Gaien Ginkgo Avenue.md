@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Jingu Gaien Ginkgo Avenue
-created: 2026-10-20T10:42:25.500Z
-modified: 2026-10-20T10:42:25.500Z
-published: 2026-10-20T10:42:25.500Z
 aliases:
   - Icho Namiki
   - Meiji Jingu Gaien
+title: Jingu Gaien Ginkgo Avenue
+created: 2026-10-20T10:42:26.000Z
+modified: 2026-10-20T10:42:26.000Z
+published: 2026-10-20T10:42:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - 'Tour de Cafe Tokyo #8'
+  - "Tour de Cafe Tokyo #8"
 categories:
   - "[[Places]]"
 color: purple
@@ -19,10 +23,6 @@ icon: video
 location:
   - 35.6767
   - 139.7188
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tokyo]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Tokyo]]"
 Ginkgo-lined avenue in Meiji Jingu Gaien, [[Tokyo]], Japan.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Tour de Cafe Tokyo #8 | Pedal & Brew | journey waypoint | An autumn detour to photograph golden ginkgo leaves. |
 
 ## Tour de Cafe Tokyo #8 — Pedal & Brew (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce4kqaze9t3dh2wmjr0na6)
 
 > We've arrived at the Jingu Gaien Ginkgo Avenue! The view is incredible...! This is a special perk of riding a bike, lol.

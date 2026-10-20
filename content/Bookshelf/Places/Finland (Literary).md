@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Finland
-created: 2026-10-20T07:53:48.412Z
-modified: 2026-10-20T07:53:48.412Z
-published: 2026-10-20T07:53:48.412Z
+created: 2026-10-20T07:53:48.000Z
+modified: 2026-10-20T07:53:48.000Z
+published: 2026-10-20T07:53:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Finland

@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Tokyo
-created: 2026-10-20T07:35:03.528Z
-modified: 2026-10-20T10:46:06.588Z
-published: 2026-10-20T10:46:06.588Z
+created: 2026-10-20T07:35:04.000Z
+modified: 2026-10-20T10:46:07.000Z
+published: 2026-10-20T10:46:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Japan]]"
 ---
 

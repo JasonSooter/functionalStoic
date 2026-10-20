@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Alubarén
-created: 2026-10-20T07:36:50.729Z
-modified: 2026-10-20T07:36:50.729Z
-published: 2026-10-20T07:36:50.729Z
 aliases:
   - Alubaren
+title: Alubarén
+created: 2026-10-20T07:36:51.000Z
+modified: 2026-10-20T07:36:51.000Z
+published: 2026-10-20T07:36:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Peace Corps - The Great Adventure]]"
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - 13.8
   - -87.467
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Honduras]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Honduras]]"
 Small municipality in the department of Francisco Morazán, Honduras. See [[Honduras]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure]] | Peace Corps | subject | A town whose gift economy puzzles and teaches Larissa Zoot. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
+
 Source: [[Peace Corps - The Great Adventure]] · [Readwise highlight](https://read.readwise.io/read/01m5c3q2h0bcgh6pyacad97fah)
 
 > This is something I've experienced many times now in Alubaren, and it always leaves me stumped.

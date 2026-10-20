@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Recycled Cycles
-created: 2026-10-20T10:42:44.467Z
-modified: 2026-10-20T10:42:44.467Z
-published: 2026-10-20T10:42:44.467Z
+created: 2026-10-20T10:42:44.000Z
+modified: 2026-10-20T10:42:44.000Z
+published: 2026-10-20T10:42:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "Recycled Cycles: Community Anchored – Paul Kalifatidi"
@@ -12,10 +16,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Seattle (Literary)]]"
 ---
 
@@ -24,11 +24,13 @@ within: "[[Seattle (Literary)]]"
 Bike shop at 1007 NE Boat Street, [[Seattle (Literary)]], USA (address per the source).
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Recycled Cycles: Community Anchored – Paul Kalifatidi | The Radavist | subject | Part bike shop, part museum, part scavenger hunt. |
 
 ## Recycled Cycles: Community Anchored – Paul Kalifatidi — The Radavist (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6syqz666j18pjjbrcyza)
 
 > Since 2002, Recycled Cycles has been the sole occupant of 1007 NE Boat Street.

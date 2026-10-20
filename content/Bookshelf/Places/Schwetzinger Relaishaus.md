@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Schwetzinger Relaishaus
-created: 2026-10-20T13:52:22.930Z
-modified: 2026-10-20T13:52:22.930Z
-published: 2026-10-20T13:52:22.930Z
+created: 2026-10-20T13:52:23.000Z
+modified: 2026-10-20T13:52:23.000Z
+published: 2026-10-20T13:52:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[It's All About the Bike]]"
@@ -12,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 49.4338,8.5274
-geo_note: approximate (Rheinau district of Mannheim; the inn's exact site is not printed
-  in a standard source)
+geo_note: approximate (Rheinau district of Mannheim; the inn's exact site is not printed in a standard source)
 geo_source: GeoNames 2847668
 icon: book
 location:
   - 49.4338
   - 8.5274
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mannheim]]"
 ---
 

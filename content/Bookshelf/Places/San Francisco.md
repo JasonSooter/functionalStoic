@@ -1,19 +1,19 @@
 ---
 publish: true
 title: San Francisco
-created: 2026-10-20T13:47:58.217Z
-modified: 2026-10-20T19:41:50.746Z
-published: 2026-10-20T19:41:50.746Z
+created: 2026-10-20T13:47:58.000Z
+modified: 2026-10-20T19:41:51.000Z
+published: 2026-10-20T19:41:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California (Literary)]]"
 ---
 

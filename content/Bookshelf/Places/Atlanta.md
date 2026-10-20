@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Atlanta
-created: 2026-10-20T07:34:57.976Z
-modified: 2026-10-20T07:34:57.976Z
-published: 2026-10-20T07:34:57.976Z
+created: 2026-10-20T07:34:58.000Z
+modified: 2026-10-20T07:34:58.000Z
+published: 2026-10-20T07:34:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Atlanta

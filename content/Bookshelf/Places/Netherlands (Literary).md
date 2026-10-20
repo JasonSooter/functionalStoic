@@ -2,18 +2,18 @@
 publish: true
 title: Netherlands
 created: 2026-10-20T04:23:18.000Z
-modified: 2026-10-20T13:49:31.250Z
-published: 2026-10-20T13:49:31.250Z
+modified: 2026-10-20T13:49:31.000Z
+published: 2026-10-20T13:49:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Netherlands

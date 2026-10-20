@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Daytona International Speedway
-created: 2026-10-20T19:35:47.422Z
-modified: 2026-10-20T19:35:47.422Z
-published: 2026-10-20T19:35:47.422Z
 aliases:
   - Daytona
+title: Daytona International Speedway
+created: 2026-10-20T19:35:47.000Z
+modified: 2026-10-20T19:35:47.000Z
+published: 2026-10-20T19:35:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - How fast could a human accellerate (while staying alive)?
   - How fast could a vehicle go around a track - but the racer does not have to survive.
@@ -18,10 +22,6 @@ icon: video
 location:
   - 29.1856
   - -81.0694
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 ---
 
@@ -30,12 +30,14 @@ within: "[[Florida]]"
 Motor-racing circuit at Daytona Beach, [[Florida]], USA, home of the Daytona 500.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How fast could a human accellerate (while staying alive)? | xkcd's What If? | subject | Its banked turns set the limit for a human-survivable top speed. |
 | How fast could a vehicle go around a track - but the racer does not have to survive. | xkcd's What If? | subject | The 200-lap yardstick for ever-faster, unsurvivable vehicles. |
 
 ## How fast could a human accellerate (while staying alive)? — xkcd's What If? (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dck3pn9erm79p68y48vvcx)
 
 > If we limit our vehicle to 4 Gs, its top speed on the turns at Daytona will be about 240 mph.
@@ -45,6 +47,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5dck3pn9erm79p68y4
 - **Why it matters:** The track supplies the numbers for the whole argument, though nothing about the place itself is described.
 
 ## How fast could a vehicle go around a track - but the racer does not have to survive. — xkcd's What If? (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dck2487jna5sxj4cxn6yp2)
 
 > Human biology limits us to Daytona finishing times over an hour.

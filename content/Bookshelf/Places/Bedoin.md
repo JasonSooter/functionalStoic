@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Bedoin
-created: 2026-10-20T07:54:00.848Z
-modified: 2026-10-20T07:54:00.848Z
-published: 2026-10-20T07:54:00.848Z
 aliases:
   - Bédoin
+title: Bedoin
+created: 2026-10-20T07:54:01.000Z
+modified: 2026-10-20T07:54:01.000Z
+published: 2026-10-20T07:54:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "Fire Danger: Low"
 categories:
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 44.124
   - 5.1805
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Provence]]"
 Village in the Vaucluse at the foot of the classic southern ascent of Mont Ventoux. See [[Provence]] and [[Mont Ventoux]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Fire Danger: Low | Mostly Bikes x Me | journey waypoint | A Ventoux basecamp town, half shut for winter. |
 
 ## Fire Danger: Low — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c4q0zckbzmm3hn50pw6bat)
 
 > Bedoin was busy compared to elsewhere, but as much of the economy revolves around acting as a basecamp for cyclists riding Ventoux, most of its businesses are closed in winter.
