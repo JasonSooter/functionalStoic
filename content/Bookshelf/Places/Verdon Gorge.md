@@ -1,25 +1,25 @@
 ---
 publish: true
-aliases:
-  - Gorges du Verdon
 title: Verdon Gorge
 created: 2026-10-20T04:31:46.000Z
-modified: 2026-10-20T04:31:46.000Z
-published: 2026-10-20T04:31:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T07:23:38.999Z
+published: 2026-10-20T07:23:38.999Z
+aliases:
+  - Gorges du Verdon
 books:
   - Trace Velocio 2026. Le Thoronet to Sault
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 43.7378,6.3639
-icon: book
+icon: newspaper
 location:
   - 43.7378
   - 6.3639
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Provence]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Provence]]"
 River canyon of the Verdon in Alpes-de-Haute-Provence and Var. See [[Provence]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Trace Velocio 2026. Le Thoronet to Sault | Mostly Bikes x Me | journey waypoint | A landslide forces the ride onto the busy north traverse of the gorge. |
 
 ## Trace Velocio 2026. Le Thoronet to Sault — Mostly Bikes x Me (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bs6jmmhychy3jghj9fqs35)
 
 > Our planned route was closed by a landslide, but the north traverse of the gorge was open, and busy.

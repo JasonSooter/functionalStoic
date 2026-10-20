@@ -1,28 +1,29 @@
 ---
 publish: true
+title: Fishermen's Chapel, Leigh-on-Sea
+created: 2026-10-20T02:11:32.000Z
+modified: 2026-10-20T07:22:24.139Z
+published: 2026-10-20T07:22:24.139Z
 aliases:
   - Fishermen’s Chapel
   - Leigh-on-Sea
-title: Fishermen's Chapel, Leigh-on-Sea
-created: 2026-10-20T02:11:32.000Z
-modified: 2026-10-20T02:11:32.000Z
-published: 2026-10-20T02:11:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
-  - "#083 Can I print it? Yes you can"
-  - "#086 Cycling tactics explained"
+  - '#083 Can I print it? Yes you can'
+  - '#086 Cycling tactics explained'
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.5424,0.6542
-geo_note: "approximate: Leigh-on-Sea town point converted from the OS grid reference TQ841859 on English Wikipedia; the chapel itself has no standard-source coordinate"
-icon: book
+geo_note: "approximate: Leigh-on-Sea town point converted from the OS grid reference\
+  \ TQ841859 on English Wikipedia; the chapel itself has no standard-source coordinate"
+icon: newspaper
 location:
   - 51.5424
   - 0.6542
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Essex]]"
 ---
 
@@ -31,14 +32,12 @@ within: "[[Essex]]"
 Methodist chapel built into the cliff above the Thames Estuary at Leigh-on-Sea, Southend, [[Essex]], England.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #083 Can I print it? Yes you can | Diagram Club | subject | The author's church, on a cliff above the estuary, raising money for repairs. |
 | #086 Cycling tactics explained | Diagram Club | setting | A morning as an art-exhibition attendant here during the Leigh Art Trail. |
 
 ## #083 Can I print it? Yes you can — Diagram Club (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfx7z1qj4n8az38f94m0rx)
 
 > It’s called the Fishermen’s Chapel, and it’s a Methodist chapel overlooking the Thames Estuary in Leigh-on-Sea, which is part of Southend, but also not.
@@ -48,7 +47,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5bfx7z1qj4n8az38f9
 - **Why it matters:** The newsletter's main appeal and the place the author writes about with most feeling.
 
 ## #086 Cycling tactics explained — Diagram Club (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfx75xkp1tvr2atx6fjz45)
 
 > This week was the start of the Leigh Art Trail in Leigh-on-Sea, and I spent a morning being an attendant at an art exhibition at The Fishermen’s Chapel.

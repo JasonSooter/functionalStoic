@@ -1,25 +1,25 @@
 ---
 publish: true
-aliases:
-  - Greenbelt Festival
 title: Boughton House
 created: 2026-10-19T22:28:14.000Z
-modified: 2026-10-19T22:28:14.000Z
-published: 2026-10-19T22:28:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T07:22:03.168Z
+published: 2026-10-20T07:22:03.168Z
+aliases:
+  - Greenbelt Festival
 books:
-  - "#092 Colanders are back"
+  - '#092 Colanders are back'
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 52.4245,-0.6778
-icon: book
+icon: newspaper
 location:
   - 52.4245
   - -0.6778
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Northamptonshire]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Northamptonshire]]"
 Stately home near Kettering in [[Northamptonshire]], England, and for twelve years the site of the Greenbelt festival.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #092 Colanders are back | Diagram Club | setting | A festival diary from the last full Greenbelt at Boughton House. |
 
 ## #092 Colanders are back — Diagram Club (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b456a9fn368q31npzv537f)
 
 > Greenbelt has, for 12 years, happened in the beautiful grounds of Boughton House, a stately home in Northamptonshire. This is the last full festival there, which is sad.

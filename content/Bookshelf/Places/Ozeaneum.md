@@ -1,25 +1,25 @@
 ---
 publish: true
-aliases:
-  - Ozeaneum Stralsund
 title: Ozeaneum
 created: 2026-10-20T04:21:31.000Z
-modified: 2026-10-20T04:21:31.000Z
-published: 2026-10-20T04:21:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T07:23:10.217Z
+published: 2026-10-20T07:23:10.217Z
+aliases:
+  - Ozeaneum Stralsund
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 54.3156,13.0969
-icon: book
+icon: video
 location:
   - 54.3156
   - 13.0969
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Stralsund]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Stralsund]]"
 Aquarium of the northern seas on Stralsund's harbour. See [[Stralsund]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | The modern aquarium that stands out in a red-brick Baltic port. |
 
 ## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
-
 Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Readwise highlight](https://read.readwise.io/read/01m5brfawghdvmxcjahrrtcwfv)
 
 > However, the most striking building is the Ozeaneum aquarium.

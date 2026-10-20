@@ -1,0 +1,42 @@
+---
+publish: true
+title: Helsinki Central Station
+created: 2026-10-20T07:54:59.411Z
+modified: 2026-10-20T07:54:59.411Z
+published: 2026-10-20T07:54:59.411Z
+aliases:
+  - Helsingin päärautatieasema
+books:
+  - Sleeping to the Arctic Circle on the Santa Claus Express
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 60.1719,24.9414
+icon: video
+location:
+  - 60.1719
+  - 24.9414
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Helsinki]]"
+---
+
+# Helsinki Central Station
+
+Helsinki's main railway station. See [[Helsinki]].
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| Sleeping to the Arctic Circle on the Santa Claus Express | Simply Railway | setting | A snowy late-night departure for Lapland. |
+
+## Sleeping to the Arctic Circle on the Santa Claus Express — Simply Railway (2025)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5c4qncjrkvkbsza6ftsyqqc)
+
+> Helsinki Central Station is a stunning railway station. The main building dates from 1919.
+
+- **Role:** setting
+- **In the video:** The narrator waits here on a snowy −7 °C night for the 23:13 sleeper to [[Rovaniemi]], noting the late-opening shops.
+- **Why it matters:** The opening scene and departure point of the night-train trip.

@@ -2,18 +2,18 @@
 publish: true
 title: California
 created: 2026-10-20T04:35:47.000Z
-modified: 2026-10-20T04:35:47.000Z
-published: 2026-10-20T04:35:47.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T07:41:33.707Z
+published: 2026-10-20T07:41:33.707Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # California
@@ -22,4 +22,5 @@ Hub for literary places in California. See the Travel note [[California]] and th
 
 ## Sub-places
 
+- [[Fairfax, California]]
 - [[Los Angeles Aqueduct]]

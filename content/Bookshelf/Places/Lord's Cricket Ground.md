@@ -1,26 +1,26 @@
 ---
 publish: true
+title: Lord's Cricket Ground
+created: 2026-10-20T02:09:11.000Z
+modified: 2026-10-20T07:22:40.485Z
+published: 2026-10-20T07:22:40.485Z
 aliases:
   - Lord's
   - Lords
-title: Lord's Cricket Ground
-created: 2026-10-20T02:09:11.000Z
-modified: 2026-10-20T02:09:11.000Z
-published: 2026-10-20T02:09:11.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
-  - "#088 An unusually long list of gripes"
+  - '#088 An unusually long list of gripes'
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.5294,-0.1727
-icon: book
+icon: newspaper
 location:
   - 51.5294
   - -0.1727
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[London]]"
 The cricket ground in St John's Wood, [[London]], England.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #088 An unusually long list of gripes | Diagram Club | setting | A day at The Hundred, with likes and gripes. |
 
 ## #088 An unusually long list of gripes — Diagram Club (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfwq0a70fe2ntsx6zjm8dh)
 
 > We went to Lords Cricket Ground, in London, for The Hundred.

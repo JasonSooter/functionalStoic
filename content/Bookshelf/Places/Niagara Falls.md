@@ -2,12 +2,8 @@
 publish: true
 title: Niagara Falls
 created: 2026-10-20T04:19:12.000Z
-modified: 2026-10-20T04:19:12.000Z
-published: 2026-10-20T04:19:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T07:23:08.609Z
+published: 2026-10-20T07:23:08.609Z
 aliases: []
 books:
   - What if you funneled the Niagara Falls through a straw?
@@ -15,10 +11,14 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 43.0799,-79.0747
-icon: book
+icon: video
 location:
   - 43.0799
   - -79.0747
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Niagara Falls
@@ -26,13 +26,11 @@ location:
 The three waterfalls on the Niagara River at the Ontario–New York border.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What if you funneled the Niagara Falls through a straw? | xkcd's What If? | subject | The falls' flow forced through a straw would make a jet rivalling a small star. |
 
 ## What if you funneled the Niagara Falls through a straw? — xkcd's What If? (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bre12n6pghzvh9qedj2bqh)
 
 > What would happen if one tried to funnel Niagara Falls through a straw?  The short answer is: the Earth would be destroyed.

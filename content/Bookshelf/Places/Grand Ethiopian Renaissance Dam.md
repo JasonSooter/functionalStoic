@@ -1,25 +1,25 @@
 ---
 publish: true
-aliases:
-  - GERD
 title: Grand Ethiopian Renaissance Dam
 created: 2026-10-20T02:12:03.000Z
-modified: 2026-10-20T02:12:03.000Z
-published: 2026-10-20T02:12:03.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T07:22:31.216Z
+published: 2026-10-20T07:22:31.216Z
+aliases:
+  - GERD
 books:
   - Egypt is Building a New Nile
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 11.2153,35.0931
-icon: book
+icon: video
 location:
   - 11.2153
   - 35.0931
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Grand Ethiopian Renaissance Dam
@@ -27,13 +27,11 @@ location:
 Dam on the Blue Nile in western Ethiopia.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Egypt is Building a New Nile | The B1M | backdrop | Africa's largest dam, seen downstream as an existential threat. |
 
 ## Egypt is Building a New Nile — The B1M (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxqj59vabc61vydtdd89x)
 
 > This is the Grand Ethiopian Renaissance Dam.

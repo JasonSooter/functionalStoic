@@ -2,12 +2,8 @@
 publish: true
 title: Appledore
 created: 2026-10-20T01:35:42.000Z
-modified: 2026-10-20T01:35:42.000Z
-published: 2026-10-20T01:35:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T07:21:52.750Z
+published: 2026-10-20T07:21:52.750Z
 aliases: []
 books:
   - "[[089 a Comprehensive Guide to Devon]]"
@@ -16,10 +12,14 @@ categories:
 color: purple
 coordinates: 51.0537,-4.1908
 geo_note: converted from the OS grid reference SS465305 given on English Wikipedia
-icon: book
+icon: newspaper
 location:
   - 51.0537
   - -4.1908
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Devon]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Devon]]"
 Village at the mouth of the Torridge estuary, north [[Devon]], England.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[089 a Comprehensive Guide to Devon]] | Diagram Club | setting | The village where the family stayed, with the bike ferry and the Tarka Trail on the doorstep. |
 
 ## #089 A comprehensive guide to Devon — Diagram Club (2026)
-
 Source: [[089 a Comprehensive Guide to Devon]] · [Readwise highlight](https://read.readwise.io/read/01m5bexywjz3ym9fyn7x5y6y3m)
 
 > This is Appledore, a village in north Devon, where we stayed (in the tallest house).

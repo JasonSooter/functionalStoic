@@ -1,25 +1,25 @@
 ---
 publish: true
-aliases:
-  - Gotthard Strassentunnel
 title: Gotthard Road Tunnel
 created: 2026-10-20T04:32:39.000Z
-modified: 2026-10-20T04:32:39.000Z
-published: 2026-10-20T04:32:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T07:22:30.208Z
+published: 2026-10-20T07:22:30.208Z
+aliases:
+  - Gotthard Strassentunnel
 books:
   - Switzerland’s $2BN Tunnel U-Turn
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 46.6717,8.5925
-icon: book
+icon: video
 location:
   - 46.6717
   - 8.5925
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Switzerland (Literary)]]"
 ---
 
@@ -28,12 +28,11 @@ within: "[[Switzerland (Literary)]]"
 A2 motorway tunnel under the Gotthard massif between Göschenen and Airolo. See [[Switzerland (Literary)]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Switzerland’s \$2BN Tunnel U-Turn | The B1M | subject | A second bore so the 1980 tunnel can close for refurbishment without cutting the A2. |
+| Switzerland’s $2BN Tunnel U-Turn | The B1M | subject | A second bore so the 1980 tunnel can close for refurbishment without cutting the A2. |
 
-## Switzerland’s \$2BN Tunnel U-Turn — The B1M (2026)
+## Switzerland’s $2BN Tunnel U-Turn — The B1M (2026)
 
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bs72760jqygedmhkbb062t)
 

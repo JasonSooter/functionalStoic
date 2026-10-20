@@ -1,25 +1,28 @@
 ---
 publish: true
-aliases:
-  - Freiburg im Breisgau (literary places)
 title: Freiburg
 created: 2026-10-19T14:13:04.000Z
-modified: 2026-10-20T04:36:16.000Z
-published: 2026-10-20T04:36:16.000Z
+modified: 2026-10-20T07:40:43.212Z
+published: 2026-10-20T07:40:43.212Z
+aliases:
+  - Freiburg im Breisgau (literary places)
+books:
+  - "The Tram Network in Transition: Dismantling, Expansion, Future Plans"
+  - "Destroyed City, Broken Trams: When Freiburg Lay in Ruins"
+  - "Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben"
+  - "Verdi-Streik: Am Montag fahren in Freiburg keine Busse und Bahnen"
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 47.995,7.85
+icon: newspaper
+location:
+  - 47.995
+  - 7.85
 tags:
   - places
   - place/literary
   - source/ai/claude
-books:
-  - "The Tram Network in Transition: Dismantling, Expansion, Future Plans"
-categories:
-  - "[[Places]]"
-color: purple
-icon: book
-location:
-  - 47.995
-  - 7.85
-coordinates: 47.995,7.85
 ---
 
 # Freiburg
@@ -33,9 +36,11 @@ Freiburg im Breisgau, Jason's home city in the Black Forest. Travel note: [[Frei
 | The Tram Network in Transition: Dismantling, Expansion, Future Plans | VAG Freiburg | subject | 125 years of Freiburg trams: built, bombed, cut back in the 1960s, then expanded district by district since 1983. |
 | Destroyed City, Broken Trams: When Freiburg Lay in Ruins | VAG Freiburg | subject | The RAF raid of 27 November 1944 and what it did to the city and its trams. |
 | Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben | Saskia Schuh | subject | How Freiburg's packaging tax is landing with local cafés, bakeries and shops. |
+| Verdi-Streik: Am Montag fahren in Freiburg keine Busse und Bahnen | Matthias Joers | subject | A day-long strike stops the city's trams and almost all its buses. |
 
 ## Sub-places
 
+- [[Augustinermuseum]]
 - [[Bertoldsbrunnen]]
 - [[Carl-Schurz-Haus]]
 - [[Dietenbach (Freiburg)]]
@@ -60,7 +65,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5a83vc5y76epkjtqgj
 - **Why it matters:** The city is the subject: the article argues that Freiburg's growth can be read straight off its tram map, because of the rule that every new district gets a tram. It's also Jason's home network; his own highlight on the piece reads "Yes! We enjoy the benefits to this day."
 
 ## Destroyed City, Broken Trams: When Freiburg Lay in Ruins — VAG Freiburg (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5beympjg925xgn5wqc4ftpn)
 
 > It destroyed large parts of the old town, but also districts such as Betzenhausen, Stühlinger, the Mooswald settlement and above all Neuburg.
@@ -70,7 +74,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5beympjg925xgn5wqc
 - **Why it matters:** The whole city is the subject: the raid is the event the tram network had to be rebuilt from. The article also exists in Reader as a second copy ("fixed preview"), scanned as the same text.
 
 ## Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben — Saskia Schuh (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5brfjn4mg6rf6f0xwk9w815)
 
 > In Freiburg seien die Diskussionen auch deutlich häufiger als in Tübingen oder Konstanz, wo es ebenfalls eine Verpackungssteuer gibt.
@@ -78,3 +81,12 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5brfjn4mg6rf6f0xwk
 - **Role:** subject
 - **In the article:** A report on a chamber of commerce (IHK) survey of local businesses about the city's tax on disposable packaging, presented at a bakery on Lehener Straße; Freiburg businesses report more arguments with customers over the tax than in Tübingen or Konstanz, which have the same tax.
 - **Why it matters:** The city's own policy is the subject; the comparison with the other two towns frames Freiburg as the harder case.
+
+## Verdi-Streik: Am Montag fahren in Freiburg keine Busse und Bahnen — Matthias Joers (2026)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5c3pvxg8dbakgddscw6zv0w)
+
+> Die Freiburger Verkehrs AG (VAG) wird am Montag, 2. Februar, ganztägig bestreikt.
+
+- **Role:** subject
+- **In the article:** The Freiburger Wochenbericht reports that the VAG will be on strike all day on Monday, 2 February: no VAG trams and only a very few buses run. It lists which lines are unaffected or partly running and notes that the Breisgau S-Bahn and Deutsche Bahn regional trains still reach Freiburg.
+- **Why it matters:** The whole city's public transport is the subject; the strike shows how much daily life depends on the network the VAG history pieces describe.
