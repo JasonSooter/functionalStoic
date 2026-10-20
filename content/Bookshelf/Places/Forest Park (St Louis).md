@@ -2,12 +2,8 @@
 publish: true
 title: Forest Park (St. Louis)
 created: 2026-10-20T13:52:32.000Z
-modified: 2026-10-20T13:52:32.000Z
-published: 2026-10-20T13:52:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:37:15.935Z
+published: 2026-10-20T22:37:15.935Z
 aliases: []
 books:
   - Why Cities Feel so Lonely Now.
@@ -20,6 +16,10 @@ icon: video
 location:
   - 38.6389
   - -90.2846
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[St Louis]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[St Louis]]"
 Large public park in [[St Louis|St. Louis]], Missouri.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Cities Feel so Lonely Now. | Type Ashton | subject | The well-equipped park south of Delmar. |
 
 ## Why Cities Feel so Lonely Now. — Type Ashton (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5crctp95dhgbaqggf3phcb3)
+Source: [Original](https://www.youtube.com/watch?v=JDSAkaep9c0) · [Readwise highlight](https://read.readwise.io/read/01m5crctp95dhgbaqggf3phcb3)
 
 > South of Delmare in the wealthier neighborhood is Forest Park, home to the St. Louis Zoo, a history museum, a golf course, and an ice skating rink.
 

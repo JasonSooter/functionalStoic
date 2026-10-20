@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Former French Concession
 title: Shanghai
 created: 2026-10-20T19:38:57.000Z
-modified: 2026-10-20T19:38:57.000Z
-published: 2026-10-20T19:38:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T23:06:38.423Z
+published: 2026-10-20T23:06:38.423Z
+aliases:
+  - Former French Concession
 books:
   - Breakneck
 categories:
@@ -21,6 +17,10 @@ icon: book
 location:
   - 31.2222
   - 121.4581
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -29,13 +29,15 @@ within: "[[China]]"
 City on the Yangtze delta, [[China]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | setting | Human-scaled streets of the French Concession; the city where the engineering state works. |
 
-## Breakneck — Dan Wang (2025)
+## Sub-places
+- [[Gigafactory Shanghai]]
+- [[Shanghai World Financial Center]]
 
+## Breakneck — Dan Wang (2025)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcne47qa1k4yjaqdmxkp14)
 
 > I was much happier to live in Shanghai, where many streets have remained human-scaled rather than being built for cars. The French Concession, where I lived, remains leafy and full of cafés.

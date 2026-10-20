@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Petronas Twin Towers
 title: Petronas Towers
 created: 2026-10-20T04:20:16.000Z
-modified: 2026-10-20T07:23:13.000Z
-published: 2026-10-20T07:23:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:31:13.896Z
+published: 2026-10-20T22:31:13.896Z
+aliases:
+  - Petronas Twin Towers
 books:
   - Why the Jeddah Tower Won’t be as Tall as You Think
 categories:
@@ -20,6 +16,10 @@ icon: video
 location:
   - 3.1578
   - 101.7117
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Kuala Lumpur]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[Kuala Lumpur]]"
 Twin skyscrapers in central Kuala Lumpur, Malaysia. See [[Kuala Lumpur]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why the Jeddah Tower Won’t be as Tall as You Think | The B1M | turning point | Their spires out-measured Chicago's tower and started the fight over what counts as height. |
 
 ## Why the Jeddah Tower Won’t be as Tall as You Think — The B1M (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5brejxb20p3p3baab3y4b2k)
+Source: [Original](https://www.youtube.com/watch?v=vVfEs9wrW98) · [Readwise highlight](https://read.readwise.io/read/01m5brejxb20p3p3baab3y4b2k)
 
 > So wrong in fact that in 1996, as the Petronas Towers were nearing completion,   a delegation of incensed Chicago journalists demanded an answer.
 

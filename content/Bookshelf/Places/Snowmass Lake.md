@@ -1,17 +1,14 @@
 ---
 publish: true
-aliases:
-  - Snowmass Lake Trail
 title: Snowmass Lake
 created: 2026-10-20T19:35:01.000Z
-modified: 2026-10-20T19:35:01.000Z
-published: 2026-10-20T19:35:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:34:55.408Z
+published: 2026-10-20T22:34:55.408Z
+aliases:
+  - Snowmass Lake Trail
 books:
-  - Is nature calling while you’re in nature? More and more, Colorado officials are asking you to pack your own poop out
+  - Is nature calling while you’re in nature? More and more, Colorado officials are
+    asking you to pack your own poop out
 categories:
   - "[[Places]]"
 color: purple
@@ -22,6 +19,10 @@ icon: newspaper
 location:
   - 39.1172
   - -107.0331
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -30,14 +31,12 @@ within: "[[Colorado]]"
 Alpine lake in the Maroon Bells–Snowmass Wilderness near Aspen, [[Colorado]], USA, reached by the Snowmass Lake Trail.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Is nature calling while you’re in nature? More and more, Colorado officials are asking you to pack your own poop out | Stina Sieg | setting | The busy trail where packing out human waste is only recommended. |
 
 ## Is nature calling while you’re in nature? More and more, Colorado officials are asking you to pack your own poop out — Stina Sieg (2022)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5dcj6wzmnrphygqkee51h5e)
+Source: [Original](https://www.cpr.org/2022/08/23/is-nature-calling-while-youre-in-nature-more-and-more-colorado-officials-are-asking-you-to-pack-your-own-poop-out/) · [Readwise highlight](https://read.readwise.io/read/01m5dcj6wzmnrphygqkee51h5e)
 
 > On the busy Snowmass Lake Trail, outside of Aspen, removing human waste is recommended though not required.
 

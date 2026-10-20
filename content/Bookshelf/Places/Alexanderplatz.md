@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Alex
 title: Alexanderplatz
 created: 2026-10-20T10:42:31.000Z
-modified: 2026-10-20T10:42:31.000Z
-published: 2026-10-20T10:42:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:27:31.182Z
+published: 2026-10-20T22:27:31.182Z
+aliases:
+  - Alex
 books:
   - The Absolute Best Transportation for Cities (trams)
 categories:
@@ -21,6 +17,10 @@ icon: video
 location:
   - 52.5217
   - 13.4136
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berlin]]"
 ---
 
@@ -29,14 +29,12 @@ within: "[[Berlin]]"
 Public square in Mitte, [[Berlin]], Germany.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Absolute Best Transportation for Cities (trams) | Not Just Bikes | backdrop | Trams gliding through a pedestrian square. |
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5ce4y7n524xet779vtc944q)
+Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise highlight](https://read.readwise.io/read/01m5ce4y7n524xet779vtc944q)
 
 > Alexanderplatz, a pedestrianised square in Berlin.
 

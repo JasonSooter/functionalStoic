@@ -2,12 +2,8 @@
 publish: true
 title: Aswan High Dam
 created: 2026-10-20T02:11:59.000Z
-modified: 2026-10-20T07:21:56.000Z
-published: 2026-10-20T07:21:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:28:48.479Z
+published: 2026-10-20T22:28:48.479Z
 aliases: []
 books:
   - Egypt is Building a New Nile
@@ -19,6 +15,10 @@ icon: video
 location:
   - 23.9706
   - 32.8778
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Aswan High Dam
@@ -26,14 +26,12 @@ location:
 Dam across the Nile at Aswan, Egypt, completed in 1970.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Egypt is Building a New Nile | The B1M | turning point | The dam that tamed the flood and starved the farmland of silt. |
 
 ## Egypt is Building a New Nile — The B1M (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxp51hpdedatxab8xs4nr)
+Source: [Original](https://www.youtube.com/watch?v=gnND5qkf0Xs) · [Readwise highlight](https://read.readwise.io/read/01m5bfxp51hpdedatxab8xs4nr)
 
 > The first major change came with the construction of this: the Aswan High Dam.
 

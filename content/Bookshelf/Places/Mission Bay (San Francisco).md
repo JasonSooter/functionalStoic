@@ -2,12 +2,8 @@
 publish: true
 title: Mission Bay (San Francisco)
 created: 2026-10-20T13:44:11.000Z
-modified: 2026-10-20T13:44:11.000Z
-published: 2026-10-20T13:44:11.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:28:16.434Z
+published: 2026-10-20T22:28:16.434Z
 aliases: []
 books:
   - Why Cities Feel so Lonely Now.
@@ -20,6 +16,10 @@ icon: video
 location:
   - 37.7702
   - -122.3909
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[San Francisco]]"
 Redeveloped former industrial district of [[San Francisco]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Cities Feel so Lonely Now. | Type Ashton | subject | Private redevelopment with fragmented green space. |
 
 ## Why Cities Feel so Lonely Now. — Type Ashton (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5crd4rygfjmeezgcjzjf28q)
+Source: [Original](https://www.youtube.com/watch?v=JDSAkaep9c0) · [Readwise highlight](https://read.readwise.io/read/01m5crd4rygfjmeezgcjzjf28q)
 
 > Consider the case of San Francisco's Mission Bay neighborhood. Once an industrial area, it was redeveloped over the last few decades, largely through private investment.
 

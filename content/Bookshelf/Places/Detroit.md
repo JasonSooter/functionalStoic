@@ -2,12 +2,8 @@
 publish: true
 title: Detroit
 created: 2026-10-20T19:37:35.000Z
-modified: 2026-10-20T19:37:35.000Z
-published: 2026-10-20T19:37:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:34:17.572Z
+published: 2026-10-20T22:34:17.572Z
 aliases: []
 books:
   - Reading List 08/09/2025
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 42.3317
   - -83.0458
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Michigan]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[Michigan]]"
 City in [[Michigan]], USA, historic centre of the US car industry.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Reading List 08/09/2025 | Brian Potter | subject | The city declined decades before globalisation could kill it. |
 
 ## Reading List 08/09/2025 — Brian Potter (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5dcmadyg9q61c9r1pe7tzqb)
+Source: [Original](https://www.construction-physics.com/p/reading-list-08092025) · [Readwise highlight](https://read.readwise.io/read/01m5dcmadyg9q61c9r1pe7tzqb)
 
 > So globalization couldn’t kill Detroit because Detroit was already dead. Or at least dying.
 

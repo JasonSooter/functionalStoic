@@ -2,12 +2,8 @@
 publish: true
 title: New Hampshire
 created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-20T10:42:40.000Z
-published: 2026-10-20T10:42:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T23:04:06.014Z
+published: 2026-10-20T23:04:06.014Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 43.667
   - -71.4998
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # New Hampshire
@@ -28,18 +28,16 @@ location:
 State in New England, USA.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] | Kyla Scanlon | setting | An ageing state and the trade-offs of building housing. |
 
 ## Sub-places
-
-_None yet._
+- [[Franconia Notch]]
+- [[Lonesome Lake]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
-
-Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Readwise highlight](https://read.readwise.io/read/01m5ce5db01zwgmj8jjk6tpsvp)
+Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5db01zwgmj8jjk6tpsvp)
 
 > New Hampshire is the second-oldest state in the country. The median homeowner is in their late fifties.
 

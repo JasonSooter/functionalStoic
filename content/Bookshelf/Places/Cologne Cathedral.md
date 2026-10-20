@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Kölner Dom
 title: Cologne Cathedral
 created: 2026-10-19T22:23:54.000Z
-modified: 2026-10-20T04:22:18.000Z
-published: 2026-10-20T04:22:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:33:13.290Z
+published: 2026-10-20T22:33:13.290Z
+aliases:
+  - Kölner Dom
 books:
   - Neither Here Nor There
   - I Rode Germany's Most Insane High-Speed Train
@@ -21,6 +17,10 @@ icon: book
 location:
   - 50.9414
   - 6.9583
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Cologne]]"
 ---
 
@@ -29,14 +29,12 @@ within: "[[Cologne]]"
 The Gothic cathedral beside Cologne's main station; see [[Cologne]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | A mighty cathedral ruined for Bryson by the barren concrete plaza around it. |
 | I Rode Germany's Most Insane High-Speed Train | Simply Railway | journey waypoint | The landmark right outside the station at the end of the ride from Brussels. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b43k9w3ap34vee6n4n64jd)
 
 > If you can imagine Salisbury Cathedral in the middle of a shopping-center parking lot, you may get the picture.
@@ -46,8 +44,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5b43k9w3ap34vee6n4
 - **Why it matters:** It's his evidence that postwar planning could wreck even a famous city, and the counterweight to the small cathedral at [[Aachen Cathedral|Aachen]] that moved him the day before.
 
 ## I Rode Germany's Most Insane High-Speed Train — Simply Railway (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5brexwewzbbm47r43c2cdz9)
+Source: [Original](https://www.youtube.com/watch?v=jPEgRQaYDQc) · [Readwise highlight](https://read.readwise.io/read/01m5brexwewzbbm47r43c2cdz9)
 
 > More than 600 years of construction! It survived the bombing of World War II — and it’s right outside the station.
 

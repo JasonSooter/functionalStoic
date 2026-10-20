@@ -1,22 +1,26 @@
 ---
 publish: true
-aliases:
-  - Maraya concert hall
 title: Maraya
 created: 2026-10-20T10:42:21.000Z
-modified: 2026-10-20T10:42:21.000Z
-published: 2026-10-20T10:42:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:27:30.378Z
+published: 2026-10-20T22:27:30.378Z
+aliases:
+  - Maraya concert hall
 books:
   - Is The Line Really Dead?
 categories:
   - "[[Places]]"
 color: purple
-geo_status: needs-pin
+coordinates: 26.7431,37.8653
+geo_source: OSM way 849477802
 icon: video
+location:
+  - 26.7431
+  - 37.8653
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Saudi Arabia]]"
 ---
 
@@ -25,14 +29,12 @@ within: "[[Saudi Arabia]]"
 Mirror-clad concert hall in AlUla, [[Saudi Arabia]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Is The Line Really Dead? | The B1M | backdrop | The mirrored building that tested how mirrors survive the desert. |
 
 ## Is The Line Really Dead? — The B1M (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5ce3gg574a77cjhta13wn32)
+Source: [Original](https://www.youtube.com/watch?v=zFVYgZMEOFg) · [Readwise highlight](https://read.readwise.io/read/01m5ce3gg574a77cjhta13wn32)
 
 > This is Maraya.
 

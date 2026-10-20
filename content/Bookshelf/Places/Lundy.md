@@ -1,26 +1,27 @@
 ---
 publish: true
-aliases:
-  - Lundy Island
 title: Lundy
 created: 2026-10-20T01:35:20.000Z
-modified: 2026-10-20T07:22:55.000Z
-published: 2026-10-20T07:22:55.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:26:48.176Z
+published: 2026-10-20T22:26:48.176Z
+aliases:
+  - Lundy Island
 books:
   - "[[089 a Comprehensive Guide to Devon]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.1832,-4.6692
-geo_note: "approximate: converted from the 1-km OS grid reference SS135460 on English Wikipedia (representative point on the island)"
+geo_note: "approximate: converted from the 1-km OS grid reference SS135460 on English\
+  \ Wikipedia (representative point on the island)"
 icon: newspaper
 location:
   - 51.1832
   - -4.6692
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Devon]]"
 ---
 
@@ -29,14 +30,12 @@ within: "[[Devon]]"
 Island in the Bristol Channel off the north coast of [[Devon]], England.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[089 a Comprehensive Guide to Devon]] | Diagram Club | journey waypoint | A long-awaited boat trip: birds, seals, one pub, one shop, one steep hill. |
 
 ## #089 A comprehensive guide to Devon — Diagram Club (2026)
-
-Source: [[089 a Comprehensive Guide to Devon]] · [Readwise highlight](https://read.readwise.io/read/01m5bey1bzqd1gwfknx759ztn5)
+Source: [[089 a Comprehensive Guide to Devon]] · [Original](https://diagramclub.substack.com/p/089-a-comprehensive-guide-to-devon) · [Readwise highlight](https://read.readwise.io/read/01m5bey1bzqd1gwfknx759ztn5)
 
 > A long-awaited trip to Lundy Island on a boat, which was wonderful.
 

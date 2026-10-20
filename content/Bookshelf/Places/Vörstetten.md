@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Voerstetten
 title: Vörstetten
 created: 2026-10-20T01:36:28.000Z
-modified: 2026-10-20T07:23:42.000Z
-published: 2026-10-20T07:23:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:37:02.304Z
+published: 2026-10-20T22:37:02.304Z
+aliases:
+  - Voerstetten
 books:
   - 88 football-loving kids celebrate their own summer fairy tale in Vörstetten
 categories:
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 48.0642
   - 7.8492
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Baden-Württemberg]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[Baden-Württemberg]]"
 Village just north of Freiburg in the Emmendingen district, [[Baden-Württemberg]], Germany. See also [[Freiburg (Literary)]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 88 football-loving kids celebrate their own summer fairy tale in Vörstetten | BZ editorial team | setting | A village football camp, a visit from SC Freiburg's goalkeeper and a night in tents on the pitch. |
 
 ## 88 football-loving kids celebrate their own summer fairy tale in Vörstetten — BZ editorial team (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bey60kts3yfqa6t8qfq913)
+Source: [Original](https://www.badische-zeitung.de/88-fussballbegeisterte-kids-feiern-ihr-eigenes-sommermaerchen-in-voerstetten) · [Readwise highlight](https://read.readwise.io/read/01m5bey60kts3yfqa6t8qfq913)
 
 > Recently, the sports field in Vörstetten was all about football.
 

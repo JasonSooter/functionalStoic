@@ -2,12 +2,8 @@
 publish: true
 title: Coolsingel
 created: 2026-10-20T10:42:22.000Z
-modified: 2026-10-20T10:42:22.000Z
-published: 2026-10-20T10:42:22.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:33:15.190Z
+published: 2026-10-20T22:33:15.190Z
 aliases: []
 books:
   - The Absolute Best Transportation for Cities (trams)
@@ -20,6 +16,10 @@ icon: video
 location:
   - 51.9227
   - 4.4786
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rotterdam]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[Rotterdam]]"
 Main boulevard in central [[Rotterdam]], Netherlands.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Absolute Best Transportation for Cities (trams) | Not Just Bikes | subject | A tram running on top of a metro line, and both kept. |
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5ce51mg0264vkgdy8pxx804)
+Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise highlight](https://read.readwise.io/read/01m5ce51mg0264vkgdy8pxx804)
 
 > Coolsingel, which was recently redesigned to make more space for walking, cycling,
 

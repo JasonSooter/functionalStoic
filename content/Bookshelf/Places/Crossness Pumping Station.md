@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Crossness
 title: Crossness Pumping Station
 created: 2026-10-20T13:46:24.000Z
-modified: 2026-10-20T13:46:24.000Z
-published: 2026-10-20T13:46:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:34:02.480Z
+published: 2026-10-20T22:34:02.480Z
+aliases:
+  - Crossness
 books:
   - How Did The World Get So Ugly?
 categories:
@@ -21,6 +17,10 @@ icon: video
 location:
   - 51.5091
   - 0.1384
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -29,14 +29,12 @@ within: "[[London]]"
 Victorian sewage pumping station at Abbey Wood, south-east [[London]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Did The World Get So Ugly? | The Cultural Tutor | subject | Proof that sewers were once built as palaces. |
 
 ## How Did The World Get So Ugly? — The Cultural Tutor (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5crf0bbpghp84pn5sv0weyq)
+Source: [Original](https://www.youtube.com/watch?v=tWYxrowovts) · [Readwise highlight](https://read.readwise.io/read/01m5crf0bbpghp84pn5sv0weyq)
 
 > It’s an old sewage facility
 

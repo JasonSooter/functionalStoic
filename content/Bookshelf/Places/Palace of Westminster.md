@@ -1,17 +1,13 @@
 ---
 publish: true
+title: Palace of Westminster
+created: 2026-10-20T01:38:28.000Z
+modified: 2026-10-20T22:30:10.110Z
+published: 2026-10-20T22:30:10.110Z
 aliases:
   - Houses of Parliament
   - Westminster Hall
   - Cloister Court
-title: Palace of Westminster
-created: 2026-10-20T01:38:28.000Z
-modified: 2026-10-20T07:23:11.000Z
-published: 2026-10-20T07:23:11.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - The Multi-Billion Pound Race to Save Parliament
 categories:
@@ -22,6 +18,10 @@ icon: video
 location:
   - 51.4992
   - -0.1247
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -30,14 +30,12 @@ within: "[[London]]"
 The Houses of Parliament on the Thames in [[London]], England.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Multi-Billion Pound Race to Save Parliament | The B1M | subject | A tour of a crumbling building and the decades-long, multi-billion-pound options for saving it. |
 
 ## The Multi-Billion Pound Race to Save Parliament — The B1M (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5beys5c7qsr0w50m85zsbb8)
+Source: [Original](https://www.youtube.com/watch?v=h0K09HTPaKM) · [Readwise highlight](https://read.readwise.io/read/01m5beys5c7qsr0w50m85zsbb8)
 
 > So this is the basement of the Houses of Parliament or the Palace of Westminster, to give it its proper name.
 

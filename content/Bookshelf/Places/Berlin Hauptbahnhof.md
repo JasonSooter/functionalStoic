@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Berlin Hbf
 title: Berlin Hauptbahnhof
 created: 2026-10-20T07:39:39.000Z
-modified: 2026-10-20T07:39:39.000Z
-published: 2026-10-20T07:39:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:29:54.786Z
+published: 2026-10-20T22:29:54.786Z
+aliases:
+  - Berlin Hbf
 books:
   - Is European Sleeper's new "Comfort standard" Class worth the upgrade ?
 categories:
@@ -20,6 +16,10 @@ icon: video
 location:
   - 52.525
   - 13.3694
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berlin]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[Berlin]]"
 Berlin's main railway station, north of the government quarter. See [[Berlin]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Is European Sleeper's new "Comfort standard" Class worth the upgrade ? | Simply Railway | journey waypoint | Morning arrival of the night train from Amsterdam. |
 
 ## Is European Sleeper's new "Comfort standard" Class worth the upgrade ? — Simply Railway (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5c3psaec6zxkph8mjyrs059)
+Source: [Original](https://www.youtube.com/watch?v=-4T9QRiO8Js) · [Readwise highlight](https://read.readwise.io/read/01m5c3psaec6zxkph8mjyrs059)
 
 > Arrival with a tiny delay in Berlin Hbf, but nothing serious!
 

@@ -1,0 +1,46 @@
+---
+publish: true
+title: Foxconn Longhua campus
+created: 2026-10-20T22:54:27.817Z
+modified: 2026-10-20T22:54:27.817Z
+published: 2026-10-20T22:54:27.817Z
+aliases:
+  - Foxconn City
+  - Hon Hai Shenzhen campus
+books:
+  - Breakneck
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 22.6574,114.0162
+geo_note: approximate (Longhua subdistrict/district centre; the text does not name
+  Longhua)
+geo_source: Wikipedia (en) Longhua, Shenzhen
+icon: book
+location:
+  - 22.6574
+  - 114.0162
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Shenzhen]]"
+---
+
+# Foxconn Longhua campus
+
+Foxconn's manufacturing campus in Longhua, northern [[Shenzhen]].
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| Breakneck | Dan Wang | setting | Described as a city-sized factory with dormitories (up to six to a room), cafeterias, a hospital, cinemas and Foxconn University; 300,000 people at peak, three shifts a day. |
+
+## Breakneck — Dan Wang (2025)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5dqyxpbdyq7a59b0t2d1389)
+
+> Foxconn’s manufacturing campus in the north of Shenzhen occupies five hundred acres.
+
+- **Role:** setting
+- **In the book:** Described as a city-sized factory with dormitories (up to six to a room), cafeterias, a hospital, cinemas and Foxconn University; 300,000 people at peak, three shifts a day. Terry Gou drove a golf cart around it; in 2010 over a dozen workers attempted suicide by jumping from dormitories, after which three million square metres of mesh netting were strung around the buildings. Wang found Apple sites the most orderly places in China.
+- **Why it matters:** Shows the regimented scale of iPhone production and the human cost. The text says only 'north of Shenzhen'; the Longhua location is outside knowledge, so the pin is approximate.

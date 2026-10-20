@@ -1,38 +1,42 @@
 ---
 publish: true
+title: Schauinslandbahn
+created: 2026-10-19T14:08:41.000Z
+modified: 2026-10-20T22:34:36.200Z
+published: 2026-10-20T22:34:36.200Z
 aliases:
   - Schauinsland cable car
   - Schauinsland
-title: Schauinslandbahn
-created: 2026-10-19T14:08:41.000Z
-modified: 2026-10-20T07:23:26.000Z
-published: 2026-10-20T07:23:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Experiencing Nature Take the Cable Car!]]"
   - Good Morning at the Schauinsland
   - Over a Coffee with… Viktor and Pierre
   - Highlights from Five Decades
   - "Schauinslandbahn: Floating Tourism Support in Freiburg"
-  - "[[Plenty of Wind for VAG - The Schauinslandbahn Runs on Green Electricity From the Taubenkopf]]"
+  - "[[Plenty of Wind for VAG - The Schauinslandbahn Runs on Green Electricity From\
+    \ the Taubenkopf]]"
   - "[[At the Schauinslandbahn, Safety Comes First]]"
   - "[[The History of the Schauinslandbahn]]"
   - "[[High and Accessible - The Schauinslandbahn]]"
-  - "[[Reaching for the Heights for 90 Years – The Schauinslandbahn Celebrates Its Birthday]]"
+  - "[[Reaching for the Heights for 90 Years – The Schauinslandbahn Celebrates Its\
+    \ Birthday]]"
   - "Reaching for the Heights: New Panorama Terrace on the Schauinsland"
   - "Barrier-Free Up the Mountain: By Bus, Cable Car and with Consideration for Animals"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 47.936,7.8654
-geo_note: Article-level coordinate from German Wikipedia (47°56′9.6″N 7°51′55.6″E); the line runs 3.6 km from the valley station (473 m) to the summit station (~1,220 m)
+geo_note: Article-level coordinate from German Wikipedia (47°56′9.6″N 7°51′55.6″E);
+  the line runs 3.6 km from the valley station (473 m) to the summit station (~1,220
+  m)
 icon: newspaper
 location:
   - 47.936
   - 7.8654
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Freiburg (Literary)]]"
 ---
 
@@ -41,7 +45,6 @@ within: "[[Freiburg (Literary)]]"
 Freiburg's cable car up the Schauinsland, the city's local Black Forest mountain; opened 1930. See [[Freiburg (Literary)]] and the Travel note [[Freiburg]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Experiencing Nature Take the Cable Car!]] | VAG Freiburg | subject | Three long-serving staff on running, rebuilding and relicensing the world's first continuously circulating cable car. |
@@ -59,7 +62,7 @@ Freiburg's cable car up the Schauinsland, the city's local Black Forest mountain
 
 ## Experiencing Nature? Take the Cable Car! — VAG Freiburg (2025)
 
-Source: [[Experiencing Nature Take the Cable Car!]] · [Readwise highlight](https://read.readwise.io/read/01m5a7vmd5b83dydhrkgbat8b3)
+Source: [[Experiencing Nature Take the Cable Car!]] · [Original](https://blog.vag-freiburg.de/natur-erleben-seilbahn-fahren/) · [Readwise highlight](https://read.readwise.io/read/01m5a7vmd5b83dydhrkgbat8b3)
 
 > When it opened in 1930, it was even a true wonder of the world, being the very first continuously circulating passenger cable car on the planet.
 
@@ -68,8 +71,7 @@ Source: [[Experiencing Nature Take the Cable Car!]] · [Readwise highlight](http
 - **Why it matters:** The cable car is the whole subject; the piece is about keeping a 1930 landmark running. It's also a local place for Jason, Freiburg's own mountain ride, and several other archived VAG articles cover it, so expect more sources here.
 
 ## Good Morning at the Schauinsland — VAG Freiburg (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bexmh4vsfnhx0p0ymbdfy9)
+Source: [Original](https://blog.vag-freiburg.de/guten-morgen-am-schauinsland/) · [Readwise highlight](https://read.readwise.io/read/01m5bexmh4vsfnhx0p0ymbdfy9)
 
 > Probably no one knows the Schauinslandbahn as well as he does: Günter Voigt is the operations manager of the cable car and has worked there for more than three decades.
 
@@ -78,8 +80,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5bexmh4vsfnhx0p0ym
 - **Why it matters:** The cable car is the whole subject: the article is a portrait of the routine that makes each day's first ride possible.
 
 ## Over a Coffee with… Viktor and Pierre — VAG Freiburg (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bexrwsbgt43pneyjkvhfb1)
+Source: [Original](https://blog.vag-freiburg.de/kaffee_mit_schauinslandbahn/) · [Readwise highlight](https://read.readwise.io/read/01m5bexrwsbgt43pneyjkvhfb1)
 
 > In 2014 Erdle moved to the Schauinslandbahn after his apprenticeship, and two years later Schmidt followed.
 
@@ -88,8 +89,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5bexrwsbgt43pneyjk
 - **Why it matters:** Minor: the cable car is the workplace rather than the subject, but it is the only place the piece is set.
 
 ## Highlights from Five Decades — VAG Freiburg (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bexp903fhx323hde8nh1hh)
+Source: [Original](https://blog.vag-freiburg.de/hightlights-aus-fuenf-jahrzehnten/) · [Readwise highlight](https://read.readwise.io/read/01m5bexp903fhx323hde8nh1hh)
 
 > But of all times, in the days of the major operation, there is a metre and a half of snow on the Schauinsland.
 
@@ -98,8 +98,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5bexp903fhx323hde8
 - **Why it matters:** It is the fullest history of the line among these sources, told as one person's working life.
 
 ## Schauinslandbahn: Floating Tourism Support in Freiburg — VAG Freiburg (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bexqc0hm6qejwftq5jakd7)
+Source: [Original](https://blog.vag-freiburg.de/schauinslandbahn-schwebende-tourismus-foerderung-in-freiburg/) · [Readwise highlight](https://read.readwise.io/read/01m5bexqc0hm6qejwftq5jakd7)
 
 > But it is far more than just a comfortable way to enjoy the magnificent view of the Black Forest.
 
@@ -108,7 +107,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5bexqc0hm6qejwftq5
 - **Why it matters:** The place is the subject, but the article is all numbers, with no scenes or description of the ride.
 
 ## Plenty of Wind for VAG: The Schauinslandbahn Runs on Green Electricity from the Taubenkopf — VAG Freiburg (2026)
-
 Source: [[Plenty of Wind for VAG - The Schauinslandbahn Runs on Green Electricity From the Taubenkopf]] · [Readwise highlight](https://read.readwise.io/read/01m5bextat6a6kk9c0367n162y)
 
 > Just two kilometres separate our Schauinslandbahn from the two new wind turbines on the Taubenkopf.
@@ -118,7 +116,6 @@ Source: [[Plenty of Wind for VAG - The Schauinslandbahn Runs on Green Electricit
 - **Why it matters:** The cable car is the hook; the real subject is the Taubenkopf turbines, which aren't pinned (no standard-source coordinate was found).
 
 ## At the Schauinslandbahn, Safety Comes First — VAG Freiburg (2026)
-
 Source: [[At the Schauinslandbahn, Safety Comes First]] · [Readwise highlight](https://read.readwise.io/read/01m5bexk28n7astvkxp8m59fr2)
 
 > But passengers have no reason to worry, because safety comes first at the Schauinslandbahn.
@@ -128,8 +125,7 @@ Source: [[At the Schauinslandbahn, Safety Comes First]] · [Readwise highlight](
 - **Why it matters:** The cable car is the whole subject: the article answers the vertigo question by showing the maintenance regime behind each ride.
 
 ## The History of the Schauinslandbahn — VAG Freiburg (2026)
-
-Source: [[The History of the Schauinslandbahn]] · [Readwise highlight](https://read.readwise.io/read/01m5bfxjt82mcj8gxpgd23ebjv)
+Source: [[The History of the Schauinslandbahn]] · [Original](https://blog.vag-freiburg.de/geschichte-schauinslandbahn/) · [Readwise highlight](https://read.readwise.io/read/01m5bfxjt82mcj8gxpgd23ebjv)
 
 > The construction of the cable car proceeded without problems, and so the day finally came on 17 July 1930: the world’s first large-cabin suspended cable car with a circulating system was opened.
 
@@ -138,8 +134,7 @@ Source: [[The History of the Schauinslandbahn]] · [Readwise highlight](https://
 - **Why it matters:** The fullest account of the line's origins, and its one wartime scene; the Hotel Kyburg isn't pinned (the text doesn't place it).
 
 ## High and Accessible: The Schauinslandbahn — VAG Freiburg (2026)
-
-Source: [[High and Accessible - The Schauinslandbahn]] · [Readwise highlight](https://read.readwise.io/read/01m5bfxgnaf18gye7tm4bhya7q)
+Source: [[High and Accessible - The Schauinslandbahn]] · [Original](https://blog.vag-freiburg.de/schauinslandbahn-barrierefrei/) · [Readwise highlight](https://read.readwise.io/read/01m5bfxgnaf18gye7tm4bhya7q)
 
 > Since 1930, the Schauinslandbahn has attracted visitors from near and far to float high up onto Freiburg’s local mountain.
 
@@ -148,8 +143,7 @@ Source: [[High and Accessible - The Schauinslandbahn]] · [Readwise highlight](h
 - **Why it matters:** The cable car is the subject; the article is about who can reach the mountain.
 
 ## Reaching for the Heights for 90 Years – The Schauinslandbahn Celebrates Its Birthday — VAG Freiburg (2020)
-
-Source: [[Reaching for the Heights for 90 Years – The Schauinslandbahn Celebrates Its Birthday]] · [Readwise highlight](https://read.readwise.io/read/01m5bfxf5bsegwfpakqxy4pa9g)
+Source: [[Reaching for the Heights for 90 Years – The Schauinslandbahn Celebrates Its Birthday]] · [Original](https://blog.vag-freiburg.de/90-jahre-schauinslandbahn/) · [Readwise highlight](https://read.readwise.io/read/01m5bfxf5bsegwfpakqxy4pa9g)
 
 > Those involved, guests of honour and many dignitaries have gathered at the valley station to celebrate the world sensation: the very first passenger circulating cable car in the world!
 
@@ -158,8 +152,7 @@ Source: [[Reaching for the Heights for 90 Years – The Schauinslandbahn Celebra
 - **Why it matters:** The opening-day scene that every later source looks back to.
 
 ## Reaching for the Heights: New Panorama Terrace on the Schauinsland — VAG Freiburg (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxdm4j34v3efepaja4x3w)
+Source: [Original](https://blog.vag-freiburg.de/panorama-schauinsland/) · [Readwise highlight](https://read.readwise.io/read/01m5bfxdm4j34v3efepaja4x3w)
 
 > At the summit station of the Schauinslandbahn, cable car passengers can now use a spacious, barrier-free panorama terrace with seating.
 
@@ -168,7 +161,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxdm4j34v3efepaj
 - **Why it matters:** A short news item on the summit station; minor, but it fills in what visitors find at the top.
 
 ## Barrier-Free Up the Mountain: By Bus, Cable Car and with Consideration for Animals — VAG Freiburg (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxc9gvbdbnd4dm6yq05se)
 
 > In future, two barrier-free bus platforms will be available, expanding the barrier-free offering of the Schauinsland by an essential point.

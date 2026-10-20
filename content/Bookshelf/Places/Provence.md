@@ -2,18 +2,18 @@
 publish: true
 title: Provence
 created: 2026-10-20T01:38:52.000Z
-modified: 2026-10-20T19:41:46.000Z
-published: 2026-10-20T19:41:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T23:05:19.384Z
+published: 2026-10-20T23:05:19.384Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Provence
@@ -21,10 +21,12 @@ icon: book
 Region of south-eastern France; see also the [[France]] travel note. Hub for literary places in the region.
 
 ## Sub-places
-
+- [[Avignon]]
+- [[Beaumes-de-Venise]]
 - [[Bedoin]]
 - [[Brantes]]
 - [[Caromb]]
+- [[Carpentras market]]
 - [[Forcalquier]]
 - [[Gigondas]]
 - [[Gorges de la Nesque]]
@@ -36,5 +38,6 @@ Region of south-eastern France; see also the [[France]] travel note. Hub for lit
 - [[Nyons]]
 - [[Orange station (Vaucluse)]]
 - [[Sault]]
+- [[Suzette]]
 - [[Velocio monument (Pernes-les-Fontaines)]]
 - [[Verdon Gorge]]

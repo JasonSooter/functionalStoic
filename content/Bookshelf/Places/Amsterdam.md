@@ -2,12 +2,8 @@
 publish: true
 title: Amsterdam
 created: 2026-10-19T22:28:50.000Z
-modified: 2026-10-20T19:41:54.000Z
-published: 2026-10-20T19:41:54.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-20T22:28:36.880Z
+published: 2026-10-20T22:28:36.880Z
 aliases: []
 books:
   - The Absolute Best Transportation for Cities (trams)
@@ -20,6 +16,10 @@ icon: video
 location:
   - 52.3728
   - 4.8936
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Amsterdam
@@ -27,7 +27,6 @@ location:
 Capital of the Netherlands; see also the [[Netherlands]] travel note. Hub for literary places in the city.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Absolute Best Transportation for Cities (trams) | Not Just Bikes | setting | The narrator's home network: level boarding, signal priority, grassy tracks. |
@@ -42,8 +41,7 @@ Capital of the Netherlands; see also the [[Netherlands]] travel note. Hub for li
 - [[IJburg]]
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5ce4c0gce6ey5182hv2c750)
+Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise highlight](https://read.readwise.io/read/01m5ce4c0gce6ey5182hv2c750)
 
 > The tram network here in Amsterdam is pretty great.
 
