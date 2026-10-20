@@ -2,8 +2,8 @@
 publish: true
 title: Italy
 created: 2026-10-20T01:38:54.000Z
-modified: 2026-10-20T13:49:36.970Z
-published: 2026-10-20T13:49:36.970Z
+modified: 2026-10-20T16:29:35.513Z
+published: 2026-10-20T16:29:35.513Z
 aliases:
   - Italia
 books: []
@@ -32,6 +32,7 @@ See the [[Italy]] travel note. Hub for literary places in Italy that have no cit
 - [[Lazio]]
 - [[Milan]]
 - [[Naples]]
+- [[Pisa]]
 - [[Recanati]]
 - [[Sanremo]]
 - [[Sorrento]]

@@ -2,8 +2,8 @@
 publish: true
 title: India
 created: 2026-10-20T07:53:33.815Z
-modified: 2026-10-20T10:45:20.369Z
-published: 2026-10-20T10:45:20.369Z
+modified: 2026-10-20T16:29:09.735Z
+published: 2026-10-20T16:29:09.735Z
 aliases: []
 books: []
 categories:
@@ -24,5 +24,6 @@ Country in South Asia. Hub for literary places in the country.
 
 - [[Atal Tunnel]]
 - [[Chenab Bridge]]
+- [[Karnataka]]
 - [[Silkyara Tunnel]]
 - [[Zojila Tunnel]]

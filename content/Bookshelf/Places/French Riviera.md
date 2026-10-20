@@ -2,8 +2,8 @@
 publish: true
 title: French Riviera
 created: 2026-10-20T13:43:24.109Z
-modified: 2026-10-20T13:43:24.109Z
-published: 2026-10-20T13:43:24.109Z
+modified: 2026-10-20T16:29:14.459Z
+published: 2026-10-20T16:29:14.459Z
 aliases:
   - Riviera
   - Côte d'Azur
@@ -37,7 +37,10 @@ Mediterranean coast of south-east France, the Côte d'Azur. Part of [[France (Li
 | [[Bonjour Tristesse]] | Françoise Sagan | setting | The summer world of the rented villa. |
 
 ## Sub-places
+
 - [[Cannes]]
+- [[Route de l'Esterel]]
+- [[Saint-Raphaël]]
 
 ## Bonjour Tristesse — Françoise Sagan (1954)
 Source: [[Bonjour Tristesse]] · [Readwise highlight](https://read.readwise.io/read/01m5crcmgeke23p7vbcybbgyjg)

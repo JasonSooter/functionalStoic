@@ -2,8 +2,8 @@
 publish: true
 title: New Orleans
 created: 2026-10-20T02:11:53.000Z
-modified: 2026-10-20T07:23:07.853Z
-published: 2026-10-20T07:23:07.853Z
+modified: 2026-10-20T16:29:15.228Z
+published: 2026-10-20T16:29:15.228Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -31,7 +31,9 @@ City on the Mississippi in Louisiana, USA.
 | Why the Levees Failed in New Orleans | Practical Engineering | subject | The 2005 flooding as an engineering failure, not a natural disaster. |
 
 ## Sub-places
-_None yet._
+
+- [[Chartres Street]]
+- [[Esplanade Avenue]]
 
 ## Why the Levees Failed in New Orleans — Practical Engineering (2026)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxmvdeb9rbhz077cjjf31)

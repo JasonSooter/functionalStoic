@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2026-10-20T04:35:47.000Z
-modified: 2026-10-20T13:49:28.582Z
-published: 2026-10-20T13:49:28.582Z
+modified: 2026-10-20T16:29:33.061Z
+published: 2026-10-20T16:29:33.061Z
 aliases: []
 books: []
 categories:
@@ -23,6 +23,7 @@ Hub for literary places in California. See the Travel note [[California]] and th
 ## Sub-places
 
 - [[Berkeley, California]]
+- [[Cajon Pass]]
 - [[Fairfax, California]]
 - [[Hangar One (Mountain View)]]
 - [[Los Angeles Aqueduct]]

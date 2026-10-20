@@ -2,8 +2,8 @@
 publish: true
 title: China
 created: 2026-10-20T07:53:40.291Z
-modified: 2026-10-20T07:53:40.291Z
-published: 2026-10-20T07:53:40.291Z
+modified: 2026-10-20T16:28:59.462Z
+published: 2026-10-20T16:28:59.462Z
 aliases: []
 books: []
 categories:
@@ -22,4 +22,5 @@ Country in East Asia. Hub for literary places in the country (see also [[Chongqi
 
 ## Sub-places
 
+- [[Chengdu]]
 - [[Taiyuan]]
