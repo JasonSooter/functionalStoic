@@ -2,8 +2,8 @@
 publish: true
 title: Zurich
 created: 2026-10-20T01:37:46.000Z
-modified: 2026-10-21T10:24:02.618Z
-published: 2026-10-21T10:24:02.618Z
+modified: 2026-10-21T16:27:10.030Z
+published: 2026-10-21T16:27:10.030Z
 aliases:
   - Zürich
 books:
@@ -25,7 +25,7 @@ within: "[[Switzerland]]"
 
 # Zurich
 
-Switzerland's largest city, at the north end of Lake Zurich. See [[Switzerland]] and the Travel note [[Switzerland]].
+Switzerland's largest city, at the north end of Lake Zurich (see [[Switzerland]]). It is the case study in an OBF video on how votes against burying the trams made it a tram-first, car-light city.
 
 ## At a glance
 | Source | Author | Role | In one line |

@@ -2,8 +2,8 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-21T13:55:24.996Z
-published: 2026-10-21T13:55:24.996Z
+modified: 2026-10-21T16:39:02.639Z
+published: 2026-10-21T16:39:02.639Z
 aliases: []
 books: []
 categories:
@@ -23,6 +23,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 ## Sub-places
 
 - [[Adams Tunnel]]
+- [[Amache National Historic Site]]
 - [[Aspen]]
 - [[Boulder, Colorado]]
 - [[Buckhorn Road]]
@@ -31,11 +32,13 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Colorado River]]
 - [[Colorado State Highway 9 wildlife crossings]]
 - [[Denver]]
+- [[Durango]]
 - [[East Vail Pass]]
 - [[Flatiron Reservoir]]
 - [[Fort Collins]]
 - [[Front Range Passenger Rail]]
 - [[Gramma Grass & Livestock]]
+- [[Granby]]
 - [[Green Mountain Reservoir]]
 - [[Greenland Wildlife Overpass]]
 - [[Gross Dam]]
@@ -44,6 +47,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[I-70 at Genesee]]
 - [[Lake Estes]]
 - [[Lake Granby]]
+- [[Lemon Reservoir]]
 - [[Longmont]]
 - [[Louisville, Colorado]]
 - [[Magnolia Road]]
@@ -56,6 +60,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Rocky Mountain National Park]]
 - [[Ruby Canyon]]
 - [[Saddle Horn Drive and River Pass Road (Timnath)]]
+- [[Salida]]
 - [[Snowmass Lake]]
 - [[Stove Prairie]]
 - [[Telluride Gondola]]

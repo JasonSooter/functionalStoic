@@ -2,8 +2,8 @@
 publish: true
 title: New Jersey
 created: 2026-10-20T07:53:42.000Z
-modified: 2026-10-21T11:07:31.629Z
-published: 2026-10-21T11:07:31.629Z
+modified: 2026-10-21T16:38:58.227Z
+published: 2026-10-21T16:38:58.227Z
 aliases: []
 books: []
 categories:
@@ -21,6 +21,7 @@ tags:
 US state between New York and Pennsylvania. Hub for literary places in the state.
 
 ## Sub-places
+
 - [[Big Rusty]]
 - [[Burlington City riverfront]]
 - [[Columbia Trail]]
@@ -34,6 +35,7 @@ US state between New York and Pennsylvania. Hub for literary places in the state
 - [[Mercer Meadows]]
 - [[Montclair, New Jersey]]
 - [[Mount Holly]]
+- [[Princeton (What was I made for)]]
 - [[Princeton Junction station]]
 - [[Rancocas Nature Center]]
 - [[Soozel Sweets]]

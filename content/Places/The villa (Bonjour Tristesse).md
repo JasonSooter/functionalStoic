@@ -2,12 +2,8 @@
 publish: true
 title: The villa (Bonjour Tristesse)
 created: 2026-10-21T04:45:40.000Z
-modified: 2026-10-21T04:45:40.000Z
-published: 2026-10-21T04:45:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T16:26:00.869Z
+published: 2026-10-21T16:26:00.869Z
 aliases: []
 books:
   - "[[Bonjour Tristesse]]"
@@ -16,28 +12,33 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 43.4252,6.7684
-geo_note: "inferred: the rented white villa on the Mediterranean (and Cyril's family villa next door) pinned at Estérel coast near Saint-Raphaël / Fréjus, Var, French Riviera; see Where is it? (Town centre used as representative point for the unnamed villa and Cyril's neighbouring villa.)"
+geo_note: "inferred: the rented white villa on the Mediterranean (and Cyril's family\
+  \ villa next door) pinned at Estérel coast near Saint-Raphaël / Fréjus, Var, French\
+  \ Riviera; see Where is it? (Town centre used as representative point for the unnamed\
+  \ villa and Cyril's neighbouring villa.)"
 geo_source: Wikipedia (en) Saint-Raphaël, Var
 icon: book
 location:
   - 43.4252
   - 6.7684
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Saint-Raphaël]]"
 ---
 
 # The villa (Bonjour Tristesse)
 
-Unnamed or fictional setting in _Bonjour Tristesse_; pinned at an inferred location within [[Saint-Raphaël]].
+Fictional rented white villa on a pine-hidden promontory above the Mediterranean, pinned at an inferred location within [[Saint-Raphaël]]. It is where Cécile, her father and Elsa spend the summer in Sagan's _Bonjour Tristesse_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Bonjour Tristesse]] | Françoise Sagan | setting | Cécile, her father Raymond and his girlfriend Elsa spend two idle summer months in a secluded white villa on a pine-hidden promontory above a small rocky inlet. |
+| [[Bonjour Tristesse]] | Françoise Sagan | setting | Cécile, her father Raymond and his girlfriend Elsa spend two idle summer months in a secluded white villa above a small rocky inlet. |
 
 ## Bonjour Tristesse — Françoise Sagan (1954)
-
-Source: [[Bonjour Tristesse]] · [Readwise highlight](https://read.readwise.io/read/01m5ebwgrrtk4qkx1d2qe4x28b)
+Source: [[Bonjour Tristesse]] · [Original](https://openlibrary.org/works/OL584333W) · [Readwise highlight](https://read.readwise.io/read/01m5ebwgrrtk4qkx1d2qe4x28b)
 
 > He had rented a large white villa on the Mediterranean, a gorgeous, secluded house that we had been dreaming of since the beginning of the warm weather in June.
 

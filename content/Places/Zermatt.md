@@ -2,8 +2,8 @@
 publish: true
 title: Zermatt
 created: 2026-10-20T01:38:05.000Z
-modified: 2026-10-21T10:24:12.339Z
-published: 2026-10-21T10:24:12.339Z
+modified: 2026-10-21T16:27:12.846Z
+published: 2026-10-21T16:27:12.846Z
 aliases: []
 books:
   - The Alpine Hotel You Can't Get to by Car
@@ -25,7 +25,7 @@ within: "[[Switzerland]]"
 
 # Zermatt
 
-Car-free mountain village below the Matterhorn, Valais, Switzerland; see [[Switzerland]] and the Travel note [[Switzerland]]. Hub for literary places around the village.
+Car-free mountain village below the Matterhorn, Valais, Switzerland (see [[Switzerland]]). It appears in a Not Just Bikes video as the low-car gateway to the Gornergrat railway.
 
 ## At a glance
 | Source | Author | Role | In one line |

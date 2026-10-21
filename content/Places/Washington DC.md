@@ -2,8 +2,8 @@
 publish: true
 title: Washington, D.C.
 created: 2026-10-20T10:48:36.000Z
-modified: 2026-10-21T13:56:55.875Z
-published: 2026-10-21T13:56:55.875Z
+modified: 2026-10-21T16:39:30.750Z
+published: 2026-10-21T16:39:30.750Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -35,6 +35,7 @@ Capital of the United States. Hub for literary places in the region.
 
 - [[Anacostia River Trail]]
 - [[DC USA]]
+- [[East Room]]
 - [[Friendship Baptist Church]]
 - [[K Street (Washington, D.C.)]]
 - [[Rubell Museum]]

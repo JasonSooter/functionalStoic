@@ -2,12 +2,8 @@
 publish: true
 title: Zhangzhou Nuclear Power Plant
 created: 2026-10-20T02:09:46.000Z
-modified: 2026-10-21T04:22:47.000Z
-published: 2026-10-21T04:22:47.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T16:26:49.461Z
+published: 2026-10-21T16:26:49.461Z
 aliases: []
 books:
   - Why China is Winning The Nuclear Power Race
@@ -19,20 +15,22 @@ icon: video
 location:
   - 23.8292
   - 117.4917
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Zhangzhou Nuclear Power Plant
 
-Nuclear power station near Zhangzhou, Fujian, China.
+Nuclear power station near Zhangzhou, Fujian, China. It appears in The B1M's video on China's nuclear build-out as the largest site built only with Hualong One reactors.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why China is Winning The Nuclear Power Race | The B1M | subject | The largest site built only with Hualong One reactors. |
 
 ## Why China is Winning The Nuclear Power Race — The B1M (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=uTCA6RZmQbY) · [Readwise highlight](https://read.readwise.io/read/01m5bfwxyvb75t68sx2tp6rx2b)
 
 > Another facility that's worthy of mention is this one, the Zhangzhou Nuclear Power Plant.

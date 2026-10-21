@@ -2,8 +2,8 @@
 publish: true
 title: Statue of Unity
 created: 2026-10-21T14:11:43.190Z
-modified: 2026-10-21T14:11:43.190Z
-published: 2026-10-21T14:11:43.190Z
+modified: 2026-10-21T16:21:47.892Z
+published: 2026-10-21T16:21:47.892Z
 aliases: []
 books:
   - I found inspiration in India – Bill Gates
@@ -25,7 +25,7 @@ within: "[[India]]"
 
 # Statue of Unity
 
-Statue of Unity is a giant statue of Sardar Vallabhbhai Patel in Gujarat, India. It turns up in I found inspiration in India – Bill Gates (Bill Gates): The most vividly described site in the post, used to illustrate local development; a waypoint rather than a turning point.
+Giant statue of Sardar Vallabhbhai Patel in Gujarat, India. It appears in Bill Gates's India travel post as the most vividly described site, used to illustrate local development.
 
 ## At a glance
 | Source | Author | Role | In one line |

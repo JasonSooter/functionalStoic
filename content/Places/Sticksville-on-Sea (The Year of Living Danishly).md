@@ -2,8 +2,8 @@
 publish: true
 title: Sticksville-on-Sea (The Year of Living Danishly)
 created: 2026-10-21T10:49:31.566Z
-modified: 2026-10-21T10:49:31.566Z
-published: 2026-10-21T10:49:31.566Z
+modified: 2026-10-21T16:22:49.745Z
+published: 2026-10-21T16:22:49.745Z
 aliases:
   - Sticksville-on-Sea
 books:
@@ -30,7 +30,7 @@ within: "[[Brejning]]"
 
 # Sticksville-on-Sea (The Year of Living Danishly)
 
-Helen Russell's name for her seaside home village in Jutland, Denmark; the text never names it. The likeliest real place is Brejning on Vejle Fjord, site of Christian Keller's institutions.
+Helen Russell's nickname for her unnamed beachside home village in Jutland, Denmark, which is the base for her year-long experiment in _The Year of Living Danishly_. The likeliest real place is Brejning on Vejle Fjord, site of Christian Keller's institutions.
 
 ## At a glance
 | Source | Author | Role | In one line |

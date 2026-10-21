@@ -2,8 +2,8 @@
 publish: true
 title: Sweden
 created: 2024-10-05T01:15:15.417Z
-modified: 2026-10-21T10:52:20.521Z
-published: 2026-10-21T10:52:20.521Z
+modified: 2026-10-21T16:39:44.806Z
+published: 2026-10-21T16:39:44.806Z
 aliases:
   - Malmo
   - Stockholm
@@ -167,9 +167,11 @@ SL: Android App: [SL-Journey planner and Tickets](https://play.google.com/store/
 | Sweden wants to trademark its name - and honestly, I get it | Helen Russell | subject | Sweden applies to trademark its own name. |
 
 ## Sub-places
+
 - [[Eskilstuna]]
 - [[Gothenburg]]
 - [[Hudiksvall]]
+- [[Lake Fryken]]
 - [[Skåne]]
 - [[Strömsund Bridge]]
 - [[Uppsala]]

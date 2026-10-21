@@ -2,8 +2,8 @@
 publish: true
 title: Denver
 created: 2026-10-21T02:06:45.000Z
-modified: 2026-10-21T13:58:00.455Z
-published: 2026-10-21T13:58:00.455Z
+modified: 2026-10-21T16:39:06.911Z
+published: 2026-10-21T16:39:06.911Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -33,8 +33,10 @@ Hub note; sits within [[Colorado]].
 | [[Walkable City]] | Jeff Speck | subject | Denver is the home of Henry Barnes and the scramble crossing; Speck criticizes its lengthening of pedestrian cycles from 75 to 90 seconds. |
 
 ## Sub-places
+
 - [[Colorado State Capitol]]
 - [[LoDo]]
+- [[Wild Life Ranch]]
 
 ## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbnk9w5afbsxnbdqryf1qw)

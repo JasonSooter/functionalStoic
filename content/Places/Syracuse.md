@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Syracuse
+created: 2026-10-19T22:28:11.000Z
+modified: 2026-10-21T16:25:35.804Z
+published: 2026-10-21T16:25:35.804Z
 aliases:
   - Siracusa
   - Syracuse, Sicily
-title: Syracuse
-created: 2026-10-19T22:28:11.000Z
-modified: 2026-10-19T22:28:11.000Z
-published: 2026-10-19T22:28:11.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -21,22 +17,24 @@ icon: book
 location:
   - 37.0692
   - 15.2875
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Sicily]]"
 ---
 
 # Syracuse
 
-Ancient Greek city on the south-east coast of [[Sicily]], where Archimedes lived and died.
+Ancient Greek city on the south-east coast of [[Sicily]], where Archimedes lived and died. It appears in Rovelli's essay on Archimedes, whose death in the Roman sack of the city begins a long eclipse of his science.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | turning point | Archimedes dies in the Roman sack, and with him a scientific world. |
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
-
-Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Readwise highlight](https://read.readwise.io/read/01m5b44npmdaydkkj7smd372xe)
+Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5b44npmdaydkkj7smd372xe)
 
 > Archimedes was slaughtered by the Romans during the sacking of Syracuse, the last proud remnant of Magna Grecia to fall under the Roman yoke
 

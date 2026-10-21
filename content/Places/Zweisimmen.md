@@ -2,8 +2,8 @@
 publish: true
 title: Zweisimmen
 created: 2026-10-20T07:38:05.000Z
-modified: 2026-10-21T10:24:15.171Z
-published: 2026-10-21T10:24:15.171Z
+modified: 2026-10-21T16:27:10.942Z
+published: 2026-10-21T16:27:10.942Z
 aliases: []
 books:
   - I Took a Train Through a Winter Wonderland
@@ -24,7 +24,7 @@ within: "[[Switzerland]]"
 
 # Zweisimmen
 
-Village in the Bernese Oberland, Switzerland, at the end of the MOB line from Montreux. See [[Switzerland]].
+Village in the Bernese Oberland, Switzerland, at the end of the MOB line from Montreux (see [[Switzerland]]). It appears in Simply Railway's winter train video as the terminus of the ride.
 
 ## At a glance
 | Source | Author | Role | In one line |

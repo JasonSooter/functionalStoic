@@ -2,8 +2,8 @@
 publish: true
 title: Seattle
 created: 2025-03-25T12:06:03.737Z
-modified: 2026-10-21T14:12:34.638Z
-published: 2026-10-21T14:12:34.638Z
+modified: 2026-10-21T16:39:46.810Z
+published: 2026-10-21T16:39:46.810Z
 books:
   - How $100 Per Voter Makes Seattle’s Elections More Inclusive
   - "[[Four Thousand Weeks]]"
@@ -87,6 +87,7 @@ Airport → Downtown
 - [[Homer M Hadley Memorial Bridge]]
 - [[Lacey V Murrow Memorial Bridge]]
 - [[Recycled Cycles]]
+- [[Seattle Aquarium]]
 - [[South Lake Union]]
 
 ## How $100 Per Voter Makes Seattle’s Elections More Inclusive — Amy Sundberg (2025)

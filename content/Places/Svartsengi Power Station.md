@@ -2,8 +2,8 @@
 publish: true
 title: Svartsengi Power Station
 created: 2026-10-21T14:12:03.464Z
-modified: 2026-10-21T14:12:03.464Z
-published: 2026-10-21T14:12:03.464Z
+modified: 2026-10-21T16:23:44.581Z
+published: 2026-10-21T16:23:44.581Z
 aliases:
   - Svartsengi Island geothermal plant
 books:
@@ -26,12 +26,12 @@ within: "[[Iceland]]"
 
 # Svartsengi Power Station
 
-Svartsengi Power Station is a geothermal power station on the Reykjanes peninsula in Iceland. It turns up in If all humans died, when would the last light go out? (xkcd's What If?): A concrete data point for the argument; a passing but specific example.
+Geothermal power station on the Reykjanes peninsula in Iceland. It appears in an xkcd What If? video as the example whose maintenance schedule shows what would lapse without humans.
 
 ## At a glance
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| If all humans died, when would the last light go out? | xkcd's What If? | backdrop | Cited as the geothermal example: its maintenance schedule (gearbox oil and motor re-greasing every six months) shows what would lapse… |
+| If all humans died, when would the last light go out? | xkcd's What If? | backdrop | Its maintenance schedule (gearbox oil and motor re-greasing every six months) shows what would lapse without humans. |
 
 ## If all humans died, when would the last light go out? — xkcd's What If? (2024)
 Source: [Original](https://www.youtube.com/watch?v=8fADp43wJwU) · [Readwise highlight](https://read.readwise.io/read/01m5fcnz8psfrq3b5d3eejfe66)

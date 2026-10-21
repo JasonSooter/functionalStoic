@@ -2,8 +2,8 @@
 publish: true
 title: Jutland
 created: 2026-10-21T10:49:05.578Z
-modified: 2026-10-21T10:49:05.578Z
-published: 2026-10-21T10:49:05.578Z
+modified: 2026-10-21T16:39:43.702Z
+published: 2026-10-21T16:39:43.702Z
 aliases: []
 books:
   - The post I didn't want to write…
@@ -34,8 +34,10 @@ Peninsula forming mainland Denmark, between the North Sea and the Kattegat. Hele
 | The post I didn't want to write… | Helen Russell | setting | Where Russell lived for almost 12 years and had her three children. |
 
 ## Sub-places
+
 - [[Aarhus]]
 - [[Brejning]]
+- [[Klode Mølle (Nordic Tales)]]
 - [[Kolding]]
 
 ## The post I didn't want to write… — Helen Russell

@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-21T14:11:43.358Z
-published: 2026-10-21T14:11:43.358Z
+modified: 2026-10-21T16:39:29.522Z
+published: 2026-10-21T16:39:29.522Z
 aliases:
   - NYC
 books:
@@ -43,6 +43,8 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[420 East 51st Street]]
 - [[432 Park Avenue]]
 - [[57 Great Jones Street]]
+- [[Allen AME Church (Queens)]]
+- [[Broadway Presbyterian Church]]
 - [[Brooklyn]]
 - [[Central Park]]
 - [[Chrysler Building]]
@@ -55,8 +57,10 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Madison Square Garden (1890)]]
 - [[Myka]]
 - [[New York Public Library Main Branch]]
+- [[Queens Village]]
 - [[Times Square]]
 - [[Topos Too]]
+- [[Union Theological Seminary]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5e0fq0803z77naxg4e2r)

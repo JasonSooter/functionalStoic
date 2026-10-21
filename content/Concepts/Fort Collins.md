@@ -2,8 +2,8 @@
 publish: true
 title: Fort Collins
 created: 2024-07-27T14:27:02-06:00
-modified: 2026-10-21T14:12:17.501Z
-published: 2026-10-21T14:12:17.501Z
+modified: 2026-10-21T16:38:29.331Z
+published: 2026-10-21T16:38:29.331Z
 aliases:
   - FoCo
 books:
@@ -11,6 +11,7 @@ books:
   - Transfort Optimization Plan
   - Bike to Wherever Day
   - Fare-Free Continues and Ways to Stay Informed
+  - Safe Routes to School
 categories:
   - "[[Places]]"
 color: purple
@@ -93,6 +94,7 @@ We think one of the reasons Fort Collins is a great place to live and visit is b
 | Transfort Optimization Plan | Our City | subject | The City of Fort Collins launches the Transfort Optimization Plan to decide how to run its bus system within budget, with a survey open until July 14, 2025. |
 | Bike to Wherever Day | Mostly Bikes x Me | setting | The blogger rides on Fort Collins' Bike to Wherever Day (2025, tagged Colorado/Strava), calling it the best day of the year, and rides out to Costco after a pancake-and-taco breakfast. |
 | Fare-Free Continues and Ways to Stay Informed | Transfort | subject | Transfort stays fare-free; MAX back to 10-minute peak service. |
+| Safe Routes to School | saferoutespartnership.org | setting | Host city of the 2024 Safe Routes to School National Conference, at the Fort Collins Hilton. |
 
 ## Sub-places
 
@@ -101,10 +103,13 @@ We think one of the reasons Fort Collins is a great place to live and visit is b
 - [[Cherry Street and Wood Street (Fort Collins)]]
 - [[Christman Airfield]]
 - [[Colorado State University]]
+- [[East Elizabeth Street and South College Avenue (Fort Collins)]]
 - [[Horsetooth Reservoir]]
 - [[Hughes property (Fort Collins)]]
+- [[Krazy Karls Pizza]]
 - [[Larimer County Road 38E]]
 - [[Lincoln Center (Fort Collins)]]
+- [[Little Bird Bakeshop]]
 - [[Lyric Cinema (Fort Collins)]]
 - [[Meadowlark Avenue and West Drake Road intersection (Fort Collins)]]
 - [[New Belgium Brewing]]
@@ -115,6 +120,7 @@ We think one of the reasons Fort Collins is a great place to live and visit is b
 - [[Power Trail and Harmony Road crossing]]
 - [[South Mason Street and West Myrtle Street (Fort Collins)]]
 - [[South Meldrum Street and West Laurel Street intersection (Fort Collins)]]
+- [[Stodgy Brewing]]
 - [[Sunny Sky Pies]]
 - [[Taft Hill Road and Laporte Avenue (Fort Collins)]]
 - [[West Drake Road and Mason Trail (Fort Collins)]]
@@ -155,3 +161,12 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5f0rp9v1csgvn5n71b
 - **Role:** subject
 - **In the newsletter:** The city's transit newsletter announces that Transfort will remain fare-free, a policy begun under 2020 pandemic emergency rules, and that MAX frequency is back to every 10 minutes at peak. The city is named only in the footer.
 - **Why it matters:** It adds Fort Collins' fare-free buses to the picture of a city working on transport.
+
+## Safe Routes to School — saferoutespartnership.org (2024)
+Source: [Original](https://saferoutespartnership.org/SRTSConf24) · [Readwise highlight](https://read.readwise.io/read/01m5fmr6wkwfr2p10zpx7bbm06)
+
+> The 2024 Safe Routes to School National Conference will be held in Fort Collins, Colorado at the Fort Collins Hilton from October 22-24, 2024.
+
+- **Role:** setting
+- **In the article:** The announcement names Fort Collins as host of the 2024 national conference, at the Fort Collins Hilton on October 22-24. It promotes the city as a vibrant place to explore and a Platinum-level Bicycle Friendly Community.
+- **Why it matters:** The city is the conference location and a selling point; the page is an event announcement, so the role is modest. Held elsewhere, the page would be otherwise unchanged.

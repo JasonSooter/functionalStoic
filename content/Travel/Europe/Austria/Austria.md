@@ -2,8 +2,8 @@
 publish: true
 title: Austria
 created: 2025-12-06T03:21:08.447Z
-modified: 2026-10-21T13:35:52.069Z
-published: 2026-10-21T13:35:52.069Z
+modified: 2026-10-21T16:39:03.819Z
+published: 2026-10-21T16:39:03.819Z
 books: []
 categories:
   - "[[Places]]"
@@ -52,8 +52,12 @@ Austria places a strong emphasis on education and innovation, ranking high in qu
 ## Content
 
 ## Sub-places
+
+- [[Alpentherme Gastein]]
 - [[Innsbruck]]
 - [[Langenegg]]
+- [[Rogner Bad Blumau]]
 - [[Salzburg]]
+- [[St Martins Therme & Lodge]]
 - [[Vienna]]
 - [[Wörgl]]

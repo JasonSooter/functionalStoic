@@ -2,8 +2,8 @@
 publish: true
 title: Île Saint-Louis
 created: 2026-10-19T14:13:33.000Z
-modified: 2026-10-21T13:28:52.207Z
-published: 2026-10-21T13:28:52.207Z
+modified: 2026-10-21T16:27:18.174Z
+published: 2026-10-21T16:27:18.174Z
 aliases:
   - Ile Saint-Louis
   - Île St.-Louis
@@ -26,15 +26,15 @@ within: "[[Paris]]"
 
 # Île Saint-Louis
 
-The smaller of the two natural islands in the Seine in central [[Paris|Paris]], just upstream of the Île de la Cité and Notre-Dame.
+The smaller of the two natural islands in the Seine in central [[Paris]], just upstream of the Île de la Cité and Notre-Dame. It is the spot in Bill Bryson's Paris chapter that he loves without reservation.
 
 ## At a glance
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Neither Here Nor There | Bill Bryson | setting | First evening in Paris: a "medieval hamlet magically preserved" that wins him over. |
+| [[Neither Here Nor There]] | Bill Bryson | setting | First evening in Paris: a "medieval hamlet magically preserved" that wins him over. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-Source: [Readwise highlight](https://read.readwise.io/read/01m5a831z3zh1s735kg7xz6ezd)
+Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5a831z3zh1s735kg7xz6ezd)
 
 > There facing me was the Île St.-Louis, glowing softly and floating on the river like a vision, a medieval hamlet magically preserved in the midst of a modern city.
 

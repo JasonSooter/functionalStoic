@@ -2,8 +2,8 @@
 publish: true
 title: Stockton, California
 created: 2026-10-21T04:45:43.000Z
-modified: 2026-10-21T10:26:09.546Z
-published: 2026-10-21T10:26:09.546Z
+modified: 2026-10-21T16:21:53.767Z
+published: 2026-10-21T16:21:53.767Z
 aliases: []
 books:
   - "[[The Road Not Taken Is Guaranteed Minimum Income]]"
@@ -25,12 +25,12 @@ within: "[[California]]"
 
 # Stockton, California
 
-City in California, USA. Part of [[California]].
+City in California, USA, part of [[California]]. It appears in Jeff Atwood's essay as the site of a guaranteed-income pilot, the main American precedent for his argument.
 
 ## At a glance
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[The Road Not Taken Is Guaranteed Minimum Income]] | Jeff Atwood | journey waypoint | Stockton was the site of a guaranteed-income pilot giving 125 residents $500 a month for two years. |
+| [[The Road Not Taken Is Guaranteed Minimum Income\|The Road Not Taken is Guaranteed Minimum Income]] | Jeff Atwood | journey waypoint | Stockton was the site of a guaranteed-income pilot giving 125 residents $500 a month for two years. |
 
 ## The Road Not Taken is Guaranteed Minimum Income — Jeff Atwood (2025)
 Source: [[The Road Not Taken Is Guaranteed Minimum Income]] · [Original](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqcxh29p7j04jsskvdayc)

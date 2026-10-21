@@ -2,8 +2,8 @@
 publish: true
 title: Strömsund Bridge
 created: 2026-10-21T04:45:52.000Z
-modified: 2026-10-21T10:32:20.679Z
-published: 2026-10-21T10:32:20.679Z
+modified: 2026-10-21T16:22:40.751Z
+published: 2026-10-21T16:22:40.751Z
 aliases: []
 books:
   - A Love Letter to Cable-Stayed Bridges
@@ -26,13 +26,13 @@ within: "[[Sweden]]"
 
 # Strömsund Bridge
 
-Bridge in Strömsund, Sweden. Part of [[Sweden]].
+Bridge in Strömsund, [[Sweden]], completed in 1956. It appears in two Practical Engineering pieces as the first modern cable-stayed bridge.
 
 ## At a glance
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Love Letter to Cable-Stayed Bridges | Practical Engineering | turning point | Completed in 1956, it is described as the first modern cable-stayed bridge. |
-| An Engineer’s Love Letter to Cable-Stayed Bridges | Practical Engineering | turning point | Named as the origin point of the modern cable-stayed bridge (1956), after which popularity took off over the last three or four decades. |
+| An Engineer’s Love Letter to Cable-Stayed Bridges | Practical Engineering | turning point | Named as the origin point of the modern cable-stayed bridge (1956), after which popularity took off. |
 
 ## A Love Letter to Cable-Stayed Bridges — Practical Engineering (2025)
 Source: [Original](https://www.youtube.com/watch?v=YSQhtlyfPtU) · [Readwise highlight](https://read.readwise.io/read/01m5ebttx0qtj8ct3wz47r7kaf)

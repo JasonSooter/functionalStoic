@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23
-modified: 2026-10-21T11:08:47.864Z
-published: 2026-10-21T11:08:47.864Z
+modified: 2026-10-21T16:39:31.910Z
+published: 2026-10-21T16:39:31.910Z
 aliases: []
 books: []
 categories:
@@ -83,6 +83,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Brooks England factory]]
 - [[Caen Hill Locks]]
 - [[Cornwall]]
+- [[Hell Gill Force]]
 - [[Manchester]]
 - [[Norfolk]]
 - [[Norwich]]

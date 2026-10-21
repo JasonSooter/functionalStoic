@@ -2,8 +2,8 @@
 publish: true
 title: Sweden, Maine
 created: 2026-10-21T10:49:22.276Z
-modified: 2026-10-21T10:49:22.276Z
-published: 2026-10-21T10:49:22.276Z
+modified: 2026-10-21T16:25:28.025Z
+published: 2026-10-21T16:25:28.025Z
 aliases: []
 books:
   - Sweden wants to trademark its name - and honestly, I get it
@@ -25,7 +25,7 @@ within: "[[Maine]]"
 
 # Sweden, Maine
 
-Small town in Oxford County, Maine, USA. Helen Russell cites it as the reason Sweden wants to trademark its name.
+Small town in Oxford County, Maine, USA. It appears in Helen Russell's Substack post as the comic counterpoint to Sweden's attempt to trademark its name.
 
 ## At a glance
 | Source | Author | Role | In one line |

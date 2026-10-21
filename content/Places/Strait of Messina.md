@@ -2,8 +2,8 @@
 publish: true
 title: Strait of Messina
 created: 2026-10-20T04:32:58.000Z
-modified: 2026-10-21T10:24:41.552Z
-published: 2026-10-21T10:24:41.552Z
+modified: 2026-10-21T16:22:36.748Z
+published: 2026-10-21T16:22:36.748Z
 aliases: []
 books:
   - "Ranking EVERY night train in Europe: Italy \U0001F1EE\U0001F1F9"
@@ -23,7 +23,7 @@ tags:
 
 # Strait of Messina
 
-Strait between Calabria and Sicily. See [[Italy]] and [[Sicily]].
+Strait between Calabria and Sicily (see [[Italy]] and [[Sicily]]). It appears in Simply Railway's night-train ranking, where Sicily-bound trains are loaded onto a ferry to cross it.
 
 ## At a glance
 | Source | Author | Role | In one line |

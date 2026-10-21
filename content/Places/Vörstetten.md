@@ -2,8 +2,8 @@
 publish: true
 title: Vörstetten
 created: 2026-10-20T01:36:28.000Z
-modified: 2026-10-21T13:27:03.423Z
-published: 2026-10-21T13:27:03.423Z
+modified: 2026-10-21T16:26:44.246Z
+published: 2026-10-21T16:26:44.246Z
 aliases:
   - Voerstetten
 books:
@@ -25,7 +25,7 @@ within: "[[Baden-Württemberg]]"
 
 # Vörstetten
 
-Village just north of Freiburg in the Emmendingen district, [[Baden-Württemberg]], Germany. See also [[Freiburg]].
+Village just north of Freiburg in the Emmendingen district, [[Baden-Württemberg]], Germany (see also [[Freiburg]]). It appears in a Badische Zeitung report on a children's summer football camp held on the village sports field.
 
 ## At a glance
 | Source | Author | Role | In one line |

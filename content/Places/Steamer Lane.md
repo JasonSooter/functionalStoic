@@ -2,8 +2,8 @@
 publish: true
 title: Steamer Lane
 created: 2026-10-20T13:45:34.000Z
-modified: 2026-10-21T10:25:23.349Z
-published: 2026-10-21T10:25:23.349Z
+modified: 2026-10-21T16:21:50.755Z
+published: 2026-10-21T16:21:50.755Z
 aliases: []
 books:
   - ‘Feisty’ Otters Are Once Again Hijacking Surfboards in Santa Cruz
@@ -25,7 +25,7 @@ within: "[[California]]"
 
 # Steamer Lane
 
-Surf break at Lighthouse Point, Santa Cruz, [[California]].
+Surf break at Lighthouse Point, Santa Cruz, [[California]]. It appears in a Smithsonian article about a sea otter that climbed onto a surfer's board there.
 
 ## At a glance
 | Source | Author | Role | In one line |

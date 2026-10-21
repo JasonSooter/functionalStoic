@@ -2,8 +2,8 @@
 publish: true
 title: India
 created: 2026-10-20T07:53:34.000Z
-modified: 2026-10-21T14:12:13.048Z
-published: 2026-10-21T14:12:13.048Z
+modified: 2026-10-21T16:39:05.099Z
+published: 2026-10-21T16:39:05.099Z
 aliases: []
 books:
   - Planes, trains, and smartphones – Bill Gates
@@ -41,6 +41,7 @@ Country in South Asia. Hub for literary places in the country.
 - [[Hyderabad]]
 - [[Karnataka]]
 - [[New Delhi]]
+- [[Odisha]]
 - [[Rameswaram]]
 - [[Silkyara Tunnel]]
 - [[Statue of Unity]]
