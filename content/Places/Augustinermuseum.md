@@ -2,8 +2,8 @@
 publish: true
 title: Augustinermuseum
 created: 2026-10-20T07:38:11.000Z
-modified: 2026-10-21T10:33:13.488Z
-published: 2026-10-21T10:33:13.488Z
+modified: 2026-10-21T13:26:22.067Z
+published: 2026-10-21T13:26:22.067Z
 aliases:
   - Augustiner Museum
 books:
@@ -20,12 +20,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Augustinermuseum
 
-Art and city-history museum in a former Augustinian monastery in the old town of [[Freiburg (Literary)|Freiburg]], whose reopening after two decades of renovation is the subject of a local news report.
+Art and city-history museum in a former Augustinian monastery in the old town of [[Freiburg|Freiburg]], whose reopening after two decades of renovation is the subject of a local news report.
 
 ## At a glance
 | Source | Author | Role | In one line |

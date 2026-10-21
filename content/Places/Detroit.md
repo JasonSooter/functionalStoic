@@ -2,8 +2,8 @@
 publish: true
 title: Detroit
 created: 2026-10-20T19:37:35.000Z
-modified: 2026-10-21T11:07:46.506Z
-published: 2026-10-21T11:07:46.506Z
+modified: 2026-10-21T13:56:20.496Z
+published: 2026-10-21T13:56:20.496Z
 aliases: []
 books:
   - Reading List 08/09/2025
@@ -36,7 +36,9 @@ City in [[Michigan]], USA, historic centre of the US car industry, cited in a Co
 | How Prison Sets Inmates Up for Failure: Racism, Mental Illness, Poverty – Shaka Senghor – Big Think | Big Think | turning point | Shaka Senghor walks out of prison in Detroit after 19 years. |
 
 ## Sub-places
+
 - [[Joy-Alpine Trailhead]]
+- [[Michigan Theatre (Detroit)]]
 
 ## Reading List 08/09/2025 — Brian Potter (2025)
 Source: [Original](https://www.construction-physics.com/p/reading-list-08092025) · [Readwise highlight](https://read.readwise.io/read/01m5dcmadyg9q61c9r1pe7tzqb)

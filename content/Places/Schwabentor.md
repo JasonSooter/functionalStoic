@@ -2,8 +2,8 @@
 publish: true
 title: Schwabentor
 created: 2026-10-20T01:37:14.000Z
-modified: 2026-10-21T11:17:00.740Z
-published: 2026-10-21T11:17:00.740Z
+modified: 2026-10-21T13:25:00.534Z
+published: 2026-10-21T13:25:00.534Z
 aliases:
   - Swabian Gate
 books:
@@ -21,12 +21,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Schwabentor
 
-Medieval city gate on the east side of Freiburg's old town, towards the Dreisam, Germany, where a First World War "nail tree" for the Red Cross once stood. See [[Freiburg (Literary)|Freiburg]].
+Medieval city gate on the east side of Freiburg's old town, towards the Dreisam, Germany, where a First World War "nail tree" for the Red Cross once stood. See [[Freiburg|Freiburg]].
 
 ## At a glance
 | Source | Author | Role | In one line |

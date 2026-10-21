@@ -2,8 +2,8 @@
 publish: true
 title: Câble 1
 created: 2026-10-21T02:06:34.000Z
-modified: 2026-10-21T10:33:27.472Z
-published: 2026-10-21T10:33:27.472Z
+modified: 2026-10-21T13:28:39.015Z
+published: 2026-10-21T13:28:39.015Z
 aliases: []
 books:
   - The Surprising Success of Gondola Transit Systems
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Paris (Literary)]]"
+within: "[[Paris]]"
 ---
 
 # Câble 1
 
-Planned cable car in [[Paris (Literary)|Paris]], France, extending Metro Line 8 over a highway and rail yard; it features in Wendover's video on gondola transit.
+Planned cable car in [[Paris|Paris]], France, extending Metro Line 8 over a highway and rail yard; it features in Wendover's video on gondola transit.
 
 ## At a glance
 | Source | Author | Role | In one line |

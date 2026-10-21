@@ -2,8 +2,8 @@
 publish: true
 title: Mariana Trench
 created: 2026-10-20T04:19:28.000Z
-modified: 2026-10-21T11:21:52.119Z
-published: 2026-10-21T11:21:52.119Z
+modified: 2026-10-21T13:55:43.549Z
+published: 2026-10-21T13:55:43.549Z
 aliases:
   - Marianas Trench
 books:
@@ -32,6 +32,10 @@ The deepest oceanic trench, in the western Pacific east of the Mariana Islands. 
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[What if You Dropped a Bowling Ball in the Mariana Trench\|What if you dropped a bowling ball in the Mariana Trench?]] | xkcd's What If? | subject | How long a bowling ball takes to sink 11 km, and why lighter ones never arrive. |
+
+## Sub-places
+
+- [[Challenger Deep]]
 
 ## What if you dropped a bowling ball in the Mariana Trench? — xkcd's What If? (2026)
 Source: [Original](https://www.youtube.com/watch?v=FYoHYq8VRt0) · [Readwise highlight](https://read.readwise.io/read/01m5bre539x2yzsqyddscqtn5m)

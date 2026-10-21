@@ -2,8 +2,8 @@
 publish: true
 title: Prater
 created: 2026-10-20T01:28:12.000Z
-modified: 2026-10-21T11:15:54.332Z
-published: 2026-10-21T11:15:54.332Z
+modified: 2026-10-21T13:30:27.127Z
+published: 2026-10-21T13:30:27.127Z
 aliases:
   - Wiener Prater
   - Hauptallee
@@ -24,12 +24,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Vienna (Literary)]]"
+within: "[[Vienna]]"
 ---
 
 # Prater
 
-Large public park between the city and the Danube in [[Vienna (Literary)|Vienna]], Austria, with the Hauptallee and the Riesenrad Ferris wheel, where Bill Bryson's walk to the Danube ends in _Neither Here Nor There_.
+Large public park between the city and the Danube in [[Vienna|Vienna]], Austria, with the Hauptallee and the Riesenrad Ferris wheel, where Bill Bryson's walk to the Danube ends in _Neither Here Nor There_.
 
 ## At a glance
 | Source | Author | Role | In one line |

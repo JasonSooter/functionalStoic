@@ -2,12 +2,8 @@
 publish: true
 title: Yunnan
 created: 2026-10-21T02:08:28.000Z
-modified: 2026-10-21T04:47:36.000Z
-published: 2026-10-21T04:47:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T13:39:01.324Z
+published: 2026-10-21T13:39:01.324Z
 aliases: []
 books:
   - Breakneck
@@ -21,27 +17,28 @@ icon: book
 location:
   - 25.0494
   - 102.7089
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[China]]"
 ---
 
 # Yunnan
 
-Region in [[China]].
+Province in [[China]], which appears in Dan Wang's Breakneck as the freest province, where he and Silvia stayed nearly half a year during the lockdown.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | setting | After the lockdown announcement the author and Silvia fly to Yunnan, his family's home province, and stay nearly half a year. |
 
 ## Sub-places
-
 - [[Dali]]
 - [[Kunming]]
 
 ## Breakneck — Dan Wang (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5e30hsj6jybazf7mqe6jgmp)
+Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5e30hsj6jybazf7mqe6jgmp)
 
 > Yunnan is a good place for reflection because it is plausibly China’s freest province. In the mountains of Yunnan, I glimpsed the idea of not only the engineering state but also the lawyerly society.
 

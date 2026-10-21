@@ -2,8 +2,8 @@
 publish: true
 title: Larimer County Road 38E
 created: 2026-10-21T02:07:20.000Z
-modified: 2026-10-21T11:17:57.280Z
-published: 2026-10-21T11:17:57.280Z
+modified: 2026-10-21T13:22:24.253Z
+published: 2026-10-21T13:22:24.253Z
 aliases: []
 books:
   - Cyclist Killed, Bike & Roll to School Day, CSU Vision Zero Reporter, Bike Fix-It
@@ -23,12 +23,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # Larimer County Road 38E
 
-Rural road near Horsetooth Mountain Park in [[Fort Collins (Literary)|Fort Collins]], Colorado, site of the fatal cyclist crash that leads a Bike Fort Collins newsletter.
+Rural road near Horsetooth Mountain Park in [[Fort Collins|Fort Collins]], Colorado, site of the fatal cyclist crash that leads a Bike Fort Collins newsletter.
 
 ## At a glance
 | Source | Author | Role | In one line |

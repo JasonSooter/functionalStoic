@@ -2,8 +2,8 @@
 publish: true
 title: Switzerland
 created: 2026-09-25
-modified: 2026-10-21T10:39:22.836Z
-published: 2026-10-21T10:39:22.836Z
+modified: 2026-10-21T14:12:14.688Z
+published: 2026-10-21T14:12:14.688Z
 books: []
 categories:
   - "[[Places]]"
@@ -52,6 +52,7 @@ Source: [Readwise highlight](https://readwise.io/open/868537791) · [[Bookshelf/
 - [[Travel/Europe/Europe|Europe]] · [[Travel/Trip Ideas|Trip Ideas]] · [[Trains|Trains]] (Glacier Express) · [[Writing Tasks/On Walking|On Walking]]
 
 ## Sub-places
+
 - [[Basel]]
 - [[Bern]]
 - [[Brig]]
@@ -61,6 +62,7 @@ Source: [Readwise highlight](https://readwise.io/open/868537791) · [[Bookshelf/
 - [[Gotthard Road Tunnel]]
 - [[Jungfraujoch railway station]]
 - [[Kleine Scheidegg]]
+- [[Leibstadt Nuclear Power Plant]]
 - [[Montreux]]
 - [[Sphinx Observatory]]
 - [[Zermatt]]

@@ -2,8 +2,8 @@
 publish: true
 title: Waste Isolation Pilot Plant
 created: 2026-10-21T02:08:25.000Z
-modified: 2026-10-21T10:23:06.919Z
-published: 2026-10-21T10:23:06.919Z
+modified: 2026-10-21T13:37:50.697Z
+published: 2026-10-21T13:37:50.697Z
 aliases: []
 books:
   - When Kitty Litter Caused a Nuclear Catastrophe
@@ -25,7 +25,7 @@ within: "[[New Mexico]]"
 
 # Waste Isolation Pilot Plant
 
-Site in [[New Mexico]], United States.
+Underground nuclear waste repository in a salt formation near Carlsbad, [[New Mexico]], United States, which appears in the reading as the site of the 2014 drum burst that shut the facility for nearly three years.
 
 ## At a glance
 | Source | Author | Role | In one line |

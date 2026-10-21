@@ -2,8 +2,8 @@
 publish: true
 title: New York State
 created: 2026-10-20T22:55:57.000Z
-modified: 2026-10-21T11:07:34.213Z
-published: 2026-10-21T11:07:34.213Z
+modified: 2026-10-21T13:56:03.319Z
+published: 2026-10-21T13:56:03.319Z
 aliases: []
 books: []
 categories:
@@ -21,6 +21,8 @@ tags:
 US state; see also [[New York City]].
 
 ## Sub-places
+
 - [[Scarsdale High School]]
 - [[Stony Brook University]]
 - [[Tree-Ring Lab (Lamont-Doherty)]]
+- [[Village of Hamburg, New York]]

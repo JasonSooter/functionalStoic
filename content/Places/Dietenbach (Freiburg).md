@@ -2,8 +2,8 @@
 publish: true
 title: Dietenbach (Freiburg)
 created: 2026-10-20T04:31:36.000Z
-modified: 2026-10-21T10:51:50.392Z
-published: 2026-10-21T10:51:50.392Z
+modified: 2026-10-21T13:25:35.058Z
+published: 2026-10-21T13:25:35.058Z
 aliases:
   - Dietenbach
   - Stadtteil Dietenbach
@@ -23,12 +23,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Dietenbach (Freiburg)
 
-New district under construction on [[Freiburg (Literary)|Freiburg]]'s western edge, named after the Dietenbach stream, and the subject of local news coverage of the mayoral campaign and the building site.
+New district under construction on [[Freiburg|Freiburg]]'s western edge, named after the Dietenbach stream, and the subject of local news coverage of the mayoral campaign and the building site.
 
 ## At a glance
 | Source | Author | Role | In one line |

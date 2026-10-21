@@ -2,8 +2,8 @@
 publish: true
 title: Copenhagen
 created: 2026-07-17T16:18:13.748Z
-modified: 2026-10-21T11:09:07.969Z
-published: 2026-10-21T11:09:07.969Z
+modified: 2026-10-21T13:57:40.678Z
+published: 2026-10-21T13:57:40.678Z
 aliases:
   - København
 books:
@@ -11,6 +11,7 @@ books:
   - Transit in the City of Bikes - Copenhagen
   - "[[Scotch Eggs, Cycling and Danish Parental Leave]]"
   - The Year of Living Danishly
+  - "[[Walkable City]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -142,6 +143,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 | Transit in the City of Bikes - Copenhagen | Day Pass | subject | A day pass on every line shows the city's transit is as good as its cycling. |
 | [[Scotch Eggs, Cycling and Danish Parental Leave\|Scotch Eggs, cycling and Danish parental leave (together at last)]] | Helen Russell | setting | Farewell keynote at an event opened by Helle Thorning-Schmidt. |
 | The Year of Living Danishly | Helen Russell | setting | Anniversary weekend in the capital: museums, the Glyptotek, Strøget and canal-side meals. |
+| [[Walkable City]] | Jeff Speck | subject | Speck cites Jan Gehl's work in Copenhagen, where the car-free central zone grew sevenfold from 1962 to 2005 and downtown parking has been… |
 
 ## Sub-places
 
@@ -188,3 +190,12 @@ Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highl
 - **Role:** setting
 - **In the book:** The September chapter is set mostly in Copenhagen on a long anniversary weekend away from Jutland: the National Museum, Royal Theatre, opera house, Ny Carlsberg Glyptotek, the Little Mermaid, Strøget and the Botanical Garden, with meals by the canals.
 - **Why it matters:** It is the setting for the book's chapter on culture and food.
+
+## Walkable City — Jeff Speck (2012)
+Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjzgz5pmbc0tn402q1g9p)
+
+> In his work in Copenhagen, Gehl has presided over a gradual removal of cars from the heart of the city. From 1962 to 2005, a central zone dedicated to pedestrians and bicycles has grown sevenfold in size, from about four acres to over twenty-five acres.
+
+- **Role:** subject
+- **In the book:** Speck cites Jan Gehl's work in Copenhagen, where the car-free central zone grew sevenfold from 1962 to 2005 and downtown parking has been cut by 2 percent a year. He says most US cities are not Copenhagen, where cyclists outnumber motorists.
+- **Why it matters:** Copenhagen is the model of gradual pedestrianization, held up and then qualified as non-transferable to dissimilar places.

@@ -2,8 +2,8 @@
 publish: true
 title: Shakespeare and Company
 created: 2026-10-19T14:13:38.000Z
-modified: 2026-10-21T11:17:28.098Z
-published: 2026-10-21T11:17:28.098Z
+modified: 2026-10-21T13:28:44.875Z
+published: 2026-10-21T13:28:44.875Z
 aliases:
   - Shakespeare & Co.
   - Shakespeare and Company (bookstore)
@@ -12,6 +12,7 @@ books:
 categories:
   - "[[Places]]"
 color: purple
+coordinates: 48.8525,2.3469
 icon: book
 location:
   - 48.8525
@@ -20,13 +21,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Paris (Literary)]]"
-coordinates: 48.8525,2.3469
+within: "[[Paris]]"
 ---
 
 # Shakespeare and Company
 
-English-language bookshop at 37 rue de la Bûcherie on the Left Bank of [[Paris (Literary)|Paris]], facing Notre-Dame and opened by George Whitman in 1951, which Bill Bryson visits on his first night in Neither Here Nor There.
+English-language bookshop at 37 rue de la Bûcherie on the Left Bank of [[Paris|Paris]], facing Notre-Dame and opened by George Whitman in 1951, which Bill Bryson visits on his first night in Neither Here Nor There.
 
 ## At a glance
 | Source | Author | Role | In one line |

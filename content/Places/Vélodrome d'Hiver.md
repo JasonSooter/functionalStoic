@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Vel d'Hiv
 title: Vélodrome d'Hiver
 created: 2026-10-20T10:42:37.000Z
-modified: 2026-10-20T10:42:37.000Z
-published: 2026-10-20T10:42:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T13:28:48.339Z
+published: 2026-10-21T13:28:48.339Z
+aliases:
+  - Vel d'Hiv
 books:
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
 categories:
@@ -21,21 +17,23 @@ icon: book
 location:
   - 48.8538
   - 2.2889
-within: "[[Paris (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Paris]]"
 ---
 
 # Vélodrome d'Hiver
 
-Former indoor velodrome in the 15th arrondissement, [[Paris (Literary)]], demolished in 1959.
+Former indoor velodrome in the 15th arrondissement, [[Paris]], demolished in 1959.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] | Robert Penn | backdrop | Hemingway correcting proofs in a box at the six-day races. |
 
 ## It's All About the Bike — Robert Penn (2010)
-
 Source: [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Readwise highlight](https://read.readwise.io/read/01m5ce6gjxp5eywjjs2gpps91v)
 
 > He attended many six-day races in Paris in the 1920s, and edited the proof of

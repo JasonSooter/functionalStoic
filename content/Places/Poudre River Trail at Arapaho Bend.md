@@ -2,8 +2,8 @@
 publish: true
 title: Poudre River Trail at Arapaho Bend
 created: 2026-10-21T10:49:19.591Z
-modified: 2026-10-21T10:49:19.591Z
-published: 2026-10-21T10:49:19.591Z
+modified: 2026-10-21T13:23:23.580Z
+published: 2026-10-21T13:23:23.580Z
 aliases: []
 books:
   - MyCycle - Still Time to Help, Nancy Nichols Receives an Award, New Trail Section
@@ -23,7 +23,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # Poudre River Trail at Arapaho Bend

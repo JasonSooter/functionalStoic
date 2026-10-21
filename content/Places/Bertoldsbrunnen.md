@@ -2,8 +2,8 @@
 publish: true
 title: Bertoldsbrunnen
 created: 2026-10-19T22:27:44.000Z
-modified: 2026-10-21T10:33:59.696Z
-published: 2026-10-21T10:33:59.696Z
+modified: 2026-10-21T13:25:09.302Z
+published: 2026-10-21T13:25:09.302Z
 aliases:
   - Bertold Fountain
 books:
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Bertoldsbrunnen
 
-Fountain and tram stop in the old-town pedestrian zone of [[Freiburg (Literary)|Freiburg]], Germany, which appears in three VAG Freiburg pieces as the start of the city's bus network, a stop with low tram platforms, and a service counter's view.
+Fountain and tram stop in the old-town pedestrian zone of [[Freiburg|Freiburg]], Germany, which appears in three VAG Freiburg pieces as the start of the city's bus network, a stop with low tram platforms, and a service counter's view.
 
 ## At a glance
 | Source | Author | Role | In one line |

@@ -2,8 +2,8 @@
 publish: true
 title: Friedrichsbau Kino
 created: 2026-10-20T13:42:12.000Z
-modified: 2026-10-21T11:09:06.965Z
-published: 2026-10-21T11:09:06.965Z
+modified: 2026-10-21T13:27:00.211Z
+published: 2026-10-21T13:27:00.211Z
 aliases:
   - Friedrichsbau-Kino
 books:
@@ -21,12 +21,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Friedrichsbau Kino
 
-Cinema in central [[Freiburg (Literary)|Freiburg]], Germany, and the venue for the premieres of cyclist Wiebke Lühmann's film 'Same Sun'.
+Cinema in central [[Freiburg|Freiburg]], Germany, and the venue for the premieres of cyclist Wiebke Lühmann's film 'Same Sun'.
 
 ## At a glance
 | Source | Author | Role | In one line |

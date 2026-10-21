@@ -2,8 +2,8 @@
 publish: true
 title: Venetian Lagoon
 created: 2026-10-21T11:08:16.915Z
-modified: 2026-10-21T11:08:16.915Z
-published: 2026-10-21T11:08:16.915Z
+modified: 2026-10-21T13:38:38.422Z
+published: 2026-10-21T13:38:38.422Z
 aliases: []
 books:
   - The Crazy Engineering of Venice
@@ -26,7 +26,7 @@ within: "[[Venice]]"
 
 # Venetian Lagoon
 
-Lagoon off the Adriatic coast in which Venice stands. A video on Venice's engineering starts with refugees settling its islands.
+Lagoon off the Adriatic coast in which [[Venice]] stands, which appears in Primal Space's video on Venice's engineering as the marshy islands where refugees from the Huns settled in 452.
 
 ## At a glance
 | Source | Author | Role | In one line |

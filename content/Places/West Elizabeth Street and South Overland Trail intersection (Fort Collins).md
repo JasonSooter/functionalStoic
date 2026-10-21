@@ -2,8 +2,8 @@
 publish: true
 title: West Elizabeth Street and South Overland Trail intersection (Fort Collins)
 created: 2026-10-21T11:07:57.866Z
-modified: 2026-10-21T11:07:57.866Z
-published: 2026-10-21T11:07:57.866Z
+modified: 2026-10-21T13:38:09.411Z
+published: 2026-10-21T13:38:09.411Z
 aliases: []
 books:
   - Tour de Farms, Bicycle Film Festival, Open Streets and More!
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # West Elizabeth Street and South Overland Trail intersection (Fort Collins)
 
-Road junction on the west side of Fort Collins, Colorado, where West Elizabeth Street meets South Overland Trail. It is a Bike Fort Collins MyCycle focus spot.
+Road junction on the west side of Fort Collins, Colorado, where West Elizabeth Street meets South Overland Trail, which shows up in the reading as a Bike Fort Collins MyCycle survey focus spot.
 
 ## At a glance
 | Source | Author | Role | In one line |

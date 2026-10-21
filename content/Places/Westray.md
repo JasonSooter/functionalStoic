@@ -2,12 +2,8 @@
 publish: true
 title: Westray
 created: 2026-10-20T04:19:17.000Z
-modified: 2026-10-20T22:37:49.000Z
-published: 2026-10-20T22:37:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T13:38:13.760Z
+published: 2026-10-21T13:38:13.760Z
 aliases: []
 books:
   - learning to save a whale
@@ -20,25 +16,26 @@ icon: newspaper
 location:
   - 59.3
   - -3
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Orkney]]"
 ---
 
 # Westray
 
-One of the northern isles of Orkney, Scotland. See [[Orkney]].
+One of the northern isles of [[Orkney]], Scotland, which shows up in the reading as the home of an islander training as a marine mammal medic after whale and dolphin strandings with no medic on the island.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | learning to save a whale | rebecca hooper | setting | An islander on Westray trains as a marine mammal medic after stranding rescues with no medic on the island. |
 
 ## Sub-places
-
 _None yet._
 
 ## learning to save a whale — rebecca hooper (2026)
-
 Source: [Original](https://betweentwoseas.substack.com/p/learning-how-to-save-a-whale) · [Readwise highlight](https://read.readwise.io/read/01m5bre1pc8t5q908sg336h0nq)
 
 > On Sanday, a neighbouring isle, mass strandings are particularly frequent.

@@ -2,11 +2,12 @@
 publish: true
 title: Hoover Dam
 created: 2026-10-20T19:37:23.000Z
-modified: 2026-10-21T11:10:00.420Z
-published: 2026-10-21T11:10:00.420Z
+modified: 2026-10-21T14:11:23.717Z
+published: 2026-10-21T14:11:23.717Z
 aliases: []
 books:
   - Why Are There No Short Arch Dams?
+  - If all humans died, when would the last light go out?
 categories:
   - "[[Places]]"
 color: purple
@@ -31,6 +32,7 @@ Concrete arch-gravity dam on the Colorado River in Black Canyon, on the [[Nevada
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why Are There No Short Arch Dams\|Why Are There No Short Arch Dams?]] | Wesley Crump | subject | The most famous arch dam, which is really a gravity-arch hybrid. |
+| If all humans died, when would the last light go out? | xkcd's What If? | backdrop | Used as the hydroelectric example: an operator said the dam would keep running on autopilot for several years if everyone left. |
 
 ## Why Are There No Short Arch Dams? — Wesley Crump (2025)
 Source: [Original](https://practical.engineering/blog/2025/8/5/why-are-there-no-short-arch-dams) · [Readwise highlight](https://read.readwise.io/read/01m5dcm62wjtnqxd9e8j59apmf)
@@ -40,3 +42,12 @@ Source: [Original](https://practical.engineering/blog/2025/8/5/why-are-there-no-
 - **Role:** subject
 - **In the article:** Cited as the best-known arch dam, which is in fact a gravity-arch dam that balances mass and arch action to suit a relatively wide canyon.
 - **Why it matters:** Illustrates hybrid design; a one-paragraph example.
+
+## If all humans died, when would the last light go out? — xkcd's What If? (2024)
+Source: [Original](https://www.youtube.com/watch?v=8fADp43wJwU) · [Readwise highlight](https://read.readwise.io/read/01m5fcnxxcbfrv2awarzvvh86s)
+
+> An operator at the Hoover Dam once said that if everyone walked out,
+
+- **Role:** backdrop
+- **In the video:** Used as the hydroelectric example: an operator said the dam would keep running on autopilot for several years if everyone left. Without a grid the power has nowhere to go, and clogged intakes or mechanical failure would eventually stop it.
+- **Why it matters:** One of several concrete examples of off-grid generation outlasting people; a modest mention. Another dam would serve the argument equally.

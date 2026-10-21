@@ -2,8 +2,8 @@
 publish: true
 title: Tardebigge Locks
 created: 2026-10-21T04:45:14.000Z
-modified: 2026-10-21T10:22:58.930Z
-published: 2026-10-21T10:22:58.930Z
+modified: 2026-10-21T13:43:12.761Z
+published: 2026-10-21T13:43:12.761Z
 aliases: []
 books:
   - "[[Canal Locks]]"
@@ -25,7 +25,7 @@ within: "[[England]]"
 
 # Tardebigge Locks
 
-Lock flight in Worcestershire, England, UK. Part of [[England]].
+Tardebigge Locks is a flight of 30 canal locks in Worcestershire, [[England]]. It appears in the Sketchplanations piece on canal locks as an example of scale.
 
 ## At a glance
 | Source | Author | Role | In one line |

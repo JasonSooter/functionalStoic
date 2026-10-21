@@ -2,8 +2,8 @@
 publish: true
 title: Poudre River Whitewater Park
 created: 2026-10-20T22:54:01.000Z
-modified: 2026-10-21T11:18:01.344Z
-published: 2026-10-21T11:18:01.344Z
+modified: 2026-10-21T13:24:08.434Z
+published: 2026-10-21T13:24:08.434Z
 aliases:
   - Fort Collins Whitewater Park
   - Whitewater Park
@@ -24,12 +24,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # Poudre River Whitewater Park
 
-Whitewater park on the Cache la Poudre River in [[Fort Collins (Literary)|Fort Collins]], Colorado, which appears as a detour stop where a bike blogger spots a migrating cormorant.
+Whitewater park on the Cache la Poudre River in [[Fort Collins|Fort Collins]], Colorado, which appears as a detour stop where a bike blogger spots a migrating cormorant.
 
 ## At a glance
 | Source | Author | Role | In one line |

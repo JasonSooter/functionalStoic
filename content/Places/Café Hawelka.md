@@ -2,8 +2,8 @@
 publish: true
 title: Café Hawelka
 created: 2026-10-20T01:28:05.000Z
-modified: 2026-10-21T10:24:16.155Z
-published: 2026-10-21T10:24:16.155Z
+modified: 2026-10-21T13:30:30.307Z
+published: 2026-10-21T13:30:30.307Z
 aliases:
   - Hawelka
 books:
@@ -20,12 +20,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Vienna (Literary)]]"
+within: "[[Vienna]]"
 ---
 
 # Café Hawelka
 
-Coffee house off the Graben in central [[Vienna (Literary)|Vienna]], Austria; in Neither Here Nor There it is the one friendly café Bryson finds there.
+Coffee house off the Graben in central [[Vienna|Vienna]], Austria; in Neither Here Nor There it is the one friendly café Bryson finds there.
 
 ## At a glance
 | Source | Author | Role | In one line |

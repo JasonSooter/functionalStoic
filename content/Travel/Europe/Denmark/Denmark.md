@@ -2,8 +2,8 @@
 publish: true
 title: Denmark
 created: 2024-10-05T01:12:37.477Z
-modified: 2026-10-21T11:09:16.333Z
-published: 2026-10-21T11:09:16.333Z
+modified: 2026-10-21T14:11:33.593Z
+published: 2026-10-21T14:11:33.593Z
 aliases:
 books:
   - Will mushrooms go mainstream in Denmark?
@@ -83,7 +83,10 @@ Cargo bikes, also known as _Christiania bikes_, are integral to the biking cultu
 | The post I didn't want to write… | Helen Russell | subject | Russell's farewell to Denmark after almost 12 years. |
 
 ## Sub-places
+
 - [[Billund]]
+- [[Christiansfeld]]
+- [[Gedser Wind Turbine]]
 - [[Helsingør]]
 - [[Jutland]]
 - [[Louisiana Museum of Modern Art]]

@@ -2,8 +2,8 @@
 publish: true
 title: Southwark Cathedral
 created: 2026-10-21T10:49:26.893Z
-modified: 2026-10-21T10:49:26.893Z
-published: 2026-10-21T10:49:26.893Z
+modified: 2026-10-21T13:37:23.274Z
+published: 2026-10-21T13:37:23.274Z
 aliases: []
 books:
   - '#011 How to find the thing you''ve lost'
@@ -25,7 +25,7 @@ within: "[[London]]"
 
 # Southwark Cathedral
 
-Anglican cathedral on the south bank of the Thames by London Bridge. Dave Walker's Diagram Club newsletter is set at a farewell event there.
+Anglican cathedral on the south bank of the Thames by London Bridge. It appears in the reading as the backdrop to a farewell event described in Dave Walker's Diagram Club newsletter.
 
 ## At a glance
 | Source | Author | Role | In one line |

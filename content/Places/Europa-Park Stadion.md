@@ -2,8 +2,8 @@
 publish: true
 title: Europa-Park Stadion
 created: 2026-10-20T01:37:19.000Z
-modified: 2026-10-21T10:49:53.578Z
-published: 2026-10-21T10:49:53.578Z
+modified: 2026-10-21T13:26:17.663Z
+published: 2026-10-21T13:26:17.663Z
 aliases:
   - SC Freiburg stadium
 books:
@@ -20,12 +20,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Europa-Park Stadion
 
-SC Freiburg's stadium in the west of [[Freiburg (Literary)|Freiburg]] im Breisgau, Germany, with its own tram stop. It shows up in a VAG Freiburg account of a tram driver's match-day shift carrying fans to the stadium.
+SC Freiburg's stadium in the west of [[Freiburg|Freiburg]] im Breisgau, Germany, with its own tram stop. It shows up in a VAG Freiburg account of a tram driver's match-day shift carrying fans to the stadium.
 
 ## At a glance
 | Source | Author | Role | In one line |

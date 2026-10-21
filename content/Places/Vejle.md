@@ -2,8 +2,8 @@
 publish: true
 title: Vejle
 created: 2026-10-21T05:06:49.000Z
-modified: 2026-10-21T11:07:29.605Z
-published: 2026-10-21T11:07:29.605Z
+modified: 2026-10-21T13:38:30.453Z
+published: 2026-10-21T13:38:30.453Z
 aliases: []
 books:
   - Have yourself a Merry Danish Christmas
@@ -25,7 +25,7 @@ within: "[[Denmark]]"
 
 # Vejle
 
-Town in Jutland, Denmark. Part of [[Denmark]].
+Town in Jutland, [[Denmark]], which appears in Helen Russell's Christmas newsletter as the home town she misses at that time of year.
 
 ## At a glance
 | Source | Author | Role | In one line |

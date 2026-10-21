@@ -2,8 +2,8 @@
 publish: true
 title: Schauinslandbahn
 created: 2026-10-19T14:08:41.000Z
-modified: 2026-10-21T11:19:59.453Z
-published: 2026-10-21T11:19:59.453Z
+modified: 2026-10-21T13:27:39.579Z
+published: 2026-10-21T13:27:39.579Z
 aliases:
   - Schauinsland cable car
   - Schauinsland
@@ -37,12 +37,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Schauinslandbahn
 
-Freiburg's cable car up the Schauinsland, the city's local Black Forest mountain, opened in 1930 and covered by a dozen VAG Freiburg blog posts on its history, upkeep and accessibility. See [[Freiburg (Literary)|Freiburg]] and the Travel note [[Freiburg]].
+Freiburg's cable car up the Schauinsland, the city's local Black Forest mountain, opened in 1930 and covered by a dozen VAG Freiburg blog posts on its history, upkeep and accessibility. See [[Freiburg|Freiburg]] and the Travel note [[Freiburg]].
 
 ## At a glance
 | Source | Author | Role | In one line |

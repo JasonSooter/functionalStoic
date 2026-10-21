@@ -2,8 +2,8 @@
 publish: true
 title: Reichsgrafenstraße
 created: 2026-10-20T13:41:55.000Z
-modified: 2026-10-21T11:17:22.197Z
-published: 2026-10-21T11:17:22.197Z
+modified: 2026-10-21T13:25:28.350Z
+published: 2026-10-21T13:25:28.350Z
 aliases:
   - Reichsgrafenstrasse
 books:
@@ -23,12 +23,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Reichsgrafenstraße
 
-Street in the Wiehre district of [[Freiburg (Literary)|Freiburg]], Germany, the test case in a local report on a court ruling over the district's parking rules.
+Street in the Wiehre district of [[Freiburg|Freiburg]], Germany, the test case in a local report on a court ruling over the district's parking rules.
 
 ## At a glance
 | Source | Author | Role | In one line |

@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Vaksala torg
+created: 2026-10-20T22:54:57.000Z
+modified: 2026-10-21T13:38:02.678Z
+published: 2026-10-21T13:38:02.678Z
 aliases:
   - Vaksala Square
   - Vaksala Square school
-title: Vaksala torg
-created: 2026-10-20T22:54:57.000Z
-modified: 2026-10-20T22:54:57.000Z
-published: 2026-10-20T22:54:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[How I Learned to Understand the World]]"
 categories:
@@ -23,22 +19,24 @@ icon: book
 location:
   - 59.8614
   - 17.6471
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Uppsala]]"
 ---
 
 # Vaksala torg
 
-Square in central [[Uppsala]], Sweden.
+Square in central [[Uppsala]], Sweden, where in Hans Rosling's How I Learned to Understand the World a mother walked her daughter to a newly built school in 1927.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[How I Learned to Understand the World]] | Hans Rosling | turning point | In autumn 1927 Agnes walked her daughter Britta to a newly built school at Vaksala Square; Agnes stopped to take in a building like a fairy-tale castle and whispered that people must think they were worth something. |
+| [[How I Learned to Understand the World]] | Hans Rosling | turning point | In autumn 1927 Agnes walked her daughter Britta to a newly built school here and whispered that people must think they were worth something. |
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
-
-Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5dqz61z784vp029sx1172md)
+Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5dqz61z784vp029sx1172md)
 
 > She was enrolled in a fine, newly built school at Vaksala Square, not far from where they lived.
 

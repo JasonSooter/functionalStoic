@@ -1,17 +1,13 @@
 ---
 publish: true
-aliases:
-  - Taiyuan Greenway
 title: Taiyuan
 created: 2026-10-20T07:54:17.000Z
-modified: 2026-10-21T01:24:32.000Z
-published: 2026-10-21T01:24:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T13:43:06.453Z
+published: 2026-10-21T13:43:06.453Z
+aliases:
+  - Taiyuan Greenway
 books:
-  - "#068 One reason for optimism"
+  - '#068 One reason for optimism'
   - "#057 From China, part two: Taiyuan"
   - "[[058 I Need to Address Breakfast Soups]]"
 categories:
@@ -22,15 +18,18 @@ icon: newspaper
 location:
   - 37.8704
   - 112.5497
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[China]]"
 ---
 
 # Taiyuan
 
-Capital of Shanxi province, northern China. See [[China]].
+Taiyuan is the capital of Shanxi province in northern China, in [[China]]. It shows up in Diagram Club's China trip posts as the city of the riverside Greenway and the Laboo cycling café, hosted by the PACS climate group.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #068 One reason for optimism | Diagram Club | subject | Where the young PACS campaigners give the writer his reason for hope. |
@@ -38,7 +37,6 @@ Capital of Shanxi province, northern China. See [[China]].
 | [[058 I Need to Address Breakfast Soups]] | Diagram Club | subject | Photo essay on the elevated Greenway and the city's bike lanes. |
 
 ## #068 One reason for optimism — Diagram Club (2026)
-
 Source: [Original](https://diagramclub.substack.com/p/068-one-reason-for-optimism) · [Readwise highlight](https://read.readwise.io/read/01m5c4q90x3xx5qbx8k5x4fgf8)
 
 > Me with the PACS team on our cycling and filming day in Taiyuan: Sharon, Chen, Tian, and Peter.
@@ -48,7 +46,6 @@ Source: [Original](https://diagramclub.substack.com/p/068-one-reason-for-optimis
 - **Why it matters:** The people he met in Taiyuan are the "one reason for optimism" of the title; the city's pollution makes their work the point.
 
 ## #057 From China, part two: Taiyuan — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/057-from-china-part-two-taiyuan) · [Readwise highlight](https://read.readwise.io/read/01m5d1zxaj7r6mzasvgmmp0pg9)
 
 > Then we cycled along the Greenway, a traffic-free path that goes under and over roadways, to Laboo, a cycling cafe.
@@ -59,7 +56,6 @@ Source: [Original](https://diagramclub.substack.com/p/057-from-china-part-two-ta
 - **Real vs. fictional:** The Greenway and Laboo have no standard-source coordinates, so they are described here and the pin is the city.
 
 ## 058 I Need to Address Breakfast Soups — Diagram Club (2025)
-
 Source: [[058 I Need to Address Breakfast Soups]] · [Original](https://diagramclub.substack.com/p/058-i-need-to-address-breakfast-soups) · [Readwise highlight](https://read.readwise.io/read/01m5d1zybb8n7jg7dsdcahh4vd)
 
 > The Greenways, both here in Taiyuan and in Chengdu, surpass anything we have in the UK.

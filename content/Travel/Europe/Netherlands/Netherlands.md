@@ -2,8 +2,8 @@
 publish: true
 title: Netherlands
 created: 2026-09-26T05:01:00.000Z
-modified: 2026-10-21T10:39:23.964Z
-published: 2026-10-21T10:39:23.964Z
+modified: 2026-10-21T13:56:24.797Z
+published: 2026-10-21T13:56:24.797Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
@@ -101,12 +101,14 @@ _Added 2026-09-25 (#source/ai/claude)._
 - **Not confirmed:** that residents never handle money (the article's claim), and the often-repeated outcome claims (less medication, more activity), which trace to press coverage rather than a cited study.
 
 ## Sub-places
+
 - [[Afsluitdijk]]
 - [[Apeldoorn]]
 - [[Flevoland]]
 - [[Groningen]]
 - [[Houten]]
 - [[Oosterscheldekering]]
+- [[Oosterwolde]]
 - [[Utrecht Centraal]]
 - [[Vaalserberg]]
 - [[Veluwemeer Aqueduct]]

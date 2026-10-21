@@ -2,8 +2,8 @@
 publish: true
 title: Austria
 created: 2025-12-06T03:21:08.447Z
-modified: 2026-10-21T10:20:12.322Z
-published: 2026-10-21T10:20:12.322Z
+modified: 2026-10-21T13:35:52.069Z
+published: 2026-10-21T13:35:52.069Z
 books: []
 categories:
   - "[[Places]]"
@@ -52,8 +52,8 @@ Austria places a strong emphasis on education and innovation, ranking high in qu
 ## Content
 
 ## Sub-places
-- [[Innsbruck (Literary)|Innsbruck]]
+- [[Innsbruck]]
 - [[Langenegg]]
 - [[Salzburg]]
-- [[Vienna (Literary)|Vienna]]
+- [[Vienna]]
 - [[Wörgl]]

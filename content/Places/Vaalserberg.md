@@ -2,8 +2,8 @@
 publish: true
 title: Vaalserberg
 created: 2026-10-20T04:19:32.000Z
-modified: 2026-10-21T10:24:24.207Z
-published: 2026-10-21T10:24:24.207Z
+modified: 2026-10-21T13:37:46.333Z
+published: 2026-10-21T13:37:46.333Z
 aliases: []
 books:
   - I Climbed the Highest Mountain in the Netherlands!
@@ -24,7 +24,7 @@ within: "[[Netherlands]]"
 
 # Vaalserberg
 
-Hill at the Dutch–German–Belgian tripoint near Vaals, Limburg. See [[Netherlands]].
+Hill at the Dutch–German–Belgian tripoint near Vaals, Limburg, in the [[Netherlands]], which is the subject of a Not Just Bikes video asking whether its 322.4 m really makes it the country's highest point.
 
 ## At a glance
 | Source | Author | Role | In one line |

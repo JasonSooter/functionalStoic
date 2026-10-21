@@ -2,8 +2,8 @@
 publish: true
 title: Florida
 created: 2026-10-19T22:29:17.000Z
-modified: 2026-10-21T10:51:44.315Z
-published: 2026-10-21T10:51:44.315Z
+modified: 2026-10-21T13:56:37.573Z
+published: 2026-10-21T13:56:37.573Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -34,8 +34,11 @@ State in the south-eastern [[United States]], appearing in the reading as one st
 
 ## Sub-places
 
+- [[Calle Ocho]]
 - [[Daytona International Speedway]]
+- [[Fifth Avenue South (Naples, Florida)]]
 - [[Kissimmee River]]
+- [[Miami Beach]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5eqy53q64qvkj0sd98gs)

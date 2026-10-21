@@ -2,8 +2,8 @@
 publish: true
 title: White Mountains (California)
 created: 2026-10-20T22:51:47.000Z
-modified: 2026-10-21T10:25:58.242Z
-published: 2026-10-21T10:25:58.242Z
+modified: 2026-10-21T13:38:23.597Z
+published: 2026-10-21T13:38:23.597Z
 aliases:
   - Inyo-White Mountains
 books:
@@ -26,12 +26,12 @@ within: "[[California]]"
 
 # White Mountains (California)
 
-Arid mountain range east of the Sierra Nevada, home of the ancient bristlecone pines, in [[California]].
+Arid mountain range east of the Sierra Nevada in [[California]], home of the ancient bristlecone pines, which is the central place in Ross Andersen's essay on the vanishing groves.
 
 ## At a glance
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The vanishing groves | Ross Andersen | setting | The author trudges several miles through snow in March to reach the bristlecone groves on the dolomite of the White Mountains, north of Death Valley. |
+| The vanishing groves | Ross Andersen | setting | The author trudges miles through snow in March to reach the bristlecone groves on the White Mountains' dolomite, north of Death Valley. |
 
 ## Sub-places
 - [[Schulman Grove]]

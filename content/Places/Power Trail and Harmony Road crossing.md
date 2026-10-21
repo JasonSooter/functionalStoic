@@ -2,8 +2,8 @@
 publish: true
 title: Power Trail and Harmony Road crossing
 created: 2026-10-21T05:06:37.000Z
-modified: 2026-10-21T11:15:44.611Z
-published: 2026-10-21T11:15:44.611Z
+modified: 2026-10-21T13:22:30.530Z
+published: 2026-10-21T13:22:30.530Z
 aliases: []
 books:
   - Colorado Hands-Free Law, Ollie Stratton Trial, Scheels Giving Campaign, Winter
@@ -23,12 +23,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # Power Trail and Harmony Road crossing
 
-Intersection in [[Fort Collins (Literary)|Fort Collins]], Colorado, where the city plans a bike and pedestrian tunnel, as reported in a Bike Fort Collins newsletter item.
+Intersection in [[Fort Collins|Fort Collins]], Colorado, where the city plans a bike and pedestrian tunnel, as reported in a Bike Fort Collins newsletter item.
 
 ## At a glance
 | Source | Author | Role | In one line |

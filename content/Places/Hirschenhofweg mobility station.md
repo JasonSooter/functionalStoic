@@ -2,8 +2,8 @@
 publish: true
 title: Hirschenhofweg mobility station
 created: 2026-10-20T10:42:48.000Z
-modified: 2026-10-21T11:09:33.946Z
-published: 2026-10-21T11:09:33.946Z
+modified: 2026-10-21T13:25:48.882Z
+published: 2026-10-21T13:25:48.882Z
 aliases:
   - Mobilitätsstation Ebnet
 books:
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Hirschenhofweg mobility station
 
-Mobility station in Ebnet, [[Freiburg (Literary)|Freiburg]], Germany. It is VAG Freiburg's example of its mobility-stations project, combining bus, bike share, car-sharing and charging.
+Mobility station in Ebnet, [[Freiburg|Freiburg]], Germany. It is VAG Freiburg's example of its mobility-stations project, combining bus, bike share, car-sharing and charging.
 
 ## At a glance
 | Source | Author | Role | In one line |

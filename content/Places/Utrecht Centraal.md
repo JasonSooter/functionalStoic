@@ -2,8 +2,8 @@
 publish: true
 title: Utrecht Centraal
 created: 2026-10-20T13:46:05.000Z
-modified: 2026-10-21T10:24:18.543Z
-published: 2026-10-21T10:24:18.543Z
+modified: 2026-10-21T13:37:40.204Z
+published: 2026-10-21T13:37:40.204Z
 aliases: []
 books:
   - The Best-Designed Town in the Netherlands (and therefore, the world)
@@ -25,7 +25,7 @@ within: "[[Netherlands]]"
 
 # Utrecht Centraal
 
-Main railway station of Utrecht, [[Netherlands]].
+Main railway station of Utrecht in the [[Netherlands]], which appears in Not Just Bikes' video on Houten as the transfer point from the Amsterdam Intercity to the local train.
 
 ## At a glance
 | Source | Author | Role | In one line |

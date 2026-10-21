@@ -2,12 +2,8 @@
 publish: true
 title: Teton Dam
 created: 2026-10-20T04:31:27.000Z
-modified: 2026-10-21T01:36:36.000Z
-published: 2026-10-21T01:36:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T13:44:03.183Z
+published: 2026-10-21T13:44:03.183Z
 aliases: []
 books:
   - The Wild Story of the Teton Dam Failure
@@ -19,21 +15,23 @@ icon: video
 location:
   - 43.9097
   - -111.5392
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Idaho]]"
 ---
 
 # Teton Dam
 
-Earthen dam on the Teton River in eastern Idaho that failed in 1976. See [[Idaho]].
+The Teton Dam is an earthen dam on the Teton River in eastern [[Idaho]] that failed in 1976. It appears in Practical Engineering's video marking the failure's 50th anniversary.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Wild Story of the Teton Dam Failure | Practical Engineering | subject | Fifty years on, one of the most dramatic US dam failures of the 20th century. |
 
 ## The Wild Story of the Teton Dam Failure — Practical Engineering (2026)
-
 Source: [Original](https://nebula.tv/videos/practical-engineering-the-wild-story-of-the-teton-dam-failure/) · [Readwise highlight](https://read.readwise.io/read/01m5bs6d176t5k4tsc0150e606)
 
 > This year is the 50th anniversary of the Teton Dam Failure. It was one of the most dramatic and catalyzing dam failures of the 20th century in the US.

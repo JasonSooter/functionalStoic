@@ -2,18 +2,18 @@
 publish: true
 title: Oregon
 created: 2026-10-20T04:35:52.000Z
-modified: 2026-10-20T10:48:27.000Z
-published: 2026-10-20T10:48:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T14:11:42.606Z
+published: 2026-10-21T14:11:42.606Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Oregon
@@ -22,5 +22,6 @@ US state in the Pacific Northwest. Hub for literary places in the state.
 
 ## Sub-places
 
+- [[Crater Lake]]
 - [[Hinsdale Wave Research Laboratory]]
 - [[Portland, Oregon]]

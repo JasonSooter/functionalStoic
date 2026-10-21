@@ -2,8 +2,8 @@
 publish: true
 title: Pennock Pass
 created: 2026-10-20T10:42:54.000Z
-modified: 2026-10-21T11:18:14.917Z
-published: 2026-10-21T11:18:14.917Z
+modified: 2026-10-21T13:24:13.490Z
+published: 2026-10-21T13:24:13.490Z
 aliases: []
 books:
   - It snowed a bit
@@ -26,7 +26,7 @@ within: "[[Colorado]]"
 
 # Pennock Pass
 
-Gravel pass in the foothills west of [[Fort Collins (Literary)|Fort Collins]], Larimer County, [[Colorado]], USA, where a bike blogger is caught in unexpected snow.
+Gravel pass in the foothills west of [[Fort Collins|Fort Collins]], Larimer County, [[Colorado]], USA, where a bike blogger is caught in unexpected snow.
 
 ## At a glance
 | Source | Author | Role | In one line |

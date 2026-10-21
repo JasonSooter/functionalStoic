@@ -2,8 +2,8 @@
 publish: true
 title: Evergreen Point Floating Bridge
 created: 2026-10-20T22:56:13.000Z
-modified: 2026-10-21T10:49:57.397Z
-published: 2026-10-21T10:49:57.397Z
+modified: 2026-10-21T13:28:01.475Z
+published: 2026-10-21T13:28:01.475Z
 aliases:
   - Evergreen Point Bridge
   - Governor Albert D. Rosellini Bridge
@@ -24,12 +24,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Seattle (Literary)]]"
+within: "[[Seattle]]"
 ---
 
 # Evergreen Point Floating Bridge
 
-Floating bridge carrying SR 520 across Lake Washington in [[Seattle (Literary)|Seattle]]. It appears in Wesley Crump's article on floating-bridge engineering as an example of elevated approach spans and pontoon construction.
+Floating bridge carrying SR 520 across Lake Washington in [[Seattle|Seattle]]. It appears in Wesley Crump's article on floating-bridge engineering as an example of elevated approach spans and pontoon construction.
 
 ## At a glance
 | Source | Author | Role | In one line |

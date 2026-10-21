@@ -2,8 +2,8 @@
 publish: true
 title: Philadelphia
 created: 2026-10-20T16:28:35.000Z
-modified: 2026-10-21T11:16:44.899Z
-published: 2026-10-21T11:16:44.899Z
+modified: 2026-10-21T13:56:22.212Z
+published: 2026-10-21T13:56:22.212Z
 aliases: []
 books:
   - "[[The First Great Founder]]"
@@ -33,6 +33,8 @@ City on the Delaware River in [[Pennsylvania]], USA, which appears in the readin
 | [[The First Great Founder]] | Ben Putano | turning point | Franklin, unable to fund his own paper in Philadelphia, wrote popular essays in the leading paper to sink the only rival, whose printer then sold out to him cheaply. |
 
 ## Sub-places
+
+- [[Ninth Street and Passyunk Avenue]]
 - [[The Franklin Institute]]
 
 ## The First Great Founder — Ben Putano (2022)

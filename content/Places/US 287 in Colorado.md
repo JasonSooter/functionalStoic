@@ -2,8 +2,8 @@
 publish: true
 title: US 287 in Colorado
 created: 2026-10-21T10:49:34.927Z
-modified: 2026-10-21T10:49:34.927Z
-published: 2026-10-21T10:49:34.927Z
+modified: 2026-10-21T13:37:34.779Z
+published: 2026-10-21T13:37:34.779Z
 aliases: []
 books:
   - Supporting New Technological & Infrastructure Growth
@@ -27,7 +27,7 @@ within: "[[Colorado]]"
 
 # US 287 in Colorado
 
-U.S. Highway 287, a main north–south route through northern Colorado linking Boulder, Longmont, Loveland and Fort Collins. Neguse's newsletter reports federal money to rebuild it.
+U.S. Highway 287, a main north–south route through northern [[Colorado]] linking Boulder, Longmont, Loveland and Fort Collins, which appears in Congressman Joe Neguse's newsletter as the target of $47 million in federal infrastructure funding.
 
 ## At a glance
 | Source | Author | Role | In one line |

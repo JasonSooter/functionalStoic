@@ -2,8 +2,8 @@
 publish: true
 title: The city (The Dry Heart)
 created: 2026-10-20T19:47:13.000Z
-modified: 2026-10-21T10:24:08.586Z
-published: 2026-10-21T10:24:08.586Z
+modified: 2026-10-21T13:44:55.205Z
+published: 2026-10-21T13:44:55.205Z
 aliases:
   - Unnamed city, The Dry Heart
 books:
@@ -29,7 +29,7 @@ within: "[[Turin]]"
 
 # The city (The Dry Heart)
 
-The unnamed Italian city where _The Dry Heart_ is set, pinned at [[Turin]] as a best guess. See [[Italy]].
+The city is the unnamed Italian city where _The Dry Heart_ is set, pinned at [[Turin]] as a best guess (see [[Italy]]). Almost all of Natalia Ginzburg's novella happens here, from the narrator's boarding house to her marriage.
 
 ## At a glance
 | Source | Author | Role | In one line |
@@ -37,7 +37,7 @@ The unnamed Italian city where _The Dry Heart_ is set, pinned at [[Turin]] as a 
 | [[The Dry Heart]] | Natalia Ginzburg | setting | The city of the narrator's boarding house, her marriage, and the shot she fires at the start of the book. |
 
 ## The Dry Heart — Natalia Ginzburg (1947)
-Source: [[The Dry Heart]] · [Readwise highlight](https://read.readwise.io/read/01m5ddmjq2gt2rexhy9fbt0tfw)
+Source: [[The Dry Heart]] · [Original](https://openlibrary.org/works/OL1449796W) · [Readwise highlight](https://read.readwise.io/read/01m5ddmjq2gt2rexhy9fbt0tfw)
 
 > We were leaning up against the wall of a bridge. It was dark and wagons were passing slowly along the street with paper lanterns swinging under the horses’ bellies, while birds whirred out of the tall rough grass beside the river.
 

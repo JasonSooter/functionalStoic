@@ -2,8 +2,8 @@
 publish: true
 title: New Belgium Brewing
 created: 2026-10-20T19:35:14.000Z
-modified: 2026-10-21T11:19:53.538Z
-published: 2026-10-21T11:19:53.538Z
+modified: 2026-10-21T13:22:33.966Z
+published: 2026-10-21T13:22:33.966Z
 aliases: []
 books:
   - MyCycle Donations Open, Bike Prom Recap, Tour de Farms Date Announce, and More!
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # New Belgium Brewing
 
-Brewery in [[Fort Collins (Literary)|Fort Collins]], Colorado, USA, and the venue where the annual Tour de Fat bike parade ends in a party, as announced in two Bike Fort Collins emails.
+Brewery in [[Fort Collins|Fort Collins]], Colorado, USA, and the venue where the annual Tour de Fat bike parade ends in a party, as announced in two Bike Fort Collins emails.
 
 ## At a glance
 | Source | Author | Role | In one line |

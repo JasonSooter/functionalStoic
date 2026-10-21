@@ -2,8 +2,8 @@
 publish: true
 title: Florence
 created: 2026-10-20T01:38:56.000Z
-modified: 2026-10-21T10:51:40.559Z
-published: 2026-10-21T10:51:40.559Z
+modified: 2026-10-21T13:56:39.658Z
+published: 2026-10-21T13:56:39.658Z
 aliases:
   - Firenze
 books:
@@ -37,6 +37,7 @@ Capital of Tuscany, Italy; see also [[Italy]]. It appears in the reading through
 - [[Bargello]]
 - [[Florence Baptistery]]
 - [[Florence Cathedral]]
+- [[Palazzo Medici Riccardi]]
 - [[Ponte Vecchio]]
 - [[Questura di Firenze]]
 - [[Uffizi]]

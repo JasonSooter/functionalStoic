@@ -2,8 +2,8 @@
 publish: true
 title: Tokyo
 created: 2026-10-20T07:35:04.000Z
-modified: 2026-10-21T11:10:04.124Z
-published: 2026-10-21T11:10:04.124Z
+modified: 2026-10-21T13:44:24.044Z
+published: 2026-10-21T13:44:24.044Z
 aliases: []
 books:
   - "[[[RIDGELINE] Tokyo Notes - Public Commons]]"
@@ -20,7 +20,7 @@ within: "[[Japan]]"
 
 # Tokyo
 
-Capital of Japan. See [[Japan]]. Hub for literary places in the city.
+Capital of Japan; see [[Japan]]. It is the subject of Craig Mod's essay on the city's redevelopment, vanishing sento and surviving shrines as commons.
 
 ## At a glance
 | Source | Author | Role | In one line |

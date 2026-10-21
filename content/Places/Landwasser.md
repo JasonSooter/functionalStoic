@@ -2,8 +2,8 @@
 publish: true
 title: Landwasser
 created: 2026-10-19T22:27:59.000Z
-modified: 2026-10-21T11:19:16.659Z
-published: 2026-10-21T11:19:16.659Z
+modified: 2026-10-21T13:25:52.846Z
+published: 2026-10-21T13:25:52.846Z
 aliases:
   - Freiburg-Landwasser
 books:
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Landwasser
 
-District in north-west [[Freiburg (Literary)|Freiburg]], used by the city's tram operator VAG as the worked example of how a track refurbishment is planned.
+District in north-west [[Freiburg|Freiburg]], used by the city's tram operator VAG as the worked example of how a track refurbishment is planned.
 
 ## At a glance
 | Source | Author | Role | In one line |

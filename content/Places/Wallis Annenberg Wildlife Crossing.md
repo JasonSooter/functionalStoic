@@ -2,8 +2,8 @@
 publish: true
 title: Wallis Annenberg Wildlife Crossing
 created: 2026-10-21T02:08:28.000Z
-modified: 2026-10-21T10:27:04.309Z
-published: 2026-10-21T10:27:04.309Z
+modified: 2026-10-21T13:37:28.998Z
+published: 2026-10-21T13:37:28.998Z
 aliases: []
 books:
   - "What We’re Reading: A Living, Breathing Freeway Crossing for Wildlife"
@@ -26,7 +26,7 @@ within: "[[California]]"
 
 # Wallis Annenberg Wildlife Crossing
 
-Bridge in [[California]], United States.
+Wildlife bridge over the 101 freeway near Los Angeles in [[California]], United States, which appears in the reading as the largest wildlife crossing in the world, in an article and a video about building it.
 
 ## At a glance
 | Source | Author | Role | In one line |

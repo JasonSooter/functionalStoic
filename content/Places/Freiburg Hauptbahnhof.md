@@ -2,8 +2,8 @@
 publish: true
 title: Freiburg Hauptbahnhof
 created: 2026-10-20T01:37:06.000Z
-modified: 2026-10-21T11:08:59.529Z
-published: 2026-10-21T11:08:59.529Z
+modified: 2026-10-21T13:24:44.998Z
+published: 2026-10-21T13:24:44.998Z
 aliases:
   - Freiburg main station
   - Freiburg (Breisgau) Hbf
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Freiburg Hauptbahnhof
 
-Main railway station of [[Freiburg (Literary)|Freiburg]] im Breisgau, Germany, which shows up in the reading as a spot hit in the 1944 air raid and as the focus of the Rheintalbahn closure dispute.
+Main railway station of [[Freiburg|Freiburg]] im Breisgau, Germany, which shows up in the reading as a spot hit in the 1944 air raid and as the focus of the Rheintalbahn closure dispute.
 
 ## At a glance
 

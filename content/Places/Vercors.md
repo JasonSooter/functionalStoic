@@ -2,8 +2,8 @@
 publish: true
 title: Vercors
 created: 2026-10-20T19:36:11.000Z
-modified: 2026-10-21T10:22:21.586Z
-published: 2026-10-21T10:22:21.586Z
+modified: 2026-10-21T13:39:32.059Z
+published: 2026-10-21T13:39:32.059Z
 aliases:
   - Vercors Massif
   - Forêt d'Herbouilly
@@ -31,7 +31,7 @@ within: "[[France]]"
 
 # Vercors
 
-Limestone massif of the French Prealps between Grenoble and Valence, [[France]]. The pin is the massif's representative point.
+Limestone massif of the French Prealps between Grenoble and Valence, [[France]], which appears in three Mostly Bikes x Me posts about a few days of riding its gorges and quiet roads from a base at Autrans.
 
 ## At a glance
 | Source | Author | Role | In one line |

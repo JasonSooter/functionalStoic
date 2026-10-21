@@ -2,8 +2,8 @@
 publish: true
 title: The Hatch (Old Leigh)
 created: 2026-10-21T11:08:14.075Z
-modified: 2026-10-21T11:08:14.075Z
-published: 2026-10-21T11:08:14.075Z
+modified: 2026-10-21T13:45:40.799Z
+published: 2026-10-21T13:45:40.799Z
 aliases: []
 books:
   - "[[008 a Guide to the Cafes of Basildon]]"
@@ -21,7 +21,7 @@ within: "[[Essex]]"
 
 # The Hatch (Old Leigh)
 
-Café in Old Leigh, Leigh-on-Sea, Essex, near the Fishermen's Chapel. Dave Walker ranks it second in his café guide.
+The Hatch is a café in Old Leigh, Leigh-on-Sea, [[Essex]], near the Fishermen's Chapel. It appears in Dave Walker's guide to cafés as his second-ranked spot and his favourite place to draw.
 
 ## At a glance
 | Source | Author | Role | In one line |

@@ -2,8 +2,8 @@
 publish: true
 title: Sigmund Freud Museum
 created: 2026-10-20T01:28:18.000Z
-modified: 2026-10-21T11:18:07.996Z
-published: 2026-10-21T11:18:07.996Z
+modified: 2026-10-21T13:29:51.775Z
+published: 2026-10-21T13:29:51.775Z
 aliases:
   - Berggasse 19
   - Freud Museum Vienna
@@ -21,12 +21,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Vienna (Literary)]]"
+within: "[[Vienna]]"
 ---
 
 # Sigmund Freud Museum
 
-Freud's former apartment and consulting rooms at Berggasse 19, Vienna, Austria, whose near-empty rooms lead Bill Bryson into his closing argument about Austrian anti-Semitism in Neither Here Nor There. See [[Vienna (Literary)|Vienna]].
+Freud's former apartment and consulting rooms at Berggasse 19, Vienna, Austria, whose near-empty rooms lead Bill Bryson into his closing argument about Austrian anti-Semitism in Neither Here Nor There. See [[Vienna|Vienna]].
 
 ## At a glance
 | Source | Author | Role | In one line |

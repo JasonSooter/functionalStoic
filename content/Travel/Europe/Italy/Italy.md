@@ -2,8 +2,8 @@
 publish: true
 title: Italy
 created: 2026-07-26T09:46:17.730Z
-modified: 2026-10-21T10:49:26.953Z
-published: 2026-10-21T10:49:26.953Z
+modified: 2026-10-21T13:55:40.185Z
+published: 2026-10-21T13:55:40.185Z
 aliases:
   - Italia
 books: []
@@ -62,9 +62,11 @@ Italy's political system is a parliamentary republic, and its population is appr
 - [[Castel Gandolfo]]
 - [[Como]]
 - [[Dolomites]]
+- [[Elba]]
 - [[Lazio]]
 - [[Milan]]
 - [[Naples]]
+- [[Piazza del Campo]]
 - [[Pisa]]
 - [[Recanati]]
 - [[San Gimignano]]

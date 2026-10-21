@@ -2,8 +2,8 @@
 publish: true
 title: Ringstrasse
 created: 2026-10-20T10:43:06.000Z
-modified: 2026-10-21T11:17:58.012Z
-published: 2026-10-21T11:17:58.012Z
+modified: 2026-10-21T13:29:32.435Z
+published: 2026-10-21T13:29:32.435Z
 aliases:
   - Ringstraße
   - The Ring
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Vienna (Literary)]]"
+within: "[[Vienna]]"
 ---
 
 # Ringstrasse
 
-Ring boulevard around the Innere Stadt of [[Vienna (Literary)|Vienna]], where Bill Bryson's view of the city turns golden in Neither Here Nor There.
+Ring boulevard around the Innere Stadt of [[Vienna|Vienna]], where Bill Bryson's view of the city turns golden in Neither Here Nor There.
 
 ## At a glance
 | Source | Author | Role | In one line |

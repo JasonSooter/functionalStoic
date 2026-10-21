@@ -2,8 +2,8 @@
 publish: true
 title: Hughes property (Fort Collins)
 created: 2026-10-20T16:27:22.000Z
-modified: 2026-10-21T11:10:22.189Z
-published: 2026-10-21T11:10:22.189Z
+modified: 2026-10-21T13:24:05.049Z
+published: 2026-10-21T13:24:05.049Z
 aliases:
   - Hughes property
   - Hughes Stadium site
@@ -34,12 +34,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # Hughes property (Fort Collins)
 
-Open land in west [[Fort Collins (Literary)|Fort Collins]], Colorado: the former Hughes Stadium site, whose future as a bike park and multi-use space runs through Bike Fort Collins newsletters.
+Open land in west [[Fort Collins|Fort Collins]], Colorado: the former Hughes Stadium site, whose future as a bike park and multi-use space runs through Bike Fort Collins newsletters.
 
 ## At a glance
 | Source | Author | Role | In one line |

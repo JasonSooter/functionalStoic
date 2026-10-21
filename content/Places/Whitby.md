@@ -2,8 +2,8 @@
 publish: true
 title: Whitby
 created: 2026-10-21T11:08:20.023Z
-modified: 2026-10-21T11:08:20.023Z
-published: 2026-10-21T11:08:20.023Z
+modified: 2026-10-21T13:38:19.156Z
+published: 2026-10-21T13:38:19.156Z
 aliases: []
 books:
   - '#005 Really interesting holiday photographs'
@@ -25,7 +25,7 @@ within: "[[England]]"
 
 # Whitby
 
-Harbour town on the North Yorkshire coast, England. Dave Walker shares holiday photographs from a week there.
+Harbour town on the North Yorkshire coast, England, which appears in the reading as the setting of Dave Walker's holiday week of coast walks, buses and a steam railway.
 
 ## At a glance
 | Source | Author | Role | In one line |

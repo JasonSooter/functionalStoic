@@ -2,8 +2,8 @@
 publish: true
 title: Carl-Schurz-Haus
 created: 2026-10-20T04:19:22.000Z
-modified: 2026-10-21T10:32:52.639Z
-published: 2026-10-21T10:32:52.639Z
+modified: 2026-10-21T13:24:37.798Z
+published: 2026-10-21T13:24:37.798Z
 aliases:
   - Deutsch-Amerikanisches Institut Freiburg
 books:
@@ -20,12 +20,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Carl-Schurz-Haus
 
-German-American institute on Eisenbahnstraße in [[Freiburg (Literary)|Freiburg]] im Breisgau, the subject of a local-paper interview with its departing director.
+German-American institute on Eisenbahnstraße in [[Freiburg|Freiburg]] im Breisgau, the subject of a local-paper interview with its departing director.
 
 ## At a glance
 | Source | Author | Role | In one line |

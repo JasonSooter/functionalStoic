@@ -2,8 +2,8 @@
 publish: true
 title: Truckee River
 created: 2026-10-21T05:07:08.000Z
-modified: 2026-10-21T10:25:15.689Z
-published: 2026-10-21T10:25:15.689Z
+modified: 2026-10-21T13:44:47.401Z
+published: 2026-10-21T13:44:47.401Z
 aliases: []
 books:
   - While Riding on a Train Going West
@@ -26,7 +26,7 @@ within: "[[California]]"
 
 # Truckee River
 
-River / mountain range in Nevada-California border, USA. Part of [[California]].
+River on the Nevada-California border, part of [[California]]. A writer on a westbound train crosses it and feels she has come home.
 
 ## At a glance
 | Source | Author | Role | In one line |

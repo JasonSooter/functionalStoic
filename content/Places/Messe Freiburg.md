@@ -2,8 +2,8 @@
 publish: true
 title: Messe Freiburg
 created: 2026-10-20T04:34:11.000Z
-modified: 2026-10-21T11:20:09.320Z
-published: 2026-10-21T11:20:09.320Z
+modified: 2026-10-21T13:24:55.318Z
+published: 2026-10-21T13:24:55.318Z
 aliases:
   - Neue Messe Freiburg
   - Messegelände Freiburg
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Messe Freiburg
 
-Freiburg's exhibition grounds (the "Neue Messe") in the north-west of [[Freiburg (Literary)|Freiburg]]. They are where the city hosts crowds, from the SC Freiburg Europa League reception to the spring marathon's start and finish.
+Freiburg's exhibition grounds (the "Neue Messe") in the north-west of [[Freiburg|Freiburg]]. They are where the city hosts crowds, from the SC Freiburg Europa League reception to the spring marathon's start and finish.
 
 ## At a glance
 | Source | Author | Role | In one line |

@@ -2,8 +2,8 @@
 publish: true
 title: Café Central
 created: 2026-10-20T01:28:00.000Z
-modified: 2026-10-21T10:24:12.859Z
-published: 2026-10-21T10:24:12.859Z
+modified: 2026-10-21T13:29:59.143Z
+published: 2026-10-21T13:29:59.143Z
 aliases:
   - Cafe Central
 books:
@@ -20,12 +20,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Vienna (Literary)]]"
+within: "[[Vienna]]"
 ---
 
 # Café Central
 
-Historic coffee house in the Palais Ferstel, [[Vienna (Literary)|Vienna]], Austria; in Neither Here Nor There it is one of the famous cafés that disappoint Bryson.
+Historic coffee house in the Palais Ferstel, [[Vienna|Vienna]], Austria; in Neither Here Nor There it is one of the famous cafés that disappoint Bryson.
 
 ## At a glance
 | Source | Author | Role | In one line |

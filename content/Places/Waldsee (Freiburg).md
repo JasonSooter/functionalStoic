@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Waldsee
 title: Waldsee (Freiburg)
 created: 2026-10-20T10:43:02.000Z
-modified: 2026-10-20T10:43:02.000Z
-published: 2026-10-20T10:43:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T13:37:26.074Z
+published: 2026-10-21T13:37:26.074Z
+aliases:
+  - Waldsee
 books:
   - Trams in Freiburg im Breisgau - Wikipedia
 categories:
@@ -21,22 +17,24 @@ icon: newspaper
 location:
   - 47.9858
   - 7.8886
-within: "[[Freiburg (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Freiburg]]"
 ---
 
 # Waldsee (Freiburg)
 
-District in eastern [[Freiburg (Literary)]], named for the lake in the Möslepark.
+District in eastern [[Freiburg]], named for the lake in the Möslepark, which shows up in the reading as the terminus of Freiburg's early tram lines.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Trams in Freiburg im Breisgau - Wikipedia | Wikipedia | journey waypoint | Terminus of Freiburg's early tram lines. |
 
 ## Trams in Freiburg im Breisgau - Wikipedia — Wikipedia (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5ce83ey271hkmj9f1qar1aa)
+Source: [Original](https://en.wikipedia.org/wiki/Trams_in_Freiburg_im_Breisgau) · [Readwise highlight](https://read.readwise.io/read/01m5ce83ey271hkmj9f1qar1aa)
 
 > The terminus station was Waldsee, named after the waters in the recreation area of Möslepark.
 

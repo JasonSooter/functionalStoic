@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-21T10:20:35.896Z
-published: 2026-10-21T10:20:35.896Z
+modified: 2026-10-21T13:56:07.807Z
+published: 2026-10-21T13:56:07.807Z
 aliases: []
 books: []
 categories:
@@ -70,6 +70,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 |  |  |  |  |  |  | 212.1974 |  |
 
 ## Sub-places
+
 - [[Altadena]]
 - [[Auburn Dam]]
 - [[Berkeley, California]]
@@ -91,7 +92,10 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Mokelumne River]]
 - [[Mountain View]]
 - [[Oakland]]
+- [[Ocean Avenue (Carmel-by-the-Sea)]]
+- [[Old Pasadena]]
 - [[Palm Springs]]
+- [[Palo Alto]]
 - [[Pebble Beach Golf Links]]
 - [[San Clemente Dam]]
 - [[San Francisco]]
@@ -102,5 +106,6 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Steamer Lane]]
 - [[Stockton, California]]
 - [[Truckee River]]
+- [[Ventura, California]]
 - [[Wallis Annenberg Wildlife Crossing]]
 - [[White Mountains (California)]]

@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-21T11:17:09.093Z
-published: 2026-10-21T11:17:09.093Z
+modified: 2026-10-21T14:11:43.358Z
+published: 2026-10-21T14:11:43.358Z
 aliases:
   - NYC
 books:
@@ -38,6 +38,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 | [[How Zohran Mamdani’s Big Goals Could Transform Life in New York City]] | RTBC Staff | subject | After the 2025 primary win, his goals: fare-free buses, public supermarkets, free child care, 200,000 new homes. |
 
 ## Sub-places
+
 - [[40 Wall Street]]
 - [[420 East 51st Street]]
 - [[432 Park Avenue]]
@@ -50,6 +51,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[East River]]
 - [[Hotel Chelsea]]
 - [[Library Way]]
+- [[Lower East Side]]
 - [[Madison Square Garden (1890)]]
 - [[Myka]]
 - [[New York Public Library Main Branch]]

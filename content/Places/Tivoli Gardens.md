@@ -2,8 +2,8 @@
 publish: true
 title: Tivoli Gardens
 created: 2026-10-19T22:24:42.000Z
-modified: 2026-10-21T10:31:18.774Z
-published: 2026-10-21T10:31:18.774Z
+modified: 2026-10-21T13:44:20.848Z
+published: 2026-10-21T13:44:20.848Z
 aliases:
   - Tivoli
   - Rådhuspladsen
@@ -26,7 +26,7 @@ within: "[[Copenhagen]]"
 
 # Tivoli Gardens
 
-The amusement park beside Copenhagen's Town Hall Square (Rådhuspladsen); see [[Copenhagen]].
+The amusement park beside Copenhagen's Town Hall Square (Rådhuspladsen); see [[Copenhagen]]. In Neither Here Nor There Bryson finds it shut, and the scene by the town hall on his walk back anchors his view of the Danes.
 
 ## At a glance
 | Source | Author | Role | In one line |
@@ -34,7 +34,7 @@ The amusement park beside Copenhagen's Town Hall Square (Rådhuspladsen); see [[
 | Neither Here Nor There | Bill Bryson | turning point | Shut for the season, but the walk back past the town hall gives Bryson his best Danish scene. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-Source: [Readwise highlight](https://read.readwise.io/read/01m5b4406bn4hfz8rvjbtkqq50)
+Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b4406bn4hfz8rvjbtkqq50)
 
 > I walked across to Tivoli, even though I could see from a distance that it was shut and darkened, as if under dust sheets.
 

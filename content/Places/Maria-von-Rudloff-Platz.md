@@ -2,8 +2,8 @@
 publish: true
 title: Maria-von-Rudloff-Platz
 created: 2026-10-20T10:43:10.000Z
-modified: 2026-10-21T11:21:07.745Z
-published: 2026-10-21T11:21:07.745Z
+modified: 2026-10-21T13:26:26.403Z
+published: 2026-10-21T13:26:26.403Z
 aliases: []
 books:
   - Trams in Freiburg im Breisgau - Wikipedia
@@ -21,12 +21,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Maria-von-Rudloff-Platz
 
-Central square and tram stop in Rieselfeld, [[Freiburg (Literary)|Freiburg]]. It is the middle stop of the 1997 Rieselfeld tram extension described in Wikipedia's article on Freiburg's trams.
+Central square and tram stop in Rieselfeld, [[Freiburg|Freiburg]]. It is the middle stop of the 1997 Rieselfeld tram extension described in Wikipedia's article on Freiburg's trams.
 
 ## At a glance
 | Source | Author | Role | In one line |

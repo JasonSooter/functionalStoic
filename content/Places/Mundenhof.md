@@ -2,8 +2,8 @@
 publish: true
 title: Mundenhof
 created: 2026-10-19T22:27:01.000Z
-modified: 2026-10-21T11:20:23.103Z
-published: 2026-10-21T11:20:23.103Z
+modified: 2026-10-21T13:25:41.770Z
+published: 2026-10-21T13:25:41.770Z
 aliases:
   - Zelt-Musik-Festival grounds
   - ZMF
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Mundenhof
 
-Animal park and estate on the western edge of [[Freiburg (Literary)|Freiburg]], home of the Zelt-Musik-Festival (ZMF) since 1985. It shows up as a remote festival site whose lack of transport led to Germany's first combined concert-and-travel ticket.
+Animal park and estate on the western edge of [[Freiburg|Freiburg]], home of the Zelt-Musik-Festival (ZMF) since 1985. It shows up as a remote festival site whose lack of transport led to Germany's first combined concert-and-travel ticket.
 
 ## At a glance
 | Source | Author | Role | In one line |

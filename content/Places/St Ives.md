@@ -2,8 +2,8 @@
 publish: true
 title: St Ives
 created: 2026-10-21T10:49:29.430Z
-modified: 2026-10-21T10:49:29.430Z
-published: 2026-10-21T10:49:29.430Z
+modified: 2026-10-21T13:38:43.035Z
+published: 2026-10-21T13:38:43.035Z
 aliases: []
 books:
   - '#016 Plastic containers and their lids'
@@ -25,7 +25,7 @@ within: "[[Cornwall]]"
 
 # St Ives
 
-Seaside town on the north coast of Cornwall, England, known for its harbour and art galleries. Dave Walker writes from a holiday there.
+Seaside town on the north coast of Cornwall, England, known for its harbour and art galleries. It appears in the reading as the holiday setting of one of Dave Walker's Diagram Club newsletters.
 
 ## At a glance
 | Source | Author | Role | In one line |

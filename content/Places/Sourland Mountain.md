@@ -2,8 +2,8 @@
 publish: true
 title: Sourland Mountain
 created: 2026-10-21T10:49:23.096Z
-modified: 2026-10-21T10:49:23.096Z
-published: 2026-10-21T10:49:23.096Z
+modified: 2026-10-21T13:36:48.033Z
+published: 2026-10-21T13:36:48.033Z
 aliases: []
 books:
   - A hilly bicycle ride to a French bakery in New Jersey
@@ -25,7 +25,7 @@ within: "[[New Jersey]]"
 
 # Sourland Mountain
 
-Low wooded ridge in central New Jersey, rising to 568 feet above Hopewell. The bike-shop group's rides usually climb it.
+Low wooded ridge in central [[New Jersey]], rising to 568 feet above Hopewell. It appears in the reading as the hilly backdrop to a bike-shop group's ride to a French bakery.
 
 ## At a glance
 | Source | Author | Role | In one line |

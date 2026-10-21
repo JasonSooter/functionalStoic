@@ -2,8 +2,8 @@
 publish: true
 title: Veluwemeer Aqueduct
 created: 2026-10-21T05:07:34.000Z
-modified: 2026-10-21T10:24:22.403Z
-published: 2026-10-21T10:24:22.403Z
+modified: 2026-10-21T13:38:37.326Z
+published: 2026-10-21T13:38:37.326Z
 aliases: []
 books:
   - Why are the Dutch So Famous for Waterworks?
@@ -25,7 +25,7 @@ within: "[[Netherlands]]"
 
 # Veluwemeer Aqueduct
 
-Aqueduct / road tunnel in Harderwijk, Flevoland, Netherlands. Part of [[Netherlands]].
+Aqueduct and road tunnel in Harderwijk, Flevoland, [[Netherlands]], which opens Practical Engineering's video on why the Dutch are famous for waterworks.
 
 ## At a glance
 | Source | Author | Role | In one line |

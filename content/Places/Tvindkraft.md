@@ -2,8 +2,8 @@
 publish: true
 title: Tvindkraft
 created: 2026-10-21T05:06:40.000Z
-modified: 2026-10-21T10:29:59.525Z
-published: 2026-10-21T10:29:59.525Z
+modified: 2026-10-21T13:44:59.806Z
+published: 2026-10-21T13:44:59.806Z
 aliases: []
 books:
   - The shadow of the windmill cult
@@ -26,7 +26,7 @@ within: "[[Denmark]]"
 
 # Tvindkraft
 
-Wind turbine / school site in Jutland, Denmark. Part of [[Denmark]].
+Wind turbine and school site in Jutland, part of [[Denmark]]. In Helen Russell's article on the Tvind movement, its windmill is the idealistic achievement set against the cult-like shadow of the title.
 
 ## At a glance
 | Source | Author | Role | In one line |

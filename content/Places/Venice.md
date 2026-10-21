@@ -2,8 +2,8 @@
 publish: true
 title: Venice
 created: 2026-10-20T07:53:09.000Z
-modified: 2026-10-21T11:07:52.574Z
-published: 2026-10-21T11:07:52.574Z
+modified: 2026-10-21T13:38:45.815Z
+published: 2026-10-21T13:38:45.815Z
 aliases:
   - Venezia
   - Lido
@@ -29,7 +29,7 @@ within: "[[Italy]]"
 
 # Venice
 
-City on islands in the Venetian lagoon, north-eastern Italy, with the Lido as its sea barrier. See [[Italy]].
+City on islands in the Venetian lagoon, north-eastern [[Italy]], with the Lido as its sea barrier; it is the setting of Thomas Mann's Death in Venice and the subject of Primal Space's video on Venetian engineering.
 
 ## At a glance
 | Source | Author | Role | In one line |
@@ -49,7 +49,7 @@ City on islands in the Venetian lagoon, north-eastern Italy, with the Lido as it
 - [[Venezia Santa Lucia railway station]]
 
 ## Death in Venice — Thomas Mann (1912)
-Source: [[Death in Venice]] · [Readwise highlight](https://read.readwise.io/read/01m5c4pzc9fx9xwzs5bn02gkpc)
+Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5c4pzc9fx9xwzs5bn02gkpc)
 
 > An autumnal, off-season mood seemed to lie upon the once so colorful and animated, now all but deserted pleasure haunt, its sand no longer kept clean.
 

@@ -2,12 +2,8 @@
 publish: true
 title: Yellowstone National Park
 created: 2026-10-21T04:45:49.000Z
-modified: 2026-10-21T04:45:49.000Z
-published: 2026-10-21T04:45:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T13:38:54.192Z
+published: 2026-10-21T13:38:54.192Z
 aliases: []
 books:
   - "What We’re Reading: A Genetic Milestone for Yellowstone’s Bison"
@@ -20,21 +16,23 @@ icon: newspaper
 location:
   - 44.6
   - -110.5
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Wyoming]]"
 ---
 
 # Yellowstone National Park
 
-National park in Wyoming, Montana and Idaho, USA. Part of [[Wyoming]].
+National park in Wyoming, Montana and Idaho, USA (part of [[Wyoming]] here), which appears in the reading as the home of a bison herd rebuilt in 1902 and now reported to be genetically healthy.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What We’re Reading: A Genetic Milestone for Yellowstone’s Bison | RTBC Staff | subject | The park's bison herd was rebuilt in 1902 from several herds and is now reported to be a single, genetically healthy population. |
 
 ## What We’re Reading: A Genetic Milestone for Yellowstone’s Bison — RTBC Staff (2025)
-
 Source: [Original](https://reasonstobecheerful.world/what-were-reading-genetic-milestone-yellowstone-bison/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqfy34cgd0739tsa3777j)
 
 > After near-extinction over a century ago, the bison herd in Yellowstone National Park was cobbled together in 1902 from multiple herds in Texas and Montana.

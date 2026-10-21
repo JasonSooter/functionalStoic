@@ -2,8 +2,8 @@
 publish: true
 title: Brenner Pass
 created: 2026-10-20T02:09:36.000Z
-modified: 2026-10-21T10:25:30.581Z
-published: 2026-10-21T10:25:30.581Z
+modified: 2026-10-21T13:27:56.159Z
+published: 2026-10-21T13:27:56.159Z
 aliases:
   - Brennero
   - Brennerpass
@@ -26,7 +26,7 @@ within: "[[South Tyrol]]"
 
 # Brenner Pass
 
-Alpine pass on the Austria–Italy border, with the border town of Brennero, in [[South Tyrol]]. It is where a day's cycling out of [[Innsbruck (Literary)|Innsbruck]] ends and a Mostly Bikes tour crosses from Austria into Italy.
+Alpine pass on the Austria–Italy border, with the border town of Brennero, in [[South Tyrol]]. It is where a day's cycling out of [[Innsbruck|Innsbruck]] ends and a Mostly Bikes tour crosses from Austria into Italy.
 
 ## At a glance
 | Source | Author | Role | In one line |

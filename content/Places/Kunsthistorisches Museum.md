@@ -2,8 +2,8 @@
 publish: true
 title: Kunsthistorisches Museum
 created: 2026-10-20T01:27:56.000Z
-modified: 2026-10-21T11:12:09.898Z
-published: 2026-10-21T11:12:09.898Z
+modified: 2026-10-21T13:29:31.631Z
+published: 2026-10-21T13:29:31.631Z
 aliases:
   - Kunsthistorische Museum
   - Museum of Fine Arts, Vienna
@@ -21,12 +21,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Vienna (Literary)]]"
+within: "[[Vienna]]"
 ---
 
 # Kunsthistorisches Museum
 
-The great art museum on the Ringstrasse in [[Vienna (Literary)|Vienna]], Austria, whose endless halls give Bill Bryson museum fatigue in Neither Here Nor There.
+The great art museum on the Ringstrasse in [[Vienna|Vienna]], Austria, whose endless halls give Bill Bryson museum fatigue in Neither Here Nor There.
 
 ## At a glance
 | Source | Author | Role | In one line |

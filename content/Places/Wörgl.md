@@ -2,8 +2,8 @@
 publish: true
 title: Wörgl
 created: 2026-10-21T04:45:16.000Z
-modified: 2026-10-21T10:21:45.246Z
-published: 2026-10-21T10:21:45.246Z
+modified: 2026-10-21T13:38:47.431Z
+published: 2026-10-21T13:38:47.431Z
 aliases: []
 books:
   - The Towns That Invent Their Own Money
@@ -25,7 +25,7 @@ within: "[[Austria]]"
 
 # Wörgl
 
-Town in Tyrol, Austria. Part of [[Austria]].
+Town in Tyrol, part of [[Austria]], which appears in the reading as the opening historical case of a piece on community currencies: its 1932 'labor certificates'.
 
 ## At a glance
 | Source | Author | Role | In one line |

@@ -2,8 +2,8 @@
 publish: true
 title: Rue Dauphine
 created: 2026-10-21T05:08:06.000Z
-modified: 2026-10-21T11:18:22.817Z
-published: 2026-10-21T11:18:22.817Z
+modified: 2026-10-21T13:28:33.563Z
+published: 2026-10-21T13:28:33.563Z
 aliases: []
 books:
   - I’ll never see that smile again
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Paris (Literary)]]"
+within: "[[Paris]]"
 ---
 
 # Rue Dauphine
 
-Street in [[Paris (Literary)|Paris]], France, where Pierre Curie was killed in 1906, the event mourned in a Letters of Note post that does not name the street.
+Street in [[Paris|Paris]], France, where Pierre Curie was killed in 1906, the event mourned in a Letters of Note post that does not name the street.
 
 ## At a glance
 | Source | Author | Role | In one line |

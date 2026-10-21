@@ -2,8 +2,8 @@
 publish: true
 title: Opfinger See bus stop
 created: 2026-10-20T13:42:36.000Z
-modified: 2026-10-21T11:18:51.293Z
-published: 2026-10-21T11:18:51.293Z
+modified: 2026-10-21T13:26:51.839Z
+published: 2026-10-21T13:26:51.839Z
 aliases: []
 books:
   - The Opfinger See bus stop now has a wooden shelter
@@ -20,12 +20,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Freiburg (Literary)]]"
+within: "[[Freiburg]]"
 ---
 
 # Opfinger See bus stop
 
-Bus stop on VAG line 33 by the Opfinger See lake in Opfingen, [[Freiburg (Literary)|Freiburg]], Germany, whose new trainee-built timber shelter is the subject of a VAG Freiburg article.
+Bus stop on VAG line 33 by the Opfinger See lake in Opfingen, [[Freiburg|Freiburg]], Germany, whose new trainee-built timber shelter is the subject of a VAG Freiburg article.
 
 ## At a glance
 | Source | Author | Role | In one line |

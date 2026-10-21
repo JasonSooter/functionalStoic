@@ -2,8 +2,8 @@
 publish: true
 title: Homer M Hadley Memorial Bridge
 created: 2026-10-20T22:56:09.000Z
-modified: 2026-10-21T11:09:46.515Z
-published: 2026-10-21T11:09:46.515Z
+modified: 2026-10-21T13:28:14.267Z
+published: 2026-10-21T13:28:14.267Z
 aliases:
   - Hadley Bridge
   - Homer Hadley Bridge
@@ -22,12 +22,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Seattle (Literary)]]"
+within: "[[Seattle]]"
 ---
 
 # Homer M Hadley Memorial Bridge
 
-Floating bridge carrying I-90 across Lake Washington, [[Seattle (Literary)|Seattle]]. It features in Wesley Crump's floating-bridges article as the first floating bridge to test light rail.
+Floating bridge carrying I-90 across Lake Washington, [[Seattle|Seattle]]. It features in Wesley Crump's floating-bridges article as the first floating bridge to test light rail.
 
 ## At a glance
 | Source | Author | Role | In one line |

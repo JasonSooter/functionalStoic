@@ -2,8 +2,8 @@
 publish: true
 title: Spoleto
 created: 2026-10-21T10:49:26.261Z
-modified: 2026-10-21T10:49:26.261Z
-published: 2026-10-21T10:49:26.261Z
+modified: 2026-10-21T13:38:05.463Z
+published: 2026-10-21T13:38:05.463Z
 aliases: []
 books:
   - A one-day bike ride from Spoleto to Assisi in central Italy
@@ -25,7 +25,7 @@ within: "[[Umbria]]"
 
 # Spoleto
 
-Hill town in Umbria, central Italy. A one-day bike ride to Assisi starts from its train station.
+Hill town in Umbria, central Italy. It appears in the reading as the train-station start of a one-day bike ride to Assisi.
 
 ## At a glance
 | Source | Author | Role | In one line |

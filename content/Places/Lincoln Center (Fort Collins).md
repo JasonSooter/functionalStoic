@@ -2,8 +2,8 @@
 publish: true
 title: Lincoln Center (Fort Collins)
 created: 2026-10-21T04:46:49.000Z
-modified: 2026-10-21T11:21:00.301Z
-published: 2026-10-21T11:21:00.301Z
+modified: 2026-10-21T13:23:22.592Z
+published: 2026-10-21T13:23:22.592Z
 aliases: []
 books:
   - Join us at the Transportation Projects Fair!
@@ -21,12 +21,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # Lincoln Center (Fort Collins)
 
-Civic venue and event hall in [[Fort Collins (Literary)|Fort Collins]], Colorado, the venue for a Transfort Transportation Projects Fair announced in city newsletters.
+Civic venue and event hall in [[Fort Collins|Fort Collins]], Colorado, the venue for a Transfort Transportation Projects Fair announced in city newsletters.
 
 ## At a glance
 | Source | Author | Role | In one line |

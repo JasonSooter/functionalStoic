@@ -2,8 +2,8 @@
 publish: true
 title: Overland Trail and Laporte Avenue intersection (Fort Collins)
 created: 2026-10-21T11:17:57.564Z
-modified: 2026-10-21T11:17:57.564Z
-published: 2026-10-21T11:17:57.564Z
+modified: 2026-10-21T13:23:33.669Z
+published: 2026-10-21T13:23:33.669Z
 aliases: []
 books:
   - BFC Announces MyCycle, Tour de Farms, Bicycle Film Festival, and More!
@@ -21,7 +21,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # Overland Trail and Laporte Avenue intersection (Fort Collins)

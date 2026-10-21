@@ -2,8 +2,8 @@
 publish: true
 title: Christman Airfield
 created: 2026-10-21T10:48:51.899Z
-modified: 2026-10-21T10:48:51.899Z
-published: 2026-10-21T10:48:51.899Z
+modified: 2026-10-21T13:22:20.153Z
+published: 2026-10-21T13:22:20.153Z
 aliases: []
 books:
   - Front Range Rail Funding & Special Guests In Our District!
@@ -21,7 +21,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # Christman Airfield

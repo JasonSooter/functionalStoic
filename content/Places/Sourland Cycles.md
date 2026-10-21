@@ -2,8 +2,8 @@
 publish: true
 title: Sourland Cycles
 created: 2026-10-21T10:49:22.960Z
-modified: 2026-10-21T10:49:22.960Z
-published: 2026-10-21T10:49:22.960Z
+modified: 2026-10-21T13:36:44.897Z
+published: 2026-10-21T13:36:44.897Z
 aliases: []
 books:
   - A hilly bicycle ride to a French bakery in New Jersey
@@ -26,7 +26,7 @@ within: "[[New Jersey]]"
 
 # Sourland Cycles
 
-Bike shop on Broad Street in Hopewell, New Jersey. Its Friday women-only ride starts there.
+Bike shop on Broad Street in Hopewell, [[New Jersey]]. It appears in the reading as the start of its Friday women-only ride to a French bakery.
 
 ## At a glance
 | Source | Author | Role | In one line |

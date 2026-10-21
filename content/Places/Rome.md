@@ -2,8 +2,8 @@
 publish: true
 title: Rome
 created: 2026-10-19T22:30:51.000Z
-modified: 2026-10-21T10:23:46.937Z
-published: 2026-10-21T10:23:46.937Z
+modified: 2026-10-21T13:55:38.557Z
+published: 2026-10-21T13:55:38.557Z
 aliases:
   - Roma
 books: []
@@ -25,5 +25,7 @@ Capital of Italy, with Vatican City inside it; see also [[Italy]]. Hub for liter
 
 - [[Bioparco di Roma]]
 - [[Capuchin Crypt]]
+- [[Piazza dei Navigatori]]
 - [[Roman Forum]]
 - [[St Peter's Basilica]]
+- [[Trastevere]]

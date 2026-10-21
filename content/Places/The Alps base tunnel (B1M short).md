@@ -2,12 +2,8 @@
 publish: true
 title: The Alps base tunnel (B1M short)
 created: 2026-10-21T02:07:51.000Z
-modified: 2026-10-21T02:07:51.000Z
-published: 2026-10-21T02:07:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T13:44:10.892Z
+published: 2026-10-21T13:44:10.892Z
 aliases: []
 books:
   - The $29BN Tunnel Under a MOUNTAIN
@@ -22,21 +18,23 @@ icon: video
 location:
   - 45.2729
   - 6.3484
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mont Cenis Base Tunnel]]"
 ---
 
 # The Alps base tunnel (B1M short)
 
-The place as The \$29BN Tunnel Under a MOUNTAIN describes it; pinned at Mont Cenis Base Tunnel (⚠️ inferred).
+A long rail tunnel deep beneath the Alps, pinned at the Mont Cenis Base Tunnel as an inference. It appears in a short B1M video where the presenter stands inside it to see how a railway is built through a mountain range.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The \$29BN Tunnel Under a MOUNTAIN | The B1M | setting | The presenter stands in a long rail tunnel under the Alps, due to be the longest single rail tunnel in the world and halve journey times between two countries. |
+| The $29BN Tunnel Under a MOUNTAIN | The B1M | setting | The presenter stands in a long rail tunnel under the Alps, due to be the longest single rail tunnel in the world and halve journey times between two countries. |
 
-## The \$29BN Tunnel Under a MOUNTAIN — The B1M (2025)
-
+## The $29BN Tunnel Under a MOUNTAIN — The B1M (2025)
 Source: [Original](https://www.youtube.com/shorts/uuaiB2CEyYI) · [Readwise highlight](https://read.readwise.io/read/01m5e32ytgr7ntce57a3tw23cn)
 
 > I'm currently standing in a massive tunnel deep beneath the Alps.

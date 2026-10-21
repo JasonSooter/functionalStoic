@@ -2,8 +2,8 @@
 publish: true
 title: Sprogø
 created: 2026-10-21T10:49:18.847Z
-modified: 2026-10-21T10:49:18.847Z
-published: 2026-10-21T10:49:18.847Z
+modified: 2026-10-21T13:38:20.420Z
+published: 2026-10-21T13:38:20.420Z
 aliases: []
 books:
   - The Year of Living Danishly
@@ -25,7 +25,7 @@ within: "[[Denmark]]"
 
 # Sprogø
 
-Small island in the Great Belt, Denmark, once the site of an institution for women. In The Year of Living Danishly, learning its history shocks Russell.
+Small island in the Great Belt, Denmark, once the site of an institution for women. It appears in the reading as the history that shocks Helen Russell in The Year of Living Danishly.
 
 ## At a glance
 | Source | Author | Role | In one line |

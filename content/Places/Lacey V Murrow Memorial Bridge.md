@@ -2,8 +2,8 @@
 publish: true
 title: Lacey V Murrow Memorial Bridge
 created: 2026-10-20T22:56:05.000Z
-modified: 2026-10-21T11:20:27.899Z
-published: 2026-10-21T11:20:27.899Z
+modified: 2026-10-21T13:28:10.283Z
+published: 2026-10-21T13:28:10.283Z
 aliases:
   - I-90 floating bridge
   - Lacey V Murrow
@@ -23,12 +23,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Seattle (Literary)]]"
+within: "[[Seattle]]"
 ---
 
 # Lacey V Murrow Memorial Bridge
 
-Floating bridge carrying I-90 across Lake Washington, [[Seattle (Literary)|Seattle]], whose 1990 sinking is the cautionary tale in Practical Engineering's piece on floating bridges.
+Floating bridge carrying I-90 across Lake Washington, [[Seattle|Seattle]], whose 1990 sinking is the cautionary tale in Practical Engineering's piece on floating bridges.
 
 ## At a glance
 | Source | Author | Role | In one line |

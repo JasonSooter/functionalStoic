@@ -2,8 +2,8 @@
 publish: true
 title: Favoriten
 created: 2026-10-21T05:08:19.000Z
-modified: 2026-10-21T10:50:22.789Z
-published: 2026-10-21T10:50:22.789Z
+modified: 2026-10-21T13:29:56.159Z
+published: 2026-10-21T13:29:56.159Z
 aliases: []
 books:
   - "[[How ‘Superblocks’ Can Create People-Centered Cities]]"
@@ -20,12 +20,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Vienna (Literary)]]"
+within: "[[Vienna]]"
 ---
 
 # Favoriten
 
-District in [[Vienna (Literary)|Vienna]], Austria. It is where the city's first superblock pilot sits, the example an article uses to argue that superblocks matter most in lower-income areas.
+District in [[Vienna|Vienna]], Austria. It is where the city's first superblock pilot sits, the example an article uses to argue that superblocks matter most in lower-income areas.
 
 ## At a glance
 | Source | Author | Role | In one line |

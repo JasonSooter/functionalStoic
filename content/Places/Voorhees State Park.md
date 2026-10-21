@@ -2,8 +2,8 @@
 publish: true
 title: Voorhees State Park
 created: 2026-10-21T11:08:05.854Z
-modified: 2026-10-21T11:08:05.854Z
-published: 2026-10-21T11:08:05.854Z
+modified: 2026-10-21T13:39:50.004Z
+published: 2026-10-21T13:39:50.004Z
 aliases: []
 books:
   - Biking and stargazing (if skies are clear) along the Columbia Trail
@@ -25,7 +25,7 @@ within: "[[New Jersey]]"
 
 # Voorhees State Park
 
-State park in Hunterdon County, New Jersey, with a public observatory built by amateur astronomers. It is the stargazing half of a cycling blog post.
+State park in Hunterdon County, [[New Jersey]], with a public observatory built by amateur astronomers; it is the stargazing destination of a cycling blog post on the Columbia Trail.
 
 ## At a glance
 | Source | Author | Role | In one line |

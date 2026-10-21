@@ -2,8 +2,8 @@
 publish: true
 title: Lyric Cinema (Fort Collins)
 created: 2026-10-20T22:55:14.000Z
-modified: 2026-10-21T11:21:27.036Z
-published: 2026-10-21T11:21:27.036Z
+modified: 2026-10-21T13:56:30.353Z
+published: 2026-10-21T13:56:30.353Z
 aliases:
   - Lyric Cinema
   - Lyric Cinema Cafe
@@ -14,6 +14,7 @@ books:
   - This New E-Bike Could Be Yours
   - BFC Announces MyCycle, Tour de Farms, Bicycle Film Festival, and More!
   - Join us for a magical evening
+  - "Reminder: Recap: Bike Prom, Bike to Work Day, Bike from Work Bash and More"
 categories:
   - "[[Places]]"
 color: purple
@@ -29,12 +30,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Fort Collins (Literary)]]"
+within: "[[Fort Collins]]"
 ---
 
 # Lyric Cinema (Fort Collins)
 
-Independent cinema and venue in [[Fort Collins (Literary)|Fort Collins]], Colorado, the recurring venue for Bike Fort Collins events such as Bike Prom and the Bicycle Film Festival.
+Independent cinema and venue in [[Fort Collins|Fort Collins]], Colorado, the recurring venue for Bike Fort Collins events such as Bike Prom and the Bicycle Film Festival.
 
 ## At a glance
 | Source | Author | Role | In one line |
@@ -44,6 +45,7 @@ Independent cinema and venue in [[Fort Collins (Literary)|Fort Collins]], Colora
 | [[This New E-Bike Could Be Yours]] | Bike Fort Collins | setting | The Priority Current PLUS e-bike raffle winner is announced at 10:15 PM on July 26 during Bike Prom at The Lyric. |
 | BFC Announces MyCycle, Tour de Farms, Bicycle Film Festival, and More! | Bike Fort Collins | setting | Bike Fort Collins hosts the Bicycle Film Festival at The Lyric. |
 | Join us for a magical evening | Izzy Martens | setting | Sunset yoga and sound bath on The Lyric's lawn. |
+| Reminder: Recap: Bike Prom, Bike to Work Day, Bike from Work Bash and More | Bike Fort Collins | setting | Bike Prom is recapped as a night for Fort Collins' bike community ending in a dance party, held with the Lyric Cinema as backdrop. |
 
 ## Bike Prom 2025 — Bike Fort Collins (2025)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dqvf858526xb6vvax834gp)
@@ -90,3 +92,12 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5f0rn7j7nm5axfybbj
 - **Role:** setting
 - **In the newsletter:** The newsletter invites readers to a Sunset Yoga & Sound Bath at The Lyric on a Tuesday evening: a 60-minute vinyasa class on the grass, then a 30-minute sound-bowl meditation. The quoted passage describes the scene; the title names The Lyric.
 - **Why it matters:** A minor event setting, but another use of the venue's outdoor lawn.
+
+## Reminder: Recap: Bike Prom, Bike to Work Day, Bike from Work Bash and More — Bike Fort Collins (2024)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5fbj8ksx4jteexvhzbmee6p)
+
+> This year, Bike Fort Collins partnered with Edge Optics to deliver a spectacular event, with the iconic Lyric Cinema serving as the perfect backdrop.
+
+- **Role:** setting
+- **In the article:** Bike Prom is recapped as a night for Fort Collins' bike community ending in a dance party, held with the Lyric Cinema as backdrop. The text gives no address or further description of the building.
+- **Why it matters:** It is the named venue of the signature social event, described as 'iconic', but the text only names it; the event would work in any venue.

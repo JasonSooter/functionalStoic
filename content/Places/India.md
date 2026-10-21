@@ -2,8 +2,8 @@
 publish: true
 title: India
 created: 2026-10-20T07:53:34.000Z
-modified: 2026-10-21T10:50:10.717Z
-published: 2026-10-21T10:50:10.717Z
+modified: 2026-10-21T14:12:13.048Z
+published: 2026-10-21T14:12:13.048Z
 aliases: []
 books:
   - Planes, trains, and smartphones – Bill Gates
@@ -33,12 +33,17 @@ Country in South Asia. Hub for literary places in the country.
 | Planes, trains, and smartphones – Bill Gates | Bill Gates | subject | India's Aadhaar ID and UPI payments as digital public infrastructure. |
 
 ## Sub-places
+
 - [[Atal Tunnel]]
+- [[Bhubaneswar]]
 - [[Chenab Bridge]]
 - [[Delhi]]
+- [[Hyderabad]]
 - [[Karnataka]]
+- [[New Delhi]]
 - [[Rameswaram]]
 - [[Silkyara Tunnel]]
+- [[Statue of Unity]]
 - [[Zojila Tunnel]]
 
 ## Planes, trains, and smartphones – Bill Gates — Bill Gates (2024)

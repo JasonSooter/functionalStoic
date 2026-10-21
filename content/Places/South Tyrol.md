@@ -2,8 +2,8 @@
 publish: true
 title: South Tyrol
 created: 2026-10-20T02:09:31.000Z
-modified: 2026-10-21T10:24:31.303Z
-published: 2026-10-21T10:24:31.303Z
+modified: 2026-10-21T13:39:36.511Z
+published: 2026-10-21T13:39:36.511Z
 aliases:
   - Südtirol
   - Alto Adige
@@ -27,7 +27,7 @@ within: "[[Italy]]"
 
 # South Tyrol
 
-German-speaking province in northern Italy, bordering Austria. See [[Italy]].
+German-speaking province in northern [[Italy]], bordering Austria. It appears in the reading as the subject of a one-line touring post about the region's very Austrian feel.
 
 ## At a glance
 | Source | Author | Role | In one line |

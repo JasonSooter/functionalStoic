@@ -2,11 +2,12 @@
 publish: true
 title: Chimney Hollow Reservoir
 created: 2026-10-20T19:35:36.000Z
-modified: 2026-10-21T10:52:04.337Z
-published: 2026-10-21T10:52:04.337Z
+modified: 2026-10-21T13:55:06.687Z
+published: 2026-10-21T13:55:06.687Z
 aliases: []
 books:
   - Why Is Colorado Building a 22 MILLION TON Rock Wall in the Rocky Mountains?
+  - Main Dam Hits Halfway Mark
 categories:
   - "[[Places]]"
 color: purple
@@ -32,6 +33,7 @@ New reservoir and dam west of Loveland, [[Colorado]], USA, the subject of a vide
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why Is Colorado Building a 22 MILLION TON Rock Wall in the Rocky Mountains\|Why Is Colorado Building a 22 MILLION TON Rock Wall in the Rocky Mountains?]] | Aaron Witt | subject | America's largest new dam project in decades, toured from crest to quarry. |
+| Main Dam Hits Halfway Mark | northernwater.org | subject | The page reports the main dam reaching elevation 5699.5 feet in March 2024, the halfway mark to the eventual 350-foot-tall dam. |
 
 ## Why Is Colorado Building a 22 MILLION TON Rock Wall in the Rocky Mountains? — Aaron Witt (2025)
 Source: [Original](https://www.youtube.com/watch?v=0eFTrOpueYE) · [Readwise highlight](https://read.readwise.io/read/01m5dcjth64xbhb0shy1z0gv8m)
@@ -41,3 +43,12 @@ Source: [Original](https://www.youtube.com/watch?v=0eFTrOpueYE) · [Readwise hig
 - **Role:** subject
 - **In the video:** The whole video tours the site: a 350-foot earth-and-rock dam with an asphalt core laid in nine-inch lifts by a Swiss machine, a 2,000-foot emergency spillway, an on-site quarry that supplied about 22 million tons of rock, and a valve house that fills and drains the reservoir.
 - **Why it matters:** The subject of the video; storage here lets Front Range communities draw West Slope water at a steady rate.
+
+## Main Dam Hits Halfway Mark — northernwater.org
+Source: [Original](https://www.northernwater.org/CHRP) · [Readwise highlight](https://read.readwise.io/read/01m5fbgc1f1ckn61gv8jytw3tv)
+
+> Chimney Hollow Reservoir will be located just west of Carter Lake in Larimer County to provide dedicated storage to supply a reliable 30,000 acre-feet of water each year for future generations.
+
+- **Role:** subject
+- **In the article:** The page reports the main dam reaching elevation 5699.5 feet in March 2024, the halfway mark to the eventual 350-foot-tall dam. The reservoir is a collaboration of 12 Northeastern Colorado water providers storing water from the Windy Gap Project.
+- **Why it matters:** The page's whole subject (a construction project site). The sponsor's Berthoud office address in the footer is a signature address and is dropped.

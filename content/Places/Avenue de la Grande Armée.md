@@ -2,8 +2,8 @@
 publish: true
 title: Avenue de la Grande Armée
 created: 2026-10-20T04:33:28.000Z
-modified: 2026-10-21T10:33:22.232Z
-published: 2026-10-21T10:33:22.232Z
+modified: 2026-10-21T13:28:40.699Z
+published: 2026-10-21T13:28:40.699Z
 aliases: []
 books:
   - "[[It's All About the Bike]]"
@@ -19,12 +19,12 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-within: "[[Paris (Literary)]]"
+within: "[[Paris]]"
 ---
 
 # Avenue de la Grande Armée
 
-Avenue running west from the Arc de Triomphe in [[Paris (Literary)|Paris]], the start of the 1869 Paris–Rouen race described in Robert Penn's It's All About the Bike.
+Avenue running west from the Arc de Triomphe in [[Paris|Paris]], the start of the 1869 Paris–Rouen race described in Robert Penn's It's All About the Bike.
 
 ## At a glance
 | Source | Author | Role | In one line |

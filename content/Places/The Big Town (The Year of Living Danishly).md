@@ -2,8 +2,8 @@
 publish: true
 title: The Big Town (The Year of Living Danishly)
 created: 2026-10-21T11:07:49.118Z
-modified: 2026-10-21T11:07:49.118Z
-published: 2026-10-21T11:07:49.118Z
+modified: 2026-10-21T13:44:14.548Z
+published: 2026-10-21T13:44:14.548Z
 aliases:
   - The Big Town
 books:
@@ -29,7 +29,7 @@ within: "[[Vejle]]"
 
 # The Big Town (The Year of Living Danishly)
 
-Helen Russell's name for the market town near her Jutland village; the book never names it. Vejle is the best guess.
+The Big Town is Helen Russell's name for the market town near her Jutland village, best guessed as [[Vejle]]. It appears in her memoir as the public stage for the year's Danish rituals.
 
 ## At a glance
 | Source | Author | Role | In one line |

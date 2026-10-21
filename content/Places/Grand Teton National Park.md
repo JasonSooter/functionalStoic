@@ -2,11 +2,12 @@
 publish: true
 title: Grand Teton National Park
 created: 2026-10-20T19:36:58.000Z
-modified: 2026-10-21T11:11:36.421Z
-published: 2026-10-21T11:11:36.421Z
+modified: 2026-10-21T14:11:32.765Z
+published: 2026-10-21T14:11:32.765Z
 aliases: []
 books:
   - How to poop in the backcountry
+  - Meet The Most Famous Grizzly In The World
 categories:
   - "[[Places]]"
 color: purple
@@ -31,6 +32,7 @@ National park in north-west [[Wyoming]], USA. It is the second study site in an 
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Poop in the Backcountry]] | B. Derrick Taff | subject | Most backcountry visitors had never been told how to dispose of waste. |
+| Meet The Most Famous Grizzly In The World | NATURE on PBS | setting | The newsletter promotes a NATURE documentary on Grizzly 399, billed as the most famous bear in Grand Teton National Park, and calls her… |
 
 ## How to poop in the backcountry — B. Derrick Taff (2025)
 Source: [Original](https://theconversation.com/how-to-poop-outdoors-in-a-way-that-wont-harm-the-environment-and-other-hikers-262426) · [Readwise highlight](https://read.readwise.io/read/01m5dcm1bre96pegwvea29eyde)
@@ -40,3 +42,12 @@ Source: [Original](https://theconversation.com/how-to-poop-outdoors-in-a-way-tha
 - **Role:** subject
 - **In the article:** The second study site: two-thirds of backcountry trail visitors said they had received no information on human-waste disposal in the park.
 - **Why it matters:** Supports the argument that poor information, more than unwillingness, drives the problem.
+
+## Meet The Most Famous Grizzly In The World — NATURE on PBS (2024)
+Source: [Readwise highlight](https://read.readwise.io/read/01m5fcpmtfzc7tvssxjv38kcd8)
+
+> Crowds await the arrival of Grizzly 399, the most famous bear in Grand Teton National Park and beyond.
+
+- **Role:** setting
+- **In the article:** The newsletter promotes a NATURE documentary on Grizzly 399, billed as the most famous bear in Grand Teton National Park, and calls her the Queen of the Tetons. Crowds gather to watch her, and she raises cubs amid conflicts with people.
+- **Why it matters:** The park is the home range that makes the bear famous, but the email is promotional and says little else about the place. Set elsewhere, the bear's story would change entirely.
