@@ -2,13 +2,8 @@
 publish: true
 title: Mexico
 created: 2024-12-22T21:32:19.528Z
-modified: 2026-10-21T19:43:52.000Z
-published: 2026-10-21T19:43:52.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Mexico Hero.jpg
+modified: 2026-10-21T20:10:04.282Z
+published: 2026-10-21T20:10:04.282Z
 books: []
 categories:
   - "[[Places]]"
@@ -24,6 +19,10 @@ linter-yaml-title-alias: Mexico
 location:
   - 23.6345
   - -102.5528
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Mexico
@@ -52,3 +51,4 @@ Mexico is a country in North America. It groups the places below that come up in
 ## Sub-places
 
 - [[Cozumel]]
+- [[San Miguel de Allende]]

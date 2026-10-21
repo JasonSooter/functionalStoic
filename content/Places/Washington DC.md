@@ -2,12 +2,8 @@
 publish: true
 title: Washington, D.C.
 created: 2026-10-20T10:48:36.000Z
-modified: 2026-10-21T19:25:54.000Z
-published: 2026-10-21T19:25:54.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T20:10:12.598Z
+published: 2026-10-21T20:10:12.598Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -20,6 +16,10 @@ icon: book
 location:
   - 38.9047
   - -77.0164
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Washington, D.C.
@@ -27,17 +27,18 @@ location:
 Capital of the United States. Hub for literary places in the region.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Speck moved to Washington in 2003, went car-free, lost ten pounds, met his wife on a transit platform and built a house with a garden… |
 
 ## Sub-places
 
+- [[American University]]
 - [[Anacostia River Trail]]
 - [[Ben Caxton's apartment (Stranger in a Strange Land)]]
 - [[DC USA]]
 - [[East Room]]
+- [[Executive Palace (Stranger in a Strange Land)]]
 - [[Friendship Baptist Church]]
 - [[K Street (Washington, D.C.)]]
 - [[Rubell Museum]]
@@ -46,7 +47,6 @@ Capital of the United States. Hub for literary places in the region.
 - [[White House]]
 
 ## Walkable City — Jeff Speck (2012)
-
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjp2f70req13ce2rpvyy8)
 
 > Ironically, the city that resisted the greatest amount of federal highway spending was probably the nation’s capital. Most current residents are unaware that, at one time, the Washington area was slated to receive 450 miles of interstate highways, 38 of which would have plowed through the District itself.

@@ -2,12 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-21T19:39:01.000Z
-published: 2026-10-21T19:39:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T20:09:59.742Z
+published: 2026-10-21T20:09:59.742Z
 aliases: []
 books: []
 categories:
@@ -18,6 +14,10 @@ date created: 2023-12-10T08:50:24-07:00
 date modified: 2026-02-21T09:56:46-07:00
 icon: map
 linter-yaml-title-alias: California
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # California
@@ -35,9 +35,9 @@ California is a state on the US West Coast; this note also groups the literary p
 ## FAQ
 
 ---
-
 🙋
 ✨
+
 
 ---
 
@@ -47,7 +47,7 @@ California is a state on the US West Coast; this note also groups the literary p
 
 With [[Kolt Kane|Kolt]], Kelly, & Ellie
 
-\#🗓️/2016/03/02
+#🗓️/2016/03/02
 
 | Jason |  |  | [[Kolt Kane\|Kolt]] |  |  | Kelly |  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -71,6 +71,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 
 ## Sub-places
 
+- [[AC Propulsion]]
 - [[Altadena]]
 - [[Auburn Dam]]
 - [[Berkeley, California]]
@@ -79,6 +80,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Cajon Pass]]
 - [[Camp Grounded]]
 - [[Campo, California]]
+- [[CARMA (Cedar Flat)]]
 - [[Chapman University]]
 - [[Colorado River Aqueduct]]
 - [[Corralitos]]
@@ -88,6 +90,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Emeryville station]]
 - [[Fairfax, California]]
 - [[Foresthill Bridge]]
+- [[Gordon French's garage (Menlo Park)]]
 - [[Hangar One (Mountain View)]]
 - [[Kennedy Meadows]]
 - [[Lassen Volcanic National Park]]
@@ -101,6 +104,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Palm Springs]]
 - [[Palo Alto]]
 - [[Pebble Beach Golf Links]]
+- [[Saddleback Church]]
 - [[San Clemente Dam]]
 - [[San Francisco]]
 - [[San Jacinto Mountains]]
@@ -108,9 +112,11 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Santa Barbara Channel]]
 - [[Santa Cruz Mountains]]
 - [[Silicon Valley]]
+- [[SpaceX headquarters]]
 - [[Stanford University]]
 - [[Steamer Lane]]
 - [[Stockton, California]]
+- [[Tesla Fremont Factory]]
 - [[Truckee River]]
 - [[Ventura, California]]
 - [[Wallis Annenberg Wildlife Crossing]]

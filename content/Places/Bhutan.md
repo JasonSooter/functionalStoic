@@ -2,12 +2,8 @@
 publish: true
 title: Bhutan
 created: 2026-10-20T10:42:37.000Z
-modified: 2026-10-21T10:34:23.000Z
-published: 2026-10-21T10:34:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T20:10:05.442Z
+published: 2026-10-21T20:10:05.442Z
 aliases: []
 books:
   - The sights and sounds of Bhutan
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 27.5
   - 90.5
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Bhutan
@@ -28,17 +28,18 @@ location:
 Himalayan kingdom between India and China, and the subject of Tim Urban's Wait But Why post on visiting it, from temples to Gross National Happiness.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The sights and sounds of Bhutan]] | Tim Urban | subject | A long-awaited trip to the kingdom of Gross National Happiness. |
 
 ## Sub-places
 
+- [[Dakarpo]]
 - [[Gelephu Mindfulness City]]
+- [[Paro International Airport]]
+- [[Paro Taktsang]]
 
 ## The sights and sounds of Bhutan — Tim Urban (2025)
-
 Source: [Original](https://waitbutwhy.com/2025/11/bhutan.html) · [Readwise highlight](https://read.readwise.io/read/01m5ce4r3tag2sdwchf02nwh7d)
 
 > Bhutan, if you’re not familiar, is a tiny 800,000-person country squashed between two behemoths.
