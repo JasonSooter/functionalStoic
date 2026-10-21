@@ -1,0 +1,42 @@
+---
+publish: true
+title: Lyon
+created: 2026-10-21T05:07:34.737Z
+modified: 2026-10-21T05:07:34.737Z
+published: 2026-10-21T05:07:34.737Z
+aliases: []
+books:
+  - "[[The Daily Stoic]]"
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 45.7675,4.835
+geo_source: Wikipedia (en)
+icon: book
+location:
+  - 45.7675
+  - 4.835
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[France (Literary)]]"
+---
+
+# Lyon
+
+City in Roman Empire, Italy and Gaul. Part of [[France (Literary)]].
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| [[The Daily Stoic]] | Ryan Holiday | turning point | A fire struck Rome in 64 and Lyons sent aid. |
+
+## The Daily Stoic — Ryan Holiday (2016)
+Source: [[The Daily Stoic]] · [Readwise highlight](https://read.readwise.io/read/01m5edhfsd7zjfhbxq2hjg2gny)
+
+> In the year 64, during the reign of Nero, a fire tore through the city of Rome. The French city of Lyons sent a large sum of money to aid the victims.
+
+- **Role:** turning point
+- **In the book:** A fire struck Rome in 64 and Lyons sent aid. The next year Lyons suffered its own fire and Nero sent equal help. Seneca noted the irony, then about a year later was ordered to commit suicide.
+- **Why it matters:** Two cities mirrored in disaster give the entry its argument about reversals of fortune. The cities matter as the example, though neither is described.

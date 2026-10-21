@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Portland
 title: Portland, Oregon
 created: 2026-10-20T04:33:34.000Z
-modified: 2026-10-20T04:33:34.000Z
-published: 2026-10-20T04:33:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T04:45:40.062Z
+published: 2026-10-21T04:45:40.062Z
+aliases:
+  - Portland
 books:
   - "[[It's All About the Bike]]"
 categories:
@@ -20,6 +16,10 @@ icon: book
 location:
   - 45.52
   - -122.6819
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oregon]]"
 ---
 
@@ -28,17 +28,14 @@ within: "[[Oregon]]"
 City on the Willamette River, Oregon. See [[Oregon]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike]] | Robert Penn | subject | America's pedalling capital, where Penn collects his headset from Chris King. |
 
 ## Sub-places
-
-_None yet._
+- [[Firsthand Framebuilding School]]
 
 ## It's All About the Bike — Robert Penn (2010)
-
 Source: [[It's All About the Bike]] · [Readwise highlight](https://read.readwise.io/read/01m5bs7mmaas76thxcxxjtykx8)
 
 > I liked the company, Chris King. In fact, I liked Portland.

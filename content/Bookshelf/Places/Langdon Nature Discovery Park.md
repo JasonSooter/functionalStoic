@@ -1,38 +1,45 @@
 ---
 publish: true
+title: Langdon Nature Discovery Park
+created: 2026-10-20T10:42:55.000Z
+modified: 2026-10-21T05:09:09.598Z
+published: 2026-10-21T05:09:09.598Z
 aliases:
   - Langdon Nature Discovery Centre
   - Langdon Nature Reserve
   - The Cafe (Diagram Club)
-title: Langdon Nature Discovery Park
-created: 2026-10-20T10:42:55.000Z
-modified: 2026-10-21T02:11:41.000Z
-published: 2026-10-21T02:11:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
-  - "#063 Stop and watch and listen"
-  - "#065 In case 2009 ever comes around again"
-  - "#066 Selling my bicycles"
+  - '#063 Stop and watch and listen'
+  - '#065 In case 2009 ever comes around again'
+  - '#066 Selling my bicycles'
   - "[[071 Things That Help Me]]"
   - "[[072 Introducing Creativity Diagrams]]"
-  - "#076 I should probably write that down"
+  - '#076 I should probably write that down'
   - "[[081 the Cafe From a Great Height]]"
-  - "#052 Particular responsibility for uneven ground"
-  - "#053 I have significant news"
-  - "#054 These are my meal-deal choices"
+  - '#052 Particular responsibility for uneven ground'
+  - '#053 I have significant news'
+  - '#054 These are my meal-deal choices'
+  - '#045 The massive hurdle'
+  - '#049 Ethan, do you want a sandwich?'
+  - '#040 Cascading through the floorboards'
+  - '#039 Bikes and ladders'
+  - '#033 The terrible stain went unnoticed'
+  - '#023 Top cartoons of the year'
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.5617,0.4219
-geo_note: approximate (Langdon Hills village point; no coordinate found for the reserve or centre)
+geo_note: approximate (Langdon Hills village point; no coordinate found for the reserve
+  or centre)
 geo_source: GeoNames 2644942
 icon: newspaper
 location:
   - 51.5617
   - 0.4219
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Basildon]]"
 ---
 
@@ -59,9 +66,9 @@ Essex Wildlife Trust nature reserve and visitor centre at Langdon Hills, near [[
 | #040 Cascading through the floorboards | Diagram Club | subject | The author drew a walking and cycling map showing how to reach the Cafe / Nature Discovery Centre at the Langdon reserve. |
 | #039 Bikes and ladders | Diagram Club | setting | The author, a regular at Essex Wildlife Trust Langdon Nature Discovery Centre (his 'Cafe'), opens with news of the death of Jean, a volunteer and founder of the art group that meets there. |
 | #033 The terrible stain went unnoticed | Diagram Club | setting | The author explains that the cafe at this Essex Wildlife Trust reserve is where he often works and draws, calls himself its most regular customer, and announces he is becoming a volunteer there. |
+| #023 Top cartoons of the year | Dave Walker | setting | The author works from this cafe for a couple of hours on many days, drinking coffee. |
 
 ## #063 Stop and watch and listen — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/063-stop-and-watch-and-listen) · [Readwise highlight](https://read.readwise.io/read/01m5ce6wqmbjjgvj273n5m7rnx)
 
 > We (a group of about 8) did see some interesting birds that I hadn’t seen at Langdon before, such as a little grebe.
@@ -71,7 +78,6 @@ Source: [Original](https://diagramclub.substack.com/p/063-stop-and-watch-and-lis
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base, so it reappears in almost every issue.
 
 ## #065 In case 2009 ever comes around again — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/065-in-case-2009-ever-comes-around) · [Readwise highlight](https://read.readwise.io/read/01m5ce6w5ncnmg8wrf5fxwjfj1)
 
 > A bit of fun from The Cafe this week, as we tested the new drive-through service for people on bicycles.
@@ -81,7 +87,6 @@ Source: [Original](https://diagramclub.substack.com/p/065-in-case-2009-ever-come
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base, so it reappears in almost every issue.
 
 ## #066 Selling my bicycles — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/066-selling-my-bicycles) · [Readwise highlight](https://read.readwise.io/read/01m5ce6vk859tb7nmbd64z9kv0)
 
 > Thank you to Charlotte, the ace manager of The Cafe, aka Langdon Nature Discovery Centre.
@@ -91,7 +96,6 @@ Source: [Original](https://diagramclub.substack.com/p/066-selling-my-bicycles) �
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base, so it reappears in almost every issue.
 
 ## #071 Things that help me — Diagram Club (2026)
-
 Source: [[071 Things That Help Me]] · [Original](https://diagramclub.substack.com/p/071-things-that-help-me) · [Readwise highlight](https://read.readwise.io/read/01m5ce92g5gy9cjh394hppgqnq)
 
 > The Cafe is, in real life, Essex Wildlife Trust Langdon Nature Discovery Park, and I genuinely think the Hub is a great place to hire
@@ -101,7 +105,6 @@ Source: [[071 Things That Help Me]] · [Original](https://diagramclub.substack.c
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #072 Introducing Creativity Diagrams — Diagram Club (2026)
-
 Source: [[072 Introducing Creativity Diagrams]] · [Original](https://diagramclub.substack.com/p/072-introducing-creativity-diagrams) · [Readwise highlight](https://read.readwise.io/read/01m5ce93v6ztexxwn9dvsskghz)
 
 > With James outside Langdon Nature Discovery Centre.
@@ -111,7 +114,6 @@ Source: [[072 Introducing Creativity Diagrams]] · [Original](https://diagramclu
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #076 I should probably write that down — Diagram Club (2026)
-
 Source: [Original](https://diagramclub.substack.com/p/076-i-should-probably-write-that) · [Readwise highlight](https://read.readwise.io/read/01m5ce95hkz4ck4fhr03tb5973)
 
 > As hinted at last week there is big news for us Cafegoers, in that Charlotte, manager of The Cafe / Langdon Nature Discovery Centre, is taking a career break and leaving for six months.
@@ -121,7 +123,6 @@ Source: [Original](https://diagramclub.substack.com/p/076-i-should-probably-writ
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #081 The Cafe from a great height — Diagram Club (2026)
-
 Source: [[081 the Cafe From a Great Height]] · [Original](https://diagramclub.substack.com/p/081-the-cafe-from-a-great-height) · [Readwise highlight](https://read.readwise.io/read/01m5ce9710ddfwysdarj5sjab6)
 
 > The main aspect of The Cafe you can actually see in the photo is the car park, but we know the building is there somewhere.
@@ -131,7 +132,6 @@ Source: [[081 the Cafe From a Great Height]] · [Original](https://diagramclub.s
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #052 Particular responsibility for uneven ground — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/052-particular-responsibility-for) · [Readwise highlight](https://read.readwise.io/read/01m5dcjxh003km12hpxzwnxx5e)
 
 > The Cafe, with its brilliant staff and volunteers, is, in real life, Essex Wildlife Trust Langdon.
@@ -141,7 +141,6 @@ Source: [Original](https://diagramclub.substack.com/p/052-particular-responsibil
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #053 I have significant news — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/053-i-have-significant-news) · [Readwise highlight](https://read.readwise.io/read/01m5dcjyw7aaw36ayrbm1vd32z)
 
 > The Cafe is, in actual life, Langdon Nature Discovery Park.
@@ -151,7 +150,6 @@ Source: [Original](https://diagramclub.substack.com/p/053-i-have-significant-new
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #054 These are my meal-deal choices — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/054-these-are-my-meal-deal-choices) · [Readwise highlight](https://read.readwise.io/read/01m5dck0xjn3ygyky6aa8rxcjz)
 
 > We have an Artisan Market, this Sunday 7th September, 11-5, at The Cafe, aka Langdon Nature Discovery Park, SS16 6EJ.
@@ -161,7 +159,6 @@ Source: [Original](https://diagramclub.substack.com/p/054-these-are-my-meal-deal
 - **Why it matters:** The café at the reserve is the newsletter's recurring home base.
 
 ## #045 The massive hurdle — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/045-the-massive-hurdle) · [Readwise highlight](https://read.readwise.io/read/01m5dr16xm464ft9dtt6yfmkcs)
 
 > One of the many plus points about doing my work in a wildlife cafe is that sometimes there is wildlife.
@@ -171,7 +168,6 @@ Source: [Original](https://diagramclub.substack.com/p/045-the-massive-hurdle) ·
 - **Why it matters:** A regular working place; the name appears only in a link text.
 
 ## #049 Ethan, do you want a sandwich? — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/049-ethan-do-you-want-a-sandwich) · [Readwise highlight](https://read.readwise.io/read/01m5dr19zwfnekej135vvzj1af)
 
 > Though for the nomadic cycling cartoonist there is now a slightly greater chance of being disturbed by someone yelling ‘Ethan, do you want a sandwich?’ from the vicinity of the fridges.
@@ -181,7 +177,6 @@ Source: [Original](https://diagramclub.substack.com/p/049-ethan-do-you-want-a-sa
 - **Why it matters:** It is his current working base and the source of the issue's title.
 
 ## #040 Cascading through the floorboards — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/040-cascading-through-the-floorboards) · [Readwise highlight](https://read.readwise.io/read/01m5e2xgxyqb18k3smem58pszh)
 
 > It shows how you can walk or cycle to the Cafe / Nature Discovery Centre
@@ -191,7 +186,6 @@ Source: [Original](https://diagramclub.substack.com/p/040-cascading-through-the-
 - **Why it matters:** The map and the cafe are the main thread of the issue; the cafe is also where the cafe news items happen.
 
 ## #039 Bikes and ladders — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/039-bikes-and-ladders) · [Readwise highlight](https://read.readwise.io/read/01m5e2xjfdszjpg1bdqgdch4hs)
 
 > At the end of last week we heard that Jean, one of the loveliest members of our community, had died.
@@ -201,7 +195,6 @@ Source: [Original](https://diagramclub.substack.com/p/039-bikes-and-ladders) · 
 - **Why it matters:** The centre is the community the opening tribute is about; the piece would lose its subject if set elsewhere.
 
 ## #033 The terrible stain went unnoticed — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/033-the-terrible-stain-went-unnoticed) · [Readwise highlight](https://read.readwise.io/read/01m5e2xm1541kfyywhd70zth2x)
 
 > is a number of minutes’ cycle ride from my house, and is where I go often to do work. A lot of the drawings you see are drawn there.
@@ -209,3 +202,12 @@ Source: [Original](https://diagramclub.substack.com/p/033-the-terrible-stain-wen
 - **Role:** setting
 - **In the article:** The author explains that the cafe at this Essex Wildlife Trust reserve is where he often works and draws, calls himself its most regular customer, and announces he is becoming a volunteer there.
 - **Why it matters:** The newsletter's one place of personal significance, and the subject of the Cafe News item.
+
+## #023 Top cartoons of the year — Dave Walker (2024)
+Source: [Original](https://diagramclub.substack.com/p/023-top-cartoons-of-the-year) · [Readwise highlight](https://read.readwise.io/read/01m5edg8mg5abw3tx8h4spjs44)
+
+> It’s where I go for a couple of hours to drink coffee (americano, or redbush tea in the afternoons) and work, on many of the days when I’d otherwise be at home on my own all day.
+
+- **Role:** setting
+- **In the article:** The author works from this cafe for a couple of hours on many days, drinking coffee. He calls it a welcoming place and a real community, and mentions joining its Lovely Art Group and visiting the staff office.
+- **Why it matters:** One of ten good things of the year, so it is a real place the author dwells on, though minor to the newsletter. Location (Essex) is from outside knowledge; the text gives only the name.
