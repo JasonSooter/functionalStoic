@@ -2,8 +2,12 @@
 publish: true
 title: Chernihiv Oblast
 created: 2026-10-21T05:08:29.000Z
-modified: 2026-10-21T10:34:01.172Z
-published: 2026-10-21T10:34:01.172Z
+modified: 2026-10-21T10:34:01.000Z
+published: 2026-10-21T10:34:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The All-Female Teams Rebuilding Homes in Ukraine
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 51.34
   - 32.06
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ukraine]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Ukraine]]"
 Region in northern [[Ukraine]], where an article describes all-female teams rebuilding homes destroyed after the 2022 Russian invasion.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The All-Female Teams Rebuilding Homes in Ukraine | Alina Drevnytska | setting | After Russian forces retreated, the Repair Together initiative formed to clear debris and rebuild homes in the region. |
 
 ## The All-Female Teams Rebuilding Homes in Ukraine — Alina Drevnytska (2025)
+
 Source: [Original](https://reasonstobecheerful.world/women-rebuilding-homes-ukraine/) · [Readwise highlight](https://read.readwise.io/read/01m5edfjv30p35mhdd6j9mc5pa)
 
 > In April 2022, a little over one month after Russia launched its large-scale invasion of Ukraine, the Russian forces finally retreated from the northern Chernihiv region, leaving behind thousands of destroyed homes and lives.

@@ -2,8 +2,12 @@
 publish: true
 title: Kotiharjun Sauna
 created: 2026-10-21T02:07:16.000Z
-modified: 2026-10-21T11:11:55.038Z
-published: 2026-10-21T11:11:55.038Z
+modified: 2026-10-21T11:11:55.000Z
+published: 2026-10-21T11:11:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]]"
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 60.1865
   - 24.9572
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Helsinki]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Helsinki]]"
 Public sauna in [[Helsinki]], Finland, visited in a New York Times piece on a week in the supposedly happiest country on earth.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]] | Molly Young, Julia Whelan, Emma Kehlbeck, Jeremy McLennan | setting | She visits Kotiharjun, a modest public sauna with a beer freezer and a creaky stair to the women's locker room. |
 
 ## My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times — Molly Young, Julia Whelan, Emma Kehlbeck, Jeremy McLennan (2025)
+
 Source: [[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]] · [Original](https://www.nytimes.com/2025/05/02/magazine/finland-happiest-country.html/) · [Readwise highlight](https://read.readwise.io/read/01m5e2xpw4ybh50aa54c08whhk)
 
 > The day after Löyly I visited a more typical sauna called Kotiharjun, which had a neon red sign and two plastic chairs out front

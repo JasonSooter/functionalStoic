@@ -1,9 +1,14 @@
 ---
 publish: true
 title: England
-created: 2026-09-23
-modified: 2026-10-21T16:39:31.910Z
-published: 2026-10-21T16:39:31.910Z
+created: 2026-09-23T04:55:24.000Z
+modified: 2026-10-21T16:39:32.000Z
+published: 2026-10-21T16:39:32.000Z
+tags:
+  - places
+  - travel
+  - source/ai/claude
+  - place/literary
 aliases: []
 books: []
 categories:
@@ -13,11 +18,6 @@ date created: 2026-09-23
 date modified: 2026-09-23
 icon: book
 linter-yaml-title-alias: England
-tags:
-  - places
-  - travel
-  - source/ai/claude
-  - place/literary
 ---
 
 # England
@@ -66,7 +66,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 
 ## Changelog
 
-- #🗓️/2026/09/23 Created from Readwise task `077d1e70` (`source/ai/claude`).
+- \#🗓️/2026/09/23 Created from Readwise task `077d1e70` (`source/ai/claude`).
 
 ## Action Items
 

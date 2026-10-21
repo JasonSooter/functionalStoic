@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Hagia Sophia
-created: 2026-10-20T01:29:09.000Z
-modified: 2026-10-21T11:12:37.920Z
-published: 2026-10-21T11:12:37.920Z
 aliases:
   - Ayasofya
   - Ayasofiya
   - Sultanahmet Square
+title: Hagia Sophia
+created: 2026-10-20T01:29:09.000Z
+modified: 2026-10-21T11:12:38.000Z
+published: 2026-10-21T11:12:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
   - The Race to Save Hagia Sophia
@@ -19,10 +23,6 @@ icon: book
 location:
   - 41.0083
   - 28.98
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Istanbul]]"
 ---
 
@@ -31,12 +31,14 @@ within: "[[Istanbul]]"
 Byzantine church, later mosque, on Sultanahmet Square in [[Istanbul]], Turkey. It appears as a cool refuge in Bill Bryson's Neither Here Nor There and as the subject of a B1M video on its seismic restoration.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | A cool, near-empty refuge from the noise of the Istanbul streets. |
 | [[The Race to Save Hagia Sophia]] | The B1M | subject | The building vanishes under scaffolding for a seismic restoration. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bekpmpkc2w92jc0evc2j1g)
 
 > I strolled into that great byzantine pile of stone, the Ayasofiya.
@@ -46,6 +48,7 @@ Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highligh
 - **Why it matters:** One of the few unqualified pleasures of the last chapter, and it echoes his reaction to [[St Peter's Basilica]] in Rome.
 
 ## The Race to Save Hagia Sophia — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=6_v4hBVjqvo) · [Readwise highlight](https://read.readwise.io/read/01m5bfx36wh8q6dv9yjh4ejth0)
 
 > But go and stand outside it today and you might wonder what all the fuss is about because it's virtually disappeared underneath a mountain of scaffolding.

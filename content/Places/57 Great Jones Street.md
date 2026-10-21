@@ -1,9 +1,13 @@
 ---
 publish: true
 title: 57 Great Jones Street
-created: 2026-10-21T11:07:05.692Z
-modified: 2026-10-21T11:07:05.692Z
-published: 2026-10-21T11:07:05.692Z
+created: 2026-10-21T11:07:06.000Z
+modified: 2026-10-21T11:07:06.000Z
+published: 2026-10-21T11:07:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The landlord and the creative coach
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 40.7264
   - -73.9924
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[New York City]]"
 Building on Great Jones Street in NoHo, Manhattan, owned by Andy Warhol and rented by Jean-Michel Basquiat. Seth Godin uses Warhol's worry about the rent.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The landlord and the creative coach | Seth Godin | subject | Warhol frets about Basquiat's rent on Great Jones Street. |
 
 ## The landlord and the creative coach — Seth Godin (2024)
+
 Source: [Original](https://seths.blog/2024/08/the-landlord-and-the-creative-coach/) · [Readwise highlight](https://read.readwise.io/read/01m5f1xqwqjzscryty1as15mbn)
 
 > he’s rented our building on Great Jones and what if he is a flash in the pan and doesn’t have the money to pay his rent?

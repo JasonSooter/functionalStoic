@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Quebec
-created: 2026-10-21T11:07:38.381Z
-modified: 2026-10-21T11:07:38.381Z
-published: 2026-10-21T11:07:38.381Z
+created: 2026-10-21T11:07:38.000Z
+modified: 2026-10-21T11:07:38.000Z
+published: 2026-10-21T11:07:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Canada]]"
 ---
 
@@ -22,6 +22,7 @@ within: "[[Canada]]"
 Province of eastern Canada.
 
 ## Sub-places
+
 - [[Mont-Laurier]]
 - [[Mont-Tremblant]]
 - [[Nominingue]]

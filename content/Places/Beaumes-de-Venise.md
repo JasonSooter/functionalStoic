@@ -2,8 +2,12 @@
 publish: true
 title: Beaumes-de-Venise
 created: 2026-10-20T22:52:42.000Z
-modified: 2026-10-21T10:34:55.202Z
-published: 2026-10-21T10:34:55.202Z
+modified: 2026-10-21T10:34:55.000Z
+published: 2026-10-21T10:34:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Breakfast ramble.
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 44.1236
   - 5.0311
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Provence]]"
 Wine village below the Dentelles de Montmirail, Vaucluse, [[Provence]], mentioned in a Mostly Bikes x Me post as the coffee-and-pastry stop on a short gravel ride.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakfast ramble. | Mostly Bikes x Me | setting | Waiting for the fibre installer, the author rides there for coffee and a pastry, then finds the roads above best suited to a donkey. |
 
 ## Breakfast ramble. — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15217890506.html) · [Readwise highlight](https://read.readwise.io/read/01m5dqtqkamv401hh6s3sqqmhg)
 
 > I popped over to Beaumes-de-Venise for bad coffee and a better Pain Suisse, and then explored a few of the roads above the village.

@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Chernobyl Nuclear Power Plant
-created: 2026-10-20T07:54:44.000Z
-modified: 2026-10-21T10:34:06.188Z
-published: 2026-10-21T10:34:06.188Z
 aliases:
   - Chernobyl
   - Chornobyl
+title: Chernobyl Nuclear Power Plant
+created: 2026-10-20T07:54:44.000Z
+modified: 2026-10-21T10:34:06.000Z
+published: 2026-10-21T10:34:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The 10 Biggest Construction Fails of 2025
   - "[[Not the End of the World]]"
@@ -18,10 +22,6 @@ icon: book
 location:
   - 51.3892
   - 30.0994
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ukraine]]"
 ---
 
@@ -30,12 +30,14 @@ within: "[[Ukraine]]"
 Decommissioned nuclear plant in northern [[Ukraine]], site of the 1986 disaster, which appears as a drone-damaged shelter in a B1M video and as a nuclear-safety case in Hannah Ritchie's Not the End of the World.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The 10 Biggest Construction Fails of 2025]] | The B1M | subject | A drone strike punches a hole in the shelter over reactor 4. |
 | [[Not the End of the World]] | Hannah Ritchie | subject | Likely caused up to 400 deaths, far fewer than most people guess, blamed on old reactor design and Soviet secrecy. |
 
 ## The 10 Biggest Construction Fails of 2025 — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=QvHBvm9JIcc) · [Readwise highlight](https://read.readwise.io/read/01m5c4qh80hkypvhaw5npba5gv)
 
 > The attack blasted a 6 m wide hole in the hermetically sealed shelter covering the infamous reactor 4.
@@ -45,6 +47,7 @@ Source: [Original](https://www.youtube.com/watch?v=QvHBvm9JIcc) · [Readwise hig
 - **Why it matters:** The segment is about damage to one of the world's most important containment structures.
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5e31f7drznpje1mq7r0r47e)
 
 > Over the last 60 years there have been only two major nuclear accidents: Chernobyl in Ukraine in 1986, and Fukushima in Japan in 2011.

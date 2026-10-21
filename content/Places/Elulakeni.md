@@ -2,8 +2,12 @@
 publish: true
 title: Elulakeni
 created: 2026-10-20T13:42:55.000Z
-modified: 2026-10-21T10:52:01.793Z
-published: 2026-10-21T10:52:01.793Z
+modified: 2026-10-21T10:52:02.000Z
+published: 2026-10-21T10:52:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
@@ -12,10 +16,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Eswatini]]"
 ---
 
@@ -24,11 +24,13 @@ within: "[[Eswatini]]"
 Village with a school in [[Eswatini]] (formerly Swaziland); in a Peace Corps essay it is where a volunteer woodworking teacher delivers an overloaded lumber run. See also [[Piggs Peak]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | Destination of the overloaded lumber run. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
+
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5crcemr8n71rpfqwqb33y95)
 
 > There was no electricity at Elulakeni, so we unloaded the lumber in darkness, throwing it through the open back door of my woodworking shop, into a huge jumble.

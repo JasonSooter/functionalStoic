@@ -2,8 +2,12 @@
 publish: true
 title: Historic Fourth Ward Park
 created: 2026-10-20T07:39:51.000Z
-modified: 2026-10-21T11:09:43.407Z
-published: 2026-10-21T11:09:43.407Z
+modified: 2026-10-21T11:09:43.000Z
+published: 2026-10-21T11:09:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Do Retention Ponds Actually Work?
@@ -15,10 +19,6 @@ icon: newspaper
 location:
   - 33.7553
   - -84.3726
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Atlanta]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Atlanta]]"
 Park with a stormwater pond in Atlanta's Old Fourth Ward, beside the BeltLine, in [[Atlanta]]. It is Practical Engineering's opening example of a retention pond that serves as both flood control and public park.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Do Retention Ponds Actually Work\|Do Retention Ponds Actually Work?]] | Practical Engineering | subject | A flood-control pond that doubles as the neighbourhood's park. |
 
 ## Do Retention Ponds Actually Work? — Practical Engineering (2026)
+
 Source: [Original](https://practical.engineering/blog/2026/2/3/do-retention-ponds-actually-work) · [Readwise highlight](https://read.readwise.io/read/01m5c3ptkwxg78t633jjcgpmkt)
 
 > This is the Historic Fourth Ward Park in Atlanta, Georgia.

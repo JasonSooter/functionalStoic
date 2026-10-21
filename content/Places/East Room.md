@@ -1,9 +1,13 @@
 ---
 publish: true
 title: East Room
-created: 2026-10-21T16:37:35.572Z
-modified: 2026-10-21T16:37:35.572Z
-published: 2026-10-21T16:37:35.572Z
+created: 2026-10-21T16:37:36.000Z
+modified: 2026-10-21T16:37:36.000Z
+published: 2026-10-21T16:37:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - How to Be an Antiracist
@@ -16,10 +20,6 @@ icon: book
 location:
   - 38.8978
   - -77.0364
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington DC]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Washington DC]]"
 State room on the first floor of the White House in Washington, D.C. It turns up in How to Be an Antiracist (Ibram X. Kendi): White House room where Clinton announced the human genome map in 2000.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | setting | White House room where Clinton announced the human genome map in 2000. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fmsrjt9j118zef6yfpgvh3)
 
 > “Today, the world is joining us here in the East Room to behold a map of even greater significance,” Clinton announced.

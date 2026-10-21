@@ -2,8 +2,12 @@
 publish: true
 title: Langenegg
 created: 2026-10-21T04:45:20.000Z
-modified: 2026-10-21T11:20:34.106Z
-published: 2026-10-21T11:20:34.106Z
+modified: 2026-10-21T11:20:34.000Z
+published: 2026-10-21T11:20:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Towns That Invent Their Own Money
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 47.4681
   - 9.8969
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austria]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Austria]]"
 Village in Vorarlberg, [[Austria]] (about 200 km west of Wörgl), the modern case study of a local currency in The Towns That Invent Their Own Money.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Towns That Invent Their Own Money | Kaja Šeruga | setting | After the grocer retired in 2008 the municipality built a village store and launched the Langenegger Talente currency in 2009. |
 
 ## The Towns That Invent Their Own Money — Kaja Šeruga (2025)
+
 Source: [Original](https://reasonstobecheerful.world/towns-invent-community-currencies/) · [Readwise highlight](https://read.readwise.io/read/01m5ebptqc05xd1hfjsm7tq1es)
 
 > This is the case in Langenegg, an Austrian village some 200 kilometers west of Wörgl, where the village grocer retired in 2008 without a successor.

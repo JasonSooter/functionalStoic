@@ -2,8 +2,12 @@
 publish: true
 title: Left Bank Books
 created: 2026-10-21T05:06:27.000Z
-modified: 2026-10-21T11:14:26.978Z
-published: 2026-10-21T11:14:26.978Z
+modified: 2026-10-21T11:14:27.000Z
+published: 2026-10-21T11:14:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Issue 103 - Reading in the Age of Digital Abundance]]"
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 38.6486
   - -90.261
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[St Louis]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[St Louis]]"
 Independent bookstore in [[St Louis]], Missouri, where a Substack essay on reading in the age of digital abundance finds its author overwhelmed by choice.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Issue 103 - Reading in the Age of Digital Abundance\|Issue 103: Reading in the age of digital abundance]] | A reading life | setting | The author and her husband visit the store the day before Christmas while visiting family. |
 
 ## Issue 103: Reading in the age of digital abundance — A reading life (2025)
+
 Source: [[Issue 103 - Reading in the Age of Digital Abundance]] · [Original](https://petya.substack.com/p/issue-103-reading-in-the-age-of-digital) · [Readwise highlight](https://read.readwise.io/read/01m5eddqvh720227484xkzs1v5)
 
 > What shocked me as I was making my rounds and running my hands through the various book displays was that nothing was really grabbing my attention.

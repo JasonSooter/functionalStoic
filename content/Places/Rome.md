@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Rome
-created: 2026-10-19T22:30:51.000Z
-modified: 2026-10-21T13:55:38.557Z
-published: 2026-10-21T13:55:38.557Z
 aliases:
   - Roma
+title: Rome
+created: 2026-10-19T22:30:51.000Z
+modified: 2026-10-21T13:55:39.000Z
+published: 2026-10-21T13:55:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Rome

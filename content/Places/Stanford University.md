@@ -2,8 +2,12 @@
 publish: true
 title: Stanford University
 created: 2026-10-21T02:07:58.000Z
-modified: 2026-10-21T13:39:24.286Z
-published: 2026-10-21T13:39:24.286Z
+modified: 2026-10-21T13:39:24.000Z
+published: 2026-10-21T13:39:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 37.4275
   - -122.1703
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[California]]"
 University campus in [[California]], United States. It appears in the reading as Jenny Odell's workplace, where her students' overwork and fear illustrate the shrinking capacity for refusal.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | Odell teaches here and describes students' overwork and 'duck syndrome' as signs of precarity and fear. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5e31ts3g96t19yk6nwqemnf)
 
 > Back in 2013, students in my first art classes at Stanford were surprised that I didn’t know about “Stanford duck syndrome.”

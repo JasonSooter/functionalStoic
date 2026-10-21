@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Vienna
-created: 2026-10-21T13:55:37.449Z
-modified: 2026-10-21T13:55:37.449Z
-published: 2026-10-21T13:55:37.449Z
 aliases:
   - Wien
   - Ringstrasse
+title: Vienna
+created: 2026-07-17T16:15:04.606Z
+modified: 2026-10-21T13:55:37.000Z
+published: 2026-10-21T13:55:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -18,10 +22,6 @@ linter-yaml-title-alias: Vienna
 location:
   - 48.2083
   - 16.3725
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austria]]"
 ---
 
@@ -40,6 +40,7 @@ Culturally, Vienna is a worldwide hub for music, renowned for its classical musi
 Vienna is also known for its vibrant arts scene, museums, and galleries, such as the Kunsthistorisches Museum and the Albertina. Its coffee-house culture, with historic cafes frequented by intellectuals and artists, is an integral part of the city's charm.
 
 In addition to its rich history and culture, Vienna consistently ranks highly in global quality of living surveys, noted for its public transport, green spaces, safety, and clean environment. The city strikes a balance between preserving its historic past and fostering innovation in areas such as technology and science, recognizing it as a leading destination in Europe for both tourists and expatriates.
+
 ## Changelog
 
 ## Resources
@@ -48,10 +49,8 @@ In addition to its rich history and culture, Vienna consistently ranks highly in
 
 ## FAQ
 
-
 > [!question] Title
 > Contents
-> 
 
 ## Content
 
@@ -65,7 +64,7 @@ In addition to its rich history and culture, Vienna consistently ranks highly in
 - Full Title: Can Urban Design Have a Gender? In This Vienna District, the Answer Is Yes.
 - Document Note: Maria Schreiber shared this article with me.
 - Summary: Aspern Seestadt in Vienna is a community designed with gender equality in mind. Pioneering urban planner Eva Kail led efforts to create spaces that meet the needs of all residents, focusing on safety and accessibility. The development features women-named streets and amenities that support families, reflecting a shift in urban planning towards inclusivity.
-- URL: https://www.nytimes.com/2024/07/17/realestate/vienna-aspern-seestadt-gender.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb
+- URL: https://www.nytimes.com/2024/07/17/realestate/vienna-aspern-seestadt-gender.html?smid=nytcore-ios-share\&referringSource=articleShare\&sgrp=c-cb
 
 ### Highlights
 
@@ -75,13 +74,13 @@ In addition to its rich history and culture, Vienna consistently ranks highly in
 > Including me
 
 - The community of Aspern Seestadt, in northeast Vienna, is a living model of gender-conscious urban design concepts honed over the past three decades. ([View Highlight](https://read.readwise.io/read/01j4t7kpa06tg84k00e5e6cfkw))
-	- [x] Create a note for Vienna, Austria within Europe. Add a point to go here if I visit Vienna
+  - [x] Create a note for Vienna, Austria within Europe. Add a point to go here if I visit Vienna
 - Eva Kail stood outside the gleaming subway station in Aspern Seestadt, a sprawling planned community in northeast Vienna that she essentially manifested from an idea into a real place. ([View Highlight](https://read.readwise.io/read/01j4t7ntvf8trgmbtcqhkx58cv))
-	- [ ] Determine if Eva has written any books on Urban Design
+  - [ ] Determine if Eva has written any books on Urban Design
 - Eva Kail in Vienna, where she pioneered the urban design concept of gender mainstreaming during her 30-year career, spearheading dozens of projects in housing, transportation and public spaces ([View Highlight](https://read.readwise.io/read/01j4t7q0ct1ec50zcy8j7bjch9))
-	- [ ] Find a few of her projects
+  - [ ] Find a few of her projects
 - About 12,000 people live here today, with another 14,000 expected in the next decade, making Aspern Seestadt one of the largest urban development projects in Europe. ([View Highlight](https://read.readwise.io/read/01j4t7r393kn5evkdadjkv8nrs))
-	- [ ] Wow, 26k people when finished. Figure out a way to follow along
+  - [ ] Wow, 26k people when finished. Figure out a way to follow along
 - “gender mainstreaming,” with the goal of embedding gender equality into infrastructure, legislation, budgets and beyond. So while this community promises “something for everyone”— homes for sale or rent, offices, health care facilities, green spaces, public transportation, schools and nurseries — a central mission becomes clear as one looks a bit closer. ([View Highlight](https://read.readwise.io/read/01j4t7tdfbe9c5mfhj1kcme7tg))
 - wider sidewalks for strollers ([View Highlight](https://read.readwise.io/read/01j4t7vn3jyeq88v1cd8jta74m))
 - safer parks with more benches for resting ([View Highlight](https://read.readwise.io/read/01j4t7vr3rp63a600yanggqmse))
@@ -103,13 +102,13 @@ In addition to its rich history and culture, Vienna consistently ranks highly in
 > I suppose why I disagree so heavily to jumping to Feminist design is because I hate this urban planning strategy that involves the commute to work by men. I fucking hate it and do not want to be associated with it as a man
 
 - Leslie Kern, an associate professor of [[Geography]] and environment at Mount Allison University and the author of “Feminist City: Claiming Space in a Man-Made World. ([View Highlight](https://read.readwise.io/read/01j4sjz8vaqxx864vncx9rc1r9))
-	- Tags: #add-book-to-read
+  - Tags: #add-book-to-read
 - For example, she wondered, could an apartment building be constructed with the goal of specifically serving women? ([View Highlight](https://read.readwise.io/read/01j4t8bcfsddxqa9hnsbecbcj0))
 
 > Asking if we can build apartment buildings with the goal of serving women is a great question. But specifically serving women, I just can't get there
 
 - In 1997, she unveiled Frauen-Werk-Stadt (Women-Work-City), a 357-unit apartment complex designed by four female architects to address what they felt were the needs of women at the time. ([View Highlight](https://read.readwise.io/read/01j4t8dad9wmrdty1c223e9167))
-	- [ ] Look up this building and add to Vienna, Austria Note
+  - [ ] Look up this building and add to Vienna, Austria Note
 - storage rooms for strollers and bikes ([View Highlight](https://read.readwise.io/read/01j4t8ea2tgh9jwxkg6nwcd84t))
 
 > If I lived in an apartment, I would both want and be willing to pay for this. I remember being responsible for the stroller and I'm definitely responsible for bikes
@@ -130,8 +129,8 @@ In addition to its rich history and culture, Vienna consistently ranks highly in
 
 > If they are using these criteria for all housing projects, then hooray for that
 
-- ![](https://static01.nyt.com/images/2024/07/17/realestate/17Vienna-Gender/17Vienna-Gender-superJumbo.jpg?quality=75&auto=webp)
-	The centerpiece of Aspern Seestadt is its 12-acre artificial lake with its surrounding park. ([View Highlight](https://read.readwise.io/read/01j4t8ndbn9dqd0h0c9mg8r7kg))
+- ![](https://static01.nyt.com/images/2024/07/17/realestate/17Vienna-Gender/17Vienna-Gender-superJumbo.jpg?quality=75\&auto=webp)
+  The centerpiece of Aspern Seestadt is its 12-acre artificial lake with its surrounding park. ([View Highlight](https://read.readwise.io/read/01j4t8ndbn9dqd0h0c9mg8r7kg))
 
 > There is nothing feminist about a lake / park and a place to swim. Swimming with my kiddos is a core part of our experience as a family
 
@@ -154,16 +153,16 @@ In addition to its rich history and culture, Vienna consistently ranks highly in
 - “We are not big fans of bushes,” said Dr. Julia Girardi-Hoog, who has replaced Ms. Kail as the chief gender planner for the city of Vienna. “Trees are much better because they provide shade and you can see through them.” ([View Highlight](https://read.readwise.io/read/01j4t8ykvdxbjvfqdtvfvfv211))
 
 > Walkable City talked extensively about the value of Trees.
-		Constrasting them to buses is interesting though
+> Constrasting them to buses is interesting though
 
 - Dr. Girardi-Hoog researched Ms. Kail’s work as part of her Ph.D ([View Highlight](https://read.readwise.io/read/01j4t8zzhv1mncg2edq2xra8bz))
-	- [ ] See if I can find her work to read that was done for the PHD
+  - [ ] See if I can find her work to read that was done for the PHD
 - why it is important to apply a gender lens.” ([View Highlight](https://read.readwise.io/read/01j4t91c1z88gns2dfrh4pbgkg))
 
 > I think I can agree that applying a lens is a wise way to get solid perspective
 
 - Vienna’s public transit system was extended in order to reach Aspern Seestadt. The development has two rail stations, seven bus routes and a tram link in the works ([View Highlight](https://read.readwise.io/read/01j4t92f0kswjajve90zsmdjr6))
-	- [ ] Add to my Vienna, Austria note. I want to take this public transit to really experience
+  - [ ] Add to my Vienna, Austria note. I want to take this public transit to really experience
 - Aspern Seestadt, where slightly more than half the residents are female. ([View Highlight](https://read.readwise.io/read/01j4t93nd8vtate9mhgb8j8hqj))
 
 > I think this really gets at what stirs me up within this article. Only "slighly" more than half are women. That means "slightly" less than half are men & boys.
@@ -177,7 +176,7 @@ In addition to its rich history and culture, Vienna consistently ranks highly in
 > I'm definitely on board with promoting this line of thinking
 
 - A services hub with a medical center, grocery store, bank, cafe and stationary shop is a five-minute bus ride from the subway station ([View Highlight](https://read.readwise.io/read/01j4t97ypx3gwfs5hg3yh8bnrm))
-	- [ ] I like the term Services Hub. Define this term and write a section about it within a note called "My Urban Planning Philosophy". Also, it fits within my "[[Theory of Proximity Gains|Theory of Proximity]]"
+  - [ ] I like the term Services Hub. Define this term and write a section about it within a note called "My Urban Planning Philosophy". Also, it fits within my "[[Theory of Proximity Gains|Theory of Proximity]]"
 - Even closer is the 12-acre artificial lake and surrounding park. The theory is that short distances make running errands and dropping off or picking up children more efficient, lightening the load for care workers. ([View Highlight](https://read.readwise.io/read/01j4t9apkxavmk3hfhgpsrwkp3))
 
 > This is good for everyone. Not just those that have care responsibilities
@@ -209,7 +208,7 @@ In addition to its rich history and culture, Vienna consistently ranks highly in
 - But while these improvements have been aimed primarily at helping women, skeptics have long argued that gender mainstreaming fails to tackle inequality at its root, and worse, perpetuates outmoded stereotypes. ([View Highlight](https://read.readwise.io/read/01j4t9n48y5bck435pya4f2xv8))
 
 > I definitely call into this skeptic category. It points out what I think of as the main risk "perpetuating outmoded stereotypes"
-		I think "Human Scaled Design" much more. Everything mentioned so far benefits both genders and potentially helps the gender stereotypes around childcare & housework
+> I think "Human Scaled Design" much more. Everything mentioned so far benefits both genders and potentially helps the gender stereotypes around childcare & housework
 
 - As the concepts of gender and gender roles evolved into the 21st century, Ms. Kail tried to expand the mission to support residents of any gender who care for children, older people or those with disabilities, and who run errands throughout the day. “You can’t change the imbalance of care work,” she said, “but you can make it more visible, show its value to society and make it a topic that people are concerned about.” ([View Highlight](https://read.readwise.io/read/01j4t9sbzae83xn226887h7yta))
 
@@ -239,6 +238,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`), from Superlist `06dd2add-6c8d-
 <!-- Map pin: Mittelschule Herzgasse, 1100 Wien -->
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | The grandest city Bryson has ever seen, and one of the least welcoming. |
@@ -257,6 +257,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`), from Superlist `06dd2add-6c8d-
 - [[Wien Westbahnhof]]
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bek8z8snb8p6c4t780jkge)
 
 > Vienna is certainly the grandest city I have ever seen.

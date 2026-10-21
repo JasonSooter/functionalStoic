@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Jungfraujoch railway station
-created: 2026-10-20T22:54:54.000Z
-modified: 2026-10-21T11:10:54.230Z
-published: 2026-10-21T11:10:54.230Z
 aliases:
   - Jungfraujoch Station
   - Top of Europe
+title: Jungfraujoch railway station
+created: 2026-10-20T22:54:54.000Z
+modified: 2026-10-21T11:10:54.000Z
+published: 2026-10-21T11:10:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - This is Europe’s Most Remote Construction Site
 categories:
@@ -18,10 +22,6 @@ icon: video
 location:
   - 46.5475
   - 7.9822
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Switzerland]]"
 Terminus of the Jungfrau Railway and Europe's highest railway station, in [[Switzerland]], shown in a B1M video on a remote Alpine construction site.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[This Is Europe’s Most Remote Construction Site\|This is Europe’s Most Remote Construction Site]] | The B1M | journey waypoint | The presenter arrives at the Jungfrau Railway terminus, opened in 1912, directly beneath the Sphinx Observatory. |
 
 ## This is Europe’s Most Remote Construction Site — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=OVysOYeYbFw) · [Readwise highlight](https://read.readwise.io/read/01m5dqvb745kr1wfv6gxtyf014)
 
 > This is Jungfraujoch Station, Europe’s highest train station.

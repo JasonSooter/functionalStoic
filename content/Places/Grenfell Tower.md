@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Grenfell Tower
-created: 2026-10-20T22:56:01.000Z
-modified: 2026-10-21T11:11:57.350Z
-published: 2026-10-21T11:11:57.350Z
 aliases:
   - Grenfell
   - Grenfell Tower site
+title: Grenfell Tower
+created: 2026-10-20T22:56:01.000Z
+modified: 2026-10-21T11:11:57.000Z
+published: 2026-10-21T11:11:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "The Grenfell Tower Fire: London’s High-Rise Scandal"
 categories:
@@ -18,10 +22,6 @@ icon: video
 location:
   - 51.514
   - -0.2158
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[London]]"
 Residential tower block in North Kensington, [[London]], destroyed by fire in 2017. It is the subject of a B1M video reconstructing the fire, the cladding decisions and the inquiry that followed.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Grenfell Tower Fire - London’s High-Rise Scandal\|The Grenfell Tower Fire: London’s High-Rise Scandal]] | The B1M | subject | The 24-storey council tower in North Kensington caught fire after midnight on 14 June 2017, starting in a fourth-floor kitchen. |
 
 ## The Grenfell Tower Fire: London’s High-Rise Scandal — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=URX_5B1EaIE) · [Readwise highlight](https://read.readwise.io/read/01m5dqvwvpzt4rjpfv69c3a4k1)
 
 > It's the early hours of June 14th, 2017, and this West London neighbourhood is about to suffer one of the most shocking human tragedies of recent times.

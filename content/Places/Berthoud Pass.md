@@ -2,8 +2,12 @@
 publish: true
 title: Berthoud Pass
 created: 2026-10-20T02:12:15.000Z
-modified: 2026-10-21T10:33:56.988Z
-published: 2026-10-21T10:33:56.988Z
+modified: 2026-10-21T10:33:57.000Z
+published: 2026-10-21T10:33:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - SLC-DEN 1000k
@@ -15,10 +19,6 @@ icon: newspaper
 location:
   - 39.7978
   - -105.7769
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Berthoud Pass
@@ -26,11 +26,13 @@ tags:
 Road pass over the Continental Divide in northern Colorado, USA, named in a Mostly Bikes x Me post as the divide crossing on a Salt Lake City to Denver ride.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[SLC-DEN 1000k]] | Mostly Bikes x Me | journey waypoint | The least favourite way over the divide, but "undeniably pretty". |
 
 ## SLC-DEN 1000k — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfxt77as9a0n7cf8tp727e)
 
 > There's only a few ways over the continental divide in Northern Colorado, and Berthoud Pass might be my least favorite.

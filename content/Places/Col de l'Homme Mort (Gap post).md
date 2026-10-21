@@ -2,8 +2,12 @@
 publish: true
 title: Col de l'Homme Mort (Gap post)
 created: 2026-10-21T02:06:37.000Z
-modified: 2026-10-21T10:52:59.610Z
-published: 2026-10-21T10:52:59.610Z
+modified: 2026-10-21T10:53:00.000Z
+published: 2026-10-21T10:53:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Another Col de l'Homme Mort?
@@ -12,17 +16,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 44.3001,5.3088
-geo_note: "best-guess: Name-only match; chosen as the one on the Gap-Caromb corridor\
-  \ and distinct from the Forcalquier-post pass, so low confidence."
+geo_note: "best-guess: Name-only match; chosen as the one on the Gap-Caromb corridor and distinct from the Forcalquier-post pass, so low confidence."
 geo_source: OSM node 737235548
 icon: newspaper
 location:
   - 44.3001
   - 5.3088
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vercoiran]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Vercoiran]]"
 Mountain pass in the Drôme, likely the real place behind another Col de l'Homme Mort a cyclist crosses on the return from Gap.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Col De l'Homme Mort\|Another Col de l'Homme Mort?]] | Mostly Bikes x Me | journey waypoint | A two-line post on the return from Gap: yet another 'Col de l'Homme Mort' and a joke about all the dead guy passes. |
 
 ## Another Col de l'Homme Mort? — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5e33czv875fnfqzfwb4av0s)
 
 > Why are there so many dead guy passes around here? Actually, never mind. Back from Gap.

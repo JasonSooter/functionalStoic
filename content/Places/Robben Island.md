@@ -2,8 +2,12 @@
 publish: true
 title: Robben Island
 created: 2026-10-21T05:07:42.000Z
-modified: 2026-10-21T11:16:59.420Z
-published: 2026-10-21T11:16:59.420Z
+modified: 2026-10-21T11:16:59.000Z
+published: 2026-10-21T11:16:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Daily Stoic]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - -33.805
   - 18.37
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South Africa]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[South Africa]]"
 Prison island off Cape Town in [[South Africa]], where Nelson Mandela was held; The Daily Stoic draws on his imprisonment without naming the island.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Daily Stoic]] | Ryan Holiday | setting | Mandela spent twenty-seven years imprisoned, eighteen with a bucket for a toilet, a hard cot and one thirty-minute visitor a year. |
 
 ## The Daily Stoic — Ryan Holiday (2016)
+
 Source: [[The Daily Stoic]] · [Original](https://openlibrary.org/works/OL20046443W) · [Readwise highlight](https://read.readwise.io/read/01m5edhjn9adj4afj4cs51ar2t)
 
 > Nelson Mandela was imprisoned for resistance to the brutal apartheid regime in South Africa for twenty-seven years.

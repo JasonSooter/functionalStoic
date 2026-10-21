@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Yellowjackets Gymnastics (Gymnastics)
-created: 2026-10-21T16:36:59.980Z
-modified: 2026-10-21T16:36:59.980Z
-published: 2026-10-21T16:36:59.980Z
 aliases:
   - Yellow Jackets Gymnastics
+title: Yellowjackets Gymnastics (Gymnastics)
+created: 2026-10-21T16:37:00.000Z
+modified: 2026-10-21T16:37:00.000Z
+published: 2026-10-21T16:37:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Gymnastics
 categories:
@@ -13,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 42.595,-71.0167
-geo_note: "inferred: the essay names only \"Middleton\"; a Yellow Jackets Gymnastics\
-  \ club exists in Middleton, Massachusetts. Pin is the town centre"
+geo_note: 'inferred: the essay names only "Middleton"; a Yellow Jackets Gymnastics club exists in Middleton, Massachusetts. Pin is the town centre'
 geo_source: Wikipedia (en) Middleton, Massachusetts
 icon: newspaper
 location:
   - 42.595
   - -71.0167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 ---
 
@@ -32,11 +31,13 @@ within: "[[Massachusetts]]"
 Gymnastics club in the town of Middleton, Essex County, Massachusetts. It turns up in Gymnastics (Allie Walsh): gym parking lot where the narrator's drunk-driving mother is arrested in front of the twins.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Gymnastics | Allie Walsh | turning point | Gym parking lot where the narrator's drunk-driving mother is arrested in front of the twins. |
 
 ## Gymnastics — Allie Walsh
+
 Source: [Original](https://www.thecolorinanything.com/post/gymnastics) · [Readwise highlight](https://read.readwise.io/read/01m5fmrk8bw2pf8284zgnpzd5v)
 
 > The police follow my mom into the parking lot of Yellowjackets gymnastics in Middleton. Apparently, she was swerving all over the road and her BAC was well over the legal limit.

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Galata Bridge
-created: 2026-10-20T01:29:03.000Z
-modified: 2026-10-21T11:09:28.286Z
-published: 2026-10-21T11:09:28.286Z
 aliases:
   - Galata Köprüsü
+title: Galata Bridge
+created: 2026-10-20T01:29:03.000Z
+modified: 2026-10-21T11:09:28.000Z
+published: 2026-10-21T11:09:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - 41.02
   - 28.9731
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Istanbul]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Istanbul]]"
 The bridge across the Golden Horn in [[Istanbul]], Turkey, which Bill Bryson's Neither Here Nor There uses as its picture of the city's chaotic street life.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | Crowds, fishermen and two men leading bears to the station. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bekmzbgm1zj2stbkk0sv82)
 
 > The Galata bridge swarmed with pedestrians, beggars, vendors, and load bearers.

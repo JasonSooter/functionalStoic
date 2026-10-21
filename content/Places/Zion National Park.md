@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Zion National Park
-created: 2026-10-20T22:56:33.000Z
-modified: 2026-10-21T16:26:55.736Z
-published: 2026-10-21T16:26:55.736Z
 aliases:
   - Zion
   - Zion Canyon
+title: Zion National Park
+created: 2026-10-20T22:56:33.000Z
+modified: 2026-10-21T16:26:56.000Z
+published: 2026-10-21T16:26:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - In Zion National Park, ‘the Smog Is Gone’
 categories:
@@ -19,10 +23,6 @@ icon: newspaper
 location:
   - 37.3
   - -113
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Utah]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Utah]]"
 National park in southwestern [[Utah]]. It is the subject of a Reasons to Be Cheerful article on how its electric shuttle buses relieved overcrowding.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | In Zion National Park, ‘the Smog Is Gone’ | Morgan Sjogren | subject | Zion's shuttle system, launched in 2000 for 2.4 million annual visitors, went all-electric with 30 buses in 2024. |
 
 ## In Zion National Park, ‘the Smog Is Gone’ — Morgan Sjogren (2025)
+
 Source: [Original](https://reasonstobecheerful.world/zion-electric-shuttle-buses/) · [Readwise highlight](https://read.readwise.io/read/01m5dqwvcxppt3c1naq8shkkf2)
 
 > Beneath red temples of Navajo sandstone, the Virgin River winds through Zion National Park.

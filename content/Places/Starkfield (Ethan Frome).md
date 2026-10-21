@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Starkfield
-created: 2026-10-20T22:56:34.000Z
-modified: 2026-10-21T16:21:38.428Z
-published: 2026-10-21T16:21:38.428Z
 aliases:
   - Starkfield, Massachusetts
+title: Starkfield
+created: 2026-10-20T22:56:34.000Z
+modified: 2026-10-21T16:21:38.000Z
+published: 2026-10-21T16:21:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Ethan Frome]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 42.3564
   - -73.2853
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Lenox]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Lenox]]"
 Fictional hill village in western Massachusetts, pinned at a best-guess location within [[Lenox]]. It is the setting of Edith Wharton's _Ethan Frome_, where winter and isolation trap Ethan.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Ethan Frome]] | Edith Wharton | setting | Starkfield is the hill village where the whole story is set and where the narrator is stranded for a winter. |
 
 ## Ethan Frome — Edith Wharton (1911)
+
 Source: [[Ethan Frome]] · [Original](https://openlibrary.org/works/OL98501W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0d4f95ncdke2vh2sverm)
 
 > If you know Starkfield, Massachusetts, you know the post-office.

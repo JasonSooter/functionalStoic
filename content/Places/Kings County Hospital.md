@@ -4,6 +4,10 @@ title: Kings County Hospital
 created: 2026-10-20T19:38:17.000Z
 modified: 2026-10-21T11:11:20.000Z
 published: 2026-10-21T11:11:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 40.6567
   - -73.945
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Brooklyn]]"
 Public hospital in East Flatbush, [[Brooklyn]], New York City, USA, where the children are taken after a shattered window in Another Brooklyn.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | setting | Curtained wards after the shattered window. |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Original](https://www.jacquelinewoodson.com/product/another-brooklyn/) · [Readwise highlight](https://read.readwise.io/read/01m5dcmvawyndeq1bwt6fzht35)
 
 > Kings County Hospital. No rooms, just wards.

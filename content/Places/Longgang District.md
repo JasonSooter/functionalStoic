@@ -2,8 +2,12 @@
 publish: true
 title: Longgang District
 created: 2026-10-21T02:07:21.000Z
-modified: 2026-10-21T11:19:54.994Z
-published: 2026-10-21T11:19:54.994Z
+modified: 2026-10-21T11:19:55.000Z
+published: 2026-10-21T11:19:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "China’s AI frenzy: DeepSeek is already everywhere – cars, phones, even hospitals"
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 22.7209
   - 114.2469
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Shenzhen]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Shenzhen]]"
 District of [[Shenzhen]], China, cited by Rest of World as the main example of local-government adoption of DeepSeek AI.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[China’s AI Frenzy - DeepSeek Is Already Everywhere – Cars, Phones, Even Hospitals\|China’s AI frenzy: DeepSeek is already everywhere – cars, phones, even hospitals]] | Khadija Alam | subject | Shenzhen was one of the first to use DeepSeek in internal government systems. |
 
 ## China’s AI frenzy: DeepSeek is already everywhere – cars, phones, even hospitals — Khadija Alam (2025)
+
 Source: [Original](https://restofworld.org/2025/china-embeds-deepseek-ai-in-everything/) · [Readwise highlight](https://read.readwise.io/read/01m5e2yqgn8f207gg6s38qa4cm)
 
 > Shenzhen’s Longgang county reported “great improvement in efficiency” after adopting DeepSeek in a system used by 20,000 government workers.

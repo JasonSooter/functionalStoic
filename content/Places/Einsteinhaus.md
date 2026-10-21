@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Einsteinhaus
-created: 2026-10-20T10:43:00.000Z
-modified: 2026-10-21T10:51:42.315Z
-published: 2026-10-21T10:51:42.315Z
 aliases:
   - Einstein House
   - Kramgasse 49
+title: Einsteinhaus
+created: 2026-10-20T10:43:00.000Z
+modified: 2026-10-21T10:51:42.000Z
+published: 2026-10-21T10:51:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Neither Here Nor There]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 46.9478
   - 7.45
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bern]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Bern]]"
 Einstein's former flat and museum at Kramgasse 49, [[Bern]], Switzerland; in Bill Bryson's Neither Here Nor There he struggles to find it and gets no answer at its locked door.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | A locked door and no answer: Bern's forgotten Einstein. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [[Neither Here Nor There]] · [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5ce7j6aahhzbzm0q7a74rhq)
 
 > I tried also to go to the Albert Einstein museum, housed in his old flat on Kramgasse, one of the main arcaded streets. I walked up and down the street half a dozen times before I found the modest entrance to the building, tucked away between a restaurant and a ladies’ boutique.

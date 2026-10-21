@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Freiburg, Germany
-created: 2026-01-09T23:12:05+01:00
-modified: 2026-10-21T13:20:02.238Z
-published: 2026-10-21T13:20:02.238Z
 aliases:
   - Freiburg im Breisgau
   - Freiburg, Germany
+title: Freiburg, Germany
+created: 2026-01-09T21:03:18.640Z
+modified: 2026-10-21T13:20:02.000Z
+published: 2026-10-21T13:20:02.000Z
+tags:
+  - source/ai/claude
+  - places
+  - place/literary
 books:
   - "The Tram Network in Transition: Dismantling, Expansion, Future Plans"
   - "Destroyed City, Broken Trams: When Freiburg Lay in Ruins"
@@ -24,10 +28,6 @@ linter-yaml-title-alias: Freiburg, Germany
 location:
   - 47.995
   - 7.85
-tags:
-  - source/ai/claude
-  - places
-  - place/literary
 ---
 
 # Freiburg, Germany
@@ -55,10 +55,11 @@ Overall, Freiburg blends historical charm with a forward-thinking approach to ur
 - [3D Map of Freiburg](https://3d.freiburg.de/)
 
 - Bike service map layers (QGIS / OsmAnd), details in [[Infrastructure/Freiburg Bike Service Points|Freiburg Bike Service Points]]:
-	- VAG repair stations (20): [[Attachments/freiburg_vag_repair_stations.geojson|GeoJSON]] · [[Attachments/freiburg_vag_repair_stations.gpx|GPX]]
-	- Tube vending machines (10): [[Attachments/freiburg_tube_vending_machines.geojson|GeoJSON]] · [[Attachments/freiburg_tube_vending_machines.gpx|GPX]]
+  - VAG repair stations (20): [[Attachments/freiburg_vag_repair_stations.geojson|GeoJSON]] · [[Attachments/freiburg_vag_repair_stations.gpx|GPX]]
 
-	- Both layers in one file (QGIS): [[Attachments/freiburg_bike_service.gpkg|GeoPackage]]
+  - Tube vending machines (10): [[Attachments/freiburg_tube_vending_machines.geojson|GeoJSON]] · [[Attachments/freiburg_tube_vending_machines.gpx|GPX]]
+
+  - Both layers in one file (QGIS): [[Attachments/freiburg_bike_service.gpkg|GeoPackage]]
 
 ## Action Items
 
@@ -72,11 +73,13 @@ Overall, Freiburg blends historical charm with a forward-thinking approach to ur
 ### Getting around — modal split and tram coverage
 
 **76 % of trips without a car.** Per the federal _Mobilität in Deutschland_ (MiD) study, 76 % of all trips in Freiburg are made by bike, bus/tram or on foot and only 24 % by car — a share VAG says not even Germany's million-plus cities with S- and U-Bahn systems match; "only Berlin comes close."
+
 - VAG's wording: _„76 Prozent aller Wege werden hier mit dem Fahrrad, mit Bus und Stadtbahn und zu Fuß zurückgelegt und nur noch 24 Prozent mit dem Auto. Das ist ein Wert, den nicht einmal die deutschen Millionenstädte mit leistungsfähigen S- und U-Bahnsystemen vorweisen können. Nur Berlin kommt noch auf einen vergleichbaren Wert."_ — Freddy Greve, [Ohne Bus geht's nicht: Warum der Busverkehr unverzichtbar ist](https://blog.vag-freiburg.de/ohne-bus-gehts-nicht-warum-der-busverkehr-unverzichtbar-ist/), VAG Freiburg Blog, 15 Jul 2025 (read in English in Readwise as _Without the Bus, It Doesn't Work_). VAG repeats the same figure in [Was Studien über den ÖPNV in Freiburg sagen](https://blog.vag-freiburg.de/was-studien-ueber-den-oepnv-in-freiburg-sagen/) (31 Oct 2025).
 - **Which MiD wave:** the 2023 wave. AGFK-BW's report on the MiD 2023 Freiburg results gives **car 24 % (down from 33 % in 2017), bike 33 % (up from 23 %), public transport 14 %**; walking rose but its share isn't stated there ([AGFK-BW, 15 Apr 2025](https://www.agfk-bw.de/news/details/freiburg-radelt-davon-spitzenreiter-bei-fahrradnutzung-5272)). VAG notes the 2023 transit share dipped slightly as a Covid after-effect.
 - ⚠️ The walking share isn't in any source read here; 100 − 24 − 33 − 14 implies ~29 %, but that is arithmetic, not a published figure. ⚠️ Different Freiburg surveys give different splits — German Wikipedia's _Radverkehr in Freiburg im Breisgau_ cites bike 31 % / walk 26 % / car 20 % from an undated source — so quote the 76/24 figure as **MiD 2023, trips ("Wege")**, not as "the" modal split.
 
 **85 % within 500 m of a tram stop.** _„Heute wohnen mehr als 85 Prozent aller Freiburger\*innen nicht weiter als 500 Meter von der nächsten Stadtbahnhaltestelle entfernt!"_ — same VAG article (15 Jul 2025). The article's point is what comes next: the tram net _„wäre nicht halb so gut"_ without VAG's **22 bus lines**, which serve the parts of the city outside a tram line's direct catchment.
+
 - ⚠️ VAG gives no method or year for the 85 % figure, and no independent source for it was found.
 - Related: [[Infrastructure/Freiburg Transit — VAG and RVF]] · [[Infrastructure/Freiburg Bike Service Points]]
 
@@ -126,6 +129,7 @@ Source: [Original](https://blog.vag-freiburg.de/stadtbahn-liniennetz-im-wandel-r
 - **Why it matters:** The city is the subject: the article argues that Freiburg's growth can be read straight off its tram map, because of the rule that every new district gets a tram. It's also Jason's home network; his own highlight on the piece reads "Yes! We enjoy the benefits to this day."
 
 ## Destroyed City, Broken Trams: When Freiburg Lay in Ruins — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/zerstoerte-stadt-kaputte-strassenbahnen-als-freiburg-in-truemmern-lag/) · [Readwise highlight](https://read.readwise.io/read/01m5beympjg925xgn5wqc4ftpn)
 
 > It destroyed large parts of the old town, but also districts such as Betzenhausen, Stühlinger, the Mooswald settlement and above all Neuburg.
@@ -135,6 +139,7 @@ Source: [Original](https://blog.vag-freiburg.de/zerstoerte-stadt-kaputte-strasse
 - **Why it matters:** The whole city is the subject: the raid is the event the tram network had to be rebuilt from. The article also exists in Reader as a second copy ("fixed preview"), scanned as the same text.
 
 ## Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben — Saskia Schuh (2026)
+
 Source: [Original](https://www.freiburger-wochenbericht.de/verpackungssteuer-so-laeuft-es-laut-einer-ihk-umfrage-bei-den-freiburger-betrieben/) · [Readwise highlight](https://read.readwise.io/read/01m5brfjn4mg6rf6f0xwk9w815)
 
 > In Freiburg seien die Diskussionen auch deutlich häufiger als in Tübingen oder Konstanz, wo es ebenfalls eine Verpackungssteuer gibt.
@@ -144,6 +149,7 @@ Source: [Original](https://www.freiburger-wochenbericht.de/verpackungssteuer-so-
 - **Why it matters:** The city's own policy is the subject; the comparison with the other two towns frames Freiburg as the harder case.
 
 ## Verdi-Streik: Am Montag fahren in Freiburg keine Busse und Bahnen — Matthias Joers (2026)
+
 Source: [Original](https://www.freiburger-wochenbericht.de/verdi-streik-am-montag-fahren-in-freiburg-keine-busse-und-bahnen/) · [Readwise highlight](https://read.readwise.io/read/01m5c3pvxg8dbakgddscw6zv0w)
 
 > Die Freiburger Verkehrs AG (VAG) wird am Montag, 2. Februar, ganztägig bestreikt.
@@ -153,6 +159,7 @@ Source: [Original](https://www.freiburger-wochenbericht.de/verdi-streik-am-monta
 - **Why it matters:** The whole city's public transport is the subject; the strike shows how much daily life depends on the network the VAG history pieces describe.
 
 ## Germany's "Green" City (with more bikes than cars!) — Not Just Bikes
+
 Source: [Original](https://youtube.com/watch?v=6Vil5KC7Bl0) · [Readwise highlight](https://read.readwise.io/read/01m5cre8ada2akhvetfg3he3th)
 
 > This is Freiburg im Breisgau, a city in the Black Forest.

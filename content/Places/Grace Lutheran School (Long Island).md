@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Grace Lutheran School (Long Island)
-created: 2026-10-21T16:37:29.448Z
-modified: 2026-10-21T16:37:29.448Z
-published: 2026-10-21T16:37:29.448Z
+created: 2026-10-21T16:37:29.000Z
+modified: 2026-10-21T16:37:29.000Z
+published: 2026-10-21T16:37:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - How to Be an Antiracist
@@ -12,10 +16,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Grace Lutheran School (Long Island)
@@ -23,11 +23,13 @@ tags:
 Private Lutheran school on Long Island, New York. It turns up in How to Be an Antiracist (Ibram X. Kendi): Long Island private school visit where seven-year-old Kendi first questions racial staffing.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | setting | Long Island private school visit where seven-year-old Kendi first questions racial staffing. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fms8cbmnawv1g2z8bqedp9)
 
 > A Black woman greeted us at the front door of Grace Lutheran School.

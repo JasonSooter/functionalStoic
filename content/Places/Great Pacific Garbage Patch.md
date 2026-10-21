@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Great Pacific Garbage Patch
-created: 2026-10-21T10:49:00.879Z
-modified: 2026-10-21T10:49:00.879Z
-published: 2026-10-21T10:49:00.879Z
+created: 2026-10-21T10:49:01.000Z
+modified: 2026-10-21T10:49:01.000Z
+published: 2026-10-21T10:49:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 38
   - -145
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Great Pacific Garbage Patch
@@ -28,11 +28,13 @@ tags:
 Zone of floating plastic debris in the North Pacific between Hawaii and California. Not the End of the World uses it to test claims about ocean plastic.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | subject | Ocean plastic: mostly fishing gear (~80%), visited by Charles Moore in 1997. |
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5f0qs251wee91h6xt6tk1vb)
 
 > The ‘Great Pacific Garbage Patch’ – GPGP for short – is located halfway between Hawaii and California.

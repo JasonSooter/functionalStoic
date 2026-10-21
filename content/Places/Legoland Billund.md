@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Legoland Billund
-created: 2026-10-21T11:07:37.021Z
-modified: 2026-10-21T11:07:37.021Z
-published: 2026-10-21T11:07:37.021Z
+created: 2026-10-21T11:07:37.000Z
+modified: 2026-10-21T11:07:37.000Z
+published: 2026-10-21T11:07:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Year of Living Danishly
@@ -17,10 +21,6 @@ icon: book
 location:
   - 55.7356
   - 9.1261
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Billund]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Billund]]"
 LEGO's theme park in Billund, Jutland. In The Year of Living Danishly, Russell attends its end-of-season closing party.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Year of Living Danishly | Helen Russell | setting | Closing party in the rain: holding coats, sparklers, half-working fireworks. |
 
 ## The Year of Living Danishly — Helen Russell (2015)
+
 Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highlight](https://read.readwise.io/read/01m5f1vf6j88a06059znktvtty)
 
 > This is the highlight of the Jutland calendar: the closing of Legoland for winter.

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Vauban
-created: 2026-10-20T13:46:19.000Z
-modified: 2026-10-21T13:38:25.381Z
-published: 2026-10-21T13:38:25.381Z
 aliases:
   - Quartier Vauban
+title: Vauban
+created: 2026-10-20T13:46:19.000Z
+modified: 2026-10-21T13:38:25.000Z
+published: 2026-10-21T13:38:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Germany's "Green" City (with more bikes than cars!)
 categories:
@@ -17,10 +21,6 @@ icon: video
 location:
   - 47.9756
   - 7.825
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg]]"
 ---
 
@@ -29,12 +29,14 @@ within: "[[Freiburg]]"
 Car-light district in the south of [[Freiburg]], Germany, built on a former military base and shown in Not Just Bikes' video on Freiburg as a suburb designed to be green from the start.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Germany's "Green" City (with more bikes than cars!) | Not Just Bikes | subject | Showcase green suburb on a former base. |
 
 ## Germany's "Green" City (with more bikes than cars!) — Not Just Bikes
-Source: [Original](https://youtube.com/watch?v=6Vil5KC7Bl0&si=P6MFMbZXNvggqxGo) · [Readwise highlight](https://read.readwise.io/read/01m5cre9r0k4tzewtgem0kjz93)
+
+Source: [Original](https://youtube.com/watch?v=6Vil5KC7Bl0\&si=P6MFMbZXNvggqxGo) · [Readwise highlight](https://read.readwise.io/read/01m5cre9r0k4tzewtgem0kjz93)
 
 > One great example of this is Vauban, a suburb completed in the early 2000s, that was designed to be environmentally friendly from the start.
 

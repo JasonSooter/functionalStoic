@@ -2,18 +2,18 @@
 publish: true
 title: Washington (state)
 created: 2026-10-20T22:56:01.000Z
-modified: 2026-10-21T13:58:43.583Z
-published: 2026-10-21T13:58:43.583Z
+modified: 2026-10-21T19:39:03.000Z
+published: 2026-10-21T19:39:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Washington (state)
@@ -27,3 +27,4 @@ US state in the Pacific Northwest; see [[Seattle]].
 - [[Hood Canal Bridge]]
 - [[Main Street (Vancouver, Washington)]]
 - [[Mt Baker Ski Area]]
+- [[Pacific Crest Trail Northern Terminus]]

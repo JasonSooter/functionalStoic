@@ -1,12 +1,16 @@
 ---
 publish: true
-title: International Red Cross and Red Crescent Museum
-created: 2026-10-20T01:26:38.000Z
-modified: 2026-10-21T11:11:06.755Z
-published: 2026-10-21T11:11:06.755Z
 aliases:
   - Musée International de la Croix-Rouge et du Croissant-Rouge
   - Red Cross Museum
+title: International Red Cross and Red Crescent Museum
+created: 2026-10-20T01:26:38.000Z
+modified: 2026-10-21T11:11:07.000Z
+published: 2026-10-21T11:11:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 46.2272
   - 6.1369
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Geneva]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Geneva]]"
 Museum of the Red Cross movement near the Palais des Nations in [[Geneva]], Switzerland, one of the few things Bill Bryson praises in Neither Here Nor There.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | The one thing in Geneva Bryson finds surprisingly good. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejt3jxf2bh827sw8ydy12)
 
 > Instead, I noticed on my city map that just up the road was the Musée International de la Croix-Rouge

@@ -2,8 +2,12 @@
 publish: true
 title: Elbeuf
 created: 2026-10-20T04:32:28.000Z
-modified: 2026-10-21T10:52:46.758Z
-published: 2026-10-21T10:52:46.758Z
+modified: 2026-10-21T10:52:47.000Z
+published: 2026-10-21T10:52:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - VCMB Normandy 300k.
@@ -15,10 +19,6 @@ icon: newspaper
 location:
   - 49.29
   - 1.01
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Normandy]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Normandy]]"
 Town on the Seine south of Rouen in [[Normandy]]; in a Mostly Bikes x Me ride report it is where a 17% climb is the hardest part of a 300 km brevet.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | VCMB Normandy 300k. | Mostly Bikes x Me | journey waypoint | The 17% climb out of town is the hardest part of a gentle 300 km brevet. |
 
 ## VCMB Normandy 300k. — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bs711z4g5jpm410wrc0k31)
 
 > Except that corker of a 17% grade coming out of Elbeuf, nothing too intense and a lot less riding in the dark.

@@ -1,12 +1,19 @@
 ---
 publish: true
-title: Germany
-created: 2024-08-10T03:01:42.779Z
-modified: 2026-10-21T10:20:27.896Z
-published: 2026-10-21T10:20:27.896Z
 aliases:
   - Berlin, Germany
   - Berlin
+title: Germany
+created: 2024-08-10T03:01:42.779Z
+modified: 2026-10-21T10:20:28.000Z
+published: 2026-10-21T10:20:28.000Z
+tags:
+  - travel/europe/europe-2023
+  - travel/europe/germany/berlin
+  - travel/europe/germany
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
@@ -24,13 +31,6 @@ locations:
     name: Hamburg
   - coordinates: 54.3039,9.6690
     name: Rendsburg
-tags:
-  - travel/europe/europe-2023
-  - travel/europe/germany/berlin
-  - travel/europe/germany
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Germany
@@ -50,6 +50,7 @@ Germany is a country in central Europe, and it groups the places in Germany that
 ## FAQ
 
 ---
+
 🙋
 ✨
 
@@ -59,9 +60,10 @@ Germany is a country in central Europe, and it groups the places in Germany that
 
 ## Rendsburg High Bridge
 
-![[Rendsburg High Bridge.png]]
+![[Attachments/Rendsburg High Bridge.png]]
 
-#🗓️/2023/10/02 On the way from [[Denmark]] to Hamburg, Germany, we went through Rendsburg. It had a very impressive "High Bridge". This bridge is known as the [Rendsburg High Bridge](https://omni.wikiwand.com/en/articles/Rendsburg_High_Bridge). The bridge was erected between 1911 and 1913. Here are a few good videos of riding through town on the train:
+\#🗓️/2023/10/02 On the way from [[Denmark]] to Hamburg, Germany, we went through Rendsburg. It had a very impressive "High Bridge". This bridge is known as the [Rendsburg High Bridge](https://omni.wikiwand.com/en/articles/Rendsburg_High_Bridge). The bridge was erected between 1911 and 1913. Here are a few good videos of riding through town on the train:
+
 - [The view as we cruised through town](https://youtu.be/OUTb3MffAhY)
 - [A view of the Bridge from various points in town](https://youtu.be/OypqREQnkEw)
 
@@ -84,13 +86,13 @@ Germany is a country in central Europe, and it groups the places in Germany that
 ## Resources Mentioned
 
 - German Museum of Technology (Teknik Museum)
-	- <https://anhalter.technikmuseum.berlin/>
-		- 3D Walk-thru of an old train station in Berlin
+  - <https://anhalter.technikmuseum.berlin/>
+    - 3D Walk-thru of an old train station in Berlin
 - Public Transit
-	- BVG App (City of Berlin)
-	- Deutche Bahn
-		- DB Navigator (mobile app)
-		- [[Trains]] into / out of Germany
+  - BVG App (City of Berlin)
+  - Deutche Bahn
+    - DB Navigator (mobile app)
+    - [[Trains]] into / out of Germany
 
 ## Notes From the Family
 
@@ -126,5 +128,6 @@ Germany is renowned for its cultural events like Oktoberfest, classical composer
 ## Content
 
 ## Sub-places
+
 - [[Lower Saxony]]
 - [[Schleswig-Holstein]]

@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Ireland
-created: 2026-10-19T14:06:43.000Z
-modified: 2026-10-21T16:38:40.119Z
-published: 2026-10-21T16:38:40.119Z
 aliases:
   - Republic of Ireland
   - Éire
+title: Ireland
+created: 2026-10-19T14:06:43.000Z
+modified: 2026-10-21T16:38:40.000Z
+published: 2026-10-21T16:38:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Simple Path to Wealth
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 53
   - -8
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Ireland
@@ -30,6 +30,7 @@ tags:
 Island country in north-west Europe. It shows up in the reading in JL Collins's The Simple Path to Wealth, where he spends a six-week leave cycling around Ireland and Wales, and as the parent of several literary places.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Simple Path to Wealth | JL Collins | journey waypoint | Six-week cycling trip funded by his first F-You Money. |
@@ -41,6 +42,7 @@ Island country in north-west Europe. It shows up in the reading in JL Collins's 
 - [[River Barrow]]
 
 ## The Simple Path to Wealth — JL Collins (2016)
+
 Source: [Original](https://openlibrary.org/works/OL20916711W) · [Readwise highlight](https://read.readwise.io/read/01m5fmt9ahxn2f0wd0gc82eh2j)
 
 > we agreed on a six-week leave which I spent riding my bicycle around Ireland and Wales.

@@ -2,8 +2,12 @@
 publish: true
 title: Amazon rainforest
 created: 2026-10-21T04:45:05.000Z
-modified: 2026-10-21T10:33:45.188Z
-published: 2026-10-21T10:33:45.188Z
+modified: 2026-10-21T10:33:45.000Z
+published: 2026-10-21T10:33:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - -3
   - -60
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brazil]]"
 ---
 
@@ -29,12 +29,14 @@ within: "[[Brazil]]"
 Rainforest region across northern [[Brazil]], the central case in Hannah Ritchie's Not the End of the World on deforestation.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | subject | The chapter debunks the 'lungs of the Earth' claim, then lays out the real loss: about 20% of the Brazilian Amazon, 11% overall. |
 | [[Not the End of the World]] | Hannah Ritchie | subject | Brazilian beef is blamed for a quarter of global deforestation; Brazil's soy is mostly animal feed, so tofu and soy milk are not the cause. |
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5ebvnr1wy6tzppfkm03hn64)
 
 > Pre-1970, the Brazilian Amazon spanned 4.1 million km2; today, that stands at 3.3 million km2.
@@ -44,6 +46,7 @@ Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works
 - **Why it matters:** The Amazon is the central subject of the deforestation chapter's first half and the test case for whether deforestation can be ended quickly.
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5edgvftn8et2d2wfp9ng299)
 
 > Brazil is home to the Amazon. The Amazon is being cut down.

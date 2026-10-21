@@ -1,14 +1,17 @@
 ---
 publish: true
-title: St Martins Therme & Lodge
-created: 2026-10-21T16:38:03.147Z
-modified: 2026-10-21T16:38:03.147Z
-published: 2026-10-21T16:38:03.147Z
 aliases:
   - St. Martins Therme & Lodge
+title: St Martins Therme & Lodge
+created: 2026-10-21T16:38:03.000Z
+modified: 2026-10-21T16:38:03.000Z
+published: 2026-10-21T16:38:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New
-    York Times
+  - Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +21,6 @@ icon: newspaper
 location:
   - 47.808
   - 16.9178
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austria]]"
 ---
 
@@ -30,11 +29,13 @@ within: "[[Austria]]"
 Thermal spa and lodge beside a shallow lake in Frauenkirchen, Burgenland, about an hour southeast of Vienna. It turns up in Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times (Valeriya Safronova): main setting: the Austrian spa where the writer first goes nude in a mixed sauna.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times | Valeriya Safronova | setting | Main setting: the Austrian spa where the writer first goes nude in a mixed sauna. |
 
 ## Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times — Valeriya Safronova (2024)
+
 Source: [Original](https://www.nytimes.com/2024/02/26/travel/nude-spas-saunas-europe.html) · [Readwise highlight](https://read.readwise.io/read/01m5fmqg2382sez9tmm67bf8dv)
 
 > in Frauenkirchen, a small town about an hour southeast of Vienna. St. Martins stands next to a serene, shallow lake where guests can swim in the summer or take a cold plunge in winter.

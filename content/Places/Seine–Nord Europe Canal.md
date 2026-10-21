@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Seine–Nord Europe Canal
-created: 2026-10-20T10:43:14.000Z
-modified: 2026-10-21T11:18:44.867Z
-published: 2026-10-21T11:18:44.867Z
 aliases:
   - Canal Seine-Nord Europe
+title: Seine–Nord Europe Canal
+created: 2026-10-20T10:43:14.000Z
+modified: 2026-10-21T11:18:45.000Z
+published: 2026-10-21T11:18:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The €7BN Mega-Canal That Will Reshape Europe
 categories:
@@ -18,10 +22,6 @@ icon: video
 location:
   - 49.4149
   - 2.8231
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[France]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[France]]"
 107-km canal under construction in northern [[France]], between the Oise near Compiègne and the Canal Dunkerque–Escaut, and the subject of The B1M's video on the mega-canal.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The €7BN Mega-Canal That Will Reshape Europe]] | The B1M | subject | A mega-canal for barges seven times bigger than today's. |
 
 ## The €7BN Mega-Canal That Will Reshape Europe — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=VdWQQ1OCUPo) · [Readwise highlight](https://read.readwise.io/read/01m5ce8pgc9fdrgjgsn7c3938a)
 
 > With a 107 km length and 54 m width, the Senord Europe canal is considerably longer and wider than its predecessor.

@@ -2,8 +2,12 @@
 publish: true
 title: Colorado River
 created: 2026-10-21T05:07:09.000Z
-modified: 2026-10-21T10:51:42.583Z
-published: 2026-10-21T10:51:42.583Z
+modified: 2026-10-21T10:51:43.000Z
+published: 2026-10-21T10:51:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Final Sprint
@@ -11,17 +15,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.4722,-105.8261
-geo_note: approximate (river source in Rocky Mountain National Park, per article source
-  coordinates)
+geo_note: approximate (river source in Rocky Mountain National Park, per article source coordinates)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 40.4722
   - -105.8261
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -30,11 +29,13 @@ within: "[[Colorado]]"
 River running through [[Colorado]] and the American West, which a congressman's article cites in backing a bill against invasive zebra mussels.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Final Sprint | Congressman Joe Neguse | subject | The river is the subject of the Stop the Spread of Invasive Mussels Act. |
 
 ## The Final Sprint — Congressman Joe Neguse (2024)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5edgjkznfh9cycqjn3y83sq)
 
 > This legislation will help work to prevent invasive species like the Zebra Mussels from eroding the Colorado River and water sources across the West.

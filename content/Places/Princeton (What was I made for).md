@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Princeton (What was I made for)
-created: 2026-10-21T16:37:16.252Z
-modified: 2026-10-21T16:37:16.252Z
-published: 2026-10-21T16:37:16.252Z
 aliases:
   - Princeton
+title: Princeton (What was I made for)
+created: 2026-10-21T16:37:16.000Z
+modified: 2026-10-21T16:37:16.000Z
+published: 2026-10-21T16:37:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - What was I made for? (allie's version)
 categories:
@@ -13,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 40.3582,-74.6667
-geo_note: "inferred: the essay names Princeton but not the state; Princeton, New Jersey\
-  \ is the likeliest"
+geo_note: "inferred: the essay names Princeton but not the state; Princeton, New Jersey is the likeliest"
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 40.3582
   - -74.6667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Jersey]]"
 ---
 
@@ -32,11 +31,13 @@ within: "[[New Jersey]]"
 Borough and university town in Mercer County, New Jersey. It turns up in What was I made for? (allie's version) (Allie Walsh): college town where the author teaches evenings and imagines a teaching career.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What was I made for? (allie's version) | Allie Walsh | setting | College town where the author teaches evenings and imagines a teaching career. |
 
 ## What was I made for? (allie's version) — Allie Walsh
+
 Source: [Original](https://www.thecolorinanything.com/post/what-was-i-made-for) · [Readwise highlight](https://read.readwise.io/read/01m5fmpwjx1vymea7hsjjaayp9)
 
 > at night I teach small classes at an after-school academic program here in Princeton.

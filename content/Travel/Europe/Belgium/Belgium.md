@@ -1,11 +1,17 @@
 ---
 publish: true
-title: Belgium
-created: 2026-10-21T04:45:29.697Z
-modified: 2026-10-21T10:20:40.143Z
-published: 2026-10-21T10:20:40.143Z
 aliases:
   - Belgium (literary places)
+title: Belgium
+created: 2026-10-21T04:45:29.697Z
+modified: 2026-10-21T10:20:40.000Z
+published: 2026-10-21T10:20:40.000Z
+tags:
+  - travel/europe/europe-2023
+  - travel/europe/belgium
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
@@ -21,12 +27,6 @@ locations:
     name: Antwerp
   - coordinates: 51.0891,4.3664
     name: Boom
-tags:
-  - travel/europe/europe-2023
-  - travel/europe/belgium
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Belgium
@@ -47,6 +47,7 @@ Belgium is a country in Europe, and it groups the places in Belgium that show up
 ## FAQ
 
 ---
+
 🙋
 ✨
 

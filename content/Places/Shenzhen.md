@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Shenzhen
-created: 2026-10-21T02:13:11.000Z
-modified: 2026-10-21T11:19:20.779Z
-published: 2026-10-21T11:19:20.779Z
 aliases:
   - Shenzhen special economic zone
+title: Shenzhen
+created: 2026-10-21T02:13:11.000Z
+modified: 2026-10-21T11:19:21.000Z
+published: 2026-10-21T11:19:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Breakneck
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 22.5467
   - 114.0544
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -30,16 +30,19 @@ within: "[[China]]"
 Megacity in Guangdong, [[China]], bordering Hong Kong, and the central case in Dan Wang's Breakneck for technology as process knowledge.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | subject | Chapter 3 opens on Shenzhen as an oyster-farming backwater in 1980, before Deng Xiaoping made it a special economic zone. |
 
 ## Sub-places
+
 - [[Foxconn Longhua campus]]
 - [[Huaqiangbei]]
 - [[Longgang District]]
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dqytr5kjprqpcj96r2wk6q)
 
 > In 1980, Shenzhen was best known for its oysters.

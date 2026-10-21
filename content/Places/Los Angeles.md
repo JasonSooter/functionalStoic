@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Los Angeles
-created: 2026-10-20T04:23:33.000Z
-modified: 2026-10-21T13:56:08.963Z
-published: 2026-10-21T13:56:08.963Z
 aliases:
   - LA
+title: Los Angeles
+created: 2026-10-20T04:23:33.000Z
+modified: 2026-10-21T13:56:09.000Z
+published: 2026-10-21T13:56:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Los Angeles

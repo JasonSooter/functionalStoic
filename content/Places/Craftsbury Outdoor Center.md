@@ -2,8 +2,12 @@
 publish: true
 title: Craftsbury Outdoor Center
 created: 2026-10-21T04:45:03.000Z
-modified: 2026-10-21T10:52:31.965Z
-published: 2026-10-21T10:52:31.965Z
+modified: 2026-10-21T10:52:32.000Z
+published: 2026-10-21T10:52:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - ‘Snow Farming’ Is Making Spring Skiing More Sustainable
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 44.6803
   - -72.3635
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vermont]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Vermont]]"
 Outdoor center in northern [[Vermont]] that stores snow under wood chips over the summer, the North American example in an article on snow farming.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | ‘Snow Farming’ Is Making Spring Skiing More Sustainable | Jennifer Cole | subject | Craftsbury stores harvested snow under wood chips over the summer, which keeps 65 to 70 percent of it. |
 
 ## ‘Snow Farming’ Is Making Spring Skiing More Sustainable — Jennifer Cole (2025)
+
 Source: [Original](https://reasonstobecheerful.world/snow-farming-ski-areas/) · [Readwise highlight](https://read.readwise.io/read/01m5ebpea8ebpwfnktgjxc447z)
 
 > This method is not widespread in North America, but it has grabbed the interest of a few places, including the Craftsbury Outdoor Center in Vermont.

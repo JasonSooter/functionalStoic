@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Chicago
-created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-21T10:51:57.077Z
-published: 2026-10-21T10:51:57.077Z
 aliases:
   - Chicawgo
+title: Chicago
+created: 2026-10-20T10:42:40.000Z
+modified: 2026-10-21T19:39:06.000Z
+published: 2026-10-21T19:39:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Big Boy Leaves Home]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 41.8819
   - -87.6278
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Illinois]]"
 ---
 
@@ -29,15 +29,20 @@ within: "[[Illinois]]"
 City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Richard Wright's story Big Boy Leaves Home.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Big Boy Leaves Home]] | Richard Wright | turning point | The escape route north, never reached on the page. |
 
 ## Sub-places
+
 - [[Chicago Union Station]]
+- [[Richard Bennett Custom Tailors]]
+- [[Standard Club (Chicago)]]
 - [[Wicker Park]]
 
 ## Big Boy Leaves Home — Richard Wright (1936)
+
 Source: [[Big Boy Leaves Home]] · [Readwise highlight](https://read.readwise.io/read/01m5ce6rfc05qq7wymntgd6278)
 
 > Mah son, Will, the one whut drives fer the Magnolia Express Comny, is taking a truck o goods t Chicawgo in the mawnin.

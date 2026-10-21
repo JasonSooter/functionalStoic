@@ -2,8 +2,12 @@
 publish: true
 title: Longyearbyen
 created: 2026-10-20T01:38:36.000Z
-modified: 2026-10-21T11:19:21.959Z
-published: 2026-10-21T11:19:21.959Z
+modified: 2026-10-21T11:19:22.000Z
+published: 2026-10-21T11:19:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - How long could you drive towards the sunset?
@@ -16,10 +20,6 @@ icon: video
 location:
   - 78.217
   - 15.633
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Norway]]"
 ---
 
@@ -35,6 +35,7 @@ Main settlement of Svalbard, [[Norway]], high in the Arctic, used by xkcd's What
 | [[Can You Drive West to Lengthen the Sunset\|Can you drive west to lengthen the sunset?]] | xkcd's What If? | backdrop | The same benchmark in the video version. |
 
 ## How long could you drive towards the sunset? — xkcd's What If? (2026)
+
 Source: [Original](https://www.youtube.com/shorts/rGZ6TsXvi8E) · [Readwise highlight](https://read.readwise.io/read/01m5beythqvrhwrb1rw37tp4x9)
 
 > The closest road that qualifies is probably in Longyearbyen, on the island of Svalbard, Norway.
@@ -44,6 +45,7 @@ Source: [Original](https://www.youtube.com/shorts/rGZ6TsXvi8E) · [Readwise high
 - **Why it matters:** Longyearbyen is the first test case and the benchmark the better route beats; the real answer isn't tied to one named place.
 
 ## Can you drive west to lengthen the sunset? — xkcd's What If? (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=U8F7UNK9jco) · [Readwise highlight](https://read.readwise.io/read/01m5crexmqec8ccvh9bqy5qkh7)
 
 > The closest road that qualifies is probably in Longerbian on the island of Spalbard, Norway. The longest sunset there lasts just under an hour.

@@ -2,8 +2,12 @@
 publish: true
 title: Montpellier
 created: 2026-10-20T04:32:13.000Z
-modified: 2026-10-21T11:20:18.127Z
-published: 2026-10-21T11:20:18.127Z
+modified: 2026-10-21T11:20:18.000Z
+published: 2026-10-21T11:20:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Montpellier
@@ -15,10 +19,6 @@ icon: newspaper
 location:
   - 43.6119
   - 3.8772
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Occitania]]"
 ---
 
@@ -27,14 +27,17 @@ within: "[[Occitania]]"
 City in the Hérault near France's Mediterranean coast, in [[Occitania]]. It features in a Mostly Bikes x Me photo post as a hilly city taking up cargo bikes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Montpellier\|Montpellier]] | Mostly Bikes x Me | subject | A Brompton day out in a hilly city that is taking up cargo bikes. |
 
 ## Sub-places
+
 _None yet._
 
 ## Montpellier — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bs6th268dve2m0s4gbh3dq)
 
 > Grabbed the Bromptons and caught the train to Montpellier for some city time. It’s a hilly place, but Montpellier is doing the cargo bike thing.

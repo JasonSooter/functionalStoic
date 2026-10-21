@@ -2,8 +2,12 @@
 publish: true
 title: Silicon Valley
 created: 2026-10-20T19:39:23.000Z
-modified: 2026-10-21T16:38:26.599Z
-published: 2026-10-21T16:38:26.599Z
+modified: 2026-10-21T16:38:27.000Z
+published: 2026-10-21T16:38:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Breakneck
@@ -18,10 +22,6 @@ icon: book
 location:
   - 37.4049
   - -122.1111
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -30,12 +30,14 @@ within: "[[California]]"
 Region of the San Francisco Peninsula and Santa Clara Valley in [[California]], the rich but drab foil to China's building in Dan Wang's Breakneck.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | setting | Rich, drab and dysfunctional, the foil to China’s building. |
 | How Silicon Valley made me think small | Steli Efti | subject | The mythologised startup hub that taught the author to think small but act bigger. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dcn9b7aw00ycv2w2cc18pg)
 
 > Silicon Valley can be an amazingly drab place.
@@ -45,6 +47,7 @@ Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highl
 - **Why it matters:** Frames the book's question of why the richest tech hub is surrounded by dysfunction while China builds.
 
 ## How Silicon Valley made me think small — Steli Efti
+
 Source: [Original](http://blog.close.io/think-small) · [Readwise highlight](https://read.readwise.io/read/01m5fmrjhq2qagm3jnjkcpy1vx)
 
 > Silicon Valley made me think smaller, but act bigger.

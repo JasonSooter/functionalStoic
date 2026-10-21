@@ -2,8 +2,12 @@
 publish: true
 title: Sylvia's house (Another Brooklyn)
 created: 2026-10-21T04:46:10.000Z
-modified: 2026-10-21T16:25:31.897Z
-published: 2026-10-21T16:25:31.897Z
+modified: 2026-10-21T16:25:32.000Z
+published: 2026-10-21T16:25:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -12,17 +16,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 40.697,-73.917
-geo_note: "best-guess: Sylvia's house pinned at Bushwick, Brooklyn (house unspecified);\
-  \ see Where is it? (Neighbourhood centroid; house location not given.)"
+geo_note: "best-guess: Sylvia's house pinned at Bushwick, Brooklyn (house unspecified); see Where is it? (Neighbourhood centroid; house location not given.)"
 geo_source: Wikipedia (en) Bushwick, Brooklyn
 icon: book
 location:
   - 40.697
   - -73.917
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bushwick]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Bushwick]]"
 Fictional house in _Another Brooklyn_, pinned at a best-guess location within [[Bushwick]]. It is the well-kept middle-class home where the narrator and her friends feel out of place.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | setting | The narrator and her friends visit Sylvia's well-kept house, feeling out of place among the china plates and rules. |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Original](https://openlibrary.org/books/OL26886751M/Another_Brooklyn) · [Readwise highlight](https://read.readwise.io/read/01m5ebwt12jm5vmz75bjw2gtke)
 
 > There was a pool table in the basement, a refrigerator that dispensed ice.

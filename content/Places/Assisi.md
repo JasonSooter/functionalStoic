@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Assisi
-created: 2026-10-21T10:48:39.073Z
-modified: 2026-10-21T10:48:39.073Z
-published: 2026-10-21T10:48:39.073Z
+created: 2026-10-21T10:48:39.000Z
+modified: 2026-10-21T10:48:39.000Z
+published: 2026-10-21T10:48:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - A one-day bike ride from Spoleto to Assisi in central Italy
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 43.0758
   - 12.6175
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Umbria]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Umbria]]"
 Hill town in Umbria, Italy, home of the Basilica of St Francis. It is the destination of a one-day bike ride from Spoleto.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A one-day bike ride from Spoleto to Assisi in central Italy | alliumstozinnias | turning point | Destination after a steep climb on foot; a glance into the basilica in bike shorts. |
 
 ## A one-day bike ride from Spoleto to Assisi in central Italy — alliumstozinnias (2024)
+
 Source: [Original](https://exploringbybike.com/2024/10/13/a-one-day-bike-ride-from-spoleto-to-assisi-in-central-italy/) · [Readwise highlight](https://read.readwise.io/read/01m5f0py69j9artaefhe0wtyf5)
 
 > Assisi, I realized when I finally finished the climb, is probably best appreciated in the evening, after the tourist buses have left.

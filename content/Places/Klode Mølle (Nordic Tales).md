@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Klode Mølle (Nordic Tales)
-created: 2026-10-21T16:38:03.895Z
-modified: 2026-10-21T16:38:03.895Z
-published: 2026-10-21T16:38:03.895Z
 aliases:
   - Klode Mill
   - Lysgaard
+title: Klode Mølle (Nordic Tales)
+created: 2026-10-21T16:38:04.000Z
+modified: 2026-10-21T16:38:04.000Z
+published: 2026-10-21T16:38:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Nordic Tales
 categories:
@@ -14,17 +18,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 56.1977,9.3181
-geo_note: "inferred: the tale names Klode Mill in the district of Lysgaard; pin is\
-  \ the Klode Mølle hamlet (alt. Lysgård village)"
+geo_note: "inferred: the tale names Klode Mill in the district of Lysgaard; pin is the Klode Mølle hamlet (alt. Lysgård village)"
 geo_source: OSM node 8874921287
 icon: book
 location:
   - 56.1977
   - 9.3181
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jutland]]"
 ---
 
@@ -33,11 +32,13 @@ within: "[[Jutland]]"
 Hamlet of Klode Mølle in central Jutland, in the historic Lysgård district. It turns up in Nordic Tales (Chronicle Books): Jutland heath district near Klode Mill where Toller's cottage stands beside the Mount-folk's grave-mounds.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Nordic Tales | Chronicle Books | setting | Jutland heath district near Klode Mill where Toller's cottage stands beside the Mount-folk's grave-mounds. |
 
 ## Nordic Tales — Chronicle Books (2019)
+
 Source: [Original](https://chroniclebooks.com/products/nordic-tales) · [Readwise highlight](https://read.readwise.io/read/01m5fmszj9nywkte1evsf4zpgw)
 
 > a mansion down near Klode Mill, in the district of Lysgaard.

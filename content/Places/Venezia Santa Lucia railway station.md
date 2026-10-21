@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Venezia Santa Lucia railway station
-created: 2026-10-20T07:53:23.000Z
-modified: 2026-10-21T13:38:39.686Z
-published: 2026-10-21T13:38:39.686Z
 aliases:
   - Santa Lucia station
+title: Venezia Santa Lucia railway station
+created: 2026-10-20T07:53:23.000Z
+modified: 2026-10-21T13:38:40.000Z
+published: 2026-10-21T13:38:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Death in Venice]]"
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - 45.4408
   - 12.3208
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Venice]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Venice]]"
 Venice's railway terminus at the head of the Grand Canal, opened in 1861, in [[Venice]]; in Thomas Mann's Death in Venice it is where a misrouted trunk makes Aschenbach abandon his departure.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Death in Venice]] | Thomas Mann | turning point | A misrouted trunk gives Aschenbach his excuse to stay. |
 
 ## Death in Venice — Thomas Mann (1912)
+
 Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5c4pwcr9t53w6kwf09yh5nq)
 
 > He entered the station racked by indecision.

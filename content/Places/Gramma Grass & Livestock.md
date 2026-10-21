@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Gramma Grass & Livestock
-created: 2026-10-21T10:48:58.869Z
-modified: 2026-10-21T10:48:58.869Z
-published: 2026-10-21T10:48:58.869Z
+created: 2026-10-21T10:48:59.000Z
+modified: 2026-10-21T10:48:59.000Z
+published: 2026-10-21T10:48:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Front Range Rail Funding & Special Guests In Our District!
@@ -12,10 +16,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -24,11 +24,13 @@ within: "[[Colorado]]"
 Farm near Longmont, Colorado, practising regenerative agriculture. Neguse hosted the USDA Deputy Secretary there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Front Range Rail Funding & Special Guests In Our District! | Congressman Joe Neguse | setting | Neguse hosts the USDA Deputy Secretary at this Longmont farm to talk regenerative farming. |
 
 ## Front Range Rail Funding & Special Guests In Our District! — Congressman Joe Neguse (2024)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5f0p7nhrxvwvnq11tkr9mb4)
 
 > Also recently, I hosted the U.S. Department of Agriculture's Deputy Secretary Xochitl Torres Small in Longmont at a local farm, Gramma Grass & Livestock, to discuss local regenerative agriculture efforts and our work to support small farmers and ranchers.

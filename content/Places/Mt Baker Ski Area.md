@@ -2,8 +2,12 @@
 publish: true
 title: Mt. Baker Ski Area
 created: 2026-10-21T05:10:43.000Z
-modified: 2026-10-21T11:22:24.101Z
-published: 2026-10-21T11:22:24.101Z
+modified: 2026-10-21T11:22:24.000Z
+published: 2026-10-21T11:22:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - ‘Snow Farming’ Is Making Spring Skiing More Sustainable
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 48.862
   - -121.654
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington (state)]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Washington (state)]]"
 Ski area in [[Washington (state)|Washington State]], USA. It is a supporting example in an article on snow farming, where wood chips are spread to insulate farmed snow.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | ‘Snow Farming’ Is Making Spring Skiing More Sustainable | Jennifer Cole | subject | Trowbridge describes spreading wood chips four to eight inches deep on high-traffic areas to insulate farmed snow. |
 
 ## ‘Snow Farming’ Is Making Spring Skiing More Sustainable — Jennifer Cole (2025)
+
 Source: [Original](https://reasonstobecheerful.world/snow-farming-ski-areas/) · [Readwise highlight](https://read.readwise.io/read/01m5ebpct0k6d49szdyc19zksx)
 
 > in Washington State, General Manager Mike Trowbridge believes a little insurance goes a long way in making sure the snow farmed from the mountain’s parking lots and high alpine lasts.

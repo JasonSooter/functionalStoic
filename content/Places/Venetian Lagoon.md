@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Venetian Lagoon
-created: 2026-10-21T11:08:16.915Z
-modified: 2026-10-21T13:38:38.422Z
-published: 2026-10-21T13:38:38.422Z
+created: 2026-10-21T11:08:17.000Z
+modified: 2026-10-21T13:38:38.000Z
+published: 2026-10-21T13:38:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Crazy Engineering of Venice
@@ -17,10 +21,6 @@ icon: video
 location:
   - 45.4131
   - 12.2972
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Venice]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Venice]]"
 Lagoon off the Adriatic coast in which [[Venice]] stands, which appears in Primal Space's video on Venice's engineering as the marshy islands where refugees from the Huns settled in 452.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Crazy Engineering of Venice | Primal Space | turning point | Refugees flee the Huns to marshy islands that need pile foundations. |
 
 ## The Crazy Engineering of Venice — Primal Space (2024)
+
 Source: [Original](https://www.youtube.com/watch?v=77omYd0JOeA) · [Readwise highlight](https://read.readwise.io/read/01m5f1xrrf4nsqtks95trqzhgm)
 
 > They head for a lagoon just off the coast and take refuge on several small islands

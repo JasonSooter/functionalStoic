@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Aachen Cathedral
-created: 2026-10-19T22:23:50.000Z
-modified: 2026-10-21T10:32:17.967Z
-published: 2026-10-21T10:32:17.967Z
 aliases:
   - Aachener Dom
   - Aachen Cathedral Treasury
   - Schatzkammer
+title: Aachen Cathedral
+created: 2026-10-19T22:23:50.000Z
+modified: 2026-10-21T10:32:18.000Z
+published: 2026-10-21T10:32:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 50.7748
   - 6.0839
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Aachen]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Aachen]]"
 Charlemagne's octagonal palace chapel and its treasury (Schatzkammer), in the centre of [[Aachen]], which is the high point of Bill Bryson's Aachen-and-Cologne chapter in Neither Here Nor There.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | The reason Bryson goes to Aachen, and a small, dark cathedral that outshines Cologne's. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b43hbvh9y3kz302taxrama)
 
 > Next door was the octagonal cathedral, modeled on the church of San Vitale at Ravenna, and all that remains of a palace complex mostly destroyed during the Second World War.

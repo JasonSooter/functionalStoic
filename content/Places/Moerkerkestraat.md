@@ -2,8 +2,12 @@
 publish: true
 title: Moerkerkestraat
 created: 2026-10-21T02:07:25.000Z
-modified: 2026-10-21T11:23:39.354Z
-published: 2026-10-21T11:23:39.354Z
+modified: 2026-10-21T11:23:39.000Z
+published: 2026-10-21T11:23:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - In the Netherlands, Anyone Can Turn a Slice of Sidewalk Into a Garden
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 51.2071
   - 3.2364
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bruges]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Bruges]]"
 Street in [[Bruges]], Netherlands. It is the second street in an article on tile-lifting that turns sidewalks into gardens.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[In the Netherlands, Anyone Can Turn a Slice of Sidewalk Into a Garden]] | Klaus Sieg | setting | Cato de Beer and her neighbours hold a second tile-lifting day here; dock workers once lived in the 1920s terraced houses. |
 
 ## In the Netherlands, Anyone Can Turn a Slice of Sidewalk Into a Garden — Klaus Sieg (2025)
+
 Source: [Original](https://reasonstobecheerful.world/netherlands-tegelwippen-flowerbeds/) · [Readwise highlight](https://read.readwise.io/read/01m5e2z345bb20chbjj458nd4g)
 
 > With her reddish-blonde hair tucked under her washed-out cap, the young woman stands in Moerkerkestrat and looks on contentedly at the goings-on of her neighbors

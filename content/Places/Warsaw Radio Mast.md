@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Warsaw Radio Mast
-created: 2026-10-20T16:26:13.000Z
-modified: 2026-10-21T13:37:37.912Z
-published: 2026-10-21T13:37:37.912Z
 aliases:
   - Konstantynów radio mast
+title: Warsaw Radio Mast
+created: 2026-10-20T16:26:13.000Z
+modified: 2026-10-21T13:37:38.000Z
+published: 2026-10-21T13:37:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Bizarre Bases of Antenna Towers
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 52.3678
   - 19.8025
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Poland]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Poland]]"
 Former longwave radio mast at Konstantynów near Gąbin, central [[Poland]], the tallest structure on Earth from 1974 until its collapse in 1991; it appears in the reading as the opening example of a piece on guyed-tower bases.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Bizarre Bases of Antenna Towers | Practical Engineering | subject | The record-breaking mast that fell when its guy wires were swapped in the wrong order. |
 
 ## The Bizarre Bases of Antenna Towers — Practical Engineering (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/10/7/the-bizarre-bases-of-antenna-towers) · [Readwise highlight](https://read.readwise.io/read/01m5d206yfx6js2rwy01p21318)
 
 > Soaring to 646 meters or 2,120 feet, the Warsaw Radio Mast was built to broadcast radio programs to Polish-speaking audiences across Europe.

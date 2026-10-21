@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Gigafactory Shanghai
-created: 2026-10-20T22:54:39.000Z
-modified: 2026-10-21T11:10:11.900Z
-published: 2026-10-21T11:10:11.900Z
 aliases:
   - Giga Shanghai
   - Lingang
   - Tesla Gigafactory Shanghai
+title: Gigafactory Shanghai
+created: 2026-10-20T22:54:39.000Z
+modified: 2026-10-21T11:10:12.000Z
+published: 2026-10-21T11:10:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Breakneck
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 30.8702
   - 121.7688
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Shanghai]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Shanghai]]"
 Tesla's car plant in Lingang, [[Shanghai]], which Dan Wang's Breakneck cites as China using a foreign firm to push domestic rivals such as BYD.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | turning point | Tesla's wholly owned Shanghai plant began rolling out cars in 2019; BYD's sales fell 11 percent and profits 42 percent. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dqz0g20v79anc4nbg07rze)
 
 > Beijing did something unprecedented for Tesla in 2018: It allowed the company to fully own its plant in Shanghai.

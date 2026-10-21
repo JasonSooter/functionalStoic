@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Cava (Memba)
-created: 2026-10-20T22:55:41.000Z
-modified: 2026-10-21T10:33:17.564Z
-published: 2026-10-21T10:33:17.564Z
 aliases:
   - Cava health center
   - Cava mission
+title: Cava (Memba)
+created: 2026-10-20T22:55:41.000Z
+modified: 2026-10-21T10:33:18.000Z
+published: 2026-10-21T10:33:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[How I Learned to Understand the World]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - -14.1748
   - 40.268
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mozambique]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Mozambique]]"
 Village in Memba district, Nampula province, [[Mozambique]], where Hans Rosling investigated the paralysing konzo epidemic in 1981, as told in his memoir.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | turning point | A note from Sister Lucia summons Rosling to Cava in 1981, where some thirty women and children lie paralysed on mats. |
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
+
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5dqzhegr3p2nptyxy858ttb)
 
 > Sister Lucia worked in a small Catholic mission, based in the health center in a remote place called Cava.

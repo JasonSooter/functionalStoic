@@ -2,18 +2,18 @@
 publish: true
 title: Illinois
 created: 2026-10-20T10:42:23.000Z
-modified: 2026-10-21T16:39:27.586Z
-published: 2026-10-21T16:39:27.586Z
+modified: 2026-10-21T16:39:28.000Z
+published: 2026-10-21T16:39:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Illinois

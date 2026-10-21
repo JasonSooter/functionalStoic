@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Diocletian's Palace
-created: 2026-10-20T01:28:28.000Z
-modified: 2026-10-21T10:51:59.245Z
-published: 2026-10-21T10:51:59.245Z
 aliases:
   - Split old town
+title: Diocletian's Palace
+created: 2026-10-20T01:28:28.000Z
+modified: 2026-10-21T10:51:59.000Z
+published: 2026-10-21T10:51:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - 43.5083
   - 16.44
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Split]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Split]]"
 The Roman emperor's palace whose walls hold the old town of [[Split]], Croatia, which Bill Bryson praises in _Neither Here Nor There_ as a palace turned into a town by squatters.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | A Roman palace turned into a town by squatters: "no place else in Europe quite like it". |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5beke5xm03fqhjj4qy442g6)
 
 > I wandered along the quayside looking at the sailboats, then ventured into the sun-warmed lanes and courtyards that form the heart of Split.

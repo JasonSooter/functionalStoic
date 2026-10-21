@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Flagstaff
-created: 2026-10-20T22:51:56.000Z
-modified: 2026-10-21T10:51:05.852Z
-published: 2026-10-21T10:51:05.852Z
 aliases:
   - Flagstaff, Arizona
   - Lowell Observatory
+title: Flagstaff
+created: 2026-10-20T22:51:56.000Z
+modified: 2026-10-21T10:51:06.000Z
+published: 2026-10-21T10:51:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The vanishing groves
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 35.1806
   - -111.62
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Arizona]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Arizona]]"
 City on the Colorado Plateau in [[Arizona]], home of Lowell Observatory. It is where A. E. Douglass began studying ponderosa tree rings around 1901, the birth of dendrochronology in Ross Andersen's essay.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The vanishing groves | Ross Andersen | turning point | Around 1901 A. E. Douglass studied ponderosa pines near his observatory in Flagstaff. |
 
 ## The vanishing groves — Ross Andersen (2013)
+
 Source: [Original](https://aeon.co/essays/trees-of-deep-time-are-a-portal-to-the-past-and-the-future) · [Readwise highlight](https://read.readwise.io/read/01m5dqtaw466w0p0bx3ejfytnz)
 
 > By 1901 AE Douglass was tiring of Lowell’s eccentricities, especially his obsession with Martian canals — an obsession that eventually led to a falling out between the two men. Douglass was also keen to test his theory of sunspots and trees, and so he began studying tree rings in old stands of ponderosa pine near his observatory in Flagstaff, Arizona.

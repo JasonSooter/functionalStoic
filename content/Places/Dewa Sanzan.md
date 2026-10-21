@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Dewa Sanzan
-created: 2026-10-21T11:07:19.621Z
-modified: 2026-10-21T11:07:19.621Z
-published: 2026-10-21T11:07:19.621Z
+created: 2026-10-21T11:07:20.000Z
+modified: 2026-10-21T11:07:20.000Z
+published: 2026-10-21T11:07:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[[RIDGELINE] TBOT Cover and Three Mountains in Yamagata]]"
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 38.7003
   - 140.0003
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Japan]]"
 ---
 
@@ -29,12 +29,14 @@ within: "[[Japan]]"
 Three sacred mountains (Haguro, Gassan, Yudono) in Yamagata, Japan. Craig Mod was to join a yamabushi course there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[[RIDGELINE] TBOT Cover and Three Mountains in Yamagata]] | Craig Mod | subject | A missed yamabushi course; a friend's week-long training on the three mountains. |
+| \[\[\[RIDGELINE] TBOT Cover and Three Mountains in Yamagata]] | Craig Mod | subject | A missed yamabushi course; a friend's week-long training on the three mountains. |
 
-## [RIDGELINE] TBOT Cover and Three Mountains in Yamagata — Craig Mod (2024)
-Source: [[[RIDGELINE] TBOT Cover and Three Mountains in Yamagata]] · [Original](https://craigmod.com/ridgeline/192/) · [Readwise highlight](https://read.readwise.io/read/01m5f1ws6jbwynhw2xm83dc8pc)
+## \[RIDGELINE] TBOT Cover and Three Mountains in Yamagata — Craig Mod (2024)
+
+Source: \[\[\[RIDGELINE] TBOT Cover and Three Mountains in Yamagata]] · [Original](https://craigmod.com/ridgeline/192/) · [Readwise highlight](https://read.readwise.io/read/01m5f1ws6jbwynhw2xm83dc8pc)
 
 > The plan was to speak at XOXO in Portland and then run to the airport, rush back to Japan, catch a flight up to Shonai airport in Yamagata, head to Haguro, don my white garb, and hunker down for a week of asceticism, sleep deprivation, and chanting.
 

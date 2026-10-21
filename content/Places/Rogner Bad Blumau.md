@@ -1,13 +1,16 @@
 ---
 publish: true
 title: Rogner Bad Blumau
-created: 2026-10-21T16:38:12.083Z
-modified: 2026-10-21T16:38:12.083Z
-published: 2026-10-21T16:38:12.083Z
+created: 2026-10-21T16:38:12.000Z
+modified: 2026-10-21T16:38:12.000Z
+published: 2026-10-21T16:38:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
-  - Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New
-    York Times
+  - Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +21,6 @@ icon: newspaper
 location:
   - 47.1167
   - 16.05
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austria]]"
 ---
 
@@ -30,11 +29,13 @@ within: "[[Austria]]"
 Hundertwasser-designed thermal resort and hotel in Bad Blumau, Styria, Austria. It turns up in Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times (Valeriya Safronova): Hundertwasser-designed spa where an American expat overcame nude-sauna nerves.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times | Valeriya Safronova | backdrop | Hundertwasser-designed spa where an American expat overcame nude-sauna nerves. |
 
 ## Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times — Valeriya Safronova (2024)
+
 Source: [Original](https://www.nytimes.com/2024/02/26/travel/nude-spas-saunas-europe.html) · [Readwise highlight](https://read.readwise.io/read/01m5fmqkgypjtkwqd2q9bgzrsb)
 
 > After moving to Graz, Austria, Amy Feineman, 38, a saddle fitter originally from Colorado, made the hourlong drive to

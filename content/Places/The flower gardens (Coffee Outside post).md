@@ -2,8 +2,12 @@
 publish: true
 title: The flower gardens (Coffee Outside post)
 created: 2026-10-21T02:08:15.000Z
-modified: 2026-10-21T13:45:22.210Z
-published: 2026-10-21T13:45:22.210Z
+modified: 2026-10-21T13:45:22.000Z
+published: 2026-10-21T13:45:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Coffee Outside
@@ -12,17 +16,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 40.5762,-105.0808
-geo_note: "best-guess: Only 'flower gardens' in the text; CSU trial garden is the\
-  \ likely reading, with the campus as a coarse point."
+geo_note: "best-guess: Only 'flower gardens' in the text; CSU trial garden is the likely reading, with the campus as a coarse point."
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 40.5762
   - -105.0808
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado State University]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Colorado State University]]"
 The flower gardens are the meeting spot of the Friday "Coffee Outside" rides in Fort Collins, pinned as a best guess at the trial garden of [[Colorado State University]]. They appear in a Mostly Bikes x Me post as a passing mention of where two coffee groups meet.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Coffee Outside | Mostly Bikes x Me | setting | A short Fort Collins post: a train ride, a cormorant, and two different 'Coffee Outside' groups meeting at the flower gardens. |
 
 ## Coffee Outside — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/14642001553.html) · [Readwise highlight](https://read.readwise.io/read/01m5e334y70emtertth04wzmhy)
 
 > Also, it’s turns out there are two different Coffee Outside groups that meet at the flower gardens on Friday morning.

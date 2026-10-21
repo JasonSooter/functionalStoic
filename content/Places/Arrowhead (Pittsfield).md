@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Arrowhead (Pittsfield)
-created: 2026-10-21T13:55:50.898Z
-modified: 2026-10-21T13:55:50.898Z
-published: 2026-10-21T13:55:50.898Z
 aliases:
   - Arrowhead
   - Herman Melville House
+title: Arrowhead (Pittsfield)
+created: 2026-10-21T13:55:51.000Z
+modified: 2026-10-21T13:55:51.000Z
+published: 2026-10-21T13:55:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Dispatch From Herman Melville’s Farm]]"
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 42.4154
   - -73.2488
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pittsfield]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Pittsfield]]"
 Arrowhead is Herman Melville's farmhouse in Pittsfield, Massachusetts. It turns up in Dispatch from Herman Melville’s Farm (Cal Newport): The essay is about how this specific place shaped Melville's writing life; it is the whole subject.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Dispatch From Herman Melville’s Farm\|Dispatch from Herman Melville’s Farm]] | Cal Newport | subject | Newport visits Arrowhead, the 160-acre farm Melville bought in 1850 next to his uncle's plot near Pittsfield. |
 
 ## Dispatch from Herman Melville’s Farm — Cal Newport (2024)
+
 Source: [[Dispatch From Herman Melville’s Farm]] · [Original](https://calnewport.com/dispatch-from-herman-melvilles-farm/) · [Readwise highlight](https://read.readwise.io/read/01m5fbgrr0twtacy2pfwn9751z)
 
 > A few days ago, I travelled down to Arrowhead, now preserved by the Berkshire Historical Society, to better understand the writing-centered life that Melville constructed.

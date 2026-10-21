@@ -1,13 +1,17 @@
 ---
 publish: true
-title: St John's Medical College
-created: 2026-10-20T22:55:08.000Z
-modified: 2026-10-21T13:38:49.079Z
-published: 2026-10-21T13:38:49.079Z
 aliases:
   - St John's Medical College Hospital
   - St. John's Medical College
   - St. John's National Academy of Health Sciences
+title: St John's Medical College
+created: 2026-10-20T22:55:08.000Z
+modified: 2026-10-21T13:38:49.000Z
+published: 2026-10-21T13:38:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[How I Learned to Understand the World]]"
 categories:
@@ -20,10 +24,6 @@ icon: book
 location:
   - 12.9293
   - 77.6201
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Karnataka]]"
 ---
 
@@ -32,11 +32,13 @@ within: "[[Karnataka]]"
 Medical college in Bangalore, [[Karnataka]], India. It appears in the reading as the place where Hans Rosling's "West is best" worldview was first overturned in 1972.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | turning point | In 1972 Rosling's elective showed him fourth-year Indian students knew far more than he did. |
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
+
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5dqz9v8957vw9apyq6fb5xx)
 
 > Part of the plan for our Asian trip was for me to be a visiting student at the St. John’s Medical College in Bangalore.

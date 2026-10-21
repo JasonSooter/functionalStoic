@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Fairfax Cyclery
-created: 2026-10-20T13:51:54.000Z
-modified: 2026-10-21T10:50:06.309Z
-published: 2026-10-21T10:50:06.309Z
 aliases:
   - Gravy's workshop
+title: Fairfax Cyclery
+created: 2026-10-20T13:51:54.000Z
+modified: 2026-10-21T10:50:06.000Z
+published: 2026-10-21T10:50:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -14,10 +18,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fairfax, California]]"
 ---
 

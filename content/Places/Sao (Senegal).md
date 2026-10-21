@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Sao
-created: 2026-10-20T22:54:36.000Z
-modified: 2026-10-21T11:17:53.147Z
-published: 2026-10-21T11:17:53.147Z
 aliases:
   - Saw
+title: Sao
+created: 2026-10-20T22:54:36.000Z
+modified: 2026-10-21T11:17:53.000Z
+published: 2026-10-21T11:17:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 14.485
   - -16.6658
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Senegal]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Senegal]]"
 Village in [[Senegal]], the likely real place behind Carlo Rovelli's 'real Africa' day trip from Mbour in There Are Places in the World Where Rules Are Less Important Than Kindness.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | turning point | Staying in Mbour in January, Rovelli picks Sao off the map for its name and travels there by taxi, bus and Barri's battered Peugeot. |
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2018)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0kcxvhtr3pg5c94461r2)
 
 > And then we arrive in Sao. A Sao that turns out to be completely unlike the one I was expecting.

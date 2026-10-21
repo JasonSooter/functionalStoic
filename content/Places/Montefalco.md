@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Montefalco
-created: 2026-10-21T10:49:12.613Z
-modified: 2026-10-21T10:49:12.613Z
-published: 2026-10-21T10:49:12.613Z
+created: 2026-10-21T10:49:13.000Z
+modified: 2026-10-21T10:49:13.000Z
+published: 2026-10-21T10:49:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - A one-day bike ride from Spoleto to Assisi in central Italy
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 42.8938
   - 12.6524
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Umbria]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Umbria]]"
 Hilltop wine town in Umbria, Italy, a few miles off the Spoleto–Assisi bike route. The rider weighs a detour there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A one-day bike ride from Spoleto to Assisi in central Italy | alliumstozinnias | backdrop | The wine town off the route: a detour weighed, and a memory of an earlier visit. |
 
 ## A one-day bike ride from Spoleto to Assisi in central Italy — alliumstozinnias (2024)
+
 Source: [Original](https://exploringbybike.com/2024/10/13/a-one-day-bike-ride-from-spoleto-to-assisi-in-central-italy/) · [Readwise highlight](https://read.readwise.io/read/01m5f0pyyfdxq28f5bb3k57mw2)
 
 > Years ago three of us drove there from the agriturismo, determined to find the source of the wine we’d enjoyed with dinner the night before.

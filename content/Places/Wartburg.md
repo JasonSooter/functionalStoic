@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Wartburg
-created: 2026-10-20T04:21:13.000Z
-modified: 2026-10-21T13:37:40.192Z
-published: 2026-10-21T13:37:40.192Z
 aliases:
   - Wartburg Castle
+title: Wartburg
+created: 2026-10-20T04:21:13.000Z
+modified: 2026-10-21T13:37:40.000Z
+published: 2026-10-21T13:37:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
 categories:
@@ -16,10 +20,6 @@ icon: video
 location:
   - 50.9661
   - 10.3064
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Thuringia]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Thuringia]]"
 Castle above Eisenach in [[Thuringia]], where Luther hid and translated the New Testament; it shows up in the reading as the reason Eisenach is on a DW Travel list of lesser-known German cities.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | Where Luther hid and translated the New Testament into German. |
 
 ## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
+
 Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Original](https://www.youtube.com/watch?v=9AbxJrqpPqQ) · [Readwise highlight](https://read.readwise.io/read/01m5brfpk9fv0kcb1cvrwq1ag0)
 
 > Wartburg Castle provided refuge

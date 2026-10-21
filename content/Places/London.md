@@ -2,18 +2,18 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-21T14:11:32.433Z
-published: 2026-10-21T14:11:32.433Z
+modified: 2026-10-21T14:11:32.000Z
+published: 2026-10-21T14:11:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # London

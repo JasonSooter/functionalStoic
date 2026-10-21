@@ -2,8 +2,12 @@
 publish: true
 title: Denver
 created: 2026-10-21T02:06:45.000Z
-modified: 2026-10-21T16:39:06.911Z
-published: 2026-10-21T16:39:06.911Z
+modified: 2026-10-21T16:39:07.000Z
+published: 2026-10-21T16:39:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 39.74
   - -104.99
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -28,6 +28,7 @@ within: "[[Colorado]]"
 Hub note; sits within [[Colorado]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Denver is the home of Henry Barnes and the scramble crossing; Speck criticizes its lengthening of pedestrian cycles from 75 to 90 seconds. |
@@ -39,6 +40,7 @@ Hub note; sits within [[Colorado]].
 - [[Wild Life Ranch]]
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbnk9w5afbsxnbdqryf1qw)
 
 > Denver has recently eliminated its diagonal Barnes Dances due to the introduction of streetcars, but it has kept its dedicated-crossing cycles

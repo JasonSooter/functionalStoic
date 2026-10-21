@@ -2,8 +2,12 @@
 publish: true
 title: Lego Campus
 created: 2026-10-21T05:07:48.000Z
-modified: 2026-10-21T11:18:29.482Z
-published: 2026-10-21T11:18:29.482Z
+modified: 2026-10-21T11:18:29.000Z
+published: 2026-10-21T11:18:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Year of Living Danishly
@@ -16,10 +20,6 @@ icon: book
 location:
   - 55.7335
   - 9.1214
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Billund]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Billund]]"
 Office and factory in [[Billund]], Jutland, [[Denmark]], the Lego workplace Helen Russell visits in The Year of Living Danishly.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Year of Living Danishly | Helen Russell | subject | The author visits her husband's workplace for lunch: brick-shaped sofas, toy-named meeting rooms and a minifigure factory tour. |
 
 ## The Year of Living Danishly — Helen Russell (2015)
+
 Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highlight](https://read.readwise.io/read/01m5edhne28jekm663sat7t0fg)
 
 > There’s a laid-back Silicon-Valley-meets-Google-HQ vibe from the moment I step inside the glass-fronted head office in Billund’s sleepy residential centre.

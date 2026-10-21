@@ -2,8 +2,12 @@
 publish: true
 title: Navi Mumbai International Airport
 created: 2026-10-20T07:39:29.000Z
-modified: 2026-10-21T11:15:15.925Z
-published: 2026-10-21T11:15:15.925Z
+modified: 2026-10-21T11:15:16.000Z
+published: 2026-10-21T11:15:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The $2BN Airport Built in a Swamp
@@ -15,10 +19,6 @@ icon: video
 location:
   - 18.9919
   - 73.0617
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Navi Mumbai]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Navi Mumbai]]"
 Mumbai's second airport, built on reclaimed coastal land in [[Navi Mumbai]], and the whole subject of a B1M video on building it in a swamp.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The $2BN Airport Built in a Swamp]] | The B1M | subject | A hill flattened and a river diverted to build an airport on a swamp. |
 
-## The $2BN Airport Built in a Swamp — The B1M (2026)
+## The \$2BN Airport Built in a Swamp — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=zoqKwqM7wkQ) · [Readwise highlight](https://read.readwise.io/read/01m5c3pmtxyszkfvmxjr4se425)
 
 > It’s about 40 kilometres away from the old commercial centre of Mumbai in Navi Mumbai.

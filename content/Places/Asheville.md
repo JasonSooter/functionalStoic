@@ -2,8 +2,12 @@
 publish: true
 title: Asheville
 created: 2026-10-21T02:06:11.000Z
-modified: 2026-10-21T10:32:49.947Z
-published: 2026-10-21T10:32:49.947Z
+modified: 2026-10-21T10:32:50.000Z
+published: 2026-10-21T10:32:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Where We Go When Everything Breaks - Placemaking Lessons From Asheville’s Recovery]]"
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 35.5956
   - -82.5519
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[North Carolina]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[North Carolina]]"
 City in western [[North Carolina]], the case study in a Project for Public Spaces article on how placemaking shaped its recovery from Hurricane Helene.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Where We Go When Everything Breaks - Placemaking Lessons From Asheville’s Recovery\|Where We Go When Everything Breaks: Placemaking Lessons from Asheville’s Recovery]] | Project for Public Spaces | setting | After Hurricane Helene in September 2024 the city had no potable tap water for 60 days. |
 
 ## Where We Go When Everything Breaks: Placemaking Lessons from Asheville’s Recovery — Project for Public Spaces (2025)
+
 Source: [[Where We Go When Everything Breaks - Placemaking Lessons From Asheville’s Recovery]] · [Original](https://www.pps.org/article/where-we-go-when-everything-breaks-placemaking-lessons-from-ashevilles-recovery) · [Readwise highlight](https://read.readwise.io/read/01m5e2yvz0523wdxgv2y5ank71)
 
 > In Asheville, North Carolina, the storm exposed a simple truth: the city’s design ultimately shapes its resilience and response capabilities.

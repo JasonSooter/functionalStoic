@@ -2,8 +2,12 @@
 publish: true
 title: Kozarovychi Dam
 created: 2026-10-20T19:37:31.000Z
-modified: 2026-10-21T11:11:57.934Z
-published: 2026-10-21T11:11:57.934Z
+modified: 2026-10-21T11:11:58.000Z
+published: 2026-10-21T11:11:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - To defend against Russian tanks, Finland and Poland consider restoring wetlands
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 50.7442
   - 30.3683
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ukraine]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Ukraine]]"
 Dam on the Irpin River north of Kyiv, [[Ukraine]], destroyed in March 2022 and cited in an article on whether Finland and Poland should restore wetlands for defence.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[To Defend Against Russian Tanks, Finland and Poland Consider Restoring Wetlands\|To defend against Russian tanks, Finland and Poland consider restoring wetlands]] | Joanna York | turning point | Its destruction flooded land and slowed the Russian advance on Kyiv. |
 
 ## To defend against Russian tanks, Finland and Poland consider restoring wetlands — Joanna York (2025)
+
 Source: [Original](https://www.france24.com/en/europe/20250828-to-defend-against-russian-tanks-finland-and-poland-consider-restoring-wetlands) · [Readwise highlight](https://read.readwise.io/read/01m5dcm90xakhwvjvgd672mvrn)
 
 > In March 2022, Ukraine’s armed forces destroyed the Kozarovychi Dam, flooding 2,800 hectares of land and successfully

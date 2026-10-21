@@ -2,8 +2,12 @@
 publish: true
 title: Fort McHenry Tunnel
 created: 2026-10-21T02:06:54.000Z
-modified: 2026-10-21T10:52:09.921Z
-published: 2026-10-21T10:52:09.921Z
+modified: 2026-10-21T10:52:10.000Z
+published: 2026-10-21T10:52:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Most Implausible Tunneling Method
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 39.2609
   - -76.5767
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Baltimore]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Baltimore]]"
 Immersed-tube tunnel carrying I-95 under Baltimore Harbor in [[Baltimore]], United States; the video uses it as its opening example of immersed tube tunneling.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Most Implausible Tunneling Method]] | Wesley Crump | subject | I-95 was to cross Baltimore Harbor on a very high double-deck bridge; planners instead went under it with a prefabricated tunnel. |
 
 ## The Most Implausible Tunneling Method — Wesley Crump (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/5/20/the-most-implausible-tunneling-method) · [Readwise highlight](https://read.readwise.io/read/01m5e2ytcw08pfyv9v2baf6ve4)
 
 > So they took the high road by building a low road and decided to go underneath the harbor instead.

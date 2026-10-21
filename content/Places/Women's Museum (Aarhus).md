@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Women's Museum (Aarhus)
-created: 2026-10-21T10:49:35.855Z
-modified: 2026-10-21T13:38:41.774Z
-published: 2026-10-21T13:38:41.774Z
+created: 2026-10-21T10:49:36.000Z
+modified: 2026-10-21T13:38:42.000Z
+published: 2026-10-21T13:38:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Year of Living Danishly
@@ -16,10 +20,6 @@ icon: book
 location:
   - 56.1572
   - 10.2114
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Aarhus]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Aarhus]]"
 Denmark's women's history museum (now the Gender Museum) in [[Aarhus]], which appears in The Year of Living Danishly as the place where a guide gives Helen Russell an oral history of Danish women's rights.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Year of Living Danishly | Helen Russell | setting | A guide gives Russell an oral history of Danish women's rights. |
 
 ## The Year of Living Danishly — Helen Russell (2015)
+
 Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highlight](https://read.readwise.io/read/01m5f0rdnb70mhbsazw7q1j1yy)
 
 > Aarhus, Denmark’s second city, is home to one of the world’s few women’s history museums.

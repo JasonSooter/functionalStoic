@@ -2,8 +2,12 @@
 publish: true
 title: Nantes
 created: 2026-10-20T07:38:21.000Z
-modified: 2026-10-21T11:16:47.987Z
-published: 2026-10-21T11:16:47.987Z
+modified: 2026-10-21T11:16:48.000Z
+published: 2026-10-21T11:16:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Birthplace of Public Transit | Nebula Original
@@ -15,10 +19,6 @@ icon: video
 location:
   - 47.2181
   - -1.5528
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pays de la Loire]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Pays de la Loire]]"
 City on the Loire in western France ([[Pays de la Loire]], [[France]]), and the subject of a Day Pass video that rides every rapid-transit line in the self-described birthplace of public transport.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Birthplace of Public Transit Nebula Original\|The Birthplace of Public Transit]] | Day Pass | subject | A day riding every rapid-transit line in the city that invented public transport. |
 
 ## The Birthplace of Public Transit — Day Pass (2026)
+
 Source: [Original](https://nebula.tv/videos/daypass-s1e1/) · [Readwise highlight](https://read.readwise.io/read/01m5c3p8qems7g298s8zzjqkne)
 
 > Nantes, France is the birthplace of public transportation and Jules Verne.

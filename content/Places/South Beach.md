@@ -1,11 +1,15 @@
 ---
 publish: true
-title: South Beach
-created: 2026-10-21T13:55:09.243Z
-modified: 2026-10-21T13:55:09.243Z
-published: 2026-10-21T13:55:09.243Z
 aliases:
   - South Beach (Miami Beach)
+title: South Beach
+created: 2026-10-21T13:55:09.000Z
+modified: 2026-10-21T13:55:09.000Z
+published: 2026-10-21T13:55:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Walkable City]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 25.7819
   - -80.1363
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Miami Beach]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Miami Beach]]"
 South Beach is a district in Miami Beach. It turns up in Walkable City (Jeff Speck): South Beach is his example of a childless, adults-only walkable district as the demographic future of cities, and his own pre-Washington car-dependent life.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | backdrop | Speck lived for ten years in South Beach, where he saw almost no children and no adults aged thirty-five to fifty-five, yet found it a… |
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjhey3n82q8br9hrgn818)
 
 > I lived comfortably for a full decade in one of the most extreme exceptions to that rule, Miami’s South Beach, where I could easily go for a month at a time without a stroller sighting.

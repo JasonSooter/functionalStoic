@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Culmont-Chalindrey station
-created: 2026-10-20T13:45:20.000Z
-modified: 2026-10-21T10:52:50.298Z
-published: 2026-10-21T10:52:50.298Z
 aliases:
   - Culmont-Chalindrey
+title: Culmont-Chalindrey station
+created: 2026-10-20T13:45:20.000Z
+modified: 2026-10-21T10:52:50.000Z
+published: 2026-10-21T10:52:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - This new French train is a revolution... Here's why!
 categories:
@@ -17,10 +21,6 @@ icon: video
 location:
   - 47.8053
   - 5.4478
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[France]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[France]]"
 Railway junction town in Haute-Marne, [[France]], where the train in a Simply Railway video reverses direction at a town built for the railway.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[This New French Train Is a Revolution... Here's Why!\|This new French train is a revolution... Here's why!]] | Simply Railway | journey waypoint | A railway town where the train reverses. |
 
 ## This new French train is a revolution... Here's why! — Simply Railway (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=iYvf1Dny-6Y) · [Readwise highlight](https://read.readwise.io/read/01m5crdjyarhqdykma5mq74jch)
 
 > I’ll stop my rant here, because we’re arriving in a sacred place for French railways: Culmont-Chalindrey. A town literally created for the railway!

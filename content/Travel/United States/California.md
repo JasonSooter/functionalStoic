@@ -2,8 +2,12 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-21T13:56:07.807Z
-published: 2026-10-21T13:56:07.807Z
+modified: 2026-10-21T19:39:01.000Z
+published: 2026-10-21T19:39:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
@@ -14,10 +18,6 @@ date created: 2023-12-10T08:50:24-07:00
 date modified: 2026-02-21T09:56:46-07:00
 icon: map
 linter-yaml-title-alias: California
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # California
@@ -35,9 +35,9 @@ California is a state on the US West Coast; this note also groups the literary p
 ## FAQ
 
 ---
+
 🙋
 ✨
-
 
 ---
 
@@ -47,7 +47,7 @@ California is a state on the US West Coast; this note also groups the literary p
 
 With [[Kolt Kane|Kolt]], Kelly, & Ellie
 
-#🗓️/2016/03/02
+\#🗓️/2016/03/02
 
 | Jason |  |  | [[Kolt Kane\|Kolt]] |  |  | Kelly |  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -78,6 +78,8 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Cache Creek Nature Preserve]]
 - [[Cajon Pass]]
 - [[Camp Grounded]]
+- [[Campo, California]]
+- [[Chapman University]]
 - [[Colorado River Aqueduct]]
 - [[Corralitos]]
 - [[Cupertino]]
@@ -87,6 +89,8 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Fairfax, California]]
 - [[Foresthill Bridge]]
 - [[Hangar One (Mountain View)]]
+- [[Kennedy Meadows]]
+- [[Lassen Volcanic National Park]]
 - [[Los Angeles Aqueduct]]
 - [[Los Gatos]]
 - [[Mokelumne River]]
@@ -100,6 +104,8 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[San Clemente Dam]]
 - [[San Francisco]]
 - [[San Jacinto Mountains]]
+- [[Santa Barbara]]
+- [[Santa Barbara Channel]]
 - [[Santa Cruz Mountains]]
 - [[Silicon Valley]]
 - [[Stanford University]]

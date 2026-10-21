@@ -2,11 +2,15 @@
 publish: true
 title: The Iidabashi café (Pedal & Brew)
 created: 2026-10-21T02:07:58.000Z
-modified: 2026-10-21T13:45:51.744Z
-published: 2026-10-21T13:45:51.744Z
+modified: 2026-10-21T13:45:52.000Z
+published: 2026-10-21T13:45:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
-  - 'Tour de Cafe Tokyo #8'
+  - "Tour de Cafe Tokyo #8"
 categories:
   - "[[Places]]"
 color: gray
@@ -18,10 +22,6 @@ icon: video
 location:
   - 35.7002
   - 139.7428
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kagurazaka]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Kagurazaka]]"
 The Iidabashi café is a waterside pizza café by Iidabashi Station in Tokyo, pinned as an inference at Canal Café in [[Kagurazaka]]. It appears in Pedal & Brew's Tokyo café-tour video as the anchor lunch stop before the climb up Kagurazaka hill.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Tour de Cafe Tokyo #8 | Pedal & Brew | setting | They park at Iidabashi Station, order pizza with sakura shrimp and Quattro Formaggi and eat on the deck. |
 
 ## Tour de Cafe Tokyo #8 — Pedal & Brew (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=9GZDlnUG2ho) · [Readwise highlight](https://read.readwise.io/read/01m5e330h56hds3zdqdwm1kmnz)
 
 > You can enjoy your meal relaxing on the deck side while looking out at the Kanda River and the trains.

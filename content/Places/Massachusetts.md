@@ -2,18 +2,18 @@
 publish: true
 title: Massachusetts
 created: 2026-10-19T14:06:09.000Z
-modified: 2026-10-21T16:39:07.635Z
-published: 2026-10-21T16:39:07.635Z
+modified: 2026-10-21T19:39:07.000Z
+published: 2026-10-21T19:39:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Massachusetts
@@ -23,6 +23,7 @@ US state in New England. Hub for literary places in Massachusetts.
 ## Sub-places
 
 - [[Amherst]]
+- [[Blue Hills Reservation]]
 - [[Boston]]
 - [[Cape Wind]]
 - [[Harvard Art Museums]]
@@ -30,6 +31,7 @@ US state in New England. Hub for literary places in Massachusetts.
 - [[Lenox]]
 - [[Lowell, Massachusetts]]
 - [[Mashpee Commons]]
+- [[MIT swimming pool (The Soul of an Octopus)]]
 - [[Mount Greylock]]
 - [[Mount Holyoke College]]
 - [[South Station]]

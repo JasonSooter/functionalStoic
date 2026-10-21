@@ -1,11 +1,15 @@
 ---
 publish: true
-title: New York City
-created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-21T16:39:29.522Z
-published: 2026-10-21T16:39:29.522Z
 aliases:
   - NYC
+title: New York City
+created: 2026-10-20T04:23:56.000Z
+modified: 2026-10-21T19:38:57.000Z
+published: 2026-10-21T19:38:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
   - Can Zohran Mamdani Really Freeze the Rent?
@@ -19,10 +23,6 @@ icon: newspaper
 location:
   - 40.7128
   - -74.0061
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # New York City
@@ -52,10 +52,14 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Cooper Union]]
 - [[East River]]
 - [[Hotel Chelsea]]
+- [[Jamaica Avenue and 164th Street (Queens)]]
+- [[John Bowne High School]]
 - [[Library Way]]
 - [[Lower East Side]]
 - [[Madison Square Garden (1890)]]
+- [[Metropolitan Museum of Art]]
 - [[Myka]]
+- [[New York Marriott Marquis]]
 - [[New York Public Library Main Branch]]
 - [[Queens Village]]
 - [[Times Square]]
@@ -63,6 +67,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Union Theological Seminary]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
+
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5e0fq0803z77naxg4e2r)
 
 > Maybe that’s because it’s older, or because the architecture forces you to look up. History lives in the buildings here.
@@ -72,6 +77,7 @@ Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · 
 - **Why it matters:** It is the essay's American counter-example to decline.
 
 ## Can Zohran Mamdani Really Freeze the Rent? — Rachel Holliday Smith (2025)
+
 Source: [Original](https://www.thecity.nyc/2025/09/02/rent-freeze-mamdani-affordable-housing-stabilized-apartments/) · [Readwise highlight](https://read.readwise.io/read/01m5d21c0n7vs8cf9r1r2keq3w)
 
 > But does the mayor of New York City actually have the power to stop rent increases in one of the most expensive cities in the world?
@@ -81,6 +87,7 @@ Source: [Original](https://www.thecity.nyc/2025/09/02/rent-freeze-mamdani-afford
 - **Why it matters:** The whole city is the subject; no single neighbourhood or building does work in the piece.
 
 ## How Zohran Mamdani’s Big Goals Could Transform Life in New York City — RTBC Staff (2025)
+
 Source: [Original](https://reasonstobecheerful.world/zohran-mamdani-goals-learn-more/) · [Readwise highlight](https://read.readwise.io/read/01m5dr1q25k6n3eh6gq9t5cqrp)
 
 > New York would become the biggest city in the U.S. — and perhaps the world — to eliminate bus fares entirely.

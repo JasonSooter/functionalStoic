@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Phoenix
-created: 2026-10-21T16:37:19.092Z
-modified: 2026-10-21T16:37:19.092Z
-published: 2026-10-21T16:37:19.092Z
 aliases:
   - Tempe/Phoenix
+title: Phoenix
+created: 2026-10-21T16:37:19.000Z
+modified: 2026-10-21T16:37:19.000Z
+published: 2026-10-21T16:37:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - How To Afford a House These Days
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 33.4483
   - -112.0739
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Arizona]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Arizona]]"
 City and metropolitan area in central Arizona. It turns up in How To Afford a House These Days (Mr. Money Mustache): Phoenix area compared with Denver as a housing-cost worked example.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How To Afford a House These Days | Mr. Money Mustache | subject | Phoenix area compared with Denver as a housing-cost worked example. |
 
 ## How To Afford a House These Days — Mr. Money Mustache (2024)
+
 Source: [Original](https://www.mrmoneymustache.com/2024/02/03/how-to-afford-a-house/) · [Readwise highlight](https://read.readwise.io/read/01m5fmpz0nz3qhm0xdy3xa454x)
 
 > Doing the Analysis on Tempe/Phoenix Arizona vs Denver

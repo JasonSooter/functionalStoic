@@ -2,8 +2,12 @@
 publish: true
 title: Bolinas
 created: 2026-10-21T05:07:14.000Z
-modified: 2026-10-21T10:26:36.550Z
-published: 2026-10-21T10:26:36.550Z
+modified: 2026-10-21T10:26:37.000Z
+published: 2026-10-21T10:26:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Indulgence Is Not the Same as Care]]"
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 37.9094
   - -122.6864
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[California]]"
 Town in Marin County, [[California]], USA. It appears in an essay recalling a 1970s childhood of freedom and generosity there, which the author links to confusing indulgence with care.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Indulgence Is Not the Same as Care]] | Linnesby-Maria | setting | The author recalls a 1970s Bolinas childhood of extreme freedom and generosity, with shared cooking and extra dinner for any guest. |
 
 ## Indulgence is not the same as care — Linnesby-Maria (2024)
+
 Source: [[Indulgence Is Not the Same as Care]] · [Original](https://notesfromlinnesby.substack.com/p/indulgence-is-not-the-same-as-care) · [Readwise highlight](https://read.readwise.io/read/01m5edecyhnhg2nfsyebxtx99e)
 
 > One of my happiest memories of Bolinas is of how we never cooked just enough dinner for our own family, because one never knew who might be stopping by and one always wanted to be able to invite people to stay on and eat if they liked.

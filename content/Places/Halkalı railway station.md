@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Halkalı railway station
-created: 2026-10-20T07:38:29.000Z
-modified: 2026-10-21T11:08:56.873Z
-published: 2026-10-21T11:08:56.873Z
 aliases:
   - Halkalı
+title: Halkalı railway station
+created: 2026-10-20T07:38:29.000Z
+modified: 2026-10-21T11:08:57.000Z
+published: 2026-10-21T11:08:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - This Legendary Night Train is FINALLY bookable !
 categories:
@@ -16,10 +20,6 @@ icon: video
 location:
   - 41.0189
   - 28.7667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Istanbul]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Istanbul]]"
 Railway station on the European side of [[Istanbul]], where international trains to Bulgaria depart. It shows up as the starting point of Simply Railway's Istanbul–Sofia night-train journey.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[This Legendary Night Train Is FINALLY Bookable !]] | Simply Railway | setting | Boarding the Istanbul–Sofia night train. |
 
 ## This Legendary Night Train is FINALLY bookable ! — Simply Railway (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=hhGnBrXlmbQ) · [Readwise highlight](https://read.readwise.io/read/01m5c3pace7xagv1psf8fg9azs)
 
 > Good evening everyone, and welcome to Halkalı (Istanbul, Türkiye) for a new adventure on the rails!

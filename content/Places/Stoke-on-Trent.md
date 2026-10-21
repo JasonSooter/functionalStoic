@@ -2,8 +2,12 @@
 publish: true
 title: Stoke-on-Trent
 created: 2026-10-20T04:33:18.000Z
-modified: 2026-10-21T16:22:28.773Z
-published: 2026-10-21T16:22:28.773Z
+modified: 2026-10-21T16:22:29.000Z
+published: 2026-10-21T16:22:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[It's All About the Bike]]"
@@ -15,10 +19,6 @@ icon: book
 location:
   - 53.0255
   - -2.1761
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Staffordshire]]"
 ---
 
@@ -27,14 +27,17 @@ within: "[[Staffordshire]]"
 City in Staffordshire, England, home of Brian Rourke Cycles (see [[Staffordshire]]). It is where Robert Penn's dream bike begins in _It's All About the Bike_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike]] | Robert Penn | setting | Where Penn's dream bike begins: fitted at Brian Rourke's shop and welded by his son Jason. |
 
 ## Sub-places
+
 - [[Brian Rourke Cycles]]
 
 ## It's All About the Bike — Robert Penn (2010)
+
 Source: [[It's All About the Bike]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5bs7f8j4cm19k998rqj9948)
 
 > Brian Rourke Cycles occupies a converted squash centre in Stoke-on-Trent.

@@ -1,19 +1,19 @@
 ---
 publish: true
 title: South Korea
-created: 2026-10-21T10:49:15.738Z
-modified: 2026-10-21T13:56:01.087Z
-published: 2026-10-21T13:56:01.087Z
+created: 2026-10-21T10:49:16.000Z
+modified: 2026-10-21T13:56:01.000Z
+published: 2026-10-21T13:56:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # South Korea

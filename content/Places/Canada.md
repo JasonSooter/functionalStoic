@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Canada
-created: 2026-10-21T11:07:44.734Z
-modified: 2026-10-21T14:11:39.306Z
-published: 2026-10-21T14:11:39.306Z
+created: 2026-10-21T10:48:40.000Z
+modified: 2026-10-21T14:11:39.000Z
+published: 2026-10-21T14:11:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Canada

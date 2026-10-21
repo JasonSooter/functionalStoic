@@ -2,8 +2,12 @@
 publish: true
 title: Chrysler Building
 created: 2026-10-20T04:20:25.000Z
-modified: 2026-10-21T10:52:19.221Z
-published: 2026-10-21T10:52:19.221Z
+modified: 2026-10-21T10:52:19.000Z
+published: 2026-10-21T10:52:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Why the Jeddah Tower Won’t be as Tall as You Think
@@ -15,10 +19,6 @@ icon: video
 location:
   - 40.7517
   - -73.9753
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[New York City]]"
 Art Deco skyscraper in Midtown Manhattan, [[New York City]], whose secretly raised spire won the 1929 height race, as told in a B1M video about the Jeddah Tower.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why the Jeddah Tower Won’t Be as Tall as You Think\|Why the Jeddah Tower Won’t be as Tall as You Think]] | The B1M | turning point | A spire hoisted in secret won the 1929 race against 40 Wall Street. |
 
 ## Why the Jeddah Tower Won’t be as Tall as You Think — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=vVfEs9wrW98) · [Readwise highlight](https://read.readwise.io/read/01m5brep4cgj8017xcy5c45cv4)
 
 > The final height was taken to a massive 319-metres, dwarfing the puny 40 Wall Street.

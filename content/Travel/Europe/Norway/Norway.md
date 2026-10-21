@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Norway
-created: 2025-02-24T04:31:10.411Z
-modified: 2026-10-21T14:11:36.718Z
-published: 2026-10-21T14:11:36.718Z
 aliases:
   - Norway (literary places)
+title: Norway
+created: 2025-02-24T04:31:10.411Z
+modified: 2026-10-21T19:25:29.000Z
+published: 2026-10-21T19:25:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
@@ -24,10 +28,6 @@ locations:
     name: Oslo
   - coordinates: 60.3913,5.3221
     name: Bergen
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Norway
@@ -58,7 +58,6 @@ Overall, Norway is characterized by its commitment to sustainability, equality, 
 
 > [!question] Does Bergen, Norway have good public transportation?
 > Yes, Bergen, Norway has a well-developed public transportation system. The city offers various options including buses, light rail (Bybanen), and ferries. The light rail system is particularly popular and connects the city center with the airport and other key areas. Buses cover a wide network throughout the city and surrounding regions. Additionally, Bergen's public transportation is known for being reliable and efficient, making it easy for residents and visitors to navigate the city.
-> 
 
 ## Content
 
@@ -66,7 +65,9 @@ Overall, Norway is characterized by its commitment to sustainability, equality, 
 
 ## Sub-places
 
+- [[Finnmark]]
 - [[Hammerfest]]
 - [[Juvet Landscape Hotel]]
 - [[Longyearbyen]]
 - [[Rogfast]]
+- [[Tjøtta]]

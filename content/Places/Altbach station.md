@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Altbach station
-created: 2026-10-20T13:41:19.000Z
-modified: 2026-10-21T10:33:19.464Z
-published: 2026-10-21T10:33:19.464Z
 aliases:
   - Bahnhof Altbach
+title: Altbach station
+created: 2026-10-20T13:41:19.000Z
+modified: 2026-10-21T10:33:19.000Z
+published: 2026-10-21T10:33:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - I thought the Schmid Peoplemover was impossible
 categories:
@@ -17,10 +21,6 @@ icon: video
 location:
   - 48.7203
   - 9.3822
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Baden-Württemberg]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Baden-Württemberg]]"
 Railway station in Altbach near Esslingen am Neckar, [[Baden-Württemberg]], Germany, home of the larger surviving Schmid Peoplemover featured in a Tom Scott video.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[I Thought the Schmid Peoplemover Was Impossible\|I thought the Schmid Peoplemover was impossible]] | Tom Scott | subject | Home of the larger surviving Schmid Peoplemover. |
 
 ## I thought the Schmid Peoplemover was impossible — Tom Scott
+
 Source: [Original](https://www.youtube.com/watch?v=A2g4u9F9i90) · [Readwise highlight](https://read.readwise.io/read/01m5crba2eandq43btwv0r90xp)
 
 > This is the larger one, at a train station in Altbach, Germany.

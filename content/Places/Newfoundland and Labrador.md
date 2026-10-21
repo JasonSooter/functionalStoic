@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Newfoundland and Labrador
-created: 2026-10-21T10:49:16.090Z
-modified: 2026-10-21T10:49:16.090Z
-published: 2026-10-21T10:49:16.090Z
+created: 2026-10-21T10:49:16.000Z
+modified: 2026-10-21T10:49:16.000Z
+published: 2026-10-21T10:49:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 53.23
   - -59.9992
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Canada]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Canada]]"
 Canada's easternmost province, on the North Atlantic. Not the End of the World uses its cod fishery as the classic stock collapse.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | subject | Cod catch rose from the 1600s, peaked in 1968 and collapsed; fisheries closed in the 1990s. |
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5f0qzh536qb0605cvbjw4h9)
 
 > Looking at the catch of North Atlantic cod from Newfoundland and Labrador in Eastern Canada, we can see that it started to ramp up from the 17th century.

@@ -2,8 +2,12 @@
 publish: true
 title: Stockholm
 created: 2026-10-20T01:30:13.000Z
-modified: 2026-10-21T16:22:04.705Z
-published: 2026-10-21T16:22:04.705Z
+modified: 2026-10-21T16:22:05.000Z
+published: 2026-10-21T16:22:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 59.3294
   - 18.0686
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Stockholm
@@ -30,6 +30,7 @@ Capital of Sweden, built on islands between Lake Mälaren and the Baltic (see al
 Not pinned yet: Djurgården, the island park where Bryson spends a Sunday morning in _Neither Here Nor There_ ("Djurgården is possibly the finest of them all") and comes away "admiring Stockholm all over again". No standard-source coordinate was found.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | backdrop | Rovelli's last meeting with Stephen Hawking, and Hawking's lecture the next day. |
@@ -37,6 +38,7 @@ Not pinned yet: Djurgården, the island park where Bryson spends a Sunday mornin
 | [[How Stockholm Is Sprouting Healthy Trees From Concrete]] | Peter Yeung | subject | A 2001 assessment found two-thirds of central Stockholm's trees dying, starved of air and water by paving and pipes. |
 
 ## Sub-places
+
 - [[Djurgården]]
 - [[Gamla stan]]
 - [[Hötorget metro station]]
@@ -48,6 +50,7 @@ Not pinned yet: Djurgården, the island park where Bryson spends a Sunday mornin
 - [[Tensta metro station]]
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5bevjcnefav552gwj0dxkgq)
 
 > The day after our meeting in Stockholm, where communication with him was so difficult and heartbreaking, Stephen gave a lecture in a huge theatre in the city.
@@ -57,6 +60,7 @@ Source: [[There Are Places in the World Where Rules Are Less Important Than Kind
 - **Why it matters:** The Stockholm scene is the concrete evidence for the essay's claim that Hawking's greatest lesson was one of humanity. The city itself does little work; the theatre is not named.
 
 ## Every Metro System Should be this Beautiful — Not Just Bikes (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c3pebmc41qf2g1p533w7p1)
 
 > This is a metro station in Stockholm.
@@ -66,6 +70,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5c3pebmc41qf2g1p53
 - **Why it matters:** The whole video is about this city's metro; it argues that Stockholm shows what every system could be.
 
 ## How Stockholm Is Sprouting Healthy Trees From Concrete — Peter Yeung (2025)
+
 Source: [[How Stockholm Is Sprouting Healthy Trees From Concrete]] · [Original](https://reasonstobecheerful.world/stockholm-tree-pit-method/) · [Readwise highlight](https://read.readwise.io/read/01m5ebrsxbyqa21xbz216525j7)
 
 > When Stockholm’s Traffic Office conducted a general assessment of street traffic in the Swedish capital in 2001, it came to the shocking conclusion that two-thirds of all trees in the city center were dead or dying.

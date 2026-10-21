@@ -2,8 +2,12 @@
 publish: true
 title: Austria
 created: 2025-12-06T03:21:08.447Z
-modified: 2026-10-21T16:39:03.819Z
-published: 2026-10-21T16:39:03.819Z
+modified: 2026-10-21T16:39:04.000Z
+published: 2026-10-21T16:39:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
@@ -14,10 +18,6 @@ date modified: 2026-07-17T18:16:00+02:00
 flag: 🇦🇹
 icon: flag
 linter-yaml-title-alias: Austria
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Austria

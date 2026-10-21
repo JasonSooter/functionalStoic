@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Coll de Banyuls
-created: 2026-10-20T07:39:57.000Z
-modified: 2026-10-21T10:53:15.787Z
-published: 2026-10-21T10:53:15.787Z
 aliases:
   - Col de Banyuls
+title: Coll de Banyuls
+created: 2026-10-20T07:39:57.000Z
+modified: 2026-10-21T10:53:16.000Z
+published: 2026-10-21T10:53:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Perpignan to Girona
 categories:
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 42.4501
   - 3.0541
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Catalonia]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Catalonia]]"
 Pyrenean pass on the France–Spain border between Banyuls-sur-Mer and Rabós in [[Catalonia]], the leg-breaking detour in a cycling post from Perpignan to Girona.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Perpignan to Girona]] | Mostly Bikes x Me | turning point | A leg-breaking detour when the Céret route was likely snowed in. |
 
 ## Perpignan to Girona — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c3px7z544z414aqd23ymq3)
 
 > Instead we pointed toward the Col de Banyuls.

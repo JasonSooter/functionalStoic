@@ -2,26 +2,25 @@
 publish: true
 title: Basildon
 created: 2026-10-20T02:11:37.000Z
-modified: 2026-10-21T13:55:42.573Z
-published: 2026-10-21T13:55:42.573Z
-aliases: []
-books:
-  - '#084 Keep on doing the (seemingly insignificant) thing you do'
-  - '#001 Opening ceremony for a new newsletter'
-categories:
-  - "[[Places]]"
-color: purple
-coordinates: 51.5777,0.5025
-geo_note: "approximate: converted from the 1-km OS grid reference TQ7389 on English\
-  \ Wikipedia"
-icon: newspaper
-location:
-  - 51.5777
-  - 0.5025
+modified: 2026-10-21T13:55:43.000Z
+published: 2026-10-21T13:55:43.000Z
 tags:
   - places
   - place/literary
   - source/ai/claude
+aliases: []
+books:
+  - "#084 Keep on doing the (seemingly insignificant) thing you do"
+  - "#001 Opening ceremony for a new newsletter"
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 51.5777,0.5025
+geo_note: "approximate: converted from the 1-km OS grid reference TQ7389 on English Wikipedia"
+icon: newspaper
+location:
+  - 51.5777
+  - 0.5025
 within: "[[Essex]]"
 ---
 
@@ -30,6 +29,7 @@ within: "[[Essex]]"
 New town in south [[Essex]], England, which appears in a Diagram Club newsletter as a much-mocked town you can cross almost entirely on traffic-free cycle paths.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[084 Keep on Doing the (Seemingly Insignificant) Thing You Do\|#084 Keep on doing the (seemingly insignificant) thing you do]] | Diagram Club | setting | A much-mocked town you can cross almost entirely by traffic-free cycle paths. |
@@ -42,6 +42,7 @@ New town in south [[Essex]], England, which appears in a Diagram Club newsletter
 - [[Langdon Nature Discovery Park]]
 
 ## #084 Keep on doing the (seemingly insignificant) thing you do — Diagram Club (2026)
+
 Source: [Original](https://diagramclub.substack.com/p/084-keep-on-doing-the-seemingly-insignificant) · [Readwise highlight](https://read.readwise.io/read/01m5bfxkn8pt8a1j3fhtfzp8wx)
 
 > My town, Basildon, doesn’t always get the best press, but I will say this for it: I can go almost anywhere in the town by bike via an entirely traffic-free route.
@@ -51,6 +52,7 @@ Source: [Original](https://diagramclub.substack.com/p/084-keep-on-doing-the-seem
 - **Why it matters:** A short defence of the town through its cycling network; minor in a longer newsletter.
 
 ## #001 Opening ceremony for a new newsletter — Dave Walker - Diagram Club (2024)
+
 Source: [Original](https://diagramclub.substack.com/p/001-opening-ceremony-for-a-new-newsletter) · [Readwise highlight](https://read.readwise.io/read/01m5fbhxwb6jcfqgdb1p2gnxth)
 
 > This is the Basildon and Pitsea carnival parade on Saturday. I was there with local cycling organisation Essex Pedal Power, who distribute free bikes in Basildon and elsewhere.

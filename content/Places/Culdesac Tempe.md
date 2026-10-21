@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Culdesac Tempe
-created: 2026-10-21T16:38:33.923Z
-modified: 2026-10-21T16:38:33.923Z
-published: 2026-10-21T16:38:33.923Z
 aliases:
   - Culdesac
+title: Culdesac Tempe
+created: 2026-10-21T16:38:34.000Z
+modified: 2026-10-21T16:38:34.000Z
+published: 2026-10-21T16:38:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Arizona Experiment!
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 33.4145
   - -111.8994
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Arizona]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Arizona]]"
 Car-free planned residential neighborhood in Tempe, Arizona, in the Phoenix metro area. It turns up in The Arizona Experiment! (Mr. Money Mustache): car-free neighborhood in Tempe where the author spends a winter as a life experiment.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Arizona Experiment! | Mr. Money Mustache | subject | Car-free neighborhood in Tempe where the author spends a winter as a life experiment. |
 
 ## The Arizona Experiment! — Mr. Money Mustache (2023)
+
 Source: [Original](https://www.mrmoneymustache.com/2023/11/02/moving-to-culdesac/) · [Readwise highlight](https://read.readwise.io/read/01m5fmra5vv3msfx6jhqgrv4kx)
 
 > Meet as many new people as possible, and answer the burning question that we all have: what kind of people choose to move to a car-free neighborhood in the center of a super-car-based metropolis?

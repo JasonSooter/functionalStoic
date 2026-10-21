@@ -2,8 +2,12 @@
 publish: true
 title: The cols (Picking off passes post)
 created: 2026-10-21T02:08:11.000Z
-modified: 2026-10-21T13:45:06.082Z
-published: 2026-10-21T13:45:06.082Z
+modified: 2026-10-21T13:45:06.000Z
+published: 2026-10-21T13:45:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Picking off passes
@@ -12,17 +16,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 44.1056,3.8869
-geo_note: "inferred: Two firm matches, both Gard Cévennes; same trip as 'Passes Part\
-  \ Deux'."
+geo_note: "inferred: Two firm matches, both Gard Cévennes; same trip as 'Passes Part Deux'."
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 44.1056
   - 3.8869
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cévennes]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Cévennes]]"
 The cols are a string of small passes crossed in a day in the Gard part of the [[Cévennes]], pinned inferred around Saint-Jean-du-Gard and Mialet. They appear in a Mostly Bikes x Me post that lists them as the day's route, and share a trip with its companion post "Passes Part Deux".
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Picking off passes | Mostly Bikes x Me | journey waypoint | Seven named cols and 'yet another Le Collet' crossed in a day in the Cévennes; only Lamira was a side quest. |
 
 ## Picking off passes — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15583830523.html) · [Readwise highlight](https://read.readwise.io/read/01m5e33bgq1gra1gmwsm02gqex)
 
 > Col de Charnavas, Col de la Banlève, Col de Canteperdrix, Col de la Bégude, Col de la Baraque, Col d'Uglas, Col de Lamira and yet another “Le Collet”.

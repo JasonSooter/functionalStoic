@@ -2,8 +2,12 @@
 publish: true
 title: Los Angeles Aqueduct
 created: 2026-10-20T04:35:27.000Z
-modified: 2026-10-21T11:17:59.636Z
-published: 2026-10-21T11:17:59.636Z
+modified: 2026-10-21T11:18:00.000Z
+published: 2026-10-21T11:18:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Los Angeles Aqueduct is Wild
@@ -11,16 +15,11 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 36.9756,-118.2103
-geo_note: approximate (Wikipedia infobox point, at the aqueduct's intake on the Owens
-  River; the system runs south to Los Angeles)
+geo_note: approximate (Wikipedia infobox point, at the aqueduct's intake on the Owens River; the system runs south to Los Angeles)
 icon: video
 location:
   - 36.9756
   - -118.2103
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -29,11 +28,13 @@ within: "[[California]]"
 Water system carrying Owens Valley water south to [[Los Angeles]] in [[California]], the subject of a Practical Engineering video tour.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Los Angeles Aqueduct Is Wild\|The Los Angeles Aqueduct is Wild]] | Practical Engineering | subject | A tour of an aqueduct that was obvious engineering but unscrupulous and short-sighted. |
 
 ## The Los Angeles Aqueduct is Wild — Practical Engineering (2026)
+
 Source: [Original](https://nebula.tv/videos/practical-engineering-the-los-angeles-aqueduct-is-wild/) · [Readwise highlight](https://read.readwise.io/read/01m5bs7c9y5q3b15by4kr5p1jv)
 
 > A little tour of the Los Angeles Aqueduct system.

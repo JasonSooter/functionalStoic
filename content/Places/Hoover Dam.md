@@ -2,8 +2,12 @@
 publish: true
 title: Hoover Dam
 created: 2026-10-20T19:37:23.000Z
-modified: 2026-10-21T14:11:23.717Z
-published: 2026-10-21T14:11:23.717Z
+modified: 2026-10-21T14:11:24.000Z
+published: 2026-10-21T14:11:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Why Are There No Short Arch Dams?
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 36.0156
   - -114.7378
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nevada]]"
 ---
 
@@ -29,12 +29,14 @@ within: "[[Nevada]]"
 Concrete arch-gravity dam on the Colorado River in Black Canyon, on the [[Nevada]]–Arizona border, USA. It is Wesley Crump's example of a famous arch dam that is really a gravity-arch hybrid.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why Are There No Short Arch Dams\|Why Are There No Short Arch Dams?]] | Wesley Crump | subject | The most famous arch dam, which is really a gravity-arch hybrid. |
 | If all humans died, when would the last light go out? | xkcd's What If? | backdrop | Used as the hydroelectric example: an operator said the dam would keep running on autopilot for several years if everyone left. |
 
 ## Why Are There No Short Arch Dams? — Wesley Crump (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/8/5/why-are-there-no-short-arch-dams) · [Readwise highlight](https://read.readwise.io/read/01m5dcm62wjtnqxd9e8j59apmf)
 
 > Even what is perhaps the most famous arch dam in the world - Hoover Dam - isn’t a pure arch structure.
@@ -44,6 +46,7 @@ Source: [Original](https://practical.engineering/blog/2025/8/5/why-are-there-no-
 - **Why it matters:** Illustrates hybrid design; a one-paragraph example.
 
 ## If all humans died, when would the last light go out? — xkcd's What If? (2024)
+
 Source: [Original](https://www.youtube.com/watch?v=8fADp43wJwU) · [Readwise highlight](https://read.readwise.io/read/01m5fcnxxcbfrv2awarzvvh86s)
 
 > An operator at the Hoover Dam once said that if everyone walked out,

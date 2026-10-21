@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Theater Freiburg
-created: 2026-10-20T01:37:00.000Z
-modified: 2026-10-21T13:44:06.255Z
-published: 2026-10-21T13:44:06.255Z
 aliases:
   - Stadttheater Freiburg
   - municipal theatre, Freiburg
+title: Theater Freiburg
+created: 2026-10-20T01:37:00.000Z
+modified: 2026-10-21T13:44:06.000Z
+published: 2026-10-21T13:44:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "Destroyed City, Broken Trams: When Freiburg Lay in Ruins"
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 47.9956
   - 7.8452
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Freiburg]]"
 Theater Freiburg is the municipal theatre on the Rotteckring in central [[Freiburg]], Germany. It appears in a VAG Freiburg article as one of two named spots where trams burned in the air raid of 27 November 1944.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Destroyed City, Broken Trams: When Freiburg Lay in Ruins | VAG Freiburg | turning point | A tram and its trailer burned in front of it in the raid of 27 November 1944. |
 
 ## Destroyed City, Broken Trams: When Freiburg Lay in Ruins — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/zerstoerte-stadt-kaputte-strassenbahnen-als-freiburg-in-truemmern-lag/) · [Readwise highlight](https://read.readwise.io/read/01m5beynnx3xeg7qwexyn43q1f)
 
 > Tram car 53 and trailer car 110 also burned in front of the municipal theatre, and tram car 44 and trailer car 107 were destroyed in front of the main station.

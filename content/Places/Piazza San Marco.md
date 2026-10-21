@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Piazza San Marco
-created: 2026-10-20T07:53:19.000Z
-modified: 2026-10-21T11:15:51.568Z
-published: 2026-10-21T11:15:51.568Z
 aliases:
   - St Mark's Square
   - San Marco
   - St Mark's Basilica
   - Piazzetta San Marco
+title: Piazza San Marco
+created: 2026-10-20T07:53:19.000Z
+modified: 2026-10-21T11:15:52.000Z
+published: 2026-10-21T11:15:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Death in Venice]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 45.4339
   - 12.3381
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Venice]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Venice]]"
 Venice's principal square, in front of St Mark's Basilica in [[Venice]], where Aschenbach in _Death in Venice_ smells the disinfectant and resolves to say nothing about the cholera.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Death in Venice]] | Thomas Mann | turning point | Where Aschenbach first smells the disinfectant and later resolves to say nothing. |
 
 ## Death in Venice — Thomas Mann (1912)
+
 Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5c4pv4knkcja4jkva6mfcvy)
 
 > He did not find his idol at San Marco. However, while taking tea at his little round wrought-iron table on the shady side of the square, he suddenly whiffed an unusual aroma in the air, an aroma he now felt he had been inhaling for days without being conscious of it, a cloying medicinal smell redolent of squalor and sores and dubious hygiene.
