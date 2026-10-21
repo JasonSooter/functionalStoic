@@ -2,8 +2,8 @@
 publish: true
 title: Washington, D.C.
 created: 2026-10-20T10:48:36.000Z
-modified: 2026-10-21T20:10:12.598Z
-published: 2026-10-21T20:10:12.598Z
+modified: 2026-10-21T22:31:52.146Z
+published: 2026-10-21T22:31:52.146Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -36,11 +36,15 @@ Capital of the United States. Hub for literary places in the region.
 - [[American University]]
 - [[Anacostia River Trail]]
 - [[Ben Caxton's apartment (Stranger in a Strange Land)]]
+- [[DAR Constitution Hall]]
 - [[DC USA]]
 - [[East Room]]
 - [[Executive Palace (Stranger in a Strange Land)]]
 - [[Friendship Baptist Church]]
 - [[K Street (Washington, D.C.)]]
+- [[La Casa Permanent Supportive Housing]]
+- [[Lincoln Memorial]]
+- [[New Mayflower Hotel (Stranger in a Strange Land)]]
 - [[Rubell Museum]]
 - [[Tidal Basin]]
 - [[Washington Union Station]]

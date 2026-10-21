@@ -2,18 +2,18 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-21T14:11:32.000Z
-published: 2026-10-21T14:11:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T23:08:29.635Z
+published: 2026-10-21T23:08:29.635Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # London
@@ -22,6 +22,7 @@ Capital of England and the United Kingdom, on the Thames; see the Travel note [[
 
 ## Sub-places
 
+- [[Bloomsbury]]
 - [[British Museum]]
 - [[Canada Water]]
 - [[Crossness Pumping Station]]

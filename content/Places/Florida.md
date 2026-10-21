@@ -2,8 +2,8 @@
 publish: true
 title: Florida
 created: 2026-10-19T22:29:17.000Z
-modified: 2026-10-21T20:10:10.266Z
-published: 2026-10-21T20:10:10.266Z
+modified: 2026-10-21T22:59:56.848Z
+published: 2026-10-21T22:59:56.848Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -42,6 +42,8 @@ State in the south-eastern [[United States]], appearing in the reading as one st
 - [[Kissimmee River]]
 - [[Miami Beach]]
 - [[Retreat at Twin Lakes]]
+- [[Sarasota]]
+- [[St Petersburg, Florida]]
 - [[Tallahassee]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)

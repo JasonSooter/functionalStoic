@@ -2,18 +2,18 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-21T16:39:03.000Z
-published: 2026-10-21T16:39:03.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T23:00:01.280Z
+published: 2026-10-21T23:00:01.280Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Colorado
@@ -30,6 +30,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Carter Lake]]
 - [[Chimney Hollow Reservoir]]
 - [[Colorado River]]
+- [[Colorado Springs]]
 - [[Colorado State Highway 9 wildlife crossings]]
 - [[Denver]]
 - [[Durango]]

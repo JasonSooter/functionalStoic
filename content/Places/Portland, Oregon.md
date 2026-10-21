@@ -1,18 +1,15 @@
 ---
 publish: true
-aliases:
-  - Portland
 title: Portland, Oregon
 created: 2026-10-20T04:33:34.000Z
-modified: 2026-10-21T13:56:41.000Z
-published: 2026-10-21T13:56:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T22:29:37.276Z
+published: 2026-10-21T22:29:37.276Z
+aliases:
+  - Portland
 books:
   - "[[It's All About the Bike]]"
   - "[[Walkable City]]"
+  - Why Does Portland Have so Many Strip Clubs?
 categories:
   - "[[Places]]"
 color: purple
@@ -21,6 +18,10 @@ icon: book
 location:
   - 45.52
   - -122.6819
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oregon]]"
 ---
 
@@ -33,16 +34,18 @@ City on the Willamette River in [[Oregon]], which shows up in the reading as Ame
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike]] | Robert Penn | subject | America's pedalling capital, where Penn collects his headset from Chris King. |
-| [[Walkable City]] | Jeff Speck | subject | Citing Joe Cortright's 'Portland's Green Dividend', Speck shows Portland drivers drive 20 percent less, saving \$1.1 billion a year, with… |
+| [[Walkable City]] | Jeff Speck | subject | Citing Joe Cortright's 'Portland's Green Dividend', Speck shows Portland drivers drive 20 percent less, saving $1.1 billion a year, with… |
+| Why Does Portland Have so Many Strip Clubs? | Priceonomics | subject | Why the city has the most strip clubs per head in the US: Oregon's free-expression law. |
 
 ## Sub-places
 
 - [[Firsthand Framebuilding School]]
 - [[Hoyt Rail Yards (Portland)]]
+- [[Mary's Club]]
 - [[Portland Streetcar]]
+- [[Star Theater (Portland)]]
 
 ## It's All About the Bike — Robert Penn (2010)
-
 Source: [[It's All About the Bike]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5bs7mmaas76thxcxxjtykx8)
 
 > I liked the company, Chris King. In fact, I liked Portland.
@@ -52,11 +55,19 @@ Source: [[It's All About the Bike]] · [Original](https://openlibrary.org/works/
 - **Why it matters:** Portland stands for the American cycling revival, so the steering chapter becomes a portrait of a bike city as well as of a component.
 
 ## Walkable City — Jeff Speck (2012)
-
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjn1t1fy9a3t94jxrv6mz)
 
 > But what really makes Portland unusual is how it has chosen to grow. While most American cities were building more highways, Portland invested in transit and biking.
 
 - **Role:** subject
-- **In the book:** Citing Joe Cortright's 'Portland's Green Dividend', Speck shows Portland drivers drive 20 percent less, saving \$1.1 billion a year, with its Skinny Streets, urban growth boundary, bike investment and an influx of young educated people. Local quirks include residents obeying DON'T WALK signs at 1 a.m.
+- **In the book:** Citing Joe Cortright's 'Portland's Green Dividend', Speck shows Portland drivers drive 20 percent less, saving $1.1 billion a year, with its Skinny Streets, urban growth boundary, bike investment and an influx of young educated people. Local quirks include residents obeying DON'T WALK signs at 1 a.m.
 - **Why it matters:** Portland is the main worked case for the economic argument that walkability pays. The argument is about a mid-sized, ordinary American city, so another comparable city would change the evidence but not the structure.
+
+## Why Does Portland Have so Many Strip Clubs? — Priceonomics (2015)
+Source: [Original](http://priceonomics.com/why-does-portland-have-so-many-strip-clubs/) · [Readwise highlight](https://read.readwise.io/read/01m5g8vmwv01r96hx2rmczewsz)
+
+> When it comes to self-imposed eccentricity, the city of Portland, Oregon has no equal.
+
+- **Role:** subject
+- **In the article:** Priceonomics checks whether Portland really has the most strip clubs per capita in the US, finds it does (one per 11,286 residents), and traces the reason to the free-expression clause of Oregon's 1859 constitution and the court cases built on it.
+- **Why it matters:** The city's character and legal history are the whole argument.

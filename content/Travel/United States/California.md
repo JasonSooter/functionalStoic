@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-21T20:09:59.742Z
-published: 2026-10-21T20:09:59.742Z
+modified: 2026-10-21T23:08:33.091Z
+published: 2026-10-21T23:08:33.091Z
 aliases: []
 books: []
 categories:
@@ -89,6 +89,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Elkhorn Slough]]
 - [[Emeryville station]]
 - [[Fairfax, California]]
+- [[Foothill College]]
 - [[Foresthill Bridge]]
 - [[Gordon French's garage (Menlo Park)]]
 - [[Hangar One (Mountain View)]]
@@ -98,6 +99,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Los Gatos]]
 - [[Mokelumne River]]
 - [[Mountain View]]
+- [[N Street Cohousing]]
 - [[Oakland]]
 - [[Ocean Avenue (Carmel-by-the-Sea)]]
 - [[Old Pasadena]]
@@ -106,6 +108,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Pebble Beach Golf Links]]
 - [[Saddleback Church]]
 - [[San Clemente Dam]]
+- [[San Diego]]
 - [[San Francisco]]
 - [[San Jacinto Mountains]]
 - [[Santa Barbara]]
@@ -119,5 +122,6 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Tesla Fremont Factory]]
 - [[Truckee River]]
 - [[Ventura, California]]
+- [[Walker Creek Ranch]]
 - [[Wallis Annenberg Wildlife Crossing]]
 - [[White Mountains (California)]]

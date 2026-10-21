@@ -2,8 +2,8 @@
 publish: true
 title: Massachusetts
 created: 2026-10-19T14:06:09.000Z
-modified: 2026-10-21T20:10:07.034Z
-published: 2026-10-21T20:10:07.034Z
+modified: 2026-10-21T23:17:15.233Z
+published: 2026-10-21T23:17:15.233Z
 aliases: []
 books: []
 categories:
@@ -25,7 +25,9 @@ US state in New England. Hub for literary places in Massachusetts.
 - [[Amherst]]
 - [[Blue Hills Reservation]]
 - [[Boston]]
+- [[Cambridge, Massachusetts]]
 - [[Cape Wind]]
+- [[Gloucester, Massachusetts]]
 - [[Harvard Art Museums]]
 - [[Harvard University]]
 - [[Lenox]]

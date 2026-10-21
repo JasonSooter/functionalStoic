@@ -2,18 +2,18 @@
 publish: true
 title: Poland
 created: 2026-10-20T16:29:01.000Z
-modified: 2026-10-21T05:07:25.000Z
-published: 2026-10-21T05:07:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T22:59:58.704Z
+published: 2026-10-21T22:59:58.704Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Poland
@@ -24,5 +24,6 @@ Country in central Europe. Hub for literary places in Poland.
 
 - [[Auschwitz]]
 - [[Central Communication Port]]
+- [[Gdańsk Shipyard]]
 - [[Warsaw]]
 - [[Warsaw Radio Mast]]

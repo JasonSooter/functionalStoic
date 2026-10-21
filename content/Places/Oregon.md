@@ -2,18 +2,18 @@
 publish: true
 title: Oregon
 created: 2026-10-20T04:35:52.000Z
-modified: 2026-10-21T19:39:02.000Z
-published: 2026-10-21T19:39:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T23:17:21.226Z
+published: 2026-10-21T23:17:21.226Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Oregon
@@ -22,6 +22,7 @@ US state in the Pacific Northwest. Hub for literary places in the state.
 
 ## Sub-places
 
+- [[Bagby Hot Springs]]
 - [[Bridge of the Gods]]
 - [[Crater Lake]]
 - [[Hinsdale Wave Research Laboratory]]

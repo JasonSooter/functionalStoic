@@ -1,19 +1,16 @@
 ---
 publish: true
-aliases:
-  - NYC
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-21T19:38:57.000Z
-published: 2026-10-21T19:38:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T22:31:49.082Z
+published: 2026-10-21T22:31:49.082Z
+aliases:
+  - NYC
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
   - Can Zohran Mamdani Really Freeze the Rent?
   - How Zohran Mamdani’s Big Goals Could Transform Life in New York City
+  - Where’s the Best Place in North America to Live an Edited Life?
 categories:
   - "[[Places]]"
 color: purple
@@ -23,6 +20,10 @@ icon: newspaper
 location:
   - 40.7128
   - -74.0061
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # New York City
@@ -36,6 +37,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go\|30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?]] | Kyla Scanlon | setting | Visible, maintained infrastructure and a 'how do we get to yes' attitude. |
 | [[Can Zohran Mamdani Really Freeze the Rent\|Can Zohran Mamdani Really Freeze the Rent?]] | Rachel Holliday Smith | subject | Whether a mayor can freeze rents on a million stabilized apartments. |
 | [[How Zohran Mamdani’s Big Goals Could Transform Life in New York City]] | RTBC Staff | subject | After the 2025 primary win, his goals: fare-free buses, public supermarkets, free child care, 200,000 new homes. |
+| Where’s the Best Place in North America to Live an Edited Life? | David Friedlander | subject | Ideal for an edited life on paper, but its housing costs make it brutal. |
 
 ## Sub-places
 
@@ -46,10 +48,12 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Allen AME Church (Queens)]]
 - [[Broadway Presbyterian Church]]
 - [[Brooklyn]]
+- [[Carmel Place]]
 - [[Central Park]]
 - [[Chrysler Building]]
 - [[Clarkson Street (Manhattan)]]
 - [[Cooper Union]]
+- [[Cornell Tech]]
 - [[East River]]
 - [[Hotel Chelsea]]
 - [[Jamaica Avenue and 164th Street (Queens)]]
@@ -57,17 +61,19 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Library Way]]
 - [[Lower East Side]]
 - [[Madison Square Garden (1890)]]
+- [[Masjid Malcolm Shabazz]]
 - [[Metropolitan Museum of Art]]
 - [[Myka]]
 - [[New York Marriott Marquis]]
 - [[New York Public Library Main Branch]]
+- [[Public Speaking–Social Anxiety Center of New York]]
 - [[Queens Village]]
 - [[Times Square]]
 - [[Topos Too]]
 - [[Union Theological Seminary]]
+- [[YMCA on 125th Street (Harlem)]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
-
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5e0fq0803z77naxg4e2r)
 
 > Maybe that’s because it’s older, or because the architecture forces you to look up. History lives in the buildings here.
@@ -77,7 +83,6 @@ Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · 
 - **Why it matters:** It is the essay's American counter-example to decline.
 
 ## Can Zohran Mamdani Really Freeze the Rent? — Rachel Holliday Smith (2025)
-
 Source: [Original](https://www.thecity.nyc/2025/09/02/rent-freeze-mamdani-affordable-housing-stabilized-apartments/) · [Readwise highlight](https://read.readwise.io/read/01m5d21c0n7vs8cf9r1r2keq3w)
 
 > But does the mayor of New York City actually have the power to stop rent increases in one of the most expensive cities in the world?
@@ -87,7 +92,6 @@ Source: [Original](https://www.thecity.nyc/2025/09/02/rent-freeze-mamdani-afford
 - **Why it matters:** The whole city is the subject; no single neighbourhood or building does work in the piece.
 
 ## How Zohran Mamdani’s Big Goals Could Transform Life in New York City — RTBC Staff (2025)
-
 Source: [Original](https://reasonstobecheerful.world/zohran-mamdani-goals-learn-more/) · [Readwise highlight](https://read.readwise.io/read/01m5dr1q25k6n3eh6gq9t5cqrp)
 
 > New York would become the biggest city in the U.S. — and perhaps the world — to eliminate bus fares entirely.
@@ -95,3 +99,12 @@ Source: [Original](https://reasonstobecheerful.world/zohran-mamdani-goals-learn-
 - **Role:** subject
 - **In the article:** After Mamdani won the 2025 Democratic mayoral primary, the piece lists his goals: fare-free buses, city-owned nonprofit supermarkets, free child care for ages six weeks to five, and 200,000 city-built affordable homes in 10 years.
 - **Why it matters:** The city is the subject of the proposals; other cities appear as models.
+
+## Where’s the Best Place in North America to Live an Edited Life? — David Friedlander (2015)
+Source: [Original](https://lifeedited.com/wheres-the-best-place-in-north-america-to-live-an-edited-life/) · [Readwise highlight](https://read.readwise.io/read/01m5g0eg3y4ztarq523n0phfr4)
+
+> It is one of the most walkable cities in the world. It has a peerless public transit system and an increasingly awesome network of bike lanes.
+
+- **Role:** subject
+- **In the article:** The author argues New York should be ideal for a small, simple life, being walkable, cultured and well served by transit, but its rents force long working hours that defeat the idea.
+- **Why it matters:** The city is the post's test case for where an edited life is possible.

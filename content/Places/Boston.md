@@ -2,18 +2,18 @@
 publish: true
 title: Boston
 created: 2026-10-21T13:56:40.000Z
-modified: 2026-10-21T19:39:23.000Z
-published: 2026-10-21T19:39:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T22:32:04.586Z
+published: 2026-10-21T22:32:04.586Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 ---
 
@@ -24,5 +24,8 @@ Capital of Massachusetts, on Massachusetts Bay. It collects places from Jason's 
 ## Sub-places
 
 - [[Arnold Arboretum]]
+- [[Athinoula A. Martinos Center]]
+- [[Harvard Business School]]
+- [[Logan International Airport]]
 - [[New England Aquarium]]
 - [[Seaport World Trade Center]]

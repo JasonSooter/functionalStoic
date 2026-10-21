@@ -2,18 +2,18 @@
 publish: true
 title: Vermont
 created: 2026-10-21T02:13:42.000Z
-modified: 2026-10-21T16:39:48.000Z
-published: 2026-10-21T16:39:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T22:59:52.875Z
+published: 2026-10-21T22:59:52.875Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Vermont
@@ -23,6 +23,7 @@ US state in New England.
 ## Sub-places
 
 - [[Barre, Vermont]]
+- [[Burlington, Vermont]]
 - [[Craftsbury Outdoor Center]]
 - [[Green Mount Cemetery (Montpelier)]]
 - [[Middlebury College]]
