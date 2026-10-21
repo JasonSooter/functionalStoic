@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Isle of Rum
-created: 2026-10-21T04:46:23.572Z
-modified: 2026-10-21T04:46:23.572Z
-published: 2026-10-21T04:46:23.572Z
+created: 2026-10-21T04:46:24.000Z
+modified: 2026-10-21T04:46:24.000Z
+published: 2026-10-21T04:46:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "What We’re Reading: The Sustainable Power of ‘Dispersed Tourism’"
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 56.994
   - -6.344
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Scotland]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Scotland]]"
 Island in Inner Hebrides, western Scotland. Part of [[Scotland]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What We’re Reading: The Sustainable Power of ‘Dispersed Tourism’ | RTBC Staff | subject | A staff member shares a NYT story that the island became a Dark Sky Reserve. |
 
 ## What We’re Reading: The Sustainable Power of ‘Dispersed Tourism’ — RTBC Staff (2025)
+
 Source: [Original](https://reasonstobecheerful.world/what-were-reading-sustainable-dispersed-tourism/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqv9scvr8aghzrq6xaev0)
 
 > Rum, an island off the western coast of Scotland, recently became Europe’s newest official Dark Sky Reserve.

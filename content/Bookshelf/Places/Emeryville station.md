@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Emeryville station
-created: 2026-10-21T05:07:10.283Z
-modified: 2026-10-21T05:07:10.283Z
-published: 2026-10-21T05:07:10.283Z
+created: 2026-10-21T05:07:10.000Z
+modified: 2026-10-21T05:07:10.000Z
+published: 2026-10-21T05:07:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - While Riding on a Train Going West
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 37.8407
   - -122.2925
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California (Literary)]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[California (Literary)]]"
 Railway station in California, USA. Part of [[California (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | While Riding on a Train Going West | Linnesby-Maria | journey waypoint | The train's last stop before San Francisco, with a half-hour shuttle bus onward. |
 
 ## While Riding on a Train Going West — Linnesby-Maria (2024)
+
 Source: [Original](https://notesfromlinnesby.substack.com/p/while-riding-on-a-train-going-west) · [Readwise highlight](https://read.readwise.io/read/01m5edebecw3dp0nwvcx5shbnb)
 
 > Coming up the bay to Emeryville, I catch a glimpse of Mt. Tam.

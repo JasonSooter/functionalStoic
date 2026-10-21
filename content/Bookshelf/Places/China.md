@@ -2,18 +2,18 @@
 publish: true
 title: China
 created: 2026-10-20T07:53:40.000Z
-modified: 2026-10-21T05:07:24.148Z
-published: 2026-10-21T05:07:24.148Z
+modified: 2026-10-21T05:07:24.000Z
+published: 2026-10-21T05:07:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # China
@@ -21,6 +21,7 @@ tags:
 Country in East Asia. Hub for literary places in the country (see also [[Chongqing]]).
 
 ## Sub-places
+
 - [[Beijing]]
 - [[Chengdu]]
 - [[Chongqing]]

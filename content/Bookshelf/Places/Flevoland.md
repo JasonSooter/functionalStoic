@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Flevoland
-created: 2026-10-21T05:07:39.693Z
-modified: 2026-10-21T05:07:39.693Z
-published: 2026-10-21T05:07:39.693Z
+created: 2026-10-21T05:07:40.000Z
+modified: 2026-10-21T05:07:40.000Z
+published: 2026-10-21T05:07:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Why are the Dutch So Famous for Waterworks?
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 52.5333
   - 5.6667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Netherlands (Literary)]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Netherlands (Literary)]]"
 Polder / province in IJsselmeer region, Netherlands. Part of [[Netherlands (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why are the Dutch So Famous for Waterworks? | Practical Engineering | subject | Four huge polders were built on former seafloor after the Zuiderzee was closed. |
 
 ## Why are the Dutch So Famous for Waterworks? — Practical Engineering (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/1/21/why-are-the-dutch-so-famous-for-waterworks) · [Readwise highlight](https://read.readwise.io/read/01m5edeysr9efb0j3m8j224t49)
 
 > The later three polders became Flevoland (FLAYvo-lahnd), a totally new province of dry land reclaimed from the sea.

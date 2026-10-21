@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Washington Bridge (Providence)
-created: 2026-10-21T04:45:53.395Z
-modified: 2026-10-21T04:45:53.395Z
-published: 2026-10-21T04:45:53.395Z
+created: 2026-10-21T04:45:53.000Z
+modified: 2026-10-21T04:45:53.000Z
+published: 2026-10-21T04:45:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - This Bridge’s Bizarre Design Nearly Caused It To Collapse
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 41.8191
   - -71.387
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rhode Island]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Rhode Island]]"
 Bridge in Providence to East Providence, Rhode Island, USA. Part of [[Rhode Island]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This Bridge’s Bizarre Design Nearly Caused It To Collapse | Practical Engineering | subject | The westbound span was closed in December 2023 after broken tie-down rods were found under the navigation span. |
 
 ## This Bridge’s Bizarre Design Nearly Caused It To Collapse — Practical Engineering (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/3/18/this-bridges-bizarre-design-nearly-caused-it-to-collapse) · [Readwise highlight](https://read.readwise.io/read/01m5ebqhbsh1186h0ahb8s17pn)
 
 > This is the Washington Bridge that carries I-195 over the Seekonk River in Providence, Rhode Island… or at least, it was the Washington Bridge.

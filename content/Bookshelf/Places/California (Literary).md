@@ -2,18 +2,18 @@
 publish: true
 title: California
 created: 2026-10-20T04:35:47.000Z
-modified: 2026-10-21T05:07:04.383Z
-published: 2026-10-21T05:07:04.383Z
+modified: 2026-10-21T05:07:04.000Z
+published: 2026-10-21T05:07:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # California
@@ -21,6 +21,7 @@ tags:
 Hub for literary places in California. See the Travel note [[California]] and the city hub [[Los Angeles]]. (File named "(Literary)" to avoid clashing with the Travel note's name.)
 
 ## Sub-places
+
 - [[Altadena]]
 - [[Auburn Dam]]
 - [[Berkeley, California]]

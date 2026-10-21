@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Monrovia
-created: 2026-10-21T04:46:26.529Z
-modified: 2026-10-21T04:46:26.529Z
-published: 2026-10-21T04:46:26.529Z
+created: 2026-10-21T04:46:27.000Z
+modified: 2026-10-21T04:46:27.000Z
+published: 2026-10-21T04:46:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 6.3133
   - -10.8014
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Liberia]]"
 ---
 
@@ -28,14 +28,17 @@ within: "[[Liberia]]"
 City in Liberia. Part of [[Liberia]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | subject | Monrovia is the feared epicentre of exponential ebola growth, with full treatment facilities and slums; Rosling later works there and maps cases and contacts across the city. |
 
 ## Sub-places
+
 - [[Ministry of Health (Monrovia)]]
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
+
 Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5ebtfs55d9dqa6ab5jf390b)
 
 > Already by the beginning of September, people were dying in the streets of Monrovia, Liberia’s capital city, something that had not happened in modern times except during wartime or because of a natural disaster.

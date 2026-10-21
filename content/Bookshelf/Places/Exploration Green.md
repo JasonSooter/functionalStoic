@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Exploration Green
-created: 2026-10-21T04:45:56.919Z
-modified: 2026-10-21T04:45:56.919Z
-published: 2026-10-21T04:45:56.919Z
+created: 2026-10-21T04:45:57.000Z
+modified: 2026-10-21T04:45:57.000Z
+published: 2026-10-21T04:45:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Former Golf Courses Are Going Wild
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 29.5701
   - -95.1123
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Texas]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Texas]]"
 Nature reserve in Houston, Texas, USA. Part of [[Texas]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Former Golf Courses Are Going Wild | Jennifer Cole | subject | A closed golf course was bought by the Clear Lake Water Authority and turned into detention ponds and a 200-acre nature reserve. |
 
 ## Former Golf Courses Are Going Wild — Jennifer Cole (2025)
+
 Source: [Original](https://reasonstobecheerful.world/rewilding-golf-courses/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqjqdjtf2xkp3ctt2414h)
 
 > These days, when it rains heavily in the southeast Houston neighborhood of Clear Lake, residents can rest easy.

@@ -2,8 +2,8 @@
 publish: true
 title: Type Ashton's village (Black Forest)
 created: 2026-10-21T02:08:16.000Z
-modified: 2026-10-21T02:08:16.000Z
-published: 2026-10-21T02:08:16.000Z
+modified: 2026-10-21T04:20:33.000Z
+published: 2026-10-21T04:20:33.000Z
 tags:
   - places
   - place/literary
@@ -37,7 +37,7 @@ The place as What the U.S. Gets Wrong About Fitness (And Europe Gets Right) desc
 
 ## What the U.S. Gets Wrong About Fitness (And Europe Gets Right) — Type Ashton (2026)
 
-Source: [Readwise highlight](https://read.readwise.io/read/01m5e33qxc2572d99bgrmeqnbz)
+Source: [Original](https://www.youtube.com/watch?v=9-6ZvJL-dH0) · [Readwise highlight](https://read.readwise.io/read/01m5e33qxc2572d99bgrmeqnbz)
 
 > in the Black Forest
 

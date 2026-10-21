@@ -1,19 +1,19 @@
 ---
 publish: true
 title: West Virginia
-created: 2026-10-21T04:45:13.489Z
-modified: 2026-10-21T04:45:13.489Z
-published: 2026-10-21T04:45:13.489Z
+created: 2026-10-21T04:45:13.000Z
+modified: 2026-10-21T04:45:13.000Z
+published: 2026-10-21T04:45:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # West Virginia
@@ -21,4 +21,5 @@ tags:
 U.S. state.
 
 ## Sub-places
+
 - [[Mercer County, West Virginia]]

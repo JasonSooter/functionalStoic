@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Ruby Canyon
-created: 2026-10-21T05:07:04.339Z
-modified: 2026-10-21T05:07:04.339Z
-published: 2026-10-21T05:07:04.339Z
+created: 2026-10-21T05:07:04.000Z
+modified: 2026-10-21T05:07:04.000Z
+published: 2026-10-21T05:07:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - While Riding on a Train Going West
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 39.1175
   - -109.0708
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Colorado]]"
 Canyon in Utah/Colorado border region, USA. Part of [[Colorado]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | While Riding on a Train Going West | Linnesby-Maria | setting | She is terrified by the huge red cliffs at 100 F, while her Utah seat-mate rejoices because the canyons are her home. |
 
 ## While Riding on a Train Going West — Linnesby-Maria (2024)
+
 Source: [Original](https://notesfromlinnesby.substack.com/p/while-riding-on-a-train-going-west) · [Readwise highlight](https://read.readwise.io/read/01m5ede8vv38racsmapeyn1nbg)
 
 > If the train breaks down, we will be lost in the heat under these huge, alien red rocks.

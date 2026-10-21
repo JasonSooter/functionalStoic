@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Catalina State Park
-created: 2026-10-21T04:44:55.136Z
-modified: 2026-10-21T04:44:55.136Z
-published: 2026-10-21T04:44:55.136Z
+created: 2026-10-21T04:44:55.000Z
+modified: 2026-10-21T04:44:55.000Z
+published: 2026-10-21T04:44:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - 2 days on Tucson’s Loop Trail
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 32.4168
   - -110.9376
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Arizona]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Arizona]]"
 State park entrance in Oro Valley, north of Tucson, Arizona, USA. Part of [[Arizona]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 2 days on Tucson’s Loop Trail | alliumstozinnias | journey waypoint | The first-day ride went northeast to Oro Valley and the Catalina State Park entrance, then back and northwest toward Marana. |
 
 ## 2 days on Tucson’s Loop Trail — alliumstozinnias (2025)
+
 Source: [Original](https://exploringbybike.com/2025/02/28/2-days-on-tucsons-loop-trail/) · [Readwise highlight](https://read.readwise.io/read/01m5ebry40gadhjjj62b9qdhtx)
 
 > On our first day of cycling, we headed northeast to Oro Valley and the entrance to Catalina State Park, then backtracked and biked northwest toward Marana.

@@ -5,8 +5,8 @@ aliases:
   - Kulmhotel Gornergrat
 title: Gornergrat
 created: 2026-10-20T01:37:54.000Z
-modified: 2026-10-21T01:46:54.000Z
-published: 2026-10-21T01:46:54.000Z
+modified: 2026-10-21T04:21:20.000Z
+published: 2026-10-21T04:21:20.000Z
 tags:
   - places
   - place/literary
@@ -48,7 +48,7 @@ Source: [Original](https://www.youtube.com/watch?v=-2dv2wwUp6w) · [Readwise hig
 
 ## The Alpine Hotel You Can't Get to by Car — Not Just Bikes (2025)
 
-Source: [Readwise highlight](https://read.readwise.io/read/01m5ce3nmxsrncqk3gs7bbrf54)
+Source: [Original](https://www.youtube.com/watch?v=Q1du2Z-cF2c) · [Readwise highlight](https://read.readwise.io/read/01m5ce3nmxsrncqk3gs7bbrf54)
 
 > This is Gornergrat, and it has the highest hotel in Switzerland. The only way to get here is by train, and that’s my kind of destination.
 

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: La Molière (Vercors post)
-created: 2026-10-21T04:46:21.032Z
-modified: 2026-10-21T04:46:21.032Z
-published: 2026-10-21T04:46:21.032Z
+created: 2026-10-21T04:46:21.000Z
+modified: 2026-10-21T04:46:21.000Z
+published: 2026-10-21T04:46:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[La Molière]]"
@@ -12,17 +16,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 45.1979,5.5918
-geo_note: "inferred: La Molière pinned at La Molière, Autrans-Méaudre en Vercors,\
-  \ Isère (plateau/forest-road summit, Vercors); see Where is it?"
+geo_note: "inferred: La Molière pinned at La Molière, Autrans-Méaudre en Vercors, Isère (plateau/forest-road summit, Vercors); see Where is it?"
 geo_source: OSM node 512562881 (La Molière, Autrans)
 icon: newspaper
 location:
   - 45.1979
   - 5.5918
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vercors]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Vercors]]"
 Unnamed or fictional setting in _La Molière_; pinned at an inferred location within [[Vercors]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[La Molière]] | Mostly Bikes x Me | journey waypoint | The author rides on the last day in the Vercors, collecting a few passes as side quests. |
 
 ## La Molière — Mostly Bikes x Me (2025)
+
 Source: [[La Molière]] · [Original](https://funkadelic.net/pages/15364972296.html) · [Readwise highlight](https://read.readwise.io/read/01m5ebwwyxett1b57vfahqw2b5)
 
 > Last day in Vercors. Side quests to collect a few passes. The best part of this ride is the very quiet ~9mi logging road.

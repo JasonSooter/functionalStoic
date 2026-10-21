@@ -2,18 +2,18 @@
 publish: true
 title: England
 created: 2026-10-20T10:42:19.000Z
-modified: 2026-10-21T04:46:57.794Z
-published: 2026-10-21T04:46:57.794Z
+modified: 2026-10-21T04:46:58.000Z
+published: 2026-10-21T04:46:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # England

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Piraeus
-created: 2026-10-21T05:07:21.988Z
-modified: 2026-10-21T05:07:21.988Z
-published: 2026-10-21T05:07:21.988Z
+created: 2026-10-21T05:07:22.000Z
+modified: 2026-10-21T05:07:22.000Z
+published: 2026-10-21T05:07:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Daily Stoic]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 37.943
   - 23.6469
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Greece]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Greece]]"
 Journey waypoint in Eastern Mediterranean, Greece. Part of [[Greece]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Daily Stoic]] | Ryan Holiday | turning point | Zeno, a merchant before he was a philosopher, was shipwrecked on a voyage from Phoenicia to Peiraeus and lost his cargo. |
 
 ## The Daily Stoic — Ryan Holiday (2016)
+
 Source: [[The Daily Stoic]] · [Readwise highlight](https://read.readwise.io/read/01m5edh04p41vhvw14nmptx93r)
 
 > On a voyage between Phoenicia and Peiraeus, his ship sank along with its cargo. Zeno ended up in Athens, and while visiting a bookstore he was introduced to the philosophy of Socrates and, later, an Athenian philosopher named Crates.

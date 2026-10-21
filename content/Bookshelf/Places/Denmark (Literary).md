@@ -2,15 +2,15 @@
 publish: true
 title: Denmark
 created: 2026-10-20T19:39:32.000Z
-modified: 2026-10-21T05:07:50.602Z
-published: 2026-10-21T05:07:50.602Z
+modified: 2026-10-21T05:07:51.000Z
+published: 2026-10-21T05:07:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Will mushrooms go mainstream in Denmark?
-  - Why we ended up homeschooling
-  - "[['Workaday' or 'Novelty' Parenting the Danish vs Not-So-Danish Way]]"
-  - Come on then 2025, let's be having you
-  - "What I've learned from Danes: 5 Lessons for a Better Festive Season"
 categories:
   - "[[Places]]"
 color: purple
@@ -21,10 +21,6 @@ icon: newspaper
 location:
   - 56
   - 10
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Denmark
@@ -32,6 +28,7 @@ tags:
 Country in northern Europe. See also the Travel note [[Denmark]]. The pin is the country's centroid.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Will mushrooms go mainstream in Denmark? | Helen Russell | subject | A sensible experimenter that might lead on psychedelic therapy. |
@@ -41,6 +38,7 @@ Country in northern Europe. See also the Travel note [[Denmark]]. The pin is the
 | What I've learned from Danes: 5 Lessons for a Better Festive Season | Helen Russell | subject | The author, back in the UK after 12 years in Denmark, structures the piece around five Danish Christmas traditions. |
 
 ## Sub-places
+
 - [[Billund]]
 - [[Helsingør]]
 - [[Rødbyhavn]]
@@ -48,6 +46,7 @@ Country in northern Europe. See also the Travel note [[Denmark]]. The pin is the
 - [[Vejle]]
 
 ## Will mushrooms go mainstream in Denmark? — Helen Russell
+
 Source: [Original](https://mshelenrussell.substack.com/p/when-mushrooms-go-mainstream) · [Readwise highlight](https://read.readwise.io/read/01m5dcntkbs8dz3ysbwmbynkbd)
 
 > Denmark has a knack for experimenting sensibly (see: wind power, bike lanes, gender-neutral parental leave).
@@ -57,6 +56,7 @@ Source: [Original](https://mshelenrussell.substack.com/p/when-mushrooms-go-mains
 - **Why it matters:** Country-level subject of the argument; no particular site is described.
 
 ## Why we ended up homeschooling — Henrik Karlsson (2025)
+
 Source: [Original](https://www.henrikkarlsson.xyz/p/why-we-ended-up-homeschooling) · [Readwise highlight](https://read.readwise.io/read/01m5ebppaf8pdszqv9cfae0r7k)
 
 > As some of you know, Johanna and I moved to Denmark in 2020 to homeschool our daughter, Maud, which has been illegal in Sweden since 2011.
@@ -66,6 +66,7 @@ Source: [Original](https://www.henrikkarlsson.xyz/p/why-we-ended-up-homeschoolin
 - **Why it matters:** The move is the premise of the essay, but Denmark itself is not described; it matters only as the legal jurisdiction that permits homeschooling.
 
 ## 'Workaday' or 'Novelty'? Parenting the Danish vs Not-So-Danish Way — Helen Russell (2025)
+
 Source: [['Workaday' or 'Novelty' Parenting the Danish vs Not-So-Danish Way]] · [Original](https://mshelenrussell.substack.com/p/workaday-vs-novelty-parenting-the) · [Readwise highlight](https://read.readwise.io/read/01m5ebpqpjdgsbe4gpxxebpq8s)
 
 > In Denmark, more women were needed in the workforce post WWII and so childcare policies that supported (both) parents became standard.
@@ -75,6 +76,7 @@ Source: [['Workaday' or 'Novelty' Parenting the Danish vs Not-So-Danish Way]] ·
 - **Why it matters:** It is the contrast case for the UK/US pattern in the argument.
 
 ## Come on then 2025, let's be having you — Helen Russell (2025)
+
 Source: [Original](https://mshelenrussell.substack.com/p/come-on-then-2025-lets-be-having) · [Readwise highlight](https://read.readwise.io/read/01m5edg2mfmnky0btffa7qstb0)
 
 > In Denmark, the seasons are celebrated for what they are.
@@ -84,6 +86,7 @@ Source: [Original](https://mshelenrussell.substack.com/p/come-on-then-2025-lets-
 - **Why it matters:** Denmark is the source of every lesson; the piece is about carrying its culture elsewhere.
 
 ## What I've learned from Danes: 5 Lessons for a Better Festive Season — Helen Russell (2024)
+
 Source: [Original](https://mshelenrussell.substack.com/p/what-ive-learned-from-danes-5-lessons) · [Readwise highlight](https://read.readwise.io/read/01m5edg3v8c2nh6gpnq2sf7zk7)
 
 > Denmark in December is dark. Very dark. Think Mordor, but colder.

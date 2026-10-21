@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Paris
-created: 2026-10-19T14:14:18.000Z
-modified: 2026-10-21T05:07:52.194Z
-published: 2026-10-21T05:07:52.194Z
 aliases:
   - Paris (literary places)
+title: Paris
+created: 2026-10-19T14:14:18.000Z
+modified: 2026-10-21T05:07:52.000Z
+published: 2026-10-21T05:07:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
@@ -18,10 +22,6 @@ icon: book
 location:
   - 48.8567
   - 2.3522
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Paris
@@ -37,6 +37,7 @@ Capital of France. Travel note: [[Paris]]. (File named "(Literary)" to avoid cla
 | [[Not the End of the World]] | Hannah Ritchie | setting | Ritchie recounts attending COP21 in Paris in 2015, where the 1.5C target unexpectedly entered the final agreement. |
 
 ## Sub-places
+
 - [[Avenue de la Grande Armée]]
 - [[Centre Pompidou]]
 - [[Câble 1]]
@@ -58,6 +59,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5a86gz0wjjw3dzn0xq
 - **Not pinned separately:** Centre Pompidou (the target of the architecture rant). ⚠️ No coordinate from a standard source could be fetched this run.
 
 ## How '15-Minute Cities' Will Change the Way We Socialise — Peter Yeung (2020)
+
 Source: [[How '15-Minute Cities' Will Change the Way We Socialise]] · [Original](https://www.bbc.com/worklife/article/20201214-how-15-minute-cities-will-change-the-way-we-socialise) · [Readwise highlight](https://read.readwise.io/read/01m5d218ap56a9v45z1rmpax6r)
 
 > “I discovered it’s possible to feel like you're in a small village in Paris,” she says.
@@ -67,6 +69,7 @@ Source: [[How '15-Minute Cities' Will Change the Way We Socialise]] · [Original
 - **Why it matters:** Paris is the test case the article holds up for cities that want to copy the model.
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwise.io/read/01m5ebvffxyf7mdy9s4m2gq0v3)
 
 > In 2015, I went to Paris for the big, famous climate conference, COP21.

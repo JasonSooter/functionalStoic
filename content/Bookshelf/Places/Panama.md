@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Panama
-created: 2026-10-21T04:45:10.889Z
-modified: 2026-10-21T04:45:10.889Z
-published: 2026-10-21T04:45:10.889Z
+created: 2026-10-21T04:45:11.000Z
+modified: 2026-10-21T04:45:11.000Z
+published: 2026-10-21T04:45:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Panama
@@ -21,4 +21,5 @@ tags:
 Country in Central America.
 
 ## Sub-places
+
 - [[Panama Canal]]

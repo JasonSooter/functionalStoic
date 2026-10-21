@@ -1,17 +1,17 @@
 ---
 publish: true
 title: Belgium
-created: 2024-10-05T01:12:36.403Z
-modified: 2026-10-21T04:45:29.000Z
-published: 2026-10-21T04:45:29.000Z
-linter-yaml-title-alias: Belgium
-date created: 2023-09-26T13:22:28+02:00
-date modified: 2026-07-17T18:17:06+02:00
-aliases:
+created: 2026-10-21T04:45:29.697Z
+modified: 2026-10-21T04:45:29.698Z
+published: 2026-10-21T04:45:29.698Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/belgium
   - places
+linter-yaml-title-alias: Belgium
+date created: 2023-09-26T13:22:28+02:00
+date modified: 2026-07-17T18:17:06+02:00
+aliases:
 categories:
   - "[[Places]]"
 coordinates: 51.2194,4.4025
@@ -41,6 +41,7 @@ flag: 🇧🇪
 ## FAQ
 
 ---
+
 🙋
 ✨
 

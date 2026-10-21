@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Wörgl
-created: 2026-10-21T04:45:15.953Z
-modified: 2026-10-21T04:45:15.953Z
-published: 2026-10-21T04:45:15.953Z
+created: 2026-10-21T04:45:16.000Z
+modified: 2026-10-21T04:45:16.000Z
+published: 2026-10-21T04:45:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Towns That Invent Their Own Money
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 47.4833
   - 12.0667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austria (Literary)]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Austria (Literary)]]"
 Town in Tyrol, Austria. Part of [[Austria (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Towns That Invent Their Own Money | Kaja Šeruga | subject | In 1932 Wörgl, hit by the Depression, issued its own depreciating 'labor certificates' usable for local purchases and taxes. |
 
 ## The Towns That Invent Their Own Money — Kaja Šeruga (2025)
+
 Source: [Original](https://reasonstobecheerful.world/towns-invent-community-currencies/) · [Readwise highlight](https://read.readwise.io/read/01m5ebpsc9a9wtygn7nakk2nse)
 
 > In 1932 the small Austrian town of Wörgl was buckling under the weight of the Great Depression, with crumbling infrastructure, rising unemployment and ballooning debt.

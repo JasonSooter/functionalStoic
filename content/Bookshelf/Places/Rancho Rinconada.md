@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Rancho Rinconada
-created: 2026-10-21T04:46:51.858Z
-modified: 2026-10-21T04:46:51.858Z
-published: 2026-10-21T04:46:51.858Z
+created: 2026-10-21T04:46:52.000Z
+modified: 2026-10-21T04:46:52.000Z
+published: 2026-10-21T04:46:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 37.316
   - -122.0045
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cupertino]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Cupertino]]"
 Neighborhood in Cupertino, California. Part of [[Cupertino]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion]] | Jenny Odell | backdrop | Looking at a 1950s aerial photo against Google Maps, she finds her childhood house and realizes a wiggly line is Saratoga Creek, which ran past the neighborhood pool. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Readwise highlight](https://read.readwise.io/read/01m5ebv0frhwckypcxbd531b6k)
 
 > I came across an aerial map of Rancho Rinconada, the Cupertino neighborhood I grew up in, as it was being built in the 1950s.

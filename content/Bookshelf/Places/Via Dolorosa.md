@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Via Dolorosa
-created: 2026-10-21T05:07:15.216Z
-modified: 2026-10-21T05:07:15.216Z
-published: 2026-10-21T05:07:15.216Z
+created: 2026-10-21T05:07:15.000Z
+modified: 2026-10-21T05:07:15.000Z
+published: 2026-10-21T05:07:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Daily Stoic]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 31.7794
   - 35.2321
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jerusalem]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Jerusalem]]"
 Street/hill in Jerusalem, Judea. Part of [[Jerusalem]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Daily Stoic]] | Ryan Holiday | turning point | Holiday retells Jesus climbing the Via Dolorosa to Calvary Hill, beaten and flogged, before being crucified between two criminals. |
 
 ## The Daily Stoic — Ryan Holiday (2016)
+
 Source: [[The Daily Stoic]] · [Readwise highlight](https://read.readwise.io/read/01m5edgx8hwygg41e22zw62fg7)
 
 > As he wound his way up Via Dolorosa to the top of Calvary Hill

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: San Clemente Dam
-created: 2026-10-21T05:07:59.486Z
-modified: 2026-10-21T05:07:59.486Z
-published: 2026-10-21T05:07:59.486Z
+created: 2026-10-21T05:07:59.000Z
+modified: 2026-10-21T05:07:59.000Z
+published: 2026-10-21T05:07:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 36.4359
   - -121.7088
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California (Literary)]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[California (Literary)]]"
 Dam / river in Carmel River, Monterey Peninsula, California. Part of [[California (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion]] | Jenny Odell | subject | Odell recounts the 2015 removal of the dam, the largest in California history: the river was rerouted, the dam picked apart by excavators and hammers, and steelhead trout habitat restored. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Readwise highlight](https://read.readwise.io/read/01m5edhtes0z722f8hpyapb6np)
 
 > Just a few hours south of here on the Carmel River, the concrete San Clemente Dam had been built in 1921 by a real estate company in the Monterey Peninsula in order to provide water to a growing number of Monterey residents.

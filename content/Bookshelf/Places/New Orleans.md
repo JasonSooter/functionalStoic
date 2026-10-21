@@ -2,8 +2,12 @@
 publish: true
 title: New Orleans
 created: 2026-10-20T02:11:53.000Z
-modified: 2026-10-21T04:45:09.141Z
-published: 2026-10-21T04:45:09.141Z
+modified: 2026-10-21T04:45:09.000Z
+published: 2026-10-21T04:45:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -17,10 +21,6 @@ icon: video
 location:
   - 29.9761
   - -90.0783
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # New Orleans
@@ -28,6 +28,7 @@ tags:
 City on the Mississippi in Louisiana, USA.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why the Levees Failed in New Orleans | Practical Engineering | subject | The 2005 flooding as an engineering failure, not a natural disaster. |
@@ -42,6 +43,7 @@ City on the Mississippi in Louisiana, USA.
 - [[The Jockey Club race course (The Awakening)]]
 
 ## Why the Levees Failed in New Orleans — Practical Engineering (2026)
+
 Source: [Original](https://nebula.tv/videos/practical-engineering-why-the-levees-failed-in-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5bfxmvdeb9rbhz077cjjf31)
 
 > What happened in New Orleans in August 2005 wasn’t a natural disaster.
@@ -51,6 +53,7 @@ Source: [Original](https://nebula.tv/videos/practical-engineering-why-the-levees
 - **Why it matters:** The city is the subject, but the text here is a two-sentence summary; the argument itself is in the video.
 
 ## What Happens When You Give Teens No-Strings Cash? — Neal Morton (2025)
+
 Source: [Original](https://reasonstobecheerful.world/50-dollar-study-teens-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5dr1rgexkf4eyjqa171zd4c)
 
 > In New Orleans, roughly four in five of Rooted students come from economically disadvantaged families, and during the pandemic, many struggled to prioritize school.
@@ -60,6 +63,7 @@ Source: [Original](https://reasonstobecheerful.world/50-dollar-study-teens-new-o
 - **Why it matters:** The city is the study's home and a funder; its pandemic-era crime spike motivated the extension.
 
 ## What We’re Reading: A Spongier New Orleans — RTBC Staff (2025)
+
 Source: [Original](https://reasonstobecheerful.world/what-were-reading-spongier-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5e2zyp8cps5hshsnmp3m4r1)
 
 > Nearly 20 years after Hurricane Katrina, green infrastructure projects all over New Orleans are proving their worth, as residents witness first-hand the way that rain gardens and bioswales soak up heavy rain.

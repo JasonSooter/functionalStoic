@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Vejle
-created: 2026-10-21T05:06:49.110Z
-modified: 2026-10-21T05:06:49.110Z
-published: 2026-10-21T05:06:49.110Z
+created: 2026-10-21T05:06:49.000Z
+modified: 2026-10-21T05:06:49.000Z
+published: 2026-10-21T05:06:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Have yourself a Merry Danish Christmas
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 55.7167
   - 9.5333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Denmark (Literary)]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Denmark (Literary)]]"
 Town in Jutland, Denmark. Part of [[Denmark (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Have yourself a Merry Danish Christmas | Helen Russell | backdrop | The author, an immigrant now away, says she misses her Danish home town at Christmas. |
 
 ## Have yourself a Merry Danish Christmas — Helen Russell (2024)
+
 Source: [Original](https://mshelenrussell.substack.com/p/whats-on-the-menu-for-a-danish-christmas) · [Readwise highlight](https://read.readwise.io/read/01m5edgd5dvep1tq1pc614g44s)
 
 > I’m missing Denmark a lot at this time of year and my home town in particular.
