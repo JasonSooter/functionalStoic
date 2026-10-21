@@ -2,8 +2,8 @@
 publish: true
 title: Fort Collins
 created: 2026-10-20T10:42:09.000Z
-modified: 2026-10-20T23:04:14.462Z
-published: 2026-10-20T23:04:14.462Z
+modified: 2026-10-21T02:14:06.499Z
+published: 2026-10-21T02:14:06.499Z
 aliases:
   - FoCo
 books:
@@ -38,8 +38,10 @@ City on the Front Range in northern [[Colorado]], USA. See also the note [[Fort 
 | Bike to Wherever Day | Mostly Bikes x Me | setting | The blogger rides on Fort Collins' Bike to Wherever Day (2025, tagged Colorado/Strava), calling it the best day of the year, and rides out to Costco after a pancake-and-taco breakfast. |
 
 ## Sub-places
+- [[Colorado State University]]
 - [[Horsetooth Reservoir]]
 - [[Hughes property (Fort Collins)]]
+- [[Larimer County Road 38E]]
 - [[Lyric Cinema (Fort Collins)]]
 - [[New Belgium Brewing]]
 - [[Poudre River Whitewater Park]]

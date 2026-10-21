@@ -2,8 +2,8 @@
 publish: true
 title: Switzerland
 created: 2026-10-20T01:38:08.000Z
-modified: 2026-10-20T23:07:05.850Z
-published: 2026-10-20T23:07:05.850Z
+modified: 2026-10-21T02:08:08.348Z
+published: 2026-10-21T02:08:08.348Z
 aliases: []
 books: []
 categories:
@@ -24,6 +24,7 @@ Hub for literary places in Switzerland. See the Travel note [[Switzerland]].
 - [[Basel]]
 - [[Bern]]
 - [[Brig]]
+- [[Davos]]
 - [[Eigergletscher railway station]]
 - [[Geneva]]
 - [[Gotthard Road Tunnel]]

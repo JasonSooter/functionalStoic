@@ -2,8 +2,8 @@
 publish: true
 title: Vermont
 created: 2026-10-20T22:55:59.008Z
-modified: 2026-10-20T22:55:59.008Z
-published: 2026-10-20T22:55:59.008Z
+modified: 2026-10-21T02:13:41.801Z
+published: 2026-10-21T02:13:41.801Z
 aliases: []
 books: []
 categories:
@@ -23,3 +23,4 @@ US state in New England.
 ## Sub-places
 - [[Barre, Vermont]]
 - [[Green Mount Cemetery (Montpelier)]]
+- [[South Burlington]]

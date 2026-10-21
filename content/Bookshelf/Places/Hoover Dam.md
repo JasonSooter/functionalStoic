@@ -2,12 +2,8 @@
 publish: true
 title: Hoover Dam
 created: 2026-10-20T19:37:23.000Z
-modified: 2026-10-20T19:37:23.000Z
-published: 2026-10-20T19:37:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:28:40.024Z
+published: 2026-10-21T01:28:40.024Z
 aliases: []
 books:
   - Why Are There No Short Arch Dams?
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 36.0156
   - -114.7378
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nevada]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[Nevada]]"
 Concrete arch-gravity dam on the Colorado River in Black Canyon, on the [[Nevada]]–Arizona border, USA.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Are There No Short Arch Dams? | Wesley Crump | subject | The most famous arch dam, which is really a gravity-arch hybrid. |
 
 ## Why Are There No Short Arch Dams? — Wesley Crump (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5dcm62wjtnqxd9e8j59apmf)
+Source: [Original](https://practical.engineering/blog/2025/8/5/why-are-there-no-short-arch-dams) · [Readwise highlight](https://read.readwise.io/read/01m5dcm62wjtnqxd9e8j59apmf)
 
 > Even what is perhaps the most famous arch dam in the world - Hoover Dam - isn’t a pure arch structure.
 

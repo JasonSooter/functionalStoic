@@ -1,26 +1,27 @@
 ---
 publish: true
-aliases:
-  - Marianas Trench
 title: Mariana Trench
 created: 2026-10-20T04:19:28.000Z
-modified: 2026-10-20T07:22:57.000Z
-published: 2026-10-20T07:22:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:37:27.066Z
+published: 2026-10-21T01:37:27.066Z
+aliases:
+  - Marianas Trench
 books:
   - What if you dropped a bowling ball in the Mariana Trench?
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 11.35,142.2
-geo_note: approximate (Wikipedia's main marker for the trench, near the Challenger Deep)
+geo_note: approximate (Wikipedia's main marker for the trench, near the Challenger
+  Deep)
 icon: video
 location:
   - 11.35
   - 142.2
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Mariana Trench
@@ -28,14 +29,12 @@ location:
 The deepest oceanic trench, in the western Pacific east of the Mariana Islands.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What if you dropped a bowling ball in the Mariana Trench? | xkcd's What If? | subject | How long a bowling ball takes to sink 11 km, and why lighter ones never arrive. |
 
 ## What if you dropped a bowling ball in the Mariana Trench? — xkcd's What If? (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bre539x2yzsqyddscqtn5m)
+Source: [Original](https://www.youtube.com/watch?v=FYoHYq8VRt0) · [Readwise highlight](https://read.readwise.io/read/01m5bre539x2yzsqyddscqtn5m)
 
 > The Mariana Trench is 11 km deep, so the ball will take about 2 hours and 20 minutes to reach the bottom.
 

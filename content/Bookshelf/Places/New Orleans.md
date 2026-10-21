@@ -2,12 +2,13 @@
 publish: true
 title: New Orleans
 created: 2026-10-20T02:11:53.000Z
-modified: 2026-10-20T23:04:27.239Z
-published: 2026-10-20T23:04:27.239Z
+modified: 2026-10-21T02:14:53.097Z
+published: 2026-10-21T02:14:53.097Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
   - What Happens When You Give Teens No-Strings Cash?
+  - "What We’re Reading: A Spongier New Orleans"
 categories:
   - "[[Places]]"
 color: purple
@@ -31,6 +32,7 @@ City on the Mississippi in Louisiana, USA.
 |---|---|---|---|
 | Why the Levees Failed in New Orleans | Practical Engineering | subject | The 2005 flooding as an engineering failure, not a natural disaster. |
 | What Happens When You Give Teens No-Strings Cash? | Neal Morton | subject | The $50 study of weekly no-strings cash for high schoolers began in New Orleans and grew to nine high schools there; the city invested $1 million in January 2024. |
+| What We’re Reading: A Spongier New Orleans | RTBC Staff | subject | The piece reports that rain gardens and bioswales across New Orleans soak up heavy rain, nearly 20 years after Hurricane Katrina. |
 
 ## Sub-places
 
@@ -54,3 +56,12 @@ Source: [Original](https://reasonstobecheerful.world/50-dollar-study-teens-new-o
 - **Role:** subject
 - **In the article:** The $50 study of weekly no-strings cash for high schoolers began in New Orleans and grew to nine high schools there; the city invested $1 million in January 2024. Students such as Kapri Clark, Lyrik Grant and Vernell Cheneau III describe how they spent the money.
 - **Why it matters:** The city is the study's home and a funder; its pandemic-era crime spike motivated the extension.
+
+## What We’re Reading: A Spongier New Orleans — RTBC Staff (2025)
+Source: [Original](https://reasonstobecheerful.world/what-were-reading-spongier-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5e2zyp8cps5hshsnmp3m4r1)
+
+> Nearly 20 years after Hurricane Katrina, green infrastructure projects all over New Orleans are proving their worth, as residents witness first-hand the way that rain gardens and bioswales soak up heavy rain.
+
+- **Role:** subject
+- **In the article:** The piece reports that rain gardens and bioswales across New Orleans soak up heavy rain, nearly 20 years after Hurricane Katrina. A city water program manager says reducing flooding moves the needle, and an editor notes some communities felt solutions fatigue after Katrina but green infrastructure is winning over skeptics.
+- **Why it matters:** The city and its flood history are the subject of the item and give the green-infrastructure story its stakes.

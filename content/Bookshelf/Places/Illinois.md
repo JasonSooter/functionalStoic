@@ -2,8 +2,8 @@
 publish: true
 title: Illinois
 created: 2026-10-20T10:42:23.000Z
-modified: 2026-10-20T23:04:47.055Z
-published: 2026-10-20T23:04:47.055Z
+modified: 2026-10-21T02:12:31.310Z
+published: 2026-10-21T02:12:31.310Z
 aliases: []
 books: []
 categories:
@@ -21,5 +21,6 @@ tags:
 US state in the Midwest. Hub for literary places in the region.
 
 ## Sub-places
+- [[Alton sports complex sinkhole]]
 - [[Chicago]]
 - [[Fermilab]]

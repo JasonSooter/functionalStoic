@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Riffelberg station
 title: Riffelberg
 created: 2026-10-20T01:37:58.000Z
-modified: 2026-10-20T07:23:15.000Z
-published: 2026-10-20T07:23:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:37:31.710Z
+published: 2026-10-21T01:37:31.710Z
+aliases:
+  - Riffelberg station
 books:
   - The Best 30-Minute Train Ride in Switzerland
 categories:
@@ -21,6 +17,10 @@ icon: video
 location:
   - 45.9833
   - 7.7622
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Zermatt]]"
 ---
 
@@ -29,14 +29,12 @@ within: "[[Zermatt]]"
 Station and old mountain hotel on the Gornergrat railway above [[Zermatt]], Switzerland.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Best 30-Minute Train Ride in Switzerland | Simply Railway | journey waypoint | The second stop, with a Matterhorn view and one of Europe's oldest mountain hotels. |
 
 ## The Best 30-Minute Train Ride in Switzerland — Simply Railway (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5beyepky677d0vztz92cns2)
+Source: [Original](https://www.youtube.com/watch?v=-2dv2wwUp6w) · [Readwise highlight](https://read.readwise.io/read/01m5beyepky677d0vztz92cns2)
 
 > we are now approaching Riffelberg, our 2nd stop.
 

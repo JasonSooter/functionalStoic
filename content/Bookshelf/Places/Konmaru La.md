@@ -2,8 +2,8 @@
 publish: true
 title: Konmaru La
 created: 2026-10-20T10:42:05.000Z
-modified: 2026-10-20T22:14:51.649Z
-published: 2026-10-20T22:14:51.649Z
+modified: 2026-10-21T01:43:30.247Z
+published: 2026-10-21T01:43:30.247Z
 aliases:
   - Kongmaru La
   - Gongmaru La
@@ -35,7 +35,7 @@ High pass (5,250 m, per the text) at the head of the [[Markha Valley]], [[Ladakh
 | Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky | The Radavist | turning point | The crux: pushing a loaded bike to 5,250 metres in snow with altitude sickness. |
 
 ## Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky — The Radavist (2025)
-Source: [Readwise highlight](https://read.readwise.io/read/01m5ce3bjztrn7cngax0svvgn7)
+Source: [Original](https://theradavist.com/touring-the-indian-himalayas-bikepacking-the-markha-valley) · [Readwise highlight](https://read.readwise.io/read/01m5ce3bjztrn7cngax0svvgn7)
 
 > Nimaling is an improvised camp with prepared tents and, most importantly, the possibility of refreshment. I settled my upset stomach with black tea and got to it: the final, most brutal section up to the 5,250-meter-high Konmaru La Pass.
 

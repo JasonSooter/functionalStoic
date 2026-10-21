@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-20T23:04:50.151Z
-published: 2026-10-20T23:04:50.151Z
+modified: 2026-10-21T02:12:40.926Z
+published: 2026-10-21T02:12:40.926Z
 aliases:
   - NYC
 books:
@@ -44,6 +44,7 @@ See the Travel note [[New York]]. Hub for literary places in the city.
 - [[Brooklyn]]
 - [[Central Park]]
 - [[Chrysler Building]]
+- [[Clarkson Street (Manhattan)]]
 - [[East River]]
 - [[Hotel Chelsea]]
 - [[Madison Square Garden (1890)]]
@@ -51,7 +52,7 @@ See the Travel note [[New York]]. Hub for literary places in the city.
 - [[Times Square]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
-Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Readwise highlight](https://read.readwise.io/read/01m5ce5e0fq0803z77naxg4e2r)
+Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5e0fq0803z77naxg4e2r)
 
 > Maybe that’s because it’s older, or because the architecture forces you to look up. History lives in the buildings here.
 
@@ -60,7 +61,7 @@ Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · 
 - **Why it matters:** It is the essay's American counter-example to decline.
 
 ## Can Zohran Mamdani Really Freeze the Rent? — Rachel Holliday Smith (2025)
-Source: [Readwise highlight](https://read.readwise.io/read/01m5d21c0n7vs8cf9r1r2keq3w)
+Source: [Original](https://www.thecity.nyc/2025/09/02/rent-freeze-mamdani-affordable-housing-stabilized-apartments/) · [Readwise highlight](https://read.readwise.io/read/01m5d21c0n7vs8cf9r1r2keq3w)
 
 > But does the mayor of New York City actually have the power to stop rent increases in one of the most expensive cities in the world?
 

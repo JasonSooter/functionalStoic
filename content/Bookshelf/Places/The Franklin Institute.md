@@ -1,16 +1,12 @@
 ---
 publish: true
+title: The Franklin Institute
+created: 2026-10-20T16:26:34.000Z
+modified: 2026-10-21T01:24:25.854Z
+published: 2026-10-21T01:24:25.854Z
 aliases:
   - Franklin Institute
   - TFI
-title: The Franklin Institute
-created: 2026-10-20T16:26:34.000Z
-modified: 2026-10-20T16:26:34.000Z
-published: 2026-10-20T16:26:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[I Didn't Bring My Son to a Museum to Look at Screens]]"
 categories:
@@ -22,6 +18,10 @@ icon: newspaper
 location:
   - 39.9582
   - -75.1732
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Philadelphia]]"
 ---
 
@@ -30,14 +30,12 @@ within: "[[Philadelphia]]"
 Science museum in downtown [[Philadelphia]], Pennsylvania.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[I Didn't Bring My Son to a Museum to Look at Screens]] | Seth Purcell | subject | A childhood favourite revisited and found full of touchscreens. |
 
 ## I Didn't Bring My Son to a Museum to Look at Screens — Seth Purcell (2025)
-
-Source: [[I Didn't Bring My Son to a Museum to Look at Screens]] · [Readwise highlight](https://read.readwise.io/read/01m5d20g0063kzqjxm5x4whdxq)
+Source: [[I Didn't Bring My Son to a Museum to Look at Screens]] · [Original](https://sethpurcell.com/writing/screens-in-museums/) · [Readwise highlight](https://read.readwise.io/read/01m5d20g0063kzqjxm5x4whdxq)
 
 > She led our son gently but firmly away to the glorious four-story Foucault pendulum which hangs in a stairwell.
 

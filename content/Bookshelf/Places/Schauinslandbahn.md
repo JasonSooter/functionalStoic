@@ -2,8 +2,8 @@
 publish: true
 title: Schauinslandbahn
 created: 2026-10-19T14:08:41.000Z
-modified: 2026-10-20T22:34:36.200Z
-published: 2026-10-20T22:34:36.200Z
+modified: 2026-10-21T01:39:30.463Z
+published: 2026-10-21T01:39:30.463Z
 aliases:
   - Schauinsland cable car
   - Schauinsland
@@ -107,7 +107,7 @@ Source: [Original](https://blog.vag-freiburg.de/schauinslandbahn-schwebende-tour
 - **Why it matters:** The place is the subject, but the article is all numbers, with no scenes or description of the ride.
 
 ## Plenty of Wind for VAG: The Schauinslandbahn Runs on Green Electricity from the Taubenkopf — VAG Freiburg (2026)
-Source: [[Plenty of Wind for VAG - The Schauinslandbahn Runs on Green Electricity From the Taubenkopf]] · [Readwise highlight](https://read.readwise.io/read/01m5bextat6a6kk9c0367n162y)
+Source: [[Plenty of Wind for VAG - The Schauinslandbahn Runs on Green Electricity From the Taubenkopf]] · [Original](https://blog.vag-freiburg.de/maechtig-wind-fuer-die-vag-die-schauinslandbahn-faehrt-mit-oekostrom-vom-taubenkopf/) · [Readwise highlight](https://read.readwise.io/read/01m5bextat6a6kk9c0367n162y)
 
 > Just two kilometres separate our Schauinslandbahn from the two new wind turbines on the Taubenkopf.
 
@@ -116,7 +116,7 @@ Source: [[Plenty of Wind for VAG - The Schauinslandbahn Runs on Green Electricit
 - **Why it matters:** The cable car is the hook; the real subject is the Taubenkopf turbines, which aren't pinned (no standard-source coordinate was found).
 
 ## At the Schauinslandbahn, Safety Comes First — VAG Freiburg (2026)
-Source: [[At the Schauinslandbahn, Safety Comes First]] · [Readwise highlight](https://read.readwise.io/read/01m5bexk28n7astvkxp8m59fr2)
+Source: [[At the Schauinslandbahn, Safety Comes First]] · [Original](https://blog.vag-freiburg.de/bei-der-schauinslandbahn-geht-sicherheit-vor/) · [Readwise highlight](https://read.readwise.io/read/01m5bexk28n7astvkxp8m59fr2)
 
 > But passengers have no reason to worry, because safety comes first at the Schauinslandbahn.
 

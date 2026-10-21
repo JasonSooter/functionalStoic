@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-20T23:02:51.059Z
-published: 2026-10-20T23:02:51.059Z
+modified: 2026-10-21T02:06:58.569Z
+published: 2026-10-21T02:06:58.569Z
 aliases: []
 books: []
 categories:
@@ -23,9 +23,11 @@ Capital of England and the United Kingdom, on the Thames; see the Travel note [[
 ## Sub-places
 - [[Crossness Pumping Station]]
 - [[Grenfell Tower]]
+- [[IFS Cloud Cable Car]]
 - [[London Transport Museum Depot]]
 - [[Lord's Cricket Ground]]
 - [[Palace of Westminster]]
 - [[Regent's Canal]]
 - [[Royal Agricultural Hall]]
+- [[Victoria Embankment]]
 - [[Westminster Hall]]

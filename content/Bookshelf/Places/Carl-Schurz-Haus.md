@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Deutsch-Amerikanisches Institut Freiburg
 title: Carl-Schurz-Haus
 created: 2026-10-20T04:19:22.000Z
-modified: 2026-10-20T07:22:06.000Z
-published: 2026-10-20T07:22:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:32:10.935Z
+published: 2026-10-21T01:32:10.935Z
+aliases:
+  - Deutsch-Amerikanisches Institut Freiburg
 books:
   - Nach 16 Jahren verlässt Friederike Schulte das Carl-Schurz-Haus
 categories:
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 47.9972
   - 7.8442
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Freiburg (Literary)]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[Freiburg (Literary)]]"
 The German-American Institute in Freiburg im Breisgau, on Eisenbahnstraße. See [[Freiburg (Literary)]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Nach 16 Jahren verlässt Friederike Schulte das Carl-Schurz-Haus | Enya Steinbrecher | subject | The departing director looks back on 16 years at Freiburg's German-American institute. |
 
 ## Nach 16 Jahren verlässt Friederike Schulte das Carl-Schurz-Haus — Enya Steinbrecher (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bre4b2jg3mc6vk8vza90jb)
+Source: [Original](https://www.freiburger-wochenbericht.de/nach-16-jahren-verlaesst-friederike-schulte-das-carl-schurz-haus/) · [Readwise highlight](https://read.readwise.io/read/01m5bre4b2jg3mc6vk8vza90jb)
 
 > Generell ist das Carl-Schurz-Haus einfach ein schöner, idealistischer Ort: Ich bin jeden Tag gern hierher gekommen.
 

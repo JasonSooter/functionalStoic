@@ -2,8 +2,8 @@
 publish: true
 title: Mont Cenis Base Tunnel
 created: 2026-10-20T10:42:19.000Z
-modified: 2026-10-20T22:28:21.139Z
-published: 2026-10-20T22:28:21.139Z
+modified: 2026-10-21T02:08:47.083Z
+published: 2026-10-21T02:08:47.083Z
 aliases:
   - Lyon–Turin base tunnel
   - Mont d’Ambin Base Tunnel
@@ -36,6 +36,9 @@ within: "[[French Alps]]"
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Inside Europe’s New Mega-Tunnel Under The Alps | The B1M | subject | A tour inside Europe's new mega-tunnel under the Alps. |
+
+## Sub-places
+- [[The Alps base tunnel (B1M short)]]
 
 ## Inside Europe’s New Mega-Tunnel Under The Alps — The B1M (2025)
 Source: [Original](https://www.youtube.com/watch?v=NFrr-L_BcC4) · [Readwise highlight](https://read.readwise.io/read/01m5ce47n3v2f49gn6ya45yzq6)

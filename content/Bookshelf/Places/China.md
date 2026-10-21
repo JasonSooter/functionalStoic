@@ -2,8 +2,8 @@
 publish: true
 title: China
 created: 2026-10-20T07:53:40.000Z
-modified: 2026-10-20T23:03:14.397Z
-published: 2026-10-20T23:03:14.397Z
+modified: 2026-10-21T02:07:34.637Z
+published: 2026-10-21T02:07:34.637Z
 aliases: []
 books: []
 categories:
@@ -26,9 +26,12 @@ Country in East Asia. Hub for literary places in the country (see also [[Chongqi
 - [[Chongqing]]
 - [[Guan County]]
 - [[Guizhou]]
+- [[Ningbo]]
 - [[Shanghai]]
 - [[Shenzhen]]
 - [[Taiyuan]]
 - [[Three Gorges Dam]]
 - [[Tianjin]]
+- [[Wuhan]]
+- [[Yunnan]]
 - [[Zhengzhou]]

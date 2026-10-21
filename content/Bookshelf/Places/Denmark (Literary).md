@@ -2,8 +2,8 @@
 publish: true
 title: Denmark
 created: 2026-10-20T19:39:32.000Z
-modified: 2026-10-20T23:03:38.703Z
-published: 2026-10-20T23:03:38.703Z
+modified: 2026-10-21T02:11:15.143Z
+published: 2026-10-21T02:11:15.143Z
 aliases: []
 books:
   - Will mushrooms go mainstream in Denmark?
@@ -33,6 +33,8 @@ Country in northern Europe. See also the Travel note [[Denmark]]. The pin is the
 | Will mushrooms go mainstream in Denmark? | Helen Russell | subject | A sensible experimenter that might lead on psychedelic therapy. |
 
 ## Sub-places
+- [[Billund]]
+- [[Helsingør]]
 - [[Rødbyhavn]]
 
 ## Will mushrooms go mainstream in Denmark? — Helen Russell

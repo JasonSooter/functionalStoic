@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Wien Westbahnhof
+created: 2026-10-20T10:42:43.000Z
+modified: 2026-10-21T01:40:35.377Z
+published: 2026-10-21T01:40:35.377Z
 aliases:
   - Vienna Westbahnhof
   - Westbahnhof
-title: Wien Westbahnhof
-created: 2026-10-20T10:42:43.000Z
-modified: 2026-10-20T10:42:43.000Z
-published: 2026-10-20T10:42:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "Europe's First Chinese Double-Deck Train: Is It Any Good?"
 categories:
@@ -22,6 +18,10 @@ icon: video
 location:
   - 48.1967
   - 16.3372
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vienna (Literary)]]"
 ---
 
@@ -30,14 +30,12 @@ within: "[[Vienna (Literary)]]"
 Railway terminus in western [[Vienna (Literary)]], Austria.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Europe's First Chinese Double-Deck Train: Is It Any Good? | Simply Railway | setting | Boarding Europe's first Chinese-built double-deck train. |
 
 ## Europe's First Chinese Double-Deck Train: Is It Any Good? — Simply Railway (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5ce5j36pvx2v252h92dhezk)
+Source: [Original](https://www.youtube.com/watch?v=X3w2Vm9JTIM) · [Readwise highlight](https://read.readwise.io/read/01m5ce5j36pvx2v252h92dhezk)
 
 > Good morning folks and welcome to Vienna Westbahnhof for a new railway adventure!
 

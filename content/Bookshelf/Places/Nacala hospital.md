@@ -2,8 +2,8 @@
 publish: true
 title: Nacala hospital
 created: 2026-10-20T22:55:36.378Z
-modified: 2026-10-20T22:55:36.378Z
-published: 2026-10-20T22:55:36.378Z
+modified: 2026-10-21T02:08:14.632Z
+published: 2026-10-21T02:08:14.632Z
 aliases:
   - Hospital de Nacala
   - Nacala district hospital
@@ -38,6 +38,7 @@ Hospital in [[Nacala]], Mozambique.
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | setting | A fifty-bed hospital with a yard where a queue of sick children snakes in the sun, Papa Enrique's treatment room (where Rosling learns the nursing assistant cannot read), Doña Guita's triage, the emergency reception,… |
+| [[How I Learned to Understand the World]] | Hans Rosling | turning point | On a 2011 return, Rosling and Agneta tour the old clinic, a women's-rights office, an HIV unit and a new hospital above the town, meeting old colleagues like Mama Rosa, Papa Enrique and Ahmed. |
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
 Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5dqzft4qtr0aqkrzwe5w5z4)
@@ -47,3 +48,12 @@ Source: [[How I Learned to Understand the World]] · [Readwise highlight](https:
 - **Role:** setting
 - **In the book:** A fifty-bed hospital with a yard where a queue of sick children snakes in the sun, Papa Enrique's treatment room (where Rosling learns the nursing assistant cannot read), Doña Guita's triage, the emergency reception, and Rosling's cardboard-and-map 'war office' in the adjacent health administration building. Here he improvises obstetric destruction of a fetus, a father refuses to donate blood to his son (matrilineal society), and he records 52 child deaths a year against thousands outside its walls.
 - **Why it matters:** The hospital is where Rosling confronts the limits of individual-patient ethics and decides his job is the health of the whole population; its yard and rooms are the most concrete scenes of the chapter.
+
+## How I Learned to Understand the World — Hans Rosling
+Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5e32gqc85036xh63za0d0fs)
+
+> We parked on the sloping road leading down into the center. We recognized all the hospital buildings, except one: it was tiny and looked like a small kiosk.
+
+- **Role:** turning point
+- **In the book:** On a 2011 return, Rosling and Agneta tour the old clinic, a women's-rights office, an HIV unit and a new hospital above the town, meeting old colleagues like Mama Rosa, Papa Enrique and Ahmed. He apologizes to Ahmed for scolding him on the day his son died of measles.
+- **Why it matters:** A substantial new scene showing development after thirty years while remote villages remain poor.

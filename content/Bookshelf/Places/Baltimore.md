@@ -2,8 +2,8 @@
 publish: true
 title: Baltimore
 created: 2026-10-20T10:42:30.000Z
-modified: 2026-10-20T22:29:38.173Z
-published: 2026-10-20T22:29:38.173Z
+modified: 2026-10-21T02:13:16.800Z
+published: 2026-10-21T02:13:16.800Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -33,7 +33,7 @@ Port city in [[Maryland]], USA.
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] | Kyla Scanlon | setting | Three days of talk about whether the US can survive the AI era. |
 
 ## Sub-places
-_None yet._
+- [[Fort McHenry Tunnel]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5cnsx3fg5xwpc3q7kjda)

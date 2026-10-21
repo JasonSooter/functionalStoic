@@ -2,12 +2,8 @@
 publish: true
 title: Auburn Dam
 created: 2026-10-20T19:36:35.000Z
-modified: 2026-10-20T19:36:35.000Z
-published: 2026-10-20T19:36:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:28:39.064Z
+published: 2026-10-21T01:28:39.064Z
 aliases: []
 books:
   - California’s Tallest Bridge Has Nothing Underneath
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 38.8819
   - -121.0619
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California (Literary)]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[California (Literary)]]"
 Site of an abandoned dam project on the North Fork American River near Auburn, [[California (Literary)|California]], USA.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | California’s Tallest Bridge Has Nothing Underneath | Wesley Crump | turning point | The never-finished dam that explains the bridge. |
 
 ## California’s Tallest Bridge Has Nothing Underneath — Wesley Crump (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5dckp1z2g5rhn5gr6s950cq)
+Source: [Original](https://practical.engineering/blog/2025/8/19/californias-tallest-bridge-has-nothing-underneath) · [Readwise highlight](https://read.readwise.io/read/01m5dckp1z2g5rhn5gr6s950cq)
 
 > One of the first steps in the process was rerouting the American River.
 

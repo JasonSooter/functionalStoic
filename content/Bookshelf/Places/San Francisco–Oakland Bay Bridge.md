@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Bay Bridge
 title: San Francisco–Oakland Bay Bridge
 created: 2026-10-20T19:36:26.000Z
-modified: 2026-10-20T19:36:26.000Z
-published: 2026-10-20T19:36:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:28:52.421Z
+published: 2026-10-21T01:28:52.421Z
+aliases:
+  - Bay Bridge
 books:
   - The Weirdest Tool in Underwater Construction
 categories:
@@ -22,6 +18,10 @@ icon: newspaper
 location:
   - 37.8181
   - -122.3467
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
 ---
 
@@ -30,14 +30,12 @@ within: "[[San Francisco]]"
 Bridge across San Francisco Bay between [[San Francisco]] and Oakland, California, USA. The pin is the whole-bridge point near Yerba Buena Island; the eastern span runs from the island to Oakland.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Weirdest Tool in Underwater Construction | Wesley Crump | subject | Pile-driving for the new eastern span, where bubble curtains proved themselves. |
 
 ## The Weirdest Tool in Underwater Construction — Wesley Crump (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5dckkjm2dwf58cwjgstnnhe)
+Source: [Original](https://practical.engineering/blog/2025/9/2/vu8muxhlym70190ox3n2liwux88boy) · [Readwise highlight](https://read.readwise.io/read/01m5dckkjm2dwf58cwjgstnnhe)
 
 > In one case, a major section of the eastern span of the Bay Bridge's deck collapsed, falling onto the lower deck like a trapdoor.
 

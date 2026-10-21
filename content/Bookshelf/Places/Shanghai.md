@@ -2,8 +2,8 @@
 publish: true
 title: Shanghai
 created: 2026-10-20T19:38:57.000Z
-modified: 2026-10-20T23:06:38.423Z
-published: 2026-10-20T23:06:38.423Z
+modified: 2026-10-21T02:07:12.003Z
+published: 2026-10-21T02:07:12.003Z
 aliases:
   - Former French Concession
 books:
@@ -34,8 +34,13 @@ City on the Yangtze delta, [[China]].
 | Breakneck | Dan Wang | setting | Human-scaled streets of the French Concession; the city where the engineering state works. |
 
 ## Sub-places
+- [[Embankment Building]]
+- [[Former French Concession]]
 - [[Gigafactory Shanghai]]
+- [[Shanghai Disneyland]]
 - [[Shanghai World Financial Center]]
+- [[The Bund]]
+- [[Urumqi Road (Shanghai)]]
 
 ## Breakneck — Dan Wang (2025)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcne47qa1k4yjaqdmxkp14)

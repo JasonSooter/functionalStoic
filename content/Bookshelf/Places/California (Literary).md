@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2026-10-20T04:35:47.000Z
-modified: 2026-10-20T23:02:40.813Z
-published: 2026-10-20T23:02:40.813Z
+modified: 2026-10-21T02:12:04.509Z
+published: 2026-10-21T02:12:04.509Z
 aliases: []
 books: []
 categories:
@@ -23,8 +23,10 @@ Hub for literary places in California. See the Travel note [[California]] and th
 ## Sub-places
 - [[Auburn Dam]]
 - [[Berkeley, California]]
+- [[Cache Creek Nature Preserve]]
 - [[Cajon Pass]]
 - [[Camp Grounded]]
+- [[Cupertino]]
 - [[Disneyland]]
 - [[Fairfax, California]]
 - [[Foresthill Bridge]]
@@ -35,6 +37,9 @@ Hub for literary places in California. See the Travel note [[California]] and th
 - [[Mountain View]]
 - [[Oakland]]
 - [[San Francisco]]
+- [[Santa Cruz Mountains]]
 - [[Silicon Valley]]
+- [[Stanford University]]
 - [[Steamer Lane]]
+- [[Wallis Annenberg Wildlife Crossing]]
 - [[White Mountains (California)]]

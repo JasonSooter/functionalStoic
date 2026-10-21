@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - CWI
 title: Centrum Wiskunde & Informatica
 created: 2026-10-20T19:36:45.000Z
-modified: 2026-10-20T19:36:45.000Z
-published: 2026-10-20T19:36:45.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:46:44.601Z
+published: 2026-10-21T01:46:44.601Z
+aliases:
+  - CWI
 books:
   - "Python: The Documentary | An origin story"
 categories:
@@ -21,6 +17,10 @@ icon: video
 location:
   - 52.3564
   - 4.9519
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Amsterdam]]"
 ---
 
@@ -29,14 +29,12 @@ within: "[[Amsterdam]]"
 Dutch national research institute for mathematics and computer science at Amsterdam Science Park, [[Amsterdam]], Netherlands.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Python: The Documentary | An origin story | CultRepo (formerly Honeypot) | setting | Where Python was written and first used. |
+| Python: The Documentary \| An origin story | CultRepo (formerly Honeypot) | setting | Where Python was written and first used. |
 
 ## Python: The Documentary | An origin story — CultRepo (formerly Honeypot)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5dckssrw7hk72n0m7t55kqs)
+Source: [Original](https://youtube.com/watch/?v=GfH4QL4VqJ0) · [Readwise highlight](https://read.readwise.io/read/01m5dckssrw7hk72n0m7t55kqs)
 
 > So this is the office where Guido and I were holed up when he created Python.
 

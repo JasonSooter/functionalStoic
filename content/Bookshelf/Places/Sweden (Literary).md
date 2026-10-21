@@ -2,8 +2,8 @@
 publish: true
 title: Sweden
 created: 2026-10-20T16:28:43.000Z
-modified: 2026-10-20T23:06:51.664Z
-published: 2026-10-20T23:06:51.664Z
+modified: 2026-10-21T02:10:03.494Z
+published: 2026-10-21T02:10:03.494Z
 aliases: []
 books: []
 categories:
@@ -22,5 +22,6 @@ Literary places in Sweden; see also the [[Sweden]] travel note. Hub for literary
 
 ## Sub-places
 - [[Eskilstuna]]
+- [[Gothenburg]]
 - [[Hudiksvall]]
 - [[Uppsala]]

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Union Canal
 title: Union Canal (Scotland)
 created: 2026-10-20T13:44:56.000Z
-modified: 2026-10-20T13:44:56.000Z
-published: 2026-10-20T13:44:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:24:12.366Z
+published: 2026-10-21T01:24:12.366Z
+aliases:
+  - Union Canal
 books:
   - "[[The Hidden Engineering Behind the Falkirk Wheel]]"
 categories:
@@ -22,6 +18,10 @@ icon: newspaper
 location:
   - 55.9667
   - -3.1333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Scotland]]"
 ---
 
@@ -30,14 +30,13 @@ within: "[[Scotland]]"
 Contour canal from Falkirk to Edinburgh, [[Scotland]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hidden Engineering Behind the Falkirk Wheel]] | Wesley Crump | backdrop | The upper canal, 115 ft above. |
 
 ## The Hidden Engineering Behind the Falkirk Wheel — Wesley Crump (2025)
 
-Source: [[The Hidden Engineering Behind the Falkirk Wheel]] · [Readwise highlight](https://read.readwise.io/read/01m5crdbcfxk2mnnqs9vkyhz7z)
+Source: [[The Hidden Engineering Behind the Falkirk Wheel]] · [Original](https://practical.engineering/blog/2025/11/17/the-hidden-engineering-behind-the-falkirk-wheel) · [Readwise highlight](https://read.readwise.io/read/01m5crdbcfxk2mnnqs9vkyhz7z)
 
 > The Union Canal connected the cities of Falkirk and Edinburgh, opening up a route for coal and other minerals from the mines and quarries around Lanarkshire to the capital.
 

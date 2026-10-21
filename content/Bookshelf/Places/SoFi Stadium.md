@@ -2,12 +2,8 @@
 publish: true
 title: SoFi Stadium
 created: 2026-10-20T04:20:35.000Z
-modified: 2026-10-20T07:23:29.000Z
-published: 2026-10-20T07:23:29.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:34:44.209Z
+published: 2026-10-21T01:34:44.209Z
 aliases: []
 books:
   - LA’s ‘No-Car’ Olympics Plan Explained
@@ -19,6 +15,10 @@ icon: video
 location:
   - 33.953
   - -118.339
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Los Angeles]]"
 ---
 
@@ -27,14 +27,12 @@ within: "[[Los Angeles]]"
 NFL stadium in Inglewood, Los Angeles County. See [[Los Angeles]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | LA’s ‘No-Car’ Olympics Plan Explained | The B1M | subject | An NFL stadium turned into a temporary Olympic aquatics venue. |
 
 ## LA’s ‘No-Car’ Olympics Plan Explained — The B1M (2026)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5brf4yedfgeqhfg2y0rwngv)
+Source: [Original](https://www.youtube.com/watch?v=TT1WO8zWk7o) · [Readwise highlight](https://read.readwise.io/read/01m5brf4yedfgeqhfg2y0rwngv)
 
 > The most expensive stadium ever built is going to be converted into
 

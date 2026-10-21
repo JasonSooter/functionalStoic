@@ -2,8 +2,8 @@
 publish: true
 title: Taiyuan
 created: 2026-10-20T07:54:17.000Z
-modified: 2026-10-20T22:35:46.047Z
-published: 2026-10-20T22:35:46.047Z
+modified: 2026-10-21T01:24:31.605Z
+published: 2026-10-21T01:24:31.605Z
 aliases:
   - Taiyuan Greenway
 books:
@@ -56,7 +56,7 @@ Source: [Original](https://diagramclub.substack.com/p/057-from-china-part-two-ta
 - **Real vs. fictional:** The Greenway and Laboo have no standard-source coordinates, so they are described here and the pin is the city.
 
 ## 058 I Need to Address Breakfast Soups — Diagram Club (2025)
-Source: [[058 I Need to Address Breakfast Soups]] · [Readwise highlight](https://read.readwise.io/read/01m5d1zybb8n7jg7dsdcahh4vd)
+Source: [[058 I Need to Address Breakfast Soups]] · [Original](https://diagramclub.substack.com/p/058-i-need-to-address-breakfast-soups) · [Readwise highlight](https://read.readwise.io/read/01m5d1zybb8n7jg7dsdcahh4vd)
 
 > The Greenways, both here in Taiyuan and in Chengdu, surpass anything we have in the UK.
 

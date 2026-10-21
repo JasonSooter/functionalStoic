@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Regents Canal
 title: Regent's Canal
 created: 2026-10-20T19:37:40.000Z
-modified: 2026-10-20T19:37:40.000Z
-published: 2026-10-20T19:37:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T01:32:06.591Z
+published: 2026-10-21T01:32:06.591Z
+aliases:
+  - Regents Canal
 books:
   - "Grandma's Rule: First___, Then___"
 categories:
@@ -22,6 +18,10 @@ icon: newspaper
 location:
   - 51.5339
   - -0.1204
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -30,14 +30,12 @@ within: "[[London]]"
 Canal across north [[London]], England. The pin is the London Canal Museum at Battlebridge Basin.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Grandma's Rule: First\_\_\_, Then\_\_\_ | Sketchplanations | backdrop | A canal-boat trip and the Canal Museum prompt a sketch on locks. |
+| Grandma's Rule: First___, Then___ | Sketchplanations | backdrop | A canal-boat trip and the Canal Museum prompt a sketch on locks. |
 
-## Grandma's Rule: First\_\_\_, Then\_\_\_ — Sketchplanations (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5dcmc7qgqnpw0pda5fkxy9c)
+## Grandma's Rule: First___, Then___ — Sketchplanations (2025)
+Source: [Original](https://sketchplanations.com/grandmas-rule) · [Readwise highlight](https://read.readwise.io/read/01m5dcmc7qgqnpw0pda5fkxy9c)
 
 > We recently took a canal boat trip on London's Regents Canal, including a visit to London's Canal Museum.
 

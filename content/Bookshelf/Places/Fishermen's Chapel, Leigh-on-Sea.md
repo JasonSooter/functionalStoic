@@ -2,8 +2,8 @@
 publish: true
 title: Fishermen's Chapel, Leigh-on-Sea
 created: 2026-10-20T02:11:32.000Z
-modified: 2026-10-20T23:03:48.039Z
-published: 2026-10-20T23:03:48.039Z
+modified: 2026-10-21T01:37:58.491Z
+published: 2026-10-21T01:37:58.491Z
 aliases:
   - Fishermen’s Chapel
   - Leigh-on-Sea
@@ -40,7 +40,7 @@ Methodist chapel built into the cliff above the Thames Estuary at Leigh-on-Sea, 
 | #046 There will be a title, I would imagine | Diagram Club | setting | Dave announces he will staff the Leigh Art Trail at the Fishermen's Chapel on Friday 11 July (2025), alongside paintings by Natasha Chilingirova. |
 
 ## #083 Can I print it? Yes you can — Diagram Club (2026)
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bfx7z1qj4n8az38f94m0rx)
+Source: [Original](https://diagramclub.substack.com/p/083-can-i-print-it-yes-you-can) · [Readwise highlight](https://read.readwise.io/read/01m5bfx7z1qj4n8az38f94m0rx)
 
 > It’s called the Fishermen’s Chapel, and it’s a Methodist chapel overlooking the Thames Estuary in Leigh-on-Sea, which is part of Southend, but also not.
 
@@ -49,7 +49,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5bfx7z1qj4n8az38f9
 - **Why it matters:** The newsletter's main appeal and the place the author writes about with most feeling.
 
 ## #086 Cycling tactics explained — Diagram Club (2026)
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bfx75xkp1tvr2atx6fjz45)
+Source: [Original](https://diagramclub.substack.com/p/086-cycling-tactics-explained) · [Readwise highlight](https://read.readwise.io/read/01m5bfx75xkp1tvr2atx6fjz45)
 
 > This week was the start of the Leigh Art Trail in Leigh-on-Sea, and I spent a morning being an attendant at an art exhibition at The Fishermen’s Chapel.
 

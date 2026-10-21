@@ -2,8 +2,8 @@
 publish: true
 title: Shenzhen
 created: 2026-10-20T22:54:19.786Z
-modified: 2026-10-20T22:54:19.786Z
-published: 2026-10-20T22:54:19.786Z
+modified: 2026-10-21T02:13:11.384Z
+published: 2026-10-21T02:13:11.384Z
 aliases:
   - Shenzhen special economic zone
 books:
@@ -37,6 +37,7 @@ Megacity in Guangdong, [[China]], bordering Hong Kong.
 ## Sub-places
 - [[Foxconn Longhua campus]]
 - [[Huaqiangbei]]
+- [[Longgang District]]
 
 ## Breakneck — Dan Wang (2025)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dqytr5kjprqpcj96r2wk6q)
