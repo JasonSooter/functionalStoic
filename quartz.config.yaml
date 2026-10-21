@@ -295,6 +295,9 @@ plugins:
     order: 50
   - source: github:JasonSooter/quartz-geo-map
     enabled: true
+    options:
+      description: Every place mentioned in the books, articles and videos I read, on one map.
+      socialImage: map-og.jpg
     order: 45
   - source: github:quartz-community/note-properties
     enabled: true
