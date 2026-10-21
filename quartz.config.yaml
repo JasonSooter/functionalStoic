@@ -106,8 +106,11 @@ plugins:
   - source: github:quartz-community/description
     enabled: true
     order: 70
+  # Disabled: no note uses maths, and remark-math reads two prices on a line
+  # ("$3.8 million … $125m") as inline maths. Re-enable and escape prices as \$
+  # if maths is ever needed.
   - source: github:quartz-community/latex
-    enabled: true
+    enabled: false
     options:
       renderEngine: katex
     order: 80

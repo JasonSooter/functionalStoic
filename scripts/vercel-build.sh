@@ -1,14 +1,22 @@
 #!/bin/sh
 # Vercel build with lockfile-keyed plugin caching.
 #
-# Vercel restores its build cache (including .quartz/plugins) between builds.
-# Reusing those cached plugins is fast, but they go stale when a plugin's pinned
-# commit changes — which is exactly when quartz.lock.json changes. So: reuse the
-# cache while the lockfile hash is unchanged; wipe + reinstall fresh when it moves.
+# Vercel's build cache only holds node_modules/** for projects without a
+# framework preset, so .quartz/plugins is parked in node_modules/.cache/ between
+# builds (vercel-install.sh carries it across `npm ci`). Reusing those cached
+# plugins is fast, but they go stale when a plugin's pinned commit changes —
+# which is exactly when quartz.lock.json changes. So: reuse the cache while the
+# lockfile hash is unchanged; wipe + reinstall fresh when it moves.
 #
 # If the hash can't be computed (lockfile missing/unreadable, or no sha1sum/shasum),
 # HASH is empty and we fall back to a fresh install — never a false cache hit.
 set -e
+
+CACHE=node_modules/.cache/quartz-plugins
+if [ -d "$CACHE" ] && [ ! -e .quartz/plugins ]; then
+  mkdir -p .quartz
+  mv "$CACHE" .quartz/plugins
+fi
 
 HASH=$( (sha1sum quartz.lock.json 2>/dev/null || shasum quartz.lock.json 2>/dev/null) | cut -c1-12 )
 MARKER=.quartz/plugins/.lockhash
@@ -35,3 +43,8 @@ else
 fi
 
 npx quartz build
+
+# Park the plugins where Vercel's build cache will keep them for the next build.
+rm -rf "$CACHE"
+mkdir -p "$(dirname "$CACHE")"
+mv .quartz/plugins "$CACHE"
