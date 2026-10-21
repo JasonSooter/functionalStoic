@@ -1,0 +1,30 @@
+---
+publish: true
+title: French Alps
+created: 2026-10-20T01:34:01.000Z
+modified: 2026-10-21T07:16:11.445Z
+published: 2026-10-21T07:16:11.445Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+aliases: []
+books: []
+categories:
+  - "[[Places]]"
+color: purple
+icon: book
+---
+
+# French Alps
+
+The Alpine regions of south-eastern France; see the Travel note [[France]]. Hub for literary places in the mountains.
+
+## Sub-places
+
+- [[Alpe d'Huez]]
+- [[Col de la Madeleine]]
+- [[Col du Galibier]]
+- [[Places/Col du Lautaret]]
+- [[Gap]]
+- [[Mont Cenis Base Tunnel]]
