@@ -1,29 +1,24 @@
 ---
 publish: true
-title: Repack
-created: 2026-10-20T13:51:48.000Z
-modified: 2026-10-20T22:15:16.038Z
-published: 2026-10-20T22:15:16.038Z
 aliases:
   - Repack Road
   - Repack Downhill
+title: Repack
+created: 2026-10-20T13:51:48.000Z
+modified: 2026-10-20T22:15:16.000Z
+published: 2026-10-20T22:15:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
 categories:
   - "[[Places]]"
 color: purple
-coordinates: 37.9855,-122.6312
-geo_note: approximate (centre of the mapped Cascade Fire Road / Repack track)
-geo_source: OSM way 12181415
+geo_status: needs-pin
 icon: book
-location:
-  - 37.9855
-  - -122.6312
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fairfax, California]]"
 ---
 

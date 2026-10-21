@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Indonesia
-created: 2026-10-20T22:56:07.978Z
-modified: 2026-10-20T22:56:07.978Z
-published: 2026-10-20T22:56:07.978Z
+created: 2026-10-20T22:56:08.000Z
+modified: 2026-10-20T22:56:08.000Z
+published: 2026-10-20T22:56:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Indonesia
@@ -21,5 +21,6 @@ tags:
 Island country in Southeast Asia.
 
 ## Sub-places
+
 - [[Jakarta]]
 - [[Nusantara]]

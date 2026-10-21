@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Karolinska Institute
-created: 2026-10-21T02:07:12.079Z
-modified: 2026-10-21T02:07:12.079Z
-published: 2026-10-21T02:07:12.079Z
+created: 2026-10-21T02:07:12.000Z
+modified: 2026-10-21T02:07:12.000Z
+published: 2026-10-21T02:07:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 59.3489
   - 18.0267
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Stockholm]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Stockholm]]"
 Building in [[Stockholm]], Sweden.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | turning point | In 1996 Rosling uses his twenty minutes to teach eight professors his bubble graph rather than argue his qualifications. |
 
 ## How I Learned to Understand the World — Hans Rosling
+
 Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5e32c6x6chcgj7k8fq2shdj)
 
 > I hurried through the slushy snow, clutching a bundle of documents, on my way to the Karolinska Institute, where I was to be interviewed for the position of Chair in International Health.

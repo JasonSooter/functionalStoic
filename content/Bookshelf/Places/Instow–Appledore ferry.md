@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Instow–Appledore ferry
-created: 2026-10-20T10:42:56.000Z
-modified: 2026-10-21T01:24:01.301Z
-published: 2026-10-21T01:24:01.301Z
 aliases:
   - Appledore–Instow ferry
+title: Instow–Appledore ferry
+created: 2026-10-20T10:42:56.000Z
+modified: 2026-10-21T01:24:01.000Z
+published: 2026-10-21T01:24:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[089 a Comprehensive Guide to Devon]]"
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 51.0537
   - -4.1792
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Devon]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Devon]]"
 Seasonal passenger ferry across the Torridge estuary between Instow and [[Appledore]], [[Devon]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[089 a Comprehensive Guide to Devon]] | Diagram Club | journey waypoint | A bike-carrying ferry that runs only at high tide. |
 
 ## #089 A comprehensive guide to Devon — Diagram Club (2026)
+
 Source: [[089 a Comprehensive Guide to Devon]] · [Original](https://diagramclub.substack.com/p/089-a-comprehensive-guide-to-devon) · [Readwise highlight](https://read.readwise.io/read/01m5ce7pycq77cmm47b3tf38z8)
 
 > It means you can cycle on both sides of some water, which is the dream. The Instow-Appledore ferry is run at specific high-tide times of day when there is enough water in the tidal River Torridge.

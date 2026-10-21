@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Lee Roy Selmon Expressway
-created: 2026-10-21T02:07:15.455Z
-modified: 2026-10-21T02:07:15.455Z
-published: 2026-10-21T02:07:15.455Z
+created: 2026-10-21T02:07:15.000Z
+modified: 2026-10-21T02:07:15.000Z
+published: 2026-10-21T02:07:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Why Bridges Don't Sink
@@ -17,10 +21,6 @@ icon: video
 location:
   - 27.9396
   - -82.4768
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tampa]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Tampa]]"
 Site in [[Tampa]], United States.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Bridges Don't Sink | Practical Engineering | turning point | Offered as a case of deep foundations failing: a pier sank 11 feet during construction because of complicated geology. |
 
 ## Why Bridges Don't Sink — Practical Engineering (2024)
+
 Source: [Original](https://www.youtube.com/watch?v=XpTs1V2NQ24) · [Readwise highlight](https://read.readwise.io/read/01m5e2y9qvsdd1b2tf5zyevxc8)
 
 > a bridge pier on the Lee Roy Selmon Expressway in Tampa

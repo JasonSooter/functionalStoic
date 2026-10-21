@@ -2,18 +2,18 @@
 publish: true
 title: Scotland
 created: 2026-10-20T13:48:08.000Z
-modified: 2026-10-21T02:09:18.502Z
-published: 2026-10-21T02:09:18.502Z
+modified: 2026-10-21T02:09:19.000Z
+published: 2026-10-21T02:09:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Scotland
@@ -21,6 +21,7 @@ tags:
 Country of the United Kingdom. Hub for literary places in Scotland.
 
 ## Sub-places
+
 - [[Antonine Wall]]
 - [[Aonach Mòr]]
 - [[Edinburgh]]

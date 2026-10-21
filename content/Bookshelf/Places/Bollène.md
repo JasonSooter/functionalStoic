@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Bollène
-created: 2026-10-21T02:06:17.429Z
-modified: 2026-10-21T02:06:17.429Z
-published: 2026-10-21T02:06:17.429Z
+created: 2026-10-21T02:06:17.000Z
+modified: 2026-10-21T02:06:17.000Z
+published: 2026-10-21T02:06:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Errands & Rally King
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 44.2811
   - 4.7494
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Provence]]"
 Town in [[Provence]], France.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Errands & Rally King | Mostly Bikes x Me | turning point | The rider arrives by train and rides to a hotel in sleet and gale-force gusts, ahead of a 6am 200km brevet. |
 
 ## Errands & Rally King — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5e2xa8pw2r3kpg7kt30cygm)
 
 > Arrived on the train, rather far south of Bolléne, an industrial town along the motorway. Rode to the hotel in sleet and gale force gusts. 200km brevet starts at 6am.

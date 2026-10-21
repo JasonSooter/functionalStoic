@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Eigergletscher railway station
-created: 2026-10-20T22:54:57.695Z
-modified: 2026-10-20T22:54:57.695Z
-published: 2026-10-20T22:54:57.695Z
 aliases:
   - Eiger Glacier Station
+title: Eigergletscher railway station
+created: 2026-10-20T22:54:58.000Z
+modified: 2026-10-20T22:54:58.000Z
+published: 2026-10-20T22:54:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - This is Europe’s Most Remote Construction Site
 categories:
@@ -17,10 +21,6 @@ icon: video
 location:
   - 46.5747
   - 7.9703
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland (Literary)]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Switzerland (Literary)]]"
 Station of the Jungfrau Railway at the foot of the Eiger glacier. See [[Switzerland (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This is Europe’s Most Remote Construction Site | The B1M | journey waypoint | After riding the Eiger Express gondola, the presenter reaches Eiger Glacier Station, where the Jungfrau Railway tunnel begins its steep climb. |
 
 ## This is Europe’s Most Remote Construction Site — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=OVysOYeYbFw) · [Readwise highlight](https://read.readwise.io/read/01m5dqvcfaxxx5asf45t5c8ft1)
 
 > So we’re now at the Eiger Glacier Station which is around 2,320m above sea level.

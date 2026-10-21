@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Rameswaram
-created: 2026-10-20T22:55:03.942Z
-modified: 2026-10-20T22:55:03.942Z
-published: 2026-10-20T22:55:03.942Z
+created: 2026-10-20T22:55:04.000Z
+modified: 2026-10-20T22:55:04.000Z
+published: 2026-10-20T22:55:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 9.288
   - 79.313
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[India]]"
 Island town in Tamil Nadu, [[India]], facing Sri Lanka.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | journey waypoint | In 1972 Hans and Agneta reached India by ferry from Sri Lanka, landing at Rameswaram where officials in tents checked blood samples and smallpox vaccination cards. |
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
+
 Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5dqz8ft30ctswz8x91m11b2)
 
 > When we arrived at Rameswaram in India, we had to go down a short flight of steps and jump into a rowing boat to reach the beach.

@@ -1,29 +1,28 @@
 ---
 publish: true
-title: Foxconn Longhua campus
-created: 2026-10-20T22:54:27.817Z
-modified: 2026-10-20T22:54:27.817Z
-published: 2026-10-20T22:54:27.817Z
 aliases:
   - Foxconn City
   - Hon Hai Shenzhen campus
+title: Foxconn Longhua campus
+created: 2026-10-20T22:54:28.000Z
+modified: 2026-10-20T22:54:28.000Z
+published: 2026-10-20T22:54:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Breakneck
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 22.6574,114.0162
-geo_note: approximate (Longhua subdistrict/district centre; the text does not name
-  Longhua)
+geo_note: approximate (Longhua subdistrict/district centre; the text does not name Longhua)
 geo_source: Wikipedia (en) Longhua, Shenzhen
 icon: book
 location:
   - 22.6574
   - 114.0162
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Shenzhen]]"
 ---
 
@@ -32,11 +31,13 @@ within: "[[Shenzhen]]"
 Foxconn's manufacturing campus in Longhua, northern [[Shenzhen]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | setting | Described as a city-sized factory with dormitories (up to six to a room), cafeterias, a hospital, cinemas and Foxconn University; 300,000 people at peak, three shifts a day. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dqyxpbdyq7a59b0t2d1389)
 
 > Foxconn’s manufacturing campus in the north of Shenzhen occupies five hundred acres.

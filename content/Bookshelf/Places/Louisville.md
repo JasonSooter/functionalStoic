@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Louisville
-created: 2026-10-21T02:07:16.207Z
-modified: 2026-10-21T02:07:16.207Z
-published: 2026-10-21T02:07:16.207Z
+created: 2026-10-21T02:07:16.000Z
+modified: 2026-10-21T02:07:16.000Z
+published: 2026-10-21T02:07:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kentucky]]"
 ---
 
@@ -22,4 +22,5 @@ within: "[[Kentucky]]"
 Hub note; sits within [[Kentucky]].
 
 ## Sub-places
+
 - [[Fourth and Walnut (Louisville)]]

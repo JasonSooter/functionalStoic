@@ -2,8 +2,12 @@
 publish: true
 title: Antonine Wall
 created: 2026-10-20T13:44:38.000Z
-modified: 2026-10-20T22:28:44.322Z
-published: 2026-10-20T22:28:44.322Z
+modified: 2026-10-20T22:28:44.000Z
+published: 2026-10-20T22:28:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Hidden Engineering Behind the Falkirk Wheel]]"
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 55.967
   - -4.067
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Scotland]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Scotland]]"
 Roman frontier wall across central [[Scotland]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hidden Engineering Behind the Falkirk Wheel]] | Wesley Crump | turning point | Why the new canal goes through a tunnel. |
 
 ## The Hidden Engineering Behind the Falkirk Wheel — Wesley Crump (2025)
+
 Source: [[The Hidden Engineering Behind the Falkirk Wheel]] · [Original](https://practical.engineering/blog/2025/11/17/the-hidden-engineering-behind-the-falkirk-wheel) · [Readwise highlight](https://read.readwise.io/read/01m5crdce2mbjv1asefp6kbwey)
 
 > When a segment of the canal was relocated as part of the Millennium Link, it needed to cross the Antonine Wall, a Roman-era defensive perimeter and UNESCO World Heritage Site. Rather than disturb it, the new canal was built into a tunnel below.

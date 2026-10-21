@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Stoa Poikile
-created: 2026-10-21T02:07:45.553Z
-modified: 2026-10-21T02:07:45.553Z
-published: 2026-10-21T02:07:45.553Z
+created: 2026-10-21T02:07:46.000Z
+modified: 2026-10-21T02:07:46.000Z
+published: 2026-10-21T02:07:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Daily Stoic-2]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 37.9763
   - 23.723
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Athens]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Athens]]"
 Building in [[Athens]], Greece.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Daily Stoic-2]] | Holiday, Ryan | subject | The introduction says Stoicism was founded in Athens by Zeno of Citium and takes its name from the Greek stoa, a porch, because Zeno first taught his students there. |
 
 ## The Daily Stoic — Holiday, Ryan (2016)
+
 Source: [[The Daily Stoic-2]] · [Readwise highlight](https://read.readwise.io/read/01m5e313ftb8dgsacjeagp1s52)
 
 > Stoicism was a school of philosophy founded in Athens by Zeno of Citium in the early third century BC.

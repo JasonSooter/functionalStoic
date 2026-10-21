@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Delhi
-created: 2026-10-21T02:06:48.988Z
-modified: 2026-10-21T02:06:48.988Z
-published: 2026-10-21T02:06:48.988Z
+created: 2026-10-21T02:06:49.000Z
+modified: 2026-10-21T02:06:49.000Z
+published: 2026-10-21T02:06:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 28.61
   - 77.23
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[India]]"
 City in [[India]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | subject | Delhi's winter pollution is the case for why the 2016 and 2019 'odd-even' car rules only cut pollution by 5% and 13%. |
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwise.io/read/01m5e31cgvby7cadx9v96jajvc)
 
 > Delhi’s average concentration of tiny particulates – those smaller than 2.5 micrometres – is twenty times higher than the WHO guidelines. In winter, things get even worse.

@@ -1,28 +1,27 @@
 ---
 publish: true
-title: Chengdu
-created: 2026-10-20T16:25:14.000Z
-modified: 2026-10-20T22:31:53.695Z
-published: 2026-10-20T22:31:53.695Z
 aliases:
   - Chengdu Greenway
+title: Chengdu
+created: 2026-10-20T16:25:14.000Z
+modified: 2026-10-20T22:31:54.000Z
+published: 2026-10-20T22:31:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "#056 From China, part one: Chengdu"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 30.6600,104.0633
-geo_note: approximate (city point, Tianfu Square; the Chengdu Greenway itself has
-  no standard-source point)
+geo_note: approximate (city point, Tianfu Square; the Chengdu Greenway itself has no standard-source point)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 30.66
   - 104.0633
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -31,14 +30,17 @@ within: "[[China]]"
 Capital of Sichuan province, south-west China. See [[China]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #056 From China, part one: Chengdu | Diagram Club | subject | A first-day ride on the 100 km Chengdu Greenway that never crosses a road. |
 
 ## Sub-places
+
 _None yet._
 
 ## #056 From China, part one: Chengdu — Diagram Club (2025)
+
 Source: [Original](https://diagramclub.substack.com/p/056-from-china-part-one-chengdu) · [Readwise highlight](https://read.readwise.io/read/01m5d1zzkqx4q997v74s8y5fvm)
 
 > On the first day I had the opportunity to go for a bike ride on the Chengdu Greenway, a brilliant cycle route that goes for 100km or so around Chengdu without crossing a road.

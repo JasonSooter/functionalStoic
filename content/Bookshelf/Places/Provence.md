@@ -2,18 +2,18 @@
 publish: true
 title: Provence
 created: 2026-10-20T01:38:52.000Z
-modified: 2026-10-21T02:11:05.671Z
-published: 2026-10-21T02:11:05.671Z
+modified: 2026-10-21T02:11:06.000Z
+published: 2026-10-21T02:11:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Provence
@@ -21,6 +21,7 @@ tags:
 Region of south-eastern France; see also the [[France]] travel note. Hub for literary places in the region.
 
 ## Sub-places
+
 - [[Avignon]]
 - [[Beaumes-de-Venise]]
 - [[Bedoin]]

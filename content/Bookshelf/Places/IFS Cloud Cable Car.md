@@ -1,9 +1,13 @@
 ---
 publish: true
 title: IFS Cloud Cable Car
-created: 2026-10-21T02:07:08.791Z
-modified: 2026-10-21T02:07:08.791Z
-published: 2026-10-21T02:07:08.791Z
+created: 2026-10-21T02:07:09.000Z
+modified: 2026-10-21T02:07:09.000Z
+published: 2026-10-21T02:07:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Surprising Success of Gondola Transit Systems
@@ -16,10 +20,6 @@ icon: video
 location:
   - 51.5036
   - 0.0131
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -28,12 +28,14 @@ within: "[[London]]"
 Site in [[London]], United Kingdom.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Surprising Success of Gondola Transit Systems | Wendover Productions | backdrop | London's cable car over the Thames, championed by Boris Johnson, drew an average of just 37 people per day in the 7-9 a.m. |
 
 ## The Surprising Success of Gondola Transit Systems — Wendover Productions (2025)
-Source: [Original](https://youtube.com/watch?v=a5126u88E7E&si=1gWTN5lb3hW199bC) · [Readwise highlight](https://read.readwise.io/read/01m5e31105sgyszcwkzkee7d4d)
+
+Source: [Original](https://youtube.com/watch?v=a5126u88E7E\&si=1gWTN5lb3hW199bC) · [Readwise highlight](https://read.readwise.io/read/01m5e31105sgyszcwkzkee7d4d)
 
 > Just look to London.
 

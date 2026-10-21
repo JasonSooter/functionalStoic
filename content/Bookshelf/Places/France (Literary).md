@@ -2,18 +2,18 @@
 publish: true
 title: France
 created: 2026-10-20T10:42:20.000Z
-modified: 2026-10-21T02:09:45.658Z
-published: 2026-10-21T02:09:45.658Z
+modified: 2026-10-21T02:09:46.000Z
+published: 2026-10-21T02:09:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # France
@@ -21,6 +21,7 @@ tags:
 Country in western Europe. See also the Travel note [[France]]. Hub for literary places in the region.
 
 ## Sub-places
+
 - [[Bessèges]]
 - [[Bordeaux]]
 - [[Brittany]]

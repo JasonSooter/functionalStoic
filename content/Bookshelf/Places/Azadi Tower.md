@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Azadi Tower
-created: 2026-10-20T22:56:56.204Z
-modified: 2026-10-20T22:56:56.204Z
-published: 2026-10-20T22:56:56.204Z
 aliases:
   - Freedom Monument
   - Shahyad Tower
+title: Azadi Tower
+created: 2026-10-20T22:56:56.000Z
+modified: 2026-10-20T22:56:56.000Z
+published: 2026-10-20T22:56:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Rick Steves' Iran (2009)
 categories:
@@ -18,10 +22,6 @@ icon: video
 location:
   - 35.6994
   - 51.3378
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tehran]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Tehran]]"
 Monument in western [[Tehran]], built in 1971.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Rick Steves' Iran (2009) | Rick Steves' Europe | journey waypoint | On the way out of Tehran the crew stops at the Freedom Monument, which the former Shah built for the 2500th anniversary of the Persian Empire. |
 
 ## Rick Steves' Iran (2009) — Rick Steves' Europe (2009)
+
 Source: [Original](https://www.youtube.com/watch?v=CYoa9hI3CXg) · [Readwise highlight](https://read.readwise.io/read/01m5dqx369he9041tvfhbs8yx0)
 
 > On our way out of town, we visit a symbol of this vibrant city: its Freedom Monument, dating from the 1970s. It's one of the former Shah of Iran's many extravaganzas.

@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Mozambique
-created: 2026-10-20T22:56:20.788Z
-modified: 2026-10-20T22:56:20.788Z
-published: 2026-10-20T22:56:20.788Z
+created: 2026-10-20T22:56:21.000Z
+modified: 2026-10-20T22:56:21.000Z
+published: 2026-10-20T22:56:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Mozambique
@@ -21,6 +21,7 @@ tags:
 Country in southeast Africa.
 
 ## Sub-places
+
 - [[Cava (Memba)]]
 - [[Maputo]]
 - [[Nacala]]

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Freiburg
-created: 2026-10-20T07:40:43.000Z
-modified: 2026-10-20T22:37:56.421Z
-published: 2026-10-20T22:37:56.421Z
 aliases:
   - Freiburg im Breisgau (literary places)
+title: Freiburg
+created: 2026-10-20T07:40:43.000Z
+modified: 2026-10-20T22:37:56.000Z
+published: 2026-10-20T22:37:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "The Tram Network in Transition: Dismantling, Expansion, Future Plans"
   - "Destroyed City, Broken Trams: When Freiburg Lay in Ruins"
@@ -20,10 +24,6 @@ icon: newspaper
 location:
   - 47.995
   - 7.85
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Freiburg
@@ -76,6 +76,7 @@ Source: [Original](https://blog.vag-freiburg.de/stadtbahn-liniennetz-im-wandel-r
 - **Why it matters:** The city is the subject: the article argues that Freiburg's growth can be read straight off its tram map, because of the rule that every new district gets a tram. It's also Jason's home network; his own highlight on the piece reads "Yes! We enjoy the benefits to this day."
 
 ## Destroyed City, Broken Trams: When Freiburg Lay in Ruins — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/zerstoerte-stadt-kaputte-strassenbahnen-als-freiburg-in-truemmern-lag/) · [Readwise highlight](https://read.readwise.io/read/01m5beympjg925xgn5wqc4ftpn)
 
 > It destroyed large parts of the old town, but also districts such as Betzenhausen, Stühlinger, the Mooswald settlement and above all Neuburg.
@@ -85,6 +86,7 @@ Source: [Original](https://blog.vag-freiburg.de/zerstoerte-stadt-kaputte-strasse
 - **Why it matters:** The whole city is the subject: the raid is the event the tram network had to be rebuilt from. The article also exists in Reader as a second copy ("fixed preview"), scanned as the same text.
 
 ## Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben — Saskia Schuh (2026)
+
 Source: [Original](https://www.freiburger-wochenbericht.de/verpackungssteuer-so-laeuft-es-laut-einer-ihk-umfrage-bei-den-freiburger-betrieben/) · [Readwise highlight](https://read.readwise.io/read/01m5brfjn4mg6rf6f0xwk9w815)
 
 > In Freiburg seien die Diskussionen auch deutlich häufiger als in Tübingen oder Konstanz, wo es ebenfalls eine Verpackungssteuer gibt.
@@ -94,6 +96,7 @@ Source: [Original](https://www.freiburger-wochenbericht.de/verpackungssteuer-so-
 - **Why it matters:** The city's own policy is the subject; the comparison with the other two towns frames Freiburg as the harder case.
 
 ## Verdi-Streik: Am Montag fahren in Freiburg keine Busse und Bahnen — Matthias Joers (2026)
+
 Source: [Original](https://www.freiburger-wochenbericht.de/verdi-streik-am-montag-fahren-in-freiburg-keine-busse-und-bahnen/) · [Readwise highlight](https://read.readwise.io/read/01m5c3pvxg8dbakgddscw6zv0w)
 
 > Die Freiburger Verkehrs AG (VAG) wird am Montag, 2. Februar, ganztägig bestreikt.
@@ -103,6 +106,7 @@ Source: [Original](https://www.freiburger-wochenbericht.de/verdi-streik-am-monta
 - **Why it matters:** The whole city's public transport is the subject; the strike shows how much daily life depends on the network the VAG history pieces describe.
 
 ## Germany's "Green" City (with more bikes than cars!) — Not Just Bikes
+
 Source: [Original](https://youtube.com/watch?v=6Vil5KC7Bl0) · [Readwise highlight](https://read.readwise.io/read/01m5cre8ada2akhvetfg3he3th)
 
 > This is Freiburg im Breisgau, a city in the Black Forest.

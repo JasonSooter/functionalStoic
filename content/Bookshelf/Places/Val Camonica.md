@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Val Camonica
-created: 2026-10-21T02:08:27.027Z
-modified: 2026-10-21T02:08:27.027Z
-published: 2026-10-21T02:08:27.027Z
+created: 2026-10-21T02:08:27.000Z
+modified: 2026-10-21T02:08:27.000Z
+published: 2026-10-21T02:08:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Lombardy]]"
 ---
 
@@ -22,4 +22,5 @@ within: "[[Lombardy]]"
 Hub note; sits within [[Lombardy]].
 
 ## Sub-places
+
 - [[Lago Moro (Aprica post)]]

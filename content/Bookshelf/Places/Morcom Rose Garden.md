@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Morcom Rose Garden
-created: 2026-10-20T22:55:56.688Z
-modified: 2026-10-20T22:55:56.688Z
-published: 2026-10-20T22:55:56.688Z
 aliases:
   - Morcom Amphitheatre of Roses
   - Oakland Rose Garden
   - the Rose Garden
+title: Morcom Rose Garden
+created: 2026-10-20T22:55:57.000Z
+modified: 2026-10-20T22:55:57.000Z
+published: 2026-10-20T22:55:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 37.8197
   - -122.247
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oakland]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Oakland]]"
 Municipal rose garden in [[Oakland]], California.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion]] | Jenny Odell | subject | Odell grounds the whole of Chapter 1 here: after the 2016 election she goes almost daily to sit and do nothing. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Readwise highlight](https://read.readwise.io/read/01m5dqzmyf531mbn7fnmtpt36r)
 
 > I did that partly because it was in the Rose Garden that I began brainstorming my talk.

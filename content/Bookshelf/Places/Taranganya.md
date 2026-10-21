@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Taranganya
-created: 2026-10-21T02:07:53.889Z
-modified: 2026-10-21T02:07:53.889Z
-published: 2026-10-21T02:07:53.889Z
 aliases:
   - Taran'ganya
+title: Taranganya
+created: 2026-10-21T02:07:54.000Z
+modified: 2026-10-21T02:07:54.000Z
+published: 2026-10-21T02:07:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Peace Corps - The Great Adventure]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - -1.2343
   - 34.6006
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kenya]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Kenya]]"
 Taranganya, Kuria West, Migori County, Kenya.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure]] | Peace Corps | setting | On a trip to Malawi the narrator's parents, former Peace Corps teachers in Kenya, take the family to the tiny village in Nyanza Province where they served in 1969. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (1997)
+
 Source: [[Peace Corps - The Great Adventure]] · [Readwise highlight](https://read.readwise.io/read/01m5e33hrwyfsd757pgs9440g2)
 
 > Taran'ganya was the place where they had lived and served as Volunteers so many years ago.

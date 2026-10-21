@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Suzette
-created: 2026-10-20T22:56:26.841Z
-modified: 2026-10-21T02:11:11.547Z
-published: 2026-10-21T02:11:11.547Z
 aliases:
   - Suzette (Vaucluse)
   - Suzette, Vaucluse
+title: Suzette
+created: 2026-10-21T02:11:12.000Z
+modified: 2026-10-21T02:11:12.000Z
+published: 2026-10-21T02:11:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Suzette et chemins
   - Errands & Rally King
@@ -19,10 +23,6 @@ icon: newspaper
 location:
   - 44.1689
   - 5.0692
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 ---
 
@@ -31,12 +31,14 @@ within: "[[Provence]]"
 Village below the Dentelles de Montmirail, Vaucluse, [[Provence]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Suzette et chemins | Mostly Bikes x Me | setting | A short bike-ride post, tagged france and 2025, about a gravel and back-road loop with sections of 15%+ broken pavement on near-empty roads. |
 | Errands & Rally King | Mostly Bikes x Me | journey waypoint | The loop climbs to Suzette, drops to Malaucène, passes an abbey and goes around Le Barroux and through Caromb to Carpentras. |
 
 ## Suzette et chemins — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15145921650.html) · [Readwise highlight](https://read.readwise.io/read/01m5dqy83j51wwtv045ka0bgvd)
 
 > Most of these roads are empty. Except for some D9xx connector roads there weren’t more than a handful of cars, just a few tractors.
@@ -47,6 +49,7 @@ Source: [Original](https://funkadelic.net/pages/15145921650.html) · [Readwise h
 - **Real vs. fictional:** Real place, identified by inference
 
 ## Errands & Rally King — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5e2xbjtk16wg87fnd4dmh6c)
 
 > One quick loop up to Suzette, down to Malaucène, past the abbey, around Le Barroux, through Caromb and back to Carpentras.

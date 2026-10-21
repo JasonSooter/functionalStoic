@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Disneyland
-created: 2026-10-20T22:53:57.178Z
-modified: 2026-10-20T22:53:57.178Z
-published: 2026-10-20T22:53:57.178Z
 aliases:
   - Disneyland (Anaheim)
   - Disneyland Park
   - Disneyland Resort
+title: Disneyland
+created: 2026-10-20T22:53:57.000Z
+modified: 2026-10-20T22:53:57.000Z
+published: 2026-10-20T22:53:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Dispatch from Disneyland
 categories:
@@ -20,10 +24,6 @@ icon: newspaper
 location:
   - 33.81
   - -117.92
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California (Literary)]]"
 ---
 
@@ -32,11 +32,13 @@ within: "[[California (Literary)]]"
 Theme park in Anaheim, [[California (Literary)|California]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Dispatch from Disneyland | Study Hacks | subject | Cal Newport visits Disneyland in Anaheim with his wife and sons after a speaking invitation. |
 
 ## Dispatch from Disneyland — Study Hacks (2025)
+
 Source: [Original](https://calnewport.com/dispatch-from-disneyland/) · [Readwise highlight](https://read.readwise.io/read/01m5dqtwg1yqxfa8e1q0mbb8eq)
 
 > A few days ago, I went to Disneyland. I had been invited to Anaheim to give a speech about my books, and my wife and I decided to use the opportunity to take our boys on an early summer visit to the supposed happiest place on earth.

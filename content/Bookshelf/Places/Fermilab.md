@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Fermilab
-created: 2026-10-20T22:55:52.948Z
-modified: 2026-10-20T22:55:52.948Z
-published: 2026-10-20T22:55:52.948Z
 aliases:
   - Fermi National Accelerator Laboratory
   - Fermilab campus
+title: Fermilab
+created: 2026-10-20T22:55:53.000Z
+modified: 2026-10-20T22:55:53.000Z
+published: 2026-10-20T22:55:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Why America is Hollowing Out a Mountain
 categories:
@@ -18,10 +22,6 @@ icon: video
 location:
   - 41.8319
   - -88.2572
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Illinois]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Illinois]]"
 US national particle-physics laboratory at Batavia, [[Illinois]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why America is Hollowing Out a Mountain | The B1M | setting | The experiment starts at the Fermilab campus where the PIP II accelerator will fire protons into a target to make a neutrino beam angled down through a grassy mound. |
 
 ## Why America is Hollowing Out a Mountain — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=8d1ugv8vQ4w) · [Readwise highlight](https://read.readwise.io/read/01m5dqy2qnsq5vsnerzv7nqwjp)
 
 > the experiment starts here at the Fermilab campus just outside of Illinois

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Finlay Institute
-created: 2026-10-21T02:06:51.001Z
-modified: 2026-10-21T02:06:51.001Z
-published: 2026-10-21T02:06:51.001Z
+created: 2026-10-21T02:06:51.000Z
+modified: 2026-10-21T02:06:51.000Z
+published: 2026-10-21T02:06:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 23.0731
   - -82.4576
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Havana]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Havana]]"
 Building in [[Havana]], Cuba.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | setting | Rosling and Per Lundquist are briefed by Cuban scientists on the 1993 neuropathy epidemic. |
 
 ## How I Learned to Understand the World — Hans Rosling
+
 Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5e327jakbxnw5941mkxqhr9)
 
 > The following day we were collected from the hotel and driven to the Finlay Institute. The Cuban medical scientists who had been working on the epidemic—epidemiologists, clinicians, and laboratory scientists—were waiting to meet us.

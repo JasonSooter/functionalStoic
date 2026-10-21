@@ -2,8 +2,12 @@
 publish: true
 title: Seattle
 created: 2026-10-20T10:42:34.000Z
-modified: 2026-10-20T23:06:03.700Z
-published: 2026-10-20T23:06:03.700Z
+modified: 2026-10-20T23:06:04.000Z
+published: 2026-10-20T23:06:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - How $100 Per Voter Makes Seattle’s Elections More Inclusive
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 47.6062
   - -122.3321
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Seattle
@@ -27,20 +27,23 @@ tags:
 City in Washington State, USA. See also the Travel note [[Seattle]]. Hub for literary places in the region.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| How $100 Per Voter Makes Seattle’s Elections More Inclusive | Amy Sundberg | subject | The city's democracy-voucher experiment in public campaign finance. |
+| How \$100 Per Voter Makes Seattle’s Elections More Inclusive | Amy Sundberg | subject | The city's democracy-voucher experiment in public campaign finance. |
 
 ## Sub-places
+
 - [[Evergreen Point Floating Bridge]]
 - [[Homer M Hadley Memorial Bridge]]
 - [[Lacey V Murrow Memorial Bridge]]
 - [[Recycled Cycles]]
 
-## How $100 Per Voter Makes Seattle’s Elections More Inclusive — Amy Sundberg (2025)
+## How \$100 Per Voter Makes Seattle’s Elections More Inclusive — Amy Sundberg (2025)
+
 Source: [Original](https://reasonstobecheerful.world/how-100-per-voter-makes-seattles-elections-more-inclusive/) · [Readwise highlight](https://read.readwise.io/read/01m5dcjcjjt68kf96836eftrty)
 
-> Seattle is poised to continue its experiment in public campaign financing. In early August, voters renewed the city’s democracy vouchers program, which provides each adult Seattle resident with four $25 vouchers they can donate to local candidates of their choice.
+> Seattle is poised to continue its experiment in public campaign financing. In early August, voters renewed the city’s democracy vouchers program, which provides each adult Seattle resident with four \$25 vouchers they can donate to local candidates of their choice.
 
 - **Role:** subject
 - **In the article:** The article is about Seattle's democracy vouchers: voters renewed the levy that funds them, the number of donors rose sharply, and donors now skew younger and lower-income; critics point to low participation and rising outside money.

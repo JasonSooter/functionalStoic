@@ -1,9 +1,13 @@
 ---
 publish: true
 title: University of Edinburgh
-created: 2026-10-21T02:08:23.547Z
-modified: 2026-10-21T02:08:23.547Z
-published: 2026-10-21T02:08:23.547Z
+created: 2026-10-21T02:08:24.000Z
+modified: 2026-10-21T02:08:24.000Z
+published: 2026-10-21T02:08:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 55.95
   - -3.1833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Edinburgh]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Edinburgh]]"
 Building in [[Edinburgh]], United Kingdom.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | turning point | The author studied Environmental Geoscience here from 2010 and describes each day as a reminder of humanity ravaging the planet. |
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwise.io/read/01m5e319hbymqyxskw81zpy1j5)
 
 > In 2010 I started my degree in Environmental Geoscience at the University of Edinburgh. I showed up as a fresh-faced 16-year-old, ready to learn how we were going to fix some of the world’s biggest challenges. Four years later, I left with no solutions.

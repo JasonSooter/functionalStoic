@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Paris
-created: 2026-10-19T14:14:18.000Z
-modified: 2026-10-21T02:07:05.718Z
-published: 2026-10-21T02:07:05.718Z
 aliases:
   - Paris (literary places)
+title: Paris
+created: 2026-10-19T14:14:18.000Z
+modified: 2026-10-21T02:07:06.000Z
+published: 2026-10-21T02:07:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 48.8567
   - 2.3522
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Paris
@@ -35,6 +35,7 @@ Capital of France. Travel note: [[Paris]]. (File named "(Literary)" to avoid cla
 | [[How '15-Minute Cities' Will Change the Way We Socialise]] | Peter Yeung | subject | The city remade as a cluster of villages under the 15-minute-city plan. |
 
 ## Sub-places
+
 - [[Avenue de la Grande Armée]]
 - [[Centre Pompidou]]
 - [[Câble 1]]
@@ -55,6 +56,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5a86gz0wjjw3dzn0xq
 - **Not pinned separately:** Centre Pompidou (the target of the architecture rant). ⚠️ No coordinate from a standard source could be fetched this run.
 
 ## How '15-Minute Cities' Will Change the Way We Socialise — Peter Yeung (2020)
+
 Source: [[How '15-Minute Cities' Will Change the Way We Socialise]] · [Original](https://www.bbc.com/worklife/article/20201214-how-15-minute-cities-will-change-the-way-we-socialise) · [Readwise highlight](https://read.readwise.io/read/01m5d218ap56a9v45z1rmpax6r)
 
 > “I discovered it’s possible to feel like you're in a small village in Paris,” she says.

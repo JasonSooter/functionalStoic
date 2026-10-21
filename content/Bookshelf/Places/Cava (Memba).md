@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Cava (Memba)
-created: 2026-10-20T22:55:40.926Z
-modified: 2026-10-20T22:55:40.926Z
-published: 2026-10-20T22:55:40.926Z
 aliases:
   - Cava health center
   - Cava mission
+title: Cava (Memba)
+created: 2026-10-20T22:55:41.000Z
+modified: 2026-10-20T22:55:41.000Z
+published: 2026-10-20T22:55:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[How I Learned to Understand the World]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - -14.1748
   - 40.268
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mozambique]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Mozambique]]"
 Village in Memba district, Nampula province, [[Mozambique]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | turning point | In August 1981 a note on a cinema ticket from Sister (Mama) Lucia summons Rosling to Cava, where some thirty women and children lie paralysed on mats. |
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
+
 Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5dqzhegr3p2nptyxy858ttb)
 
 > Sister Lucia worked in a small Catholic mission, based in the health center in a remote place called Cava.

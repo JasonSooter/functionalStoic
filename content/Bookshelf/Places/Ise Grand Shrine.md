@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Ise Grand Shrine
-created: 2026-10-20T22:54:42.366Z
-modified: 2026-10-20T22:54:42.366Z
-published: 2026-10-20T22:54:42.366Z
 aliases:
   - Ise Jingu
   - Ise Shrine
+title: Ise Grand Shrine
+created: 2026-10-20T22:54:42.000Z
+modified: 2026-10-20T22:54:42.000Z
+published: 2026-10-20T22:54:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Breakneck
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 34.455
   - 136.7258
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Japan]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Japan]]"
 Shinto shrine complex at Ise, Mie prefecture, [[Japan]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | subject | Wang uses Japan's holiest Shinto shrine as the model of process knowledge: cypress halls, no nails, rebuilt every twenty years (63rd reconsecration due 2033), so each generation learns the craft. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dqz1w797qt1tdnpccmz5f5)
 
 > Since it was first erected in 690 AD, craftspeople have completely rebuilt its sacred temples—made of wood and hay—every twenty years.

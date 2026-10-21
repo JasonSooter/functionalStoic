@@ -1,28 +1,27 @@
 ---
 publish: true
-title: Irving Square Park
-created: 2026-10-20T22:54:03.904Z
-modified: 2026-10-20T22:54:03.904Z
-published: 2026-10-20T22:54:03.904Z
 aliases:
   - Irving Park
+title: Irving Square Park
+created: 2026-10-20T22:54:04.000Z
+modified: 2026-10-20T22:54:04.000Z
+published: 2026-10-20T22:54:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Another Brooklyn]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.6925,-73.9092
-geo_note: Wikipedia (en) article has no coord template; OSM way matches 'Irving Square
-  Park, Bushwick, Brooklyn'
+geo_note: Wikipedia (en) article has no coord template; OSM way matches 'Irving Square Park, Bushwick, Brooklyn'
 geo_source: OSM way 306815793
 icon: book
 location:
   - 40.6925
   - -73.9092
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bushwick]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Bushwick]]"
 Park in [[Bushwick]], Brooklyn.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | turning point | On an early-spring walk home from the subway before her AP exam, fifteen-year-old August cuts through the park, famous for summer-night DJ parties, and sees Sylvia with her head on Jerome's shoulder, Jerome being… |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Readwise highlight](https://read.readwise.io/read/01m5dqypg948agvzf7mtfbtaw5)
 
 > The shortcut from the subway meant walking through Irving Park, past the boys slamming balls into hoops and the handball players with their single-gloved hands.

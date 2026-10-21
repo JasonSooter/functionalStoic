@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Big Air Shougang
-created: 2026-10-21T02:06:16.389Z
-modified: 2026-10-21T02:06:16.389Z
-published: 2026-10-21T02:06:16.389Z
+created: 2026-10-21T02:06:16.000Z
+modified: 2026-10-21T02:06:16.000Z
+published: 2026-10-21T02:06:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 39.9106
   - 116.1452
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Beijing]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Beijing]]"
 Site in [[Beijing]], China.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | backdrop | At the 2022 Winter Olympics the media showed a closed, abandoned steel mill behind every ski jump. |
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwise.io/read/01m5e31834q4s2835z7y1wnv1s)
 
 > Instead, it focused on the unique backdrop to the ski-jump venue: a closed and abandoned steel mill, one of the casualties of the ‘war on pollution’.

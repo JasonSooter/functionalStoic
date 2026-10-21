@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Corinth
-created: 2026-10-21T02:06:39.059Z
-modified: 2026-10-21T02:06:39.059Z
-published: 2026-10-21T02:06:39.059Z
+created: 2026-10-21T02:06:39.000Z
+modified: 2026-10-21T02:06:39.000Z
+published: 2026-10-21T02:06:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Greece]]"
 ---
 
@@ -22,4 +22,5 @@ within: "[[Greece]]"
 Hub note; sits within [[Greece]].
 
 ## Sub-places
+
 - [[Craneum (Corinth)]]

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Checkpoint Charlie
-created: 2026-10-20T22:55:00.734Z
-modified: 2026-10-20T22:55:00.734Z
-published: 2026-10-20T22:55:00.734Z
 aliases:
   - Berlin Wall crossing
+title: Checkpoint Charlie
+created: 2026-10-20T22:55:01.000Z
+modified: 2026-10-20T22:55:01.000Z
+published: 2026-10-20T22:55:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[How I Learned to Understand the World]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 52.5075
   - 13.3903
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Berlin]]"
 Former crossing point between West and East [[Berlin]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | turning point | On the way home from his 1966 hitchhiking trip, aged eighteen, Rosling crossed into East Berlin and walked around it all day, five years after the Wall went up. |
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
+
 Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5dqz74q1r30mas4hpxxh9qd)
 
 > I crossed the border at Checkpoint Charlie and spent the whole day walking around East Berlin.

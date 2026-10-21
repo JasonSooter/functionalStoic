@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Blue Hill Fair
-created: 2026-10-20T22:55:06.650Z
-modified: 2026-10-20T22:55:06.650Z
-published: 2026-10-20T22:55:06.650Z
 aliases:
   - County Fair
   - Fair Grounds
   - The Fair
+title: Blue Hill Fair
+created: 2026-10-20T22:55:07.000Z
+modified: 2026-10-20T22:55:07.000Z
+published: 2026-10-20T22:55:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Charlotte's Web]]"
 categories:
@@ -21,10 +25,6 @@ icon: book
 location:
   - 44.4283
   - -68.5721
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Maine]]"
 ---
 
@@ -33,11 +33,13 @@ within: "[[Maine]]"
 Real-world model for _Charlotte's Web_; pinned at the real place within [[Maine]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Charlotte's Web]] | E. B. White | turning point | Zuckerman decides to take Wilbur to the County Fair on September sixth. |
 
 ## Charlotte's Web — E. B. White (1952)
+
 Source: [[Charlotte's Web]] · [Readwise highlight](https://read.readwise.io/read/01m5dr0rchaeq7sfs4g0xy4524)
 
 > When they pulled into the Fair Grounds, they could hear music and see the Ferris wheel turning in the sky.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Weligama
-created: 2026-10-21T02:08:25.411Z
-modified: 2026-10-21T02:08:25.411Z
-published: 2026-10-21T02:08:25.411Z
+created: 2026-10-21T02:08:25.000Z
+modified: 2026-10-21T02:08:25.000Z
+published: 2026-10-21T02:08:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - In Sri Lanka, ‘the Ocean Is For Everyone’
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 5.9739
   - 80.4294
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sri Lanka]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Sri Lanka]]"
 Town in [[Sri Lanka]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | In Sri Lanka, ‘the Ocean Is For Everyone’ | Zinara Rathnayake | setting | Weligama is Amzhii's hometown and the base of SeaSisters' free swim and surf sessions. |
 
 ## In Sri Lanka, ‘the Ocean Is For Everyone’ — Zinara Rathnayake (2025)
+
 Source: [Original](https://reasonstobecheerful.world/sri-lanka-seasisters-surfing/) · [Readwise highlight](https://read.readwise.io/read/01m5e2ymhzv9x3s47h7ct6cv6h)
 
 > Amzhii’s hometown, Weligama, 148 kilometers south of the Sri Lankan capital Colombo.

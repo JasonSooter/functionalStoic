@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Esplanadi
-created: 2026-10-21T02:06:57.949Z
-modified: 2026-10-21T02:06:57.949Z
-published: 2026-10-21T02:06:57.949Z
+created: 2026-10-21T02:06:58.000Z
+modified: 2026-10-21T02:06:58.000Z
+published: 2026-10-21T02:06:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]]"
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 60.1675
   - 24.9478
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Helsinki]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Helsinki]]"
 Park in [[Helsinki]], Finland.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]] | Molly Young, Julia Whelan, Emma Kehlbeck, Jeremy McLennan | backdrop | On her first evening she walks to the harbor and along the esplanade, finding it empty and wintry compared with how it is described in spring. |
 
 ## My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times — Molly Young, Julia Whelan, Emma Kehlbeck, Jeremy McLennan (2025)
+
 Source: [[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]] · [Original](https://www.nytimes.com/2025/05/02/magazine/finland-happiest-country.html/) · [Readwise highlight](https://read.readwise.io/read/01m5e2xsq5jy3ckxamvmtyrcx8)
 
 > Helsinki’s famous esplanade was empty. In spring the central walkway becomes a riot of flowering crab apples and bare shoulders (I had been told), but now the kiosks were shuttered, the trees skeletal, the paths plowed but untrodden.

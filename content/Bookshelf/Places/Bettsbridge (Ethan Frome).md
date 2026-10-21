@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Bettsbridge
-created: 2026-10-20T22:54:02.640Z
-modified: 2026-10-20T22:54:02.640Z
-published: 2026-10-20T22:54:02.640Z
+created: 2026-10-20T22:54:03.000Z
+modified: 2026-10-20T22:54:03.000Z
+published: 2026-10-20T22:54:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Ethan Frome]]"
@@ -18,10 +22,6 @@ icon: book
 location:
   - 42.45
   - -73.25
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pittsfield]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Pittsfield]]"
 Unnamed or fictional setting in _Ethan Frome_; pinned at a best-guess location within [[Pittsfield]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Ethan Frome]] | Edith Wharton | backdrop | Bettsbridge is the larger valley town that connects Starkfield to the wider world: the stage once ran from there, Ethan's mother watched the Bettsbridge pike from the farm, and its paper, the Bettsbridge Eagle, is… |
 
 ## Ethan Frome — Edith Wharton (1911)
+
 Source: [[Ethan Frome]] · [Readwise highlight](https://read.readwise.io/read/01m5dr0f3m7eqzj5c234s66e1w)
 
 > I had this from Harmon Gow, who had driven the stage from Bettsbridge to Starkfield in pre-trolley days and knew the chronicle of all the families on his line.

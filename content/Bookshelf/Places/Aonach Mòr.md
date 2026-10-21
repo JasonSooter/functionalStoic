@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Aonach Mòr
-created: 2026-10-21T02:06:06.928Z
-modified: 2026-10-21T02:06:06.928Z
-published: 2026-10-21T02:06:06.928Z
+created: 2026-10-21T02:06:07.000Z
+modified: 2026-10-21T02:06:07.000Z
+published: 2026-10-21T02:06:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Scotland]]"
 ---
 
@@ -22,4 +22,5 @@ within: "[[Scotland]]"
 Hub note; sits within [[Scotland]].
 
 ## Sub-places
+
 - [[The downhill course under Ben Nevis]]

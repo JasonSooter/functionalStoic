@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Zhengzhou
-created: 2026-10-20T22:54:30.946Z
-modified: 2026-10-20T22:54:30.946Z
-published: 2026-10-20T22:54:30.946Z
 aliases:
   - Zhengzhou Foxconn
+title: Zhengzhou
+created: 2026-10-20T22:54:31.000Z
+modified: 2026-10-20T22:54:31.000Z
+published: 2026-10-20T22:54:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Breakneck
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 34.764
   - 113.684
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[China]]"
 Capital of Henan province, [[China]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | journey waypoint | After Shenzhen outgrew its labour pool Foxconn moved to Sichuan, Chongqing, the Shanghai region and Henan. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dqyz82ft713xcpqzvgkwf2)
 
 > These regions remain major production sites for Apple, the biggest of which is in Henan’s capital city of Zhengzhou. At peak season, Zhengzhou has the capacity to employ around 350,000 people.

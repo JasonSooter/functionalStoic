@@ -2,8 +2,12 @@
 publish: true
 title: Rovaniemi
 created: 2026-10-20T07:55:04.000Z
-modified: 2026-10-21T01:41:52.892Z
-published: 2026-10-21T01:41:52.892Z
+modified: 2026-10-21T01:41:53.000Z
+published: 2026-10-21T01:41:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Sleeping to the Arctic Circle on the Santa Claus Express
@@ -15,10 +19,6 @@ icon: video
 location:
   - 66.5
   - 25.733
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Finland (Literary)]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Finland (Literary)]]"
 Capital of Finnish Lapland, on the Arctic Circle. See [[Finland (Literary)]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sleeping to the Arctic Circle on the Santa Claus Express | Simply Railway | journey waypoint | The night train's destination, "the home of Santa Claus". |
 
 ## Sleeping to the Arctic Circle on the Santa Claus Express — Simply Railway (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=PCsm7fM21z4) · [Readwise highlight](https://read.readwise.io/read/01m5c4qph71t5yf91nhmheza96)
 
 > Tonight I will be heading to Rovaniemi (aka the home of Santa Claus), just above the Arctic Circle!

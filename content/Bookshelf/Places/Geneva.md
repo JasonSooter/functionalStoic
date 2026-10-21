@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Geneva
-created: 2026-10-20T01:26:48.000Z
-modified: 2026-10-20T23:04:15.658Z
-published: 2026-10-20T23:04:15.658Z
 aliases:
   - Genève
+title: Geneva
+created: 2026-10-20T01:26:48.000Z
+modified: 2026-10-20T23:04:16.000Z
+published: 2026-10-20T23:04:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland (Literary)]]"
 ---
 
@@ -23,6 +23,7 @@ within: "[[Switzerland (Literary)]]"
 City at the western end of Lake Geneva, Switzerland; see [[Switzerland (Literary)]] and the Travel note [[Switzerland]]. Hub for literary places in the city.
 
 ## Sub-places
+
 - [[International Red Cross and Red Crescent Museum]]
 - [[Rue du Rhône]]
 - [[World Health Organization headquarters]]

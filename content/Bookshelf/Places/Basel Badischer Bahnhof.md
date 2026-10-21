@@ -1,15 +1,18 @@
 ---
 publish: true
-title: Basel Badischer Bahnhof
-created: 2026-10-20T10:42:34.000Z
-modified: 2026-10-20T22:29:47.536Z
-published: 2026-10-20T22:29:47.536Z
 aliases:
   - Basel Bad Bf
   - Basel Bad
+title: Basel Badischer Bahnhof
+created: 2026-10-20T10:42:34.000Z
+modified: 2026-10-20T22:29:48.000Z
+published: 2026-10-20T22:29:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - Regional train from Basel Bad, Switzerland to Karlsruhe, Germany via Freiburg
-    & Offenburg line RE7
+  - Regional train from Basel Bad, Switzerland to Karlsruhe, Germany via Freiburg & Offenburg line RE7
 categories:
   - "[[Places]]"
 color: purple
@@ -19,10 +22,6 @@ icon: video
 location:
   - 47.5674
   - 7.6071
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Basel]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Basel]]"
 German-run railway station in [[Basel]], Switzerland.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Regional train from Basel Bad, Switzerland to Karlsruhe, Germany via Freiburg & Offenburg line RE7 | Trainviking | setting | The border station with a giant disco ball. |
 
 ## Regional train from Basel Bad, Switzerland to Karlsruhe, Germany via Freiburg & Offenburg line RE7 — Trainviking (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=T9ZYdhtj9Hw) · [Readwise highlight](https://read.readwise.io/read/01m5ce6c2xk6tkanhh23k0bnk9)
 
 > with a giant disco ball is the border

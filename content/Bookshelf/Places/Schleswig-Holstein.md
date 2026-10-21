@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Schleswig-Holstein
-created: 2026-10-20T22:55:57.728Z
-modified: 2026-10-20T22:55:57.728Z
-published: 2026-10-20T22:55:57.728Z
+created: 2026-10-20T22:55:58.000Z
+modified: 2026-10-20T22:55:58.000Z
+published: 2026-10-20T22:55:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Germany (Literary)]]"
 ---
 
@@ -22,4 +22,5 @@ within: "[[Germany (Literary)]]"
 Germany's northernmost state, between the North Sea and the Baltic.
 
 ## Sub-places
+
 - [[Fehmarn]]

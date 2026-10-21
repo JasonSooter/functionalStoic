@@ -2,8 +2,12 @@
 publish: true
 title: Ferdinand Bolstraat
 created: 2026-10-20T10:43:09.000Z
-modified: 2026-10-21T01:41:20.021Z
-published: 2026-10-21T01:41:20.021Z
+modified: 2026-10-21T01:41:20.000Z
+published: 2026-10-21T01:41:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Crazy Story of my Favourite Street in Amsterdam
@@ -17,10 +21,6 @@ icon: video
 location:
   - 52.3531
   - 4.8961
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Amsterdam]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Amsterdam]]"
 Shopping street in De Pijp, [[Amsterdam]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Crazy Story of my Favourite Street in Amsterdam | Not Just Bikes | subject | A nearly car-free street with everything a great street needs. |
 
 ## The Crazy Story of my Favourite Street in Amsterdam — Not Just Bikes (2026)
+
 Source: [Original](https://nebula.tv/videos/notjustbikes-the-crazy-story-of-my-favourite-street-in-amsterdam/) · [Readwise highlight](https://read.readwise.io/read/01m5ce8sz3t3qmjsqn4pc1vq99)
 
 > There are a lot of great streets in Amsterdam, but one of my favourites is Ferdinand Bolstraat. Not because it's the most beautiful, or the best for cycling, but because it has all the elements of what makes a great urban street. And it's nearly car-free!

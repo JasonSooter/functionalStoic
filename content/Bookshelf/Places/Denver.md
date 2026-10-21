@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Denver
-created: 2026-10-21T02:06:45.388Z
-modified: 2026-10-21T02:06:45.388Z
-published: 2026-10-21T02:06:45.388Z
+created: 2026-10-21T02:06:45.000Z
+modified: 2026-10-21T02:06:45.000Z
+published: 2026-10-21T02:06:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -22,4 +22,5 @@ within: "[[Colorado]]"
 Hub note; sits within [[Colorado]].
 
 ## Sub-places
+
 - [[Colorado State Capitol]]

@@ -2,8 +2,12 @@
 publish: true
 title: Diamniadio
 created: 2026-10-20T04:31:55.000Z
-modified: 2026-10-21T01:32:20.939Z
-published: 2026-10-21T01:32:20.939Z
+modified: 2026-10-21T01:32:21.000Z
+published: 2026-10-21T01:32:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Is this Africa’s Urban Transport Model ?
@@ -15,10 +19,6 @@ icon: video
 location:
   - 14.7219
   - -17.1789
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Senegal]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[Senegal]]"
 New city east of Dakar, Senegal. See [[Senegal]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Is this Africa’s Urban Transport Model ? | Simply Railway | journey waypoint | Terminus of Dakar's TER commuter line, a planned city to relieve the capital. |
 
 ## Is this Africa’s Urban Transport Model ? — Simply Railway (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=hXnOj7AXre8) · [Readwise highlight](https://read.readwise.io/read/01m5bs6nrf8b6d7syny10mdhw6)
 
 > Diamniadio is a new city being developed to reduce congestion and better distribute the population around Dakar.

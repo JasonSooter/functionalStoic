@@ -1,9 +1,13 @@
 ---
 publish: true
 title: The hunting unit (Cargo Bike Elk Hunting)
-created: 2026-10-21T02:08:15.384Z
-modified: 2026-10-21T02:08:15.384Z
-published: 2026-10-21T02:08:15.384Z
+created: 2026-10-21T02:08:15.000Z
+modified: 2026-10-21T02:08:15.000Z
+published: 2026-10-21T02:08:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "Cargo Bike Elk Hunting: Conservation and Consciousness – John Watson"
@@ -12,17 +16,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 36.8808,-106.5844
-geo_note: "best-guess: Only 'New Mexico' + 'CDT' are in the text; the pin is a gateway-town\
-  \ stand-in, so mark approximate."
+geo_note: "best-guess: Only 'New Mexico' + 'CDT' are in the text; the pin is a gateway-town stand-in, so mark approximate."
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 36.8808
   - -106.5844
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Chama, New Mexico]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Chama, New Mexico]]"
 The place as Cargo Bike Elk Hunting: Conservation and Consciousness – John Watson describes it; pinned at Continental Divide Trail, northern New Mexico (Carson National Forest area), represented by Chama (⚠️ best-guess).
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Cargo Bike Elk Hunting: Conservation and Consciousness – John Watson | John Watson | setting | John Watson, drawing a bull-elk tag in a New Mexico lottery, drives up to his hunting unit and rides his cargo bike along the Continental Divide Trail to spike-camp with friends Kyle and Kim. |
 
 ## Cargo Bike Elk Hunting: Conservation and Consciousness – John Watson — John Watson (2025)
+
 Source: [Original](https://theradavist.com/cargo-bike-hunting) · [Readwise highlight](https://read.readwise.io/read/01m5e336j9eag11b13pnbq7fdp)
 
 > My unit is bisected by the CDT, and with it, access by bike.

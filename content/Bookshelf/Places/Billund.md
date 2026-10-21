@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Billund
-created: 2026-10-21T02:06:19.025Z
-modified: 2026-10-21T02:06:19.025Z
-published: 2026-10-21T02:06:19.025Z
+created: 2026-10-21T02:06:19.000Z
+modified: 2026-10-21T02:06:19.000Z
+published: 2026-10-21T02:06:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Back to the Moderland]]"
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 55.7308
   - 9.1153
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Denmark (Literary)]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Denmark (Literary)]]"
 Town in [[Denmark (Literary)]], Denmark.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Back to the Moderland]] | Helen Russell | setting | Billund appears in a new light on the return visit. |
 
 ## Back To The Moderland? — Helen Russell (2025)
+
 Source: [[Back to the Moderland]] · [Original](https://mshelenrussell.substack.com/p/back-to-the-moderland) · [Readwise highlight](https://read.readwise.io/read/01m5e2xe7572ssqcraz91fnmbk)
 
 > Even Billund - home of Lego, an airport, Legoland, a bakery, and Lego House - appeared in a new, ethereal light. I marvelled at the neatness. The efficiency.

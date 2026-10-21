@@ -2,8 +2,12 @@
 publish: true
 title: Florida
 created: 2026-10-19T22:29:17.000Z
-modified: 2026-10-20T22:35:25.815Z
-published: 2026-10-20T22:35:25.815Z
+modified: 2026-10-20T22:35:26.000Z
+published: 2026-10-20T22:35:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 28.7505
   - -82.5001
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Florida
@@ -28,6 +28,7 @@ tags:
 State in the south-eastern United States; see also the [[United States]] travel note. Hub for literary places in Florida.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] | Kyla Scanlon | journey waypoint | A state ageing and aspiring at once. |
@@ -38,6 +39,7 @@ State in the south-eastern United States; see also the [[United States]] travel 
 - [[Kissimmee River]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
+
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5eqy53q64qvkj0sd98gs)
 
 > I drove from Fort Lauderdale to Marco Island to West Palm Beach, and the whole state felt like it was aging and aspiring at the same time.

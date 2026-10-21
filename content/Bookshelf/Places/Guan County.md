@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Guan County
-created: 2026-10-20T22:54:45.937Z
-modified: 2026-10-20T22:54:45.937Z
-published: 2026-10-20T22:54:45.937Z
 aliases:
   - Guan County, Shandong
   - Guanxian
+title: Guan County
+created: 2026-10-20T22:54:46.000Z
+modified: 2026-10-20T22:54:46.000Z
+published: 2026-10-20T22:54:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Breakneck
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 36.484
   - 115.443
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[China]]"
 County in Liaocheng, Shandong, [[China]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | turning point | Zeng summoned twenty-two senior officials in April 1991 and demanded zero births between May 1 and August 10; residents said every woman was forced to abort regardless of stage, with toughs imported from other counties. |
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dqz38ckh64jw2hybazwryt)
 
 > Zeng Zhaoqi, newly appointed party secretary of Guan County, was humiliated that it ranked last in the province for family planning.

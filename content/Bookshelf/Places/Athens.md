@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Athens
-created: 2026-10-21T02:06:18.297Z
-modified: 2026-10-21T02:06:18.297Z
-published: 2026-10-21T02:06:18.297Z
+created: 2026-10-21T02:06:18.000Z
+modified: 2026-10-21T02:06:18.000Z
+published: 2026-10-21T02:06:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Greece]]"
 ---
 
@@ -22,4 +22,5 @@ within: "[[Greece]]"
 Hub note; sits within [[Greece]].
 
 ## Sub-places
+
 - [[Stoa Poikile]]

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Hirschenhofweg mobility station
-created: 2026-10-20T10:42:48.000Z
-modified: 2026-10-21T01:23:57.790Z
-published: 2026-10-21T01:23:57.790Z
 aliases:
   - Mobilitätsstation Ebnet
+title: Hirschenhofweg mobility station
+created: 2026-10-20T10:42:48.000Z
+modified: 2026-10-21T01:23:58.000Z
+published: 2026-10-21T01:23:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Mobile in Freiburg Without a Car - Easy Thanks to Mobility Stations!]]"
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 47.9885
   - 7.9085
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg (Literary)]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Freiburg (Literary)]]"
 Mobility station in Ebnet, [[Freiburg (Literary)]], Germany.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Mobile in Freiburg Without a Car - Easy Thanks to Mobility Stations!]] | VAG Freiburg | subject | Freiburg's first mobility station: bus, Frelo, car-sharing and charging in one place. |
 
 ## Mobile in Freiburg without a car: easy thanks to mobility stations! — VAG Freiburg (2025)
+
 Source: [[Mobile in Freiburg Without a Car - Easy Thanks to Mobility Stations!]] · [Original](https://blog.vag-freiburg.de/ohne-auto-mobil-in-freiburg-easy-dank-mobilstationen/) · [Readwise highlight](https://read.readwise.io/read/01m5ce7exzrrfja2jr3tjbxjjc)
 
 > With the installation of e-charging stations and car-sharing spaces on Hirschenhofweg in Ebnet, the existing bus stop and the Frelo station become a mobility station with four options.

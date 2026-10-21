@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Old Survivor
-created: 2026-10-20T22:56:00.185Z
-modified: 2026-10-20T22:56:00.185Z
-published: 2026-10-20T22:56:00.185Z
 aliases:
   - Grandfather
   - Old Survivor Redwood Tree
   - Old Survivor redwood
+title: Old Survivor
+created: 2026-10-20T22:56:00.000Z
+modified: 2026-10-20T22:56:00.000Z
+published: 2026-10-20T22:56:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 37.7928
   - -122.1748
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oakland]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Oakland]]"
 Oakland's last old-growth redwood, in Leona Heights, [[Oakland]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion]] | Jenny Odell | subject | The Introduction opens in the Oakland hills with this hidden, twisted, 93-foot redwood on a steep rocky slope in Leona Park, found by a naturalist in 1969. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Readwise highlight](https://read.readwise.io/read/01m5dqzpb3r4swq76nt5ycv8x3)
 
 > it’s Oakland’s only old-growth redwood left standing, a miraculous five-hundred-year-old holdover from the time before all of the ancient redwoods were logged following the Gold Rush.

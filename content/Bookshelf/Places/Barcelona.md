@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Barcelona
-created: 2026-10-20T22:55:12.961Z
-modified: 2026-10-20T22:55:12.961Z
-published: 2026-10-20T22:55:12.961Z
 aliases:
   - Barcelona, Spain
+title: Barcelona
+created: 2026-10-20T22:55:13.000Z
+modified: 2026-10-20T22:55:13.000Z
+published: 2026-10-20T22:55:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - In Barcelona, a Little Energy Advice Goes a Long Way
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 41.3833
   - 2.1833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Catalonia]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Catalonia]]"
 Capital of [[Catalonia]], Spain.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | In Barcelona, a Little Energy Advice Goes a Long Way | Peter Yeung | subject | Roman Tresens Gallard, a pensioner in social housing, got a bill over €100 a month in 2018 and went to social services, which sent him to one of 13 Energy Advising Points. |
 
 ## In Barcelona, a Little Energy Advice Goes a Long Way — Peter Yeung (2025)
+
 Source: [Original](https://reasonstobecheerful.world/barcelona-energy-advising-points/) · [Readwise highlight](https://read.readwise.io/read/01m5dqxrpw13ka0na7gs73435q)
 
 > Living alone in a social housing apartment in Barcelona, Gallard, now 74, was in an extremely precarious position.

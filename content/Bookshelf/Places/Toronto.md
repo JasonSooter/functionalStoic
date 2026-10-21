@@ -2,8 +2,12 @@
 publish: true
 title: Toronto
 created: 2026-10-20T10:42:24.000Z
-modified: 2026-10-21T01:41:48.486Z
-published: 2026-10-21T01:41:48.486Z
+modified: 2026-10-21T01:41:48.000Z
+published: 2026-10-21T01:41:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Absolute Best Transportation for Cities (trams)
@@ -16,10 +20,6 @@ icon: video
 location:
   - 43.6525
   - -79.3817
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ontario]]"
 ---
 
@@ -28,14 +28,17 @@ within: "[[Ontario]]"
 Largest city of Canada, capital of [[Ontario]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Absolute Best Transportation for Cities (trams) | Not Just Bikes | backdrop | Streetcars removed for cars, and the ones left stuck in traffic. |
 
 ## Sub-places
+
 - [[Yonge Street]]
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise highlight](https://read.readwise.io/read/01m5ce4gz97nw16zzmx7j8gqp9)
 
 > The streetcars in Toronto are barely functional.

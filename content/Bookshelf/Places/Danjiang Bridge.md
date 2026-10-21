@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Danjiang Bridge
-created: 2026-10-19T22:26:46.000Z
-modified: 2026-10-20T22:34:07.848Z
-published: 2026-10-20T22:34:07.848Z
 aliases:
   - Tamsui River estuary
+title: Danjiang Bridge
+created: 2026-10-19T22:26:46.000Z
+modified: 2026-10-20T22:34:08.000Z
+published: 2026-10-20T22:34:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The World's Most Beautiful Bridge Just Opened
 categories:
@@ -16,10 +20,6 @@ icon: video
 location:
   - 25.1753
   - 121.4178
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Taiwan]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Taiwan]]"
 Single-tower cable-stayed bridge across the mouth of the Tamsui River, linking the Tamsui and Bali districts of New Taipei, [[Taiwan]]. It opened on 12 May 2026.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The World's Most Beautiful Bridge Just Opened | The B1M | subject | A Zaha Hadid Architects bridge designed around a famous sunset estuary. |
 
 ## The World's Most Beautiful Bridge Just Opened — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=j9w7rYXvmM0) · [Readwise highlight](https://read.readwise.io/read/01m5b44s3h7tvj2cbmd6wjw6y6)
 
 > With its minimal profile and swooping lines, the Danjang Bridge leaps over the Tamsoy Estri.

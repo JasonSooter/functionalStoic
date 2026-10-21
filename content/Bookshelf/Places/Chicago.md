@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Chicago
-created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-20T23:03:12.601Z
-published: 2026-10-20T23:03:12.601Z
 aliases:
   - Chicawgo
+title: Chicago
+created: 2026-10-20T10:42:40.000Z
+modified: 2026-10-20T23:03:13.000Z
+published: 2026-10-20T23:03:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Big Boy Leaves Home]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 41.8819
   - -87.6278
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Illinois]]"
 ---
 
@@ -29,14 +29,17 @@ within: "[[Illinois]]"
 City on Lake Michigan, [[Illinois]], USA.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Big Boy Leaves Home]] | Richard Wright | turning point | The escape route north, never reached on the page. |
 
 ## Sub-places
+
 - [[Wicker Park]]
 
 ## Big Boy Leaves Home — Richard Wright (1936)
+
 Source: [[Big Boy Leaves Home]] · [Readwise highlight](https://read.readwise.io/read/01m5ce6rfc05qq7wymntgd6278)
 
 > Mah son, Will, the one whut drives fer the Magnolia Express Comny, is taking a truck o goods t Chicawgo in the mawnin.
