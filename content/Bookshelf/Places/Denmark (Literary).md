@@ -2,8 +2,8 @@
 publish: true
 title: Denmark
 created: 2026-10-20T19:39:32.000Z
-modified: 2026-10-21T05:07:51.000Z
-published: 2026-10-21T05:07:51.000Z
+modified: 2026-10-21T06:25:42.715Z
+published: 2026-10-21T06:25:42.715Z
 tags:
   - places
   - place/literary
@@ -11,6 +11,10 @@ tags:
 aliases: []
 books:
   - Will mushrooms go mainstream in Denmark?
+  - Why we ended up homeschooling
+  - "[['Workaday' or 'Novelty' Parenting the Danish vs Not-So-Danish Way]]"
+  - Come on then 2025, let's be having you
+  - "What I've learned from Danes: 5 Lessons for a Better Festive Season"
 categories:
   - "[[Places]]"
 color: purple
@@ -39,7 +43,7 @@ Country in northern Europe. See also the Travel note [[Denmark]]. The pin is the
 
 ## Sub-places
 
-- [[Billund]]
+- [[Bookshelf/Places/Billund]]
 - [[Helsingør]]
 - [[Rødbyhavn]]
 - [[Tvindkraft]]

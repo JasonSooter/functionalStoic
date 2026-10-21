@@ -2,8 +2,8 @@
 publish: true
 title: Lego Campus
 created: 2026-10-21T05:07:48.000Z
-modified: 2026-10-21T05:07:48.000Z
-published: 2026-10-21T05:07:48.000Z
+modified: 2026-10-21T06:25:42.778Z
+published: 2026-10-21T06:25:42.778Z
 tags:
   - places
   - place/literary
@@ -20,12 +20,12 @@ icon: book
 location:
   - 55.7335
   - 9.1214
-within: "[[Billund]]"
+within: "[[Bookshelf/Places/Billund]]"
 ---
 
 # Lego Campus
 
-Office/factory in Billund, Jutland, Denmark. Part of [[Billund]].
+Office/factory in Billund, Jutland, Denmark. Part of [[Bookshelf/Places/Billund]].
 
 ## At a glance
 

@@ -2,8 +2,8 @@
 publish: true
 title: Legoland Hotel
 created: 2026-10-21T05:07:44.000Z
-modified: 2026-10-21T05:07:44.000Z
-published: 2026-10-21T05:07:44.000Z
+modified: 2026-10-21T06:25:42.764Z
+published: 2026-10-21T06:25:42.764Z
 tags:
   - places
   - place/literary
@@ -20,12 +20,12 @@ icon: book
 location:
   - 55.7334
   - 9.1276
-within: "[[Billund]]"
+within: "[[Bookshelf/Places/Billund]]"
 ---
 
 # Legoland Hotel
 
-Hotel in Billund, Jutland, Denmark. Part of [[Billund]].
+Hotel in Billund, Jutland, Denmark. Part of [[Bookshelf/Places/Billund]].
 
 ## At a glance
 
