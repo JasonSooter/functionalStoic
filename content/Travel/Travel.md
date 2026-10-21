@@ -2,12 +2,12 @@
 publish: true
 title: Travel
 created: 2026-09-26T05:01:00.000Z
-modified: 2026-10-18T15:07:38.376Z
-published: 2026-10-18T15:07:38.376Z
+modified: 2026-10-21T07:10:59.758Z
+published: 2026-10-21T07:10:59.758Z
 tags: source/ai/claude
 socialImage: Attachments/Travel Hero.jpg
-date created: 2023-02-22T14:55:39-07:00
-date modified: 2026-10-18T17:04:19+02:00
+date created: 2026-09-26T07:01:00+02:00
+date modified: 2026-10-21T09:10:58+02:00
 linter-yaml-title-alias: Travel
 image: Attachments/Travel Hero.jpg
 ---
@@ -142,7 +142,7 @@ Rules for Traveling:
    - For Work Trip:
      - My laptop and power cord.
 
-## Quote: "It is evident that one must travel"
+## Quote: "It is Evident That One Must Travel"
 
 > [!quote] Voltaire, _Candide_ (1759), ch. 18
 > Had our friend Pangloss seen El Dorado he would no longer have said that the castle of Thunder-ten-Tronckh was the finest upon earth. It is evident that one must travel.
@@ -170,7 +170,7 @@ _(Yours, one line.)_
 
 _Added by Claude, 2026-09-25 (`source/ai/claude`). Related: [[Writing Tasks/On Walking|On Walking]] · [[Travel/Europe/Germany/Freiburg Old Town Walk|Freiburg Old Town Walk]]_
 
-## Quote: "The world is prettier in full resolution"
+## Quote: "The World is Prettier in Full Resolution"
 
 _Added by Claude, 2026-09-25 (`source/ai/claude`), from a Readwise task. Checked in the full essay in Reader._
 
@@ -181,7 +181,7 @@ _Added by Claude, 2026-09-25 (`source/ai/claude`), from a Readwise task. Checked
 
 Pairs with: [[Travel/Trip Ideas|Trip Ideas]] (a list that could become a scratch-off map, if you let it) · [[Concepts/Rivers vs. Buckets|Rivers vs. Buckets]]
 
-## Idea: explore by bike
+## Idea: Explore by Bike
 
 _Added by Claude, 2026-10-02 (`source/ai/claude`), from a Readwise task._
 
