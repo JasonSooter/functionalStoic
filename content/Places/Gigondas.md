@@ -2,12 +2,8 @@
 publish: true
 title: Gigondas
 created: 2026-10-20T16:27:37.000Z
-modified: 2026-10-21T01:28:48.000Z
-published: 2026-10-21T01:28:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:10:15.244Z
+published: 2026-10-21T11:10:15.244Z
 aliases: []
 books:
   - Séguret, Gigondas, Faucon
@@ -20,21 +16,23 @@ icon: newspaper
 location:
   - 44.1647
   - 5.0053
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Provence]]"
 ---
 
 # Gigondas
 
-Wine village below the Dentelles de Montmirail, Vaucluse. See [[Provence]].
+Wine village below the Dentelles de Montmirail, Vaucluse, in [[Provence]], and the one village described in a short autumn cycling photo post.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Séguret, Gigondas, Faucon | Mostly Bikes x Me | subject | An end-of-harvest ride and a village that smells of the sea. |
+| [[Séguret, Gigondas, Faucon]] | Mostly Bikes x Me | subject | An end-of-harvest ride and a village that smells of the sea. |
 
 ## Séguret, Gigondas, Faucon — Mostly Bikes x Me (2025)
-
 Source: [Original](https://funkadelic.net/pages/15932413267.html) · [Readwise highlight](https://read.readwise.io/read/01m5d21cq7zwt7fqgfvyzzsnbd)
 
 > Gigondas has a saline scent, like a sea breeze.

@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Repack
+created: 2026-10-20T13:51:48.000Z
+modified: 2026-10-21T11:17:33.654Z
+published: 2026-10-21T11:17:33.654Z
 aliases:
   - Repack Road
   - Repack Downhill
-title: Repack
-created: 2026-10-20T13:51:48.000Z
-modified: 2026-10-20T22:15:16.000Z
-published: 2026-10-20T22:15:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -24,22 +20,26 @@ icon: book
 location:
   - 37.9855
   - -122.6312
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Fairfax, California]]"
 ---
 
 # Repack
 
-Steep fire-road descent on Pine Mountain above [[Fairfax, California]].
+Steep fire-road descent on Pine Mountain above [[Fairfax, California]], the birthplace of the mountain bike, which Robert Penn rides in It's All About the Bike.
 
 ## At a glance
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[It's All About the Bike]] | Robert Penn | subject | Birthplace of the mountain bike; Penn rides it. |
+| [[It's All About the Bike\|It's All About the Bike: In Pursuit of Happiness on Two Wheels]] | Robert Penn | subject | Birthplace of the mountain bike; Penn rides it. |
 
 ## It's All About the Bike: In Pursuit of Happiness on Two Wheels — Robert Penn (2010)
 
-Source: [[It's All About the Bike]] · [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Readwise highlight](https://read.readwise.io/read/01m5crb1hxn23vh2h5jrtfrp9h)
+Source: [[It's All About the Bike]] · [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5crb1hxn23vh2h5jrtfrp9h)
 
 > If you’re not a mountain bike fanatic, you wouldn’t know that Repack is the most famous off-road trail in the world. It’s the birthplace of the mountain bike.
 

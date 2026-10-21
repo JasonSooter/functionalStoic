@@ -2,12 +2,8 @@
 publish: true
 title: Brooklyn
 created: 2026-10-20T02:08:43.000Z
-modified: 2026-10-21T04:45:45.000Z
-published: 2026-10-21T04:45:45.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:23:19.808Z
+published: 2026-10-21T10:23:19.808Z
 aliases: []
 books:
   - "[[Dept. Of Speculation.md]]"
@@ -19,18 +15,21 @@ icon: book
 location:
   - 40.65
   - -73.95
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 ---
 
 # Brooklyn
 
-Borough of [[New York City]], USA. See also the Travel note [[New York]].
+Borough of [[New York City]], USA (see also [[New York]]), and the home city of the couple in Dept. of Speculation, which the daughter mourns after the move to the country.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Dept. Of Speculation.md]] | Jenny Offill | setting | The couple's home city for most of the book, and what the daughter mourns after the move to the country. |
+| [[Dept. Of Speculation.md\|Dept. of Speculation]] | Jenny Offill | setting | The couple's home city for most of the book, and what the daughter mourns after the move to the country. |
 
 ## Sub-places
 
@@ -41,8 +40,7 @@ Borough of [[New York City]], USA. See also the Travel note [[New York]].
 - [[Sunset Park]]
 
 ## Dept. of Speculation — Jenny Offill (2014)
-
-Source: [[Dept. Of Speculation.md]] · [Readwise highlight](https://read.readwise.io/read/01m5bfwhhsdveh0366hfbxrr5h)
+Source: [[Dept. Of Speculation.md]] · [Original](https://www.penguinrandomhouse.com/books/228424/dept-of-speculation-by-jenny-offill/9780345806871) · [Readwise highlight](https://read.readwise.io/read/01m5bfwhhsdveh0366hfbxrr5h)
 
 > The daughter cries for Brooklyn.
 

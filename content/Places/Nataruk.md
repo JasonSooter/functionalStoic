@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Lake Turkana massacre site
 title: Nataruk
 created: 2026-10-19T22:26:09.000Z
-modified: 2026-10-19T22:26:09.000Z
-published: 2026-10-19T22:26:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:19:08.339Z
+published: 2026-10-21T11:19:08.339Z
+aliases:
+  - Lake Turkana massacre site
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -20,22 +16,24 @@ icon: book
 location:
   - 2.7066
   - 36.1419
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Kenya]]"
 ---
 
 # Nataruk
 
-Archaeological site west of Lake Turkana, Turkana County, [[Kenya]].
+Archaeological site west of Lake Turkana, Turkana County, [[Kenya]], whose 10,000-year-old massacre is the evidence at the heart of Carlo Rovelli's essay on whether war is as old as we are.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | subject | A 10,000-year-old massacre that Rovelli uses to ask whether war is as old as we are. |
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
-
-Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Readwise highlight](https://read.readwise.io/read/01m5b44jw9r35nk7tsk5f9b1x4)
+Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5b44jw9r35nk7tsk5f9b1x4)
 
 > Ten thousand years ago, at Nataruk, on the ancient shore of a lake that was much bigger at the time, there was a massacre.
 

@@ -2,12 +2,8 @@
 publish: true
 title: East River
 created: 2026-10-20T19:38:44.000Z
-modified: 2026-10-20T19:38:44.000Z
-published: 2026-10-20T19:38:44.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:51:25.102Z
+published: 2026-10-21T10:51:25.102Z
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -21,22 +17,24 @@ icon: book
 location:
   - 40.7
   - -74.005
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 ---
 
 # East River
 
-Tidal strait between Manhattan and Brooklyn–Queens, [[New York City]], USA. The pin is its mouth at Upper New York Bay.
+Tidal strait between Manhattan and Brooklyn–Queens in [[New York City]]; in Another Brooklyn it is where the narrator's family watches Fourth of July fireworks and Angela hints she will leave.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | setting | Fourth of July fireworks; Angela hints she will leave. |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
-
-Source: [[Another Brooklyn]] · [Readwise highlight](https://read.readwise.io/read/01m5dcn61t49eh82xs4086s2ts)
+Source: [[Another Brooklyn]] · [Original](https://www.jacquelinewoodson.com/product/another-brooklyn/) · [Readwise highlight](https://read.readwise.io/read/01m5dcn61t49eh82xs4086s2ts)
 
 > On the Fourth of July, my father took all of us to the East River, where thousands of people crowded to watch fireworks explode above the water.
 

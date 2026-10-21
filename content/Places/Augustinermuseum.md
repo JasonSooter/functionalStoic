@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Augustiner Museum
 title: Augustinermuseum
 created: 2026-10-20T07:38:11.000Z
-modified: 2026-10-20T22:28:55.000Z
-published: 2026-10-20T22:28:55.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:33:13.488Z
+published: 2026-10-21T10:33:13.488Z
+aliases:
+  - Augustiner Museum
 books:
   - So sieht es im sanierten Augustinermuseum aus – Eröffnung am 28. Februar
 categories:
@@ -20,21 +16,23 @@ icon: newspaper
 location:
   - 47.9939
   - 7.8525
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Freiburg (Literary)]]"
 ---
 
 # Augustinermuseum
 
-Art and city-history museum in a former Augustinian monastery in Freiburg's old town. See [[Freiburg (Literary)]].
+Art and city-history museum in a former Augustinian monastery in the old town of [[Freiburg (Literary)|Freiburg]], whose reopening after two decades of renovation is the subject of a local news report.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| So sieht es im sanierten Augustinermuseum aus – Eröffnung am 28. Februar | Saskia Schuh | subject | Reopening after more than two decades of renovation. |
+| [[So Sieht Es Im Sanierten Augustinermuseum Aus – Eröffnung Am 28. Februar]] | Saskia Schuh | subject | Reopening after more than two decades of renovation. |
 
 ## So sieht es im sanierten Augustinermuseum aus – Eröffnung am 28. Februar — Saskia Schuh (2026)
-
 Source: [Original](https://www.freiburger-wochenbericht.de/so-sieht-es-im-sanierten-augustinermuseum-aus-eroeffnung-am-28-februar/) · [Readwise highlight](https://read.readwise.io/read/01m5c3p630mr2zdxj7j3fpnf95)
 
 > Nach mehr als zwei Jahrzehnten Bauzeit öffnet das komplett sanierte Augustinermuseum am Samstag, 28. Februar, seine Türen.

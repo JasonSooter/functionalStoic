@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - the Galleria
 title: Galleria Vittorio Emanuele II
 created: 2026-10-20T01:26:08.000Z
-modified: 2026-10-20T01:26:08.000Z
-published: 2026-10-20T01:26:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:09:32.234Z
+published: 2026-10-21T11:09:32.234Z
+aliases:
+  - the Galleria
 books:
   - Neither Here Nor There
 categories:
@@ -20,22 +16,24 @@ icon: book
 location:
   - 45.4656
   - 9.19
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Milan]]"
 ---
 
 # Galleria Vittorio Emanuele II
 
-The 1860s glass-roofed shopping arcade beside the cathedral square in [[Milan]], Italy.
+The 1860s glass-roofed shopping arcade beside the cathedral square in [[Milan]], Italy, and the one place Bill Bryson admires in the city in Neither Here Nor There.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Neither Here Nor There | Bill Bryson | setting | The one place in rich, charmless Milan that Bryson admires. |
+| [[Neither Here Nor There]] | Bill Bryson | setting | The one place in rich, charmless Milan that Bryson admires. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bejkhy2tgemb5tdth6d237)
+Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejkhy2tgemb5tdth6d237)
 
 > The Galleria is an imposing shopping arcade, four stories high, built in the grandiose style of the 1860s, and still probably the most handsome shopping mall in the world,
 

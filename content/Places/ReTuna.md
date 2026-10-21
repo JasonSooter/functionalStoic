@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - ReTuna Återbruksgalleria
 title: ReTuna
 created: 2026-10-20T16:26:45.000Z
-modified: 2026-10-21T01:33:59.000Z
-published: 2026-10-21T01:33:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:18:03.688Z
+published: 2026-10-21T11:18:03.688Z
+aliases:
+  - ReTuna Återbruksgalleria
 books:
   - How Sweden’s ‘secondhand only’ shopping mall is changing retail
   - "What We’re Reading: The Success Of Sweden’s ‘Secondhand-Only’ Shopping Mall"
@@ -23,22 +19,25 @@ icon: newspaper
 location:
   - 59.3708
   - 16.5097
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Eskilstuna]]"
 ---
 
 # ReTuna
 
-Secondhand-only shopping mall beside the recycling centre in [[Eskilstuna]], Sweden.
+Secondhand-only shopping mall beside the recycling centre in [[Eskilstuna]], Sweden, the subject of two articles on circular retail.
 
 ## At a glance
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| How Sweden’s ‘secondhand only’ shopping mall is changing retail | Mary-Ann Ball | subject | The world's first mall selling only secondhand and repurposed goods. |
-| What We’re Reading: The Success Of Sweden’s ‘Secondhand-Only’ Shopping Mall | RTBC Staff | subject | A roundup item on the world's first secondhand-only mall. |
+| [[How Sweden’s ‘Secondhand Only’ Shopping Mall Is Changing Retail\|How Sweden’s ‘secondhand only’ shopping mall is changing retail]] | Mary-Ann Ball | subject | The world's first mall selling only secondhand and repurposed goods. |
+| [[What We’re Reading - The Success of Sweden’s ‘Secondhand-Only’ Shopping Mall\|What We’re Reading: The Success Of Sweden’s ‘Secondhand-Only’ Shopping Mall]] | RTBC Staff | subject | A roundup item on the world's first secondhand-only mall. |
 
 ## How Sweden’s ‘secondhand only’ shopping mall is changing retail — Mary-Ann Ball (2025)
-
 Source: [Original](https://theconversation.com/how-swedens-secondhand-only-shopping-mall-is-changing-retail-260459) · [Readwise highlight](https://read.readwise.io/read/01m5d20jnw39se4h08tdgt4w86)
 
 > ReTuna was established in 2015 as part of Eskilstuna’s climate and waste reduction strategy.
@@ -48,7 +47,6 @@ Source: [Original](https://theconversation.com/how-swedens-secondhand-only-shopp
 - **Why it matters:** The mall is the article's whole case for circular retail.
 
 ## What We’re Reading: The Success Of Sweden’s ‘Secondhand-Only’ Shopping Mall — RTBC Staff (2025)
-
 Source: [Original](https://reasonstobecheerful.world/what-were-reading-secondhand-only-shopping-mall-trash-diving/) · [Readwise highlight](https://read.readwise.io/read/01m5dcjh1skr0f1q8sxt85mx02)
 
 > Not at ReTuna in Eskilstuna, Sweden, the world’s first mall to sell secondhand and repurposed items only.

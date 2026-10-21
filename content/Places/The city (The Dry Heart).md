@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Unnamed city, The Dry Heart
 title: The city (The Dry Heart)
 created: 2026-10-20T19:47:13.000Z
-modified: 2026-10-20T19:47:13.000Z
-published: 2026-10-20T19:47:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:24:08.586Z
+published: 2026-10-21T10:24:08.586Z
+aliases:
+  - Unnamed city, The Dry Heart
 books:
   - "[[The Dry Heart]]"
 categories:
@@ -17,27 +13,30 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 45.0792,7.6761
-geo_note: "best-guess: the book never names its city; pinned at Turin (see 'Where is it?')"
+geo_note: "best-guess: the book never names its city; pinned at Turin (see 'Where\
+  \ is it?')"
 geo_source: Wikipedia (en), Turin
 icon: book
 location:
   - 45.0792
   - 7.6761
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Turin]]"
 ---
 
 # The city (The Dry Heart)
 
-The unnamed Italian city where _The Dry Heart_ is set, pinned at [[Turin]] as a best guess. See [[Italy (Literary)]].
+The unnamed Italian city where _The Dry Heart_ is set, pinned at [[Turin]] as a best guess. See [[Italy]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Dry Heart]] | Natalia Ginzburg | setting | The city of the narrator's boarding house, her marriage, and the shot she fires at the start of the book. |
 
 ## The Dry Heart — Natalia Ginzburg (1947)
-
 Source: [[The Dry Heart]] · [Readwise highlight](https://read.readwise.io/read/01m5ddmjq2gt2rexhy9fbt0tfw)
 
 > We were leaning up against the wall of a bridge. It was dark and wagons were passing slowly along the street with paper lanterns swinging under the horses’ bellies, while birds whirred out of the tall rough grass beside the river.

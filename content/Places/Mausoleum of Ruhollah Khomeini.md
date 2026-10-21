@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Mausoleum of Ruhollah Khomeini
+created: 2026-10-20T22:57:01.000Z
+modified: 2026-10-21T11:23:20.337Z
+published: 2026-10-21T11:23:20.337Z
 aliases:
   - Khomeini Shrine
   - Tomb of Ayatollah Khomeini
-title: Mausoleum of Ruhollah Khomeini
-created: 2026-10-20T22:57:01.000Z
-modified: 2026-10-20T22:57:01.000Z
-published: 2026-10-20T22:57:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Rick Steves' Iran (2009)
 categories:
@@ -22,21 +18,23 @@ icon: video
 location:
   - 35.5492
   - 51.3665
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tehran]]"
 ---
 
 # Mausoleum of Ruhollah Khomeini
 
-Mausoleum of Ayatollah Khomeini, south of [[Tehran]].
+Mausoleum of Ayatollah Khomeini, south of [[Tehran]]. It appears in Rick Steves' Iran as the vast mosque that lets him revise his image of Khomeini.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Rick Steves' Iran (2009) | Rick Steves' Europe | subject | Just outside Tehran Steves visits the mosque holding Khomeini's tomb, which can hold up to a million worshipers and is being expanded with small donations from the poor. |
+| [[Rick Steves' Iran\|Rick Steves' Iran (2009)]] | Rick Steves' Europe | subject | Steves visits the mosque holding Khomeini's tomb, which can hold up to a million worshipers and is expanded with small donations. |
 
 ## Rick Steves' Iran (2009) — Rick Steves' Europe (2009)
-
 Source: [Original](https://www.youtube.com/watch?v=CYoa9hI3CXg) · [Readwise highlight](https://read.readwise.io/read/01m5dqx55eg7j7753vsb5m5x3v)
 
 > Just outside of town, we dropped by the great mosque containing the tomb of Ayatollah Khomeini.

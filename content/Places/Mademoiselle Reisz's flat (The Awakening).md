@@ -2,12 +2,8 @@
 publish: true
 title: Mademoiselle Reisz's flat (The Awakening)
 created: 2026-10-21T04:45:45.000Z
-modified: 2026-10-21T04:45:45.000Z
-published: 2026-10-21T04:45:45.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:17:06.012Z
+published: 2026-10-21T11:17:06.012Z
 aliases: []
 books:
   - "[[The Awakening]]"
@@ -16,28 +12,32 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 29.9586,-90.065
-geo_note: "inferred: Mademoiselle Reisz's flat pinned at French Quarter, New Orleans (Bienville Street, then an unnamed top-floor flat with river views); see Where is it? (District point; the later flat has no address in the text.)"
+geo_note: "inferred: Mademoiselle Reisz's flat pinned at French Quarter, New Orleans\
+  \ (Bienville Street, then an unnamed top-floor flat with river views); see Where\
+  \ is it? (District point; the later flat has no address in the text.)"
 geo_source: Wikipedia (en) French Quarter
 icon: book
 location:
   - 29.9586
   - -90.065
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Orleans]]"
 ---
 
 # Mademoiselle Reisz's flat (The Awakening)
 
-Unnamed or fictional setting in _The Awakening_; pinned at an inferred location within [[New Orleans]].
+Likely real area in [[New Orleans]] behind the pianist's flat in Kate Chopin's _The Awakening_, where Edna returns repeatedly to listen, rest and talk about Robert.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Awakening]] | Kate Chopin | setting | Edna looks up Mademoiselle Reisz in the city directory, finds the old Bienville Street house, and learns the pianist has moved. |
 
 ## The Awakening — Kate Chopin (1899)
-
-Source: [[The Awakening]] · [Readwise highlight](https://read.readwise.io/read/01m5ebwjcg6gvbwtreq363e1ny)
+Source: [[The Awakening]] · [Original](https://openlibrary.org/works/OL65430W) · [Readwise highlight](https://read.readwise.io/read/01m5ebwjcg6gvbwtreq363e1ny)
 
 > looking up her address in the city directory, she found that the woman lived on Bienville Street, some distance away.
 

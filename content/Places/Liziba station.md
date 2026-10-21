@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Liziba Station
 title: Liziba station
 created: 2026-10-20T04:20:58.000Z
-modified: 2026-10-21T02:14:42.000Z
-published: 2026-10-21T02:14:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:18:07.972Z
+published: 2026-10-21T11:18:07.972Z
+aliases:
+  - Liziba Station
 books:
   - China Built a City Sized Train Station
   - Chongqing, the world’s largest city – in pictures
@@ -21,22 +17,24 @@ icon: video
 location:
   - 29.5508
   - 106.5353
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Chongqing]]"
 ---
 
 # Liziba station
 
-Chongqing Rail Transit station where the monorail runs through a residential block. See [[Chongqing]].
+Chongqing Rail Transit station built into a residential block in [[Chongqing]], cited in a video and a photo essay as the emblem of the city's vertical urbanism.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| China Built a City Sized Train Station | The B1M | backdrop | The monorail through an apartment block, shorthand for Chongqing's vertical city. |
-| Chongqing, the world’s largest city – in pictures | Alessandro Gandolfi | subject | Metro line 2 runs through a 19-storey apartment building, with Liziba station built between the sixth and eighth floors. |
+| [[China Built a City Sized Train Station]] | The B1M | backdrop | The monorail through an apartment block, shorthand for Chongqing's vertical city. |
+| [[Chongqing, the World’s Largest City – In Pictures\|Chongqing, the world’s largest city – in pictures]] | Alessandro Gandolfi | subject | Metro line 2 runs through a 19-storey apartment building, with Liziba station built between the sixth and eighth floors. |
 
 ## China Built a City Sized Train Station — The B1M (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=D-Oa2vEr8Rs) · [Readwise highlight](https://read.readwise.io/read/01m5brezdh0jr0qv4q72k3q6e8)
 
 > Liziba Station cuts right through the centre of a housing block.
@@ -46,7 +44,6 @@ Source: [Original](https://www.youtube.com/watch?v=D-Oa2vEr8Rs) · [Readwise hig
 - **Why it matters:** Minor: it sets the scene for why building on Chongqing's terrain is so hard.
 
 ## Chongqing, the world’s largest city – in pictures — Alessandro Gandolfi (2025)
-
 Source: [Original](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures) · [Readwise highlight](https://read.readwise.io/read/01m5e2zsz2ec72yrzem3myp46f)
 
 > Metro line 2 passes through a 19-storey apartment building. Liziba station was built between the sixth and eighth floors to reclaim space

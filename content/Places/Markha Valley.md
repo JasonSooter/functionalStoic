@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Markha River
 title: Markha Valley
 created: 2026-10-20T10:40:07.000Z
-modified: 2026-10-21T01:43:20.000Z
-published: 2026-10-21T01:43:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:21:41.883Z
+published: 2026-10-21T11:21:41.883Z
+aliases:
+  - Markha River
 books:
   - "Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky"
 categories:
@@ -22,21 +18,23 @@ icon: newspaper
 location:
   - 34.0031
   - 77.2117
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ladakh]]"
 ---
 
 # Markha Valley
 
-Valley of the Markha River in Hemis National Park, [[Ladakh]], India, home to one of Ladakh's best-known treks.
+Valley of the Markha River in Hemis National Park, [[Ladakh]], India, home to one of Ladakh's best-known treks. It is the route a lone cyclist rides loaded with bags in The Radavist's bikepacking piece.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky | The Radavist | setting | A loaded bikepacking push through the trekking valley: river fords, snow and altitude sickness. |
+| [[Touring the Indian Himalayas - Bikepacking the Markha Valley – Jan Zdansky\|Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky]] | The Radavist | setting | A loaded bikepacking push through the trekking valley: river fords, snow and altitude sickness. |
 
 ## Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky — The Radavist (2025)
-
 Source: [Original](https://theradavist.com/touring-the-indian-himalayas-bikepacking-the-markha-valley) · [Readwise highlight](https://read.readwise.io/read/01m5ce399c378z03z9640c8ktj)
 
 > My goal was the Markha Valley, which is home to probably the most famous and popular trek in Ladakh.

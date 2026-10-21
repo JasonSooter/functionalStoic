@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Digital Detox camp
 title: Camp Grounded
 created: 2026-10-20T22:56:20.000Z
-modified: 2026-10-20T22:56:20.000Z
-published: 2026-10-20T22:56:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:26:35.538Z
+published: 2026-10-21T10:26:35.538Z
+aliases:
+  - Digital Detox camp
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
 categories:
@@ -22,22 +18,24 @@ icon: book
 location:
   - 39.4692
   - -123.3942
-within: "[[California (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[California]]"
 ---
 
 # Camp Grounded
 
-Digital-detox summer camp for adults in Mendocino County, [[California (Literary)|California]].
+Digital-detox summer camp for adults in Mendocino County, [[California]]; in How to Do Nothing Odell treats it as a case study of retreat being commercialised.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[How to Do Nothing — Reader's Companion]] | Jenny Odell | subject | Levi Felix and Brooke Dean's adult digital detox camp had a phone-sealing check-in, no-clocks rules and activities like stilt-walking, and later sold corporate retreats. |
+| [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | subject | Levi Felix and Brooke Dean's adult digital detox camp: phone-sealing check-in, no clocks, stilt-walking, later corporate retreats. |
 
 ## How to Do Nothing — Jenny Odell (2019)
-
-Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Readwise highlight](https://read.readwise.io/read/01m5dqzvkvxwzmbkxkd35fygqz)
+Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5dqzvkvxwzmbkxkd35fygqz)
 
 > Compelled to share the mindfulness they had discovered abroad, they opened Camp Grounded, a digital detox summer camp for adults in Mendocino, California.
 

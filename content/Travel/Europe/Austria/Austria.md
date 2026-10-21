@@ -2,22 +2,27 @@
 publish: true
 title: Austria
 created: 2025-12-06T03:21:08.447Z
-modified: 2026-07-17T16:16:02.800Z
-published: 2026-07-17T16:16:02.800Z
-tags:
-  - places
-linter-yaml-title-alias: Austria
-date created: 2025-12-06T04:21:08+01:00
-date modified: 2026-07-17T18:16:00+02:00
+modified: 2026-10-21T10:20:12.322Z
+published: 2026-10-21T10:20:12.322Z
+books: []
 categories:
   - "[[Places]]"
-coordinates: 48.2082,16.3738
 color: blue
-icon: flag
+coordinates: 48.2082,16.3738
+date created: 2025-12-06T04:21:08+01:00
+date modified: 2026-07-17T18:16:00+02:00
 flag: 🇦🇹
+icon: flag
+linter-yaml-title-alias: Austria
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Austria
+
+Austria is a country in Central Europe, and it groups the places in Austria that show up in the reading, listed below.
 
 - [[Vienna]]
 
@@ -45,3 +50,10 @@ Austria places a strong emphasis on education and innovation, ranking high in qu
 > Contents
 
 ## Content
+
+## Sub-places
+- [[Innsbruck (Literary)|Innsbruck]]
+- [[Langenegg]]
+- [[Salzburg]]
+- [[Vienna (Literary)|Vienna]]
+- [[Wörgl]]

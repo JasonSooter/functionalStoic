@@ -2,12 +2,8 @@
 publish: true
 title: Middle Harbor Shoreline Park
 created: 2026-10-21T05:07:55.000Z
-modified: 2026-10-21T05:07:55.000Z
-published: 2026-10-21T05:07:55.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:18:05.684Z
+published: 2026-10-21T11:18:05.684Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -20,22 +16,24 @@ icon: book
 location:
   - 37.8058
   - -122.3242
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oakland]]"
 ---
 
 # Middle Harbor Shoreline Park
 
-Park / shoreline in West Oakland, Port of Oakland, California. Part of [[Oakland]].
+Park and shoreline in West Oakland, at the Port of [[Oakland]], California. It is the setting of the last scene of Jenny Odell's How to Do Nothing, a sliver of habitat inside an active port.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[How to Do Nothing — Reader's Companion]] | Jenny Odell | setting | The book's last scene: Odell stops here on the way to her studio, describes its history as railroad terminus, Navy supply base and port land, and the re-created lagoon and beach. |
+| [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | The book's last scene: Odell stops here on her way to her studio and describes its history and its re-created lagoon and beach. |
 
 ## How to Do Nothing — Jenny Odell (2019)
-
-Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Readwise highlight](https://read.readwise.io/read/01m5edhrc4se4b26r6ybskj40m)
+Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5edhrc4se4b26r6ybskj40m)
 
 > Today, on my way here, I took a detour through a serious gauntlet of big rigs thundering down Seventh Street to stop at Middle Harbor Shoreline Park, a surprising sliver of sand and marsh between the active cranes and the San Francisco Bay.
 

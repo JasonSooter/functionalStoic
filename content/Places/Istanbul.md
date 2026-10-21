@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Constantinople
 title: Istanbul
 created: 2026-10-20T01:29:15.000Z
-modified: 2026-10-21T04:19:35.000Z
-published: 2026-10-21T04:19:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:11:30.940Z
+published: 2026-10-21T11:11:30.940Z
+aliases:
+  - Constantinople
 books:
   - Attending MicroConf Europe 2025
 categories:
@@ -21,14 +17,17 @@ icon: newspaper
 location:
   - 41.0136
   - 28.955
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Istanbul
 
-City on both sides of the Bosphorus, Turkey. Hub for literary places in the city.
+City on both sides of the Bosphorus, Turkey, and the setting of the author's trip to MicroConf Europe 2025.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Attending MicroConf Europe 2025 | Herman (Bear Blog) | setting | A conference week in the old city and on the Sea of Marmara. |
@@ -41,7 +40,6 @@ City on both sides of the Bosphorus, Turkey. Hub for literary places in the city
 - [[Halkalı railway station]]
 
 ## Attending MicroConf Europe 2025 — Herman (Bear Blog) (2025)
-
 Source: [Original](https://herman.bearblog.dev/microconf-europe/) · [Readwise highlight](https://read.readwise.io/read/01m5ce3scjxsx7v543csxq7ve3)
 
 > I arrived a week early to explore the city and see the sights.

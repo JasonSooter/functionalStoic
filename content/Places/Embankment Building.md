@@ -2,12 +2,8 @@
 publish: true
 title: Embankment Building
 created: 2026-10-21T02:06:48.000Z
-modified: 2026-10-21T02:06:48.000Z
-published: 2026-10-21T02:06:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:52:04.477Z
+published: 2026-10-21T10:52:04.477Z
 aliases: []
 books:
   - Breakneck
@@ -20,22 +16,24 @@ icon: book
 location:
   - 31.2456
   - 121.4795
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Shanghai]]"
 ---
 
 # Embankment Building
 
-Building in [[Shanghai]], China.
+Art deco building in [[Shanghai]], China; in Dan Wang's Breakneck it is where the sight of health workers suiting up to seal it during lockdown prompts the author's decision to leave.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Breakneck | Dan Wang | turning point | On a eerie late-March day the author and Silvia cycle past this art deco building that once housed Jewish refugees and see dabai suiting up to seal it. |
+| [[Breakneck]] | Dan Wang | turning point | On an eerie late-March day the author and Silvia cycle past this art deco building and see dabai suiting up to seal it. |
 
 ## Breakneck — Dan Wang (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5e30am34rr7yrxgg278wmh7)
+Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5e30am34rr7yrxgg278wmh7)
 
 > As we cycled back home, we saw the Embankment Building transformed. Health workers and police officers had covered the exits and were helping each other put on all-white protective suits held together with blue tape.
 

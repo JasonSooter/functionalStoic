@@ -2,12 +2,8 @@
 publish: true
 title: Bessèges
 created: 2026-10-20T19:37:02.000Z
-modified: 2026-10-21T01:32:08.000Z
-published: 2026-10-21T01:32:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:34:02.668Z
+published: 2026-10-21T10:34:02.668Z
 aliases: []
 books:
   - To Ardeche
@@ -20,21 +16,23 @@ icon: newspaper
 location:
   - 44.2925
   - 4.1014
-within: "[[France (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[France]]"
 ---
 
 # Bessèges
 
-Former mining town in the Gard, on the eastern edge of the Cévennes, [[France (Literary)|France]].
+Former mining town in the Gard, on the eastern edge of the Cévennes, [[France]], named in a Mostly Bikes x Me post as the night's stop below the descent from the Col de Trélis.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| To Ardeche | Mostly Bikes x Me | journey waypoint | Overnight stop below the descent from the Col de Trélis. |
+| [[To Ardeche]] | Mostly Bikes x Me | journey waypoint | Overnight stop below the descent from the Col de Trélis. |
 
 ## To Ardeche — Mostly Bikes x Me (2025)
-
 Source: [Original](https://funkadelic.net/pages/15576663534.html) · [Readwise highlight](https://read.readwise.io/read/01m5dcm2xpswee1fqe61acsbrs)
 
 > Tonight we’re north of Bessèges, an old mining town at the bottom of the descent from the Col de Trelis

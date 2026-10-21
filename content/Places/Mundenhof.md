@@ -1,18 +1,15 @@
 ---
 publish: true
+title: Mundenhof
+created: 2026-10-19T22:27:01.000Z
+modified: 2026-10-21T11:20:23.103Z
+published: 2026-10-21T11:20:23.103Z
 aliases:
   - Zelt-Musik-Festival grounds
   - ZMF
-title: Mundenhof
-created: 2026-10-19T22:27:01.000Z
-modified: 2026-10-21T01:37:24.000Z
-published: 2026-10-21T01:37:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
-  - "Admission ticket = travel ticket: How ZMF, the city and VAG became pioneers 40 years ago"
+  - "Admission ticket = travel ticket: How ZMF, the city and VAG became pioneers 40\
+    \ years ago"
 categories:
   - "[[Places]]"
 color: purple
@@ -21,21 +18,23 @@ icon: newspaper
 location:
   - 48.0169
   - 7.7769
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Freiburg (Literary)]]"
 ---
 
 # Mundenhof
 
-Animal park and estate on the western edge of Freiburg, home of the Zelt-Musik-Festival (ZMF) since 1985; see [[Freiburg (Literary)]] and the [[Freiburg]] travel note.
+Animal park and estate on the western edge of [[Freiburg (Literary)|Freiburg]], home of the Zelt-Musik-Festival (ZMF) since 1985. It shows up as a remote festival site whose lack of transport led to Germany's first combined concert-and-travel ticket.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Admission ticket = travel ticket: How ZMF, the city and VAG became pioneers 40 years ago | VAG Freiburg | turning point | A remote site with no transport or parking that led to Germany's first combined concert-and-travel ticket. |
+| [[Admission Ticket = Travel Ticket - How ZMF, the City and VAG Became Pioneers 40 Years Ago\|Admission ticket = travel ticket: How ZMF, the city and VAG became pioneers 40 years ago]] | VAG Freiburg | turning point | A remote site with no transport or parking that led to Germany's first combined concert-and-travel ticket. |
 
 ## Admission ticket = travel ticket: How ZMF, the city and VAG became pioneers 40 years ago — VAG Freiburg (2026)
-
 Source: [Original](https://blog.vag-freiburg.de/eintrittskarte-fahrschein-wie-zmf-stadt-und-vag-vor-40-jahren-pioniere-wurden/) · [Readwise highlight](https://read.readwise.io/read/01m5b44zpwq0a6aqxvnwjnvtb8)
 
 > the festival was relocated from inner-city squares out to the grounds of the Mundenhof, where initially there was neither a public transport service nor any notable number of parking spaces.

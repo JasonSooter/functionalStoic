@@ -2,18 +2,18 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-21T05:07:34.000Z
-published: 2026-10-21T05:07:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:07:43.934Z
+published: 2026-10-21T11:07:43.934Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Colorado
@@ -21,7 +21,6 @@ icon: book
 US state in the Rocky Mountains. Hub for literary places in the region.
 
 ## Sub-places
-
 - [[Adams Tunnel]]
 - [[Boulder, Colorado]]
 - [[Buckhorn Road]]
@@ -31,6 +30,8 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Denver]]
 - [[East Vail Pass]]
 - [[Fort Collins (Literary)]]
+- [[Front Range Passenger Rail]]
+- [[Gramma Grass & Livestock]]
 - [[Greenland Wildlife Overpass]]
 - [[Gross Dam]]
 - [[Homestake (Eagle County)]]
@@ -45,8 +46,10 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Old Fall River Road]]
 - [[Pennock Pass]]
 - [[Pingree Park Road]]
+- [[Rocky Mountain National Park]]
 - [[Ruby Canyon]]
 - [[Saddle Horn Drive and River Pass Road (Timnath)]]
 - [[Snowmass Lake]]
 - [[Stove Prairie]]
 - [[US 160 between Durango and Pagosa Springs]]
+- [[US 287 in Colorado]]

@@ -2,12 +2,8 @@
 publish: true
 title: Brest cable car
 created: 2026-10-21T02:06:26.000Z
-modified: 2026-10-21T02:06:26.000Z
-published: 2026-10-21T02:06:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:25:34.865Z
+published: 2026-10-21T10:25:34.865Z
 aliases: []
 books:
   - The Surprising Success of Gondola Transit Systems
@@ -20,22 +16,24 @@ icon: video
 location:
   - 48.3874
   - -4.4954
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Brittany]]"
 ---
 
 # Brest cable car
 
-City in [[Brittany]], France.
+Cable car over the Penfeld in Brest, [[Brittany]], France, opened in 2016. It features in a Wendover Productions video as a non-mountain case where a river barrier justifies a gondola.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The Surprising Success of Gondola Transit Systems | Wendover Productions | backdrop | Brest's 2016 cable car crosses the Penfeld between the old naval-base workshops and the city centre, chosen over a $30-60 million bridge at about $20 million. |
+| [[The Surprising Success of Gondola Transit Systems]] | Wendover Productions | backdrop | Brest's 2016 cable car crosses the Penfeld between the naval-base workshops and the city centre, chosen over a $30-60 million bridge. |
 
 ## The Surprising Success of Gondola Transit Systems — Wendover Productions (2025)
-
-Source: [Original](https://youtube.com/watch?v=a5126u88E7E\&si=1gWTN5lb3hW199bC) · [Readwise highlight](https://read.readwise.io/read/01m5e30zaxqktmj9h8w63q8shp)
+Source: [Original](https://youtube.com/watch?v=a5126u88E7E&si=1gWTN5lb3hW199bC) · [Readwise highlight](https://read.readwise.io/read/01m5e30zaxqktmj9h8w63q8shp)
 
 > split in two by the deep coastal Penfeld.
 

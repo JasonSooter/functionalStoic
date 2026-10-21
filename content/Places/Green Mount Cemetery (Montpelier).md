@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Green Mount Cemetery, Montpelier
 title: Green Mount Cemetery (Montpelier)
 created: 2026-10-20T22:54:22.000Z
-modified: 2026-10-20T22:54:22.000Z
-published: 2026-10-20T22:54:22.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:11:47.185Z
+published: 2026-10-21T11:11:47.185Z
+aliases:
+  - Green Mount Cemetery, Montpelier
 books:
   - On Stones
 categories:
@@ -22,21 +18,23 @@ icon: newspaper
 location:
   - 44.2582
   - -72.5974
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vermont]]"
 ---
 
 # Green Mount Cemetery (Montpelier)
 
-Cemetery in Montpelier, [[Vermont]].
+Cemetery in Montpelier, [[Vermont]]. It is the emotional centre of an article on a Vermont granite carver, where she shows the footstone she carved for her friend's grave.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| On Stones | Ellyn Gaydos | turning point | Over a Veterans Day long weekend Heather takes the author to her friend Tiki's grave under a hydrangea. |
+| [[On Stones]] | Ellyn Gaydos | turning point | Over a Veterans Day long weekend Heather takes the author to her friend Tiki's grave under a hydrangea. |
 
 ## On Stones — Ellyn Gaydos (2024)
-
 Source: [Original](https://harpers.org/archive/2024/08/on-stones-ellyn-gaydos-vermont-granite/) · [Readwise highlight](https://read.readwise.io/read/01m5dqv2ahnc7t0pjtv902j6r9)
 
 > Heather took me in her red Jeep to Green Mount Cemetery in Montpelier.

@@ -1,16 +1,12 @@
 ---
 publish: true
+title: South Tyrol
+created: 2026-10-20T02:09:31.000Z
+modified: 2026-10-21T10:24:31.303Z
+published: 2026-10-21T10:24:31.303Z
 aliases:
   - Südtirol
   - Alto Adige
-title: South Tyrol
-created: 2026-10-20T02:09:31.000Z
-modified: 2026-10-20T07:23:29.000Z
-published: 2026-10-20T07:23:29.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Italian Tyrol.
 categories:
@@ -22,25 +18,26 @@ icon: newspaper
 location:
   - 46.5
   - 11.35
-within: "[[Italy (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Italy]]"
 ---
 
 # South Tyrol
 
-German-speaking province in northern Italy, bordering Austria. See [[Italy (Literary)]].
+German-speaking province in northern Italy, bordering Austria. See [[Italy]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Italian Tyrol. | Mostly Bikes x Me | subject | "Call it Italy all you want." |
 
 ## Sub-places
-
 - [[Brenner Pass]]
 
 ## Italian Tyrol. — Mostly Bikes x Me (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfwstnbh5028e6t03hajty)
 
 > Call it Italy all you want, but South Tyrol is very Austrian.

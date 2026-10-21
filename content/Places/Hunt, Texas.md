@@ -1,17 +1,13 @@
 ---
 publish: true
+title: Hunt, Texas
+created: 2026-10-20T16:27:43.000Z
+modified: 2026-10-21T11:10:26.989Z
+published: 2026-10-21T11:10:26.989Z
 aliases:
   - Hunt
   - Kerr County
   - Upper Guadalupe River
-title: Hunt, Texas
-created: 2026-10-20T16:27:43.000Z
-modified: 2026-10-21T01:28:43.000Z
-published: 2026-10-21T01:28:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - An Engineer's Perspective on the Texas Floods
 categories:
@@ -23,21 +19,23 @@ icon: newspaper
 location:
   - 30.0708
   - -99.3378
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Texas]]"
 ---
 
 # Hunt, Texas
 
-Community on the upper Guadalupe River in Kerr County, [[Texas]].
+Community on the upper Guadalupe River in Kerr County, [[Texas]], where most of the July 2025 flash-flood deaths occurred, as analysed in a Practical Engineering article.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | An Engineer's Perspective on the Texas Floods | Practical Engineering | subject | Where most of the July 2025 flash-flood deaths occurred. |
 
 ## An Engineer's Perspective on the Texas Floods — Practical Engineering (2025)
-
 Source: [Original](https://practical.engineering/blog/2025/9/16/an-engineers-perspective-on-the-texas-floods) · [Readwise highlight](https://read.readwise.io/read/01m5d21dhzh7wzwwvgrn7mqgdq)
 
 > I counted about 100 rain gauges used by Atlas 14 within a 50 mile radius of Hunt, Texas, where most of the fatalities occurred.

@@ -2,12 +2,8 @@
 publish: true
 title: Dragonsteel Books
 created: 2026-10-21T04:45:56.000Z
-modified: 2026-10-21T04:45:56.000Z
-published: 2026-10-21T04:45:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:51:12.909Z
+published: 2026-10-21T10:51:12.909Z
 aliases: []
 books:
   - Let Brandon Cook
@@ -16,21 +12,23 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: newspaper
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Utah]]"
 ---
 
 # Dragonsteel Books
 
-Building/company HQ in Utah, USA. Part of [[Utah]]. ⚠️ Not yet pinned: no standard-source coordinate found.
+Headquarters of Brandon Sanderson's publishing and merchandising company in [[Utah]]; it appears in Cal Newport's article on letting Brandon cook as a workplace organised to protect one person's creative work.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Let Brandon Cook | Cal Newport | setting | Tim Ferriss interviews Brandon Sanderson at Dragonsteel's HQ in Utah, where Sanderson says everything in the company is built around 'let Brandon cook'. |
+| Let Brandon Cook | Cal Newport | setting | Tim Ferriss interviews Brandon Sanderson at Dragonsteel's Utah HQ, where everything is built around 'let Brandon cook'. |
 
 ## Let Brandon Cook — Cal Newport (2025)
-
 Source: [Original](https://calnewport.com/let-brandon-cook/) · [Readwise highlight](https://read.readwise.io/read/01m5ebt1m2xa217hv1sw7zay7d)
 
 > Tim traveled to Utah to talk to Sanderson at the headquarters of his 70-person publishing and merchandising company, Dragonsteel Books.

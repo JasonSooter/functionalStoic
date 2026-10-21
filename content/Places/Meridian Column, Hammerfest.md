@@ -1,45 +1,44 @@
 ---
 publish: true
+title: Meridian Column, Hammerfest
+created: 2026-10-19T14:07:07.000Z
+modified: 2026-10-21T11:20:51.845Z
+published: 2026-10-21T11:20:51.845Z
 aliases:
   - Meridianstøtta
   - Meridianstøtten
   - Meridian Column
   - Fuglenes
-title: Meridian Column, Hammerfest
-created: 2026-10-19T14:07:07.000Z
-modified: 2026-10-19T19:18:23.000Z
-published: 2026-10-19T19:18:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
   - "[[Places]]"
 color: purple
-geo_note: Pinned at the Struve Geodetic Arc station point at Fuglenes (Wikipedia), where the column stands
+geo_note: Pinned at the Struve Geodetic Arc station point at Fuglenes (Wikipedia),
+  where the column stands
 icon: book
 location:
   - 70.67
   - 23.6633
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Hammerfest]]"
 coordinates: 70.67,23.6633
 ---
 
 # Meridian Column, Hammerfest
 
-Obelisk on the Fuglenes headland in [[Hammerfest]] marking the northern end of the Struve Geodetic Arc (UNESCO World Heritage).
+Obelisk on the Fuglenes headland in [[Hammerfest]] marking the northern end of the Struve Geodetic Arc (UNESCO World Heritage). In Bill Bryson's Neither Here Nor There he fights a polar gale to reach it but cannot read the inscription.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Neither Here Nor There | Bill Bryson | journey waypoint | Bryson "windsurfs" to it in a polar gale, cracks his head on the ice, can't read the inscription, and never comes back. |
+| [[Neither Here Nor There]] | Bill Bryson | journey waypoint | Bryson "windsurfs" to it in a polar gale, cracks his head on the ice, can't read the inscription, and never comes back. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5a7pw70ypk16773wq8tka1m)
+Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5a7pw70ypk16773wq8tka1m)
 
 > The Meridianstøtten was an obelisk on a small elevation in the middle of a graveyard of warehouses.
 

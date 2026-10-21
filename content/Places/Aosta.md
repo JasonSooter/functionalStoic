@@ -2,12 +2,8 @@
 publish: true
 title: Aosta
 created: 2026-10-20T10:42:34.000Z
-modified: 2026-10-20T10:42:34.000Z
-published: 2026-10-20T10:42:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:32:15.367Z
+published: 2026-10-21T10:32:15.367Z
 aliases: []
 books:
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -20,26 +16,27 @@ icon: book
 location:
   - 45.733
   - 7.317
-within: "[[Italy (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Italy]]"
 ---
 
 # Aosta
 
-Alpine town in the Aosta Valley, [[Italy (Literary)]].
+Alpine town in the Aosta Valley, [[Italy]], where Robert Penn builds his first wheel on a bench below the Roman walls in It's All About the Bike.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] | Robert Penn | turning point | Building his first and only wheel on a bench below the Roman walls. |
+| [[It's All About the Bike - In Pursuit of Happiness on Two Wheels\|It's All About the Bike]] | Robert Penn | turning point | Building his first and only wheel on a bench below the Roman walls. |
 
 ## Sub-places
-
 _None yet._
 
 ## It's All About the Bike — Robert Penn (2010)
-
-Source: [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Readwise highlight](https://read.readwise.io/read/01m5ce5kkx1x5k3945vm28812s)
+Source: [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5ce5kkx1x5k3945vm28812s)
 
 > I sat down on a bench in a square beneath the Roman walls of the town and set to work.
 

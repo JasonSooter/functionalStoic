@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Sault (Vaucluse)
 title: Sault
 created: 2026-10-20T04:31:51.000Z
-modified: 2026-10-20T07:55:32.000Z
-published: 2026-10-20T07:55:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:18:55.557Z
+published: 2026-10-21T11:18:55.557Z
+aliases:
+  - Sault (Vaucluse)
 books:
   - Trace Velocio 2026. Le Thoronet to Sault
   - Quiet in the Gorge
@@ -22,23 +18,26 @@ icon: newspaper
 location:
   - 44.0919
   - 5.408
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Provence]]"
 ---
 
 # Sault
 
-Hill town in the Vaucluse, east of Mont Ventoux. See [[Provence]].
+Hill town in the Vaucluse, east of Mont Ventoux, in [[Provence]], and the lunch stop and finish point in three Mostly Bikes x Me cycling posts.
 
 ## At a glance
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Mistletoe, Lavender | Mostly Bikes x Me | journey waypoint | Kebab and fries when Monieux's café is shut, then back down the Nesque gorge. |
-| Quiet in the Gorge | Mostly Bikes x Me | setting | Lunch on the steps of the sunny square after a car-free climb. |
-| Trace Velocio 2026. Le Thoronet to Sault | Mostly Bikes x Me | journey waypoint | Finish of the ride and the randonneurs' Easter gathering. |
+| [[Mistletoe, Lavender]] | Mostly Bikes x Me | journey waypoint | Kebab and fries when Monieux's café is shut, then back down the Nesque gorge. |
+| [[Quiet in the Gorge]] | Mostly Bikes x Me | setting | Lunch on the steps of the sunny square after a car-free climb. |
+| [[Trace Velocio 2026. Le Thoronet to Sault]] | Mostly Bikes x Me | journey waypoint | Finish of the ride and the randonneurs' Easter gathering. |
 
 ## Mistletoe, Lavender — Mostly Bikes x Me (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c4q7cr7jfkv8f6y98rt81z)
 
 > As Monieux has no other eating establishments it was onto Sault for kebab and fries.
@@ -48,7 +47,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5c4q7cr7jfkv8f6y98
 - **Why it matters:** Sault is the fallback lunch stop and turnaround. The Gorges de la Nesque, the real setting of the post, has no standard-source coordinate and is described here instead.
 
 ## Quiet in the Gorge — Mostly Bikes x Me (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c3p24147aadknbmwktdmh3)
 
 > Down into Sault to sit on the steps in the sun drenched square, eating sandwiches will the rest of the cyclists.
@@ -58,7 +56,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5c3p24147aadknbmwk
 - **Why it matters:** The rest stop is the one named place in a very short post, and it gives the ride its pause.
 
 ## Trace Velocio 2026. Le Thoronet to Sault — Mostly Bikes x Me (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bs6m3csyqw2pgmzf87ekdb)
 
 > Our trace, like that of all the other trace and fleche teams, ended in Sault, at the traditional Paque-en-Provence gathering of randonneurs.

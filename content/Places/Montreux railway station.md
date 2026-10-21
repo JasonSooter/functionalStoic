@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Gare de Montreux
 title: Montreux railway station
 created: 2026-10-20T07:38:00.000Z
-modified: 2026-10-20T22:28:29.000Z
-published: 2026-10-20T22:28:29.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:19:56.693Z
+published: 2026-10-21T11:19:56.693Z
+aliases:
+  - Gare de Montreux
 books:
   - I Took a Train Through a Winter Wonderland
 categories:
@@ -20,21 +16,23 @@ icon: video
 location:
   - 46.4359
   - 6.9104
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Montreux]]"
 ---
 
 # Montreux railway station
 
-Main station of Montreux on Lake Geneva, served by SBB and the MOB mountain line. See [[Montreux]].
+Main station of [[Montreux]] on Lake Geneva, served by SBB and the MOB mountain line. It is the starting point of Simply Railway's winter-wonderland train ride up to Zweisimmen.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| I Took a Train Through a Winter Wonderland | Simply Railway | setting | Start of the MOB ride up into the snow to Zweisimmen. |
+| [[I Took a Train Through a Winter Wonderland]] | Simply Railway | setting | Start of the MOB ride up into the snow to Zweisimmen. |
 
 ## I Took a Train Through a Winter Wonderland — Simply Railway (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=IDcYsdqw3lQ) · [Readwise highlight](https://read.readwise.io/read/01m5c3p3bhd11kx52paebn4gbb)
 
 > This station was built and opened its doors in 1861.

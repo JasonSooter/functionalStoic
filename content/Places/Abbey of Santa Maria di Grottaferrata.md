@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Grottaferrata Abbey
 title: Abbey of Santa Maria di Grottaferrata
 created: 2026-10-20T13:52:01.000Z
-modified: 2026-10-20T13:52:01.000Z
-published: 2026-10-20T13:52:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:32:27.567Z
+published: 2026-10-21T10:32:27.567Z
+aliases:
+  - Grottaferrata Abbey
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -22,22 +18,26 @@ icon: book
 location:
   - 41.7857
   - 12.6668
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Lazio]]"
 ---
 
 # Abbey of Santa Maria di Grottaferrata
 
-Greek-rite monastery in Grottaferrata, in the hills south-east of Rome, [[Lazio]], Italy.
+Greek-rite monastery in Grottaferrata, in the hills south-east of Rome, [[Lazio]], Italy, which Robert Penn's It's All About the Bike ties to the Leonardo bicycle-sketch hoax.
 
 ## At a glance
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[It's All About the Bike]] | Robert Penn | subject | Site of the Leonardo bicycle-sketch hoax. |
+| [[It's All About the Bike\|It's All About the Bike: In Pursuit of Happiness on Two Wheels]] | Robert Penn | subject | Site of the Leonardo bicycle-sketch hoax. |
 
 ## It's All About the Bike: In Pursuit of Happiness on Two Wheels — Robert Penn (2010)
 
-Source: [[It's All About the Bike]] · [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Readwise highlight](https://read.readwise.io/read/01m5crb04b4f75r18bf2mx1tsw)
+Source: [[It's All About the Bike]] · [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5crb04b4f75r18bf2mx1tsw)
 
 > I’d like to think that a cycling-mad monk in the Laboratorio di Restauro, part of the venerated library within the tenth-century Abbey of Santa Maria di Grottaferrata, was bored one day.
 

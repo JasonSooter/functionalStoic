@@ -2,24 +2,24 @@
 publish: true
 title: Dolomites
 created: 2026-10-20T02:09:26.000Z
-modified: 2026-10-20T07:41:33.000Z
-published: 2026-10-20T07:41:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:23:50.254Z
+published: 2026-10-21T10:23:50.254Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-within: "[[Italy (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Italy]]"
 ---
 
 # Dolomites
 
-Mountain range in north-eastern Italy; see [[Italy (Literary)]]. Hub for literary places in the range.
+Mountain range in north-eastern Italy; see [[Italy]]. Hub for literary places in the range.
 
 ## Sub-places
 

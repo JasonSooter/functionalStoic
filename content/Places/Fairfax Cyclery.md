@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Gravy's workshop
 title: Fairfax Cyclery
 created: 2026-10-20T13:51:54.000Z
-modified: 2026-10-20T13:51:54.000Z
-published: 2026-10-20T13:51:54.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:50:06.309Z
+published: 2026-10-21T10:50:06.309Z
+aliases:
+  - Gravy's workshop
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -18,22 +14,26 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Fairfax, California]]"
 ---
 
 # Fairfax Cyclery
 
-Bike shop in [[Fairfax, California]].
+Bike shop in [[Fairfax, California]], home of Gravy's wheel-building workshop. It features in Robert Penn's _It's All About the Bike_, where he commissions his wheels there before riding Repack.
 
 ## At a glance
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[It's All About the Bike]] | Robert Penn | setting | Gravy's wheel-building workshop at the back. |
+| [[It's All About the Bike\|It's All About the Bike: In Pursuit of Happiness on Two Wheels]] | Robert Penn | setting | Gravy's wheel-building workshop at the back. |
 
 ## It's All About the Bike: In Pursuit of Happiness on Two Wheels — Robert Penn (2010)
 
-Source: [[It's All About the Bike]] · [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Readwise highlight](https://read.readwise.io/read/01m5crb2syyxy59cvbezvxdb0c)
+Source: [[It's All About the Bike]] · [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5crb2syyxy59cvbezvxdb0c)
 
 > The ‘laboratory’ was Gravy’s workshop, tucked away at the back of a cavernous bike shop called the Fairfax Cyclery.
 

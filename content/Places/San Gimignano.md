@@ -2,12 +2,8 @@
 publish: true
 title: San Gimignano
 created: 2026-10-21T05:07:24.000Z
-modified: 2026-10-21T05:07:24.000Z
-published: 2026-10-21T05:07:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:17:46.199Z
+published: 2026-10-21T11:17:46.199Z
 aliases: []
 books:
   - The Lost Towers of the Guelph-Ghibelline Wars
@@ -20,21 +16,23 @@ icon: newspaper
 location:
   - 43.468
   - 11.042
-within: "[[Italy (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Italy]]"
 ---
 
 # San Gimignano
 
-Town in Tuscany, Italy. Part of [[Italy (Literary)]].
+Town in Tuscany, [[Italy]], shown in exurbe's article on lost Florentine towers as the place where several medieval towers still stand.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The Lost Towers of the Guelph-Ghibelline Wars | exurbe | backdrop | San Gimignano is shown as the place where several medieval towers survive, with photos of its skyline and a street corner, illustrating what the Florentine stubs once were. |
+| [[The Lost Towers of the Guelph-Ghibelline Wars]] | exurbe | backdrop | Shown as the town where several medieval towers survive, with photos of its skyline, illustrating what the Florentine stubs once were. |
 
 ## The Lost Towers of the Guelph-Ghibelline Wars — exurbe (2025)
-
 Source: [Original](https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/) · [Readwise highlight](https://read.readwise.io/read/01m5edegv9edprfy2ytwaezrpk)
 
 > The town of San Gimigniano (below) is famous for having several still intact.

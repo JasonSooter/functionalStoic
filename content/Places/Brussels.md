@@ -1,39 +1,39 @@
 ---
 publish: true
+title: Brussels
+created: 2026-10-19T14:14:27.000Z
+modified: 2026-10-21T10:24:28.395Z
+published: 2026-10-21T10:24:28.395Z
 aliases:
   - Bruxelles
   - Brussel
-title: Brussels
-created: 2026-10-19T14:14:27.000Z
-modified: 2026-10-19T19:18:18.000Z
-published: 2026-10-19T19:18:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
   - "[[Places]]"
 color: purple
-geo_note: Wikipedia's city coordinate sits on the Grand-Place, so this pin overlaps the Grand-Place pin
+geo_note: Wikipedia's city coordinate sits on the Grand-Place, so this pin overlaps
+  the Grand-Place pin
 icon: book
 location:
   - 50.8467
   - 4.3525
-within: "[[Belgium (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Belgium]]"
 coordinates: 50.8467,4.3525
 ---
 
 # Brussels
 
-Capital of Belgium and seat of the EU institutions; see [[Belgium (Literary)]].
+Capital of [[Belgium]] and seat of the EU institutions; in Neither Here Nor There Bryson finds it ugly yet likes it, and uses it to attack postwar developers.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Neither Here Nor There | Bill Bryson | subject | "A seriously ugly place" that Bryson still likes a lot: the friendliest big city in Europe, with wonderful restaurants. |
+| [[Neither Here Nor There]] | Bill Bryson | subject | "A seriously ugly place" that Bryson still likes a lot: the friendliest big city in Europe, with wonderful restaurants. |
 
 ## Sub-places
 
@@ -41,7 +41,7 @@ Capital of Belgium and seat of the EU institutions; see [[Belgium (Literary)]].
 
 ## Neither Here Nor There — Bill Bryson (1991)
 
-Source: [Readwise highlight](https://read.readwise.io/read/01m5a834yt6qxt3jr5jp6c0djg)
+Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5a834yt6qxt3jr5jp6c0djg)
 
 > Brussels is a seriously ugly place, full of wet litter, boulevards like freeways, and muddy building sites.
 

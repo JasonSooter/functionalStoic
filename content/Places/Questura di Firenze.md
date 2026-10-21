@@ -1,43 +1,42 @@
 ---
 publish: true
-aliases:
-  - Questura (Florence)
 title: Questura di Firenze
 created: 2026-10-20T10:43:04.000Z
-modified: 2026-10-20T22:15:10.000Z
-published: 2026-10-20T22:15:10.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:18:10.232Z
+published: 2026-10-21T11:18:10.232Z
+aliases:
+  - Questura (Florence)
 books:
   - "[[Neither Here Nor There]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 43.7801,11.2505
-geo_note: approximate (the Questura's present site on Via della Fortezza; the text does not give the address)
+geo_note: approximate (the Questura's present site on Via della Fortezza; the text
+  does not give the address)
 geo_source: OSM node 1283619464
 icon: book
 location:
   - 43.7801
   - 11.2505
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Florence]]"
 ---
 
 # Questura di Firenze
 
-Police headquarters in [[Florence]], Italy.
+Police headquarters in [[Florence]], Italy, where Bill Bryson reports his stolen travellers' cheques in Neither Here Nor There.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | journey waypoint | Reporting stolen travellers' cheques in a bare, flaking room. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
-Source: [[Neither Here Nor There]] · [Readwise highlight](https://read.readwise.io/read/01m5ce7t19z6npqqqce5htw2vd)
+Source: [[Neither Here Nor There]] · [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5ce7t19z6npqqqce5htw2vd)
 
 > I presented myself at the guardroom of the Questura and was directed upstairs to a waiting room, a bare cell with gray, flaking walls and a high ceiling.
 

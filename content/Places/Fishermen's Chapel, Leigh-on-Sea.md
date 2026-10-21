@@ -1,46 +1,47 @@
 ---
 publish: true
+title: Fishermen's Chapel, Leigh-on-Sea
+created: 2026-10-20T02:11:32.000Z
+modified: 2026-10-21T11:07:34.169Z
+published: 2026-10-21T11:07:34.169Z
 aliases:
   - Fishermen’s Chapel
   - Leigh-on-Sea
-title: Fishermen's Chapel, Leigh-on-Sea
-created: 2026-10-20T02:11:32.000Z
-modified: 2026-10-21T01:37:58.000Z
-published: 2026-10-21T01:37:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
-  - "#083 Can I print it? Yes you can"
-  - "#086 Cycling tactics explained"
-  - "#046 There will be a title, I would imagine"
+  - '#083 Can I print it? Yes you can'
+  - '#086 Cycling tactics explained'
+  - '#046 There will be a title, I would imagine'
+  - '#009 Eight good things that happened'
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.5424,0.6542
-geo_note: "approximate: Leigh-on-Sea town point converted from the OS grid reference TQ841859 on English Wikipedia; the chapel itself has no standard-source coordinate"
+geo_note: "approximate: Leigh-on-Sea town point converted from the OS grid reference\
+  \ TQ841859 on English Wikipedia; the chapel itself has no standard-source coordinate"
 icon: newspaper
 location:
   - 51.5424
   - 0.6542
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Essex]]"
 ---
 
 # Fishermen's Chapel, Leigh-on-Sea
 
-Methodist chapel built into the cliff above the Thames Estuary at Leigh-on-Sea, Southend, [[Essex]], England.
+Methodist chapel built into the cliff above the Thames Estuary at Leigh-on-Sea, Southend, [[Essex]], England. It recurs in the Diagram Club newsletter as the author's own church and as a venue for the Leigh Art Trail.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #083 Can I print it? Yes you can | Diagram Club | subject | The author's church, on a cliff above the estuary, raising money for repairs. |
 | #086 Cycling tactics explained | Diagram Club | setting | A morning as an art-exhibition attendant here during the Leigh Art Trail. |
-| #046 There will be a title, I would imagine | Diagram Club | setting | Dave announces he will staff the Leigh Art Trail at the Fishermen's Chapel on Friday 11 July (2025), alongside paintings by Natasha Chilingirova. |
+| #046 There will be a title, I would imagine | Diagram Club | setting | Dave will staff the Leigh Art Trail here on Friday 11 July (2025), beside Natasha Chilingirova's paintings. |
+| #009 Eight good things that happened | Dave Walker | backdrop | The chapel advertised as an event venue by the sea. |
 
 ## #083 Can I print it? Yes you can — Diagram Club (2026)
-
 Source: [Original](https://diagramclub.substack.com/p/083-can-i-print-it-yes-you-can) · [Readwise highlight](https://read.readwise.io/read/01m5bfx7z1qj4n8az38f94m0rx)
 
 > It’s called the Fishermen’s Chapel, and it’s a Methodist chapel overlooking the Thames Estuary in Leigh-on-Sea, which is part of Southend, but also not.
@@ -50,7 +51,6 @@ Source: [Original](https://diagramclub.substack.com/p/083-can-i-print-it-yes-you
 - **Why it matters:** The newsletter's main appeal and the place the author writes about with most feeling.
 
 ## #086 Cycling tactics explained — Diagram Club (2026)
-
 Source: [Original](https://diagramclub.substack.com/p/086-cycling-tactics-explained) · [Readwise highlight](https://read.readwise.io/read/01m5bfx75xkp1tvr2atx6fjz45)
 
 > This week was the start of the Leigh Art Trail in Leigh-on-Sea, and I spent a morning being an attendant at an art exhibition at The Fishermen’s Chapel.
@@ -60,7 +60,6 @@ Source: [Original](https://diagramclub.substack.com/p/086-cycling-tactics-explai
 - **Why it matters:** Minor; it shows the chapel in use as a community space, as the earlier issue described.
 
 ## #046 There will be a title, I would imagine — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/046-there-will-be-a-title-i-would) · [Readwise highlight](https://read.readwise.io/read/01m5dr1amjjdhfgrxkszgbv695)
 
 > I’ll be staffing the Leigh Art Trail at the Fishermen’s Chapel, Leigh-on-Sea, SS9 2EA, next Friday, and will welcome visitors, as I’ll be sitting around for the day.
@@ -68,3 +67,12 @@ Source: [Original](https://diagramclub.substack.com/p/046-there-will-be-a-title-
 - **Role:** setting
 - **In the article:** Dave announces he will staff the Leigh Art Trail at the Fishermen's Chapel on Friday 11 July (2025), alongside paintings by Natasha Chilingirova.
 - **Why it matters:** A one-off event venue, minor.
+
+## #009 Eight good things that happened — Dave Walker (2024)
+Source: [Original](https://diagramclub.substack.com/p/009-eight-good-things-that-happened) · [Readwise highlight](https://read.readwise.io/read/01m5f1x3ektpsafg62xa79yxbj)
+
+> If so: You might like to consider the Fishermen’s Chapel in Leigh-on-Sea.
+
+- **Role:** backdrop
+- **In the article:** Walker suggests the chapel as an event venue, with the sea, fish and chips, cafés and pubs nearby and trains from London, and mentions a steering-group meeting about 'Crackers and carols'.
+- **Why it matters:** It continues the chapel's role as a community hub in the newsletter.

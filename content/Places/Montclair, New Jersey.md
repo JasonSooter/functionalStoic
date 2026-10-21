@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Montclair
 title: Montclair, New Jersey
 created: 2026-10-20T07:54:21.000Z
-modified: 2026-10-21T01:42:59.000Z
-published: 2026-10-21T01:42:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:21:01.009Z
+published: 2026-10-21T11:21:01.009Z
+aliases:
+  - Montclair
 books:
   - Why I start my day with a 2-mile silent walk
 categories:
@@ -20,21 +16,23 @@ icon: newspaper
 location:
   - 40.825
   - -74.2109
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
 ---
 
 # Montclair, New Jersey
 
-Suburban township in Essex County, New Jersey, west of New York City. See [[New Jersey]].
+Suburban township in Essex County, [[New Jersey]], west of New York City. It is the tree-lined neighbourhood loop of the writer's daily silent walk.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Why I start my day with a 2-mile silent walk | Sam Rinko | setting | The tree-lined loop of a daily silent walk. |
+| [[Why I Start My Day With a 2-Mile Silent Walk\|Why I start my day with a 2-mile silent walk]] | Sam Rinko | setting | The tree-lined loop of a daily silent walk. |
 
 ## Why I start my day with a 2-mile silent walk — Sam Rinko (2026)
-
 Source: [Original](https://samuelrinko.substack.com/p/i-had-to-walk-to-school-with-my-eyes) · [Readwise highlight](https://read.readwise.io/read/01m5c4qaj4hx4x74e004sjsfpj)
 
 > I force myself out of bed, put on shoes, sweats, and a coat, and walk my loop through the tree-lined streets of my neighborhood in Montclair, NJ.

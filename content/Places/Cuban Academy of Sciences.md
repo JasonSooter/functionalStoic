@@ -2,12 +2,8 @@
 publish: true
 title: Cuban Academy of Sciences
 created: 2026-10-21T02:06:41.000Z
-modified: 2026-10-21T02:06:41.000Z
-published: 2026-10-21T02:06:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:52:47.102Z
+published: 2026-10-21T10:52:47.102Z
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -20,22 +16,24 @@ icon: book
 location:
   - 23.1352
   - -82.3597
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Havana]]"
 ---
 
 # Cuban Academy of Sciences
 
-Building in [[Havana]], Cuba.
+Academy of sciences building in [[Havana]], Cuba, where Hans Rosling's evening meeting with officials turned into a second encounter with Castro in How I Learned to Understand the World.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | turning point | An evening meeting with politburo members and academicians turns into an engineered second encounter with Castro. |
 
 ## How I Learned to Understand the World — Hans Rosling
-
-Source: [[How I Learned to Understand the World]] · [Readwise highlight](https://read.readwise.io/read/01m5e329jvhj91z4fjnwbc0pfh)
+Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5e329jvhj91z4fjnwbc0pfh)
 
 > We met in one of the academy’s meeting rooms in its official home, a three-story concrete block.
 

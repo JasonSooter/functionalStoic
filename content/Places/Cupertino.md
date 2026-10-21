@@ -2,12 +2,8 @@
 publish: true
 title: Cupertino
 created: 2026-10-21T02:06:40.000Z
-modified: 2026-10-21T04:46:37.000Z
-published: 2026-10-21T04:46:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:52:54.022Z
+published: 2026-10-21T10:52:54.022Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -20,27 +16,28 @@ icon: book
 location:
   - 37.3231
   - -122.0319
-within: "[[California (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[California]]"
 ---
 
 # Cupertino
 
-Site in [[California (Literary)]], United States.
+City in Silicon Valley, [[California]], Jenny Odell's hometown, which she describes in How to Do Nothing as placeless sprawl until attention revealed what was already there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[How to Do Nothing — Reader's Companion]] | Jenny Odell | subject | The author describes her hometown as featureless sprawl of office parks and malls; Cupertino Crossroads sat at an intersection of two six-lane roads and replaced an old crossroads with a post office,  |
+| [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | subject | The author's hometown is featureless sprawl of office parks and malls, built over an old crossroads of which no sign remains. |
 
 ## Sub-places
-
 - [[Calabazas Creek]]
 - [[Rancho Rinconada]]
 
 ## How to Do Nothing — Jenny Odell (2019)
-
-Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Readwise highlight](https://read.readwise.io/read/01m5e31vp911n27b0yg0b66gt0)
+Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5e31vp911n27b0yg0b66gt0)
 
 > There’s a funny detail about Cupertino that I discovered as a teenager. Growing up there in the early 2000s, there wasn’t much to do except visit one shopping center after another in what I experienced as a mind-numbing sprawl with no obvious center.
 

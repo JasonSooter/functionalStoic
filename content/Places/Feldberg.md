@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Feldberg (Black Forest)
 title: Feldberg
 created: 2026-10-20T04:32:09.000Z
-modified: 2026-10-21T01:21:30.000Z
-published: 2026-10-21T01:21:30.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:50:38.366Z
+published: 2026-10-21T10:50:38.366Z
+aliases:
+  - Feldberg (Black Forest)
 books:
   - "[[Schneespaß Geht Weiter - Skilifte Auf Dem Feldberg Bis Ostermontag Geöffnet]]"
 categories:
@@ -20,21 +16,23 @@ icon: newspaper
 location:
   - 47.8786
   - 8.0111
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Baden-Württemberg]]"
 ---
 
 # Feldberg
 
-Highest mountain of the Black Forest, south-east of Freiburg. See [[Baden-Württemberg]].
+Highest mountain of the Black Forest, south-east of Freiburg, in [[Baden-Württemberg]]. It appears in a local notice that fresh snow has reopened its ski lifts until Easter Monday.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Schneespaß Geht Weiter - Skilifte Auf Dem Feldberg Bis Ostermontag Geöffnet]] | Wochenbericht | subject | Late snow reopens the Feldberg lifts until Easter Monday. |
+| [[Schneespaß Geht Weiter - Skilifte Auf Dem Feldberg Bis Ostermontag Geöffnet\|Schneespaß geht weiter: Skilifte auf dem Feldberg bis Ostermontag geöffnet]] | Wochenbericht | subject | Late snow reopens the Feldberg lifts until Easter Monday. |
 
 ## Schneespaß geht weiter: Skilifte auf dem Feldberg bis Ostermontag geöffnet — Wochenbericht (2026)
-
 Source: [[Schneespaß Geht Weiter - Skilifte Auf Dem Feldberg Bis Ostermontag Geöffnet]] · [Original](https://www.freiburger-wochenbericht.de/schneespass-geht-weiter-skilifte-auf-dem-feldberg-bis-ostermontag-geoeffnet/) · [Readwise highlight](https://read.readwise.io/read/01m5bs6s1w59928xk72nmj0d2k)
 
 > Der Winter ist zurück am Feldberg: Dank frischer Schneefälle konnten die Feldbergbahnen den Winterbetrieb kurzfristig wieder aufnehmen

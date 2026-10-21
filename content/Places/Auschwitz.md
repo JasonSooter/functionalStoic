@@ -2,12 +2,8 @@
 publish: true
 title: Auschwitz
 created: 2026-10-21T05:07:37.000Z
-modified: 2026-10-21T05:07:37.000Z
-published: 2026-10-21T05:07:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:33:17.156Z
+published: 2026-10-21T10:33:17.156Z
 aliases: []
 books:
   - "[[The Daily Stoic]]"
@@ -20,22 +16,24 @@ icon: book
 location:
   - 50.0358
   - 19.1783
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Poland]]"
 ---
 
 # Auschwitz
 
-Camp in Nazi-occupied Europe. Part of [[Poland]].
+Nazi concentration camp in occupied [[Poland]], the extreme setting in The Daily Stoic where Viktor Frankl's inner freedom is tested.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Daily Stoic]] | Ryan Holiday | setting | Frankl was held for three years in camps including Auschwitz, losing his family and his work. |
 
 ## The Daily Stoic — Ryan Holiday (2016)
-
-Source: [[The Daily Stoic]] · [Readwise highlight](https://read.readwise.io/read/01m5edhh3kyd80d8xmt6ab0wcj)
+Source: [[The Daily Stoic]] · [Original](https://openlibrary.org/works/OL20046443W) · [Readwise highlight](https://read.readwise.io/read/01m5edhh3kyd80d8xmt6ab0wcj)
 
 > The psychologist Viktor Frankl spent three years imprisoned in various concentration camps, including Auschwitz.
 

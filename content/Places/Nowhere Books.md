@@ -2,12 +2,8 @@
 publish: true
 title: Nowhere Books
 created: 2026-10-21T02:07:31.000Z
-modified: 2026-10-21T02:07:31.000Z
-published: 2026-10-21T02:07:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:15:22.058Z
+published: 2026-10-21T11:15:22.058Z
 aliases: []
 books:
   - Breakneck
@@ -16,22 +12,24 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Chiang Mai]]"
 ---
 
 # Nowhere Books
 
-Building in [[Chiang Mai]], Thailand.
+Bookshop in [[Chiang Mai]], Thailand, that Dan Wang's Breakneck presents as a gathering place and symbol of Chinese exile culture.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Breakneck | Dan Wang | setting | The bookstore stocks books not publishable in mainland China, a Chinese translation of the Whole Earth Catalog, a sticker of the Urumqi Road sign and 'Republic of Nowhere' passports. |
+| [[Breakneck]] | Dan Wang | setting | Stocks books not publishable in mainland China, a Whole Earth Catalog translation and 'Republic of Nowhere' passports. |
 
 ## Breakneck — Dan Wang (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5e30mkrh99ba96150a23p9h)
+Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5e30mkrh99ba96150a23p9h)
 
 > In Chiang Mai, these creative types gathered around a bookstore founded by a journalist. Nowhere Books had its first store in Taiwan before opening a second branch in Chiang Mai, offering books that can’t be bought on the mainland.
 

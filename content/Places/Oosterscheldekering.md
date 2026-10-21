@@ -2,12 +2,8 @@
 publish: true
 title: Oosterscheldekering
 created: 2026-10-21T05:07:43.000Z
-modified: 2026-10-21T05:07:43.000Z
-published: 2026-10-21T05:07:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:15:31.750Z
+published: 2026-10-21T11:15:31.750Z
 aliases: []
 books:
   - Why are the Dutch So Famous for Waterworks?
@@ -20,21 +16,23 @@ icon: newspaper
 location:
   - 51.6336
   - 3.7044
-within: "[[Netherlands (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Netherlands]]"
 ---
 
 # Oosterscheldekering
 
-Storm surge barrier in Delta Works, Zeeland, Netherlands. Part of [[Netherlands (Literary)]].
+Storm surge barrier in the Delta Works, Zeeland, [[Netherlands]], and the largest of them, used in a Practical Engineering article as an example of Dutch engineering adapting to environmental concerns.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Why are the Dutch So Famous for Waterworks? | Practical Engineering | subject | Originally planned as a closed dam, it was redesigned in the 1970s with 62 steel gates that stay open for tidal flow and close in storms, on two artificial islands with a lock. |
+| Why are the Dutch So Famous for Waterworks? | Practical Engineering | subject | Redesigned in the 1970s from a closed dam to 62 steel gates that stay open for tides and close in storms. |
 
 ## Why are the Dutch So Famous for Waterworks? — Practical Engineering (2025)
-
 Source: [Original](https://practical.engineering/blog/2025/1/21/why-are-the-dutch-so-famous-for-waterworks) · [Readwise highlight](https://read.readwise.io/read/01m5edf1ksj493w4h6fsxfdcey)
 
 > This is the Oosterscheldekering (OH-ster-SHELL-de-keering), the largest of all the Delta Works.

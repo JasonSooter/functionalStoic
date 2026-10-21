@@ -2,21 +2,27 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-07-17T16:08:32.957Z
-published: 2026-07-17T16:08:32.957Z
-tags:
-  - places
-linter-yaml-title-alias: California
-date created: 2023-12-10T08:50:24-07:00
-date modified: 2026-02-21T09:56:46-07:00
+modified: 2026-10-21T10:20:35.896Z
+published: 2026-10-21T10:20:35.896Z
+aliases: []
+books: []
 categories:
   - "[[Places]]"
-coordinates: 36.7783,-119.4179
 color: teal
+coordinates: 36.7783,-119.4179
+date created: 2023-12-10T08:50:24-07:00
+date modified: 2026-02-21T09:56:46-07:00
 icon: map
+linter-yaml-title-alias: California
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # California
+
+California is a state on the US West Coast; this note also groups the literary places in California listed below, with Los Angeles as its own city hub.
 
 ## Summary
 
@@ -29,9 +35,9 @@ icon: map
 ## FAQ
 
 ---
-
 🙋
 ✨
+
 
 ---
 
@@ -41,7 +47,7 @@ icon: map
 
 With [[Kolt Kane|Kolt]], Kelly, & Ellie
 
-\#🗓️/2016/03/02
+#🗓️/2016/03/02
 
 | Jason |  |  | [[Kolt Kane\|Kolt]] |  |  | Kelly |  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -62,3 +68,39 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 |  |  |  |  |  |  | 624.11 | $581.20 |
 |  |  |  |  |  |  | 411.9126 |  |
 |  |  |  |  |  |  | 212.1974 |  |
+
+## Sub-places
+- [[Altadena]]
+- [[Auburn Dam]]
+- [[Berkeley, California]]
+- [[Bolinas]]
+- [[Cache Creek Nature Preserve]]
+- [[Cajon Pass]]
+- [[Camp Grounded]]
+- [[Colorado River Aqueduct]]
+- [[Corralitos]]
+- [[Cupertino]]
+- [[Disneyland]]
+- [[Elkhorn Slough]]
+- [[Emeryville station]]
+- [[Fairfax, California]]
+- [[Foresthill Bridge]]
+- [[Hangar One (Mountain View)]]
+- [[Los Angeles Aqueduct]]
+- [[Los Gatos]]
+- [[Mokelumne River]]
+- [[Mountain View]]
+- [[Oakland]]
+- [[Palm Springs]]
+- [[Pebble Beach Golf Links]]
+- [[San Clemente Dam]]
+- [[San Francisco]]
+- [[San Jacinto Mountains]]
+- [[Santa Cruz Mountains]]
+- [[Silicon Valley]]
+- [[Stanford University]]
+- [[Steamer Lane]]
+- [[Stockton, California]]
+- [[Truckee River]]
+- [[Wallis Annenberg Wildlife Crossing]]
+- [[White Mountains (California)]]

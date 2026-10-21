@@ -2,12 +2,8 @@
 publish: true
 title: Truckee River
 created: 2026-10-21T05:07:08.000Z
-modified: 2026-10-21T05:07:08.000Z
-published: 2026-10-21T05:07:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:25:15.689Z
+published: 2026-10-21T10:25:15.689Z
 aliases: []
 books:
   - While Riding on a Train Going West
@@ -21,21 +17,23 @@ icon: newspaper
 location:
   - 39.1675
   - -120.1442
-within: "[[California (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[California]]"
 ---
 
 # Truckee River
 
-River / mountain range in Nevada-California border, USA. Part of [[California (Literary)]].
+River / mountain range in Nevada-California border, USA. Part of [[California]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | While Riding on a Train Going West | Linnesby-Maria | turning point | Crossing the Truckee marks the state line into California. |
 
 ## While Riding on a Train Going West — Linnesby-Maria (2024)
-
 Source: [Original](https://notesfromlinnesby.substack.com/p/while-riding-on-a-train-going-west) · [Readwise highlight](https://read.readwise.io/read/01m5edea8d8ya5ymjefw13zj6q)
 
 > After Reno we cross the Truckee River, going towards the Sierras, and suddenly there are pine trees everywhere. This feels like home.

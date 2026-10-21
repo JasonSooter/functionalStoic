@@ -2,12 +2,8 @@
 publish: true
 title: Boulder, Colorado
 created: 2026-10-21T04:45:06.000Z
-modified: 2026-10-21T04:45:06.000Z
-published: 2026-10-21T04:45:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:25:14.733Z
+published: 2026-10-21T10:25:14.733Z
 aliases: []
 books:
   - "[[For Modern Foragers, This Map Reveals Urban Abundance]]"
@@ -20,25 +16,26 @@ icon: newspaper
 location:
   - 39.9933
   - -105.245
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
 # Boulder, Colorado
 
-City in Colorado, USA. Part of [[Colorado]].
+City in [[Colorado]], USA. It is where Ethan Welty began seeing trees as food and where the idea for the Falling Fruit urban foraging map originated.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[For Modern Foragers, This Map Reveals Urban Abundance]] | Natasha Khullar Relph | turning point | Ethan Welty moved to Boulder for graduate school and began seeing the city as a foraging ground, starting with apple trees in his backyard. |
+| [[For Modern Foragers, This Map Reveals Urban Abundance]] | Natasha Khullar Relph | turning point | Ethan Welty moved to Boulder for graduate school and began seeing the city as a foraging ground, starting with backyard apple trees. |
 
 ## Sub-places
-
 - [[Marshall Mesa]]
 
 ## For Modern Foragers, This Map Reveals Urban Abundance — Natasha Khullar Relph (2025)
-
 Source: [[For Modern Foragers, This Map Reveals Urban Abundance]] · [Original](https://reasonstobecheerful.world/falling-fruit-urban-foraging/) · [Readwise highlight](https://read.readwise.io/read/01m5ebpfhcwjmfjmrvxwnecexc)
 
 > “The City of Boulder sent me a bunch of data, including their tree inventory,” he says.

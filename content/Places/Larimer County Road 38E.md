@@ -2,40 +2,40 @@
 publish: true
 title: Larimer County Road 38E
 created: 2026-10-21T02:07:20.000Z
-modified: 2026-10-21T02:07:20.000Z
-published: 2026-10-21T02:07:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:17:57.280Z
+published: 2026-10-21T11:17:57.280Z
 aliases: []
 books:
-  - Cyclist Killed, Bike & Roll to School Day, CSU Vision Zero Reporter, Bike Fix-It Bonanza, and More!
+  - Cyclist Killed, Bike & Roll to School Day, CSU Vision Zero Reporter, Bike Fix-It
+    Bonanza, and More!
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.5059,-105.1978
-geo_note: approximate (West County Road 38E near Milner Mountain Ranch, Masonville area; crash location not exact)
+geo_note: approximate (West County Road 38E near Milner Mountain Ranch, Masonville
+  area; crash location not exact)
 geo_source: OSM way 1533734358
 icon: newspaper
 location:
   - 40.5059
   - -105.1978
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Fort Collins (Literary)]]"
 ---
 
 # Larimer County Road 38E
 
-Street in [[Fort Collins (Literary)]], United States.
+Rural road near Horsetooth Mountain Park in [[Fort Collins (Literary)|Fort Collins]], Colorado, site of the fatal cyclist crash that leads a Bike Fort Collins newsletter.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Cyclist Killed, Bike & Roll to School Day, CSU Vision Zero Reporter, Bike Fix-It Bonanza, and More! | Bike Fort Collins | turning point | The lead story reports a fatal crash between a cyclist and a motorcyclist, both eastbound and climbing toward the park near Milner Mountain Ranch. |
+| [[Cyclist Killed, Bike & Roll to School Day, CSU Vision Zero Reporter, Bike Fix-It Bonanza, and More!]] | Bike Fort Collins | turning point | The lead story reports a fatal crash between a cyclist and a motorcyclist, both eastbound and climbing toward the park near Milner Mountain Ranch. |
 
 ## Cyclist Killed, Bike & Roll to School Day, CSU Vision Zero Reporter, Bike Fix-It Bonanza, and More! — Bike Fort Collins (2025)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5e2zcwvx15mfxd1bp2y688h)
 
 > At approximately 1:21 p.m. on Larimer County Road 38E near Horsetooth Mountain Park, a cyclist was killed and a motorcyclist seriously injured in a collision.

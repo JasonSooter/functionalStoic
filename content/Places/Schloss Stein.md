@@ -1,17 +1,13 @@
 ---
 publish: true
+title: Schloss Stein
+created: 2026-10-20T01:36:16.000Z
+modified: 2026-10-21T11:16:46.319Z
+published: 2026-10-21T11:16:46.319Z
 aliases:
   - Schloss Stein an der Traun
   - Höhlenburg Stein
   - Schlossinternat Stein
-title: Schloss Stein
-created: 2026-10-20T01:36:16.000Z
-modified: 2026-10-20T22:34:40.000Z
-published: 2026-10-20T22:34:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Team Stein macht sich bereit! 08.08.2026
   - Schlechtes Wetter – gute Laune 19.08.2026
@@ -23,22 +19,24 @@ icon: newspaper
 location:
   - 47.9866
   - 12.5464
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bavaria]]"
 ---
 
 # Schloss Stein
 
-Castle complex at Stein an der Traun, Upper [[Bavaria]], Germany: an upper castle, a cave castle (Höhlenburg) in the cliff, and a lower castle that houses a boarding school.
+Castle complex at Stein an der Traun, Upper [[Bavaria]], Germany, whose boarding-school grounds and cave castle feature in two Goethe-Institut blog posts about a youth German course.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Team Stein macht sich bereit! 08.08.2026 | goethe.de | setting | The boarding-school grounds that house a three-week youth German course. |
-| Schlechtes Wetter – gute Laune 19.08.2026 | goethe.de | subject | A guided tour of the 12th-century cave castle on the school grounds. |
+| [[Team Stein Macht Sich Bereit! 08.08.2026\|Team Stein macht sich bereit! 08.08.2026]] | goethe.de | setting | The boarding-school grounds that house a three-week youth German course. |
+| [[Schlechtes Wetter – Gute Laune 19.08.2026\|Schlechtes Wetter – gute Laune 19.08.2026]] | goethe.de | subject | A guided tour of the 12th-century cave castle on the school grounds. |
 
 ## Team Stein macht sich bereit! 08.08.2026 — goethe.de (2026)
-
 Source: [Original](https://www.goethe.de/ins/de/de/jug/blg/s26/s01.html) · [Readwise highlight](https://read.readwise.io/read/01m5bey7frj8ajafgmgrdx3a03)
 
 > Ihr werdet mit uns im Schloss Stein wohnen, es ist wunderschön hier.
@@ -48,7 +46,6 @@ Source: [Original](https://www.goethe.de/ins/de/de/jug/blg/s26/s01.html) · [Rea
 - **Why it matters:** The castle school is where the whole three-week course lives and learns; every later post starts or ends here.
 
 ## Schlechtes Wetter – gute Laune 19.08.2026 — goethe.de (2026)
-
 Source: [Original](https://www.goethe.de/ins/de/de/jug/blg/s26/s05.html) · [Readwise highlight](https://read.readwise.io/read/01m5bey92sf8ybv2kdn41bbas9)
 
 > Die Höhlenburg hier in Stein an der Traun stammt aus dem 12. Jahrhundert und ist die besterhaltene Höhlenburg in ganz Europa!

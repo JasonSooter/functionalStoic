@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Jakarta
+created: 2026-10-20T22:54:49.000Z
+modified: 2026-10-21T11:10:19.624Z
+published: 2026-10-21T11:10:19.624Z
 aliases:
   - Batavia
   - DKI Jakarta
-title: Jakarta
-created: 2026-10-20T22:54:49.000Z
-modified: 2026-10-20T22:54:49.000Z
-published: 2026-10-20T22:54:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - The $40BN Plan to Save The World’s Fastest Sinking City
 categories:
@@ -23,25 +19,26 @@ icon: video
 location:
   - -6.1754
   - 106.8272
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Indonesia]]"
 ---
 
 # Jakarta
 
-Capital city of [[Indonesia]], on the north coast of Java.
+Capital city of [[Indonesia]], on the north coast of Java, and the subject of a B1M video on why it is sinking and what is being done about it.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The \$40BN Plan to Save The World’s Fastest Sinking City | The B1M | subject | The video explains why Jakarta, a megacity of more than 11M people on a low-lying coastal plain at the mouth of 13 rivers, is sinking up to 15 cm a year, mainly from groundwater extraction. |
+| [[The $40BN Plan to Save the World’s Fastest Sinking City\|The $40BN Plan to Save The World’s Fastest Sinking City]] | The B1M | subject | Why Jakarta, home to over 11M people, is sinking up to 15 cm a year, mainly from groundwater extraction. |
 
 ## Sub-places
-
 - [[Jakarta Bay]]
 
-## The \$40BN Plan to Save The World’s Fastest Sinking City — The B1M (2025)
-
+## The $40BN Plan to Save The World’s Fastest Sinking City — The B1M (2025)
 Source: [Original](https://www.youtube.com/watch?v=B7PHRVQgTKM) · [Readwise highlight](https://read.readwise.io/read/01m5dqxkhe3zy1r2qny2rt3gba)
 
 > Jakarta is the largest city in Southeast Asia, but it’s sinking at a rate of up to 15 centimetres a year

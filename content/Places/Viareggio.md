@@ -2,19 +2,19 @@
 publish: true
 title: Viareggio
 created: 2026-10-20T22:56:24.000Z
-modified: 2026-10-20T22:56:24.000Z
-published: 2026-10-20T22:56:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:27:41.033Z
+published: 2026-10-21T10:27:41.033Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-within: "[[Italy (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Italy]]"
 ---
 
 # Viareggio
@@ -22,5 +22,4 @@ within: "[[Italy (Literary)]]"
 Seaside resort town in Versilia, Tuscany, Italy.
 
 ## Sub-places
-
 - [[The resort (Agostino)]]

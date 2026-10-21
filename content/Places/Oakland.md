@@ -2,19 +2,19 @@
 publish: true
 title: Oakland
 created: 2026-10-20T22:56:47.000Z
-modified: 2026-10-21T05:07:23.000Z
-published: 2026-10-21T05:07:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:27:46.733Z
+published: 2026-10-21T10:27:46.733Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-within: "[[California (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[California]]"
 ---
 
 # Oakland
@@ -22,7 +22,6 @@ within: "[[California (Literary)]]"
 City on the east side of San Francisco Bay, California.
 
 ## Sub-places
-
 - [[Glen Echo Creek]]
 - [[Grand Lake Theatre]]
 - [[Jack London Tree (Oakland)]]

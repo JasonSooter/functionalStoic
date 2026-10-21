@@ -2,12 +2,8 @@
 publish: true
 title: Abbey of Gethsemani
 created: 2026-10-21T02:06:09.000Z
-modified: 2026-10-21T02:06:09.000Z
-published: 2026-10-21T02:06:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:32:23.731Z
+published: 2026-10-21T10:32:23.731Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -20,22 +16,24 @@ icon: book
 location:
   - 37.6642
   - -85.5294
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Kentucky]]"
 ---
 
 # Abbey of Gethsemani
 
-Building in [[Kentucky]], United States.
+Trappist abbey in rural [[Kentucky]], United States, where Thomas Merton sought solitude; Jenny Odell's How to Do Nothing uses it as the place of total withdrawal she contrasts with the Louisville epiphany.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[How to Do Nothing — Reader's Companion]] | Jenny Odell | setting | Merton enters the Trappist abbey in rural Kentucky, petitions for years to be a hermit on its grounds, and writes the journal that becomes The Seven Storey Mountain there, a book of contemptus mundi. |
+| [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | Merton enters the Trappist abbey, petitions for years to be a hermit on its grounds and writes the journal behind The Seven Storey Mountain. |
 
 ## How to Do Nothing — Jenny Odell (2019)
-
-Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Readwise highlight](https://read.readwise.io/read/01m5e31p2xd4tdeae8qwjf6wtt)
+Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5e31p2xd4tdeae8qwjf6wtt)
 
 > Merton arrived and was accepted at the Abbey of Gethsemani in rural Kentucky in 1941. So much did he desire solitude that he spent years petitioning to become a hermit on the monastery grounds.
 

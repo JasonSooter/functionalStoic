@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Bielefeld University
+created: 2026-10-20T04:19:07.000Z
+modified: 2026-10-21T10:34:26.345Z
+published: 2026-10-21T10:34:26.345Z
 aliases:
   - University of Bielefeld
   - Universität Bielefeld
-title: Bielefeld University
-created: 2026-10-20T04:19:07.000Z
-modified: 2026-10-20T04:19:07.000Z
-published: 2026-10-20T04:19:07.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[How to Take Smart Notes]]"
 categories:
@@ -21,26 +17,27 @@ icon: book
 location:
   - 52.0378
   - 8.4931
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bielefeld]]"
 ---
 
 # Bielefeld University
 
-University founded in the late 1960s in Bielefeld, North Rhine-Westphalia. See [[Bielefeld]].
+University founded in the late 1960s in [[Bielefeld]], North Rhine-Westphalia, where Niklas Luhmann became a professor in 1968, as told in Sönke Ahrens's How to Take Smart Notes.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[How to Take Smart Notes]] | Sönke Ahrens | turning point | Where Niklas Luhmann, an administrator turned sociologist, became a professor and built his slip-box theory of society. |
+| [[How to Take Smart Notes]] | Sönke Ahrens | turning point | Where Luhmann, an administrator turned sociologist, became a professor and built his slip-box theory of society. |
 
 ## Sub-places
-
 _None yet._
 
 ## How to Take Smart Notes — Sönke Ahrens (2017)
-
-Source: [[How to Take Smart Notes]] · [Readwise highlight](https://read.readwise.io/read/01m5brdws4e8b73zr54hefe7vq)
+Source: [[How to Take Smart Notes]] · [Original](https://openlibrary.org/works/OL18635700W) · [Readwise highlight](https://read.readwise.io/read/01m5brdws4e8b73zr54hefe7vq)
 
 > Shortly after, in 1968, he was chosen to become professor of sociology at the University of Bielefeld – a position he would hold for the rest of his life.
 

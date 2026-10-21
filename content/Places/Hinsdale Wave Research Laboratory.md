@@ -1,16 +1,12 @@
 ---
 publish: true
+title: O. H. Hinsdale Wave Research Laboratory
+created: 2026-10-20T10:48:20.000Z
+modified: 2026-10-21T11:09:29.646Z
+published: 2026-10-21T11:09:29.646Z
 aliases:
   - Hinsdale Wave Research Laboratory
   - Hinsdale Wave Lab
-title: O. H. Hinsdale Wave Research Laboratory
-created: 2026-10-20T10:48:20.000Z
-modified: 2026-10-21T01:43:33.000Z
-published: 2026-10-21T01:43:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Hurricane vs. Tiny House
 categories:
@@ -22,21 +18,23 @@ icon: newspaper
 location:
   - 44.5634
   - -123.2915
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oregon]]"
 ---
 
 # O. H. Hinsdale Wave Research Laboratory
 
-Coastal-engineering wave lab at Oregon State University, Corvallis, [[Oregon]], USA.
+Coastal-engineering wave lab at Oregon State University in Corvallis, [[Oregon]], USA. It is where the storm-surge test in Practical Engineering's article on two scale houses took place.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Hurricane vs. Tiny House | Practical Engineering | setting | Two scale houses, one storm surge: the elevated one survives. |
+| [[Hurricane vs. Tiny House]] | Practical Engineering | setting | Two scale houses, one storm surge: the elevated one survives. |
 
 ## Hurricane vs. Tiny House — Practical Engineering (2025)
-
 Source: [Original](https://practical.engineering/blog/2025/12/2/hurricane-vs-tiny-house) · [Readwise highlight](https://read.readwise.io/read/01m5ce49hjb7f2ajsvp9tvw4xy)
 
 > The OH Hinsdale Wave Research Laboratory is one of the largest facilities of its kind in the world. Since the 1970s, this lab has supported cutting-edge research into coastal engineering challenges like sediment movement, tsunami behavior, and wave-structure interactions.

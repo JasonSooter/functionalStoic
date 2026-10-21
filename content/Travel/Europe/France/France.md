@@ -1,29 +1,34 @@
 ---
 publish: true
+title: France
+created: 2024-10-05T01:12:38.489Z
+modified: 2026-10-21T10:19:58.476Z
+published: 2026-10-21T10:19:58.476Z
 aliases:
   - Paris, France
   - Paris
-title: France
-created: 2024-10-05T01:12:38.489Z
-modified: 2026-09-26T05:01:00.000Z
-published: 2026-09-26T05:01:00.000Z
+books: []
+categories:
+  - "[[Places]]"
+color: blue
+coordinates: 48.8566,2.3522
+date created: 2023-09-26T13:25:41+02:00
+date modified: 2026-02-21T09:56:46-07:00
+flag: 🇫🇷
+icon: flag
+linter-yaml-title-alias: France
 tags:
   - travel/europe/europe-2023
   - travel/europe/france
   - travel/europe/france/paris
   - places
-linter-yaml-title-alias: France
-date created: 2023-09-26T13:25:41+02:00
-date modified: 2026-02-21T09:56:46-07:00
-categories:
-  - "[[Places]]"
-coordinates: 48.8566,2.3522
-color: blue
-icon: flag
-flag: 🇫🇷
+  - place/literary
+  - source/ai/claude
 ---
 
 # France
+
+France is a country in western Europe; this note also groups the literary places in the region listed below.
 
 - [[#Paris]]
 
@@ -38,9 +43,9 @@ flag: 🇫🇷
 ## FAQ
 
 ---
-
 🙋
 ✨
+
 
 ---
 
@@ -54,18 +59,18 @@ flag: 🇫🇷
 
 - [Europe '23: Paris - Google Photos](https://photos.google.com/share/AF1QipOl8RU_g-7tj6pYTDrnSSkz9Ydj6Gwn6GoHIHeE5c93rwB4lJDamjMyPOSS3129HQ?key=SkxLMkdIWVY1dEU1NUtRNk9DMTJZQUhCS1hGcDhR)
 - Public Transit
-  - Bonjour RATP App (City of Paris)
-    - Along with an app called My Navigo
-  - SNCF ([[Trains]] in / out of [[France]])
+	- Bonjour RATP App (City of Paris)
+		- Along with an app called My Navigo
+	- SNCF ([[Trains]] in / out of [[France]])
 
 ### Action Items
 
 ### FAQ
 
 ---
-
 🙋
 ✨
+
 
 ---
 
@@ -74,5 +79,21 @@ flag: 🇫🇷
 #### Eiffel Tower
 
 Upon return, we watched a PBS Nova video that launched about the [building of the Eiffel Tower](https://www.pbs.org/video/building-the-eiffel-tower-nftwl1/). #🗓️/2024/03/04
-
 - [Season 51 Episode 3](https://www.pbs.org/video/building-the-eiffel-tower-nftwl1/)
+
+## Sub-places
+- [[Bessèges]]
+- [[Bordeaux]]
+- [[Brittany]]
+- [[Corsica]]
+- [[Culmont-Chalindrey station]]
+- [[Cévennes]]
+- [[Dijon-Ville station]]
+- [[French Riviera]]
+- [[Gare de Nancy]]
+- [[Lyon]]
+- [[Lyon Part-Dieu]]
+- [[Millau Viaduct]]
+- [[Réunion]]
+- [[Seine–Nord Europe Canal]]
+- [[Places/Vercors]]

@@ -1,17 +1,13 @@
 ---
 publish: true
+title: Naples
+created: 2026-10-20T01:25:42.000Z
+modified: 2026-10-21T11:15:07.373Z
+published: 2026-10-21T11:15:07.373Z
 aliases:
   - Napoli
   - Vicaria
   - Piazza Garibaldi
-title: Naples
-created: 2026-10-20T01:25:42.000Z
-modified: 2026-10-20T01:25:42.000Z
-published: 2026-10-20T01:25:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -22,26 +18,27 @@ icon: book
 location:
   - 40.8358
   - 14.2486
-within: "[[Italy (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Italy]]"
 ---
 
 # Naples
 
-Capital of Campania on the Bay of Naples, southern Italy. See [[Italy (Literary)]].
+Capital of Campania on the Bay of Naples in southern [[Italy]], and in Bill Bryson's Neither Here Nor There the hard counterweight to Capri, crossed on foot before he heads north.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Neither Here Nor There | Bill Bryson | journey waypoint | A long walk from the waterfront through the crowded Vicaria to the station, and a ticket out. |
+| [[Neither Here Nor There]] | Bill Bryson | journey waypoint | A long walk from the waterfront through the crowded Vicaria to the station, and a ticket out. |
 
 ## Sub-places
-
 _None yet._
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bejd8r4g3qnk2knj438cq3)
+Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejd8r4g3qnk2knj438cq3)
 
 > The worst of these districts, the Vicaria, in which I was walking, is said to have the highest population density in Europe.
 

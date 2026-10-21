@@ -1,48 +1,46 @@
 ---
 publish: true
+title: Mont Cenis Base Tunnel
+created: 2026-10-20T10:42:19.000Z
+modified: 2026-10-21T11:19:53.298Z
+published: 2026-10-21T11:19:53.298Z
 aliases:
   - Lyon–Turin base tunnel
   - Mont d’Ambin Base Tunnel
   - Saint-Jean-de-Maurienne
-title: Mont Cenis Base Tunnel
-created: 2026-10-20T10:42:19.000Z
-modified: 2026-10-21T02:08:47.000Z
-published: 2026-10-21T02:08:47.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Inside Europe’s New Mega-Tunnel Under The Alps
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 45.2729,6.3484
-geo_note: approximate (Saint-Jean-de-Maurienne, the French portal town; the tunnel articles print no coordinate)
+geo_note: approximate (Saint-Jean-de-Maurienne, the French portal town; the tunnel
+  articles print no coordinate)
 geo_source: Wikipedia (en)
 icon: video
 location:
   - 45.2729
   - 6.3484
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[French Alps]]"
 ---
 
 # Mont Cenis Base Tunnel
 
-57.5-km rail base tunnel under construction between Saint-Jean-de-Maurienne, France, and Susa, Italy, for the Lyon–Turin line.
+57.5-km rail base tunnel under construction between Saint-Jean-de-Maurienne, France, and Susa, Italy, for the Lyon–Turin line. It is the subject of The B1M's tour of Europe's new mega-tunnel under the Alps.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Inside Europe’s New Mega-Tunnel Under The Alps | The B1M | subject | A tour inside Europe's new mega-tunnel under the Alps. |
+| [[Inside Europe’s New Mega-Tunnel Under the Alps\|Inside Europe’s New Mega-Tunnel Under The Alps]] | The B1M | subject | A tour inside Europe's new mega-tunnel under the Alps. |
 
 ## Sub-places
-
 - [[The Alps base tunnel (B1M short)]]
 
 ## Inside Europe’s New Mega-Tunnel Under The Alps — The B1M (2025)
-
 Source: [Original](https://www.youtube.com/watch?v=NFrr-L_BcC4) · [Readwise highlight](https://read.readwise.io/read/01m5ce47n3v2f49gn6ya45yzq6)
 
 > Stretching for 57.5km, it'll become

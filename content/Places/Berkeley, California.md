@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Berkeley
 title: Berkeley, California
 created: 2026-10-20T10:42:28.000Z
-modified: 2026-10-21T05:06:56.000Z
-published: 2026-10-21T05:06:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:33:25.564Z
+published: 2026-10-21T10:33:25.564Z
+aliases:
+  - Berkeley
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
 categories:
@@ -21,26 +17,27 @@ icon: newspaper
 location:
   - 37.8717
   - -122.2728
-within: "[[California (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[California]]"
 ---
 
 # Berkeley, California
 
-City on the east side of San Francisco Bay, [[California (Literary)]], USA.
+City on the east side of San Francisco Bay, [[California]], USA, and a stop in Kyla Scanlon's essay on American prosperity, where AI optimism met worry about entry-level jobs.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] | Kyla Scanlon | setting | Bay Area AI optimism and the question of entry-level jobs. |
 
 ## Sub-places
-
 - [[Leopold's Records]]
 - [[West Berkeley Shellmound]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
-
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5b6yahc1873r1yj64751)
 
 > By the time I got to Berkeley a few days later, I was thinking more and more about Junior Extinction, or the apparent goal of AI to replace entry level jobs.

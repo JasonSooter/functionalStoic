@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Brig-Glis
 title: Brig
 created: 2026-10-20T01:26:23.000Z
-modified: 2026-10-20T01:26:23.000Z
-published: 2026-10-20T01:26:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:25:54.286Z
+published: 2026-10-21T10:25:54.286Z
+aliases:
+  - Brig-Glis
 books:
   - Neither Here Nor There
 categories:
@@ -20,22 +16,24 @@ icon: book
 location:
   - 46.317
   - 7.983
-within: "[[Switzerland (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Switzerland]]"
 ---
 
 # Brig
 
-Railway town in the upper Rhône valley, canton of Valais, Switzerland. See [[Switzerland (Literary)]] and the Travel note [[Switzerland]].
+Railway town in the upper Rhône valley, canton of Valais, [[Switzerland]]. It is where Bill Bryson spends his first Swiss night in _Neither Here Nor There_, marking his sour turn away from Italy.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Neither Here Nor There | Bill Bryson | setting | Bryson's first Swiss night, in a town that doesn't know what to do with itself. |
+| [[Neither Here Nor There]] | Bill Bryson | setting | Bryson's first Swiss night, in a town that doesn't know what to do with itself. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bejrae9ygvrwqdpftwb0vb)
+Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejrae9ygvrwqdpftwb0vb)
 
 > Brig was a bit of a strange place.
 

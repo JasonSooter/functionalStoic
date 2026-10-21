@@ -2,12 +2,8 @@
 publish: true
 title: Maimafu
 created: 2026-10-20T13:42:46.000Z
-modified: 2026-10-20T13:42:46.000Z
-published: 2026-10-20T13:42:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:14:42.023Z
+published: 2026-10-21T11:14:42.023Z
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
@@ -20,22 +16,24 @@ icon: book
 location:
   - -6.4979
   - 145.0523
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Papua New Guinea]]"
 ---
 
 # Maimafu
 
-Mountain village in the Eastern Highlands Province of [[Papua New Guinea]].
+Mountain village in the Eastern Highlands Province of [[Papua New Guinea]]. It is where the Peace Corps essay's moral turning point happens, when the village council offers to house America's homeless.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Peace Corps - The Great Adventure]] | Peace Corps | setting | Village council offers to house America's homeless. |
+| [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | Village council offers to house America's homeless. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
-
-Source: [[Peace Corps - The Great Adventure]] · [Readwise highlight](https://read.readwise.io/read/01m5crccf70td8z3hn9aggrk2d)
+Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5crccf70td8z3hn9aggrk2d)
 
 > As the plane buzzed back over the mountains, it was now just us and the villagers of Maimafu. My wife, Kerry, and I were assigned to this village of 800 people in the Eastern Highlands Province of Papua New Guinea.
 

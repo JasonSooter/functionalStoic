@@ -2,14 +2,27 @@
 publish: true
 title: Italy
 created: 2026-07-26T09:46:17.730Z
-modified: 2026-10-13T03:21:32.000Z
-published: 2026-10-13T03:21:32.000Z
-linter-yaml-title-alias: Italy
+modified: 2026-10-21T10:49:26.953Z
+published: 2026-10-21T10:49:26.953Z
+aliases:
+  - Italia
+books: []
+categories:
+  - "[[Places]]"
+color: purple
 date created: 2026-07-26T11:46:17+02:00
 date modified: 2026-07-26T11:56:36+02:00
+icon: book
+linter-yaml-title-alias: Italy
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Italy
+
+Italy is a country in southern Europe; this note also groups the literary places across the country that have no city or regional hub of their own, plus links to the Bologna, Florence, Rome and Sicily hubs.
 
 - [[Lake Garda]]
 - [[Savignano sul Rubicone]] — the (official) Rubicon; see [[Concepts/Rubicon|Rubicon]]
@@ -40,3 +53,26 @@ Italy's political system is a parliamentary republic, and its population is appr
 > Contents
 
 ## Content
+
+## Sub-places
+
+- [[Aosta]]
+- [[Aprica Pass]]
+- [[Capri]]
+- [[Castel Gandolfo]]
+- [[Como]]
+- [[Dolomites]]
+- [[Lazio]]
+- [[Milan]]
+- [[Naples]]
+- [[Pisa]]
+- [[Recanati]]
+- [[San Gimignano]]
+- [[Sanremo]]
+- [[Sorrento]]
+- [[South Tyrol]]
+- [[Stelvio Pass]]
+- [[Turin]]
+- [[Umbria]]
+- [[Venice]]
+- [[Vicenza]]

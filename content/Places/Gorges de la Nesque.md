@@ -1,42 +1,41 @@
 ---
 publish: true
-aliases:
-  - Nesque gorge
 title: Gorges de la Nesque
 created: 2026-10-20T13:40:55.000Z
-modified: 2026-10-20T13:40:55.000Z
-published: 2026-10-20T13:40:55.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:10:54.006Z
+published: 2026-10-21T11:10:54.006Z
+aliases:
+  - Nesque gorge
 books:
   - Mistletoe, Lavender
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 44.0672,5.3589
-geo_note: approximate (Monieux, at the head of the gorge; no gazetteer point for the gorge itself)
+geo_note: approximate (Monieux, at the head of the gorge; no gazetteer point for the
+  gorge itself)
 geo_source: GeoNames 2993279
 icon: newspaper
 location:
   - 44.0672
   - 5.3589
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Provence]]"
 ---
 
 # Gorges de la Nesque
 
-Limestone gorge of the Nesque between Monieux and Méthamis, Vaucluse, [[Provence]], France. See also [[Sault]].
+Limestone gorge of the Nesque between Monieux and Méthamis, Vaucluse, [[Provence]], France. It shows up as the route and scenery of a cycling post that climbs through it towards Monieux and [[Sault]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Mistletoe, Lavender | Mostly Bikes x Me | journey waypoint | The climbing route towards Monieux and Sault. |
+| [[Mistletoe, Lavender]] | Mostly Bikes x Me | journey waypoint | The climbing route towards Monieux and Sault. |
 
 ## Mistletoe, Lavender — Mostly Bikes x Me (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5crb5s8zpe0p1e33w0jahp2)
 
 > Rode up through the Gorges de la Nesque with a plan to grab lunch in the tiny commune of Monieux.

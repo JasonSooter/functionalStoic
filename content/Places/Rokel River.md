@@ -1,44 +1,43 @@
 ---
 publish: true
+title: Rokel River
+created: 2026-10-20T13:40:50.000Z
+modified: 2026-10-21T11:16:11.789Z
+published: 2026-10-21T11:16:11.789Z
 aliases:
   - Seli River
   - Rokel
-title: Rokel River
-created: 2026-10-20T13:40:50.000Z
-modified: 2026-10-20T22:15:21.000Z
-published: 2026-10-20T22:15:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Peace Corps - The Great Adventure]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 8.55,-12.8
-geo_note: approximate (the river article's own representative point; the text names no fishing spot)
+geo_note: approximate (the river article's own representative point; the text names
+  no fishing spot)
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 8.55
   - -12.8
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Sierra Leone]]"
 ---
 
 # Rokel River
 
-Largest river of [[Sierra Leone]], also called the Seli.
+Largest river of [[Sierra Leone]], also called the Seli, where a Peace Corps volunteer fishes in one story of Peace Corps: The Great Adventure.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Peace Corps - The Great Adventure]] | Peace Corps | setting | Where the home-made lures prove themselves. |
+| [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | Where the home-made lures prove themselves. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
-
-Source: [[Peace Corps - The Great Adventure]] · [Readwise highlight](https://read.readwise.io/read/01m5crb4dnxx658b5vp0565e8n)
+Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5crb4dnxx658b5vp0565e8n)
 
 > During the dry season, I spent the evenings fishing Sierra Leone's Rokel River with my host-country friends, the Conteh brothers-Moses, Bokarie, and Sanpha.
 

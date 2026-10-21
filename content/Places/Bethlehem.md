@@ -2,12 +2,8 @@
 publish: true
 title: Bethlehem
 created: 2026-10-20T04:32:44.000Z
-modified: 2026-10-20T22:30:53.000Z
-published: 2026-10-20T22:30:53.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:34:14.344Z
+published: 2026-10-21T10:34:14.344Z
 aliases: []
 books:
   - Which path would the three wise men have walked?
@@ -19,21 +15,23 @@ icon: video
 location:
   - 31.7044
   - 35.2064
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[West Bank]]"
 ---
 
 # Bethlehem
 
-City south of Jerusalem in the West Bank. See [[West Bank]].
+City south of Jerusalem in the [[West Bank]], which appears in an xkcd What If? video as the place the computed wise-men path briefly passes through.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Which path would the three wise men have walked? | xkcd's What If? | turning point | One version of the star-following path does pass through Bethlehem. |
+| [[Which Path Would the Three Wise Men Have Walked\|Which path would the three wise men have walked?]] | xkcd's What If? | turning point | One version of the star-following path does pass through Bethlehem. |
 
 ## Which path would the three wise men have walked? — xkcd's What If? (2026)
-
 Source: [Original](https://www.youtube.com/shorts/d5TD3r1nLqM) · [Readwise highlight](https://read.readwise.io/read/01m5bs75fdz0q5pj5k1znfag8s)
 
 > their path actually takes them through Bethlehem.

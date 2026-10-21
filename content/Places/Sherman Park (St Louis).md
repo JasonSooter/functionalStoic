@@ -2,12 +2,8 @@
 publish: true
 title: Sherman Park (St. Louis)
 created: 2026-10-20T13:52:45.000Z
-modified: 2026-10-21T01:43:10.000Z
-published: 2026-10-21T01:43:10.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:18:10.653Z
+published: 2026-10-21T11:18:10.653Z
 aliases: []
 books:
   - Why Cities Feel so Lonely Now.
@@ -20,18 +16,21 @@ icon: video
 location:
   - 38.6651
   - -90.2629
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[St Louis]]"
 ---
 
 # Sherman Park (St. Louis)
 
-Park north of [[Delmar Boulevard]], [[St Louis|St. Louis]], Missouri.
+Park north of [[Delmar Boulevard]] in [[St Louis|St. Louis]], Missouri, the neglected counterpart to [[Forest Park (St Louis)|Forest Park]] in a video on why cities feel lonely.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Why Cities Feel so Lonely Now. | Type Ashton | subject | The neglected park north of the divide. |
+| [[Why Cities Feel So Lonely Now.\|Why Cities Feel so Lonely Now.]] | Type Ashton | subject | The neglected park north of the divide. |
 
 ## Why Cities Feel so Lonely Now. — Type Ashton (2025)
 

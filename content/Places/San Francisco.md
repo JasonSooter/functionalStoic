@@ -2,27 +2,26 @@
 publish: true
 title: San Francisco
 created: 2026-10-20T13:47:58.000Z
-modified: 2026-10-21T04:46:31.000Z
-published: 2026-10-21T04:46:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:26:38.686Z
+published: 2026-10-21T10:26:38.686Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-within: "[[California (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[California]]"
 ---
 
 # San Francisco
 
-City in [[California (Literary)|California]], USA. Hub for literary places in the city.
+City in [[California]], USA. Hub for literary places in the city.
 
 ## Sub-places
-
 - [[Davies Symphony Hall]]
 - [[de Young Museum]]
 - [[Embarcadero (San Francisco)]]

@@ -2,12 +2,8 @@
 publish: true
 title: Brantes
 created: 2026-10-20T01:34:25.000Z
-modified: 2026-10-20T07:22:04.000Z
-published: 2026-10-20T07:22:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:25:24.689Z
+published: 2026-10-21T10:25:24.689Z
 aliases: []
 books:
   - Savoillan & Brantes
@@ -19,21 +15,23 @@ icon: newspaper
 location:
   - 44.1942
   - 5.3342
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Provence]]"
 ---
 
 # Brantes
 
-Hilltop village on the north side of [[Mont Ventoux]], France. See [[Provence]].
+Hilltop village on the north side of [[Mont Ventoux]], France, in [[Provence]]. It is the subject of a short Mostly Bikes photo post by a rider who had always passed it on the way to a bakery.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Savoillan & Brantes | Mostly Bikes x Me | subject | A village ridden past a dozen times on the way to a bakery in Savoillan. |
+| [[Savoillan & Brantes]] | Mostly Bikes x Me | subject | A village ridden past a dozen times on the way to a bakery in Savoillan. |
 
 ## Savoillan & Brantes — Mostly Bikes x Me (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bexx8kptwtg2e75b6tt7s9)
 
 > I've ridden past Brantes at least a dozen times, but never bothered to take the turn because I'm always on my way to Savoillan and its shockingly good bakery.

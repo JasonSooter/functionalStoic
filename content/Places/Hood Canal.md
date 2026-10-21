@@ -2,12 +2,8 @@
 publish: true
 title: Hood Canal
 created: 2026-10-21T05:07:12.000Z
-modified: 2026-10-21T05:07:12.000Z
-published: 2026-10-21T05:07:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:09:57.003Z
+published: 2026-10-21T11:09:57.003Z
 aliases: []
 books:
   - The cost of growing up online
@@ -21,21 +17,23 @@ icon: newspaper
 location:
   - 47.8
   - -122.7
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington (state)]]"
 ---
 
 # Hood Canal
 
-Cabin / waterway in Washington State, USA. Part of [[Washington (state)]].
+Waterway in [[Washington (state)|Washington State]]. It is where Bill Gates takes his annual Think Week alone in a cabin, as described in his Gates Notes article.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The cost of growing up online | Gates Notes | setting | Gates describes his annual Think Week, seven days alone in a cabin reading, thinking and writing, seeing only the person who delivered meals and not checking email. |
+| [[The Cost of Growing Up Online]] | Gates Notes | setting | Gates's annual Think Week: seven days alone in a cabin reading and writing, with no email. |
 
 ## The cost of growing up online — Gates Notes (2024)
-
 Source: [Original](https://www.gatesnotes.com/The-Anxious-Generation) · [Readwise highlight](https://read.readwise.io/read/01m5edgkz317xm2ze44xjxbjh0)
 
 > when I would isolate myself in a cabin on Washington’s Hood Canal with nothing but a big bag of books and technical papers.

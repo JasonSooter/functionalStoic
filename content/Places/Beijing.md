@@ -2,12 +2,8 @@
 publish: true
 title: Beijing
 created: 2026-10-20T19:38:53.000Z
-modified: 2026-10-21T02:07:14.000Z
-published: 2026-10-21T02:07:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:49:15.306Z
+published: 2026-10-21T10:49:15.306Z
 aliases: []
 books:
   - Breakneck
@@ -21,28 +17,30 @@ icon: book
 location:
   - 39.9075
   - 116.3972
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[China]]"
 ---
 
 # Beijing
 
-Capital of [[China]].
+Capital of [[China]], which appears in the reading as Dan Wang's dreary, controlling seat of the engineering state and as Hannah Ritchie's opening case of an air-pollution clean-up.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Breakneck | Dan Wang | subject | Dreary, controlling capital that stands for the engineering state. |
+| [[Breakneck]] | Dan Wang | subject | Dreary, controlling capital that stands for the engineering state. |
 | [[Not the End of the World]] | Hannah Ritchie | subject | The chapter opens on Beijing's 'airpocalypse'. |
 
 ## Sub-places
-
 - [[Big Air Shougang]]
 - [[Sitong Bridge]]
+- [[Tianyuan Cave]]
 
 ## Breakneck — Dan Wang (2025)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5dcn8d6hjkkfgjjap36cs3s)
+Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dcn8d6hjkkfgjjap36cs3s)
 
 > Beijing enthralls not because it is nice but because it isn’t. By most measures, life in Beijing is dreary.
 
@@ -51,8 +49,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5dcn8d6hjkkfgjjap3
 - **Why it matters:** It sets up the book's picture of the engineering state and its urge to control the future.
 
 ## Not the End of the World — Hannah Ritchie (2024)
-
-Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwise.io/read/01m5e31k77fd3f8z7r566sw52x)
+Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5e31k77fd3f8z7r566sw52x)
 
 > For years, Beijing was near the top of the list for ‘most polluted city in the world’. It had become the poster child for global air pollution, especially in the Western media.
 

@@ -2,27 +2,37 @@
 publish: true
 title: Norway
 created: 2025-02-24T04:31:10.411Z
-modified: 2026-07-17T16:08:35.507Z
-published: 2026-07-17T16:08:35.507Z
-tags:
-  - places
-linter-yaml-title-alias: Norway
-date created: 2025-02-23T21:31:10-07:00
-date modified: 2026-02-21T09:56:46-07:00
+modified: 2026-10-21T10:32:34.427Z
+published: 2026-10-21T10:32:34.427Z
+aliases:
+  - Norway (literary places)
+books: []
 categories:
   - "[[Places]]"
-coordinates: 59.9139,10.7522
 color: blue
-icon: flag
-locations:
-  - name: Oslo
-    coordinates: 59.9139,10.7522
-  - name: Bergen
-    coordinates: 60.3913,5.3221
+coordinates: 59.9139,10.7522
+date created: 2025-02-23T21:31:10-07:00
+date modified: 2026-02-21T09:56:46-07:00
 flag: 🇳🇴
+icon: flag
+linter-yaml-title-alias: Norway
+location:
+  - 59.9139
+  - 10.7522
+locations:
+  - coordinates: 59.9139,10.7522
+    name: Oslo
+  - coordinates: 60.3913,5.3221
+    name: Bergen
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Norway
+
+Norway is a country in northern Europe. It groups the places below that come up in the reading.
 
 ## Summary
 
@@ -48,7 +58,14 @@ Overall, Norway is characterized by its commitment to sustainability, equality, 
 
 > [!question] Does Bergen, Norway have good public transportation?
 > Yes, Bergen, Norway has a well-developed public transportation system. The city offers various options including buses, light rail (Bybanen), and ferries. The light rail system is particularly popular and connects the city center with the airport and other key areas. Buses cover a wide network throughout the city and surrounding regions. Additionally, Bergen's public transportation is known for being reliable and efficient, making it easy for residents and visitors to navigate the city.
+> 
 
 ## Content
 
 ## Bergen
+
+## Sub-places
+
+- [[Hammerfest]]
+- [[Longyearbyen]]
+- [[Rogfast]]

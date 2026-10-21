@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - NYC
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-21T04:45:17.000Z
-published: 2026-10-21T04:45:17.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:17:09.093Z
+published: 2026-10-21T11:17:09.093Z
+aliases:
+  - NYC
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
   - Can Zohran Mamdani Really Freeze the Rent?
@@ -23,25 +19,29 @@ icon: newspaper
 location:
   - 40.7128
   - -74.0061
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # New York City
 
-See the Travel note [[New York]]. Hub for literary places in the city.
+Largest city in the USA (see the Travel note [[New York]]), which shows up in the reading as Kyla Scanlon's American counter-example to decline and as the subject of two pieces on Zohran Mamdani's housing and affordability plans.
 
 ## At a glance
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] | Kyla Scanlon | setting | Visible, maintained infrastructure and a 'how do we get to yes' attitude. |
-| Can Zohran Mamdani Really Freeze the Rent? | Rachel Holliday Smith | subject | Whether a mayor can freeze rents on a million stabilized apartments. |
-| How Zohran Mamdani’s Big Goals Could Transform Life in New York City | RTBC Staff | subject | After Mamdani won the 2025 Democratic mayoral primary, the piece lists his goals: fare-free buses, city-owned nonprofit supermarkets, free child care for ages six weeks to five, and 200,000 city-built affordable… |
+| [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go\|30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?]] | Kyla Scanlon | setting | Visible, maintained infrastructure and a 'how do we get to yes' attitude. |
+| [[Can Zohran Mamdani Really Freeze the Rent\|Can Zohran Mamdani Really Freeze the Rent?]] | Rachel Holliday Smith | subject | Whether a mayor can freeze rents on a million stabilized apartments. |
+| [[How Zohran Mamdani’s Big Goals Could Transform Life in New York City]] | RTBC Staff | subject | After the 2025 primary win, his goals: fare-free buses, public supermarkets, free child care, 200,000 new homes. |
 
 ## Sub-places
-
 - [[40 Wall Street]]
 - [[420 East 51st Street]]
 - [[432 Park Avenue]]
+- [[57 Great Jones Street]]
 - [[Brooklyn]]
 - [[Central Park]]
 - [[Chrysler Building]]
@@ -49,12 +49,14 @@ See the Travel note [[New York]]. Hub for literary places in the city.
 - [[Cooper Union]]
 - [[East River]]
 - [[Hotel Chelsea]]
+- [[Library Way]]
 - [[Madison Square Garden (1890)]]
 - [[Myka]]
+- [[New York Public Library Main Branch]]
 - [[Times Square]]
+- [[Topos Too]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
-
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5e0fq0803z77naxg4e2r)
 
 > Maybe that’s because it’s older, or because the architecture forces you to look up. History lives in the buildings here.
@@ -64,7 +66,6 @@ Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · 
 - **Why it matters:** It is the essay's American counter-example to decline.
 
 ## Can Zohran Mamdani Really Freeze the Rent? — Rachel Holliday Smith (2025)
-
 Source: [Original](https://www.thecity.nyc/2025/09/02/rent-freeze-mamdani-affordable-housing-stabilized-apartments/) · [Readwise highlight](https://read.readwise.io/read/01m5d21c0n7vs8cf9r1r2keq3w)
 
 > But does the mayor of New York City actually have the power to stop rent increases in one of the most expensive cities in the world?
@@ -74,7 +75,6 @@ Source: [Original](https://www.thecity.nyc/2025/09/02/rent-freeze-mamdani-afford
 - **Why it matters:** The whole city is the subject; no single neighbourhood or building does work in the piece.
 
 ## How Zohran Mamdani’s Big Goals Could Transform Life in New York City — RTBC Staff (2025)
-
 Source: [Original](https://reasonstobecheerful.world/zohran-mamdani-goals-learn-more/) · [Readwise highlight](https://read.readwise.io/read/01m5dr1q25k6n3eh6gq9t5cqrp)
 
 > New York would become the biggest city in the U.S. — and perhaps the world — to eliminate bus fares entirely.

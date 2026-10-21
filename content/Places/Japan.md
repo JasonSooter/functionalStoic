@@ -2,18 +2,18 @@
 publish: true
 title: Japan
 created: 2026-10-20T07:35:02.000Z
-modified: 2026-10-21T02:14:10.000Z
-published: 2026-10-21T02:14:10.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:07:37.957Z
+published: 2026-10-21T11:07:37.957Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Japan
@@ -21,10 +21,12 @@ icon: book
 Island country in East Asia. Hub for literary places in the country.
 
 ## Sub-places
-
+- [[Dewa Sanzan]]
 - [[Fukushima Daiichi Nuclear Power Plant]]
 - [[Group Home Ingleside (Hunchback)]]
 - [[Ise Grand Shrine]]
+- [[Kii Peninsula]]
 - [[Lake Akan]]
 - [[Mount Fuji]]
+- [[Tōkaidō]]
 - [[Tokyo]]

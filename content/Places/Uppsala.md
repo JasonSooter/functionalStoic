@@ -2,19 +2,19 @@
 publish: true
 title: Uppsala
 created: 2026-10-20T22:56:46.000Z
-modified: 2026-10-20T22:56:46.000Z
-published: 2026-10-20T22:56:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:32:06.587Z
+published: 2026-10-21T10:32:06.587Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-within: "[[Sweden (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Sweden]]"
 ---
 
 # Uppsala
@@ -22,6 +22,5 @@ within: "[[Sweden (Literary)]]"
 University city in central Sweden.
 
 ## Sub-places
-
 - [[Eriksberg (Uppsala)]]
 - [[Vaksala torg]]

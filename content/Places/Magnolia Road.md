@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Magnolia
 title: Magnolia Road
 created: 2026-10-20T22:56:50.000Z
-modified: 2026-10-20T22:56:50.000Z
-published: 2026-10-20T22:56:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:22:42.071Z
+published: 2026-10-21T11:22:42.071Z
+aliases:
+  - Magnolia
 books:
   - Boulder dirt stuff
 categories:
@@ -22,21 +18,23 @@ icon: newspaper
 location:
   - 39.9845
   - -105.4044
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
 # Magnolia Road
 
-Dirt mountain road west of Boulder, [[Colorado]].
+Dirt mountain road west of Boulder, [[Colorado]]. It is the wet descent that ends a Mostly Bikes x Me ride back toward town.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Boulder dirt stuff | Mostly Bikes x Me | journey waypoint | The wet descent back toward Boulder after lunch. |
+| [[Boulder Dirt Stuff\|Boulder dirt stuff]] | Mostly Bikes x Me | journey waypoint | The wet descent back toward Boulder after lunch. |
 
 ## Boulder dirt stuff — Mostly Bikes x Me (2025)
-
 Source: [Original](https://funkadelic.net/pages/14831990103.html) · [Readwise highlight](https://read.readwise.io/read/01m5dqwzn2fhc5bx4xq22sg3bc)
 
 > Descending Magnolia in the damp isn't my idea of a good time, but we made it back to town only mildly damp.

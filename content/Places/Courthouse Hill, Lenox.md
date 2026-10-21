@@ -1,44 +1,44 @@
 ---
 publish: true
+title: Courthouse Hill, Lenox
+created: 2026-10-19T14:06:05.000Z
+modified: 2026-10-21T10:52:28.961Z
+published: 2026-10-21T10:52:28.961Z
 aliases:
   - Courthouse Hill
   - Corbury road elm (Ethan Frome)
   - School House Hill (Ethan Frome)
-title: Courthouse Hill, Lenox
-created: 2026-10-19T14:06:05.000Z
-modified: 2026-10-19T19:18:19.000Z
-published: 2026-10-19T19:18:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Ethan Frome]]"
 categories:
   - "[[Places]]"
 color: purple
-geo_note: Pinned at the old Berkshire County Courthouse (now Lenox Library, 18 Main St), which gives the hill its name; the exact 1904 crash spot is not documented here
+geo_note: Pinned at the old Berkshire County Courthouse (now Lenox Library, 18 Main
+  St), which gives the hill its name; the exact 1904 crash spot is not documented
+  here
 icon: book
 location:
   - 42.3575
   - -73.285
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Lenox]]"
 coordinates: 42.3575,-73.285
 ---
 
 # Courthouse Hill, Lenox
 
-The slope of Main Street by the old Berkshire County Courthouse (now the Lenox Library) in [[Lenox]], Massachusetts: the real sledding hill behind the fatal coast in _Ethan Frome_.
+Slope of Main Street by the old Berkshire County Courthouse in [[Lenox]], Massachusetts, the likely real hill behind the fatal sled crash in Ethan Frome.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Ethan Frome]] | Edith Wharton | turning point | Real model for the coast down to "the big elm" where Ethan and Mattie try to die together. |
 
 ## Ethan Frome — Edith Wharton (1911)
-
-Source: [[Ethan Frome]] · [Readwise highlight](https://read.readwise.io/read/01m5a7ppyd5955er40zqqqqn8w)
+Source: [[Ethan Frome]] · [Original](https://openlibrary.org/works/OL98501W) · [Readwise highlight](https://read.readwise.io/read/01m5a7ppyd5955er40zqqqqn8w)
 
 > The big tree loomed bigger and closer, and as they bore down on it he thought: “It’s waiting for us: it seems to know.”
 

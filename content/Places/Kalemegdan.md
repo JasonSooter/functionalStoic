@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Kalemegdan
+created: 2026-10-20T01:28:40.000Z
+modified: 2026-10-21T11:11:03.507Z
+published: 2026-10-21T11:11:03.507Z
 aliases:
   - Belgrade Fortress
   - Kalemegdan Park
-title: Kalemegdan
-created: 2026-10-20T01:28:40.000Z
-modified: 2026-10-20T01:28:40.000Z
-published: 2026-10-20T01:28:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -21,22 +17,24 @@ icon: book
 location:
   - 44.8233
   - 20.4503
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Belgrade]]"
 ---
 
 # Kalemegdan
 
-The park around Belgrade Fortress above the confluence of the Sava and the Danube, [[Belgrade]], Serbia.
+Park around Belgrade Fortress above the confluence of the Sava and the Danube in [[Belgrade]], Serbia, a calm stop in Bill Bryson's Neither Here Nor There.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Neither Here Nor There | Bill Bryson | setting | Chess players, heroes' statues and a view of two rivers becoming one. |
+| [[Neither Here Nor There]] | Bill Bryson | setting | Chess players, heroes' statues and a view of two rivers becoming one. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5bekgcnnhe6sy9hdkventvt)
+Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bekgcnnhe6sy9hdkventvt)
 
 > I strolled through the main shopping streets to a central city park called Kalemegdan, built around an old fortress and neatly arrayed with trees and benches and statues of Yugoslavian, and particularly Serbian, heroes.
 

@@ -2,12 +2,8 @@
 publish: true
 title: Kyazo
 created: 2026-10-21T05:06:37.000Z
-modified: 2026-10-21T05:06:37.000Z
-published: 2026-10-21T05:06:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:12:12.719Z
+published: 2026-10-21T11:12:12.719Z
 aliases: []
 books:
   - Nimble Electric Trucks Are Supercharging African Trade
@@ -16,21 +12,23 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: newspaper
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rwanda]]"
 ---
 
 # Kyazo
 
-Agricultural area (village/district) in Western Province, Rwanda. Part of [[Rwanda]]. ⚠️ Not yet pinned: no standard-source coordinate found.
+Agricultural area in Western Province, [[Rwanda]], where a chili farmer's story shows what electric trucks changed for African trade.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Nimble Electric Trucks Are Supercharging African Trade | Geetanjali Krishna & Sally Howard | setting | Jean Paul grows chili peppers in Kyazo. |
 
 ## Nimble Electric Trucks Are Supercharging African Trade — Geetanjali Krishna & Sally Howard (2024)
-
 Source: [Original](https://reasonstobecheerful.world/nimble-electric-trucks-are-supercharging-african-trade/) · [Readwise highlight](https://read.readwise.io/read/01m5edg5bkq82fjqx1wm76gn81)
 
 > In Kyazo, a fertile agricultural area in Rwanda’s Western Province, Jean Paul grows chili peppers.

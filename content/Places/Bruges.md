@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Brugge
 title: Bruges
 created: 2026-10-19T14:13:59.000Z
-modified: 2026-10-21T02:13:40.000Z
-published: 2026-10-21T02:13:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:24:25.971Z
+published: 2026-10-21T10:24:25.971Z
+aliases:
+  - Brugge
 books:
   - Neither Here Nor There
 categories:
@@ -20,26 +16,27 @@ icon: book
 location:
   - 51.2089
   - 3.2242
-within: "[[Belgium (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Belgium]]"
 ---
 
 # Bruges
 
-Medieval canal city in West Flanders, Belgium; see [[Belgium (Literary)]].
+Medieval canal city in West Flanders, [[Belgium]]; in Neither Here Nor There Bill Bryson holds it up as proof that being forgotten preserved a city.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Neither Here Nor There | Bill Bryson | subject | "So deeply, endlessly gorgeous": a city saved by five centuries of being forgotten. |
+| [[Neither Here Nor There]] | Bill Bryson | subject | "So deeply, endlessly gorgeous": a city saved by five centuries of being forgotten. |
 
 ## Sub-places
-
 - [[Moerkerkestraat]]
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
-Source: [Readwise highlight](https://read.readwise.io/read/01m5a8383n4vqh396sbfqt46v0)
+Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5a8383n4vqh396sbfqt46v0)
 
 > Everything about Bruges was perfect—its cobbled streets, bottle-green canals, steep-roofed medieval houses, market squares, slumbering parks, everything. No city has been better favored by decline.
 

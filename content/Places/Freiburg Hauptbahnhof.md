@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Freiburg Hauptbahnhof
+created: 2026-10-20T01:37:06.000Z
+modified: 2026-10-21T11:08:59.529Z
+published: 2026-10-21T11:08:59.529Z
 aliases:
   - Freiburg main station
   - Freiburg (Breisgau) Hbf
-title: Freiburg Hauptbahnhof
-created: 2026-10-20T01:37:06.000Z
-modified: 2026-10-20T22:37:33.000Z
-published: 2026-10-20T22:37:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "Destroyed City, Broken Trams: When Freiburg Lay in Ruins"
   - "Spitzengespräch: Stadt Freiburg fordert verlässlichen Zeitplan für Rheintalbahn-Bauarbeiten"
@@ -22,22 +18,25 @@ icon: newspaper
 location:
   - 47.9978
   - 7.8419
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Freiburg (Literary)]]"
 ---
 
 # Freiburg Hauptbahnhof
 
-Freiburg im Breisgau's main railway station, Germany. See [[Freiburg (Literary)]].
+Main railway station of [[Freiburg (Literary)|Freiburg]] im Breisgau, Germany, which shows up in the reading as a spot hit in the 1944 air raid and as the focus of the Rheintalbahn closure dispute.
 
 ## At a glance
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Destroyed City, Broken Trams: When Freiburg Lay in Ruins | VAG Freiburg | turning point | A tram and its trailer were destroyed in front of the station in the raid of 27 November 1944. |
-| Spitzengespräch: Stadt Freiburg fordert verlässlichen Zeitplan für Rheintalbahn-Bauarbeiten | Matthias Joers | subject | The city fights a years-long closure of the station for the Rheintalbahn works. |
+| [[Destroyed City, Broken Trams - When Freiburg Lay in Ruins\|Destroyed City, Broken Trams: When Freiburg Lay in Ruins]] | VAG Freiburg | turning point | A tram and its trailer were destroyed in front of the station in the raid of 27 November 1944. |
+| [[Spitzengespräch - Stadt Freiburg Fordert Verlässlichen Zeitplan Für Rheintalbahn-Bauarbeiten\|Spitzengespräch: Stadt Freiburg fordert verlässlichen Zeitplan für Rheintalbahn-Bauarbeiten]] | Matthias Joers | subject | The city fights a years-long closure of the station for the Rheintalbahn works. |
 
 ## Destroyed City, Broken Trams: When Freiburg Lay in Ruins — VAG Freiburg (2026)
-
 Source: [Original](https://blog.vag-freiburg.de/zerstoerte-stadt-kaputte-strassenbahnen-als-freiburg-in-truemmern-lag/) · [Readwise highlight](https://read.readwise.io/read/01m5beynnx3xeg7qwexyn43q1f)
 
 > Tram car 53 and trailer car 110 also burned in front of the municipal theatre, and tram car 44 and trailer car 107 were destroyed in front of the main station.
@@ -47,7 +46,6 @@ Source: [Original](https://blog.vag-freiburg.de/zerstoerte-stadt-kaputte-strasse
 - **Why it matters:** Minor: a single sentence, but one of the few exact locations the article gives for the night's losses.
 
 ## Spitzengespräch: Stadt Freiburg fordert verlässlichen Zeitplan für Rheintalbahn-Bauarbeiten — Matthias Joers (2026)
-
 Source: [Original](https://www.freiburger-wochenbericht.de/spitzengespraech-stadt-freiburg-fordert-verlaesslichen-zeitplan-fuer-rheintalbahn-bauarbeiten/) · [Readwise highlight](https://read.readwise.io/read/01m5c4q4anb3v5xt16bn8bmcgc)
 
 > Die Deutsche Bahn stellte indes in dem Gespräch klar, dass der Freiburger Hauptbahnhof und die Region nicht vom Schienenverkehr abgeschnitten werden sollen.

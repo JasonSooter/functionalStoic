@@ -2,12 +2,8 @@
 publish: true
 title: Nor Loch
 created: 2026-10-21T02:07:36.000Z
-modified: 2026-10-21T02:07:36.000Z
-published: 2026-10-21T02:07:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:18:13.021Z
+published: 2026-10-21T11:18:13.021Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -20,22 +16,24 @@ icon: book
 location:
   - 55.95
   - -3.2
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Edinburgh]]"
 ---
 
 # Nor Loch
 
-Site in [[Edinburgh]], United Kingdom.
+Former loch in [[Edinburgh]], United Kingdom, which Hannah Ritchie's Not the End of the World cites as a historical example of urban air pollution.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | subject | The text describes Nor' Loch as a central spot used as the city's drainage site and a collection point for dead bodies. |
 
 ## Not the End of the World — Hannah Ritchie (2024)
-
-Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwise.io/read/01m5e31aq0vafsdg2cw5vpntm6)
+Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5e31aq0vafsdg2cw5vpntm6)
 
 > A few centuries ago, one of Edinburgh’s central spots – Nor’ Loch – was the drainage site for the city’s waste, and even the collection point for dead bodies. A nauseating stench would fill the air.
 

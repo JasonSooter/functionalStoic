@@ -2,12 +2,8 @@
 publish: true
 title: Copenhagen City Hall
 created: 2026-10-21T05:06:46.000Z
-modified: 2026-10-21T05:06:46.000Z
-published: 2026-10-21T05:06:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:52:11.977Z
+published: 2026-10-21T10:52:11.977Z
 aliases: []
 books:
   - The Ultimate Guide to Danish New Year's
@@ -20,21 +16,23 @@ icon: newspaper
 location:
   - 55.6753
   - 12.5703
-within: "[[Copenhagen (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Copenhagen]]"
 ---
 
 # Copenhagen City Hall
 
-Building in Copenhagen, Denmark. Part of [[Copenhagen (Literary)]].
+Town hall in [[Copenhagen]], Denmark, whose bells ring in the Danish New Year, as described in a newsletter on Danish New Year's traditions.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Ultimate Guide to Danish New Year's | Expat in Denmark | subject | The newsletter devotes a short section to the town hall bells that chime twelve times at midnight on New Year's Eve. |
 
 ## The Ultimate Guide to Danish New Year's — Expat in Denmark (2024)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5edgbwt49tcteeswhrd6g9m)
 
 > When the clock strikes midnight, the town hall bells of the Danish capital will sound, marking the beginning of the new year.

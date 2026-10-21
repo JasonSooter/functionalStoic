@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Base sous-marine de Bordeaux
 title: Bordeaux Submarine Base
 created: 2026-10-20T19:36:41.000Z
-modified: 2026-10-21T04:20:58.000Z
-published: 2026-10-21T04:20:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:25:01.448Z
+published: 2026-10-21T10:25:01.448Z
+aliases:
+  - Base sous-marine de Bordeaux
 books:
   - One City’s Race to ‘Solarize Everything We Possibly Can’
 categories:
@@ -21,21 +17,23 @@ icon: newspaper
 location:
   - 44.87
   - -0.5587
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bordeaux]]"
 ---
 
 # Bordeaux Submarine Base
 
-Second World War U-boat base in the north of [[Bordeaux]], France.
+Second World War U-boat base in the north of [[Bordeaux]], France. Its roof now carries a 3.4 MW solar plant, the flagship of the city's solar drive and a case of heritage against energy in one article.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| One City’s Race to ‘Solarize Everything We Possibly Can’ | Peter Yeung | subject | A wartime bunker turned France's largest urban rooftop solar plant. |
+| [[One City’s Race to ‘Solarize Everything We Possibly Can’]] | Peter Yeung | subject | A wartime bunker turned France's largest urban rooftop solar plant. |
 
 ## One City’s Race to ‘Solarize Everything We Possibly Can’ — Peter Yeung (2025)
-
 Source: [Original](https://reasonstobecheerful.world/bordeaux-france-solar-city-race/) · [Readwise highlight](https://read.readwise.io/read/01m5dckqwgbakqk70g0dfcpw3k)
 
 > Bordeaux’s submarine base was once a place of battle. Built by the Germans during the Second World War, the hulking concrete edifice in the north of the wine-loving French city was used to launch attacks against the Allied Forces.

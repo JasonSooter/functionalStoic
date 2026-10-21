@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Brooks England factory
+created: 2026-10-20T10:42:41.000Z
+modified: 2026-10-21T10:27:42.933Z
+published: 2026-10-21T10:27:42.933Z
 aliases:
   - Brooks saddle factory
   - Smethwick
-title: Brooks England factory
-created: 2026-10-20T10:42:41.000Z
-modified: 2026-10-20T10:42:41.000Z
-published: 2026-10-20T10:42:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
 categories:
@@ -23,21 +19,23 @@ icon: book
 location:
   - 52.4927
   - -1.9674
-within: "[[England (Literary)]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[England]]"
 ---
 
 # Brooks England factory
 
-Leather-saddle factory in Smethwick, near Birmingham, West Midlands, England.
+Leather-saddle factory in Smethwick, near Birmingham, West Midlands, [[England]]; Robert Penn tours it in It's All About the Bike and gets the saddle for his bike there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] | Robert Penn | setting | Leather saddles cut, moulded and riveted by hand. |
+| [[It's All About the Bike - In Pursuit of Happiness on Two Wheels\|It's All About the Bike]] | Robert Penn | setting | Leather saddles cut, moulded and riveted by hand. |
 
 ## It's All About the Bike — Robert Penn (2010)
-
 Source: [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Readwise highlight](https://read.readwise.io/read/01m5ce6hbf9wttcqkdc2140bdn)
 
 > The Brooks factory is down a side street in Smethwick, near the Birmingham Canal Navigations.

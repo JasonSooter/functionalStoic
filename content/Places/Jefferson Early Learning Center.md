@@ -2,12 +2,8 @@
 publish: true
 title: Jefferson Early Learning Center
 created: 2026-10-21T04:46:20.000Z
-modified: 2026-10-21T04:46:20.000Z
-published: 2026-10-21T04:46:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:10:33.797Z
+published: 2026-10-21T11:10:33.797Z
 aliases: []
 books:
   - Why a Texas School Let Its Lawns Grow Wild
@@ -21,21 +17,23 @@ icon: newspaper
 location:
   - 29.7029
   - -95.6324
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Texas]]"
 ---
 
 # Jefferson Early Learning Center
 
-School / campus in Alief ISD, west Houston, Texas, USA. Part of [[Texas]].
+Preschool campus in Alief ISD, west Houston, [[Texas]], whose wild prairie grounds are the subject of an article on a school that let its lawns grow.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Why a Texas School Let Its Lawns Grow Wild | Jackie Mader | subject | The preschool opened in 2022 on a busy Houston intersection with nearly 20 acres restored to native prairie and wetlands. |
+| Why a Texas School Let Its Lawns Grow Wild | Jackie Mader | subject | Preschool opened in 2022 in west Houston with nearly 20 acres restored to native prairie and wetlands. |
 
 ## Why a Texas School Let Its Lawns Grow Wild — Jackie Mader (2025)
-
 Source: [Original](https://reasonstobecheerful.world/why-a-texas-school-let-its-lawns-grow-wild/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqt3mf8f1cc157pbjk5d8)
 
 > When Jefferson Early Learning Center first opened on the corner of a busy intersection in Houston’s west side in 2022, school officials started receiving calls from irritated residents.

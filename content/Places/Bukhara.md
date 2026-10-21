@@ -2,12 +2,8 @@
 publish: true
 title: Bukhara
 created: 2026-10-20T04:33:47.000Z
-modified: 2026-10-20T04:33:47.000Z
-published: 2026-10-20T04:33:47.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:23:45.961Z
+published: 2026-10-21T10:23:45.961Z
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
@@ -19,25 +15,26 @@ icon: book
 location:
   - 39.7667
   - 64.4231
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Uzbekistan]]"
 ---
 
 # Bukhara
 
-Silk Road city in Uzbekistan. See [[Uzbekistan]].
+Silk Road city in [[Uzbekistan]]; the setting of a Peace Corps volunteer's term of service in Peace Corps: The Great Adventure.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Peace Corps - The Great Adventure]] | Peace Corps | setting | A volunteer's term of service in an ancient city of mosques, weddings and a gift of a doppa. |
+| [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | A volunteer's term of service in an ancient city of mosques, weddings and a gift of a doppa. |
 
 ## Sub-places
-
 - [[Ark of Bukhara]]
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
-
 Source: [[Peace Corps - The Great Adventure]] · [Readwise highlight](https://read.readwise.io/read/01m5bs7pye5v96926s226pfj0b)
 
 > I was fortunate to be sent to lovely old Bukhara to spend my term of service.

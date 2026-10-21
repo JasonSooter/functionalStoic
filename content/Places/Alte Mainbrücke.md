@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Old Main Bridge
 title: Alte Mainbrücke
 created: 2026-10-20T10:43:12.000Z
-modified: 2026-10-20T22:27:40.000Z
-published: 2026-10-20T22:27:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:33:22.396Z
+published: 2026-10-21T10:33:22.396Z
+aliases:
+  - Old Main Bridge
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
 categories:
@@ -21,21 +17,23 @@ icon: video
 location:
   - 49.7928
   - 9.9258
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bavaria]]"
 ---
 
 # Alte Mainbrücke
 
-Old stone bridge over the Main in Würzburg, [[Bavaria]], Germany.
+Old stone bridge over the Main in Würzburg, [[Bavaria]], Germany, which closes the Würzburg stop in DW Travel's video on lesser-known German cities.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | journey waypoint | Evening wine on the bridge, with the fortress across the river. |
 
 ## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
-
 Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Original](https://www.youtube.com/watch?v=9AbxJrqpPqQ) · [Readwise highlight](https://read.readwise.io/read/01m5ce90vd1dnyqypsqwg4p3mt)
 
 > Then it's on to the Old Main Bridge. From here, you have a beautiful view of the Marienberg Fortress across the river.

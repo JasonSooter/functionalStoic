@@ -1,25 +1,25 @@
 ---
 publish: true
-aliases:
-  - Roma
 title: Rome
 created: 2026-10-19T22:30:51.000Z
-modified: 2026-10-21T05:07:26.000Z
-published: 2026-10-21T05:07:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T10:23:46.937Z
+published: 2026-10-21T10:23:46.937Z
+aliases:
+  - Roma
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Rome
 
-Capital of Italy, with Vatican City inside it; see also [[Italy (Literary)]]. Hub for literary places in the city.
+Capital of Italy, with Vatican City inside it; see also [[Italy]]. Hub for literary places in the city.
 
 ## Sub-places
 

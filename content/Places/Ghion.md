@@ -2,12 +2,8 @@
 publish: true
 title: Ghion
 created: 2026-10-21T02:07:00.000Z
-modified: 2026-10-21T02:07:00.000Z
-published: 2026-10-21T02:07:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-21T11:10:08.848Z
+published: 2026-10-21T11:10:08.848Z
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
@@ -16,28 +12,31 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 8.5333,37.9667
-geo_note: "best-guess: Single GeoNames alternate-name match plus bus-to-capital and highland clues; elevation is slightly off, so best-guess."
+geo_note: "best-guess: Single GeoNames alternate-name match plus bus-to-capital and\
+  \ highland clues; elevation is slightly off, so best-guess."
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 8.5333
   - 37.9667
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Waliso]]"
 ---
 
 # Ghion
 
-The place as Peace Corps: The Great Adventure describes it; pinned at Waliso (Ghion), Southwest Shewa Zone, Oromia, Ethiopia (⚠️ best-guess).
+Highland village in Ethiopia, likely the real Waliso (Ghion) behind the account of a woman Peace Corps volunteer who teaches English there and finally feels at home.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Peace Corps - The Great Adventure]] | Peace Corps | setting | A woman volunteer describes teaching English in the highland village of Ghion in Ethiopia. |
+| [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | A woman volunteer describes teaching English in the highland village of Ghion in Ethiopia. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (1997)
-
-Source: [[Peace Corps - The Great Adventure]] · [Readwise highlight](https://read.readwise.io/read/01m5e33m9twvpvsda26wzx1ra7)
+Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5e33m9twvpvsda26wzx1ra7)
 
 > And thanks to months of language training, I arrived in the highland village of Ghion armed with a great deal of Amharic, Ethiopia's national language
 
