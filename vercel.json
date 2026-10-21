@@ -64,6 +64,11 @@
       "permanent": true
     },
     {
+      "source": "/bookshelf/places/:path*",
+      "destination": "/places/:path*",
+      "permanent": true
+    },
+    {
       "source": "/urban-planning/trains",
       "destination": "/infrastructure/trains",
       "permanent": true
