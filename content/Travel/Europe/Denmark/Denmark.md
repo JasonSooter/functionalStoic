@@ -2,15 +2,15 @@
 publish: true
 title: Denmark
 created: 2024-10-05T01:12:37.477Z
-modified: 2026-10-21T06:33:07.592Z
-published: 2026-10-21T06:33:07.592Z
+modified: 2026-10-21T07:05:37.269Z
+published: 2026-10-21T07:05:37.269Z
 tags:
   - travel/europe/denmark
   - travel/europe/denmark/copenhagen
   - travel/europe/europe-2023
   - places
 date created: 2024-10-05T03:12:37+02:00
-date modified: 2026-10-21T08:33:06+02:00
+date modified: 2026-10-21T09:05:35+02:00
 linter-yaml-title-alias: Denmark
 aliases:
 categories:
@@ -23,7 +23,7 @@ flag: 🇩🇰
 
 # Denmark
 
-- [[Travel/Europe/Denmark/Billund|Billund]]
+- [[Billund]]
 - [[Copenhagen]]
 
 ## Summary
