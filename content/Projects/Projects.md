@@ -19,7 +19,7 @@ image: Attachments/Projects Hero.jpg
 - [[Projects/Email Triage Log.md|Email Triage Log]]
 - [[Projects/Move to Freiburg/Freiburg School Cycle Route Map.md|Freiburg School Cycle Route Map]]
 - [[Projects/How to Freeze Your Child's Credit.md|How to Freeze Your Child's Credit]]
-- [[Bookshelf/Places/Johansson Projects.md|Johansson Projects]]
+- [[Places/Johansson Projects.md|Johansson Projects]]
 - [[Projects/Little Free Library.md|Little Free Library]]
 - [[Projects/Moon Phase Project.md|Moon Phase Project]]
 - [[Projects/Move to Freiburg/Move to Freiburg.md|Move to Freiburg]]

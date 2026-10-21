@@ -2,8 +2,8 @@
 publish: true
 title: Billund
 created: 2026-10-21T02:06:19.000Z
-modified: 2026-10-21T05:07:01.000Z
-published: 2026-10-21T05:07:01.000Z
+modified: 2026-10-21T07:05:20.356Z
+published: 2026-10-21T07:05:20.356Z
 tags:
   - places
   - place/literary
@@ -11,28 +11,36 @@ tags:
 aliases: []
 books:
   - "[[Back to the Moderland]]"
+  - The Year of Living Danishly
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 55.7308,9.1153
 geo_source: Wikipedia (en) (Billund, Denmark)
-icon: newspaper
+icon: book
 location:
   - 55.7308
   - 9.1153
 within: "[[Denmark (Literary)]]"
+date created: 2026-10-21T04:06:19+02:00
+date modified: 2026-10-21T09:05:18+02:00
 ---
 
 # Billund
 
 Town in [[Denmark (Literary)]], Denmark.
 
-## At a glance
+## At a Glance
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Back to the Moderland]] | Helen Russell | setting | Billund appears in a new light on the return visit. |
 | The Year of Living Danishly | Helen Russell | setting | Billund is introduced as the remote Lego town the couple are moving to, mocked by friends as 'Bell End'. |
+
+## Action Items
+
+- [ ] Go to [Wow Park](https://www.theguardian.com/travel/2020/jun/24/wow-park-billund-denmark-newest-treetop-attraction)
+  - #people/authors/helen-russell mentioned this as a patch of woodland the size of forty football pitches with lashed-together suspension bridges, giant Tarzan swings, and treehouses (think Go Ape but without safety harnesses—where open fires are not only allowed but encouraged). There was a moving reunion of the smalls with the goats that graze there. There was also, I confess, an attempted adoption. I’m not naming names, but let’s just say it’s difficult to fit a goat in carry-on luggage. ([View Highlight](https://read.readwise.io/read/01jtc1rb0dajmfbrth15hm5q08))
 
 ## Sub-places
 

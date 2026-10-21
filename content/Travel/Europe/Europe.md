@@ -2,14 +2,14 @@
 publish: true
 title: Europe
 created: 2024-01-04T21:17:33.000Z
-modified: 2026-10-18T15:02:53.871Z
-published: 2026-10-18T15:02:53.871Z
+modified: 2026-10-21T07:17:55.999Z
+published: 2026-10-21T07:17:55.999Z
 tags:
   - places
 socialImage: Attachments/Europe Hero.jpg
 aliases:
 date created: 2023-09-26T12:52:39+02:00
-date modified: 2026-10-18T17:02:53+02:00
+date modified: 2026-10-21T09:17:55+02:00
 linter-yaml-title-alias: Europe
 categories:
   - Places
