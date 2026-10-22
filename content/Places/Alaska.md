@@ -2,8 +2,8 @@
 publish: true
 title: Alaska
 created: 2026-10-21T11:07:13.000Z
-modified: 2026-10-22T10:28:33.655Z
-published: 2026-10-22T10:28:33.655Z
+modified: 2026-10-22T14:40:42.284Z
+published: 2026-10-22T14:40:42.284Z
 aliases: []
 books: []
 categories:
@@ -24,6 +24,7 @@ US state in the far north-west of North America.
 
 - [[Costco West Dimond Boulevard (Anchorage)]]
 - [[Glacier Bay National Park]]
+- [[Kodiak Island]]
 - [[Noatak River]]
 - [[Ralph Wien Memorial Airport]]
 - [[Tuluksak River]]

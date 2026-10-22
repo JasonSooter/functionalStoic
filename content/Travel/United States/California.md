@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-22T01:44:13.256Z
-published: 2026-10-22T01:44:13.256Z
+modified: 2026-10-22T14:40:39.723Z
+published: 2026-10-22T14:40:39.723Z
 aliases: []
 books: []
 categories:
@@ -93,6 +93,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Foothill College]]
 - [[Foresthill Bridge]]
 - [[Gordon French's garage (Menlo Park)]]
+- [[Half Moon Bay, California]]
 - [[Hangar One (Mountain View)]]
 - [[Kennedy Meadows]]
 - [[Lassen Volcanic National Park]]

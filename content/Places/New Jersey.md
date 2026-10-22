@@ -2,8 +2,8 @@
 publish: true
 title: New Jersey
 created: 2026-10-20T07:53:42.000Z
-modified: 2026-10-22T10:29:01.720Z
-published: 2026-10-22T10:29:01.720Z
+modified: 2026-10-22T14:40:25.117Z
+published: 2026-10-22T14:40:25.117Z
 aliases: []
 books: []
 categories:
@@ -24,6 +24,7 @@ US state between New York and Pennsylvania. Hub for literary places in the state
 
 - [[Big Rusty]]
 - [[Burlington City riverfront]]
+- [[Cape May]]
 - [[Columbia Trail]]
 - [[Farnsworth Avenue (Bordentown)]]
 - [[Historic Smithville Park]]

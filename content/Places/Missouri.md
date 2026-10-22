@@ -2,8 +2,8 @@
 publish: true
 title: Missouri
 created: 2026-10-20T22:56:11.000Z
-modified: 2026-10-22T13:43:24.442Z
-published: 2026-10-22T13:43:24.442Z
+modified: 2026-10-22T14:40:22.221Z
+published: 2026-10-22T14:40:22.221Z
 aliases: []
 books:
   - What Happens After Calls for New Gun Restrictions? Sales Go Up
@@ -33,6 +33,8 @@ US state in the Midwest; its 2007 repeal of a handgun permit rule is a New York 
 | What Happens After Calls for New Gun Restrictions? Sales Go Up | Gregor Aisch and Josh Keller | subject | Its 2007 repeal of a handgun permit rule is a New York Times case study of rising gun sales. |
 
 ## Sub-places
+
+- [[Columbia, Missouri]]
 - [[Kansas City]]
 - [[Warrensburg, Missouri]]
 

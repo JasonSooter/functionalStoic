@@ -2,8 +2,8 @@
 publish: true
 title: Australia
 created: 2026-10-21T19:58:09.876Z
-modified: 2026-10-22T13:40:42.793Z
-published: 2026-10-22T13:40:42.793Z
+modified: 2026-10-22T14:40:45.108Z
+published: 2026-10-22T14:40:45.108Z
 aliases: []
 books: []
 categories:
@@ -23,4 +23,6 @@ Country and continent in the Southern Hemisphere. Hub for places in Australia th
 ## Sub-places
 
 - [[Northern Territory]]
+- [[South Australia]]
 - [[Sydney]]
+- [[Western Australia]]

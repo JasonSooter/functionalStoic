@@ -2,8 +2,8 @@
 publish: true
 title: Indonesia
 created: 2026-10-20T22:56:08.000Z
-modified: 2026-10-22T13:40:34.788Z
-published: 2026-10-22T13:40:34.788Z
+modified: 2026-10-22T14:40:35.979Z
+published: 2026-10-22T14:40:35.979Z
 aliases: []
 books:
   - Faster and lighter mobile web pages for Indonesia
@@ -37,6 +37,7 @@ Island country in Southeast Asia. It is the test market in a 2015 Google post ab
 - [[Anak Krakatau]]
 - [[Bali]]
 - [[Bima]]
+- [[Halmahera]]
 - [[Jakarta]]
 - [[Komodo]]
 - [[Labuan (Banten)]]
