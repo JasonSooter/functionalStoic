@@ -2,12 +2,13 @@
 publish: true
 title: San Francisco
 created: 2026-10-20T13:47:58.000Z
-modified: 2026-10-22T19:59:59.952Z
-published: 2026-10-22T19:59:59.952Z
+modified: 2026-10-22T22:36:25.852Z
+published: 2026-10-22T22:36:25.852Z
 aliases: []
 books:
   - Stranger in a Strange Land
   - Major New Study Finds Geography Can Affect Life Span as Much as Income
+  - Would Kids Play Outside More If They Had Access to School Playgrounds?
 categories:
   - "[[Places]]"
 color: purple
@@ -29,13 +30,17 @@ within: "[[California]]"
 City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) it is where Mike studies every religion in town before he finally groks people.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | setting | Mike and Jill's flat, piled with religious books, after visits to every kind of church in the city. |
 | Major New Study Finds Geography Can Affect Life Span as Much as Income | Eric Pfeiffer | subject | San Francisco: poor residents fare nearly as well as the rich, credited to local services |
+| Would Kids Play Outside More If They Had Access to School Playgrounds? | KQED | subject | The article discusses opening San Francisco school playgrounds to the public on weekends, giving city children safe play space |
 
 ## Sub-places
 
+- [[1971 San Francisco Bay oil spill]]
+- [[Astrophage lab (Project Hail Mary)]]
 - [[Bernal Heights Park]]
 - [[Bradford Street (San Francisco)]]
 - [[Crissy Field]]
@@ -44,13 +49,16 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 - [[Embarcadero (San Francisco)]]
 - [[Filbert Street (San Francisco)]]
 - [[Golden Gate Park]]
+- [[Grace's middle school (Project Hail Mary)]]
 - [[Market Street (San Francisco)]]
 - [[Millennium Tower (San Francisco)]]
 - [[Mission Bay (San Francisco)]]
 - [[Mission District]]
+- [[Murphy's on Gough Street (Project Hail Mary)]]
 - [[North Beach (San Francisco)]]
 - [[Pier 70]]
 - [[Recology San Francisco]]
+- [[Sally's Diner (Project Hail Mary)]]
 - [[San Francisco Ferry Building]]
 - [[San Francisco–Oakland Bay Bridge]]
 - [[SFMOMA]]
@@ -74,3 +82,12 @@ Source: [Original](http://www.good.is/posts/health-tied-to-geography) · [Readwi
 - **Role:** subject
 - **In the article:** San Francisco is the example of a city where poorer residents fared nearly as well as wealthier ones, attributed to access to health information and social welfare.
 - **Why it matters:** Illustrates the claim that local policy can narrow the life-expectancy gap.
+
+## Would Kids Play Outside More If They Had Access to School Playgrounds? — KQED (2016)
+Source: [Original](http://ww2.kqed.org/mindshift/2016/05/05/would-kids-play-outside-more-if-they-had-access-to-school-playgrounds/) · [Readwise highlight](https://read.readwise.io/read/01m5jvmj2wnhqzg5axnt1hjwaa)
+
+> Soon 80 San Francisco schools will open their playgrounds on weekends as part of an expansion to a pilot program called the Shared Schoolyard Project.
+
+- **Role:** subject
+- **In the article:** The article discusses opening San Francisco school playgrounds to the public on weekends, giving city children safe play space. Concerns about vandalism proved largely unfounded, with minimal incidents and weekend users showing stewardship.
+- **Why it matters:** The schoolyards are the subject of the piece, though no individual school is named.

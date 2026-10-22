@@ -2,13 +2,14 @@
 publish: true
 title: Stanford University
 created: 2026-10-21T02:07:58.000Z
-modified: 2026-10-22T20:02:11.244Z
-published: 2026-10-22T20:02:11.244Z
+modified: 2026-10-22T22:36:58.431Z
+published: 2026-10-22T22:36:58.431Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
   - "[[Quiet]]"
   - The Billionaire Who’s Building a Davos of His Own - The New York Times
+  - Here Is The Powerful Letter The Stanford Victim Read Aloud To Her Attacker
 categories:
   - "[[Places]]"
 color: purple
@@ -36,6 +37,7 @@ University campus in [[California]], United States. It appears in the reading as
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | Odell teaches here and describes students' overwork and 'duck syndrome' as signs of precarity and fear. |
 | [[Quiet]] | Susan Cain | turning point | A quiet student from Cupertino finds that at Stanford his reserve reads as weakness. |
 | The Billionaire Who’s Building a Davos of His Own - The New York Times | Alessandra Stanley | setting | Opening scene: Berggruen Institute philosophy conference in a Stanford conference room |
+| Here Is The Powerful Letter The Stanford Victim Read Aloud To Her Attacker | BuzzFeed News | turning point | The assault took place behind a dumpster after a campus frat party; two passing graduate students on bicycles intervened |
 
 ## Sub-places
 - [[Hoover Tower]]
@@ -66,3 +68,12 @@ Source: [Original](https://www.nytimes.com/2016/04/17/business/the-billionaire-w
 - **Role:** setting
 - **In the article:** The article opens at a Berggruen Institute philosophy conference in a wood-paneled room at Stanford, where Berggruen speaks without interruption and gets chocolate mousse while others get fruit tarts. The conference ran from 9 a.m. to 6 p.m. and a dinner was held at the Stanford Park Hotel.
 - **Why it matters:** The opening scene frames Berggruen's influence. The setting is largely incidental, though the conference is the portrait's main observed event.
+
+## Here Is The Powerful Letter The Stanford Victim Read Aloud To Her Attacker — BuzzFeed News (2016)
+Source: [Original](https://www.buzzfeed.com/katiejmbaker/heres-the-powerful-letter-the-stanford-victim-read-to-her-ra) · [Readwise highlight](https://read.readwise.io/read/01m5jvr8tqxhsgpm3kkraks9w2)
+
+> two Stanford University graduate students biking across campus spotted a freshman thrusting his body on top of an unconscious, half-naked woman behind a dumpster.
+
+- **Role:** turning point
+- **In the article:** The assault took place behind a dumpster after a campus frat party; two passing graduate students on bicycles intervened. The victim's statement returns repeatedly to this site and what was done to her there.
+- **Why it matters:** Central site of the crime and the case; the statement also notes the world is 'bigger than Palo Alto and Stanford'.

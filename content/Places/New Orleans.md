@@ -2,8 +2,8 @@
 publish: true
 title: New Orleans
 created: 2026-10-20T02:11:53.000Z
-modified: 2026-10-22T20:39:42.907Z
-published: 2026-10-22T20:39:42.907Z
+modified: 2026-10-22T22:36:55.919Z
+published: 2026-10-22T22:36:55.919Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -12,6 +12,7 @@ books:
   - Make it Small, Make it Right
   - What Happens After Calls for New Gun Restrictions? Sales Go Up
   - The New Starter Home
+  - Those With Multiple Tours of War Overseas Struggle at Home - The New York Times
 categories:
   - "[[Places]]"
 color: purple
@@ -40,6 +41,7 @@ City on the Mississippi in Louisiana, USA, which appears in the reading for its 
 | Make it Small, Make it Right | David Friedlander | subject | Make It Right, founded after Katrina, builds a 430 sq ft solar tiny house in 21 days. |
 | What Happens After Calls for New Gun Restrictions? Sales Go Up | Gregor Aisch and Josh Keller | subject | Gun confiscations after Hurricane Katrina drove local sales and new laws against seizures. |
 | The New Starter Home | David Friedlander | subject | Pilot site of the 975 sq ft Starter Home on a tiny infill lot. |
+| Those With Multiple Tours of War Overseas Struggle at Home - The New York Times | Benedict Carey | turning point | Lundeby's National Guard unit was sent to New Orleans after Katrina, where he decided he wanted to do this kind of work every day |
 
 ## Sub-places
 
@@ -101,3 +103,12 @@ Source: [Original](https://lifeedited.com/the-new-starter-home/) · [Readwise hi
 - **Role:** subject
 - **In the article:** The first Starter Home was built in New Orleans on a 16.5 by 55 foot lot, as urban infill. It cost $339K, about $35K above the average local listing.
 - **Why it matters:** Test site for a small-house model; the article names Oakland as next, so New Orleans is the pilot.
+
+## Those With Multiple Tours of War Overseas Struggle at Home - The New York Times — Benedict Carey (2016)
+Source: [Original](https://www.nytimes.com/2016/05/30/health/veterans-iraq-afghanistan-psychology-therapy.html) · [Readwise highlight](https://read.readwise.io/read/01m5jvq6r76x0hs80d9xpn7n5s)
+
+> In 2005, Hurricane Katrina landed his Guard unit in New Orleans, working for a month to contain looting and help people evacuate to safety.
+
+- **Role:** turning point
+- **In the article:** Lundeby's National Guard unit was sent to New Orleans after Katrina, where he decided he wanted to do this kind of work every day. His father says Katrina gave him purpose and led him to the Army and the Rangers.
+- **Why it matters:** The place where his career path was set, but the text spends only a few sentences on it.

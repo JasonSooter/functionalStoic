@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-22T20:01:42.894Z
-published: 2026-10-22T20:01:42.894Z
+modified: 2026-10-22T22:36:33.475Z
+published: 2026-10-22T22:36:33.475Z
 aliases:
   - NYC
 books:
@@ -69,6 +69,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Library Way]]
 - [[Lower East Side]]
 - [[Madison Square Garden (1890)]]
+- [[Manhattan]]
 - [[Masjid Malcolm Shabazz]]
 - [[Metropolitan Museum of Art]]
 - [[Myka]]

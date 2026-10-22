@@ -2,8 +2,8 @@
 publish: true
 title: Los Angeles
 created: 2026-10-20T04:23:33.000Z
-modified: 2026-10-22T20:40:04.285Z
-published: 2026-10-22T20:40:04.285Z
+modified: 2026-10-22T22:36:05.132Z
+published: 2026-10-22T22:36:05.132Z
 aliases:
   - LA
 books:
@@ -35,13 +35,16 @@ City in southern California. A setting in Gila Lyons's “This Formerly Homeless
 
 ## Sub-places
 
+- [[Beverly Hills]]
 - [[Covenant House Hollywood]]
+- [[Deus Ex Machina (Venice, California)]]
 - [[Downtown Los Angeles]]
 - [[Los Angeles Athletic Club]]
 - [[Los Angeles Memorial Coliseum]]
 - [[Pacific Palisades]]
 - [[Puente Hills Landfill]]
 - [[Ron Finley's garden (South Los Angeles)]]
+- [[Santa Monica]]
 - [[SoFi Stadium]]
 - [[Walt Disney Concert Hall]]
 - [[Westwood Village]]

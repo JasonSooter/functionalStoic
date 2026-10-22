@@ -2,14 +2,15 @@
 publish: true
 title: Detroit
 created: 2026-10-20T19:37:35.000Z
-modified: 2026-10-22T19:59:49.824Z
-published: 2026-10-22T19:59:49.824Z
+modified: 2026-10-22T22:36:57.007Z
+published: 2026-10-22T22:36:57.007Z
 aliases: []
 books:
   - Reading List 08/09/2025
   - "How Prison Sets Inmates Up for Failure: Racism, Mental Illness, Poverty – Shaka\
     \ Senghor – Big Think"
   - Major New Study Finds Geography Can Affect Life Span as Much as Income
+  - Opinion – A New Map for America - The New York Times
 categories:
   - "[[Places]]"
 color: purple
@@ -31,11 +32,13 @@ within: "[[Michigan]]"
 City in [[Michigan]], USA, historic centre of the US car industry, cited in a Construction Physics reading list as the place where American manufacturing's decline really happened. It is also where Shaka Senghor describes walking out of prison in 2010.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Reading List 08092025\|Reading List 08/09/2025]] | Brian Potter | subject | The city declined decades before globalisation could kill it. |
 | How Prison Sets Inmates Up for Failure: Racism, Mental Illness, Poverty – Shaka Senghor – Big Think | Big Think | turning point | Shaka Senghor walks out of prison in Detroit after 19 years. |
 | Major New Study Finds Geography Can Affect Life Span as Much as Income | Eric Pfeiffer | subject | Detroit: poorest-performing city in the life-expectancy study, poor residents' lifespans falling |
+| Opinion – A New Map for America - The New York Times | Parag Khanna | subject | Presented as interdependent through auto and steel industries and a proposed midpoint of a Chicago-Toronto corridor, bickering over who… |
 
 ## Sub-places
 
@@ -71,3 +74,12 @@ Source: [Original](http://www.good.is/posts/health-tied-to-geography) · [Readwi
 - **Role:** subject
 - **In the article:** The article names Detroit as one of the two poorest performing cities in the study, where life expectancy of lower-income people is dropping. Chetty is quoted saying one should ask why things go poorly for the poor in Tulsa and Detroit.
 - **Why it matters:** Detroit is a named negative example for the argument that local conditions shape life span.
+
+## Opinion – A New Map for America - The New York Times — Parag Khanna (2016)
+Source: [Original](https://www.nytimes.com/2016/04/17/opinion/sunday/a-new-map-for-america.html) · [Readwise highlight](https://read.readwise.io/read/01m5jvn070z8jzz21b45b3e704)
+
+> While Detroit’s population has fallen below a million, the Detroit-Windsor region is the largest United States-Canada cross-border area, with nearly six million people (and one of the largest border populations in the world).
+
+- **Role:** subject
+- **In the article:** Presented as interdependent through auto and steel industries and a proposed midpoint of a Chicago-Toronto corridor, bickering over who pays for a new bridge.
+- **Why it matters:** The example for planning that jumps international borders.

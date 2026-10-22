@@ -2,8 +2,8 @@
 publish: true
 title: Pennsylvania
 created: 2026-10-20T16:28:37.000Z
-modified: 2026-10-22T20:34:29.475Z
-published: 2026-10-22T20:34:29.475Z
+modified: 2026-10-22T22:37:05.255Z
+published: 2026-10-22T22:37:05.255Z
 aliases: []
 books: []
 categories:
@@ -29,5 +29,6 @@ US state in the Mid-Atlantic. Hub for literary places in the state.
 - [[Philadelphia]]
 - [[Pittsburgh]]
 - [[Pocono Mountains]]
+- [[Sands Bethlehem]]
 - [[The country house (Dept of Speculation)]]
 - [[Wyandotte Street (Bethlehem)]]

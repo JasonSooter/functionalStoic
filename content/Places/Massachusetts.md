@@ -2,18 +2,18 @@
 publish: true
 title: Massachusetts
 created: 2026-10-19T14:06:09.000Z
-modified: 2026-10-21T23:17:15.000Z
-published: 2026-10-21T23:17:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T22:36:08.264Z
+published: 2026-10-22T22:36:08.264Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Massachusetts
@@ -23,6 +23,7 @@ US state in New England. Hub for literary places in Massachusetts.
 ## Sub-places
 
 - [[Amherst]]
+- [[Beaver Country Day School]]
 - [[Blue Hills Reservation]]
 - [[Boston]]
 - [[Cambridge, Massachusetts]]
@@ -35,6 +36,7 @@ US state in New England. Hub for literary places in Massachusetts.
 - [[Mashpee Commons]]
 - [[Massachusetts Institute of Technology]]
 - [[MIT swimming pool (The Soul of an Octopus)]]
+- [[Montrose School (Medfield)]]
 - [[Mount Greylock]]
 - [[Mount Holyoke College]]
 - [[Peabody Museum of Archaeology and Ethnology]]

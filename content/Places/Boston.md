@@ -2,8 +2,8 @@
 publish: true
 title: Boston
 created: 2026-10-21T13:56:40.000Z
-modified: 2026-10-22T20:34:50.628Z
-published: 2026-10-22T20:34:50.628Z
+modified: 2026-10-22T22:37:08.482Z
+published: 2026-10-22T22:37:08.482Z
 aliases: []
 books: []
 categories:
@@ -27,6 +27,7 @@ Capital of Massachusetts, on Massachusetts Bay. It collects places from Jason's 
 - [[Athinoula A. Martinos Center]]
 - [[Berklee College of Music]]
 - [[Boston Common]]
+- [[Codman Academy]]
 - [[Harvard Business School]]
 - [[Logan International Airport]]
 - [[New England Aquarium]]

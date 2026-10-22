@@ -2,8 +2,8 @@
 publish: true
 title: Chicago
 created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-22T20:02:10.664Z
-published: 2026-10-22T20:02:10.664Z
+modified: 2026-10-22T22:37:06.586Z
+published: 2026-10-22T22:37:06.586Z
 aliases:
   - Chicawgo
 books:
@@ -53,6 +53,7 @@ City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Ric
 - [[Grant Park]]
 - [[Hyde Park, Chicago]]
 - [[Richard Bennett Custom Tailors]]
+- [[South Side (Chicago)]]
 - [[Standard Club (Chicago)]]
 - [[University of Chicago]]
 - [[Wicker Park]]

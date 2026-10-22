@@ -2,8 +2,8 @@
 publish: true
 title: Iraq
 created: 2026-10-20T04:23:22.000Z
-modified: 2026-10-22T20:02:06.779Z
-published: 2026-10-22T20:02:06.779Z
+modified: 2026-10-22T22:36:35.191Z
+published: 2026-10-22T22:36:35.191Z
 aliases: []
 books:
   - The Price of Civilization
@@ -34,6 +34,7 @@ Country in the Middle East, which Jim Wright's The Price of Civilization names a
 
 ## Sub-places
 
+- [[Anbar Province]]
 - [[Baghdad]]
 - [[Balad Air Base]]
 - [[Mosul]]

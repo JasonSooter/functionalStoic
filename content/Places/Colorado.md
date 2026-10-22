@@ -2,8 +2,8 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-22T20:02:14.880Z
-published: 2026-10-22T20:02:14.880Z
+modified: 2026-10-22T22:37:18.174Z
+published: 2026-10-22T22:37:18.174Z
 aliases: []
 books: []
 categories:
@@ -64,6 +64,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Saddle Horn Drive and River Pass Road (Timnath)]]
 - [[Salida]]
 - [[Snowmass Lake]]
+- [[Storm King Mountain (Colorado)]]
 - [[Stove Prairie]]
 - [[Telluride Gondola]]
 - [[United States Air Force Academy]]

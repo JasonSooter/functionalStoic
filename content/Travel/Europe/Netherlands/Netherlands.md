@@ -2,13 +2,14 @@
 publish: true
 title: Netherlands
 created: 2026-09-26T05:01:00.000Z
-modified: 2026-10-22T20:01:47.294Z
-published: 2026-10-22T20:01:47.294Z
+modified: 2026-10-22T22:37:44.697Z
+published: 2026-10-22T22:37:44.697Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
 books:
   - What Americans Can Learn From the New Dutch Dietary Guidelines
+  - How the West (and the Rest) Got Rich
 categories:
   - "[[Places]]"
 color: blue
@@ -120,9 +121,11 @@ _Added 2026-09-25 (#source/ai/claude)._
 - [[Veluwemeer Aqueduct]]
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What Americans Can Learn From the New Dutch Dietary Guidelines | Mark Hay | subject | Country whose new meat-limiting, sustainability-based dietary guidelines are compared with the US ones. |
+| How the West (and the Rest) Got Rich | Deirdre N. McCloskey | turning point | Named as where the Great Enrichment first began around 1600, spreading to England, the colonies, Scotland and the Rhineland, driven by… |
 
 ## What Americans Can Learn From the New Dutch Dietary Guidelines — Mark Hay (2016)
 Source: [Original](https://www.good.is/articles/dutch-nutritional-guidelines-meat-sustainability) · [Readwise highlight](https://read.readwise.io/read/01m5jjrzdy1p4w8nn2f3251f81)
@@ -132,3 +135,12 @@ Source: [Original](https://www.good.is/articles/dutch-nutritional-guidelines-mea
 - **Role:** subject
 - **In the article:** The article centres on the new Dutch national dietary guidelines, which cap meat at two servings a week and are based on sustainability as well as health. It compares them with the US guidelines and quotes a Voedingscentrum expert on how they fit Dutch culture and agriculture.
 - **Why it matters:** The country is the subject of a policy comparison with the US; the argument is about national guidelines rather than any specific location.
+
+## How the West (and the Rest) Got Rich — Deirdre N. McCloskey (2016)
+Source: [Original](http://www.wsj.com/articles/why-the-west-and-the-rest-got-rich-1463754427) · [Readwise highlight](https://read.readwise.io/read/01m5jvp1ekdw1kyes8d2dj2dvw)
+
+> Why did it all start at first in Holland about 1600 and then England about 1700 and then the North American colonies and England’s impoverished neighbor, Scotland, and then Belgium and northern France and the Rhineland?
+
+- **Role:** turning point
+- **In the article:** Named as where the Great Enrichment first began around 1600, spreading to England, the colonies, Scotland and the Rhineland, driven by liberation of ordinary people.
+- **Why it matters:** The starting point of the enrichment in the argument.

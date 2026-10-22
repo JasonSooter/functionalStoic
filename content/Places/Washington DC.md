@@ -2,8 +2,8 @@
 publish: true
 title: Washington, D.C.
 created: 2026-10-20T10:48:36.000Z
-modified: 2026-10-22T19:59:19.050Z
-published: 2026-10-22T19:59:19.050Z
+modified: 2026-10-22T22:37:21.910Z
+published: 2026-10-22T22:37:21.910Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -50,6 +50,7 @@ Capital of the United States. Hub for literary places in the region.
 - [[Tidal Basin]]
 - [[Washington Union Station]]
 - [[White House]]
+- [[World War II Memorial]]
 
 ## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjp2f70req13ce2rpvyy8)

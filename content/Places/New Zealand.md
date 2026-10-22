@@ -2,8 +2,8 @@
 publish: true
 title: New Zealand
 created: 2026-10-21T05:08:26.000Z
-modified: 2026-10-22T20:02:08.880Z
-published: 2026-10-22T20:02:08.880Z
+modified: 2026-10-22T22:37:26.298Z
+published: 2026-10-22T22:37:26.298Z
 aliases: []
 books: []
 categories:
@@ -22,6 +22,7 @@ Country in the southwest Pacific.
 
 ## Sub-places
 
+- [[Auckland]]
 - [[Bombay Hills]]
 - [[Dunedin]]
 - [[Porirua]]

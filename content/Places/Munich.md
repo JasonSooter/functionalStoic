@@ -1,20 +1,20 @@
 ---
 publish: true
-aliases:
-  - München
 title: Munich
 created: 2026-10-20T07:53:28.000Z
-modified: 2026-10-20T07:53:28.000Z
-published: 2026-10-20T07:53:28.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T22:36:47.415Z
+published: 2026-10-22T22:36:47.415Z
+aliases:
+  - München
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bavaria]]"
 ---
 
@@ -26,3 +26,4 @@ Capital of Bavaria, Germany. See [[Bavaria]]. Hub for literary places in the cit
 
 - [[München Hauptbahnhof]]
 - [[Nordfriedhof (Munich)]]
+- [[Seehaus (Englischer Garten)]]

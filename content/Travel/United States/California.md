@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-22T20:34:46.167Z
-published: 2026-10-22T20:34:46.167Z
+modified: 2026-10-22T22:36:44.059Z
+published: 2026-10-22T22:36:44.059Z
 aliases: []
 books: []
 categories:
@@ -72,6 +72,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 ## Sub-places
 
 - [[AC Propulsion]]
+- [[Allensworth, California]]
 - [[Altadena]]
 - [[Auburn Dam]]
 - [[Berkeley, California]]
@@ -100,6 +101,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Lassen Volcanic National Park]]
 - [[Los Angeles Aqueduct]]
 - [[Los Gatos]]
+- [[Menlo Park]]
 - [[Mokelumne River]]
 - [[Mountain View]]
 - [[N Street Cohousing]]
@@ -126,7 +128,10 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Steamer Lane]]
 - [[Stockton, California]]
 - [[Tesla Fremont Factory]]
+- [[Travis Air Force Base]]
 - [[Truckee River]]
+- [[Tulare, California]]
+- [[Vandenberg Space Force Base]]
 - [[Ventura, California]]
 - [[Walker Creek Ranch]]
 - [[Wallis Annenberg Wildlife Crossing]]

@@ -2,8 +2,8 @@
 publish: true
 title: Seattle
 created: 2025-03-25T12:06:03.737Z
-modified: 2026-10-22T20:01:31.505Z
-published: 2026-10-22T20:01:31.505Z
+modified: 2026-10-22T22:37:12.634Z
+published: 2026-10-22T22:37:12.634Z
 books:
   - How $100 Per Voter Makes Seattle’s Elections More Inclusive
   - "[[Four Thousand Weeks]]"
@@ -94,6 +94,7 @@ Airport → Downtown
 - [[Recycled Cycles]]
 - [[Seattle Aquarium]]
 - [[South Lake Union]]
+- [[U.S. District Court for the Western District of Washington (Project Hail Mary)]]
 
 ## How $100 Per Voter Makes Seattle’s Elections More Inclusive — Amy Sundberg (2025)
 Source: [Original](https://reasonstobecheerful.world/how-100-per-voter-makes-seattles-elections-more-inclusive/) · [Readwise highlight](https://read.readwise.io/read/01m5dcjcjjt68kf96836eftrty)
