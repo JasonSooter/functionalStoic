@@ -2,8 +2,8 @@
 publish: true
 title: Antarctica
 created: 2026-10-22T19:58:13.858Z
-modified: 2026-10-22T19:58:13.858Z
-published: 2026-10-22T19:58:13.858Z
+modified: 2026-10-22T22:59:19.219Z
+published: 2026-10-22T22:59:19.219Z
 aliases: []
 books:
   - These Extreme Travelers Fulfilled Their Craziest Dreams
@@ -31,6 +31,10 @@ The continent around the South Pole. A subject in Karen Emslie's “These Extrem
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | These Extreme Travelers Fulfilled Their Craziest Dreams | Karen Emslie | subject | Destination of Philbert's hitchhike: 28 days aboard a Chilean Navy ship visiting research bases |
+
+## Sub-places
+
+- [[West Antarctica]]
 
 ## These Extreme Travelers Fulfilled Their Craziest Dreams — Karen Emslie (2016)
 Source: [Original](http://www.good.is/posts/find-yourself-with-extreme-travel) · [Readwise highlight](https://read.readwise.io/read/01m5jjrq5wdazfsr2damk5gpxv)

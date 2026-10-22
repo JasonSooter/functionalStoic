@@ -2,8 +2,8 @@
 publish: true
 title: China
 created: 2026-10-20T07:53:40.000Z
-modified: 2026-10-22T22:36:58.355Z
-published: 2026-10-22T22:36:58.355Z
+modified: 2026-10-22T22:58:55.042Z
+published: 2026-10-22T22:58:55.042Z
 aliases: []
 books:
   - The coming debt bust
@@ -40,6 +40,8 @@ Country in East Asia. A subject in “The coming debt bust”: Subject of the Ec
 - [[Beijing]]
 - [[Chengdu]]
 - [[Chongqing]]
+- [[Dali Man site]]
+- [[Fuyan Cave (Daoxian)]]
 - [[Guan County]]
 - [[Guizhou]]
 - [[Hong Kong]]
@@ -53,8 +55,11 @@ Country in East Asia. A subject in “The coming debt bust”: Subject of the Ec
 - [[Three Gorges Dam]]
 - [[Tianjin]]
 - [[Wuhan]]
+- [[Xujiayao]]
 - [[Yunnan]]
+- [[Yunxian hominin site]]
 - [[Zhengzhou]]
+- [[Zhiren Cave]]
 
 ## The coming debt bust — The Economist (2016)
 Source: [Original](https://www.economist.com/news/leaders/21698240-it-question-when-not-if-real-trouble-will-hit-china-coming-debt-bust) · [Readwise highlight](https://read.readwise.io/read/01m5jkz538xpj5gjx8wzcgzxhd)

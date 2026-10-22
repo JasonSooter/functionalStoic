@@ -2,8 +2,8 @@
 publish: true
 title: Washington, D.C.
 created: 2026-10-20T10:48:36.000Z
-modified: 2026-10-22T22:37:21.910Z
-published: 2026-10-22T22:37:21.910Z
+modified: 2026-10-22T22:58:47.060Z
+published: 2026-10-22T22:58:47.060Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -36,6 +36,7 @@ Capital of the United States. Hub for literary places in the region.
 - [[American University]]
 - [[Anacostia River Trail]]
 - [[Ben Caxton's apartment (Stranger in a Strange Land)]]
+- [[Boneyard Studios]]
 - [[DAR Constitution Hall]]
 - [[DC USA]]
 - [[Dupont Circle]]
@@ -50,6 +51,7 @@ Capital of the United States. Hub for literary places in the region.
 - [[Tidal Basin]]
 - [[Washington Union Station]]
 - [[White House]]
+- [[White House kitchen garden]]
 - [[World War II Memorial]]
 
 ## Walkable City — Jeff Speck (2012)

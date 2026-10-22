@@ -2,8 +2,8 @@
 publish: true
 title: Vancouver
 created: 2026-10-22T10:27:37.000Z
-modified: 2026-10-22T20:38:48.084Z
-published: 2026-10-22T20:38:48.084Z
+modified: 2026-10-22T22:58:55.738Z
+published: 2026-10-22T22:58:55.738Z
 aliases: []
 books:
   - Why Successful People Spend 10 Hours A Week Just Thinking
@@ -33,6 +33,8 @@ City in British Columbia, Canada. A setting in Brian Scudamore's “Why Successf
 | Why Successful People Spend 10 Hours A Week Just Thinking | Brian Scudamore | setting | Author's Monday thinking day: coffee shops, forest, beach and park benches. |
 
 ## Sub-places
+
+- [[Gastown]]
 - [[Stanley Park]]
 
 ## Why Successful People Spend 10 Hours A Week Just Thinking — Brian Scudamore (2016)

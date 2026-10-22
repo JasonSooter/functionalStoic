@@ -2,8 +2,8 @@
 publish: true
 title: Pennsylvania
 created: 2026-10-20T16:28:37.000Z
-modified: 2026-10-22T22:37:05.255Z
-published: 2026-10-22T22:37:05.255Z
+modified: 2026-10-22T22:58:52.478Z
+published: 2026-10-22T22:58:52.478Z
 aliases: []
 books: []
 categories:
@@ -24,6 +24,7 @@ US state in the Mid-Atlantic. Hub for literary places in the state.
 
 - [[Bucks County]]
 - [[Delaware & Lehigh Trail]]
+- [[Jenkintown, Pennsylvania]]
 - [[Johnstown, Pennsylvania]]
 - [[Lewistown]]
 - [[Philadelphia]]

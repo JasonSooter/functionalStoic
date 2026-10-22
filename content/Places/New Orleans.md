@@ -2,8 +2,8 @@
 publish: true
 title: New Orleans
 created: 2026-10-20T02:11:53.000Z
-modified: 2026-10-22T22:36:55.919Z
-published: 2026-10-22T22:36:55.919Z
+modified: 2026-10-22T22:59:30.436Z
+published: 2026-10-22T22:59:30.436Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -13,6 +13,7 @@ books:
   - What Happens After Calls for New Gun Restrictions? Sales Go Up
   - The New Starter Home
   - Those With Multiple Tours of War Overseas Struggle at Home - The New York Times
+  - Meet the worst ants in the world
 categories:
   - "[[Places]]"
 color: purple
@@ -42,12 +43,15 @@ City on the Mississippi in Louisiana, USA, which appears in the reading for its 
 | What Happens After Calls for New Gun Restrictions? Sales Go Up | Gregor Aisch and Josh Keller | subject | Gun confiscations after Hurricane Katrina drove local sales and new laws against seizures. |
 | The New Starter Home | David Friedlander | subject | Pilot site of the 975 sq ft Starter Home on a tiny infill lot. |
 | Those With Multiple Tours of War Overseas Struggle at Home - The New York Times | Benedict Carey | turning point | Lundeby's National Guard unit was sent to New Orleans after Katrina, where he decided he wanted to do this kind of work every day |
+| Meet the worst ants in the world | Annalee Newitz | journey waypoint | New Orleans was the first US port where the ants were recorded, then the railhead for the Sunset Limited carrying them west |
 
 ## Sub-places
 
 - [[Chartres Street]]
 - [[Esplanade Avenue]]
+- [[French Quarter]]
 - [[Mademoiselle Reisz's flat (The Awakening)]]
+- [[Samuel J. Green Charter School]]
 - [[The Jockey Club race course (The Awakening)]]
 
 ## Why the Levees Failed in New Orleans — Practical Engineering (2026)
@@ -112,3 +116,12 @@ Source: [Original](https://www.nytimes.com/2016/05/30/health/veterans-iraq-afgha
 - **Role:** turning point
 - **In the article:** Lundeby's National Guard unit was sent to New Orleans after Katrina, where he decided he wanted to do this kind of work every day. His father says Katrina gave him purpose and led him to the Army and the Rangers.
 - **Why it matters:** The place where his career path was set, but the text spends only a few sentences on it.
+
+## Meet the worst ants in the world — Annalee Newitz (2016)
+Source: [Original](https://arstechnica.com/science/2016/08/meet-the-worst-ants-in-the-world/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9gg2vcncaw25v1f07msc)
+
+> Entomologists' first recorded sightings of the ants outside South America are in New Orleans and the island of Madeira, off the coast of Portugal, in the 1880s.
+
+- **Role:** journey waypoint
+- **In the article:** New Orleans was the first US port where the ants were recorded, then the railhead for the Sunset Limited carrying them west.
+- **Why it matters:** Entry point to North America.

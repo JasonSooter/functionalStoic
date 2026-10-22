@@ -2,12 +2,14 @@
 publish: true
 title: Beverly Hills
 created: 2026-10-22T22:36:35.391Z
-modified: 2026-10-22T22:36:35.391Z
-published: 2026-10-22T22:36:35.391Z
+modified: 2026-10-22T22:59:33.387Z
+published: 2026-10-22T22:59:33.387Z
 aliases: []
 books:
   - Don Rickles was politically incorrect before it was incorrect. And at 90, he’s
     still going.
+  - Meet the California Couple Who Uses More Water Than Every Home in Los Angeles
+    Combined
 categories:
   - "[[Places]]"
 color: purple
@@ -30,9 +32,11 @@ within: "[[Los Angeles]]"
 City within Los Angeles County, California. The Washington Post profiles Don Rickles at his villa there, in his memorabilia-filled Mr. Warmth Room.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Don Rickles was politically incorrect before it was incorrect. And at 90, he’s still going. | Karen Heller | setting | The profile is conducted at Rickles' villa, where the 90-year-old sits in a recliner among memorabilia, with a Versailles-mirror bar… |
+| Meet the California Couple Who Uses More Water Than Every Home in Los Angeles Combined | Josh Harkinson | setting | The 25,000-square-foot Beaux Arts mansion hosts Hollywood and literary guests at Lynda Resnick's dinner parties |
 
 ## Sub-places
 _None yet._
@@ -45,3 +49,12 @@ Source: [Original](https://www.washingtonpost.com/lifestyle/style/don-rickles-wa
 - **Role:** setting
 - **In the article:** The profile is conducted at Rickles' villa, where the 90-year-old sits in a recliner among memorabilia, with a Versailles-mirror bar, and is surprisingly warm to his visitors.
 - **Why it matters:** Frames the profile as intimate and contrasts the gentle man with the insult-comic persona.
+
+## Meet the California Couple Who Uses More Water Than Every Home in Los Angeles Combined — Josh Harkinson (2016)
+Source: [Original](http://www.motherjones.com/environment/2016/04/lynda-stewart-resnick-california-water) · [Readwise highlight](https://read.readwise.io/read/01m5jx9er6scknvhf77rrfbq6n)
+
+> Its cavernous reception hall is bedecked with blown-glass chandeliers, its windows draped with Fortuny curtains, and its drawing room adorned with a life-size statue of Napoleon so heavy that the basement ceiling had to be reinforced to bear its weight.
+
+- **Role:** setting
+- **In the article:** The 25,000-square-foot Beaux Arts mansion hosts Hollywood and literary guests at Lynda Resnick's dinner parties. The couple tore down three adjacent houses for parking and lawn.
+- **Why it matters:** Contrasts the couple's Beverly Hills wealth with Lost Hills.

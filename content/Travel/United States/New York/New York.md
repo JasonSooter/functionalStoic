@@ -2,8 +2,8 @@
 publish: true
 title: New York
 created: 2024-10-31T23:12:38.665Z
-modified: 2026-10-22T20:34:33.323Z
-published: 2026-10-22T20:34:33.323Z
+modified: 2026-10-22T22:59:01.964Z
+published: 2026-10-22T22:59:01.964Z
 date created: 2024-11-01T00:12:38+01:00
 date modified: 2026-08-16T12:55:06+02:00
 linter-yaml-title-alias: New York
@@ -131,6 +131,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`)._
 ## Sub-places
 
 - [[East Hampton, New York]]
+- [[Ithaca, New York]]
 - [[Rhinebeck craft fair (Dutchess County Fairgrounds)]]
 - [[SUNY Oneonta]]
 - [[United States Military Academy]]

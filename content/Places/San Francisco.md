@@ -2,8 +2,8 @@
 publish: true
 title: San Francisco
 created: 2026-10-20T13:47:58.000Z
-modified: 2026-10-22T22:36:25.852Z
-published: 2026-10-22T22:36:25.852Z
+modified: 2026-10-22T22:58:51.197Z
+published: 2026-10-22T22:58:51.197Z
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -48,6 +48,7 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 - [[de Young Museum]]
 - [[Embarcadero (San Francisco)]]
 - [[Filbert Street (San Francisco)]]
+- [[Fort Mason]]
 - [[Golden Gate Park]]
 - [[Grace's middle school (Project Hail Mary)]]
 - [[Market Street (San Francisco)]]

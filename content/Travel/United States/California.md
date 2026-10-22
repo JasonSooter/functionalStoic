@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-22T22:36:44.059Z
-published: 2026-10-22T22:36:44.059Z
+modified: 2026-10-22T22:59:06.336Z
+published: 2026-10-22T22:59:06.336Z
 aliases: []
 books: []
 categories:
@@ -75,6 +75,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Allensworth, California]]
 - [[Altadena]]
 - [[Auburn Dam]]
+- [[Bakersfield, California]]
 - [[Berkeley, California]]
 - [[Bolinas]]
 - [[Cache Creek Nature Preserve]]
@@ -98,9 +99,11 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Hangar One (Mountain View)]]
 - [[Jet Propulsion Laboratory]]
 - [[Kennedy Meadows]]
+- [[Kern Water Bank]]
 - [[Lassen Volcanic National Park]]
 - [[Los Angeles Aqueduct]]
 - [[Los Gatos]]
+- [[Lost Hills, California]]
 - [[Menlo Park]]
 - [[Mokelumne River]]
 - [[Mountain View]]
@@ -114,6 +117,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Palo Alto]]
 - [[Pebble Beach Golf Links]]
 - [[Rosewood Sand Hill]]
+- [[Sacramento–San Joaquin River Delta]]
 - [[Saddleback Church]]
 - [[San Clemente Dam]]
 - [[San Diego]]

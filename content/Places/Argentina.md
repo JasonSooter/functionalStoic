@@ -2,8 +2,8 @@
 publish: true
 title: Argentina
 created: 2026-10-22T19:58:27.723Z
-modified: 2026-10-22T19:58:27.723Z
-published: 2026-10-22T19:58:27.723Z
+modified: 2026-10-22T22:59:01.267Z
+published: 2026-10-22T22:59:01.267Z
 aliases: []
 books: []
 categories:
@@ -21,4 +21,6 @@ tags:
 Country in southern South America.
 
 ## Sub-places
+
+- [[Rosario, Argentina]]
 - [[Ushuaia]]

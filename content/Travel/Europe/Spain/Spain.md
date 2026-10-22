@@ -2,8 +2,8 @@
 publish: true
 title: Spain
 created: 2023-12-12T03:43:03.000Z
-modified: 2026-10-22T20:00:50.255Z
-published: 2026-10-22T20:00:50.255Z
+modified: 2026-10-22T22:58:56.682Z
+published: 2026-10-22T22:58:56.682Z
 aliases:
   - Barcelona, Spain
   - Barcelona
@@ -61,6 +61,7 @@ _Added 2026-09-25 by Claude (source/ai/claude)._
 
 ## Sub-places (reading)
 
+- [[Badajoz]]
 - [[Canary Islands]]
 - [[Pamplona]]
 - [[Puerta del Sol]]

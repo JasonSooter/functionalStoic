@@ -2,14 +2,15 @@
 publish: true
 title: Stanford University
 created: 2026-10-21T02:07:58.000Z
-modified: 2026-10-22T22:36:58.431Z
-published: 2026-10-22T22:36:58.431Z
+modified: 2026-10-22T22:59:38.450Z
+published: 2026-10-22T22:59:38.450Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
   - "[[Quiet]]"
   - The Billionaire Who’s Building a Davos of His Own - The New York Times
   - Here Is The Powerful Letter The Stanford Victim Read Aloud To Her Attacker
+  - Meet the worst ants in the world
 categories:
   - "[[Places]]"
 color: purple
@@ -38,6 +39,7 @@ University campus in [[California]], United States. It appears in the reading as
 | [[Quiet]] | Susan Cain | turning point | A quiet student from Cupertino finds that at Stanford his reserve reads as weakness. |
 | The Billionaire Who’s Building a Davos of His Own - The New York Times | Alessandra Stanley | setting | Opening scene: Berggruen Institute philosophy conference in a Stanford conference room |
 | Here Is The Powerful Letter The Stanford Victim Read Aloud To Her Attacker | BuzzFeed News | turning point | The assault took place behind a dumpster after a campus frat party; two passing graduate students on bicycles intervened |
+| Meet the worst ants in the world | Annalee Newitz | setting | The author joins undergraduate Dylan MacArthur-Waltz on a July afternoon to map ant nests among the trees |
 
 ## Sub-places
 - [[Hoover Tower]]
@@ -77,3 +79,12 @@ Source: [Original](https://www.buzzfeed.com/katiejmbaker/heres-the-powerful-lett
 - **Role:** turning point
 - **In the article:** The assault took place behind a dumpster after a campus frat party; two passing graduate students on bicycles intervened. The victim's statement returns repeatedly to this site and what was done to her there.
 - **Why it matters:** Central site of the crime and the case; the statement also notes the world is 'bigger than Palo Alto and Stanford'.
+
+## Meet the worst ants in the world — Annalee Newitz (2016)
+Source: [Original](https://arstechnica.com/science/2016/08/meet-the-worst-ants-in-the-world/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9f90ees4h6hfzhyfkrs9)
+
+> In biologist Deborah Gordon's lab at Stanford, there is a small group of researchers who observe Argentine ants in the wild. Which is to say, they go to a small, triangular copse of trees on campus bordered on all three sides by asphalt walkways.
+
+- **Role:** setting
+- **In the article:** The author joins undergraduate Dylan MacArthur-Waltz on a July afternoon to map ant nests among the trees. He explains the winter shrinkage to two nests, the spring expansion to 20-30, and the queen cull.
+- **Why it matters:** The article's main field scene, showing the ants' seasonal cycle first-hand.

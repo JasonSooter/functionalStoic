@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2026-10-22T22:36:21.676Z
-modified: 2026-10-22T22:36:21.676Z
-published: 2026-10-22T22:36:21.676Z
+modified: 2026-10-22T22:58:44.364Z
+published: 2026-10-22T22:58:44.364Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -33,7 +33,9 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 | The iPhone Thought Experiment | Wait But Why | setting | The author imagines himself on a primeval, forested Manhattan with two million starving people, hunting for fresh water, food and tools… |
 
 ## Sub-places
-_None yet._
+
+- [[The Four Seasons Restaurant]]
+- [[Wall Street]]
 
 ## The iPhone Thought Experiment — Wait But Why (2024)
 Source: [Original](https://waitbutwhy.com/table/iphone-thought-experiment) · [Readwise highlight](https://read.readwise.io/read/01m5jvp2213y057gxr0zvxckge)

@@ -2,8 +2,8 @@
 publish: true
 title: Massachusetts
 created: 2026-10-19T14:06:09.000Z
-modified: 2026-10-22T22:36:08.264Z
-published: 2026-10-22T22:36:08.264Z
+modified: 2026-10-22T22:58:59.923Z
+published: 2026-10-22T22:58:59.923Z
 aliases: []
 books: []
 categories:
@@ -39,6 +39,7 @@ US state in New England. Hub for literary places in Massachusetts.
 - [[Montrose School (Medfield)]]
 - [[Mount Greylock]]
 - [[Mount Holyoke College]]
+- [[Nantucket]]
 - [[Peabody Museum of Archaeology and Ethnology]]
 - [[South Station]]
 - [[SPARC (Devens)]]

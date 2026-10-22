@@ -2,8 +2,8 @@
 publish: true
 title: Portland, Oregon
 created: 2026-10-20T04:33:34.000Z
-modified: 2026-10-22T20:01:15.253Z
-published: 2026-10-22T20:01:15.253Z
+modified: 2026-10-22T22:59:04.032Z
+published: 2026-10-22T22:59:04.032Z
 aliases:
   - Portland
 books:
@@ -15,6 +15,8 @@ books:
   - 2015 Annual Net Worth Update
   - What to Do When the Stock Market Crashes
   - Where Would You Move to After Retirement?
+  - The 3 Biggest Problems with Portland
+  - Six Cities
 categories:
   - "[[Places]]"
 color: purple
@@ -46,6 +48,8 @@ City on the Willamette River in [[Oregon]], which shows up in the reading as Ame
 | 2015 Annual Net Worth Update | Retire by 40 | subject | His Portland duplex and condos drive most of his 2015 net-worth gain. |
 | What to Do When the Stock Market Crashes | Get Rich Slowly | backdrop | Early coronavirus panic-buying and thin crowds at a musical and a Timbers match, March 2020. |
 | Where Would You Move to After Retirement? | Retire by 40 | subject | Home city weighed against retirement spots: damp winters, costs, taxes and traffic. |
+| The 3 Biggest Problems with Portland | retirebyforty | subject | The whole article assesses Portland's homelessness, school graduation rates and overcrowding, tracing how a quaint small city of the… |
+| Six Cities | Shawni Danner | journey waypoint | A weekend reunion with friends and coworkers; lunch on the river, hikes to waterfalls such as Multnomah Falls |
 
 ## Sub-places
 
@@ -130,3 +134,21 @@ Source: [Original](https://retireby40.org/where-would-you-move-to-after-retireme
 - **Role:** subject
 - **In the article:** The author's home city, which he and his wife love but whose damp winters, rising costs, homelessness, allergies, 10% state income tax and traffic are making them consider leaving after retirement. He moved there in 1996.
 - **Why it matters:** Portland is the place being weighed against possible retirement destinations.
+
+## The 3 Biggest Problems with Portland — retirebyforty (2016)
+Source: [Original](https://retireby40.org/3-biggest-problems-portland/) · [Readwise highlight](https://read.readwise.io/read/01m5jx5ntfc2gnk8qzh002tchy)
+
+> Portland has a huge homeless population. This is one of the first things tourists notice about Portland.
+
+- **Role:** subject
+- **In the article:** The whole article assesses Portland's homelessness, school graduation rates and overcrowding, tracing how a quaint small city of the 1990s became a crowded big city with an urban growth boundary.
+- **Why it matters:** The city as a whole is the subject of the argument.
+
+## Six Cities — Shawni Danner (2016)
+Source: [Original](https://shift.infinite.red/six-cities-one-job-719d02369338) · [Readwise highlight](https://read.readwise.io/read/01m5jx85xra874rmr6892aee86)
+
+> The riverwalk is really nice, the people are pretty friendly, the coffee is amazing — I’m surprised Starbucks can even survive in Portland!
+
+- **Role:** journey waypoint
+- **In the article:** A weekend reunion with friends and coworkers; lunch on the river, hikes to waterfalls such as Multnomah Falls.
+- **Why it matters:** Portrayed as walkable and food-centred.
