@@ -189,6 +189,9 @@ plugins:
       localGraph:
         showTags: false
         depth: 2
+        # Don't walk through hubs like the Places folder (~1,900 links): a
+        # depth-2 local graph on any place page otherwise renders every place.
+        hubThreshold: 50
       globalGraph:
         showTags: false
   - source: github:quartz-community/search
