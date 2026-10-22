@@ -2,15 +2,22 @@
 publish: true
 title: Los Angeles
 created: 2026-10-20T04:23:33.000Z
-modified: 2026-10-22T20:01:55.835Z
-published: 2026-10-22T20:01:55.835Z
+modified: 2026-10-22T20:40:04.285Z
+published: 2026-10-22T20:40:04.285Z
 aliases:
   - LA
-books: []
+books:
+  - This Formerly Homeless Harvard Grad Is Using Her Story To Change How We Help The
+    Homeless
 categories:
   - "[[Places]]"
 color: purple
-icon: book
+coordinates: 34.05,-118.25
+geo_source: Wikipedia (en) Los Angeles
+icon: newspaper
+location:
+  - 34.05
+  - -118.25
 tags:
   - places
   - place/literary
@@ -19,10 +26,16 @@ tags:
 
 # Los Angeles
 
-City in Southern California, host of the 2028 Olympics. Hub for literary places in the city and county.
+City in southern California. A setting in Gila Lyons's “This Formerly Homeless Harvard Grad Is Using Her Story To Change How We Help The Homeless”: City where Chung spent six years homeless as a youth.
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| This Formerly Homeless Harvard Grad Is Using Her Story To Change How We Help The Homeless | Gila Lyons | setting | City where Chung spent six years homeless as a youth. |
 
 ## Sub-places
 
+- [[Covenant House Hollywood]]
 - [[Downtown Los Angeles]]
 - [[Los Angeles Athletic Club]]
 - [[Los Angeles Memorial Coliseum]]
@@ -32,3 +45,12 @@ City in Southern California, host of the 2028 Olympics. Hub for literary places 
 - [[SoFi Stadium]]
 - [[Walt Disney Concert Hall]]
 - [[Westwood Village]]
+
+## This Formerly Homeless Harvard Grad Is Using Her Story To Change How We Help The Homeless — Gila Lyons (2018)
+Source: [Original](https://www.good.is/articles/homeless-to-harvard) · [Readwise highlight](https://read.readwise.io/read/01m5jkz19grs5dfae5z15x5z99)
+
+> Given her academic prowess, one might be surprised to find that Chung spent six years of her youth homeless and alone on the streets of Los Angeles.
+
+- **Role:** setting
+- **In the article:** Chung was homeless on the streets of Los Angeles for six years from age 12, while staying in school full time. She remembers running from men in Hollywood who tried to kidnap her.
+- **Why it matters:** The city is the setting of the homelessness the article contrasts with her later degrees. It is not described beyond that.

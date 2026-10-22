@@ -2,12 +2,8 @@
 publish: true
 title: New Orleans
 created: 2026-10-20T02:11:53.000Z
-modified: 2026-10-22T13:40:35.000Z
-published: 2026-10-22T13:40:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T20:39:42.907Z
+published: 2026-10-22T20:39:42.907Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -15,6 +11,7 @@ books:
   - "What We’re Reading: A Spongier New Orleans"
   - Make it Small, Make it Right
   - What Happens After Calls for New Gun Restrictions? Sales Go Up
+  - The New Starter Home
 categories:
   - "[[Places]]"
 color: purple
@@ -23,6 +20,10 @@ icon: video
 location:
   - 29.9761
   - -90.0783
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # New Orleans
@@ -38,6 +39,7 @@ City on the Mississippi in Louisiana, USA, which appears in the reading for its 
 | What We’re Reading: A Spongier New Orleans | RTBC Staff | subject | Rain gardens and bioswales soak up heavy rain nearly 20 years after Katrina. |
 | Make it Small, Make it Right | David Friedlander | subject | Make It Right, founded after Katrina, builds a 430 sq ft solar tiny house in 21 days. |
 | What Happens After Calls for New Gun Restrictions? Sales Go Up | Gregor Aisch and Josh Keller | subject | Gun confiscations after Hurricane Katrina drove local sales and new laws against seizures. |
+| The New Starter Home | David Friedlander | subject | Pilot site of the 975 sq ft Starter Home on a tiny infill lot. |
 
 ## Sub-places
 
@@ -47,7 +49,6 @@ City on the Mississippi in Louisiana, USA, which appears in the reading for its 
 - [[The Jockey Club race course (The Awakening)]]
 
 ## Why the Levees Failed in New Orleans — Practical Engineering (2026)
-
 Source: [Original](https://nebula.tv/videos/practical-engineering-why-the-levees-failed-in-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5bfxmvdeb9rbhz077cjjf31)
 
 > What happened in New Orleans in August 2005 wasn’t a natural disaster.
@@ -57,7 +58,6 @@ Source: [Original](https://nebula.tv/videos/practical-engineering-why-the-levees
 - **Why it matters:** The city is the subject, but the text here is a two-sentence summary; the argument itself is in the video.
 
 ## What Happens When You Give Teens No-Strings Cash? — Neal Morton (2025)
-
 Source: [Original](https://reasonstobecheerful.world/50-dollar-study-teens-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5dr1rgexkf4eyjqa171zd4c)
 
 > In New Orleans, roughly four in five of Rooted students come from economically disadvantaged families, and during the pandemic, many struggled to prioritize school.
@@ -67,7 +67,6 @@ Source: [Original](https://reasonstobecheerful.world/50-dollar-study-teens-new-o
 - **Why it matters:** The city is the study's home and a funder; its pandemic-era crime spike motivated the extension.
 
 ## What We’re Reading: A Spongier New Orleans — RTBC Staff (2025)
-
 Source: [Original](https://reasonstobecheerful.world/what-were-reading-spongier-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5e2zyp8cps5hshsnmp3m4r1)
 
 > Nearly 20 years after Hurricane Katrina, green infrastructure projects all over New Orleans are proving their worth, as residents witness first-hand the way that rain gardens and bioswales soak up heavy rain.
@@ -77,7 +76,6 @@ Source: [Original](https://reasonstobecheerful.world/what-were-reading-spongier-
 - **Why it matters:** The city and its flood history are the subject of the item and give the green-infrastructure story its stakes.
 
 ## Make it Small, Make it Right — David Friedlander (2015)
-
 Source: [Original](https://lifeedited.com/make-it-small-make-it-right/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5er582752ae8ss5r7a13)
 
 > Recently, MIR dabbled in tiny houses, building a smartly designed 430 sq ft home in New Orleans.
@@ -87,7 +85,6 @@ Source: [Original](https://lifeedited.com/make-it-small-make-it-right/) · [Read
 - **Why it matters:** The house is the article's example of small, well-made homes; the city's post-Katrina rebuilding is its backdrop.
 
 ## What Happens After Calls for New Gun Restrictions? Sales Go Up — Gregor Aisch and Josh Keller (2015)
-
 Source: [Original](https://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html) · [Readwise highlight](https://read.readwise.io/read/01m5hx1xw8cpappt3zgxyx7s14)
 
 > As police officers evacuated people from New Orleans after Hurricane Katrina, legally registered guns were
@@ -95,3 +92,12 @@ Source: [Original](https://www.nytimes.com/interactive/2015/12/10/us/gun-sales-t
 - **Role:** subject
 - **In the article:** After Hurricane Katrina police seized registered guns from civilians during evacuation. The confiscations outraged gun owners and increased local sales, and prompted federal and state laws against such seizures.
 - **Why it matters:** Case study of a disaster-driven policy backlash that shaped gun law.
+
+## The New Starter Home — David Friedlander (2016)
+Source: [Original](https://lifeedited.com/the-new-starter-home/) · [Readwise highlight](https://read.readwise.io/read/01m5jkzh1gx73thp4shpn2mga7)
+
+> The first starter home cost $339K, which is about $35K more than the average New Orleans listing.
+
+- **Role:** subject
+- **In the article:** The first Starter Home was built in New Orleans on a 16.5 by 55 foot lot, as urban infill. It cost $339K, about $35K above the average local listing.
+- **Why it matters:** Test site for a small-house model; the article names Oakland as next, so New Orleans is the pilot.

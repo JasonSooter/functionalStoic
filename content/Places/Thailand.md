@@ -2,8 +2,8 @@
 publish: true
 title: Thailand
 created: 2026-10-21T02:08:02.000Z
-modified: 2026-10-22T20:02:07.531Z
-published: 2026-10-22T20:02:07.531Z
+modified: 2026-10-22T20:34:25.827Z
+published: 2026-10-22T20:34:25.827Z
 aliases: []
 books: []
 categories:
@@ -24,3 +24,4 @@ Hub note for places from reading.
 
 - [[Chiang Mai]]
 - [[Koh Lanta]]
+- [[Namthip Nursing Home (Pattaya)]]
