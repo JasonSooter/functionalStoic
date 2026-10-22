@@ -196,14 +196,14 @@
     "quartz-geo-map": {
       "source": "github:JasonSooter/quartz-geo-map",
       "resolved": "https://github.com/JasonSooter/quartz-geo-map.git",
-      "commit": "fdb85ee2d8b71c2b2d4f1fa3d97e364226e192dc",
-      "installedAt": "2026-10-21T08:00:00.000Z"
+      "commit": "70ee72b7c292ea8cdb0f7f415349efca884cae18",
+      "installedAt": "2026-10-22T20:30:00.000Z"
     },
     "quartz-graph": {
       "source": "github:JasonSooter/quartz-graph",
       "resolved": "https://github.com/JasonSooter/quartz-graph.git",
-      "commit": "b5cc41b1f4b19454a256a07e4300b6a3255bc8cf",
-      "installedAt": "2026-07-20T07:37:37.037Z"
+      "commit": "68b542dcf89419d5825e0f0c34b310f7036b9577",
+      "installedAt": "2026-10-22T20:30:00.000Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
