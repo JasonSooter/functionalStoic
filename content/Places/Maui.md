@@ -2,12 +2,8 @@
 publish: true
 title: Maui
 created: 2026-10-22T16:48:42.000Z
-modified: 2026-10-22T16:48:42.000Z
-published: 2026-10-22T16:48:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T20:01:58.119Z
+published: 2026-10-22T20:01:58.119Z
 aliases: []
 books:
   - "Introducing LifeEdited: Maui"
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 20.8
   - -156.3
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Hawaii]]"
 ---
 
@@ -29,13 +29,15 @@ within: "[[Hawaii]]"
 Island in Hawaii. LifeEdited's second project, a small off-grid compound, is being built on a plot there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Introducing LifeEdited: Maui | David Friedlander | subject | Graham Hill's 2.2-acre plot where LifeEdited plans a small, net-zero compound. |
 
-## Introducing LifeEdited: Maui — David Friedlander (2016)
+## Sub-places
+- [[Noho'ana Farm]]
+- [[Nā Wai ʻEhā]]
 
+## Introducing LifeEdited: Maui — David Friedlander (2016)
 Source: [Original](https://lifeedited.com/introducing-lifeedited-maui/) · [Readwise highlight](https://read.readwise.io/read/01m5j7tyyf7q7ertkpj4gxprsj)
 
 > A few years ago he bought a 2.2 acre piece of land in Maui with the intention of one day designing and building a home that incorporated many of the same ideas that informed LE1.

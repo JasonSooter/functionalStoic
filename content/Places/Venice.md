@@ -1,21 +1,18 @@
 ---
 publish: true
+title: Venice
+created: 2026-10-20T07:53:09.000Z
+modified: 2026-10-22T20:03:22.780Z
+published: 2026-10-22T20:03:22.780Z
 aliases:
   - Venezia
   - Lido
   - Lido di Venezia
   - Hôtel des Bains
-title: Venice
-created: 2026-10-20T07:53:09.000Z
-modified: 2026-10-21T13:38:46.000Z
-published: 2026-10-21T13:38:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Death in Venice]]"
   - The Crazy Engineering of Venice
+  - "[[Range]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -24,6 +21,10 @@ icon: book
 location:
   - 45.4375
   - 12.3358
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Italy]]"
 ---
 
@@ -32,17 +33,18 @@ within: "[[Italy]]"
 City on islands in the Venetian lagoon, north-eastern [[Italy]], with the Lido as its sea barrier; it is the setting of Thomas Mann's Death in Venice and the subject of Primal Space's video on Venetian engineering.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Death in Venice]] | Thomas Mann | setting | The Lido hotel and beach where Aschenbach watches Tadzio and dies, across the water from a city hiding cholera. |
 | The Crazy Engineering of Venice | Primal Space | subject | How Venice was built on piles, wells and tidal flushing. |
+| [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | setting | Floating city whose music-saturated culture made the foundling virtuosos possible. |
 
 ## Sub-places
 
 - [[Grand Canal (Venice)]]
 - [[Hôtel des Bains]]
 - [[Lido di Venezia]]
+- [[Ospedale della Pietà]]
 - [[Piazza San Marco]]
 - [[Rialto Bridge]]
 - [[St Mark's Basilica]]
@@ -50,7 +52,6 @@ City on islands in the Venetian lagoon, north-eastern [[Italy]], with the Lido a
 - [[Venezia Santa Lucia railway station]]
 
 ## Death in Venice — Thomas Mann (1912)
-
 Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5c4pzc9fx9xwzs5bn02gkpc)
 
 > An autumnal, off-season mood seemed to lie upon the once so colorful and animated, now all but deserted pleasure haunt, its sand no longer kept clean.
@@ -61,7 +62,6 @@ Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL162460
 - **Not pinned separately:** the Hôtel des Bains and the Lido beach (no standard-source coordinate: the English and Italian Wikipedia pages give none), St Mark's Basilica (folded into [[Piazza San Marco]]) and the Piazzetta.
 
 ## The Crazy Engineering of Venice — Primal Space (2024)
-
 Source: [Original](https://www.youtube.com/watch?v=77omYd0JOeA) · [Readwise highlight](https://read.readwise.io/read/01m5f1y46bf38n0dqat6p3hv3t)
 
 > the Venetians managed to turn a muddy
@@ -69,3 +69,12 @@ Source: [Original](https://www.youtube.com/watch?v=77omYd0JOeA) · [Readwise hig
 - **Role:** subject
 - **In the video:** The video explains Venice's engineering: timber-pile foundations, brick buildings, bridges joining the islands, squares that collect rainwater into more than 600 wells, and tunnels flushed by the tide, which made it Europe's richest city.
 - **Why it matters:** The city is the subject of the video.
+
+## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
+Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jjshcb8690tnveveddd2c3)
+
+> Leisure activities like horseback riding and field sports were scarce in the floating city, so music bore the full weight of entertainment for its citizens.
+
+- **Role:** setting
+- **In the book:** Chapter 3 is set in seventeenth- and eighteenth-century Venice, where music spilled from every barge and gondola and where Vivaldi wrote for the figlie del coro. Visitors such as Rousseau and Burney came to hear them.
+- **Why it matters:** The city's music-saturated culture and its charitable ospedali created the conditions in which foundling girls became multi-instrument virtuosos.

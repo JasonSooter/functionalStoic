@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Siloam Tunnel
 title: Hezekiah's Tunnel
 created: 2026-10-22T16:49:37.000Z
-modified: 2026-10-22T16:49:37.000Z
-published: 2026-10-22T16:49:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T20:03:48.645Z
+published: 2026-10-22T20:03:48.645Z
+aliases:
+  - Siloam Tunnel
 books:
   - "[[Apeirogon]]"
 categories:
@@ -21,6 +17,10 @@ icon: book
 location:
   - 31.7724
   - 35.2357
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Old City of Jerusalem]]"
 ---
 
@@ -29,14 +29,12 @@ within: "[[Old City of Jerusalem]]"
 Ancient water tunnel under the City of David, Jerusalem. A fragment of _Apeirogon_ tells how it was dug from both ends.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | Diggers from each end listen for the other's hammers until they meet. |
 
 ## Apeirogon — Colum McCann (2020)
-
-Source: [[Apeirogon]] · [Readwise highlight](https://read.readwise.io/read/01m5j7x14p8gt04c2zz6zyyqrc)
+Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7x14p8gt04c2zz6zyyqrc)
 
 > King Hezekiah, in the year 700 b.c., ordered his men to build a tunnel in Jerusalem to bring water from the Gihon Spring to the Pool of Siloam.
 

@@ -2,12 +2,8 @@
 publish: true
 title: Abu Dhabi Falcon Hospital
 created: 2026-10-22T16:49:43.000Z
-modified: 2026-10-22T16:49:43.000Z
-published: 2026-10-22T16:49:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T20:03:40.677Z
+published: 2026-10-22T20:03:40.677Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -20,6 +16,10 @@ icon: book
 location:
   - 24.4075
   - 54.6986
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[United Arab Emirates]]"
 ---
 
@@ -28,14 +28,12 @@ within: "[[United Arab Emirates]]"
 Specialist falcon hospital near Abu Dhabi, United Arab Emirates. Where the falcons' story ends in _Apeirogon_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | Feather repair for the offspring of Hassan's peregrines, the sheikh's 'Birds of Sorrow'. |
 
 ## Apeirogon — Colum McCann (2020)
-
-Source: [[Apeirogon]] · [Readwise highlight](https://read.readwise.io/read/01m5j7xbmcpdztdyhbzfy3j3x2)
+Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7xbmcpdztdyhbzfy3j3x2)
 
 > One of the most intricate operations at the Falcon Hospital is the repair of broken feathers.
 

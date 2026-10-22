@@ -2,18 +2,18 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-22T13:40:20.000Z
-published: 2026-10-22T13:40:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T20:02:14.880Z
+published: 2026-10-22T20:02:14.880Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Colorado
@@ -66,6 +66,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Snowmass Lake]]
 - [[Stove Prairie]]
 - [[Telluride Gondola]]
+- [[United States Air Force Academy]]
 - [[US 160 between Durango and Pagosa Springs]]
 - [[US 287 in Colorado]]
 - [[Walsenburg, Colorado]]

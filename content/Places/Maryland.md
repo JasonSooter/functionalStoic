@@ -2,18 +2,25 @@
 publish: true
 title: Maryland
 created: 2026-10-20T10:42:28.000Z
-modified: 2026-10-22T13:43:18.000Z
-published: 2026-10-22T13:43:18.000Z
+modified: 2026-10-22T20:01:18.229Z
+published: 2026-10-22T20:01:18.229Z
+aliases: []
+books:
+  - What Happens After Calls for New Gun Restrictions? Sales Go Up
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 39.0,-77.0
+geo_note: approximate (state representative point)
+geo_source: Wikipedia (en)
+icon: newspaper
+location:
+  - 39
+  - -77
 tags:
   - places
   - place/literary
   - source/ai/claude
-aliases: []
-books: []
-categories:
-  - "[[Places]]"
-color: purple
-icon: book
 ---
 
 # Maryland
@@ -21,7 +28,6 @@ icon: book
 US state on the Chesapeake Bay; a 2013 gun-control law there is one of the New York Times' case studies of sales spikes after calls for restrictions.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What Happens After Calls for New Gun Restrictions? Sales Go Up | Gregor Aisch and Josh Keller | subject | A 2013 gun-control law there is one of the New York Times' case studies of sales spikes after calls for restrictions. |
@@ -31,12 +37,12 @@ US state on the Chesapeake Bay; a 2013 gun-control law there is one of the New Y
 - [[Baltimore]]
 - [[Bethesda Medical Center (Stranger in a Strange Land)]]
 - [[Chesapeake and Ohio Canal]]
+- [[Federalsburg, Maryland]]
 - [[Hagerstown, Maryland]]
 - [[NIST Gaithersburg]]
 - [[United States Naval Academy]]
 
 ## What Happens After Calls for New Gun Restrictions? Sales Go Up — Gregor Aisch and Josh Keller (2015)
-
 Source: [Original](https://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html) · [Readwise highlight](https://read.readwise.io/read/01m5hx1x7xph532jfv5fekvfhd)
 
 > in May 2013, gun sales jumped as buyers tried to beat the October deadline specified in the measure, which banned most semiautomatic rifles.

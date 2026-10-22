@@ -1,20 +1,14 @@
 ---
 publish: true
+title: Netherlands
+created: 2026-09-26T05:01:00.000Z
+modified: 2026-10-22T20:01:47.294Z
+published: 2026-10-22T20:01:47.294Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
-title: Netherlands
-created: 2026-09-26T05:01:00.000Z
-modified: 2026-10-21T13:56:25.000Z
-published: 2026-10-21T13:56:25.000Z
-tags:
-  - travel/europe/europe-2023
-  - travel/europe/netherlands/utrecht
-  - travel/europe/netherlands
-  - places
-  - source/ai/claude
-  - place/literary
-books: []
+books:
+  - What Americans Can Learn From the New Dutch Dietary Guidelines
 categories:
   - "[[Places]]"
 color: blue
@@ -22,13 +16,25 @@ coordinates: 52.0907,5.1214
 date created: 2023-08-31T18:44:43+02:00
 date modified: 2026-08-16T12:56:56+02:00
 flag: 🇳🇱
+geo_note: approximate (article country point)
+geo_source: Wikipedia (en)
 icon: flag
 linter-yaml-title-alias: Netherlands
+location:
+  - 52
+  - 6
 locations:
   - coordinates: 52.0907,5.1214
     name: Utrecht
   - coordinates: 52.3676,4.9041
     name: Amsterdam
+tags:
+  - travel/europe/europe-2023
+  - travel/europe/netherlands/utrecht
+  - travel/europe/netherlands
+  - places
+  - source/ai/claude
+  - place/literary
 ---
 
 # Netherlands
@@ -45,12 +51,11 @@ Netherlands is a country in Europe, and it groups the places in the Netherlands 
 
 ## Action Items
 
-- [ ] Go to Ferdinand Bolstraat when in Amsterdam
+ - [ ] Go to Ferdinand Bolstraat when in Amsterdam
 
 ## FAQ
 
 ---
-
 🙋
 ✨
 
@@ -76,23 +81,23 @@ Netherlands is a country in Europe, and it groups the places in the Netherlands 
 
 ### Resources
 
-- [Google Earth View of Rijksmuseum](https://artsandculture.google.com/streetview/rijksmuseum/iwH5aYGoPwSf7g?hl=en\&sv_lng=4.885283712508563\&sv_lat=52.35984312584405\&sv_h=319\&sv_p=0\&sv_pid=fOVcUXQW2wpRf33iUmxEfg\&sv_z=1)
+- [Google Earth View of Rijksmuseum](https://artsandculture.google.com/streetview/rijksmuseum/iwH5aYGoPwSf7g?hl=en&sv_lng=4.885283712508563&sv_lat=52.35984312584405&sv_h=319&sv_p=0&sv_pid=fOVcUXQW2wpRf33iUmxEfg&sv_z=1)
 - Public Transit
-  - [9292 for local Utrecht Travel](https://play.google.com/store/apps/details?id=nl.negentwee\&hl=en\&gl=US\&pli=1)
-    - 9292 is the most used app for public transport in the Netherlands with more than 5 million users.
-    - It combines all current train, bus, tram, metro and ferry timetables of all public transport companies in the Netherlands in 1 app.
-  - [NS](https://www.ns.nl/en)
-    - City to City [[Trains]] within the Netherlands
-  - [NS International](https://www.nsinternational.com/en)
-    - [[Trains]] for leaving the Netherlands
-    - We used it to go from Utrecht → [[Belgium]]
+	- [9292 for local Utrecht Travel](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en&gl=US&pli=1)
+		- 9292 is the most used app for public transport in the Netherlands with more than 5 million users.
+		- It combines all current train, bus, tram, metro and ferry timetables of all public transport companies in the Netherlands in 1 app.
+	- [NS](https://www.ns.nl/en)
+		- City to City [[Trains]] within the Netherlands
+	- [NS International](https://www.nsinternational.com/en)
+		- [[Trains]] for leaving the Netherlands
+		- We used it to go from Utrecht → [[Belgium]]
 
 ## De Hogeweyk: the dementia village (Weesp)
 
 _Added 2026-09-25 (#source/ai/claude)._
 
 > [!quote] Linnesby-Maria, "Indulgence Is Not the Same as Care"
-> \[A] few years ago I read an article about a dementia home in the Netherlands. The home is actually a village. The entire open-air establishment is designed to feel like — in fact, to be — a village, in which residents live together in ordinary houses with carers, and move freely indoors and out, going to stores and cafes and so forth. ([View Highlight](https://readwise.io/open/853000640))
+> [A] few years ago I read an article about a dementia home in the Netherlands. The home is actually a village. The entire open-air establishment is designed to feel like — in fact, to be — a village, in which residents live together in ordinary houses with carers, and move freely indoors and out, going to stores and cafes and so forth. ([View Highlight](https://readwise.io/open/853000640))
 
 - **What it is:** **De Hogeweyk** in **Weesp**, near Amsterdam, opened **December 2009** on a four-acre site ([Wikipedia](https://en.wikipedia.org/wiki/Hogeweyk)).
 - **Scale:** **152 residents in 27 houses**, about six or seven per house (23 original houses, 4 added in 2018) ([official site](https://hogeweyk.dementiavillage.com/)).
@@ -113,3 +118,17 @@ _Added 2026-09-25 (#source/ai/claude)._
 - [[Utrecht Centraal]]
 - [[Vaalserberg]]
 - [[Veluwemeer Aqueduct]]
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| What Americans Can Learn From the New Dutch Dietary Guidelines | Mark Hay | subject | Country whose new meat-limiting, sustainability-based dietary guidelines are compared with the US ones. |
+
+## What Americans Can Learn From the New Dutch Dietary Guidelines — Mark Hay (2016)
+Source: [Original](https://www.good.is/articles/dutch-nutritional-guidelines-meat-sustainability) · [Readwise highlight](https://read.readwise.io/read/01m5jjrzdy1p4w8nn2f3251f81)
+
+> Last month the Voedingscentrum, the Netherland’s state-funded nutrition authority, issued an aggressive new
+
+- **Role:** subject
+- **In the article:** The article centres on the new Dutch national dietary guidelines, which cap meat at two servings a week and are based on sustainability as well as health. It compares them with the US guidelines and quotes a Voedingscentrum expert on how they fit Dutch culture and agriculture.
+- **Why it matters:** The country is the subject of a policy comparison with the US; the argument is about national guidelines rather than any specific location.
