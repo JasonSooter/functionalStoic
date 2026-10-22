@@ -2,8 +2,8 @@
 publish: true
 title: Colorado Springs
 created: 2026-10-21T22:57:27.258Z
-modified: 2026-10-21T22:57:27.258Z
-published: 2026-10-21T22:57:27.258Z
+modified: 2026-10-22T10:46:24.388Z
+published: 2026-10-22T10:46:24.388Z
 aliases: []
 books:
   - The Tiny House ‘Sturgis’ Coming to Colorado this Weekend
@@ -40,3 +40,7 @@ Source: [Original](https://lifeedited.com/the-tiny-house-sturgis-coming-to-color
 - **Role:** subject
 - **In the article:** The post previews the National Tiny House Jamboree (August 7–9, 2015), billed as the world's largest tiny-house gathering with over 9,000 registrants, and interviews an organiser.
 - **Why it matters:** The event, and so the city, is the subject.
+
+## Sub-places
+
+- [[Planned Parenthood clinic (Colorado Springs)]]

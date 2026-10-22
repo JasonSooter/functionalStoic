@@ -2,8 +2,8 @@
 publish: true
 title: Ohio
 created: 2026-10-21T04:45:15.000Z
-modified: 2026-10-21T22:44:48.845Z
-published: 2026-10-21T22:44:48.845Z
+modified: 2026-10-22T10:46:25.953Z
+published: 2026-10-22T10:46:25.953Z
 aliases: []
 books: []
 categories:
@@ -23,6 +23,7 @@ U.S. state.
 ## Sub-places
 
 - [[Airstream factory (Jackson Center)]]
+- [[Cincinnati]]
 - [[Main Street (Akron)]]
 - [[Short North]]
 - [[Valley View Golf Club (Akron)]]

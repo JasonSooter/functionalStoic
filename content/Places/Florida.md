@@ -2,8 +2,8 @@
 publish: true
 title: Florida
 created: 2026-10-19T22:29:17.000Z
-modified: 2026-10-21T22:59:56.848Z
-published: 2026-10-21T22:59:56.848Z
+modified: 2026-10-22T10:28:52.653Z
+published: 2026-10-22T10:28:52.653Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -40,7 +40,9 @@ State in the south-eastern [[United States]], appearing in the reading as one st
 - [[Gadsden County, Florida]]
 - [[GORUCK headquarters]]
 - [[Kissimmee River]]
+- [[Miami]]
 - [[Miami Beach]]
+- [[Orlando]]
 - [[Retreat at Twin Lakes]]
 - [[Sarasota]]
 - [[St Petersburg, Florida]]

@@ -1,16 +1,13 @@
 ---
 publish: true
-aliases:
-  - Norway (literary places)
 title: Norway
 created: 2025-02-24T04:31:10.411Z
-modified: 2026-10-21T19:25:29.000Z
-published: 2026-10-21T19:25:29.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-books: []
+modified: 2026-10-22T01:47:21.746Z
+published: 2026-10-22T01:47:21.746Z
+aliases:
+  - Norway (literary places)
+books:
+  - Norway Is a Model for Encouraging Electric Car Sales
 categories:
   - "[[Places]]"
 color: blue
@@ -28,11 +25,15 @@ locations:
     name: Oslo
   - coordinates: 60.3913,5.3221
     name: Bergen
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Norway
 
-Norway is a country in northern Europe. It groups the places below that come up in the reading.
+Country in northern Europe on the Scandinavian peninsula. In the reading it is both a backdrop for Arctic and fjord places and, in a New York Times piece, the world's model for getting drivers into electric cars.
 
 ## Summary
 
@@ -58,10 +59,16 @@ Overall, Norway is characterized by its commitment to sustainability, equality, 
 
 > [!question] Does Bergen, Norway have good public transportation?
 > Yes, Bergen, Norway has a well-developed public transportation system. The city offers various options including buses, light rail (Bybanen), and ferries. The light rail system is particularly popular and connects the city center with the airport and other key areas. Buses cover a wide network throughout the city and surrounding regions. Additionally, Bergen's public transportation is known for being reliable and efficient, making it easy for residents and visitors to navigate the city.
+> 
 
 ## Content
 
 ## Bergen
+
+## At a glance
+| Source | Author | Role | In one line |
+|---|---|---|---|
+| Norway Is a Model for Encouraging Electric Car Sales | David Jolly | subject | Generous incentives make Norway the global model for persuading people to switch to electric cars. |
 
 ## Sub-places
 
@@ -71,3 +78,12 @@ Overall, Norway is characterized by its commitment to sustainability, equality, 
 - [[Longyearbyen]]
 - [[Rogfast]]
 - [[Tjøtta]]
+
+## Norway Is a Model for Encouraging Electric Car Sales — David Jolly (2015)
+Source: [Original](http://mobile.nytimes.com/2015/10/17/business/international/norway-is-global-model-for-encouraging-sales-of-electric-cars.html) · [Readwise highlight](https://read.readwise.io/read/01m5gm186zee8nb7e2t93cx7v3)
+
+> Norway has become a global model for how to persuade the public to embrace electric vehicles.
+
+- **Role:** subject
+- **In the article:** The piece describes Norway's subsidies and incentives for electric cars, with an Oslo couple who bought a Tesla Model S as its example, and calls the country of 5.2 million the world's most ambitious effort to wean drivers off fossil fuels.
+- **Why it matters:** Norway is the subject of the whole article, though the saved text is a short paywalled excerpt.

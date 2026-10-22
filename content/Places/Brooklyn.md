@@ -2,12 +2,8 @@
 publish: true
 title: Brooklyn
 created: 2026-10-20T02:08:43.000Z
-modified: 2026-10-21T14:11:39.000Z
-published: 2026-10-21T14:11:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T10:29:02.452Z
+published: 2026-10-22T10:29:02.452Z
 aliases: []
 books:
   - "[[Dept. Of Speculation.md]]"
@@ -20,6 +16,10 @@ icon: book
 location:
   - 40.65
   - -73.95
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -28,7 +28,6 @@ within: "[[New York City]]"
 Borough of [[New York City]], USA (see also [[New York]]), and the home city of the couple in Dept. of Speculation, which the daughter mourns after the move to the country.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Dept. Of Speculation.md\|Dept. of Speculation]] | Jenny Offill | setting | The couple's home city for most of the book, and what the daughter mourns after the move to the country. |
@@ -44,9 +43,9 @@ Borough of [[New York City]], USA (see also [[New York]]), and the home city of 
 - [[Prospect Park West]]
 - [[Sands Street (Brooklyn)]]
 - [[Sunset Park]]
+- [[Williamsburg power plant (The Caves of Steel)]]
 
 ## Dept. of Speculation — Jenny Offill (2014)
-
 Source: [[Dept. Of Speculation.md]] · [Original](https://www.penguinrandomhouse.com/books/228424/dept-of-speculation-by-jenny-offill/9780345806871) · [Readwise highlight](https://read.readwise.io/read/01m5bfwhhsdveh0366hfbxrr5h)
 
 > The daughter cries for Brooklyn.
@@ -56,7 +55,6 @@ Source: [[Dept. Of Speculation.md]] · [Original](https://www.penguinrandomhouse
 - **Why it matters:** Brooklyn is the book's home ground, almost never described directly but always there; the move away from it is the novel's last turn. No street or neighbourhood is ever named, so the pin is the borough.
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
-
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcpy2jkw6b1vgn558c6cty)
 
 > I remember sitting on a park bench near my home in Brooklyn one winter morning in 2014, feeling even more anxious than usual about the volume of undone tasks

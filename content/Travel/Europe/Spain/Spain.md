@@ -1,12 +1,12 @@
 ---
 publish: true
+title: Spain
+created: 2023-12-12T03:43:03.000Z
+modified: 2026-10-22T10:28:30.543Z
+published: 2026-10-22T10:28:30.543Z
 aliases:
   - Barcelona, Spain
   - Barcelona
-title: Spain
-created: 2023-12-12T03:43:03.000Z
-modified: 2026-09-25T16:27:15.000Z
-published: 2026-09-25T16:27:15.000Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/spain/barcelona
@@ -45,10 +45,10 @@ flag: 🇪🇸
 ## Barcelona
 
 - Public Transportation
-  - TMB App (City of Barcelona)
-  - Donkey Republic Bike Rental App
+	- TMB App (City of Barcelona)
+	- Donkey Republic Bike Rental App
 - Flight from Barcelona to [[Portugal|Portugal]]
-  - EasyJet
+	- EasyJet
 
 ### Superilla de Sant Antoni (superblock)
 
@@ -58,3 +58,8 @@ _Added 2026-09-25 by Claude (source/ai/claude)._
 - **Next to it:** the Eixample **"green axes"**, begun in 2022: **Consell de Cent, Girona, Rocafort and Comte Borrell** turned into car-light streets with new plazas at the corners ([Ajuntament de Barcelona](https://ajuntament.barcelona.cat/premsa/2022/08/10/les-obres-dels-4-nous-eixos-verds-de-leixample-siniciaran-el-proper-16-dagost/)).
 - **Why it's here:** it's a modern answer to **Ildefons Cerdà's 1855–59 Eixample plan**, which gave every block an open green centre; few blocks were built that way.
 - **On the next Barcelona trip:** the market, then walk one of the green axes.
+
+## Sub-places (reading)
+
+- [[Canary Islands]]
+- [[Pamplona]]

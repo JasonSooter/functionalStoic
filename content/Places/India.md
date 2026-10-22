@@ -2,12 +2,8 @@
 publish: true
 title: India
 created: 2026-10-20T07:53:34.000Z
-modified: 2026-10-21T16:39:05.000Z
-published: 2026-10-21T16:39:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T10:28:37.542Z
+published: 2026-10-22T10:28:37.542Z
 aliases: []
 books:
   - Planes, trains, and smartphones – Bill Gates
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 21
   - 78
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # India
@@ -28,7 +28,6 @@ location:
 Country in South Asia. Hub for literary places in the country.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Planes, trains, and smartphones – Bill Gates | Bill Gates | subject | India's Aadhaar ID and UPI payments as digital public infrastructure. |
@@ -41,6 +40,7 @@ Country in South Asia. Hub for literary places in the country.
 - [[Delhi]]
 - [[Hyderabad]]
 - [[Karnataka]]
+- [[Mumbai]]
 - [[New Delhi]]
 - [[Odisha]]
 - [[Rameswaram]]
@@ -49,7 +49,6 @@ Country in South Asia. Hub for literary places in the country.
 - [[Zojila Tunnel]]
 
 ## Planes, trains, and smartphones – Bill Gates — Bill Gates (2024)
-
 Source: [Original](https://www.gatesnotes.com/Digital-public-infrastructure) · [Readwise highlight](https://read.readwise.io/read/01m5f0rwfs1mwqc4k018z10gcc)
 
 > Take India, where I spent time earlier this year. The country’s digital ID system, Aadhaar, gives every resident the ability to prove who they are, while its Unified Payments Interface facilitates instant payment via mobile phone.

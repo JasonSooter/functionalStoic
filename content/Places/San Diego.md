@@ -2,8 +2,8 @@
 publish: true
 title: San Diego
 created: 2026-10-21T22:58:10.719Z
-modified: 2026-10-21T22:58:10.719Z
-published: 2026-10-21T22:58:10.719Z
+modified: 2026-10-22T10:46:23.592Z
+published: 2026-10-22T10:46:23.592Z
 aliases: []
 books:
   - Captains Courageous
@@ -40,3 +40,8 @@ Source: [Original](https://openlibrary.org/works/OL20173W) · [Readwise highligh
 - **Role:** setting
 - **In the book:** Cheyne has taken his wife to his new palace in San Diego, where he runs his railroads from a verandah room while she declines. The telegram announcing Harvey's survival arrives there, and their private car leaves at dawn for the record dash east.
 - **Why it matters:** It sets up the cross-country race that reunites the family.
+
+## Sub-places
+
+- [[La Esquina (Barrio Logan)]]
+- [[San Diego Zoo]]

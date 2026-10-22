@@ -2,8 +2,8 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-21T23:00:01.280Z
-published: 2026-10-21T23:00:01.280Z
+modified: 2026-10-22T01:44:17.953Z
+published: 2026-10-22T01:44:17.953Z
 aliases: []
 books: []
 categories:
@@ -38,6 +38,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Flatiron Reservoir]]
 - [[Fort Collins]]
 - [[Front Range Passenger Rail]]
+- [[Golden, Colorado]]
 - [[Gramma Grass & Livestock]]
 - [[Granby]]
 - [[Green Mountain Reservoir]]

@@ -2,8 +2,8 @@
 publish: true
 title: Molesey Lock
 created: 2026-10-21T23:16:58.933Z
-modified: 2026-10-21T23:16:58.933Z
-published: 2026-10-21T23:16:58.933Z
+modified: 2026-10-22T01:47:23.689Z
+published: 2026-10-22T01:47:23.689Z
 aliases:
   - Moulsey Lock
 books:
@@ -41,3 +41,5 @@ Source: [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highli
 - **Role:** setting
 - **In the book:** The narrator describes Moulsey lock on a fine Sunday as a blaze of blazers, parasols and boats, the busiest lock on the river, with all of Hampton and Moulsey dressed for boating.
 - **Why it matters:** A vivid picture of Victorian boating crowds.
+
+- **Later in the book:** Recalling 'Hampton Court' lock, the narrator tells how a photographer caught him and George posing in a crowded lock just as their boat's nose caught under the woodwork and tipped them on their backs, feet in the air ([Readwise highlight](https://read.readwise.io/read/01m5gkzc4f31364nb3tme68q6z)).

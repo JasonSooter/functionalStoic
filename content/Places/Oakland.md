@@ -2,18 +2,18 @@
 publish: true
 title: Oakland
 created: 2026-10-20T22:56:47.000Z
-modified: 2026-10-21T10:27:47.000Z
-published: 2026-10-21T10:27:47.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T01:44:33.657Z
+published: 2026-10-22T01:44:33.657Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -31,3 +31,4 @@ City on the east side of San Francisco Bay, California.
 - [[Middle Harbor Shoreline Park]]
 - [[Morcom Rose Garden]]
 - [[Old Survivor]]
+- [[Port of Oakland]]

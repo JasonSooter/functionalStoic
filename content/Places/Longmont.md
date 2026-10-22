@@ -2,12 +2,13 @@
 publish: true
 title: Longmont
 created: 2026-10-21T04:45:35.000Z
-modified: 2026-10-21T22:29:07.995Z
-published: 2026-10-21T22:29:07.995Z
+modified: 2026-10-22T10:31:59.535Z
+published: 2026-10-22T10:31:59.535Z
 aliases: []
 books:
   - How To Afford a House These Days
   - How to Sell a House
+  - Understand the Drive-Thru and We Can Solve All Problems
 categories:
   - "[[Places]]"
 color: purple
@@ -34,6 +35,7 @@ City in Boulder County, [[Colorado]]. It shows up in the reading as the author's
 |---|---|---|---|
 | How To Afford a House These Days | Mr. Money Mustache | subject | Author's expensive home town, the example for the argument to consider moving. |
 | How to Sell a House | Mr. Money Mustache | setting | The author's Longmont rental house, listed and sold at full price to newcomers in the post's worked example. |
+| Understand the Drive-Thru and We Can Solve All Problems | Sarah Noelle | subject | Back from Ecuador, she and her son puzzle over a bank drive-thru's half acre of asphalt beside a 21-acre park. |
 
 ## Sub-places
 - [[The Bo-Lar Boogie loop]]
@@ -55,3 +57,12 @@ Source: [Original](https://www.mrmoneymustache.com/2015/06/20/how-to-sell-a-hous
 - **Role:** setting
 - **In the article:** The epilogue tells how the author sold his own rental house in Longmont, built in 2005 and rented out since the crash: listed at $565,000, it is shown to newcomers who had studied the listing, and he bikes over to meet them and gets a full-price offer.
 - **Why it matters:** The house is the post's worked example; the advice itself would apply anywhere, though the local buyers' tastes shaped the story.
+
+## Understand the Drive-Thru and We Can Solve All Problems — Sarah Noelle (2015)
+Source: [Original](https://www.mrmoneymustache.com/2015/11/01/the-drive-thru/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1rdnpsa168d56aq42708)
+
+> With all this fresh in my mind, I returned at last to Longmont and reconnected with my 10-year-old boy after an unprecedented amount of time apart.
+
+- **Role:** subject
+- **In the article:** Home in Longmont after two weeks in Ecuador, the author walks with her son to a bank and the two puzzle over its drive-thru: vacuum tubes, car lanes and half an acre of asphalt. She contrasts it with a small bank-machine booth that could sit in the 21-acre public park across the street.
+- **Why it matters:** The drive-thru is the essay's central example of infrastructure built to spare people a few steps; Longmont is simply where she sees it with fresh eyes.

@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-21T23:08:33.091Z
-published: 2026-10-21T23:08:33.091Z
+modified: 2026-10-22T01:44:13.256Z
+published: 2026-10-22T01:44:13.256Z
 aliases: []
 books: []
 categories:
@@ -82,6 +82,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Campo, California]]
 - [[CARMA (Cedar Flat)]]
 - [[Chapman University]]
+- [[Cheesecake Cohousing]]
 - [[Colorado River Aqueduct]]
 - [[Corralitos]]
 - [[Cupertino]]

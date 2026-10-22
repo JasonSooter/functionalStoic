@@ -2,8 +2,8 @@
 publish: true
 title: British Columbia
 created: 2026-10-21T04:45:16.000Z
-modified: 2026-10-21T23:08:27.383Z
-published: 2026-10-21T23:08:27.383Z
+modified: 2026-10-22T10:28:34.754Z
+published: 2026-10-22T10:28:34.754Z
 aliases: []
 books: []
 categories:
@@ -24,4 +24,5 @@ Canadian province.
 
 - [[Pacific Undersea Gardens]]
 - [[Prospect Point Golf Course]]
+- [[Vancouver]]
 - [[Victoria, British Columbia]]

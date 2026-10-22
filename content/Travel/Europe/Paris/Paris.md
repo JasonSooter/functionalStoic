@@ -2,12 +2,13 @@
 publish: true
 title: Paris
 created: 2026-07-17T14:36:02.899Z
-modified: 2026-10-21T22:45:08.525Z
-published: 2026-10-21T22:45:08.525Z
+modified: 2026-10-22T10:45:40.628Z
+published: 2026-10-22T10:45:40.628Z
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
   - "[[Not the End of the World]]"
+  - The Price of Civilization
 categories:
   - "[[Places]]"
 color: green
@@ -45,6 +46,7 @@ Capital of [[France]]. Each `geo:` link below is a separate map marker in Map Vi
 | Neither Here Nor There | Bill Bryson | setting | A few March days of rude bakers, homicidal traffic and showy architecture, with flashbacks to 1972 and his honeymoon. |
 | [[How '15-Minute Cities' Will Change the Way We Socialise]] | Peter Yeung | subject | The city remade as a cluster of villages under the 15-minute-city plan. |
 | [[Not the End of the World]] | Hannah Ritchie | setting | Ritchie recounts attending COP21 in Paris in 2015, where the 1.5C target unexpectedly entered the final agreement. |
+| The Price of Civilization | Jim Wright | subject | The November 2015 attacks, which Wright argues were bred by chaos the West left in Iraq, Syria and Afghanistan. |
 
 ## Sub-places
 
@@ -86,3 +88,12 @@ Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwi
 - **Role:** setting
 - **In the book:** Ritchie recounts attending COP21 in Paris in 2015, where the 1.5C target unexpectedly entered the final agreement. She had given up on 2C and thought 1.5C delusional. The conference is the anchor for her later account of how studying pledge data shifted her to cautious optimism.
 - **Why it matters:** The setting is the personal hinge for the chapter's optimism: seeing the target adopted there contrasts with her earlier fatalism. The argument rests on data trajectories, so the city itself is incidental; any summit venue would serve.
+
+## The Price of Civilization — Jim Wright (2015)
+Source: [Original](https://www.stonekettle.com/2015/11/the-price-of-civilization.html) · [Readwise highlight](https://read.readwise.io/read/01m5hk4yxnym2bhsh2xzwb8tah)
+
+> We created this. Paris. Yes we did.
+
+- **Role:** subject
+- **In the article:** Prompted by the Paris attacks and a commenter asking how Paris could happen, Wright argues that terrorism grows in chaos that powers ignore, and concludes that Paris was caused by Iraq, Syria and Afghanistan and is only the beginning unless something changes.
+- **Why it matters:** The attacks are the occasion and the conclusion of the essay; the city stands for the cost of past wars.

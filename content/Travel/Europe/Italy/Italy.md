@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Italia
 title: Italy
 created: 2026-07-26T09:46:17.730Z
-modified: 2026-10-21T13:55:40.000Z
-published: 2026-10-21T13:55:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T10:46:28.681Z
+published: 2026-10-22T10:46:28.681Z
+aliases:
+  - Italia
 books: []
 categories:
   - "[[Places]]"
@@ -18,6 +14,10 @@ date created: 2026-07-26T11:46:17+02:00
 date modified: 2026-07-26T11:56:36+02:00
 icon: book
 linter-yaml-title-alias: Italy
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Italy
@@ -63,6 +63,7 @@ Italy's political system is a parliamentary republic, and its population is appr
 - [[Como]]
 - [[Dolomites]]
 - [[Elba]]
+- [[Italian Riviera]]
 - [[Lazio]]
 - [[Milan]]
 - [[Naples]]
@@ -71,6 +72,7 @@ Italy's political system is a parliamentary republic, and its population is appr
 - [[Recanati]]
 - [[San Gimignano]]
 - [[Sanremo]]
+- [[Siena]]
 - [[Sorrento]]
 - [[South Tyrol]]
 - [[Stelvio Pass]]

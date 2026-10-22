@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-21T22:31:49.082Z
-published: 2026-10-21T22:31:49.082Z
+modified: 2026-10-22T10:32:31.730Z
+published: 2026-10-22T10:32:31.730Z
 aliases:
   - NYC
 books:
@@ -11,12 +11,13 @@ books:
   - Can Zohran Mamdani Really Freeze the Rent?
   - How Zohran Mamdani’s Big Goals Could Transform Life in New York City
   - Where’s the Best Place in North America to Live an Edited Life?
+  - The Caves of Steel
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.7128,-74.0061
 geo_source: Wikipedia (en)
-icon: newspaper
+icon: book
 location:
   - 40.7128
   - -74.0061
@@ -38,9 +39,11 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 | [[Can Zohran Mamdani Really Freeze the Rent\|Can Zohran Mamdani Really Freeze the Rent?]] | Rachel Holliday Smith | subject | Whether a mayor can freeze rents on a million stabilized apartments. |
 | [[How Zohran Mamdani’s Big Goals Could Transform Life in New York City]] | RTBC Staff | subject | After the 2025 primary win, his goals: fare-free buses, public supermarkets, free child care, 200,000 new homes. |
 | Where’s the Best Place in North America to Live an Edited Life? | David Friedlander | subject | Ideal for an edited life on paper, but its housing costs make it brutal. |
+| The Caves of Steel | Isaac Asimov | setting | A future, roofed-over City of twenty million, fed by yeast vats, where the robot murder case unfolds. |
 
 ## Sub-places
 
+- [[1211 Avenue of the Americas]]
 - [[40 Wall Street]]
 - [[420 East 51st Street]]
 - [[432 Park Avenue]]
@@ -51,9 +54,12 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Carmel Place]]
 - [[Central Park]]
 - [[Chrysler Building]]
+- [[City Hall (The Caves of Steel)]]
 - [[Clarkson Street (Manhattan)]]
+- [[Columbus Circle]]
 - [[Cooper Union]]
 - [[Cornell Tech]]
+- [[East 182nd Street (The Caves of Steel)]]
 - [[East River]]
 - [[Hotel Chelsea]]
 - [[Jamaica Avenue and 164th Street (Queens)]]
@@ -64,6 +70,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Masjid Malcolm Shabazz]]
 - [[Metropolitan Museum of Art]]
 - [[Myka]]
+- [[New York Hall of Science]]
 - [[New York Marriott Marquis]]
 - [[New York Public Library Main Branch]]
 - [[Public Speaking–Social Anxiety Center of New York]]
@@ -108,3 +115,14 @@ Source: [Original](https://lifeedited.com/wheres-the-best-place-in-north-america
 - **Role:** subject
 - **In the article:** The author argues New York should be ideal for a small, simple life, being walkable, cultured and well served by transit, but its rents force long working hours that defeat the idea.
 - **Why it matters:** The city is the post's test case for where an edited life is possible.
+
+## The Caves of Steel — Isaac Asimov (1954)
+
+Source: [Original](https://openlibrary.org/works/OL46401W) · [Readwise highlight](https://read.readwise.io/read/01m5hj3cp20f3ngddbecp57500)
+
+> New York City spread over two thousand square miles and at the last census its population was well over twenty million.
+
+- **Role:** setting
+- **In the book:** The novel is set in a future New York that has become one enclosed City of over twenty million people, with moving strips, underground motorways, communal Section kitchens and Personals, yeast farms across what was New Jersey, and Spacers kept outside in their domes. Detective Elijah Baley and the robot R. Daneel investigate a Spacer's murder through its Sections.
+- **Why it matters:** The City is the novel's real subject: the Spacer Fastolfe argues that a City like New York must spend every effort just getting water in and waste out, and its fragility drives the plot. Set anywhere else, the book's argument about crowding and the fear of open space would lose its anchor.
+- **Real vs. fictional:** A real city imagined far in the future; the book's specific places are pinned separately as inferred or best-guess sub-places.

@@ -2,8 +2,8 @@
 publish: true
 title: Tanzania
 created: 2026-10-20T22:56:20.000Z
-modified: 2026-10-21T22:32:02.762Z
-published: 2026-10-21T22:32:02.762Z
+modified: 2026-10-22T01:44:07.311Z
+published: 2026-10-22T01:44:07.311Z
 aliases: []
 books: []
 categories:
@@ -25,3 +25,4 @@ Country in East Africa.
 - [[Dar es Salaam]]
 - [[Hadza camp (Rovelli)]]
 - [[Lake Eyasi]]
+- [[Mount Kilimanjaro]]

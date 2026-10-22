@@ -2,18 +2,18 @@
 publish: true
 title: New Jersey
 created: 2026-10-20T07:53:42.000Z
-modified: 2026-10-21T16:38:58.000Z
-published: 2026-10-21T16:38:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T10:29:01.720Z
+published: 2026-10-22T10:29:01.720Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # New Jersey
@@ -37,8 +37,11 @@ US state between New York and Pennsylvania. Hub for literary places in the state
 - [[Mount Holly]]
 - [[Princeton (What was I made for)]]
 - [[Princeton Junction station]]
+- [[Princeton University]]
 - [[Rancocas Nature Center]]
 - [[Soozel Sweets]]
 - [[Sourland Cycles]]
 - [[Sourland Mountain]]
+- [[Spacetown (The Caves of Steel)]]
 - [[Voorhees State Park]]
+- [[Yeast-town (The Caves of Steel)]]

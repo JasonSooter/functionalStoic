@@ -2,8 +2,8 @@
 publish: true
 title: San Francisco
 created: 2026-10-20T13:47:58.000Z
-modified: 2026-10-21T23:17:18.126Z
-published: 2026-10-21T23:17:18.126Z
+modified: 2026-10-22T10:28:39.610Z
+published: 2026-10-22T10:28:39.610Z
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -35,6 +35,7 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 ## Sub-places
 
 - [[Bradford Street (San Francisco)]]
+- [[Crissy Field]]
 - [[Davies Symphony Hall]]
 - [[de Young Museum]]
 - [[Embarcadero (San Francisco)]]
@@ -45,6 +46,7 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 - [[Mission Bay (San Francisco)]]
 - [[Mission District]]
 - [[North Beach (San Francisco)]]
+- [[Pier 70]]
 - [[Recology San Francisco]]
 - [[San Francisco Ferry Building]]
 - [[San Francisco–Oakland Bay Bridge]]

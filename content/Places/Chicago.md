@@ -2,8 +2,8 @@
 publish: true
 title: Chicago
 created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-21T23:01:08.059Z
-published: 2026-10-21T23:01:08.059Z
+modified: 2026-10-22T01:44:32.973Z
+published: 2026-10-22T01:44:32.973Z
 aliases:
   - Chicawgo
 books:
@@ -46,6 +46,7 @@ City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Ric
 - [[Angel Guardian Orphanage]]
 - [[Ashland Avenue and Addison Street (Chicago)]]
 - [[Chicago Union Station]]
+- [[Hyde Park, Chicago]]
 - [[Richard Bennett Custom Tailors]]
 - [[Standard Club (Chicago)]]
 - [[Wicker Park]]

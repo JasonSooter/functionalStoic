@@ -2,14 +2,16 @@
 publish: true
 title: Portland, Oregon
 created: 2026-10-20T04:33:34.000Z
-modified: 2026-10-21T22:29:37.276Z
-published: 2026-10-21T22:29:37.276Z
+modified: 2026-10-22T10:46:13.079Z
+published: 2026-10-22T10:46:13.079Z
 aliases:
   - Portland
 books:
   - "[[It's All About the Bike]]"
   - "[[Walkable City]]"
   - Why Does Portland Have so Many Strip Clubs?
+  - Rental Rehab is No Fun
+  - How Much Does It Cost To Live A Modest Lifestyle?
 categories:
   - "[[Places]]"
 color: purple
@@ -36,12 +38,17 @@ City on the Willamette River in [[Oregon]], which shows up in the reading as Ame
 | [[It's All About the Bike]] | Robert Penn | subject | America's pedalling capital, where Penn collects his headset from Chris King. |
 | [[Walkable City]] | Jeff Speck | subject | Citing Joe Cortright's 'Portland's Green Dividend', Speck shows Portland drivers drive 20 percent less, saving $1.1 billion a year, with… |
 | Why Does Portland Have so Many Strip Clubs? | Priceonomics | subject | Why the city has the most strip clubs per head in the US: Oregon's free-expression law. |
+| Rental Rehab is No Fun | Retire by 40 | setting | New tenant rules take effect as he guts and repaints his duplex unit in 16 days. |
+| How Much Does It Cost To Live A Modest Lifestyle? | Retire by 40 | subject | An EPI budget for Portland rose from about $5,000 a month in 2015 to $7,154 by 2022. |
 
 ## Sub-places
 
+- [[Ainsworth Elementary School]]
+- [[Chapman Elementary School (Portland)]]
 - [[Firsthand Framebuilding School]]
 - [[Hoyt Rail Yards (Portland)]]
 - [[Mary's Club]]
+- [[Pambiche]]
 - [[Portland Streetcar]]
 - [[Star Theater (Portland)]]
 
@@ -71,3 +78,21 @@ Source: [Original](http://priceonomics.com/why-does-portland-have-so-many-strip-
 - **Role:** subject
 - **In the article:** Priceonomics checks whether Portland really has the most strip clubs per capita in the US, finds it does (one per 11,286 residents), and traces the reason to the free-expression clause of Oregon's 1859 constitution and the court cases built on it.
 - **Why it matters:** The city's character and legal history are the whole argument.
+
+## Rental Rehab is No Fun — Retire by 40 (2015)
+Source: [Original](http://retireby40.org/rental-rehab-is-no-fun/) · [Readwise highlight](https://read.readwise.io/read/01m5hk555f6et9z1hmtgp927tw)
+
+> Portland’s City Council new tenant protection rules just went into effect.
+
+- **Role:** setting
+- **In the article:** The author opens with Portland's new tenant protections (90 days' notice for rent rises over 5% or no-cause evictions), then describes gutting and repainting the duplex unit he owns after a tenant leaves, in a 16-day rehab before a December 1st move-in, noting that the city's rental market has been getting crazy.
+- **Why it matters:** The city's rules and rents frame the landlord's calculation; the rehab itself could be anywhere.
+
+## How Much Does It Cost To Live A Modest Lifestyle? — Retire by 40 (2022)
+Source: [Original](https://retireby40.org/cost-to-live-a-modest-lifestyle/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5m1s6wdb9x56x2gcrpmv)
+
+> Wow, it’s expensive to live in Portland. We spent much less than this in the first 9 months of 2022.
+
+- **Role:** subject
+- **In the article:** The author compares the household's modest spending with the Economic Policy Institute's family budget for Portland, which rose from about $5,000 a month in 2015 to $7,154 by 2022. They live in a small duplex there and argue the EPI housing figure is off, since a two-bedroom apartment costs over $2,000.
+- **Why it matters:** Portland is the benchmark the whole post is measured against.

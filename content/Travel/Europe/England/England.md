@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-10-21T23:17:22.082Z
-published: 2026-10-21T23:17:22.082Z
+modified: 2026-10-22T01:44:39.513Z
+published: 2026-10-22T01:44:39.513Z
 aliases: []
 books: []
 categories:
@@ -80,7 +80,9 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 
 ## Sub-places
 
+- [[Berkshire]]
 - [[Brooks England factory]]
+- [[Buckinghamshire]]
 - [[Caen Hill Locks]]
 - [[Cornwall]]
 - [[Hampton Court Maze]]
@@ -91,8 +93,10 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Molesey Lock]]
 - [[Norfolk]]
 - [[Norwich]]
+- [[Oxfordshire]]
 - [[Penton Hook Lock]]
 - [[Robin Hood's Bay]]
+- [[Surrey]]
 - [[Tardebigge Locks]]
 - [[Walton-on-Thames]]
 - [[Whitby]]
