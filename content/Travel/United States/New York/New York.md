@@ -2,8 +2,12 @@
 publish: true
 title: New York
 created: 2024-10-31T23:12:38.665Z
-modified: 2026-10-21T20:00:14.208Z
-published: 2026-10-21T20:00:14.208Z
+modified: 2026-10-21T20:00:14.000Z
+published: 2026-10-21T20:00:14.000Z
+tags:
+  - places
+  - source/ai/claude
+  - place/literary
 date created: 2024-11-01T00:12:38+01:00
 date modified: 2026-08-16T12:55:06+02:00
 linter-yaml-title-alias: New York
@@ -12,10 +16,6 @@ categories:
 coordinates: 40.7128,-74.0060
 color: teal
 icon: map
-tags:
-  - places
-  - source/ai/claude
-  - place/literary
 locations:
   - name: New York City
     coordinates: 40.7128,-74.0060
@@ -33,10 +33,11 @@ New York is a US state in the Northeast. It groups the places below that come up
 
 ## Changelog
 
-- #🗓️/2025/10/10 I rode the Jamaica Air Train from JFK to Jamaica. Then the E Line Subway from Jamaica to Manhattan (7th Ave & 53rd)
-- #🗓️/2025/10/11 I rode the D Line from 7th & 53rd to NYC Velo
+- \#🗓️/2025/10/10 I rode the Jamaica Air Train from JFK to Jamaica. Then the E Line Subway from Jamaica to Manhattan (7th Ave & 53rd)
+- \#🗓️/2025/10/11 I rode the D Line from 7th & 53rd to NYC Velo
 
 ## Resources
+
 - [What's Under Your Feet in New York](https://nebula.tv/videos/practical-engineering-whats-under-your-feet-in-new-york-city/?__readwiseLocation=)
 
 ## Action Items
@@ -44,6 +45,7 @@ New York is a US state in the Northeast. It groups the places below that come up
 ## FAQ
 
 ---
+
 🙋
 ✨
 
@@ -61,26 +63,34 @@ New York is a US state in the Northeast. It groups the places below that come up
 ## Hudson Valley Trail
 
 - Inspiration
-	- [Empire State Trail bike ride day 1: Albany to Hudson – Exploring by bicycle](https://exploringbybike.com/2021/06/07/empire-state-trail-bike-ride-day-1-from-albany-to-hudson/?__readwiseLocation=)
-	- [Empire State Trail bike ride day 2: Hudson to New Paltz – Exploring by bicycle](https://exploringbybike.com/2021/06/08/empire-state-trail-bike-ride-day-2-hudson-to-new-paltz/)
-	- [Empire State Trail bike ride day 3: New Paltz to Poughkeepsie and the Culinary Institute – Exploring by bicycle](https://exploringbybike.com/2021/06/08/empire-state-trail-day-3-new-paltz-to-poughkeepsie-and-the-culinary-institute/)
-	- [Empire State Trail bike ride day 4: Poughkeepsie to Elmsford – Exploring by bicycle](https://exploringbybike.com/2021/06/09/empire-state-trail-day-4-poughkeepsie-to-elmsford/)
-	- [Empire State Trail bike ride day 5: Elmsford to New York City – Exploring by bicycle](https://exploringbybike.com/2021/06/10/empire-state-trail-bike-ride-day-5-elmsford-to-new-york-city/)
+  - [Empire State Trail bike ride day 1: Albany to Hudson – Exploring by bicycle](https://exploringbybike.com/2021/06/07/empire-state-trail-bike-ride-day-1-from-albany-to-hudson/?__readwiseLocation=)
+  - [Empire State Trail bike ride day 2: Hudson to New Paltz – Exploring by bicycle](https://exploringbybike.com/2021/06/08/empire-state-trail-bike-ride-day-2-hudson-to-new-paltz/)
+  - [Empire State Trail bike ride day 3: New Paltz to Poughkeepsie and the Culinary Institute – Exploring by bicycle](https://exploringbybike.com/2021/06/08/empire-state-trail-day-3-new-paltz-to-poughkeepsie-and-the-culinary-institute/)
+  - [Empire State Trail bike ride day 4: Poughkeepsie to Elmsford – Exploring by bicycle](https://exploringbybike.com/2021/06/09/empire-state-trail-day-4-poughkeepsie-to-elmsford/)
+  - [Empire State Trail bike ride day 5: Elmsford to New York City – Exploring by bicycle](https://exploringbybike.com/2021/06/10/empire-state-trail-bike-ride-day-5-elmsford-to-new-york-city/)
 
 ### Albany → NYC
 
 #### Day 1 - Albany → Hudson
 
 - [Strava Link](https://www.strava.com/activities/12761538745)
+
 - Main Trail Section: Albany-Hudson Electric Trail
+
 - Stated at The Hudson Mariner in Hudson, NY
+
 - 38.77 miles from Albany-Rensselaer Station → Hudson, NY
+
 - [Day 1 - 2024 Empire State Trail - Albany → Hudson - Google Photos](https://photos.app.goo.gl/YdwZLEPypvyv4ZPy5)
 
 - [x] Add Strava link ✅ 2025-04-27
+
 - [x] Add place I stayed ✅ 2025-04-27
+
 - [x] Add name of major trail sections ✅ 2025-04-27
+
 - [x] Add mileage ✅ 2025-04-27
+
 - [x] Add link to Google Photo Album ✅ 2025-04-27
 
 #### Day 2 - Hudson → Poughkeepsie
@@ -110,14 +120,16 @@ New York is a US state in the Northeast. It groups the places below that come up
 ## Erie Canal Trail
 
 Train Station Along the way:
+
 - https://mohawktowpath.stqry.app/story/93433
-- ![[PXL_20251012_164244300.MP.jpg]]
-- ![[PXL_20251012_164257275.MP.jpg]]
+- ![[Attachments/PXL_20251012_164244300.MP.jpg]]
+- ![[Attachments/PXL_20251012_164257275.MP.jpg]]
 
 Utica
+
 - Munson Art Museum
 - Thomas Cole, The Voyage of Life
-	- https://youtu.be/Mk-hLFKSCgA?si=WmedbuQi8Zinajm7
+  - https://youtu.be/Mk-hLFKSCgA?si=WmedbuQi8Zinajm7
 
 ## Learning Manhattan: the city as a hand
 

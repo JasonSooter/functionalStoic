@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Mount Kinabalu
-created: 2026-10-22T13:41:46.540Z
-modified: 2026-10-22T13:41:46.540Z
-published: 2026-10-22T13:41:46.540Z
+created: 2026-10-22T13:41:47.000Z
+modified: 2026-10-22T13:41:47.000Z
+published: 2026-10-22T13:41:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air [revised & updated 2nd edition]
@@ -16,10 +20,6 @@ icon: book
 location:
   - 6.075
   - 116.5586
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Borneo]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Borneo]]"
 Highest mountain of Borneo, in Sabah, Malaysia; in _Life on Air_ Attenborough's climb confirms his decision to leave the BBC desk.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | subject | Attenborough's climb confirms his decision to leave the BBC desk. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | subject | Attenborough's climb confirms his decision to leave the BBC desk. |
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3jaj184ts2d8ybjmr2ja)
 
 > The mountain stands thirty miles inland from the north-west coast of Borneo, not far from the Malaysian city of Kota Kinabalu.

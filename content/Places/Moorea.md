@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Moorea
-created: 2026-10-21T19:58:13.661Z
-modified: 2026-10-21T19:58:13.661Z
-published: 2026-10-21T19:58:13.661Z
+created: 2026-10-21T19:58:14.000Z
+modified: 2026-10-21T19:58:14.000Z
+published: 2026-10-21T19:58:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[French Polynesia]]"
 ---
 

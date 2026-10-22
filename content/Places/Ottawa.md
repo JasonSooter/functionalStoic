@@ -2,8 +2,12 @@
 publish: true
 title: Ottawa
 created: 2026-10-21T04:46:10.000Z
-modified: 2026-10-21T23:00:00.352Z
-published: 2026-10-21T23:00:00.352Z
+modified: 2026-10-21T23:00:00.000Z
+published: 2026-10-21T23:00:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Breakneck]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 45.4247
   - -75.695
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ontario]]"
 ---
 
@@ -28,14 +28,17 @@ within: "[[Ontario]]"
 City in [[Ontario]], Canada, and in Dan Wang's Breakneck the childhood home where his immigrant family's money worries and his discipline took shape.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | setting | After arriving in Toronto's suburbs in 2000, the family moved to Ottawa so Wang's father could study. |
 
 ## Sub-places
+
 - [[ByWard Market]]
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [[Breakneck]] · [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5ebt90e9ydn567d6gncbge6)
 
 > Twice a week after high school, I would go to the drill hall near Parliament Hill to practice map reading, bivouac, and occasionally marksmanship.

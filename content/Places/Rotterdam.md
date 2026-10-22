@@ -2,18 +2,18 @@
 publish: true
 title: Rotterdam
 created: 2026-10-20T10:42:32.000Z
-modified: 2026-10-22T01:44:35.459Z
-published: 2026-10-22T01:44:35.459Z
+modified: 2026-10-22T01:44:35.000Z
+published: 2026-10-22T01:44:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Netherlands]]"
 ---
 

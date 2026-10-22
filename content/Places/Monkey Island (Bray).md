@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Monkey Island (Bray)
-created: 2026-10-22T01:44:24.962Z
-modified: 2026-10-22T01:44:24.962Z
-published: 2026-10-22T01:44:24.962Z
 aliases:
   - Monkey Island
+title: Monkey Island (Bray)
+created: 2026-10-22T01:44:25.000Z
+modified: 2026-10-22T01:44:25.000Z
+published: 2026-10-22T01:44:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 51.5029
   - -0.6834
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berkshire]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Berkshire]]"
 Island in the Thames at Bray, below Maidenhead. In Three Men in a Boat the friends lunch just below it and wage war on a tin of pineapple with no opener.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | setting | Lunch below Monkey Island: no mustard, then a tin of pineapple they batter with the mast and fling into the river. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gky7paaa8fmxddb1rsnjzj)
 
 > nothing exciting happened, and we tugged steadily on to a little below Monkey Island, where we drew up and lunched.

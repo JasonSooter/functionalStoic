@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Lincoln Memorial
-created: 2026-10-21T22:26:34.172Z
-modified: 2026-10-21T22:26:34.172Z
-published: 2026-10-21T22:26:34.172Z
+created: 2026-10-21T22:26:34.000Z
+modified: 2026-10-21T22:26:34.000Z
+published: 2026-10-21T22:26:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Quiet]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 38.8893
   - -77.0501
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington DC]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Washington DC]]"
 Memorial to Abraham Lincoln on the National Mall, [[Washington DC|Washington, D.C.]]. In Quiet (Susan Cain) it is the scene of Marian Anderson's 1939 concert.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | setting | Marian Anderson sings to 75,000 here on Easter Sunday 1939, after being barred from Constitution Hall. |
 
 ## Quiet — Susan Cain (2012)
+
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wdx7yq5v32c02f3h1n70)
 
 > Easter Sunday, 1939. The Lincoln Memorial. Marian Anderson, one of the most extraordinary singers of her generation, takes the stage, the statue of the sixteenth president rising up behind her.

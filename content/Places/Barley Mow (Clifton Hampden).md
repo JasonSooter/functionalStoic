@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Barley Mow (Clifton Hampden)
-created: 2026-10-22T01:43:48.144Z
-modified: 2026-10-22T01:43:48.144Z
-published: 2026-10-22T01:43:48.144Z
 aliases:
   - The Barley Mow
   - Barley Mow Inn
+title: Barley Mow (Clifton Hampden)
+created: 2026-10-22T01:43:48.000Z
+modified: 2026-10-22T01:43:48.000Z
+published: 2026-10-22T01:43:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 51.6537
   - -1.2092
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oxfordshire]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Oxfordshire]]"
 Thatched inn at Clifton Hampden on the Thames. Three Men in a Boat calls it the quaintest, most old-world inn on the river.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | 'The quaintest, most old-world inn up the river', with ceilings too low for novel heroines. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkz76d7vfs87rv1rpfjkzh)
 
 > If you stay the night on land at Clifton, you cannot do better than put up at the ‘Barley Mow’.

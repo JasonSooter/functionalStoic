@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Museo del Oro Precolombino
-created: 2026-10-22T01:44:28.089Z
-modified: 2026-10-22T01:44:28.089Z
-published: 2026-10-22T01:44:28.089Z
 aliases:
   - Pre-Columbian Gold Museum
   - Gold Museum (San José)
+title: Museo del Oro Precolombino
+created: 2026-10-22T01:44:28.000Z
+modified: 2026-10-22T01:44:28.000Z
+published: 2026-10-22T01:44:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Our 2 Week Costa Rica Vacation
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 9.9335
   - -84.0767
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Costa Rica]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Costa Rica]]"
 Pre-Columbian Gold Museum in central San José, Costa Rica. Retire by 40's family visits it on the last day of their trip.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Our 2 Week Costa Rica Vacation | retirebyforty | journey waypoint | Last day in San José: a walk in the rain, the Gold Museum, then souvenirs. |
 
 ## Our 2 Week Costa Rica Vacation — retirebyforty (2015)
+
 Source: [Original](https://retireby40.org/our-2-week-costa-rica-vacation/) · [Readwise highlight](https://read.readwise.io/read/01m5gm1qjqdmet3ntny3pykgmc)
 
 > When the rain let up a bit, we continued to the Gold Museum. This was a pretty nice museum and we learned about how gold was used in the Pre-Columbian Era.

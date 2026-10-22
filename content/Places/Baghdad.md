@@ -1,14 +1,17 @@
 ---
 publish: true
-title: Baghdad
-created: 2026-10-20T16:27:28.000Z
-modified: 2026-10-22T13:40:33.952Z
-published: 2026-10-22T13:40:33.952Z
 aliases:
   - House of Wisdom
+title: Baghdad
+created: 2026-10-20T16:27:28.000Z
+modified: 2026-10-22T13:40:34.000Z
+published: 2026-10-22T13:40:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Blank Page Revolution]]"
-  - America's iconic war machine - BBC News
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +21,6 @@ icon: newspaper
 location:
   - 33.3153
   - 44.3661
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iraq]]"
 ---
 
@@ -37,9 +36,11 @@ Capital of [[Iraq]], on the Tigris and seat of the Abbasid Caliphate, which appe
 | America's iconic war machine - BBC News | James Morgan | journey waypoint | Target of the 1991 B-52 cruise-missile mission flown non-stop from Barksdale. |
 
 ## Sub-places
+
 _None yet._
 
 ## The Blank Page Revolution — Steven Johnson (2025)
+
 Source: [[The Blank Page Revolution]] · [Original](https://adjacentpossible.substack.com/p/the-blank-page-revolution) · [Readwise highlight](https://read.readwise.io/read/01m5d20wgtx3k7ph9k0yxhq86k)
 
 > I wrote about the astonishing flourishing of intellectual and commercial life in Baghdad during the Abbasid Caliphate, starting around the year 800 CE.
@@ -50,6 +51,7 @@ Source: [[The Blank Page Revolution]] · [Original](https://adjacentpossible.sub
 - **Real vs. fictional:** The House of Wisdom's site is lost, so the pin is the city.
 
 ## America's iconic war machine - BBC News — James Morgan (2015)
+
 Source: [Original](https://www.bbc.com/news/magazine-33766644) · [Readwise highlight](https://read.readwise.io/read/01m5hx1wj5asn4smy2fmqn2nyh)
 
 > He and 56 other crew entered seven bombers - his was the Grim Reaper, with a painting of Bugs Bunny carrying a sickle on its nose - and flew 14,000 miles to Baghdad to drop a wave of cruise missiles, which obliterated Saddam Hussein's air defences.

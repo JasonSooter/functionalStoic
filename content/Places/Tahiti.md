@@ -2,8 +2,8 @@
 publish: true
 title: Tahiti
 created: 2026-10-21T19:40:57.000Z
-modified: 2026-10-21T19:41:56.000Z
-published: 2026-10-21T19:41:56.000Z
+modified: 2026-10-21T20:00:05.000Z
+published: 2026-10-21T20:00:05.000Z
 tags:
   - places
   - place/literary
@@ -21,6 +21,7 @@ icon: book
 location:
   - -17.6667
   - -149.4167
+within: "[[French Polynesia]]"
 ---
 
 # Tahiti

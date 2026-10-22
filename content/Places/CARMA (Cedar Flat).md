@@ -1,11 +1,15 @@
 ---
 publish: true
-title: CARMA (Cedar Flat)
-created: 2026-10-21T20:09:43.381Z
-modified: 2026-10-21T20:09:43.381Z
-published: 2026-10-21T20:09:43.381Z
 aliases:
   - Combined Array for Research in Millimeter-wave Astronomy
+title: CARMA (Cedar Flat)
+created: 2026-10-21T20:09:43.000Z
+modified: 2026-10-21T20:09:43.000Z
+published: 2026-10-21T20:09:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The End of CARMA
 categories:
@@ -13,10 +17,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -25,11 +25,13 @@ within: "[[California]]"
 Former radio-telescope array at Cedar Flat in the Inyo Mountains, California. A Flickr post records its dismantling after it closed in 2015.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The End of CARMA | Flickr | subject | Radio-telescope array being dismantled after losing its funding. |
 
 ## The End of CARMA — Flickr (2015)
+
 Source: [Original](https://www.flickr.com/photos/geekyrocketguy/18720025719/in/photostream/) · [Readwise highlight](https://read.readwise.io/read/01m5g16rtaf97ftm835hjyjcwv)
 
 > in California are being removed and transported to temporary storage down the mountain in Big Pine.

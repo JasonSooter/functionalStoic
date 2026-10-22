@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Pruitt-Igoe
-created: 2026-10-21T23:16:33.721Z
-modified: 2026-10-21T23:16:33.721Z
-published: 2026-10-21T23:16:33.721Z
 aliases:
   - Pruitt–Igoe
+title: Pruitt-Igoe
+created: 2026-10-21T23:16:34.000Z
+modified: 2026-10-21T23:16:34.000Z
+published: 2026-10-21T23:16:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Why Old Ideas Are a Secret Weapon
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 38.6423
   - -90.2094
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[St Louis]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[St Louis]]"
 Public housing complex on the north side of [[St Louis|St. Louis]], demolished from 1972. James Clear opens an essay on old ideas with its failure.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Old Ideas Are a Secret Weapon | James Clear | subject | Modernist tower blocks opened in 1954 and blown up in 1972, the essay's example of new ideas failing. |
 
 ## Why Old Ideas Are a Secret Weapon — James Clear (2015)
+
 Source: [Original](https://jamesclear.com/old-ideas) · [Readwise highlight](https://read.readwise.io/read/01m5gby0kyzy15jdpxrqmc9eca)
 
 > Spanning 57 acres across the north side of St. Louis, Pruitt-Igoe consisted of 33 high-rise buildings and provided nearly 3,000 new apartments to the surrounding population.

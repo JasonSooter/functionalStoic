@@ -2,12 +2,15 @@
 publish: true
 title: Stanford University
 created: 2026-10-21T02:07:58.000Z
-modified: 2026-10-21T22:45:00.349Z
-published: 2026-10-21T22:45:00.349Z
+modified: 2026-10-21T22:45:00.000Z
+published: 2026-10-21T22:45:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
-  - "[[Quiet]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +20,6 @@ icon: book
 location:
   - 37.4275
   - -122.1703
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -36,9 +35,11 @@ University campus in [[California]], United States. It appears in the reading as
 | [[Quiet]] | Susan Cain | turning point | A quiet student from Cupertino finds that at Stanford his reserve reads as weakness. |
 
 ## Sub-places
+
 - [[Hoover Tower]]
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5e31ts3g96t19yk6nwqemnf)
 
 > Back in 2013, students in my first art classes at Stanford were surprised that I didn’t know about “Stanford duck syndrome.”
@@ -48,6 +49,7 @@ Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] ·
 - **Why it matters:** The campus supplies a present-day case of the shrinking 'margin' for refusal; it is her workplace, so partly incidental to a general argument.
 
 ## Quiet — Susan Cain (2012)
+
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wt7vxr9sqxrry7evtqhb)
 
 > When I caught up with Mike the following autumn, in his freshman year at Stanford, only a twenty-minute drive from Cupertino but a world away demographically, he seemed unsettled.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Medmenham Abbey
-created: 2026-10-22T01:44:30.575Z
-modified: 2026-10-22T01:44:30.575Z
-published: 2026-10-22T01:44:30.575Z
+created: 2026-10-22T01:44:31.000Z
+modified: 2026-10-22T01:44:31.000Z
+published: 2026-10-22T01:44:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 51.554
   - -0.838
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Buckinghamshire]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Buckinghamshire]]"
 Former Cistercian abbey on the Thames at Medmenham, later meeting place of the Hell Fire Club. Three Men in a Boat contrasts the rakes with the silent monks who lived there before.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | The 'Do as you please' Hell Fire Club monks versus the silent Cistercians of five centuries earlier. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkyfm4sqsp236nypw5d8cn)
 
 > The famous Medmenham monks, or ‘Hell Fire Club’,

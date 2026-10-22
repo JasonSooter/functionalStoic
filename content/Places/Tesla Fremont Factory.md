@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Tesla Fremont Factory
-created: 2026-10-21T20:10:36.256Z
-modified: 2026-10-21T20:10:36.256Z
-published: 2026-10-21T20:10:36.256Z
 aliases:
   - Tesla Factory
   - NUMMI
+title: Tesla Fremont Factory
+created: 2026-10-21T20:10:36.000Z
+modified: 2026-10-21T20:10:36.000Z
+published: 2026-10-21T20:10:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "Elon Musk Series: Introduction"
   - How Tesla Will Change The World
@@ -19,10 +23,6 @@ icon: newspaper
 location:
   - 37.4927
   - -121.9415
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -31,12 +31,14 @@ within: "[[California]]"
 Tesla's car factory in Fremont, California, the former GM–Toyota NUMMI plant. In two posts of Tim Urban's Wait But Why series it is where he tours Tesla's production line and test-drives a Model S.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Elon Musk Series: Introduction | Tim Urban | setting | Urban tours the former NUMMI plant and its robot assembly lines. |
 | How Tesla Will Change The World | Tim Urban | turning point | A Model S test drive here gives Urban his 'iPhone moment' about electric cars. |
 
 ## Elon Musk Series: Introduction — Tim Urban (2015)
+
 Source: [Original](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html) · [Readwise highlight](https://read.readwise.io/read/01m5g16avqtwdz5jfwdshrbqed)
 
 > When I pulled up to the Tesla factory (joined by Andrew), I was first taken by its size
@@ -46,6 +48,7 @@ Source: [Original](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-m
 - **Why it matters:** The visit gives the series its first-hand view of how Tesla builds cars.
 
 ## How Tesla Will Change The World — Tim Urban (2015)
+
 Source: [Original](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) · [Readwise highlight](https://read.readwise.io/read/01m5g16hm9zaw8k8y7tv8pxrfw)
 
 > I had driven to the Tesla factory that morning in what had felt like a brand new rental car, and I left the factory in the same car, now feeling like a 1982 model.

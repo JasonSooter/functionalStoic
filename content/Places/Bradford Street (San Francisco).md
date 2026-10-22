@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Bradford Street (San Francisco)
-created: 2026-10-21T23:16:40.557Z
-modified: 2026-10-21T23:16:40.557Z
-published: 2026-10-21T23:16:40.557Z
+created: 2026-10-21T23:16:41.000Z
+modified: 2026-10-21T23:16:41.000Z
+published: 2026-10-21T23:16:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Steepest Streets in San Francisco
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 37.7405
   - -122.4096
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[San Francisco]]"
 Short street on Bernal Heights in [[San Francisco]]. A Priceonomics survey finds it the city's steepest.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Steepest Streets in San Francisco | Priceonomics | subject | A 41% grade: the steepest street in the survey. |
 
 ## The Steepest Streets in San Francisco — Priceonomics (2015)
+
 Source: [Original](http://priceonomics.com/the-steepest-streets-in-/) · [Readwise highlight](https://read.readwise.io/read/01m5gby2ekahre6yrs422feaws)
 
 > With an astonishing 41% grade, Bradford Street, in the hilly Bernal Heights neighborhood, is the city’s steepest (at least of those surveyed).

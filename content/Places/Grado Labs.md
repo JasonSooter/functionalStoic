@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Grado Labs
-created: 2026-10-21T22:25:52.936Z
-modified: 2026-10-21T22:25:52.936Z
-published: 2026-10-21T22:25:52.936Z
+created: 2026-10-21T22:25:53.000Z
+modified: 2026-10-21T22:25:53.000Z
+published: 2026-10-21T22:25:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - High Fidelity
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 40.6445
   - -74.0041
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sunset Park]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Sunset Park]]"
 Headphone and phono-cartridge maker's building on Seventh Avenue in [[Sunset Park]], Brooklyn. The Distance profiles the family firm that has worked there since 1955.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | High Fidelity | Basecamp | subject | Former family fruit store that has been the Grado factory since 1955. |
 
 ## High Fidelity — Basecamp (2015)
+
 Source: [Original](https://thedistance.com/grado-labs/) · [Readwise highlight](https://read.readwise.io/read/01m5g8vrvqec1f12qgzg19a0xd)
 
 > In 1955, he moved the operations of his fledging company into his Italian immigrant father’s fruit store in Sunset Park. The fruit store is long gone, but Grado Labs is still there.

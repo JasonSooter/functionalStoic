@@ -2,13 +2,15 @@
 publish: true
 title: Charleston, South Carolina
 created: 2026-10-21T13:56:42.000Z
-modified: 2026-10-22T10:45:49.669Z
-published: 2026-10-22T10:45:49.669Z
+modified: 2026-10-22T10:45:50.000Z
+published: 2026-10-22T10:45:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - How to Be an Antiracist
-  - Going on a Cruise Part 3 – Save on Board and on Transportation
-  - November 2015 Financial Update
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +20,6 @@ icon: book
 location:
   - 32.8139
   - -79.9319
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Charleston, South Carolina
@@ -37,10 +35,12 @@ Historic port city on the South Carolina coast. In How to Be an Antiracist (Ibra
 | November 2015 Financial Update | Justin (Root of Good) | journey waypoint | The family books a January cruise from Charleston to the Bahamas, most of November’s spending. |
 
 ## Sub-places
+
 - [[East Bay Street (Charleston)]]
 - [[Market Street (Charleston)]]
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fzd4edpwthbypzvna4z9sh)
 
 > A fifty-one-year-old free Black carpenter had to first teach away these racist ideas in 1818 as he began recruiting thousands of enslaved Blacks to join his slave revolt around Charleston, South Carolina.
@@ -60,6 +60,7 @@ Source: [Original](http://rootofgood.com/cruise-saving-tips-on-board-transportat
 - **Why it matters:** The city is a practical example in a budgeting tip; any nearby port would make the same point.
 
 ## November 2015 Financial Update — Justin (Root of Good) (2015)
+
 Source: [Original](http://rootofgood.com/november-2015-financial-update/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5tj9gseg3p40b1999593)
 
 > We’ll be sailing out of Charleston, South Carolina to the Bahamas for six days and five nights.

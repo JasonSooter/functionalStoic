@@ -2,18 +2,18 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-22T13:40:19.960Z
-published: 2026-10-22T13:40:19.960Z
+modified: 2026-10-22T13:40:20.000Z
+published: 2026-10-22T13:40:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Colorado

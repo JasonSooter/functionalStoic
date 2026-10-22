@@ -2,18 +2,18 @@
 publish: true
 title: Wisconsin
 created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-21T23:17:17.034Z
-published: 2026-10-21T23:17:17.034Z
+modified: 2026-10-21T23:17:17.000Z
+published: 2026-10-21T23:17:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Wisconsin

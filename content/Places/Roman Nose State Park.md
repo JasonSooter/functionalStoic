@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Roman Nose State Park
-created: 2026-10-22T10:43:43.388Z
-modified: 2026-10-22T10:43:43.388Z
-published: 2026-10-22T10:43:43.388Z
+created: 2026-10-22T10:43:43.000Z
+modified: 2026-10-22T10:43:43.000Z
+published: 2026-10-22T10:43:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Six things I learned about being a bike commuter
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 35.9364
   - -98.4251
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oklahoma]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Oklahoma]]"
 State park in western [[Oklahoma]], scene of one of Bob Doucette's early, ill-fated mountain-bike outings.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Six things I learned about being a bike commuter | Bob Doucette | setting | Chasing two seasoned riders on horse trails on a cheap bike whose seat won’t stay put. |
 
 ## Six things I learned about being a bike commuter — Bob Doucette (2015)
+
 Source: [Original](https://proactiveoutside.wordpress.com/2015/11/17/six-things-i-learned-about-being-a-bike-commuter/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5432pzgzmnh0v74z3fca)
 
 > On another, trying to follow two seasoned mountain bikers on some up-and-down horse trails at Roman Nose State Park in western Oklahoma.

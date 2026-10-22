@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Callejón del Beso
-created: 2026-10-21T22:25:22.805Z
-modified: 2026-10-21T22:25:22.805Z
-published: 2026-10-21T22:25:22.805Z
 aliases:
   - Alleyway of Kisses
   - Alley of the Kiss
+title: Callejón del Beso
+created: 2026-10-21T22:25:23.000Z
+modified: 2026-10-21T22:25:23.000Z
+published: 2026-10-21T22:25:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Exploring Guanajuato, Mexico
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 21.0164
   - -101.2564
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Guanajuato]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Guanajuato]]"
 Two-foot-wide alley in [[Guanajuato]] with a Romeo-and-Juliet legend. A Root of Good post stops there on a day trip.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Exploring Guanajuato, Mexico | JustinRoG | journey waypoint | Two-foot-wide alley where a balcony kiss is said to have started a family feud. |
 
 ## Exploring Guanajuato, Mexico — JustinRoG (2015)
+
 Source: [Original](http://rootofgood.com/guanajuato-mexico/) · [Readwise highlight](https://read.readwise.io/read/01m5g8v6x4fcstff04bsvnnbp6)
 
 > At two feet wide, rumor has it that some young lady leaned over her balcony and kissed a lad on the other side of the alley and started a duel between their two families a la Romeo and Juliet.

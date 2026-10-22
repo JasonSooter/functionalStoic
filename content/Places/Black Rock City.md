@@ -1,14 +1,17 @@
 ---
 publish: true
-title: Black Rock City
-created: 2026-10-21T23:16:46.669Z
-modified: 2026-10-22T14:40:34.675Z
-published: 2026-10-22T14:40:34.675Z
 aliases:
   - Burning Man
+title: Black Rock City
+created: 2026-10-21T23:16:47.000Z
+modified: 2026-10-22T14:40:35.000Z
+published: 2026-10-22T14:40:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Elon Musk Is Right, Burning Man Is Silicon Valley
-  - Burning Man Survival Guide 2022
 categories:
   - "[[Places]]"
 color: purple
@@ -19,10 +22,6 @@ icon: newspaper
 location:
   - 40.7834
   - -119.2074
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nevada]]"
 ---
 
@@ -38,7 +37,8 @@ Temporary city of the Burning Man festival in Nevada's Black Rock Desert ([[Neva
 | Burning Man Survival Guide 2022 | Burning Man Project | subject | The 2022 guide describes the temporary city and its decommodified rules. |
 
 ## Elon Musk Is Right, Burning Man Is Silicon Valley — Sarah Buhr (2014)
-Source: [Original](http://techcrunch.com/2014/09/04/elon-musk-is-right-burning-man-is-silicon-valley/?ncid=rss&cps=gravity) · [Readwise highlight](https://read.readwise.io/read/01m5gby5gdm1kkect84y9tv792)
+
+Source: [Original](http://techcrunch.com/2014/09/04/elon-musk-is-right-burning-man-is-silicon-valley/?ncid=rss\&cps=gravity) · [Readwise highlight](https://read.readwise.io/read/01m5gby5gdm1kkect84y9tv792)
 
 > It’s nighttime when my driving buddy Ben Parr and I arrive in Black Rock City.
 
@@ -47,6 +47,7 @@ Source: [Original](http://techcrunch.com/2014/09/04/elon-musk-is-right-burning-m
 - **Why it matters:** The city is the whole subject of the argument that Burning Man mirrors Silicon Valley.
 
 ## Burning Man Survival Guide 2022 — Burning Man Project (2022)
+
 Source: [Original](https://survival.burningman.org/) · [Readwise highlight](https://read.readwise.io/read/01m5hy73rkjgz7jr847ng4cz81)
 
 > Black Rock City is not the place to increase your online following or generate media attention for your ideas, your business, or yourself.

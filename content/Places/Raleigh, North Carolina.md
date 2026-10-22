@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Raleigh, North Carolina
-created: 2026-10-22T10:44:11.939Z
-modified: 2026-10-22T10:44:11.939Z
-published: 2026-10-22T10:44:11.939Z
 aliases:
   - Raleigh
+title: Raleigh, North Carolina
+created: 2026-10-22T10:44:12.000Z
+modified: 2026-10-22T10:44:12.000Z
+published: 2026-10-22T10:44:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - How We Reached Financial Independence In Our 30’s
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 35.78
   - -78.64
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[North Carolina]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[North Carolina]]"
 Capital of [[North Carolina]], where Root of Good's family saved its way to early retirement on a frugal budget.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How We Reached Financial Independence In Our 30’s | Justin (Root of Good) | backdrop | A low-to-moderate cost-of-living city that made their high savings rate possible. |
 
 ## How We Reached Financial Independence In Our 30’s — Justin (Root of Good) (2015)
+
 Source: [Original](http://rootofgood.com/financial-independence-thirties/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5jszwzgd38g7qpnrf1rf)
 
 > We saved a lot by living frugally in Raleigh, North Carolina (a low to moderate cost of living area) and having decent incomes.

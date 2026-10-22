@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Ghorband Valley
-created: 2026-10-22T16:26:23.980Z
-modified: 2026-10-22T16:26:23.980Z
-published: 2026-10-22T16:26:23.980Z
 aliases:
   - Ghorband
+title: Ghorband Valley
+created: 2026-10-22T16:26:24.000Z
+modified: 2026-10-22T16:26:24.000Z
+published: 2026-10-22T16:26:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 35
   - 68.85
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Afghanistan]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Afghanistan]]"
 Valley in Parwan Province, Afghanistan, on the old road from Kabul to Bamyan. 'The most wonderful cycle-ride' of Dervla Murphy's life in _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Her finest day's ride, ending in the Governor's household as 'one of the family'. |
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6m4nsxqb9g18jzng4x8zt)
 
 > Beyond a doubt today’s run up the Ghorband valley was the most wonderful cycle-ride of my life. Surely this must have been the Garden of Eden – it’s so beautiful that I was too excited to eat the lunch my hostess had packed for me and spent the day in a sort of enchanted trance.

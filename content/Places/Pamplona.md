@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Pamplona
-created: 2026-10-22T10:25:58.907Z
-modified: 2026-10-22T10:25:58.907Z
-published: 2026-10-22T10:25:58.907Z
+created: 2026-10-22T10:25:59.000Z
+modified: 2026-10-22T10:25:59.000Z
+published: 2026-10-22T10:25:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 42.8167
   - -1.65
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Spain]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Spain]]"
 City in Navarre, northern [[Spain]], whose Running of the Bulls anchors a family trip in Steve Miller's early-retirement story.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller | Steve Miller | journey waypoint | A Europe trip with their youngest son is planned around the Running of the Bulls. |
 
 ## Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller — Steve Miller (2015)
+
 Source: [Original](https://www.themoneymine.com/early-retirement-from-the-sale-of-a-multi-million-dollar-business-with-steve-miller/) · [Readwise highlight](https://read.readwise.io/read/01m5hj19x7nbrdj5cc50wfc8gs)
 
 > We planned the trip around the Running of the Bulls in Pamplona but spent time in Paris, Spain, Italy and Portugal. The Running of the Bulls is something everyone should experience.

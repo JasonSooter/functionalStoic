@@ -2,18 +2,18 @@
 publish: true
 title: Ontario
 created: 2026-10-20T10:42:30.000Z
-modified: 2026-10-22T01:44:06.215Z
-published: 2026-10-22T01:44:06.215Z
+modified: 2026-10-22T01:44:06.000Z
+published: 2026-10-22T01:44:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Ontario

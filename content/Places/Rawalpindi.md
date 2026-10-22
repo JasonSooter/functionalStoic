@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Rawalpindi
-created: 2026-10-22T16:26:40.355Z
-modified: 2026-10-22T16:26:40.355Z
-published: 2026-10-22T16:26:40.355Z
 aliases:
   - Pindi
+title: Rawalpindi
+created: 2026-10-22T16:26:40.000Z
+modified: 2026-10-22T16:26:40.000Z
+published: 2026-10-22T16:26:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 33.6
   - 73.0333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pakistan]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Pakistan]]"
 City in Punjab, Pakistan. Dervla Murphy's base for more than a week in _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Her hot, dusty base: the National Assembly, Irish nuns and the wait for a Gilgit flight. |
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6mw4hemse0ef75cc3ev3d)
 
 > I am staying here with a Pakistani General’s family. The General himself is in London now but his wife and elder daughter gave me a very warm welcome; their house resembles a military museum as the General collects ancient weapons and armour.

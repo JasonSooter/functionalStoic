@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Runnymede
-created: 2026-10-22T01:44:43.006Z
-modified: 2026-10-22T01:44:43.006Z
-published: 2026-10-22T01:44:43.006Z
+created: 2026-10-22T01:44:43.000Z
+modified: 2026-10-22T01:44:43.000Z
+published: 2026-10-22T01:44:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 51.4444
   - -0.5653
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Surrey]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Surrey]]"
 Water-meadow on the Thames in [[Surrey]] where King John sealed Magna Carta in 1215. In Three Men in a Boat the narrator stops here and daydreams the whole scene of that June morning.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | subject | After breakfast the narrator imagines the barons, crowds and King John's barge on the morning Magna Carta was sealed. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gky0s4nsgt2t2h2ma45p5e)
 
 > Slowly the heavy, bright-decked barges leave the shore of Runnymede.

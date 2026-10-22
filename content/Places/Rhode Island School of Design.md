@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Rhode Island School of Design
-created: 2026-10-21T20:00:03.892Z
-modified: 2026-10-21T20:00:03.892Z
-published: 2026-10-21T20:00:03.892Z
 aliases:
   - RISD
+title: Rhode Island School of Design
+created: 2026-10-21T20:00:04.000Z
+modified: 2026-10-21T20:00:04.000Z
+published: 2026-10-21T20:00:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Kinetic Wood Sculptor
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 41.8269
   - -71.4067
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Providence]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Providence]]"
 Art and design college in Providence, Rhode Island. In a Priceonomics profile it is where David Roy first sees the artistic process up close.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Kinetic Wood Sculptor | Priceonomics | turning point | Visits to Marji here show Roy the artistic process and spark his sculpture. |
 
 ## The Kinetic Wood Sculptor — Priceonomics (2015)
+
 Source: [Original](http://priceonomics.com/the-kinetic-wood-sculptor/) · [Readwise highlight](https://read.readwise.io/read/01m5g0e3v617a1qgm2p1ye5qgj)
 
 > While in college, he frequently journeyed to see his high school friend, Marji, who was studying sculpture and art education at the Rhode Island School of Design.

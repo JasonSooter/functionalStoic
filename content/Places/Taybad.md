@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Taybad
-created: 2026-10-22T16:26:06.212Z
-modified: 2026-10-22T16:26:06.212Z
-published: 2026-10-22T16:26:06.212Z
 aliases:
   - Tieabad
   - Tayebad
+title: Taybad
+created: 2026-10-22T16:26:06.000Z
+modified: 2026-10-22T16:26:06.000Z
+published: 2026-10-22T16:26:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 34.7408
   - 60.7792
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iran]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Iran]]"
 Border town in Razavi Khorasan near the Afghan frontier. Dervla Murphy's last night in Iran in _Full Tilt_ (as 'Tieabad').
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | A wheel falls off; she fixes it and argues her way out of the hotel's women's quarter. |
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kve5cby3rvsamkct630k)
 
 > Actually I shouldn’t be here – on arrival the proprietor told me that no women are allowed outside the Women’s Quarter. I meekly went off to same but it consisted of a tiny room with six beds and just enough space to walk between them. One bed was mine; the other five were occupied by women who possessed a minimum of two infants apiece – all being fed and changed at the time of my appearance. Both window and door were tightly sealed and the stink was appalling

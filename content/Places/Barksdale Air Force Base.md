@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Barksdale Air Force Base
-created: 2026-10-22T13:40:03.651Z
-modified: 2026-10-22T13:40:03.651Z
-published: 2026-10-22T13:40:03.651Z
+created: 2026-10-22T13:40:04.000Z
+modified: 2026-10-22T13:40:04.000Z
+published: 2026-10-22T13:40:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - America's iconic war machine - BBC News
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 32.5019
   - -93.6628
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Louisiana]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Louisiana]]"
 US Air Force base at Bossier City, Louisiana, home of B-52 bombers; the BBC's James Morgan meets the crews there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | America's iconic war machine - BBC News | James Morgan | setting | The BBC's James Morgan meets the crews there. |
 
 ## America's iconic war machine - BBC News — James Morgan (2015)
+
 Source: [Original](https://www.bbc.com/news/magazine-33766644) · [Readwise highlight](https://read.readwise.io/read/01m5hx1vwfywpdk2s5bqekvxh8)
 
 > We are sweltering in the Louisiana summer. The baking hot tarmac of Barksdale runway feels like burning coals.

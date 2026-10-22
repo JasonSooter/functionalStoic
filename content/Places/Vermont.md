@@ -2,18 +2,18 @@
 publish: true
 title: Vermont
 created: 2026-10-21T02:13:42.000Z
-modified: 2026-10-21T22:59:52.875Z
-published: 2026-10-21T22:59:52.875Z
+modified: 2026-10-21T22:59:53.000Z
+published: 2026-10-21T22:59:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Vermont

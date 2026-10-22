@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Croke Park
-created: 2026-10-22T10:25:51.758Z
-modified: 2026-10-22T10:25:51.758Z
-published: 2026-10-22T10:25:51.758Z
+created: 2026-10-22T10:25:52.000Z
+modified: 2026-10-22T10:25:52.000Z
+published: 2026-10-22T10:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - How to Build an Opportunity Fund
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 53.3604
   - -6.251
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dublin]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Dublin]]"
 Stadium in [[Dublin]], Ireland, where Jim Wang's opportunity fund buys the U2 tickets his travelling friends couldn't use.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Build an Opportunity Fund | Jim Wang | turning point | Friends miss their flight, so the author buys their U2 tickets with his opportunity fund instead of going to the pub. |
 
 ## How to Build an Opportunity Fund — Jim Wang (2015)
+
 Source: [Original](https://wallethacks.com/build-opportunity-fund/) · [Readwise highlight](https://read.readwise.io/read/01m5hj2bw4xfd8f45p20fjj2gb)
 
 > Originally, we weren’t going to the concert. We were going to a nearby pub because we like U2 but not enough to want to spend a few hundred dollars to see them.

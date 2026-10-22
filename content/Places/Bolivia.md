@@ -2,25 +2,18 @@
 publish: true
 title: Bolivia
 created: 2026-10-21T02:06:22.000Z
-modified: 2026-10-22T10:47:32.208Z
-published: 2026-10-22T10:47:32.208Z
-aliases: []
-books:
-  - 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow
-categories:
-  - "[[Places]]"
-color: purple
-coordinates: -17.0569,-64.9912
-geo_note: approximate (country representative point)
-geo_source: Wikidata Q750
-icon: newspaper
-location:
-  - -17.0569
-  - -64.9912
+modified: 2026-10-22T10:47:32.000Z
+published: 2026-10-22T10:47:32.000Z
 tags:
   - places
   - place/literary
   - source/ai/claude
+aliases: []
+books: []
+categories:
+  - "[[Places]]"
+color: purple
+icon: book
 ---
 
 # Bolivia
@@ -28,14 +21,17 @@ tags:
 Landlocked country in central South America, where the cycling family of LifeEdited's 1 Couple + 2 Bikes story camps out to wait for their baby.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow | David Friedlander | turning point | Seven months pregnant on the road, Alice and the family camp in Bolivia until the baby can ride in the trailer. |
 
 ## Sub-places
+
 - [[La Paz]]
 
 ## 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/1-couple-2-bikes-2-kids-5-continents-7-years-wow/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5s9702wm58ae1ry9f134)
 
 > When she was seven months pregnant, they camped out in Bolivia until the baby was big enough to stash in a hammock in the trailer.

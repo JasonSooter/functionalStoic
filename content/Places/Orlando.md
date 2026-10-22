@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Orlando
-created: 2026-10-22T10:26:38.753Z
-modified: 2026-10-22T10:26:38.753Z
-published: 2026-10-22T10:26:38.753Z
 aliases:
   - Orlando, Florida
+title: Orlando
+created: 2026-10-22T10:26:39.000Z
+modified: 2026-10-22T10:26:39.000Z
+published: 2026-10-22T10:26:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - ★ The Crazy Side of Paying Off $55,000 of Debt in 14 Months
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 28.5422
   - -81.3792
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Florida]]"
 City in central [[Florida]] where the Bean Counter couple move to be near a business partner and go without a couch to stay on budget.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| ★ The Crazy Side of Paying Off $55,000 of Debt in 14 Months | Andrew (The Bean Counter) | journey waypoint | Moving from Miami to Orlando, they budget the new place and skip buying a couch. |
+| ★ The Crazy Side of Paying Off \$55,000 of Debt in 14 Months | Andrew (The Bean Counter) | journey waypoint | Moving from Miami to Orlando, they budget the new place and skip buying a couch. |
 
-## ★ The Crazy Side of Paying Off $55,000 of Debt in 14 Months — Andrew (The Bean Counter) (2015)
+## ★ The Crazy Side of Paying Off \$55,000 of Debt in 14 Months — Andrew (The Bean Counter) (2015)
+
 Source: [Original](http://rockstarfinance.com/crazy-side-debt-repayment/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1kw62qc6ndbc94nyqh8n)
 
 > During our move from Miami to Orlando, we set up a separate budget of what we needed to purchase for our new place and what we were willing to sacrifice on.

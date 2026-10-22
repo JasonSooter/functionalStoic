@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Musanze
-created: 2026-10-22T14:40:16.800Z
-modified: 2026-10-22T14:40:16.800Z
-published: 2026-10-22T14:40:16.800Z
 aliases:
   - Ruhengeri
+title: Musanze
+created: 2026-10-22T14:40:17.000Z
+modified: 2026-10-22T14:40:17.000Z
+published: 2026-10-22T14:40:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Life on Air [revised & updated 2nd edition]
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - -1.5
   - 29.6333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rwanda]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Rwanda]]"
 Town in northern Rwanda, formerly Ruhengeri; in _Life on Air_ the BBC crew are detained at its security police headquarters.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | turning point | The BBC crew are detained at its security police headquarters. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | turning point | The BBC crew are detained at its security police headquarters. |
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7njpftna9teyqcq38egn)
 
 > At the Security Police Headquarters we were lined up against a wall and given a detailed body search.

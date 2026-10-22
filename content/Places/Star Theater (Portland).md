@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Star Theater (Portland)
-created: 2026-10-21T22:25:48.336Z
-modified: 2026-10-21T22:25:48.336Z
-published: 2026-10-21T22:25:48.336Z
 aliases:
   - Star Theatre
+title: Star Theater (Portland)
+created: 2026-10-21T22:25:48.000Z
+modified: 2026-10-21T22:25:48.000Z
+published: 2026-10-21T22:25:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Why Does Portland Have so Many Strip Clubs?
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 45.5236
   - -122.6764
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Portland, Oregon]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Portland, Oregon]]"
 Old theatre in downtown [[Portland, Oregon]]. In a Priceonomics piece its 1970s shows lead to the court case that protected the city's strip clubs.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Does Portland Have so Many Strip Clubs? | Priceonomics | turning point | 1970s erotic-film house whose obscenity case set Oregon's free-expression precedent. |
 
 ## Why Does Portland Have so Many Strip Clubs? — Priceonomics (2015)
+
 Source: [Original](http://priceonomics.com/why-does-portland-have-so-many-strip-clubs/) · [Readwise highlight](https://read.readwise.io/read/01m5g8w3q8mwn88r9ghm7j24s2)
 
 > Throughout the 1970s, Star Theatre, another Portland establishment, became known for featuring erotic films

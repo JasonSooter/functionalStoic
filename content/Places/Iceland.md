@@ -2,25 +2,18 @@
 publish: true
 title: Iceland
 created: 2026-10-20T10:42:22.000Z
-modified: 2026-10-21T22:30:27.101Z
-published: 2026-10-21T22:30:27.101Z
-aliases: []
-books:
-  - "[[The Comfort Crisis]]"
-categories:
-  - "[[Places]]"
-color: purple
-coordinates: 65.0,-18.0
-geo_note: approximate (country's representative point)
-geo_source: Wikipedia (en) Iceland
-icon: book
-location:
-  - 65
-  - -18
+modified: 2026-10-21T22:30:27.000Z
+published: 2026-10-21T22:30:27.000Z
 tags:
   - places
   - place/literary
   - source/ai/claude
+aliases: []
+books: []
+categories:
+  - "[[Places]]"
+color: purple
+icon: book
 ---
 
 # Iceland
@@ -28,6 +21,7 @@ tags:
 Island country in the North Atlantic. In The Comfort Crisis (Michael Easter) its harsh climate is the closing case that hardship breeds long life.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | subject | A harsh volcanic island whose eleven centuries of hardship, a geneticist argues, bred long-lived people. |
@@ -41,6 +35,7 @@ Island country in the North Atlantic. In The Comfort Crisis (Michael Easter) its
 - [[Svartsengi Power Station]]
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5g8w9mzhympf4absgjrb0r2)
 
 > It was a patch of volcanic rock about the size of Kentucky that was covered in jagged rock, ice, and moss.

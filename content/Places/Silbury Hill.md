@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Silbury Hill
-created: 2026-10-22T13:41:39.787Z
-modified: 2026-10-22T13:41:39.787Z
-published: 2026-10-22T13:41:39.787Z
+created: 2026-10-22T13:41:40.000Z
+modified: 2026-10-22T13:41:40.000Z
+published: 2026-10-22T13:41:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air [revised & updated 2nd edition]
@@ -16,10 +20,6 @@ icon: book
 location:
   - 51.4157
   - -1.8574
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[England]]"
 Prehistoric artificial mound near Avebury, Wiltshire; in _Life on Air_ the subject of BBC2's televised excavation.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | subject | The subject of BBC2's televised excavation. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | subject | The subject of BBC2's televised excavation. |
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx34zsbkmn0f918r1yj2xg)
 
 > We would try to solve one of the enduring problems of British archaeology - the function and origin of Sil bury Hill, the immense cone-shaped mound standing alongside the A4 road in Wiltshire.

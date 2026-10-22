@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Jiuquan Satellite Launch Center
-created: 2026-10-22T16:48:59.918Z
-modified: 2026-10-22T16:48:59.918Z
-published: 2026-10-22T16:48:59.918Z
 aliases:
   - Jiuquan
+title: Jiuquan Satellite Launch Center
+created: 2026-10-22T16:49:00.000Z
+modified: 2026-10-22T16:49:00.000Z
+published: 2026-10-22T16:49:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Martian]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 40.9581
   - 100.2911
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[China]]"
 Chinese space launch site in the Gobi desert, Inner Mongolia. In _The Martian_ the Taiyang Shen booster carries the rescue supplies from here.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Martian]] | Andy Weir | setting | Joint US–China mission control and a perfect launch of the Taiyang Shen supply probe. |
 
 ## The Martian — Andy Weir (2011)
+
 Source: [[The Martian]] · [Original](https://openlibrary.org/works/OL17091839W) · [Readwise highlight](https://read.readwise.io/read/01m5j7vf02n2r0301wbhn2scdh)
 
 > Su Bin translated Guo Ming’s words as Teddy took the second-best seat in the observation room. He looked through the glass to Jiuquan’s Mission Control Center. It was remarkably similar to Houston’s, though Teddy couldn’t read any of the Chinese text on the big screens.

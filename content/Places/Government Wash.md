@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Government Wash
-created: 2026-10-22T16:26:11.548Z
-modified: 2026-10-22T16:26:11.548Z
-published: 2026-10-22T16:26:11.548Z
+created: 2026-10-22T16:26:12.000Z
+modified: 2026-10-22T16:26:12.000Z
+published: 2026-10-22T16:26:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - A Month At Lake Mead National Recreation Area — Live Small – Ride Free
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 36.1321
   - -114.8334
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Lake Mead]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Lake Mead]]"
 Rocky wash and free camping area on Las Vegas Bay in [[Lake Mead]] National Recreation Area, Nevada. A van-life couple's first boondocking base near Las Vegas.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Month At Lake Mead National Recreation Area — Live Small – Ride Free | Ching | setting | Their first boondocking site: rocks everywhere, a lake view, quail and nightly howling coyotes. |
 
 ## A Month At Lake Mead National Recreation Area — Live Small – Ride Free — Ching (2016)
+
 Source: [Original](http://www.livesmallridefree.com/blog/a-month-at-lake-mead-national-recreation-area) · [Readwise highlight](https://read.readwise.io/read/01m5j6kbyxmm63tsdgekdc61jf)
 
 > My initial thought after seeing Government Wash, our boondock site at Lake Mead, was that it looked like the place had blown up.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: YMCA on 125th Street (Harlem)
-created: 2026-10-21T20:00:18.096Z
-modified: 2026-10-21T20:00:18.096Z
-published: 2026-10-21T20:00:18.096Z
+created: 2026-10-21T20:00:18.000Z
+modified: 2026-10-21T20:00:18.000Z
+published: 2026-10-21T20:00:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Quiet]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 40.811
   - -73.9531
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[New York City]]"
 A YMCA night school on 125th Street in Harlem, Manhattan. In Quiet (Susan Cain) it is where Dale Carnegie teaches his first public-speaking class.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | turning point | Where Dale Carnegie teaches his first public-speaking class. |
 
 ## Quiet — Susan Cain (2012)
+
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g0fd94j9s02j8xqvdmzfss)
 
 > Carnegie holds his first class at a YMCA night school on 125th Street in New York City.

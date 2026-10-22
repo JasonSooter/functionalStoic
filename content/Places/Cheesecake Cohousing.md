@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Cheesecake Cohousing
-created: 2026-10-22T01:44:11.172Z
-modified: 2026-10-22T01:44:11.172Z
-published: 2026-10-22T01:44:11.172Z
 aliases:
   - Cheesecake Cohousing Consortium
+title: Cheesecake Cohousing
+created: 2026-10-22T01:44:11.000Z
+modified: 2026-10-22T01:44:11.000Z
+published: 2026-10-22T01:44:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Growing Old Together and in Style
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 39.0658
   - -123.445
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[California]]"
 Small cohousing compound in Mendocino County, California, built by a group of longtime friends. LifeEdited holds it up as a model for growing old together.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Growing Old Together and in Style | David Friedlander | subject | Three buildings with verandas and a central pavilion, built by eight friends and finished in 1993, as a model for senior housing. |
 
 ## Growing Old Together and in Style — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/growing-old-together-and-in-style/) · [Readwise highlight](https://read.readwise.io/read/01m5gm0mp4fps2hgy7f5mt3zbq)
 
 > The oddly named Cheesecake Cohousing Consortium in Mendocino, CA provides one example of what that could look like.

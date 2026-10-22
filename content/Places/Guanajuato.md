@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Guanajuato
-created: 2026-10-21T22:25:17.733Z
-modified: 2026-10-21T22:25:17.733Z
-published: 2026-10-21T22:25:17.733Z
 aliases:
   - Guanajuato City
+title: Guanajuato
+created: 2026-10-21T22:25:18.000Z
+modified: 2026-10-21T22:25:18.000Z
+published: 2026-10-21T22:25:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Exploring Guanajuato, Mexico
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 21.0178
   - -101.2567
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico]]"
 ---
 
@@ -29,16 +29,19 @@ within: "[[Mexico]]"
 Hillside silver-mining city in central [[Mexico]]. A Root of Good post follows a family day trip there from San Miguel de Allende.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Exploring Guanajuato, Mexico | JustinRoG | subject | Day trip by bus from San Miguel de Allende to the steep silver-mining city of plazas and tunnels. |
 
 ## Sub-places
+
 - [[Callejón del Beso]]
 - [[La Valenciana (Guanajuato)]]
 - [[Museo Casa Diego Rivera]]
 
 ## Exploring Guanajuato, Mexico — JustinRoG (2015)
+
 Source: [Original](http://rootofgood.com/guanajuato-mexico/) · [Readwise highlight](https://read.readwise.io/read/01m5g8v40aydabfsyd9ew9jxzk)
 
 > As week two of our seven week adventure in Mexico came to an end, we took a day trip to Guanajuato, Mexico.

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Penton Hook Lock
-created: 2026-10-21T23:17:05.573Z
-modified: 2026-10-21T23:17:05.573Z
-published: 2026-10-21T23:17:05.573Z
 aliases:
   - Penton Hook
+title: Penton Hook Lock
+created: 2026-10-21T23:17:06.000Z
+modified: 2026-10-21T23:17:06.000Z
+published: 2026-10-21T23:17:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Three Men in a Boat
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 51.4147
   - -0.5003
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[England]]"
 Lock on the Thames near Staines ([[England]]). In Three Men in a Boat (Jerome K. Jerome) the three regret not camping there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Three Men in a Boat | Jerome K. Jerome | turning point | They decide to push on instead of camping, and wish afterwards they had stopped. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gbyftd74nahxqj0d447m8c)
 
 > We all wished, however, afterward, that we had stopped at Penton Hook.

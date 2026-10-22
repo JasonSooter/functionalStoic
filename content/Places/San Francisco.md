@@ -2,8 +2,12 @@
 publish: true
 title: San Francisco
 created: 2026-10-20T13:47:58.000Z
-modified: 2026-10-22T16:49:12.526Z
-published: 2026-10-22T16:49:12.526Z
+modified: 2026-10-22T16:49:13.000Z
+published: 2026-10-22T16:49:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -16,10 +20,6 @@ icon: book
 location:
   - 37.7879
   - -122.4075
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -28,6 +28,7 @@ within: "[[California]]"
 City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) it is where Mike studies every religion in town before he finally groks people.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | setting | Mike and Jill's flat, piled with religious books, after visits to every kind of church in the city. |
@@ -55,6 +56,7 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 - [[Thurgood Marshall Academic High School]]
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
+
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > All the sorts there are in San Francisco, I think-except, possibly, for little, secret ones that don't list their addresses.

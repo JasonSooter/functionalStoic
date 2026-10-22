@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Nablus
-created: 2026-10-22T16:49:31.010Z
-modified: 2026-10-22T16:49:31.010Z
-published: 2026-10-22T16:49:31.010Z
+created: 2026-10-22T16:49:31.000Z
+modified: 2026-10-22T16:49:31.000Z
+published: 2026-10-22T16:49:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 32.2211
   - 35.2608
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Bank]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[West Bank]]"
 City in the northern West Bank. Home of the falconer Hassan's refugee family in _Apeirogon_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | A displaced family builds upward for its falcons and keeps the keys of a lost house. |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Readwise highlight](https://read.readwise.io/read/01m5j7wzct311n61tde5s8t0zk)
 
 > Hassan and his family—and their falcons—eventually ended up in the mud streets of Nablus.

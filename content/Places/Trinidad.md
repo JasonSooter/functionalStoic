@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Trinidad
-created: 2026-10-21T22:26:44.660Z
-modified: 2026-10-21T22:26:44.660Z
-published: 2026-10-21T22:26:44.660Z
+created: 2026-10-21T22:26:45.000Z
+modified: 2026-10-21T22:26:45.000Z
+published: 2026-10-21T22:26:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Quiet]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 10.5
   - -61.3
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Trinidad
@@ -28,11 +28,13 @@ tags:
 Larger island of Trinidad and Tobago in the Caribbean. In Quiet (Susan Cain) its streams, with guppies above and below waterfalls, illustrate why bold and cautious temperaments both survive.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | subject | Guppies above the waterfalls grow bold, those below among pike grow cautious: both temperaments pay. |
 
 ## Quiet — Susan Cain (2012)
+
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wnb9xsfjzf14erjx83wt)
 
 > In contrast, if your guppy family came from a “bad neighborhood” downstream from the waterfall, where pike cruise the waterways menacingly, then you probably have a much more circumspect style, just right for avoiding the bad guys.

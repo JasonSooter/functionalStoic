@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Goring-on-Thames
-created: 2026-10-22T01:44:05.291Z
-modified: 2026-10-22T01:44:05.291Z
-published: 2026-10-22T01:44:05.291Z
 aliases:
   - Goring
   - Streatley
   - Goring and Streatley
   - Goring Gap
+title: Goring-on-Thames
+created: 2026-10-22T01:44:05.000Z
+modified: 2026-10-22T01:44:05.000Z
+published: 2026-10-22T01:44:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -20,10 +24,6 @@ icon: book
 location:
   - 51.523
   - -1.135
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oxfordshire]]"
 ---
 
@@ -32,11 +32,13 @@ within: "[[Oxfordshire]]"
 Village in the Goring Gap, facing Streatley across the Thames. In Three Men in a Boat the friends find a drowned woman's body near here and then spend two days at Streatley.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | setting | Near Goring they find a drowned woman; then two days at Streatley, bad laundry and the plaster-of-Paris trout. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkz4dgd9rwq4jdqfzkn186)
 
 > Goring on the left bank and Streatley on the right are both or either charming places to stay at for a few days.

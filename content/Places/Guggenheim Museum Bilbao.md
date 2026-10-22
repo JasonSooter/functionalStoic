@@ -4,14 +4,15 @@ aliases:
   - Guggenheim Bilbao
 title: Guggenheim Museum Bilbao
 created: 2026-10-21T13:56:18.000Z
-modified: 2026-10-21T13:56:18.000Z
-published: 2026-10-21T13:56:18.000Z
+modified: 2026-10-21T19:58:29.000Z
+published: 2026-10-21T19:58:29.000Z
 tags:
   - places
   - place/literary
   - source/ai/claude
 books:
   - "[[Walkable City]]"
+  - The Software Behind Frank Gehry’s Geometrically Complex Architecture
 categories:
   - "[[Places]]"
 color: purple
@@ -32,6 +33,7 @@ Guggenheim Museum Bilbao is Frank Gehry's art museum in Bilbao, Spain. It turns 
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Ethan Kent could not find the front door, found a treeless, depopulated plaza, and saw a mugging within ten minutes. |
+| The Software Behind Frank Gehry’s Geometrically Complex Architecture | Priceonomics | turning point | First full test of Gehry's digital method, opened on time and on budget in 1997. |
 
 ## Walkable City — Jeff Speck (2012)
 
@@ -42,3 +44,13 @@ Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695
 - **Role:** subject
 - **In the book:** Ethan Kent could not find the front door, found a treeless, depopulated plaza, and saw a mugging within ten minutes. Speck says the problem place in front of the museum is partly Gehry's fault, a 'landscrape' conceived as a tabula rasa to show off the building.
 - **Why it matters:** It is the book's main case of an iconic building that fails the street. Set elsewhere, the argument about star architects and blank, unwelcoming public space would lose its best-known example.
+
+## The Software Behind Frank Gehry’s Geometrically Complex Architecture — Priceonomics (2015)
+
+Source: [Original](http://priceonomics.com/the-software-behind-frank-gehrys-geometrically/) · [Readwise highlight](https://read.readwise.io/read/01m5g0dx5d1qg5cvkbmb9kd57k)
+
+> Fortunately, Gehry had also won the contract to design a new Guggenheim Museum in a sleepy Spanish town called Bilbao, and was able to start testing his hard-won wisdom in a new experiment.
+
+- **Role:** turning point
+- **In the article:** Gehry designs the museum with physical models, scans them with a digitising wand and refines them in the CATIA software; it opens in 1997 on budget and on time to rave reviews.
+- **Why it matters:** The museum proves the method the article describes, which then rescues the Disney hall.

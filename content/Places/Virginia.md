@@ -2,18 +2,18 @@
 publish: true
 title: Virginia
 created: 2026-10-20T13:48:07.000Z
-modified: 2026-10-22T16:49:10.514Z
-published: 2026-10-22T16:49:10.514Z
+modified: 2026-10-22T16:49:11.000Z
+published: 2026-10-22T16:49:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Virginia

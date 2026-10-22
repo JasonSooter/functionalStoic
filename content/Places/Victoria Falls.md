@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Victoria Falls
-created: 2026-10-22T13:41:19.418Z
-modified: 2026-10-22T13:41:19.418Z
-published: 2026-10-22T13:41:19.418Z
+created: 2026-10-22T13:41:19.000Z
+modified: 2026-10-22T13:41:19.000Z
+published: 2026-10-22T13:41:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air [revised & updated 2nd edition]
@@ -16,10 +20,6 @@ icon: book
 location:
   - -17.9244
   - 25.8567
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Zambia]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Zambia]]"
 Great waterfall of the Zambezi on the Zambia–Zimbabwe border; in _Life on Air_ Attenborough sits on Livingstone's island at its edge.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | turning point | Attenborough sits on Livingstone's island at its edge. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | turning point | Attenborough sits on Livingstone's island at its edge. |
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2wwzqaekra4y6110jq66)
 
 > We sat with our feet dangling over the rocky edge of the fall, just as Livingstone had recorded doing in his j ournal, looking over the eastern cataract with its permanent rainbow in the spray, and peering down to the brown water boiling among the boulders three hundred and fifty feet below.

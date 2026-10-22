@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Bisham Abbey
-created: 2026-10-22T01:43:59.170Z
-modified: 2026-10-22T01:43:59.170Z
-published: 2026-10-22T01:43:59.170Z
+created: 2026-10-22T01:43:59.000Z
+modified: 2026-10-22T01:43:59.000Z
+published: 2026-10-22T01:43:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 51.5566
   - -0.7797
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berkshire]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Berkshire]]"
 Tudor manor house on the Thames half a mile above Marlow, built on the site of a Templar preceptory. Three Men in a Boat lingers over its ghosts, its secret room and Shelley under the Bisham beeches.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | Half a mile above Marlow: Templars, Lady Hoby's ghost, Warwick the king-maker and Shelley writing under the beeches. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkyeqxpsxjedaab4ymmq96)
 
 > Grand old Bisham Abbey, whose stone walls have rung to the shouts of the Knights Templars,

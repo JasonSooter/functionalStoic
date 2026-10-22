@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Massachusetts Institute of Technology
-created: 2026-10-21T19:59:30.471Z
-modified: 2026-10-21T19:59:30.471Z
-published: 2026-10-21T19:59:30.471Z
 aliases:
   - MIT
+title: Massachusetts Institute of Technology
+created: 2026-10-21T19:59:30.000Z
+modified: 2026-10-21T19:59:30.000Z
+published: 2026-10-21T19:59:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Has cosmology run into a creative crisis?
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 42.3597
   - -71.0919
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Massachusetts]]"
 University in Cambridge, Massachusetts. In an Aeon essay on cosmology it is where Alan Guth vets the BICEP2 result in secret.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Has cosmology run into a creative crisis? | Ross Andersen | turning point | Alan Guth's office, where the BICEP2 result is vetted in secret. |
 
 ## Has cosmology run into a creative crisis? — Ross Andersen (2015)
+
 Source: [Original](http://aeon.co/magazine/science/has-cosmology-run-into-a-creative-crisis) · [Readwise highlight](https://read.readwise.io/read/01m5g0e68syj3yrt5tn5qv89xs)
 
 > Guth told Kovac to take the back steps up to his office, to avoid being seen.

@@ -2,18 +2,18 @@
 publish: true
 title: Louisiana
 created: 2026-10-20T13:48:02.000Z
-modified: 2026-10-22T13:40:25.844Z
-published: 2026-10-22T13:40:25.844Z
+modified: 2026-10-22T13:40:26.000Z
+published: 2026-10-22T13:40:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Louisiana

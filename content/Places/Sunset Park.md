@@ -2,8 +2,12 @@
 publish: true
 title: Sunset Park
 created: 2026-10-21T04:46:18.000Z
-modified: 2026-10-21T22:29:47.308Z
-published: 2026-10-21T22:29:47.308Z
+modified: 2026-10-21T22:29:47.000Z
+published: 2026-10-21T22:29:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Breakneck]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 40.6433
   - -74.0144
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
 ---
 
@@ -42,15 +42,17 @@ Neighborhood in Brooklyn, New York City, USA, part of [[Brooklyn]]. It appears i
 - [[Grado Labs]]
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [[Breakneck]] · [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5ebtbte5c5ht8j6n5cbjczs)
 
-> Walk south of the wealthy Brooklyn neighborhood of Park Slope—where brownstone homes retail for around $4 million—and you’ll reach Sunset Park.
+> Walk south of the wealthy Brooklyn neighborhood of Park Slope—where brownstone homes retail for around \$4 million—and you’ll reach Sunset Park.
 
 - **Role:** subject
 - **In the book:** Wang describes the immigrant neighborhood avenue by avenue: Latino businesses on Fifth, Chinese stores on Sixth through Eighth, mitten crabs in fall, the park with views of Manhattan, and the Moses-built Sunset Play Center. He wishes his parents would move there.
 - **Why it matters:** It is the book's closing emblem of a walkable, mixed, affordable urban place and the vehicle for the Robert Moses argument; the dedication repeats the wish.
 
 ## High Fidelity — Basecamp (2015)
+
 Source: [Original](https://thedistance.com/grado-labs/) · [Readwise highlight](https://read.readwise.io/read/01m5g8vt02xsx5vzk3vz8nwraa)
 
 > When he was growing up around the corner, Sunset Park was mostly Irish and Scandinavian.

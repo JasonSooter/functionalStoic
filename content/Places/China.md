@@ -2,18 +2,18 @@
 publish: true
 title: China
 created: 2026-10-20T07:53:40.000Z
-modified: 2026-10-22T16:49:16.774Z
-published: 2026-10-22T16:49:16.774Z
+modified: 2026-10-22T16:49:17.000Z
+published: 2026-10-22T16:49:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # China

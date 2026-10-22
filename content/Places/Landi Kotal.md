@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Landi Kotal
-created: 2026-10-22T16:26:35.304Z
-modified: 2026-10-22T16:26:35.304Z
-published: 2026-10-22T16:26:35.304Z
+created: 2026-10-22T16:26:35.000Z
+modified: 2026-10-22T16:26:35.000Z
+published: 2026-10-22T16:26:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 34.1053
   - 71.1553
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pakistan]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Pakistan]]"
 Town at the top of the Khyber Pass in northwest Pakistan. Dervla Murphy's first Pakistani town in _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | She walks in after curfew; a boy returns her cigarette holder and an official talks Kashmir. |
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6mkgygqqz4cbcxj0s76jy)
 
 > Landi Kotal’s is a notorious bazaar where you can buy almost anything from any country in the world, presumably all smuggled, and it’s rather startling to come on this exotic sort of supermarket in the middle of nowhere.

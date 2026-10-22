@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Jejuí River
-created: 2026-10-22T13:40:41.693Z
-modified: 2026-10-22T13:40:41.693Z
-published: 2026-10-22T13:40:41.693Z
 aliases:
   - Jejui
   - Jejuí Guazú
+title: Jejuí River
+created: 2026-10-22T13:40:42.000Z
+modified: 2026-10-22T13:40:42.000Z
+published: 2026-10-22T13:40:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Life on Air [revised & updated 2nd edition]
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - -24.1761
   - -57.2428
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Paraguay]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Paraguay]]"
 River of eastern Paraguay flowing into the Paraguay River; in _Life on Air_ the Zoo Quest team's route into the forest.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | journey waypoint | The Zoo Quest team's route into the forest. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | journey waypoint | The Zoo Quest team's route into the forest. |
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3932w60mvfdezg8nqa3q)
 
 > We should sail up the Paraguay River for a hundred miles and then turn east up the Jejui, one of its major tributaries.

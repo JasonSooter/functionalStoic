@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Reading, Berkshire
-created: 2026-10-22T01:45:03.270Z
-modified: 2026-10-22T01:45:03.270Z
-published: 2026-10-22T01:45:03.270Z
 aliases:
   - Reading
+title: Reading, Berkshire
+created: 2026-10-22T01:45:03.000Z
+modified: 2026-10-22T01:45:03.000Z
+published: 2026-10-22T01:45:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 51.4542
   - -0.9731
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berkshire]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Berkshire]]"
 Large town on the Thames in [[Berkshire]]. Three Men in a Boat finds the river 'dirty and dismal' there, sketches its history and gets towed past it by a friend's steam launch.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | journey waypoint | 'One does not linger in the neighbourhood of Reading': a potted history, then a tow by friends' steam launch. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkz2qmaszpj00ed0vzwnv2)
 
 > We came in sight of Reading about eleven. The river is dirty and dismal here. One does not linger in the neighbourhood of Reading.

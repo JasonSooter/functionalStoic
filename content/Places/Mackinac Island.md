@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Mackinac Island
-created: 2026-10-22T13:40:10.783Z
-modified: 2026-10-22T13:40:10.783Z
-published: 2026-10-22T13:40:10.783Z
+created: 2026-10-22T13:40:11.000Z
+modified: 2026-10-22T13:40:11.000Z
+published: 2026-10-22T13:40:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Taking Star Line Ferry to Mackinac Island and Loving the Library
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 45.8611
   - -84.6306
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Michigan]]"
 ---
 
@@ -28,15 +28,18 @@ within: "[[Michigan]]"
 Car-free island in Lake Huron's Straits of Mackinac, Michigan; the subject of a family's bike day out on the Currently Wandering blog.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Taking Star Line Ferry to Mackinac Island and Loving the Library | Jess (Currently Wandering) | subject | The subject of a family's bike day out on the Currently Wandering blog. |
 
 ## Sub-places
+
 - [[M-185 (Michigan highway)]]
 - [[Mackinac Island Public Library]]
 
 ## Taking Star Line Ferry to Mackinac Island and Loving the Library — Jess (Currently Wandering) (2015)
+
 Source: [Original](http://currentlywandering.com/2015/12/09/taking-star-line-ferry-to-mackinac-island-and-loving-the-library/) · [Readwise highlight](https://read.readwise.io/read/01m5hx1p5hsxams3pmzba87waf)
 
 > Mackinac Island is particularly special because there are no cars allowed on the island! Everyone gets around by bikes or horse draw carriages.

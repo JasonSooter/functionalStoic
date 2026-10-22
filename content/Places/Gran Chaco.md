@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Gran Chaco
-created: 2026-10-22T13:41:06.734Z
-modified: 2026-10-22T13:41:06.734Z
-published: 2026-10-22T13:41:06.734Z
 aliases:
   - The Chaco
   - Chaco
+title: Gran Chaco
+created: 2026-10-22T13:41:07.000Z
+modified: 2026-10-22T13:41:07.000Z
+published: 2026-10-22T13:41:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Life on Air [revised & updated 2nd edition]
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - -19.1622
   - -61.4702
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Paraguay]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Paraguay]]"
 Hot, dry lowland plain of western Paraguay and its neighbours; in _Life on Air_ the setting of the Zoo Quest armadillo hunt.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | setting | The setting of the Zoo Quest armadillo hunt. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | setting | The setting of the Zoo Quest armadillo hunt. |
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3asbk0nqb0811kcw8bse)
 
 > After several days' travel, we saw far away on the western horizon what I thought must be George Giles' estancia.

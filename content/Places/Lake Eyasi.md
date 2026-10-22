@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Lake Eyasi
-created: 2026-10-21T22:26:12.632Z
-modified: 2026-10-21T22:26:12.632Z
-published: 2026-10-21T22:26:12.632Z
+created: 2026-10-21T22:26:13.000Z
+modified: 2026-10-21T22:26:13.000Z
+published: 2026-10-21T22:26:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - -3.5924
   - 35.128
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tanzania]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Tanzania]]"
 Salt lake in the Rift Valley of northern [[Tanzania]], home of the Hadza. In The Comfort Crisis (Michael Easter) it is the field site behind his argument against over-sanitising.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | subject | Hadza homeland where a microbiome researcher works; the basis of the case against over-sanitising. |
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5g8w5d35h7s97egsnhtkgj0)
 
 > But the core of her research takes place in the East African Rift Valley, around the shores of salty Lake Eyasi in northwestern Tanzania.

@@ -2,18 +2,18 @@
 publish: true
 title: North Carolina
 created: 2026-10-20T10:42:29.000Z
-modified: 2026-10-22T10:46:30.741Z
-published: 2026-10-22T10:46:30.741Z
+modified: 2026-10-22T10:46:31.000Z
+published: 2026-10-22T10:46:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # North Carolina

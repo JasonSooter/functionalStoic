@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Orongo
-created: 2026-10-22T14:40:09.659Z
-modified: 2026-10-22T14:40:09.659Z
-published: 2026-10-22T14:40:09.659Z
+created: 2026-10-22T14:40:10.000Z
+modified: 2026-10-22T14:40:10.000Z
+published: 2026-10-22T14:40:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air [revised & updated 2nd edition]
@@ -16,10 +20,6 @@ icon: book
 location:
   - -27.1894
   - -109.4425
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Easter Island]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Easter Island]]"
 Ceremonial stone village on the rim of Rano Kau, Easter Island; in _Life on Air_ Attenborough's hunt for the origin of his wooden figure ends there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | turning point | Attenborough's hunt for the origin of his wooden figure ends there. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | turning point | Attenborough's hunt for the origin of his wooden figure ends there. |
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7dw6kegcxmztyq3q2697)
 
 > It is the nearest landing place to Orongo, a sacred village of low stone houses that stands a mile or so away on the top of a thousand foot high cliff.

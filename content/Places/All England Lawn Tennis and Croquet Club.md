@@ -1,12 +1,16 @@
 ---
 publish: true
-title: All England Lawn Tennis and Croquet Club
-created: 2026-10-22T13:41:13.242Z
-modified: 2026-10-22T13:41:13.242Z
-published: 2026-10-22T13:41:13.242Z
 aliases:
   - Wimbledon
   - All England Club
+title: All England Lawn Tennis and Croquet Club
+created: 2026-10-22T13:41:13.000Z
+modified: 2026-10-22T13:41:13.000Z
+published: 2026-10-22T13:41:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Life on Air [revised & updated 2nd edition]
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 51.4342
   - -0.2144
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[London]]"
 Home of the Wimbledon Championships in south-west London; in _Life on Air_ Wimbledon sets the launch date of colour TV in Britain.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | turning point | Wimbledon sets the launch date of colour TV in Britain. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | turning point | Wimbledon sets the launch date of colour TV in Britain. |
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx373rt5h1xcga1kdbbdpt)
 
 > Wimbledon provided the answer. With both our colour outside broadcast units installed at the tennis championships, we could produce several hours of colour transmissions every day.

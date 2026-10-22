@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Wargrave
-created: 2026-10-22T01:45:01.643Z
-modified: 2026-10-22T01:45:01.643Z
-published: 2026-10-22T01:45:01.643Z
 aliases:
   - Hennerton Backwater
+title: Wargrave
+created: 2026-10-22T01:45:02.000Z
+modified: 2026-10-22T01:45:02.000Z
+published: 2026-10-22T01:45:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 51.499
   - -0.867
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berkshire]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Berkshire]]"
 Village on the Thames in [[Berkshire]], reached by a backwater short cut above Marsh Lock. In Three Men in a Boat the friends lunch in a meadow here and Harris vanishes with the beefsteak pie.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | setting | Up the backwater to Wargrave: lunch in a meadow, Harris and the pie disappear into a gully, and the village gets a fond portrait. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkyhe6nc3j7nmt54g6rjqj)
 
 > We went up the backwater to Wargrave.

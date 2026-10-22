@@ -1,15 +1,18 @@
 ---
 publish: true
-title: Syracuse
-created: 2026-10-19T22:28:11.000Z
-modified: 2026-10-22T16:29:36.191Z
-published: 2026-10-22T16:29:36.191Z
 aliases:
   - Siracusa
   - Syracuse, Sicily
+title: Syracuse
+created: 2026-10-19T22:28:11.000Z
+modified: 2026-10-22T16:29:36.000Z
+published: 2026-10-22T16:29:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
-  - "The Global Yogi: Long-Term Travel through Five Continents"
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +21,6 @@ icon: book
 location:
   - 37.0692
   - 15.2875
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sicily]]"
 ---
 
@@ -37,6 +36,7 @@ Ancient Greek city on the south-east coast of [[Sicily]], where Archimedes lived
 | The Global Yogi: Long-Term Travel through Five Continents | Chris Guillebeau | setting | Two weeks in Siracusa; playing piano at the vegan restaurant MOON for dinner. |
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5b44npmdaydkkj7smd372xe)
 
 > Archimedes was slaughtered by the Romans during the sacking of Syracuse, the last proud remnant of Magna Grecia to fall under the Roman yoke
@@ -47,6 +47,7 @@ Source: [[There Are Places in the World Where Rules Are Less Important Than Kind
 - **Not pinned separately:** the ancient theatre at Taormina (no standard-source coordinate found).
 
 ## The Global Yogi: Long-Term Travel through Five Continents — Chris Guillebeau (2015)
+
 Source: [Original](http://chrisguillebeau.com/the-global-yogi/) · [Readwise highlight](https://read.readwise.io/read/01m5j6k3zk0t3z2phz2pqmfzb8)
 
 > One evening I stumbled upon a vegan restaurant called MOON, where I met kindred nomadic spirits and saw a grand piano sitting in the bar area.

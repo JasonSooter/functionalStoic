@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Saskatchewan
-created: 2026-10-22T10:31:05.902Z
-modified: 2026-10-22T10:31:05.902Z
-published: 2026-10-22T10:31:05.902Z
+created: 2026-10-22T10:31:06.000Z
+modified: 2026-10-22T10:31:06.000Z
+published: 2026-10-22T10:31:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Hidden Beauty of Constraints
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 54
   - -106
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Canada]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Canada]]"
 Prairie province of [[Canada]], where snowboarder Mark McMorris grows up far from mountains in Help Scout's essay on constraints.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Hidden Beauty of Constraints | Help Scout | backdrop | Raised on rural farmland with no mountains, McMorris learns through wakeboarding, skating and trampolines. |
 
 ## The Hidden Beauty of Constraints — Help Scout (2015)
+
 Source: [Original](https://www.helpscout.net/blog/flipping-constraints/) · [Readwise highlight](https://read.readwise.io/read/01m5hj240n36qqmhrv83v3sg8y)
 
 > McMorris was born and raised in rural farmland in the province of Saskatchewan.

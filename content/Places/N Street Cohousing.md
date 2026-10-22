@@ -1,9 +1,13 @@
 ---
 publish: true
 title: N Street Cohousing
-created: 2026-10-21T23:08:01.336Z
-modified: 2026-10-21T23:08:01.336Z
-published: 2026-10-21T23:08:01.336Z
+created: 2026-10-21T23:08:01.000Z
+modified: 2026-10-21T23:08:01.000Z
+published: 2026-10-21T23:08:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - What’s Right With This Picture?
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 38.5514
   - -121.7298
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[California]]"
 Cohousing community of joined suburban backyards in Davis, [[California]]. A LifeEdited post profiles it as a way to retrofit the suburbs.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What’s Right With This Picture? | David Friedlander | subject | Ordinary suburban houses whose backyards were merged into a shared commons, starting in 1986. |
 
 ## What’s Right With This Picture? — David Friedlander (2015)
+
 Source: [Original](http://lifeedited.com/whats-right-with-this-picture/) · [Readwise highlight](https://read.readwise.io/read/01m5gbgm3a7qgtbx8pab7ck94k)
 
 > But if you look closely, right between N St and Lessley Pl, there’s a group of homes with irregular yards.

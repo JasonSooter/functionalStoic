@@ -1,11 +1,15 @@
 ---
 publish: true
-title: BBC Television Centre
-created: 2026-10-22T13:41:09.666Z
-modified: 2026-10-22T13:41:09.666Z
-published: 2026-10-22T13:41:09.666Z
 aliases:
   - Television Centre
+title: BBC Television Centre
+created: 2026-10-22T13:41:10.000Z
+modified: 2026-10-22T13:41:10.000Z
+published: 2026-10-22T13:41:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Life on Air [revised & updated 2nd edition]
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 51.5099
   - -0.2263
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[London]]"
 Former BBC headquarters at White City, west London; in _Life on Air_ Attenborough runs BBC2 from its sixth floor.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | setting | Attenborough runs BBC2 from its sixth floor. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | setting | Attenborough runs BBC2 from its sixth floor. |
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2zjf6kgrm7xtzandazj6)
 
 > The Sixth Floor of the Television Centre in White City was the heartland of BBC administrators and thus, very properly, rich with perks.

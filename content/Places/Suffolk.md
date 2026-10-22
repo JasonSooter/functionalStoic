@@ -2,18 +2,18 @@
 publish: true
 title: Suffolk
 created: 2026-10-20T01:35:29.000Z
-modified: 2026-10-22T13:40:41.133Z
-published: 2026-10-22T13:40:41.133Z
+modified: 2026-10-22T13:40:41.000Z
+published: 2026-10-22T13:40:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Suffolk

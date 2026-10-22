@@ -1,13 +1,16 @@
 ---
 publish: true
 title: Sarasota
-created: 2026-10-21T23:02:18.312Z
-modified: 2026-10-21T23:02:18.312Z
-published: 2026-10-21T23:02:18.312Z
+created: 2026-10-21T23:02:18.000Z
+modified: 2026-10-21T23:02:18.000Z
+published: 2026-10-21T23:02:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
-  - Five Reasons Why Florida Might Be The Best State To Seek Out And Achieve Early
-    Retirement
+  - Five Reasons Why Florida Might Be The Best State To Seek Out And Achieve Early Retirement
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +21,6 @@ icon: newspaper
 location:
   - 27.3364
   - -82.5428
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 ---
 
@@ -30,11 +29,13 @@ within: "[[Florida]]"
 City on the Gulf coast of southwest [[Florida]]. A Dividend Mantra post argues the area is ideal for early retirement.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Five Reasons Why Florida Might Be The Best State To Seek Out And Achieve Early Retirement | Dividend Mantra | subject | The author's new home after a 2009 layoff, and the case for Florida as an early-retirement state. |
 
 ## Five Reasons Why Florida Might Be The Best State To Seek Out And Achieve Early Retirement — Dividend Mantra (2015)
+
 Source: [Original](https://www.dividendmantra.com/2015/07/five-reasons-why-florida-might-be-the-best-state-to-seek-out-and-achieve-early-retirement/) · [Readwise highlight](https://read.readwise.io/read/01m5ganj639q4vr95pm4p0akjn)
 
 > So a few months later, I packed my bags for greener (literally!) pastures and moved to Southwest Florida to start my life anew.

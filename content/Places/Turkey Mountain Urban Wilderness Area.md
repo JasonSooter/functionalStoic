@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Turkey Mountain Urban Wilderness Area
-created: 2026-10-22T10:43:36.176Z
-modified: 2026-10-22T10:43:36.176Z
-published: 2026-10-22T10:43:36.176Z
 aliases:
   - Turkey Mountain
+title: Turkey Mountain Urban Wilderness Area
+created: 2026-10-22T10:43:36.000Z
+modified: 2026-10-22T10:43:36.000Z
+published: 2026-10-22T10:43:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - From the mayor’s office, a tone-deaf remark concerning development on Turkey Mountain
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 36.0731
   - -95.9947
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tulsa]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Tulsa]]"
 Wild hill and trail network inside [[Tulsa]], Oklahoma, which Bob Doucette defends against the mayor's development ideas.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | From the mayor’s office, a tone-deaf remark concerning development on Turkey Mountain | Bob Doucette | subject | A trail area that earns no direct revenue but millions indirectly; an outlet-mall fight already saved its edge. |
 
 ## From the mayor’s office, a tone-deaf remark concerning development on Turkey Mountain — Bob Doucette (2015)
+
 Source: [Original](https://proactiveoutside.wordpress.com/2015/11/13/from-the-mayors-office-a-tone-deaf-remark-concerning-development-on-turkey-mountain/) · [Readwise highlight](https://read.readwise.io/read/01m5hk4xtx6frna3jxj73b704n)
 
 > Turkey Mountain delivers no direct revenue to the city. But indirectly, it generates millions of dollars.

@@ -2,8 +2,8 @@
 publish: true
 title: Philadelphia
 created: 2026-10-20T16:28:35.000Z
-modified: 2026-10-21T19:39:20.000Z
-published: 2026-10-21T19:39:20.000Z
+modified: 2026-10-21T19:59:44.000Z
+published: 2026-10-21T19:59:44.000Z
 tags:
   - places
   - place/literary
@@ -35,8 +35,10 @@ City on the Delaware River in [[Pennsylvania]], USA, which appears in the readin
 
 ## Sub-places
 
+- [[Buddakan (Philadelphia)]]
 - [[Gladfelter Hall]]
 - [[Hunting Park (Philadelphia)]]
+- [[John C. Anderson Apartments]]
 - [[Ninth Street and Passyunk Avenue]]
 - [[The Franklin Institute]]
 

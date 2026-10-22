@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Powder Mountain
-created: 2026-10-22T10:31:00.594Z
-modified: 2026-10-22T10:31:00.594Z
-published: 2026-10-22T10:31:00.594Z
 aliases:
   - Summit Powder Mountain
   - Power Mountain
+title: Powder Mountain
+created: 2026-10-22T10:31:01.000Z
+modified: 2026-10-22T10:31:01.000Z
+published: 2026-10-22T10:31:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Hills are Alive with the Sound of Innovation
 categories:
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 41.38
   - -111.7803
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Utah]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Utah]]"
 Ski area near Eden, [[Utah]], bought by the Summit Series as a permanent home, where LifeEdited designed its Overlook 360 cabin.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Hills are Alive with the Sound of Innovation | David Friedlander | subject | Summit buys the ski area to build a capped, small-home village; LifeEdited designs a cabin there. |
 
 ## The Hills are Alive with the Sound of Innovation — David Friedlander (2015)
+
 Source: [Original](http://lifeedited.com/lifeedited-summit-powder-moutain-overlook-360/) · [Readwise highlight](https://read.readwise.io/read/01m5hj219znnv4xzctfct13z0m)
 
 > In 2013, Summit, the company who runs the series, partnered with venture capitalist Greg Mauro to purchase Power Mountain, America’s largest ski area, located in Eden, Utah.

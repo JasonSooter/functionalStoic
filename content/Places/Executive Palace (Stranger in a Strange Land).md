@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Executive Palace (Stranger in a Strange Land)
-created: 2026-10-21T20:09:46.501Z
-modified: 2026-10-21T22:30:33.813Z
-published: 2026-10-21T22:30:33.813Z
+created: 2026-10-21T20:09:47.000Z
+modified: 2026-10-21T22:30:34.000Z
+published: 2026-10-21T22:30:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -12,17 +16,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 38.9047,-77.0164
-geo_note: "best-guess: the Palace is fictional; the party flies to Washington, so\
-  \ the pin is central Washington, D.C."
+geo_note: "best-guess: the Palace is fictional; the party flies to Washington, so the pin is central Washington, D.C."
 geo_source: Wikipedia (en) Washington, D.C.
 icon: book
 location:
   - 38.9047
   - -77.0164
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington DC]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Washington DC]]"
 Seat of the Secretary General of the World Federation in Stranger in a Strange Land, a fictional building in Washington. The pin is a best guess at Washington, D.C.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | setting | Seat of the World government, where Jubal negotiates Mike's freedom. |
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
+
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > landed on the flat of the Executive Palace shortly before ten

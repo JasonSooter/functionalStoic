@@ -1,11 +1,15 @@
 ---
 publish: true
-title: La Casa Permanent Supportive Housing
-created: 2026-10-21T22:25:12.261Z
-modified: 2026-10-21T22:25:12.261Z
-published: 2026-10-21T22:25:12.261Z
 aliases:
   - La Casa
+title: La Casa Permanent Supportive Housing
+created: 2026-10-21T22:25:12.000Z
+modified: 2026-10-21T22:25:12.000Z
+published: 2026-10-21T22:25:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Living Well in the Margins
 categories:
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 38.9286
   - -77.0344
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington DC]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Washington DC]]"
 Seven-storey supportive-housing building for formerly homeless men in Columbia Heights, [[Washington DC|Washington, D.C.]]. A LifeEdited post holds it up as smart design for people at the margins.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Living Well in the Margins | David Friedlander | subject | Award-winning supportive-housing block for 40 formerly homeless men, held up as good design for the margins. |
 
 ## Living Well in the Margins — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/living-well-in-the-margins/) · [Readwise highlight](https://read.readwise.io/read/01m5g8v2ry89jevrp1xtgt2p0k)
 
 > La Casa Permanent Supportive Housing in Washington DC is a great example of such a beast.

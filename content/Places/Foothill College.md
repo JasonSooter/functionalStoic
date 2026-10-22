@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Foothill College
-created: 2026-10-21T22:26:56.912Z
-modified: 2026-10-21T22:26:56.912Z
-published: 2026-10-21T22:26:56.912Z
+created: 2026-10-21T22:26:57.000Z
+modified: 2026-10-21T22:26:57.000Z
+published: 2026-10-21T22:26:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Quiet]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 37.3613
   - -122.1289
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[California]]"
 Community college in Los Altos Hills, [[California]], near Cupertino. In Quiet (Susan Cain) she sits in on a seminar teaching Asian-born professionals to speak up.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | setting | Saturday seminar that teaches foreign-born professionals Western, extroverted ways of speaking. |
 
 ## Quiet — Susan Cain (2012)
+
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wrta4qjg3y1m8arpy0hf)
 
 > At Foothill College, just outside Cupertino, Ni conducts daylong seminars called “Communication Success for Foreign-Born Professionals.”
