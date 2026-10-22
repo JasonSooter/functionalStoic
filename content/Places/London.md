@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-22T01:44:03.791Z
-published: 2026-10-22T01:44:03.791Z
+modified: 2026-10-22T13:40:31.204Z
+published: 2026-10-22T13:40:31.204Z
 aliases: []
 books: []
 categories:
@@ -22,7 +22,11 @@ Capital of England and the United Kingdom, on the Thames; see the Travel note [[
 
 ## Sub-places
 
+- [[10 Downing Street]]
+- [[Alexandra Palace]]
 - [[Alhambra Theatre (London)]]
+- [[All England Lawn Tennis and Croquet Club]]
+- [[BBC Television Centre]]
 - [[Bloomsbury]]
 - [[British Museum]]
 - [[Canada Water]]
@@ -32,12 +36,16 @@ Capital of England and the United Kingdom, on the Thames; see the Travel note [[
 - [[IFS Cloud Cable Car]]
 - [[Kew Bridge]]
 - [[Koko (Camden)]]
+- [[Lime Grove Studios]]
 - [[London congestion charge zone]]
 - [[London Transport Museum Depot]]
+- [[London Zoo]]
 - [[Lord's Cricket Ground]]
 - [[Palace of Westminster]]
 - [[Regent's Canal]]
+- [[Richmond, London]]
 - [[Royal Agricultural Hall]]
+- [[Royal Festival Hall]]
 - [[Seven Kings station]]
 - [[Southwark Cathedral]]
 - [[Victoria Embankment]]

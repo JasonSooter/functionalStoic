@@ -2,13 +2,14 @@
 publish: true
 title: Longmont
 created: 2026-10-21T04:45:35.000Z
-modified: 2026-10-22T10:31:59.535Z
-published: 2026-10-22T10:31:59.535Z
+modified: 2026-10-22T13:40:33.232Z
+published: 2026-10-22T13:40:33.232Z
 aliases: []
 books:
   - How To Afford a House These Days
   - How to Sell a House
   - Understand the Drive-Thru and We Can Solve All Problems
+  - Lessons Learned From Having My Bike Stolen
 categories:
   - "[[Places]]"
 color: purple
@@ -36,6 +37,7 @@ City in Boulder County, [[Colorado]]. It shows up in the reading as the author's
 | How To Afford a House These Days | Mr. Money Mustache | subject | Author's expensive home town, the example for the argument to consider moving. |
 | How to Sell a House | Mr. Money Mustache | setting | The author's Longmont rental house, listed and sold at full price to newcomers in the post's worked example. |
 | Understand the Drive-Thru and We Can Solve All Problems | Sarah Noelle | subject | Back from Ecuador, she and her son puzzle over a bank drive-thru's half acre of asphalt beside a 21-acre park. |
+| Lessons Learned From Having My Bike Stolen | Mr. Money Mustache | setting | Mustache thinks his bike was stolen in Longmont, where a bike-shop owner says theft is common. |
 
 ## Sub-places
 - [[The Bo-Lar Boogie loop]]
@@ -66,3 +68,12 @@ Source: [Original](https://www.mrmoneymustache.com/2015/11/01/the-drive-thru/) �
 - **Role:** subject
 - **In the article:** Home in Longmont after two weeks in Ecuador, the author walks with her son to a bank and the two puzzle over its drive-thru: vacuum tubes, car lanes and half an acre of asphalt. She contrasts it with a small bank-machine booth that could sit in the 21-acre public park across the street.
 - **Why it matters:** The drive-thru is the essay's central example of infrastructure built to spare people a few steps; Longmont is simply where she sees it with fresh eyes.
+
+## Lessons Learned From Having My Bike Stolen — Mr. Money Mustache (2015)
+Source: [Original](https://www.mrmoneymustache.com/2015/12/08/lessons-learned-from-having-my-bike-stolen/) · [Readwise highlight](https://read.readwise.io/read/01m5hx1hbbt8458cn184ckqpx7)
+
+> BIKE THEFT IS PLENTY BAD HERE IN LONGMONT. IF YOU’RE GOING DOWNTOWN, YOU NEED A BURLY U-LOCK, AND YOU NEED TO KEEP IT LOCKED UP AT HOME TOO.
+
+- **Role:** setting
+- **In the article:** The author's home city. After he thinks his bike was stolen from his back patio beside a public park, a local bike shop owner tells him theft is common in Longmont. The author debates whether his low-crime view of the city is wrong, then finds the bike was left at a friend's house.
+- **Why it matters:** Moderate: the city is the backdrop and the object of the crime-risk argument, but the piece is about attitude to risk, not the place.

@@ -2,8 +2,8 @@
 publish: true
 title: Brooklyn
 created: 2026-10-20T02:08:43.000Z
-modified: 2026-10-22T10:29:02.452Z
-published: 2026-10-22T10:29:02.452Z
+modified: 2026-10-22T13:40:27.088Z
+published: 2026-10-22T13:40:27.088Z
 aliases: []
 books:
   - "[[Dept. Of Speculation.md]]"
@@ -35,11 +35,13 @@ Borough of [[New York City]], USA (see also [[New York]]), and the home city of 
 
 ## Sub-places
 
+- [[Brooklyn Navy Yard]]
 - [[Brownsville (Brooklyn)]]
 - [[Bushwick]]
 - [[Coney Island]]
 - [[Kings County Hospital]]
 - [[Marcy Houses]]
+- [[Mast Brothers Chocolate (Williamsburg)]]
 - [[Prospect Park West]]
 - [[Sands Street (Brooklyn)]]
 - [[Sunset Park]]

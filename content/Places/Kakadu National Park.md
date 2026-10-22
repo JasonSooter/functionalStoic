@@ -1,0 +1,27 @@
+---
+publish: true
+title: Kakadu National Park
+created: 2026-10-22T13:41:48.416Z
+modified: 2026-10-22T13:41:48.416Z
+published: 2026-10-22T13:41:48.416Z
+aliases: []
+books: []
+categories:
+  - "[[Places]]"
+color: purple
+icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Northern Territory]]"
+---
+
+# Kakadu National Park
+
+National park in the Top End of the Northern Territory, Australia; hub for places from the reading.
+
+## Sub-places
+- [[Anbangbang rock shelter]]
+- [[Nourlangie]]
+- [[Ubirr]]

@@ -2,8 +2,8 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-22T01:44:17.953Z
-published: 2026-10-22T01:44:17.953Z
+modified: 2026-10-22T13:40:19.960Z
+published: 2026-10-22T13:40:19.960Z
 aliases: []
 books: []
 categories:
@@ -68,3 +68,4 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Telluride Gondola]]
 - [[US 160 between Durango and Pagosa Springs]]
 - [[US 287 in Colorado]]
+- [[Walsenburg, Colorado]]

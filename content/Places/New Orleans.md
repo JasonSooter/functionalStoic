@@ -2,14 +2,15 @@
 publish: true
 title: New Orleans
 created: 2026-10-20T02:11:53.000Z
-modified: 2026-10-22T10:45:47.132Z
-published: 2026-10-22T10:45:47.132Z
+modified: 2026-10-22T13:40:34.672Z
+published: 2026-10-22T13:40:34.672Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
   - What Happens When You Give Teens No-Strings Cash?
   - "What We’re Reading: A Spongier New Orleans"
   - Make it Small, Make it Right
+  - What Happens After Calls for New Gun Restrictions? Sales Go Up
 categories:
   - "[[Places]]"
 color: purple
@@ -36,6 +37,7 @@ City on the Mississippi in Louisiana, USA, which appears in the reading for its 
 | [[What Happens When You Give Teens No-Strings Cash\|What Happens When You Give Teens No-Strings Cash?]] | Neal Morton | subject | The $50 study of weekly cash for high schoolers began here and grew to nine high schools; the city invested $1 million. |
 | What We’re Reading: A Spongier New Orleans | RTBC Staff | subject | Rain gardens and bioswales soak up heavy rain nearly 20 years after Katrina. |
 | Make it Small, Make it Right | David Friedlander | subject | Make It Right, founded after Katrina, builds a 430 sq ft solar tiny house in 21 days. |
+| What Happens After Calls for New Gun Restrictions? Sales Go Up | Gregor Aisch and Josh Keller | subject | Gun confiscations after Hurricane Katrina drove local sales and new laws against seizures. |
 
 ## Sub-places
 
@@ -79,3 +81,12 @@ Source: [Original](https://lifeedited.com/make-it-small-make-it-right/) · [Read
 - **Role:** subject
 - **In the article:** Make It Right was founded in 2007 as an architectural response to Hurricane Katrina. With Tiny House Nation it builds a 430 sq ft house in New Orleans in 21 days, solar-powered and insulated with discarded jeans.
 - **Why it matters:** The house is the article's example of small, well-made homes; the city's post-Katrina rebuilding is its backdrop.
+
+## What Happens After Calls for New Gun Restrictions? Sales Go Up — Gregor Aisch and Josh Keller (2015)
+Source: [Original](https://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html) · [Readwise highlight](https://read.readwise.io/read/01m5hx1xw8cpappt3zgxyx7s14)
+
+> As police officers evacuated people from New Orleans after Hurricane Katrina, legally registered guns were
+
+- **Role:** subject
+- **In the article:** After Hurricane Katrina police seized registered guns from civilians during evacuation. The confiscations outraged gun owners and increased local sales, and prompted federal and state laws against such seizures.
+- **Why it matters:** Case study of a disaster-driven policy backlash that shaped gun law.

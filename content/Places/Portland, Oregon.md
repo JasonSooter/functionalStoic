@@ -2,8 +2,8 @@
 publish: true
 title: Portland, Oregon
 created: 2026-10-20T04:33:34.000Z
-modified: 2026-10-22T10:46:13.079Z
-published: 2026-10-22T10:46:13.079Z
+modified: 2026-10-22T13:40:35.436Z
+published: 2026-10-22T13:40:35.436Z
 aliases:
   - Portland
 books:
@@ -12,6 +12,7 @@ books:
   - Why Does Portland Have so Many Strip Clubs?
   - Rental Rehab is No Fun
   - How Much Does It Cost To Live A Modest Lifestyle?
+  - 2015 Annual Net Worth Update
 categories:
   - "[[Places]]"
 color: purple
@@ -40,6 +41,7 @@ City on the Willamette River in [[Oregon]], which shows up in the reading as Ame
 | Why Does Portland Have so Many Strip Clubs? | Priceonomics | subject | Why the city has the most strip clubs per head in the US: Oregon's free-expression law. |
 | Rental Rehab is No Fun | Retire by 40 | setting | New tenant rules take effect as he guts and repaints his duplex unit in 16 days. |
 | How Much Does It Cost To Live A Modest Lifestyle? | Retire by 40 | subject | An EPI budget for Portland rose from about $5,000 a month in 2015 to $7,154 by 2022. |
+| 2015 Annual Net Worth Update | Retire by 40 | subject | His Portland duplex and condos drive most of his 2015 net-worth gain. |
 
 ## Sub-places
 
@@ -96,3 +98,12 @@ Source: [Original](https://retireby40.org/cost-to-live-a-modest-lifestyle/) · [
 - **Role:** subject
 - **In the article:** The author compares the household's modest spending with the Economic Policy Institute's family budget for Portland, which rose from about $5,000 a month in 2015 to $7,154 by 2022. They live in a small duplex there and argue the EPI housing figure is off, since a two-bedroom apartment costs over $2,000.
 - **Why it matters:** Portland is the benchmark the whole post is measured against.
+
+## 2015 Annual Net Worth Update — Retire by 40 (2016)
+Source: [Original](https://retireby40.org/2015-annual-net-worth-update/) · [Readwise highlight](https://read.readwise.io/read/01m5hx22wry36y6qpestwawabz)
+
+> The duplex’s value increased from $522,000 to $656,856. That’s a huge increase. Portland’s real estate market has been great for property owners in 2015.
+
+- **Role:** subject
+- **In the article:** The author's Portland duplex, rental condo and primary-residence condo drive most of the 13.56% net worth gain in 2015. The primary residence is a 2 bedroom Portland condo with a view of Mt. Hood and the Willamette River. He worries the Portland boom may not be sustained by the local employment market.
+- **Why it matters:** Portland's housing market is the main driver and a central worry of the post, though no specific street or building is named.
