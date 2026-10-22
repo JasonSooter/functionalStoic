@@ -2,8 +2,8 @@
 publish: true
 title: Egypt
 created: 2026-10-22T16:49:42.000Z
-modified: 2026-10-22T19:58:22.511Z
-published: 2026-10-22T19:58:22.511Z
+modified: 2026-10-22T23:16:50.316Z
+published: 2026-10-22T23:16:50.316Z
 aliases: []
 books: []
 categories:
@@ -21,5 +21,7 @@ tags:
 Country in northeast Africa and the Sinai peninsula.
 
 ## Sub-places
+
 - [[Arish]]
+- [[Giza pyramid complex]]
 - [[Suez Canal]]

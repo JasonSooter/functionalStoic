@@ -2,8 +2,8 @@
 publish: true
 title: Baltimore
 created: 2026-10-20T10:42:30.000Z
-modified: 2026-10-22T22:37:23.466Z
-published: 2026-10-22T22:37:23.466Z
+modified: 2026-10-22T23:16:46.868Z
+published: 2026-10-22T23:16:46.868Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -38,6 +38,7 @@ Port city in [[Maryland]], USA, and one stop in Kyla Scanlon's essay on where Am
 
 - [[Fort McHenry Tunnel]]
 - [[Johns Hopkins Bloomberg School of Public Health]]
+- [[Johns Hopkins University]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5cnsx3fg5xwpc3q7kjda)

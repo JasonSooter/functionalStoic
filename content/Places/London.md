@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-22T20:01:02.908Z
-published: 2026-10-22T20:01:02.908Z
+modified: 2026-10-22T23:16:58.296Z
+published: 2026-10-22T23:16:58.296Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -55,6 +55,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[London Zoo]]
 - [[Lord's Cricket Ground]]
 - [[Natural History Museum, London]]
+- [[Palace of Green Porcelain (The Time Machine)]]
 - [[Palace of Westminster]]
 - [[Regent's Canal]]
 - [[Richmond, London]]
@@ -65,6 +66,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Southwark Cathedral]]
 - [[Victoria Embankment]]
 - [[Westminster Hall]]
+- [[Wimbledon Common]]
 
 ## Muslims March Against Isis in London, and It’s Ignored by the Media — Mike Albo (2016)
 Source: [Original](http://www.good.is/posts/anti-isis-march-london) · [Readwise highlight](https://read.readwise.io/read/01m5jjr7y49gwtnh1g2vnqbqfx)

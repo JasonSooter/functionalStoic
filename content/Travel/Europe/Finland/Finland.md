@@ -2,8 +2,8 @@
 publish: true
 title: Finland
 created: 2024-01-04T20:21:47.000Z
-modified: 2026-10-22T22:59:03.840Z
-published: 2026-10-22T22:59:03.840Z
+modified: 2026-10-22T23:16:38.881Z
+published: 2026-10-22T23:16:38.881Z
 aliases:
   - Helsinki, Finland
   - Helsinki
@@ -191,6 +191,7 @@ tags: #source/publications/the-atlantic #🗓️/2016/09/19
 ## Sub-places
 
 - [[Helsinki]]
+- [[Niirala Preschool (Kuopio)]]
 - [[Rovaniemi]]
 
 ## Ditching Tech: Finland Returns to Books and Sweden Says No to Screens for Toddlers — Helen Russell (2024)

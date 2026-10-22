@@ -2,8 +2,8 @@
 publish: true
 title: Florida
 created: 2026-10-19T22:29:17.000Z
-modified: 2026-10-22T22:37:13.738Z
-published: 2026-10-22T22:37:13.738Z
+modified: 2026-10-22T23:16:55.608Z
+published: 2026-10-22T23:16:55.608Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -43,6 +43,8 @@ State in the south-eastern [[United States]], appearing in the reading as one st
 - [[GORUCK headquarters]]
 - [[Kennedy Space Center]]
 - [[Kissimmee River]]
+- [[Magic Leap (Dania Beach)]]
+- [[Magic Leap (Plantation)]]
 - [[Miami]]
 - [[Miami Beach]]
 - [[Orlando]]

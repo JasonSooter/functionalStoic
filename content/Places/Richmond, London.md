@@ -2,8 +2,8 @@
 publish: true
 title: Richmond, London
 created: 2026-10-22T13:41:18.000Z
-modified: 2026-10-22T22:59:29.776Z
-published: 2026-10-22T22:59:29.776Z
+modified: 2026-10-22T23:17:07.388Z
+published: 2026-10-22T23:17:07.388Z
 aliases: []
 books:
   - Life on Air [revised & updated 2nd edition]
@@ -34,6 +34,10 @@ Riverside suburb in south-west London; in _Life on Air_ Attenborough's family ho
 |---|---|---|---|
 | Life on Air [revised & updated 2nd edition] | David Attenborough | setting | Attenborough's family home fills with animals from his expeditions. |
 | How Virginia Woolf and Vita Sackville-West Fell in Love | Maria Popova | setting | After meeting Woolf in December 1922, Vita reports being invited to Richmond, where Woolf lived |
+
+## Sub-places
+
+- [[The Time Traveller's house (The Time Machine)]]
 
 ## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx22q765arknnwa6cq9bx3)

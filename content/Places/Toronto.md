@@ -2,8 +2,8 @@
 publish: true
 title: Toronto
 created: 2026-10-20T10:42:24.000Z
-modified: 2026-10-22T20:39:50.512Z
-published: 2026-10-22T20:39:50.512Z
+modified: 2026-10-22T23:16:51.188Z
+published: 2026-10-22T23:16:51.188Z
 aliases: []
 books:
   - The Absolute Best Transportation for Cities (trams)
@@ -40,6 +40,7 @@ Largest city of Canada, capital of [[Ontario]]. It is the main negative example 
 ## Sub-places
 
 - [[Danforth Avenue]]
+- [[The Drake Hotel (Toronto)]]
 - [[Yonge Street]]
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)

@@ -2,8 +2,8 @@
 publish: true
 title: Tulsa
 created: 2026-10-22T10:44:27.000Z
-modified: 2026-10-22T22:59:45.937Z
-published: 2026-10-22T22:59:45.937Z
+modified: 2026-10-22T23:16:49.652Z
+published: 2026-10-22T23:16:49.652Z
 aliases: []
 books:
   - Major New Study Finds Geography Can Affect Life Span as Much as Income
@@ -40,7 +40,9 @@ City in north-east Oklahoma. A subject in Eric Pfeiffer's “Major New Study Fin
 | Where Every Citizen's Heart Can Sing | Sarah Kobos | subject | The author uses her home city as the case study for her argument about beauty and the public realm |
 
 ## Sub-places
+
 - [[Downtown Tulsa]]
+- [[Tulsa Club Building]]
 - [[Turkey Mountain Urban Wilderness Area]]
 
 ## Major New Study Finds Geography Can Affect Life Span as Much as Income — Eric Pfeiffer (2016)

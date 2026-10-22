@@ -2,8 +2,8 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-22T22:37:18.174Z
-published: 2026-10-22T22:37:18.174Z
+modified: 2026-10-22T23:17:01.612Z
+published: 2026-10-22T23:17:01.612Z
 aliases: []
 books: []
 categories:
@@ -26,12 +26,14 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Amache National Historic Site]]
 - [[Aspen]]
 - [[Boulder, Colorado]]
+- [[Broken Hand Pass]]
 - [[Buckhorn Road]]
 - [[Carter Lake]]
 - [[Chimney Hollow Reservoir]]
 - [[Colorado River]]
 - [[Colorado Springs]]
 - [[Colorado State Highway 9 wildlife crossings]]
+- [[Crestone Peak]]
 - [[Denver]]
 - [[Durango]]
 - [[East Vail Pass]]
@@ -64,6 +66,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Saddle Horn Drive and River Pass Road (Timnath)]]
 - [[Salida]]
 - [[Snowmass Lake]]
+- [[South Colony Lakes]]
 - [[Storm King Mountain (Colorado)]]
 - [[Stove Prairie]]
 - [[Telluride Gondola]]

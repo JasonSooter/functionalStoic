@@ -2,8 +2,8 @@
 publish: true
 title: Utah
 created: 2026-10-20T19:39:46.000Z
-modified: 2026-10-22T22:36:46.599Z
-published: 2026-10-22T22:36:46.599Z
+modified: 2026-10-22T23:16:52.540Z
+published: 2026-10-22T23:16:52.540Z
 aliases: []
 books: []
 categories:
@@ -22,6 +22,7 @@ US state in the Mountain West. Hub for literary places in the state.
 
 ## Sub-places
 
+- [[Bears Ears National Monument]]
 - [[Bryce Canyon]]
 - [[Dragonsteel Books]]
 - [[Flaming Gorge Dam]]
@@ -30,4 +31,5 @@ US state in the Mountain West. Hub for literary places in the state.
 - [[Powder Mountain]]
 - [[Provo, Utah]]
 - [[Sand Island Campground]]
+- [[The Rest (Salt Lake City)]]
 - [[Zion National Park]]

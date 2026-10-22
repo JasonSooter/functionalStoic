@@ -2,14 +2,15 @@
 publish: true
 title: Barcelona
 created: 2026-10-20T22:55:13.000Z
-modified: 2026-10-22T22:36:09.872Z
-published: 2026-10-22T22:36:09.872Z
+modified: 2026-10-22T23:16:55.596Z
+published: 2026-10-22T23:16:55.596Z
 aliases:
   - Barcelona, Spain
 books:
   - In Barcelona, a Little Energy Advice Goes a Long Way
   - "[[How ‘Superblocks’ Can Create People-Centered Cities]]"
   - Opinion – Choose to Be Grateful. It Will Make You Happier. - The New York Times
+  - "Typeform: Amazing Companies Can Come From Anywhere"
 categories:
   - "[[Places]]"
 color: purple
@@ -38,11 +39,14 @@ Capital of [[Catalonia]], Spain, which appears in the reading as a city of munic
 | [[In Barcelona, a Little Energy Advice Goes a Long Way]] | Peter Yeung | subject | A pensioner cut his energy bills 75-80 percent with advice from one of the city's 13 Energy Advising Points. |
 | [[How ‘Superblocks’ Can Create People-Centered Cities]] | Kaja Šeruga | subject | Traces Barcelona from Cerdà’s 1855 grid to the 2016 push for 503 superblocks and the 2023 government change that halted it. |
 | Opinion – Choose to Be Grateful. It Will Make You Happier. - The New York Times | Arthur C. Brooks | setting | Newly married, Brooks cooks Thanksgiving for his Spanish in-laws, who ask why celebrate without feeling grateful. |
+| Typeform: Amazing Companies Can Come From Anywhere | John Battelle | subject | Battelle is struck that Typeform feels like a San Francisco startup but is based in Barcelona, which draws expat staff with its… |
 
 ## Sub-places
 
 - [[Eixample]]
+- [[La Rambla]]
 - [[Peix (Barcelona)]]
+- [[Plaça de Sant Felip Neri]]
 - [[Poblenou]]
 - [[Superilla de Sant Antoni]]
 
@@ -72,3 +76,12 @@ Source: [Original](https://www.nytimes.com/2015/11/22/opinion/sunday/choose-to-b
 - **Role:** setting
 - **In the article:** Brooks marries in Barcelona and two weeks later cooks a Thanksgiving dinner for his Spanish in-laws: the butcher has to order a turkey from France, the oven is too small and no one has heard of cranberries. At the table his in-laws ask whether one should celebrate without feeling grateful, which leads into his argument.
 - **Why it matters:** The Barcelona dinner is the anecdote the essay's argument about choosing gratitude grows from.
+
+## Typeform: Amazing Companies Can Come From Anywhere — John Battelle (2016)
+Source: [Original](https://shift.newco.co/typeform-amazing-companies-can-come-from-anywhere-d28a277ee662) · [Readwise highlight](https://read.readwise.io/read/01m5jy9a54r2mw8sk8a94drzjz)
+
+> Half of its employees, including Okuniev, hail from outside Barcelona
+
+- **Role:** subject
+- **In the article:** Battelle is struck that Typeform feels like a San Francisco startup but is based in Barcelona, which draws expat staff with its easygoing, inexpensive lifestyle. He first met the company at NewCo Barcelona.
+- **Why it matters:** Location is part of the article's thesis that amazing companies can come from anywhere, though Barcelona is described only briefly.

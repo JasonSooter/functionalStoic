@@ -2,8 +2,8 @@
 publish: true
 title: Italy
 created: 2026-07-26T09:46:17.730Z
-modified: 2026-10-22T20:00:49.395Z
-published: 2026-10-22T20:00:49.395Z
+modified: 2026-10-22T23:17:03.460Z
+published: 2026-10-22T23:17:03.460Z
 aliases:
   - Italia
 books: []
@@ -56,6 +56,7 @@ Italy's political system is a parliamentary republic, and its population is appr
 
 ## Sub-places
 
+- [[Abruzzo]]
 - [[Aosta]]
 - [[Aprica Pass]]
 - [[Capri]]
@@ -80,5 +81,4 @@ Italy's political system is a parliamentary republic, and its population is appr
 - [[Umbria]]
 - [[Venice]]
 - [[Vicenza]]
-
 - [[Wael Zuaiter Center (Massa)]]

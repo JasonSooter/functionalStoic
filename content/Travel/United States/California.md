@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-22T22:59:06.336Z
-published: 2026-10-22T22:59:06.336Z
+modified: 2026-10-22T23:16:57.820Z
+published: 2026-10-22T23:16:57.820Z
 aliases: []
 books: []
 categories:
@@ -80,6 +80,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Bolinas]]
 - [[Cache Creek Nature Preserve]]
 - [[Cajon Pass]]
+- [[Camp 4 (Yosemite)]]
 - [[Camp Grounded]]
 - [[Campo, California]]
 - [[CARMA (Cedar Flat)]]
@@ -115,6 +116,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Orange High School (California)]]
 - [[Palm Springs]]
 - [[Palo Alto]]
+- [[Patagonia headquarters (Ventura)]]
 - [[Pebble Beach Golf Links]]
 - [[Rosewood Sand Hill]]
 - [[Sacramento–San Joaquin River Delta]]
@@ -125,6 +127,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[San Jacinto Mountains]]
 - [[Santa Barbara]]
 - [[Santa Barbara Channel]]
+- [[Santa Cruz Island]]
 - [[Santa Cruz Mountains]]
 - [[Silicon Valley]]
 - [[SpaceX headquarters]]
@@ -140,3 +143,4 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Walker Creek Ranch]]
 - [[Wallis Annenberg Wildlife Crossing]]
 - [[White Mountains (California)]]
+- [[Y Combinator (Mountain View)]]
