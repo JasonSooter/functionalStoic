@@ -2,8 +2,8 @@
 publish: true
 title: Brooklyn
 created: 2026-10-20T02:08:43.000Z
-modified: 2026-10-22T13:40:27.088Z
-published: 2026-10-22T13:40:27.088Z
+modified: 2026-10-22T16:30:49.005Z
+published: 2026-10-22T16:30:49.005Z
 aliases: []
 books:
   - "[[Dept. Of Speculation.md]]"
@@ -39,6 +39,7 @@ Borough of [[New York City]], USA (see also [[New York]]), and the home city of 
 - [[Brownsville (Brooklyn)]]
 - [[Bushwick]]
 - [[Coney Island]]
+- [[Crown Heights]]
 - [[Kings County Hospital]]
 - [[Marcy Houses]]
 - [[Mast Brothers Chocolate (Williamsburg)]]

@@ -2,8 +2,8 @@
 publish: true
 title: Chicago
 created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-22T01:44:32.973Z
-published: 2026-10-22T01:44:32.973Z
+modified: 2026-10-22T16:50:04.342Z
+published: 2026-10-22T16:50:04.342Z
 aliases:
   - Chicawgo
 books:
@@ -12,6 +12,8 @@ books:
     \ Life"
   - Impulsive Rich Kid, Impulsive Poor Kid
   - The Chicago Bungalow
+  - How A Million Dollars Bought Me Happiness
+  - "[[The Martian]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -40,6 +42,8 @@ City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Ric
 | Lessons From a Vexillonaire: Creativity, Simplicity, and the Carefully Constrained Life | James Clear | subject | The city's flag, praised as one of the best, is the article's model of simple design. |
 | Impulsive Rich Kid, Impulsive Poor Kid | Priceonomics | subject | BAM therapy in schools on the south and west sides cut violent-crime arrests among young men. |
 | The Chicago Bungalow | David Friedlander | subject | The modest, dense brick bungalow built by the tens of thousands for immigrant families. |
+| How A Million Dollars Bought Me Happiness | Mr. 1500 | turning point | Where he wanders, numb, on the day his portfolio passes $1 million. |
+| [[The Martian]] | Andy Weir | setting | A cutaway to a middle-aged couple in Chicago watching the rescue on TV. |
 
 ## Sub-places
 
@@ -49,7 +53,9 @@ City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Ric
 - [[Hyde Park, Chicago]]
 - [[Richard Bennett Custom Tailors]]
 - [[Standard Club (Chicago)]]
+- [[University of Chicago]]
 - [[Wicker Park]]
+- [[Zanies Comedy Club (Chicago)]]
 
 ## Big Boy Leaves Home — Richard Wright (1936)
 Source: [[Big Boy Leaves Home]] · [Readwise highlight](https://read.readwise.io/read/01m5ce6rfc05qq7wymntgd6278)
@@ -86,3 +92,21 @@ Source: [Original](http://lifeedited.com/the-chicago-bungalow/) · [Readwise hig
 - **Role:** subject
 - **In the article:** The post describes the Chicago Bungalow, some 80,000 of them built between 1910 and 1940 for upwardly mobile immigrant families who needed dense housing near streetcar and bus lines, and lists its features and its 125-by-25-foot lot.
 - **Why it matters:** The city's housing type is the subject, held up as a model of modest, dense family housing.
+
+## How A Million Dollars Bought Me Happiness — Mr. 1500 (2016)
+Source: [Original](https://www.investmentzen.com/blog/how-a-million-dollars-bought-me-happiness/) · [Readwise highlight](https://read.readwise.io/read/01m5j7t88mwf646fwdskpy943c)
+
+> I had taken the train into Chicago and knew the markets had had a good day.
+
+- **Role:** turning point
+- **In the article:** On the day his portfolio first topped $1,000,000, the author took the train into Chicago and learned of his milestone on stepping off. With an hour to spare before meeting a friend, he wandered aimlessly around the city, numb, thinking about what it meant.
+- **Why it matters:** The city is where the author absorbs the moment he became financially independent.
+
+## The Martian — Andy Weir (2011)
+Source: [[The Martian]] · [Original](https://openlibrary.org/works/OL17091839W) · [Readwise highlight](https://read.readwise.io/read/01m5j7vgv43ajr0yzb45hz40fv)
+
+> In Chicago, a middle-aged couple clutched each other’s hands as they watched. The man held his wife gently as she rocked back and forth out of sheer terror. The NASA representative knew not to disturb them, but stood ready to answer any questions, should they ask.
+
+- **Role:** setting
+- **In the book:** During the MAV launch the narrative cuts to Chicago, where a middle-aged couple clutch each other's hands as they watch the story play out on television. A NASA representative stands by to answer questions. After Watney is aboard Hermes, the same couple embrace in relief and pull the NASA representative into a group hug.
+- **Why it matters:** Chicago is the one named city where a scene plays out on Earth beyond Houston, giving the human, family-level view of the rescue.

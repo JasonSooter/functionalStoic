@@ -2,8 +2,8 @@
 publish: true
 title: France
 created: 2024-10-05T01:12:38.489Z
-modified: 2026-10-22T10:29:00.036Z
-published: 2026-10-22T10:29:00.036Z
+modified: 2026-10-22T16:49:02.994Z
+published: 2026-10-22T16:49:02.994Z
 aliases:
   - Paris, France
   - Paris
@@ -93,9 +93,11 @@ Upon return, we watched a PBS Nova video that launched about the [building of th
 - [[Dijon-Ville station]]
 - [[French Riviera]]
 - [[Gare de Nancy]]
+- [[Latche]]
 - [[Lyon]]
 - [[Lyon Part-Dieu]]
 - [[Millau Viaduct]]
+- [[Places/Vercors]]
+- [[Plum Village]]
 - [[Réunion]]
 - [[Seine–Nord Europe Canal]]
-- [[Places/Vercors]]

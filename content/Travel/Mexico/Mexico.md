@@ -2,8 +2,8 @@
 publish: true
 title: Mexico
 created: 2024-12-22T21:32:19.528Z
-modified: 2026-10-21T23:00:04.032Z
-published: 2026-10-21T23:00:04.032Z
+modified: 2026-10-22T16:49:04.102Z
+published: 2026-10-22T16:49:04.102Z
 books: []
 categories:
   - "[[Places]]"
@@ -50,6 +50,7 @@ Mexico is a country in North America. It groups the places below that come up in
 
 ## Sub-places
 
+- [[Chihuahua]]
 - [[Cozumel]]
 - [[Guanajuato]]
 - [[Mexico City]]

@@ -2,8 +2,8 @@
 publish: true
 title: Afghanistan
 created: 2026-10-22T10:43:46.309Z
-modified: 2026-10-22T10:43:46.309Z
-published: 2026-10-22T10:43:46.309Z
+modified: 2026-10-22T16:30:55.813Z
+published: 2026-10-22T16:30:55.813Z
 aliases: []
 books:
   - The Price of Civilization
@@ -31,6 +31,22 @@ Country in Central and South Asia, where Jim Wright traces the roots of modern t
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Price of Civilization | Jim Wright | turning point | The US funded the Mujahedeen against the Soviets, then left the ruins; the fighters became the Taliban and Al Qaida. |
+
+## Sub-places
+- [[Bamyan]]
+- [[Dushi]]
+- [[Ghazni]]
+- [[Ghorband Valley]]
+- [[Ghoryan]]
+- [[Herat]]
+- [[Jalalabad]]
+- [[Kabul]]
+- [[Kandahar]]
+- [[Moqor]]
+- [[Pul-e Khumri]]
+- [[Qalat]]
+- [[Shibar Pass]]
+- [[Tangi Sharo Gorge (Full Tilt)]]
 
 ## The Price of Civilization — Jim Wright (2015)
 Source: [Original](https://www.stonekettle.com/2015/11/the-price-of-civilization.html) · [Readwise highlight](https://read.readwise.io/read/01m5hk506bkxs6z0g6vfzans1s)

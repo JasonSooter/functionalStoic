@@ -2,8 +2,8 @@
 publish: true
 title: Portland, Oregon
 created: 2026-10-20T04:33:34.000Z
-modified: 2026-10-22T13:40:35.436Z
-published: 2026-10-22T13:40:35.436Z
+modified: 2026-10-22T16:48:58.830Z
+published: 2026-10-22T16:48:58.830Z
 aliases:
   - Portland
 books:
@@ -13,6 +13,8 @@ books:
   - Rental Rehab is No Fun
   - How Much Does It Cost To Live A Modest Lifestyle?
   - 2015 Annual Net Worth Update
+  - What to Do When the Stock Market Crashes
+  - Where Would You Move to After Retirement?
 categories:
   - "[[Places]]"
 color: purple
@@ -42,6 +44,8 @@ City on the Willamette River in [[Oregon]], which shows up in the reading as Ame
 | Rental Rehab is No Fun | Retire by 40 | setting | New tenant rules take effect as he guts and repaints his duplex unit in 16 days. |
 | How Much Does It Cost To Live A Modest Lifestyle? | Retire by 40 | subject | An EPI budget for Portland rose from about $5,000 a month in 2015 to $7,154 by 2022. |
 | 2015 Annual Net Worth Update | Retire by 40 | subject | His Portland duplex and condos drive most of his 2015 net-worth gain. |
+| What to Do When the Stock Market Crashes | Get Rich Slowly | backdrop | Early coronavirus panic-buying and thin crowds at a musical and a Timbers match, March 2020. |
+| Where Would You Move to After Retirement? | Retire by 40 | subject | Home city weighed against retirement spots: damp winters, costs, taxes and traffic. |
 
 ## Sub-places
 
@@ -107,3 +111,21 @@ Source: [Original](https://retireby40.org/2015-annual-net-worth-update/) · [Rea
 - **Role:** subject
 - **In the article:** The author's Portland duplex, rental condo and primary-residence condo drive most of the 13.56% net worth gain in 2015. The primary residence is a 2 bedroom Portland condo with a view of Mt. Hood and the Willamette River. He worries the Portland boom may not be sustained by the local employment market.
 - **Why it matters:** Portland's housing market is the main driver and a central worry of the post, though no specific street or building is named.
+
+## What to Do When the Stock Market Crashes — Get Rich Slowly (2020)
+Source: [Original](http://moneyboss.com/what-to-do-when-the-stock-market-crashes/) · [Readwise highlight](https://read.readwise.io/read/01m5j6jmyy2j8qghhxwmvyw5y2)
+
+> Here in Portland, we've had the coronavirus for about ten days now. The first diagnosed case came from a person employed at a school just five miles from our house. This has caused panicked runs on Costco and Wal-Mart.
+
+- **Role:** backdrop
+- **In the article:** The author reports local effects of the early coronavirus outbreak where he lives. A case appears near his home and shoppers rush the stores. He and Kim then attend a Broadway musical and a Portland Timbers match, both thinly attended.
+- **Why it matters:** It grounds the abstract market-crash argument in the author's own city during March 2020.
+
+## Where Would You Move to After Retirement? — Retire by 40 (2016)
+Source: [Original](https://retireby40.org/where-would-you-move-to-after-retirement/) · [Readwise highlight](https://read.readwise.io/read/01m5j7t6bmc42pz852csqf842w)
+
+> Thanks goodness the weather is improving in Portland and the rest of the Pacific Northwest. We had the wettest December ever and this winter will go down in the record books.
+
+- **Role:** subject
+- **In the article:** The author's home city, which he and his wife love but whose damp winters, rising costs, homelessness, allergies, 10% state income tax and traffic are making them consider leaving after retirement. He moved there in 1996.
+- **Why it matters:** Portland is the place being weighed against possible retirement destinations.

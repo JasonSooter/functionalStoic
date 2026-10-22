@@ -2,8 +2,8 @@
 publish: true
 title: Las Vegas
 created: 2026-10-21T13:55:41.000Z
-modified: 2026-10-21T23:00:06.385Z
-published: 2026-10-21T23:00:06.385Z
+modified: 2026-10-22T16:30:52.233Z
+published: 2026-10-22T16:30:52.233Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -38,7 +38,9 @@ Las Vegas is a desert city in southern Nevada. It turns up in Walkable City (Jef
 | Stranger in a Strange Land | Robert A. Heinlein | setting | Mike works the casinos and Jill becomes a show girl in the 'Babylon of the West'. |
 
 ## Sub-places
+
 - [[Downtown Las Vegas]]
+- [[Red Rock Canyon National Conservation Area]]
 
 ## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbnmk7nrjwe7hq99qfge6d)

@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-22T14:40:39.723Z
-published: 2026-10-22T14:40:39.723Z
+modified: 2026-10-22T16:49:09.466Z
+published: 2026-10-22T16:49:09.466Z
 aliases: []
 books: []
 categories:
@@ -95,6 +95,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Gordon French's garage (Menlo Park)]]
 - [[Half Moon Bay, California]]
 - [[Hangar One (Mountain View)]]
+- [[Jet Propulsion Laboratory]]
 - [[Kennedy Meadows]]
 - [[Lassen Volcanic National Park]]
 - [[Los Angeles Aqueduct]]
@@ -105,6 +106,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Oakland]]
 - [[Ocean Avenue (Carmel-by-the-Sea)]]
 - [[Old Pasadena]]
+- [[Orange High School (California)]]
 - [[Palm Springs]]
 - [[Palo Alto]]
 - [[Pebble Beach Golf Links]]

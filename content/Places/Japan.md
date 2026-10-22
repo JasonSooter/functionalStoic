@@ -2,8 +2,8 @@
 publish: true
 title: Japan
 created: 2026-10-20T07:35:02.000Z
-modified: 2026-10-22T13:40:28.740Z
-published: 2026-10-22T13:40:28.740Z
+modified: 2026-10-22T16:49:25.290Z
+published: 2026-10-22T16:49:25.290Z
 aliases: []
 books: []
 categories:
@@ -32,6 +32,7 @@ Island country in East Asia. Hub for literary places in the country.
 - [[Morioka]]
 - [[Mount Fuji]]
 - [[Mount Koya]]
+- [[Nagasaki]]
 - [[Okinawa]]
 - [[Tokyo]]
 - [[Tōkaidō]]

@@ -2,16 +2,13 @@
 publish: true
 title: Beijing
 created: 2026-10-20T19:38:53.000Z
-modified: 2026-10-21T10:49:15.000Z
-published: 2026-10-21T10:49:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-22T16:49:50.818Z
+published: 2026-10-22T16:49:50.818Z
 aliases: []
 books:
   - Breakneck
   - "[[Not the End of the World]]"
+  - "[[The Martian]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -21,6 +18,10 @@ icon: book
 location:
   - 39.9075
   - 116.3972
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -34,15 +35,14 @@ Capital of [[China]], which appears in the reading as Dan Wang's dreary, control
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | subject | Dreary, controlling capital that stands for the engineering state. |
 | [[Not the End of the World]] | Hannah Ritchie | subject | The chapter opens on Beijing's 'airpocalypse'. |
+| [[The Martian]] | Andy Weir | setting | Teddy and Venkat land at Terminal 3 to negotiate the Chinese booster. |
 
 ## Sub-places
-
 - [[Big Air Shougang]]
 - [[Sitong Bridge]]
 - [[Tianyuan Cave]]
 
 ## Breakneck — Dan Wang (2025)
-
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dcn8d6hjkkfgjjap36cs3s)
 
 > Beijing enthralls not because it is nice but because it isn’t. By most measures, life in Beijing is dreary.
@@ -52,7 +52,6 @@ Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highl
 - **Why it matters:** It sets up the book's picture of the engineering state and its urge to control the future.
 
 ## Not the End of the World — Hannah Ritchie (2024)
-
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5e31k77fd3f8z7r566sw52x)
 
 > For years, Beijing was near the top of the list for ‘most polluted city in the world’. It had become the poster child for global air pollution, especially in the Western media.
@@ -60,3 +59,12 @@ Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works
 - **Role:** subject
 - **In the book:** The chapter opens on Beijing's 'airpocalypse'. It describes the 2008 Summer Olympics, the temporary measures taken beforehand, public anger by 2013, and the 2014 'war on pollution' after which pollution fell 55% between 2013 and 2020.
 - **Why it matters:** Beijing is the chapter's opening case study of how a citizenry can force rapid air-quality improvement; the author returns to it at the chapter's end. Another city would change the specifics but the lesson would stand.
+
+## The Martian — Andy Weir (2011)
+Source: [[The Martian]] · [Original](https://openlibrary.org/works/OL17091839W) · [Readwise highlight](https://read.readwise.io/read/01m5j7vapx4jwtv3nqpntvndmz)
+
+> Beijing Capital International Airport’s Terminal 3 echoed with the cacophony common to huge air terminals.
+
+- **Role:** setting
+- **In the book:** After a fourteen-and-a-half-hour flight, Teddy and Venkat land at Terminal 3 and are met by guide Su Bin Bao. As official guests they bypass customs and are taken straight to their hotel.
+- **Why it matters:** Named building where the American delegation arrives in China.

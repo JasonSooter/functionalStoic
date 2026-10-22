@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-10-22T13:40:44.777Z
-published: 2026-10-22T13:40:44.777Z
+modified: 2026-10-22T16:49:22.270Z
+published: 2026-10-22T16:49:22.270Z
 aliases: []
 books: []
 categories:
@@ -81,6 +81,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 ## Sub-places
 
 - [[Berkshire]]
+- [[Bradford]]
 - [[Bristol]]
 - [[Brooks England factory]]
 - [[Buckinghamshire]]

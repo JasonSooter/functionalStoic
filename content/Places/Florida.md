@@ -2,8 +2,8 @@
 publish: true
 title: Florida
 created: 2026-10-19T22:29:17.000Z
-modified: 2026-10-22T10:28:52.653Z
-published: 2026-10-22T10:28:52.653Z
+modified: 2026-10-22T16:49:15.246Z
+published: 2026-10-22T16:49:15.246Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -35,7 +35,9 @@ State in the south-eastern [[United States]], appearing in the reading as one st
 ## Sub-places
 
 - [[Calle Ocho]]
+- [[Cape Canaveral]]
 - [[Daytona International Speedway]]
+- [[Delray Beach]]
 - [[Fifth Avenue South (Naples, Florida)]]
 - [[Gadsden County, Florida]]
 - [[GORUCK headquarters]]
@@ -44,6 +46,7 @@ State in the south-eastern [[United States]], appearing in the reading as one st
 - [[Miami Beach]]
 - [[Orlando]]
 - [[Retreat at Twin Lakes]]
+- [[Sanibel Island]]
 - [[Sarasota]]
 - [[St Petersburg, Florida]]
 - [[Tallahassee]]

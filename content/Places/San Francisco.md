@@ -2,8 +2,8 @@
 publish: true
 title: San Francisco
 created: 2026-10-20T13:47:58.000Z
-modified: 2026-10-22T10:28:39.610Z
-published: 2026-10-22T10:28:39.610Z
+modified: 2026-10-22T16:49:12.526Z
+published: 2026-10-22T16:49:12.526Z
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -34,6 +34,7 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 
 ## Sub-places
 
+- [[Bernal Heights Park]]
 - [[Bradford Street (San Francisco)]]
 - [[Crissy Field]]
 - [[Davies Symphony Hall]]
@@ -51,6 +52,7 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 - [[San Francisco Ferry Building]]
 - [[San Francisco–Oakland Bay Bridge]]
 - [[SFMOMA]]
+- [[Thurgood Marshall Academic High School]]
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
 Source: [Original](https://openlibrary.org/works/OL59688W)

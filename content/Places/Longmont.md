@@ -2,14 +2,15 @@
 publish: true
 title: Longmont
 created: 2026-10-21T04:45:35.000Z
-modified: 2026-10-22T13:40:33.232Z
-published: 2026-10-22T13:40:33.232Z
+modified: 2026-10-22T16:49:43.770Z
+published: 2026-10-22T16:49:43.770Z
 aliases: []
 books:
   - How To Afford a House These Days
   - How to Sell a House
   - Understand the Drive-Thru and We Can Solve All Problems
   - Lessons Learned From Having My Bike Stolen
+  - An Interview with Mother Earth on Climate Change
 categories:
   - "[[Places]]"
 color: purple
@@ -38,6 +39,7 @@ City in Boulder County, [[Colorado]]. It shows up in the reading as the author's
 | How to Sell a House | Mr. Money Mustache | setting | The author's Longmont rental house, listed and sold at full price to newcomers in the post's worked example. |
 | Understand the Drive-Thru and We Can Solve All Problems | Sarah Noelle | subject | Back from Ecuador, she and her son puzzle over a bank drive-thru's half acre of asphalt beside a 21-acre park. |
 | Lessons Learned From Having My Bike Stolen | Mr. Money Mustache | setting | Mustache thinks his bike was stolen in Longmont, where a bike-shop owner says theft is common. |
+| An Interview with Mother Earth on Climate Change | Mr. Money Mustache | backdrop | The 2013 flood: 12 inches of rain in one storm and a $175 million rebuild. |
 
 ## Sub-places
 - [[The Bo-Lar Boogie loop]]
@@ -77,3 +79,12 @@ Source: [Original](https://www.mrmoneymustache.com/2015/12/08/lessons-learned-fr
 - **Role:** setting
 - **In the article:** The author's home city. After he thinks his bike was stolen from his back patio beside a public park, a local bike shop owner tells him theft is common in Longmont. The author debates whether his low-crime view of the city is wrong, then finds the bike was left at a friend's house.
 - **Why it matters:** Moderate: the city is the backdrop and the object of the crime-risk argument, but the piece is about attitude to risk, not the place.
+
+## An Interview with Mother Earth on Climate Change — Mr. Money Mustache (2016)
+Source: [Original](https://www.mrmoneymustache.com/2016/03/15/mother-earth/) · [Readwise highlight](https://read.readwise.io/read/01m5j7ty9462rdjwdmf3e13n6a)
+
+> Two years ago, my city of Longmont, Colorado received 12 inches of rain in a single storm.
+
+- **Role:** backdrop
+- **In the article:** The author describes a 500-year flood in his home city: 12 inches of rain in one storm swelled the creek through town, swept away people and bridges and flooded hundreds of buildings. Rebuilding costs about $175 million, roughly $2000 per resident.
+- **Why it matters:** It is the concrete local example the author uses to make the abstract climate-change argument personal and costly.

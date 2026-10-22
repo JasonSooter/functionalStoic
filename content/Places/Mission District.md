@@ -2,12 +2,13 @@
 publish: true
 title: Mission District
 created: 2026-10-21T22:26:08.148Z
-modified: 2026-10-21T22:26:08.148Z
-published: 2026-10-21T22:26:08.148Z
+modified: 2026-10-22T16:49:49.834Z
+published: 2026-10-22T16:49:49.834Z
 aliases:
   - The Mission
 books:
   - Anti-Gay Hate Crime Is on the Decline but Still Prevalent
+  - "Death by gentrification: the killing that shamed San Francisco"
 categories:
   - "[[Places]]"
 color: purple
@@ -29,9 +30,14 @@ within: "[[San Francisco]]"
 Neighbourhood of [[San Francisco]]. A Priceonomics piece on anti-gay hate crime opens with a mural there that was attacked three times.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Anti-Gay Hate Crime Is on the Decline but Still Prevalent | Priceonomics | subject | Neighbourhood where a 'Por Vida' mural of queer couples was defaced twice and then burned. |
+| Death by gentrification: the killing that shamed San Francisco | Rebecca Solnit | backdrop | The Latino neighbourhood that gathers around Nieto's memory, facing displacement. |
+
+## Sub-places
+- [[Everett Middle School]]
 
 ## Anti-Gay Hate Crime Is on the Decline but Still Prevalent — Priceonomics (2015)
 Source: [Original](https://priceonomics.com/anti-gay-hate-crime-is-on-the-decline-but-still/) · [Readwise highlight](https://read.readwise.io/read/01m5g8vz73453fddtrbwxt0fr7)
@@ -41,3 +47,12 @@ Source: [Original](https://priceonomics.com/anti-gay-hate-crime-is-on-the-declin
 - **Role:** subject
 - **In the article:** A mural inscribed 'Por Vida', showing queer couples and a transgender man, went up in the Mission District; it was defaced twice with spray paint and its third version set on fire, despite cameras and police patrols. The article uses it to lead into data on anti-LGBTQ hate crime.
 - **Why it matters:** The mural anchors the article's argument about hate crime and under-reporting; the exact wall is not named, so the pin is the neighbourhood.
+
+## Death by gentrification: the killing that shamed San Francisco — Rebecca Solnit (2016)
+Source: [Original](https://www.theguardian.com/us-news/2016/mar/21/death-by-gentrification-the-killing-that-shamed-san-francisco) · [Readwise highlight](https://read.readwise.io/read/01m5j7v50yj48eskecr38xf92n)
+
+> Adriana and I turned around in our pew and met Oscar Salinas, a big man who was native to the Mission. He told us that when someone in the community is hurt, the Mission comes together.
+
+- **Role:** backdrop
+- **In the article:** The Latino Mission neighbourhood is where Nieto's face appears on murals and banners and where about 150 people gathered at the Mission Cultural Center and on Mission Street after the verdict. Residents describe it as a community that takes care of its own, and it faces evictions and gentrification.
+- **Why it matters:** It stands for the threatened community fabric the author sets against displacement and money.
