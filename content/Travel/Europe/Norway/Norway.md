@@ -1,18 +1,16 @@
 ---
 publish: true
-aliases:
-  - Norway (literary places)
 title: Norway
 created: 2025-02-24T04:31:10.411Z
-modified: 2026-10-23T02:06:37.000Z
-published: 2026-10-23T02:06:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T22:39:01.420Z
+published: 2026-10-23T22:39:01.420Z
+aliases:
+  - Norway (literary places)
 books:
   - Norway Is a Model for Encouraging Electric Car Sales
-  - "American capitalism has failed us: We're overworked, underemployed and more powerless than ever before"
+  - "American capitalism has failed us: We're overworked, underemployed and more powerless\
+    \ than ever before"
+  - The Hitchhiker's Guide to the Galaxy
 categories:
   - "[[Places]]"
 color: blue
@@ -20,7 +18,7 @@ coordinates: 59.9139,10.7522
 date created: 2025-02-23T21:31:10-07:00
 date modified: 2026-02-21T09:56:46-07:00
 flag: 🇳🇴
-icon: flag
+icon: book
 linter-yaml-title-alias: Norway
 location:
   - 59.9139
@@ -30,6 +28,10 @@ locations:
     name: Oslo
   - coordinates: 60.3913,5.3221
     name: Bergen
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Norway
@@ -60,6 +62,7 @@ Overall, Norway is characterized by its commitment to sustainability, equality, 
 
 > [!question] Does Bergen, Norway have good public transportation?
 > Yes, Bergen, Norway has a well-developed public transportation system. The city offers various options including buses, light rail (Bybanen), and ferries. The light rail system is particularly popular and connects the city center with the airport and other key areas. Buses cover a wide network throughout the city and surrounding regions. Additionally, Bergen's public transportation is known for being reliable and efficient, making it easy for residents and visitors to navigate the city.
+> 
 
 ## Content
 
@@ -71,6 +74,7 @@ Overall, Norway is characterized by its commitment to sustainability, equality, 
 |---|---|---|---|
 | Norway Is a Model for Encouraging Electric Car Sales | David Jolly | subject | Generous incentives make Norway the global model for persuading people to switch to electric cars. |
 | American capitalism has failed us: We're overworked, underemployed and more powerless than ever before | Ann Jones | subject | Four calm years after Afghanistan, and the Nordic Model held up against US capitalism. |
+| The Hitchhiker's Guide to the Galaxy | Douglas Adams | subject | Slartibartfast designed its fjords and won an award for them. |
 
 ## Sub-places
 
@@ -83,7 +87,6 @@ Overall, Norway is characterized by its commitment to sustainability, equality, 
 - [[Tjøtta]]
 
 ## Norway Is a Model for Encouraging Electric Car Sales — David Jolly (2015)
-
 Source: [Original](http://mobile.nytimes.com/2015/10/17/business/international/norway-is-global-model-for-encouraging-sales-of-electric-cars.html) · [Readwise highlight](https://read.readwise.io/read/01m5gm186zee8nb7e2t93cx7v3)
 
 > Norway has become a global model for how to persuade the public to embrace electric vehicles.
@@ -93,7 +96,6 @@ Source: [Original](http://mobile.nytimes.com/2015/10/17/business/international/n
 - **Why it matters:** Norway is the subject of the whole article, though the saved text is a short paywalled excerpt.
 
 ## American capitalism has failed us: We're overworked, underemployed and more powerless than ever before — Ann Jones (2016)
-
 Source: [Original](https://www.salon.com/2016/02/04/american_capitalism_has_failed_us_were_overworked_underemployed_and_more_powerless_than_ever_before_partner/) · [Readwise highlight](https://read.readwise.io/read/01m5j6k2768q90xp91v67t1g7a)
 
 > I found it refreshing to hike and ski in a country with no land mines, and to hang out in cafés unlikely to be bombed. Gradually, I lost my warzone jitters and settled into the slow, calm, pleasantly uneventful stream of life there.
@@ -101,3 +103,12 @@ Source: [Original](https://www.salon.com/2016/02/04/american_capitalism_has_fail
 - **Role:** subject
 - **In the article:** The author, a war reporter leaving Afghanistan, spends four years in Norway, hiking, skiing and enjoying short work days. She later holds up its Nordic Model (equality, strong unions, universal welfare, women's workforce participation, outdoor kindergartens) as proof that capitalism can serve the many.
 - **Why it matters:** Norway is both the author's refuge and the piece's central example against which American capitalism is measured.
+
+## The Hitchhiker's Guide to the Galaxy — Douglas Adams (1979)
+Source: [Original](https://openlibrary.org/works/OL2163649W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2dnk6a9ycdmbz3a96k7e)
+
+> Look at me: I design coastlines. I got an award for Norway.
+
+- **Role:** subject
+- **In the book:** On Magrathea, Slartibartfast asks Arthur whether he ever went to Norway: he designed its coastline and won an award for its 'lovely crinkly edges'. In his study he produces a Perspex block with a model of Norway in it and grumbles that he has done fjords all his life. For the replacement Earth he has been given Africa and is doing it with fjords too.
+- **Why it matters:** Norway is the one real landscape the book credits to a character's craft, which turns the Earth's geography into a commissioned work of art and gives Slartibartfast his link to the lost planet.

@@ -2,12 +2,8 @@
 publish: true
 title: Japan
 created: 2026-10-20T07:35:02.000Z
-modified: 2026-10-23T19:06:02.772Z
-published: 2026-10-23T19:06:02.772Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T22:38:50.165Z
+published: 2026-10-23T22:38:50.165Z
 aliases: []
 books:
   - "[[Exploration of Moby Dick]]"
@@ -21,6 +17,10 @@ icon: book
 location:
   - 36
   - 138
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Japan
@@ -28,7 +28,6 @@ location:
 Japan is an island country in East Asia. In Melville's _Moby-Dick_ it is the nearest named land to the Japanese whaling ground where the Pequod's hunt reaches its climax.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | setting | On the Japanese cruising-ground: the Bachelor, the smashed quadrant, the typhoon, the corpusants, and the reversed compass. |
@@ -54,9 +53,9 @@ Japan is an island country in East Asia. In Melville's _Moby-Dick_ it is the nea
 - [[Tokyo]]
 - [[Tōhoku region]]
 - [[Tōkaidō]]
+- [[Yokohama]]
 
 ## Moby-Dick — Herman Melville (1851)
-
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m75311049sk9mvbwmqtqdj)
 
 > Penetrating further and further into the heart of the Japanese cruising ground, the Pequod was soon all astir in the fishery.

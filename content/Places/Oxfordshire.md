@@ -2,18 +2,18 @@
 publish: true
 title: Oxfordshire
 created: 2026-10-22T01:44:40.000Z
-modified: 2026-10-22T01:44:40.000Z
-published: 2026-10-22T01:44:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T22:38:34.131Z
+published: 2026-10-23T22:38:34.131Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
 ---
 
@@ -31,4 +31,5 @@ County in South East England around Oxford and the upper Thames. It collects pla
 - [[Oxford]]
 - [[Sandford Lock]]
 - [[Shiplake]]
+- [[Toad Hall (The Wind in the Willows)]]
 - [[Wallingford]]

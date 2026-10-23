@@ -2,11 +2,8 @@
 publish: true
 title: Lisbon
 created: 2026-07-17T14:36:22.287Z
-modified: 2026-10-23T11:17:29.000Z
-published: 2026-10-23T11:17:29.000Z
-tags: |-
-  places
-  source/ai/claude
+modified: 2026-10-23T22:40:43.527Z
+published: 2026-10-23T22:40:43.527Z
 location:
   - 38.7223
   - -9.1393
@@ -15,6 +12,9 @@ categories:
 coordinates: 38.7223,-9.1393
 color: green
 icon: building-2
+tags: 'places
+
+  source/ai/claude'
 date created: 2026-07-17T16:36:22+02:00
 date modified: 2026-07-17T17:32:29+02:00
 books: "[[Candide]]"
@@ -43,9 +43,9 @@ Capital of [[Portugal]]. Each `geo:` link below is a separate map marker in Map 
 ### FAQ
 
 ---
-
 🙋
 ✨
+
 
 ---
 
@@ -57,12 +57,12 @@ Capital of [[Portugal]]. Each `geo:` link below is a separate map marker in Map 
 
 View of the bridge on the way to [[#Resvés Cowork Space]] along the [Tagus River](https://en.wikipedia.org/wiki/Tagus)
 
-![[Attachments/25 de Abril Bridge.png]]
-\#🗓️/2023/10/30
+![[25 de Abril Bridge.png]]
+#🗓️/2023/10/30
 
 #### Resvés Co-Work Space
 
-![[Attachments/Resvés Cowork Space.png]]
+![[Resvés Cowork Space.png]]
 
 - <https://resvescowork.pt/>
 
@@ -83,9 +83,9 @@ Source highlight: [Readwise](https://readwise.io/open/739134113).
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | turning point | Candide and Pangloss reach Lisbon as the earthquake strikes; the auto-da-fé follows. |
+| Robinson Crusoe | Daniel Defoe | journey waypoint | Crusoe recovers the fortune from his Brazilian plantation. |
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m758eh76eg7yyx2fbwbp79)
 
 > Scarcely had they reached the city, lamenting the death of their benefactor, when they felt the earth tremble under their feet. The sea swelled and foamed in the harbour, and beat to pieces the vessels riding at anchor.
@@ -93,3 +93,12 @@ Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [R
 - **Role:** turning point
 - **In the book:** James's ship is wrecked within sight of the port; James drowns and Pangloss argues the Bay of Lisbon was made for that purpose. Candide and Pangloss reach the city as an earthquake destroys it, and the authorities, on the University of Coimbra's advice, stage an auto-da-fé: Pangloss is hanged and Candide flogged. The old woman then leads him to a lonely house a quarter of a mile into the country, where he finds Cunegonde and kills Don Issachar and the Grand Inquisitor, then flees with both women toward Cadiz.
 - **Why it matters:** The book's central disaster and its sharpest attack on optimism, set on a real catastrophe. It also brings in the Inquisition and reunites Candide with Cunegonde.
+
+## Robinson Crusoe — Daniel Defoe (1719)
+Source: [Original](https://openlibrary.org/works/OL45237W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5dnbsrdegv8d7gvyqmdq)
+
+> With this view I took shipping for Lisbon, where I arrived in April following
+
+- **Role:** journey waypoint
+- **In the book:** After reaching England in June 1687 and finding his family dead, Crusoe sails with Friday to Lisbon in April. There he finds the old Portuguese captain who rescued him off Africa, learns what became of his Brazilian plantation, registers a notarised affidavit that he is alive, and receives the fleet's accounts and goods from Brazil. He rewards the captain, writes to the Prior of St. Augustine, the trustees and his partner, and turns his wealth into bills of exchange before leaving overland.
+- **Why it matters:** Lisbon is the hinge where Crusoe's lost colonial fortune is legally restored, turning the castaway into a rich man.

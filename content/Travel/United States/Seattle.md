@@ -2,17 +2,14 @@
 publish: true
 title: Seattle
 created: 2025-03-25T12:06:03.737Z
-modified: 2026-10-22T23:16:42.000Z
-published: 2026-10-22T23:16:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T22:39:03.592Z
+published: 2026-10-23T22:39:03.592Z
 books:
   - How $100 Per Voter Makes Seattle’s Elections More Inclusive
   - "[[Four Thousand Weeks]]"
   - Are RVs a Good Solution to Affordable Urban Housing?
   - Rain-Activated Art is Taking Over Seattle
+  - The Call of the Wild
 categories:
   - "[[Places]]"
 color: green
@@ -25,6 +22,10 @@ linter-yaml-title-alias: Seattle
 location:
   - 47.6062
   - -122.3321
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Seattle
@@ -53,15 +54,15 @@ Seattle is also committed to sustainability and environmentalism, with initiativ
 
 > [!question] Title
 > Contents
+> 
 
 ## Content
 
 ## Public Transit
 
 Airport → Downtown
-
 - https://maps.app.goo.gl/4BwNtpWxPsLZdZoM9
-- [Link Light Rail 1 Line](https://www.soundtransit.org/ride-with-us/routes-schedules/1-line?route_tab=schedule\&direction=0\&at=1742886000000\&view=table\&stops_0=40_N23,40_S01\&stops_1=40_S01,40_N23)
+- [Link Light Rail 1 Line](https://www.soundtransit.org/ride-with-us/routes-schedules/1-line?route_tab=schedule&direction=0&at=1742886000000&view=table&stops_0=40_N23,40_S01&stops_1=40_S01,40_N23)
 
 ### Getting Out of the Airport
 
@@ -79,10 +80,11 @@ Airport → Downtown
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| How \$100 Per Voter Makes Seattle’s Elections More Inclusive | Amy Sundberg | subject | The city's democracy-voucher experiment in public campaign finance. |
+| How $100 Per Voter Makes Seattle’s Elections More Inclusive | Amy Sundberg | subject | The city's democracy-voucher experiment in public campaign finance. |
 | [[Four Thousand Weeks]] | Oliver Burkeman | setting | Burkeman attends the annual conference of the campaigning group Take Back Your Time in a lecture theater in Seattle on a boiling August… |
 | Are RVs a Good Solution to Affordable Urban Housing? | David Friedlander | subject | Case study of RV living as affordable housing, as homelessness rises. |
 | Rain-Activated Art is Taking Over Seattle | GOOD | subject | Rainy city whose reputation inspires Peregrine Church's hidden Rainworks street art |
+| The Call of the Wild | Jack London | turning point | The man in the red sweater teaches Buck the law of club and fang. |
 
 ## Sub-places
 
@@ -97,18 +99,16 @@ Airport → Downtown
 - [[U.S. District Court for the Western District of Washington (Project Hail Mary)]]
 - [[University of Washington]]
 
-## How \$100 Per Voter Makes Seattle’s Elections More Inclusive — Amy Sundberg (2025)
-
+## How $100 Per Voter Makes Seattle’s Elections More Inclusive — Amy Sundberg (2025)
 Source: [Original](https://reasonstobecheerful.world/how-100-per-voter-makes-seattles-elections-more-inclusive/) · [Readwise highlight](https://read.readwise.io/read/01m5dcjcjjt68kf96836eftrty)
 
-> Seattle is poised to continue its experiment in public campaign financing. In early August, voters renewed the city’s democracy vouchers program, which provides each adult Seattle resident with four \$25 vouchers they can donate to local candidates of their choice.
+> Seattle is poised to continue its experiment in public campaign financing. In early August, voters renewed the city’s democracy vouchers program, which provides each adult Seattle resident with four $25 vouchers they can donate to local candidates of their choice.
 
 - **Role:** subject
 - **In the article:** The article is about Seattle's democracy vouchers: voters renewed the levy that funds them, the number of donors rose sharply, and donors now skew younger and lower-income; critics point to low participation and rising outside money.
 - **Why it matters:** The city is the whole subject, as the place running the experiment; the reference is to its politics rather than any site in it.
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
-
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcqcczc44dbgq63mp04xag)
 
 > an airless university lecture theater in Seattle, where they’d assembled to further their long-standing mission of “eliminating the epidemic of overwork.”
@@ -118,7 +118,6 @@ Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22
 - **Why it matters:** The conference frames chapter 9 on rest. The city is incidental, but the specific gathering gives the chapter its opening scene.
 
 ## Are RVs a Good Solution to Affordable Urban Housing? — David Friedlander (2016)
-
 Source: [Original](https://lifeedited.com/are-rvs-a-good-solution-to-affordable-urban-housing/) · [Readwise highlight](https://read.readwise.io/read/01m5j7t4g8cgvyccbch6t0b40q)
 
 > Homelessness has increased a fairly shocking 19% in the last year alone and RVs have become a common solution to avoiding shelters and living exposed on the streets. Most of the 175-200 people who are living out of their vehicles in Seattle probably don’t have Sims’ sweet ride or relative good cheer about the situation.
@@ -128,7 +127,6 @@ Source: [Original](https://lifeedited.com/are-rvs-a-good-solution-to-affordable-
 - **Why it matters:** Seattle is the case study for whether RVs can serve as affordable urban housing.
 
 ## Rain-Activated Art is Taking Over Seattle — GOOD (2016)
-
 Source: [Original](http://www.good.is/posts/art-thats-happy-when-it-rains) · [Readwise highlight](https://read.readwise.io/read/01m5jjr8vcn3tezm5ma1edmkmw)
 
 > Church has created over 25 Rainworks pieces throughout Seattle, including a lily pond, a large sign that says “Worry is a misuse of the imagination,” and a hopscotch design that encourages people to jump through west Seattle’s puddles.
@@ -136,3 +134,12 @@ Source: [Original](http://www.good.is/posts/art-thats-happy-when-it-rains) · [R
 - **Role:** subject
 - **In the article:** Artist Peregrine Church applies a water-repellent spray through stencils to Seattle concrete so that images appear only when it rains. He has made over 25 pieces around the city, including a hopscotch in west Seattle. He calls it the ideal Seattle art because the city is associated with rain.
 - **Why it matters:** The city's rainy reputation is the premise of the art form; set elsewhere the idea would lose its point. No specific street is named.
+
+## The Call of the Wild — Jack London (1903)
+Source: [Original](https://openlibrary.org/works/OL14942956W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5j40kr3essz7xsx2gm1g)
+
+> Four men gingerly carried the crate from the wagon into a small, high-walled back yard. A stout man, with a red sweater that sagged generously at the neck, came out and signed the book for the driver.
+
+- **Role:** turning point
+- **In the book:** After two days in an express car Buck is unloaded at Seattle. The man in the red sweater breaks him with a club, teaching 'the law of club and fang'. Perrault buys him here and the Narwhal sails north.
+- **Why it matters:** The club scene is the book's defining lesson and the moment Buck is 'beaten but not broken'.
