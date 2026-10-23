@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-23T02:06:07.164Z
-published: 2026-10-23T02:06:07.164Z
+modified: 2026-10-23T04:41:08.349Z
+published: 2026-10-23T04:41:08.349Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -44,6 +44,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Canada Water]]
 - [[City of London]]
 - [[Crossness Pumping Station]]
+- [[Croydon]]
 - [[Grenfell Tower]]
 - [[Hampstead]]
 - [[Haymarket Stores]]

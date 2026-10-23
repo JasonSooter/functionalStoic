@@ -2,8 +2,8 @@
 publish: true
 title: Athens
 created: 2026-10-21T02:06:18.000Z
-modified: 2026-10-22T22:59:12.086Z
-published: 2026-10-22T22:59:12.086Z
+modified: 2026-10-23T04:41:07.505Z
+published: 2026-10-23T04:41:07.505Z
 aliases: []
 books:
   - Financial Independence is Not a Marathon
@@ -37,8 +37,11 @@ Capital of Greece. In a personal-finance post it is the finish line of Pheidippi
 
 ## Sub-places
 
+- [[Athens International Airport]]
+- [[Pedion tou Areos]]
 - [[Platonic Academy]]
 - [[Stoa Poikile]]
+- [[Victoria Square (Athens)]]
 
 ## Financial Independence is Not a Marathon — MaggieBanks (2016)
 Source: [Original](https://northernexpenditure.com/financial-independence-not-marathon-sprint/) · [Readwise highlight](https://read.readwise.io/read/01m5jvp3xrfjtwfbf9jtzf08hq)

@@ -2,8 +2,8 @@
 publish: true
 title: Germany
 created: 2024-08-10T03:01:42.779Z
-modified: 2026-10-23T02:26:37.138Z
-published: 2026-10-23T02:26:37.138Z
+modified: 2026-10-23T04:41:12.129Z
+published: 2026-10-23T04:41:12.129Z
 aliases:
   - Berlin, Germany
   - Berlin
@@ -130,5 +130,6 @@ Germany is renowned for its cultural events like Oktoberfest, classical composer
 - [[Buchenwald]]
 - [[Lower Saxony]]
 - [[Messe Essen]]
+- [[Nuremberg]]
 - [[Schleswig-Holstein]]
 - [[St Burchardi Church (Halberstadt)]]

@@ -2,8 +2,8 @@
 publish: true
 title: Syria
 created: 2026-10-22T14:40:47.000Z
-modified: 2026-10-22T20:02:06.095Z
-published: 2026-10-22T20:02:06.095Z
+modified: 2026-10-23T04:40:59.326Z
+published: 2026-10-23T04:40:59.326Z
 aliases: []
 books: []
 categories:
@@ -22,5 +22,8 @@ Country in the eastern Mediterranean; hub for places from the reading.
 
 ## Sub-places
 
+- [[Aleppo]]
+- [[Armanaz]]
 - [[Krak des Chevaliers]]
 - [[Raqqa]]
+- [[Urum al-Kubra]]

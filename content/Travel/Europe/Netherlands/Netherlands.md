@@ -2,8 +2,8 @@
 publish: true
 title: Netherlands
 created: 2026-09-26T05:01:00.000Z
-modified: 2026-10-23T02:06:16.661Z
-published: 2026-10-23T02:06:16.661Z
+modified: 2026-10-23T04:41:13.329Z
+published: 2026-10-23T04:41:13.329Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
@@ -122,6 +122,7 @@ _Added 2026-09-25 (#source/ai/claude)._
 - [[Vaalserberg]]
 - [[Veluwemeer Aqueduct]]
 - [[Wageningen University & Research]]
+- [[Waltha Castle (Wieuwerd)]]
 
 ## At a glance
 

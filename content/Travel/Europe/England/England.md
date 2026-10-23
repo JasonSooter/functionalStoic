@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-10-23T02:27:12.117Z
-published: 2026-10-23T02:27:12.117Z
+modified: 2026-10-23T04:41:11.333Z
+published: 2026-10-23T04:41:11.333Z
 aliases: []
 books:
   - How the West (and the Rest) Got Rich
@@ -91,6 +91,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Bletchley Park]]
 - [[Boulby Mine]]
 - [[Bradford]]
+- [[Brighton]]
 - [[Bristol]]
 - [[Brooks England factory]]
 - [[Buckinghamshire]]

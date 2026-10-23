@@ -2,8 +2,8 @@
 publish: true
 title: Copenhagen
 created: 2026-10-21T11:09:08.000Z
-modified: 2026-10-23T02:26:58.645Z
-published: 2026-10-23T02:26:58.645Z
+modified: 2026-10-23T04:41:16.456Z
+published: 2026-10-23T04:41:16.456Z
 aliases:
   - København
 books:
@@ -150,7 +150,9 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 - [[Christianshavn]]
 - [[Copenhagen City Hall]]
 - [[Copenhagen Zoo]]
+- [[Gråbrødretorv]]
 - [[Hirschsprung Collection]]
+- [[La Glace (Copenhagen)]]
 - [[Noma]]
 - [[Nyhavn]]
 - [[Nørrebro]]
@@ -158,6 +160,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 - [[Refshaleøen]]
 - [[Tivoli Gardens]]
 - [[Vesterbro]]
+- [[Værnedamsvej]]
 
 ## #080 Cycling in Copenhagen — Diagram Club (2026)
 Source: [[080 Cycling in Copenhagen]] · [Original](https://diagramclub.substack.com/p/080-cycling-in-copenhagen) · [Readwise highlight](https://read.readwise.io/read/01m5bre3r3nmd07p17sa5fqh34)

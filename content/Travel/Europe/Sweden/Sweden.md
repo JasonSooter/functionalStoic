@@ -2,8 +2,8 @@
 publish: true
 title: Sweden
 created: 2024-10-05T01:15:15.417Z
-modified: 2026-10-23T02:26:35.362Z
-published: 2026-10-23T02:26:35.362Z
+modified: 2026-10-23T04:41:18.756Z
+published: 2026-10-23T04:41:18.756Z
 aliases:
   - Malmo
   - Stockholm
@@ -174,6 +174,7 @@ SL: Android App: [SL-Journey planner and Tickets](https://play.google.com/store/
 - [[Hudiksvall]]
 - [[Jokkmokk]]
 - [[Lake Fryken]]
+- [[Nissan (river)]]
 - [[Skåne]]
 - [[Strömsund Bridge]]
 - [[Uppsala]]
