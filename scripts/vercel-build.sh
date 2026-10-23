@@ -2,8 +2,8 @@
 # Vercel build with lockfile-keyed plugin caching.
 #
 # Vercel's build cache only holds node_modules/** for projects without a
-# framework preset, so .quartz/plugins is parked in node_modules/.cache/ between
-# builds (vercel-install.sh carries it across `npm ci`). Reusing those cached
+# framework preset, so .quartz/plugins (and og-image's fonts) are parked in
+# node_modules/.cache/ between builds (vercel-install.sh carries it across `npm ci`). Reusing those cached
 # plugins is fast, but they go stale when a plugin's pinned commit changes —
 # which is exactly when quartz.lock.json changes. So: reuse the cache while the
 # lockfile hash is unchanged; wipe + reinstall fresh when it moves.
@@ -16,6 +16,15 @@ CACHE=node_modules/.cache/quartz-plugins
 if [ -d "$CACHE" ] && [ ! -e .quartz/plugins ]; then
   mkdir -p .quartz
   mv "$CACHE" .quartz/plugins
+fi
+
+# og-image keeps the Google Fonts it fetches in quartz/.quartz-cache/fonts, which
+# Vercel discards; carry it in node_modules/.cache too. (OG images themselves
+# are cached by the plugin directly in node_modules/.cache/og-images.)
+FONTS=node_modules/.cache/quartz-fonts
+if [ -d "$FONTS" ] && [ ! -e quartz/.quartz-cache/fonts ]; then
+  mkdir -p quartz/.quartz-cache
+  cp -R "$FONTS" quartz/.quartz-cache/fonts
 fi
 
 HASH=$( (sha1sum quartz.lock.json 2>/dev/null || shasum quartz.lock.json 2>/dev/null) | cut -c1-12 )
@@ -44,7 +53,11 @@ fi
 
 npx quartz build
 
-# Park the plugins where Vercel's build cache will keep them for the next build.
+# Park the plugins and fonts where Vercel's build cache keeps them for the next build.
 rm -rf "$CACHE"
 mkdir -p "$(dirname "$CACHE")"
 mv .quartz/plugins "$CACHE"
+if [ -d quartz/.quartz-cache/fonts ]; then
+  rm -rf "$FONTS"
+  cp -R quartz/.quartz-cache/fonts "$FONTS"
+fi
