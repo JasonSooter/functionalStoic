@@ -2,18 +2,28 @@
 publish: true
 title: Mexico City
 created: 2024-12-22T21:32:36.142Z
-modified: 2026-10-21T23:01:15.000Z
-published: 2026-10-21T23:01:15.000Z
-tags:
-  - places
-linter-yaml-title-alias: Mexico City
-date created: 2024-12-22T22:32:36+01:00
-date modified: 2026-07-17T21:27:11+02:00
+modified: 2026-10-23T11:14:08.596Z
+published: 2026-10-23T11:14:08.596Z
+books:
+  - Retiring Abroad – Could We Do It?
+  - Eating Our Way Across Mexico
 categories:
   - "[[Places]]"
-coordinates: 19.4326,-99.1332
 color: green
+coordinates: 19.4326,-99.1332
+date created: 2024-12-22T22:32:36+01:00
+date modified: 2026-07-17T21:27:11+02:00
+geo_source: placed by Jason
 icon: building-2
+linter-yaml-title-alias: Mexico City
+location:
+  - 19.4326
+  - -99.1332
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Mexico]]"
 ---
 
 # [[Mexico City]]
@@ -37,15 +47,14 @@ Capital of [[Mexico]], in the central highlands. In a Root of Good post it is th
 
 ## Costs
 
-- Flight for 5: \$1,853.50
+- Flight for 5: $1,853.50
 - Transportation to Airport
-  - Bustang: $35 (Adults: $10, Kids: \$5)
-  - Train from Union Station → DIA: \$20 (Kids are free)
+	- Bustang: $35 (Adults: $10, Kids: $5)
+	- Train from Union Station → DIA: $20 (Kids are free)
 
 ## Maria's Comments
 
 In [[Mexico City]], the things we enjoyed the most were:
-
 - Taking a hop on, hop off bus to get a lay of the land. There's a stop right in la Roma.
 - going to the ruins under the main cathedral in the Zocalo (main square)
 - we stayed at a hotel right on the Zocalo and so got to eat breakfast looking over it--I think that restaurant might be open to the public just for a drink too, need to look it up
@@ -63,19 +72,18 @@ In [[Mexico City]], the things we enjoyed the most were:
 ## Sub-places
 
 - [[Estadio Olímpico Universitario]]
+- [[Tenochtitlan]]
 
 ## Retiring Abroad – Could We Do It? — JustinRoG (2015)
-
 Source: [Original](https://rootofgood.com/retiring-abroad-could-we-do-it/) · [Readwise highlight](https://read.readwise.io/read/01m5g8v1r05jcqtxzeejfe3fcr)
 
-> Our current rental apartment of about 700 square feet in Mexico City costs \$135,000 USD, similar to our 1,800 square foot house in Raleigh.
+> Our current rental apartment of about 700 square feet in Mexico City costs $135,000 USD, similar to our 1,800 square foot house in Raleigh.
 
 - **Role:** subject
 - **In the article:** Part way through a seven-week trip, the family is based in a rented apartment in Mexico City. The author uses it to compare housing, transport, services and weather with home in Raleigh, North Carolina, while asking whether they could retire abroad.
 - **Why it matters:** It is the base the whole argument is built on; the mild highland climate he praises applies to the city and its surroundings.
 
 ## Eating Our Way Across Mexico — JustinRoG (2015)
-
 Source: [Original](http://rootofgood.com/amazing-food-mexico/) · [Readwise highlight](https://read.readwise.io/read/01m5gap62afkah4271n7pqqcfs)
 
 > The one buck burgers (17 pesos) in Mexico City came stacked with a slice of American cheese, a huge chunk of queso Oaxaca, a slice of ham

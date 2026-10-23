@@ -2,8 +2,8 @@
 publish: true
 title: City of London
 created: 2026-10-23T02:03:13.000Z
-modified: 2026-10-23T07:54:20.343Z
-published: 2026-10-23T07:54:20.343Z
+modified: 2026-10-23T11:14:39.531Z
+published: 2026-10-23T11:14:39.531Z
 aliases:
   - Square Mile
 books:
@@ -34,8 +34,10 @@ The historic 'Square Mile' financial district of London. Fast Company describes 
 | These 8 cities are taking bold steps to get rid of cars | Adele Peters | subject | The plan would make half the streets car-free or pedestrian priority, add protected bike lanes and set a 15 mph limit. |
 
 ## Sub-places
+
 - [[Fleet Street]]
 - [[Fordson Community Singery (Brave New World)]]
+- [[Steelyard]]
 
 ## These 8 cities are taking bold steps to get rid of cars — Adele Peters (2019)
 Source: [Original](https://www.fastcompany.com/90321627/these-8-cities-are-taking-bold-steps-to-get-rid-of-cars) · [Readwise highlight](https://read.readwise.io/read/01m5k7e90zmrjkg61zbpsxs8th)

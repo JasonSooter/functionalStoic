@@ -2,18 +2,18 @@
 publish: true
 title: Wyoming
 created: 2026-10-20T19:39:45.000Z
-modified: 2026-10-23T02:26:56.000Z
-published: 2026-10-23T02:26:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T11:14:58.207Z
+published: 2026-10-23T11:14:58.207Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Wyoming
@@ -22,6 +22,7 @@ US state in the Rocky Mountains. Hub for literary places in the state.
 
 ## Sub-places
 
+- [[Chokecherry and Sierra Madre Wind Energy Project]]
 - [[Grand Teton National Park]]
 - [[Kemmerer]]
 - [[Kemmerer Power Station (TerraPower)]]

@@ -2,8 +2,8 @@
 publish: true
 title: Massachusetts
 created: 2026-10-19T14:06:09.000Z
-modified: 2026-10-23T07:54:36.292Z
-published: 2026-10-23T07:54:36.292Z
+modified: 2026-10-23T11:12:59.522Z
+published: 2026-10-23T11:12:59.522Z
 aliases: []
 books: []
 categories:
@@ -45,6 +45,7 @@ US state in New England. Hub for literary places in Massachusetts.
 - [[Mount Greylock]]
 - [[Mount Holyoke College]]
 - [[Nantucket]]
+- [[New Bedford]]
 - [[Nonesuch Pond]]
 - [[Peabody Museum of Archaeology and Ethnology]]
 - [[Provincetown, Massachusetts]]

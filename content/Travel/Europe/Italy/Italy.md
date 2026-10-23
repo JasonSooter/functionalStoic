@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Italia
 title: Italy
 created: 2026-07-26T09:46:17.730Z
-modified: 2026-10-22T23:17:03.000Z
-published: 2026-10-22T23:17:03.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T11:13:11.874Z
+published: 2026-10-23T11:13:11.874Z
+aliases:
+  - Italia
 books: []
 categories:
   - "[[Places]]"
@@ -18,6 +14,10 @@ date created: 2026-07-26T11:46:17+02:00
 date modified: 2026-07-26T11:56:36+02:00
 icon: book
 linter-yaml-title-alias: Italy
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Italy
@@ -68,6 +68,7 @@ Italy's political system is a parliamentary republic, and its population is appr
 - [[Lazio]]
 - [[Milan]]
 - [[Naples]]
+- [[Palace of Pococurante]]
 - [[Piazza del Campo]]
 - [[Pisa]]
 - [[Recanati]]

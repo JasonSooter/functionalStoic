@@ -2,8 +2,8 @@
 publish: true
 title: New Jersey
 created: 2026-10-20T07:53:42.000Z
-modified: 2026-10-23T07:54:52.318Z
-published: 2026-10-23T07:54:52.318Z
+modified: 2026-10-23T11:14:54.907Z
+published: 2026-10-23T11:14:54.907Z
 aliases: []
 books: []
 categories:
@@ -22,6 +22,7 @@ US state between New York and Pennsylvania. Hub for literary places in the state
 
 ## Sub-places
 
+- [[Bell Labs]]
 - [[Big Rusty]]
 - [[Burlington City riverfront]]
 - [[Cape May]]
@@ -33,6 +34,7 @@ US state between New York and Pennsylvania. Hub for literary places in the state
 - [[L'Annexe de Mamie Colette]]
 - [[Lillo's Tomato Pies]]
 - [[Lyceum Hall (Burlington)]]
+- [[Menlo Park laboratory]]
 - [[Mercer Meadows]]
 - [[Montclair, New Jersey]]
 - [[Mount Holly]]

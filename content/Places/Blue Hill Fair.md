@@ -1,17 +1,13 @@
 ---
 publish: true
+title: Blue Hill Fair
+created: 2026-10-20T22:55:07.000Z
+modified: 2026-10-23T11:19:14.967Z
+published: 2026-10-23T11:19:14.967Z
 aliases:
   - County Fair
   - Fair Grounds
   - The Fair
-title: Blue Hill Fair
-created: 2026-10-20T22:55:07.000Z
-modified: 2026-10-21T10:24:29.000Z
-published: 2026-10-21T10:24:29.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Charlotte's Web]]"
 categories:
@@ -25,6 +21,10 @@ icon: book
 location:
   - 44.4283
   - -68.5721
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Maine]]"
 ---
 
@@ -33,18 +33,16 @@ within: "[[Maine]]"
 Fairground in [[Maine]] that is the real-world model for the County Fair in _Charlotte's Web_. The fair is the book's climax, where Wilbur's life is saved and Charlotte's ends.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Charlotte's Web]] | E. B. White | turning point | Zuckerman decides to take Wilbur to the County Fair on September sixth. |
+| [[Charlotte's Web]] | E. B. White | turning point | The County Fair where Charlotte spins 'Humble', Wilbur wins a special prize, and Charlotte lays her egg sac and dies. |
 
 ## Charlotte's Web — E. B. White (1952)
-
 Source: [[Charlotte's Web]] · [Original](https://openlibrary.org/works/OL483391W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0rchaeq7sfs4g0xy4524)
 
 > When they pulled into the Fair Grounds, they could hear music and see the Ferris wheel turning in the sky.
 
 - **Role:** turning point
-- **In the book:** Zuckerman decides to take Wilbur to the County Fair on September sixth. At the Fair Charlotte spins 'Some Pig' and later 'Terrific' and 'Radiant' over the pen, Wilbur wins a special prize, and Charlotte lays her egg sac and dies there. Templeton the rat gathers material for her words at the Fair.
+- **In the book:** Zuckerman decides to take Wilbur to the County Fair on September sixth, and Charlotte and Templeton ride along in the crate. At the Fair Grounds Templeton feasts and brings back the word 'Humble', and Charlotte spins it over the pen and makes her egg sac; 'Some Pig', 'Terrific' and 'Radiant' were spun earlier, in the barn. Wilbur wins a special prize of twenty-five dollars and a medal, and Fern rides the Ferris wheel with Henry Fussy. Charlotte dies as the Fair is packed up, and Wilbur carries her egg sac home.
 - **Why it matters:** The Fair is the climax of the book: Wilbur's life is saved and Charlotte's life ends. Its rides and food contrast with the barn's quiet.
 - **Real vs. fictional:** fictional fair; real model

@@ -2,8 +2,8 @@
 publish: true
 title: Ireland
 created: 2026-10-19T14:06:43.000Z
-modified: 2026-10-23T07:53:13.566Z
-published: 2026-10-23T07:53:13.566Z
+modified: 2026-10-23T11:14:58.931Z
+published: 2026-10-23T11:14:58.931Z
 aliases:
   - Republic of Ireland
   - Éire
@@ -40,6 +40,8 @@ Island country in north-west Europe. It shows up in the reading in JL Collins's 
 ## Sub-places
 
 - [[Dublin]]
+- [[Limerick]]
+- [[Lough Derg (Shannon)]]
 - [[New Ross]]
 - [[River Barrow]]
 

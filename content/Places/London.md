@@ -2,17 +2,18 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-23T07:54:23.635Z
-published: 2026-10-23T07:54:23.635Z
+modified: 2026-10-23T11:14:59.963Z
+published: 2026-10-23T11:14:59.963Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
+  - The Country Girls Trilogy
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.5072,-0.1275
 geo_source: Wikipedia (en)
-icon: newspaper
+icon: book
 location:
   - 51.5072
   - -0.1275
@@ -27,17 +28,22 @@ tags:
 Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against Isis in London, and It’s Ignored by the Media”: City where the annual Arbaeen procession marched against ISIS with little media coverage.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Muslims March Against Isis in London, and It’s Ignored by the Media | Mike Albo | setting | City where the annual Arbaeen procession marched against ISIS with little media coverage |
+| The Country Girls Trilogy | Edna O'Brien | setting | Where Kate and Baba end up: bedsits, bad marriages, Kate's broken home with Eugene, and Baba's money and mischief. |
 
 ## Sub-places
 
 - [[10 Downing Street]]
+- [[Albany (London)]]
 - [[Alexandra Palace]]
 - [[Alhambra Theatre (London)]]
 - [[All England Lawn Tennis and Croquet Club]]
+- [[Bayswater]]
 - [[BBC Television Centre]]
+- [[Belgrave Square]]
 - [[Bloomsbury]]
 - [[British Museum]]
 - [[Buckingham Palace]]
@@ -47,6 +53,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Crossness Pumping Station]]
 - [[Croydon]]
 - [[Grenfell Tower]]
+- [[Half Moon Street]]
 - [[Hampstead]]
 - [[Haymarket Stores]]
 - [[IFS Cloud Cable Car]]
@@ -56,6 +63,8 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[London congestion charge zone]]
 - [[London Transport Museum Depot]]
 - [[London Underground]]
+- [[London Victoria station]]
+- [[London Waterloo station]]
 - [[London Zoo]]
 - [[Lord's Cricket Ground]]
 - [[Natural History Museum, London]]
@@ -67,8 +76,12 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Royal Agricultural Hall]]
 - [[Royal Albert Hall]]
 - [[Royal Festival Hall]]
+- [[Royal Observatory, Greenwich]]
 - [[Seven Kings station]]
 - [[Southwark Cathedral]]
+- [[St Mary's Hospital, London]]
+- [[The Serpentine]]
+- [[Upper Grosvenor Street]]
 - [[Victoria Embankment]]
 - [[Westminster Abbey]]
 - [[Westminster Hall]]
@@ -82,3 +95,12 @@ Source: [Original](http://www.good.is/posts/anti-isis-march-london) · [Readwise
 - **Role:** setting
 - **In the article:** The article reports a march through London by thousands of Muslims, the annual UK Arbaeen Procession, which this year also denounced terrorism. The text gives no route or specific street.
 - **Why it matters:** London is the setting but the text offers no specific site, so it is a whole-city reference. The argument concerns media coverage rather than the place.
+
+## The Country Girls Trilogy — Edna O'Brien (1986)
+Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m76bxvgx09xkg6rpbreb6b)
+
+> When we vamoosed from the convent we went to a linoleum slum in Dublin, and then on to another slum here in London, where, over a period of eighteen months, we got asked out to about three good dinners apiece, which meant six meals for both of us because we had a pact that whoever got asked out would bring back food for the Cinderella.
+
+- **Role:** setting
+- **In the book:** Girls in Their Married Bliss and the Epilogue are set in London. Baba marries the rich builder Frank Durack and lives in a smart house; Kate marries Eugene in a suburb of 'identical houses', loses him and their son Cash after an affair with Duncan, and moves through bedsits and a shabby terrace house. Baba narrates much of it, from her own affair with a drummer and her pregnancy to Kate's breakdown.
+- **Why it matters:** London is the end of the escape route that started in the village, and the novels show that it does not deliver what the girls hoped. Its anonymity is the point: no one there knows or cares who they are.

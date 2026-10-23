@@ -2,8 +2,8 @@
 publish: true
 title: Pakistan
 created: 2026-10-20T07:35:05.000Z
-modified: 2026-10-23T07:54:30.436Z
-published: 2026-10-23T07:54:30.436Z
+modified: 2026-10-23T11:14:05.500Z
+published: 2026-10-23T11:14:05.500Z
 aliases: []
 books: []
 categories:
@@ -36,6 +36,7 @@ Country in South Asia. Hub for literary places in the country.
 - [[Khyber Pass]]
 - [[Lahore]]
 - [[Landi Kotal]]
+- [[Mohenjo-daro]]
 - [[Murree]]
 - [[Muzaffarabad]]
 - [[Peshawar]]

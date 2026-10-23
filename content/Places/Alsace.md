@@ -2,18 +2,18 @@
 publish: true
 title: Alsace
 created: 2026-10-20T02:11:49.000Z
-modified: 2026-10-20T23:01:41.000Z
-published: 2026-10-20T23:01:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T11:14:15.364Z
+published: 2026-10-23T11:14:15.364Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Alsace
@@ -25,3 +25,4 @@ Region of north-eastern France on the Rhine, across from Freiburg; see the Trave
 - [[Cité du Train]]
 - [[Mémorial du Linge]]
 - [[Ribeauvillé]]
+- [[Strasbourg Cathedral]]
