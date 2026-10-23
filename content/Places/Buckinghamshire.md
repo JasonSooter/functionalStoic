@@ -2,18 +2,18 @@
 publish: true
 title: Buckinghamshire
 created: 2026-10-22T01:43:50.000Z
-modified: 2026-10-22T13:40:36.000Z
-published: 2026-10-22T13:40:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T07:54:19.391Z
+published: 2026-10-23T07:54:19.391Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
 ---
 
@@ -28,3 +28,4 @@ County in South East England north-west of London, bounded by the Thames on the 
 - [[Hambleden Lock]]
 - [[Marlow]]
 - [[Medmenham Abbey]]
+- [[Stoke Poges]]

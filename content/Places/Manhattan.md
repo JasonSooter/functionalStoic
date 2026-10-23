@@ -2,12 +2,8 @@
 publish: true
 title: Manhattan
 created: 2026-10-23T05:19:47.000Z
-modified: 2026-10-23T05:19:47.000Z
-published: 2026-10-23T05:19:47.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T07:54:56.175Z
+published: 2026-10-23T07:54:56.175Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 40.7127
   - -74.0059
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -37,6 +37,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 
 ## Sub-places
 
+- [[City Hall Park]]
 - [[Dalton School]]
 - [[Dwight School]]
 - [[Hotel Lincoln (Eighth Avenue)]]
@@ -53,7 +54,6 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[Whitney Museum]]
 
 ## The iPhone Thought Experiment — Wait But Why (2024)
-
 Source: [Original](https://waitbutwhy.com/table/iphone-thought-experiment) · [Readwise highlight](https://read.readwise.io/read/01m5jvp2213y057gxr0zvxckge)
 
 > I, for one, would be standing naked on a foresty and very crowded Manhattan island:
@@ -63,7 +63,6 @@ Source: [Original](https://waitbutwhy.com/table/iphone-thought-experiment) · [R
 - **Why it matters:** Main concrete setting of the thought experiment; its character (crowded, salty river, no farming) drives the argument.
 
 ## How To Be A Time Lord: Time Management Techniques To Try — Dennis R. Mortensen (2017)
-
 Source: [Original](https://blog.trello.com/time-management-techniques) · [Readwise highlight](https://read.readwise.io/read/01m5k5qa8atj2mr0efanr6w2tg)
 
 > I walk the full length of Manhattan, which takes me short of three hours.

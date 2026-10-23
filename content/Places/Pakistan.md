@@ -2,18 +2,18 @@
 publish: true
 title: Pakistan
 created: 2026-10-20T07:35:05.000Z
-modified: 2026-10-22T16:30:58.000Z
-published: 2026-10-22T16:30:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T07:54:30.436Z
+published: 2026-10-23T07:54:30.436Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Pakistan
@@ -43,4 +43,5 @@ Country in South Asia. Hub for literary places in the country.
 - [[Rustam]]
 - [[Saidu Sharif]]
 - [[Sher Qila]]
+- [[Swat Valley]]
 - [[Takht-i-Bahi]]

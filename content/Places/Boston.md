@@ -2,18 +2,18 @@
 publish: true
 title: Boston
 created: 2026-10-21T13:56:40.000Z
-modified: 2026-10-23T04:28:33.000Z
-published: 2026-10-23T04:28:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T07:54:41.277Z
+published: 2026-10-23T07:54:41.277Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 ---
 
@@ -30,6 +30,7 @@ Capital of Massachusetts, on Massachusetts Bay. It collects places from Jason's 
 - [[Codman Academy]]
 - [[Harvard Business School]]
 - [[Logan International Airport]]
+- [[Museum of Fine Arts, Boston]]
 - [[New England Aquarium]]
 - [[Raymor-Playmor Ballroom]]
 - [[Seaport World Trade Center]]

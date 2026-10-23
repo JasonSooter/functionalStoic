@@ -2,18 +2,18 @@
 publish: true
 title: Berkshire
 created: 2026-10-22T01:44:04.000Z
-modified: 2026-10-22T01:44:04.000Z
-published: 2026-10-22T01:44:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T07:54:26.423Z
+published: 2026-10-23T07:54:26.423Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
 ---
 
@@ -26,6 +26,7 @@ County in South East England on the Thames, west of London. It collects places f
 - [[Ankerwycke Priory]]
 - [[Bisham Abbey]]
 - [[Datchet]]
+- [[Eton College]]
 - [[Magna Carta Island]]
 - [[Maidenhead]]
 - [[Monkey Island (Bray)]]
