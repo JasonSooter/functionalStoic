@@ -2,8 +2,8 @@
 publish: true
 title: Iceland
 created: 2026-10-20T10:42:22.000Z
-modified: 2026-10-23T04:59:31.347Z
-published: 2026-10-23T04:59:31.347Z
+modified: 2026-10-23T05:34:21.720Z
+published: 2026-10-23T05:34:21.720Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -43,6 +43,7 @@ Island country in the North Atlantic. In The Comfort Crisis (Michael Easter) its
 - [[Arnarstapi]]
 - [[Blue Lagoon]]
 - [[Egilsstaðir]]
+- [[Grindavík]]
 - [[Jökuldalsheiði]]
 - [[Reykjanesbær]]
 - [[Reykjavík]]

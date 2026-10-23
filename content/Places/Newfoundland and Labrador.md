@@ -2,8 +2,8 @@
 publish: true
 title: Newfoundland and Labrador
 created: 2026-10-21T10:49:16.000Z
-modified: 2026-10-22T20:01:56.523Z
-published: 2026-10-22T20:01:56.523Z
+modified: 2026-10-23T05:34:10.681Z
+published: 2026-10-23T05:34:10.681Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -35,8 +35,11 @@ Canada's easternmost province, on the North Atlantic. Not the End of the World u
 
 ## Sub-places
 
+- [[Arnold's Cove]]
 - [[Grand Banks]]
+- [[Labrador]]
 - [[Petty Harbour]]
+- [[St. John's, Newfoundland and Labrador]]
 
 ## Not the End of the World — Hannah Ritchie (2024)
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5f0qzh536qb0605cvbjw4h9)

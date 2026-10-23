@@ -2,8 +2,8 @@
 publish: true
 title: North Carolina
 created: 2026-10-20T10:42:29.000Z
-modified: 2026-10-22T23:16:42.940Z
-published: 2026-10-22T23:16:42.940Z
+modified: 2026-10-23T05:34:03.617Z
+published: 2026-10-23T05:34:03.617Z
 aliases: []
 books: []
 categories:
@@ -25,6 +25,7 @@ US state in the south-east. Hub for literary places in the region.
 - [[Asheville]]
 - [[Beaufort County, North Carolina]]
 - [[Durham Central Park Cohousing]]
+- [[Durham, North Carolina]]
 - [[Fontana Dam]]
 - [[Outer Banks]]
 - [[Raleigh, North Carolina]]

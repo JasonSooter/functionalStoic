@@ -2,8 +2,8 @@
 publish: true
 title: Las Vegas
 created: 2026-10-21T13:55:41.000Z
-modified: 2026-10-23T04:28:39.122Z
-published: 2026-10-23T04:28:39.122Z
+modified: 2026-10-23T05:33:59.701Z
+published: 2026-10-23T05:33:59.701Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -44,6 +44,7 @@ Las Vegas is a desert city in southern Nevada. It turns up in Walkable City (Jef
 - [[Flamingo Las Vegas]]
 - [[Red Rock Canyon National Conservation Area]]
 - [[Sahara Las Vegas]]
+- [[The Venetian Las Vegas]]
 
 ## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbnmk7nrjwe7hq99qfge6d)

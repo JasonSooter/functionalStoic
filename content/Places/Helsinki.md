@@ -2,8 +2,8 @@
 publish: true
 title: Helsinki
 created: 2026-10-20T07:53:47.000Z
-modified: 2026-10-23T05:13:02.783Z
-published: 2026-10-23T05:13:02.783Z
+modified: 2026-10-23T05:33:52.702Z
+published: 2026-10-23T05:33:52.702Z
 aliases: []
 books:
   - How the Finnish survive without small talk
@@ -40,8 +40,13 @@ Capital of Finland on the Gulf of Finland. A BBC Travel piece on Finnish silence
 - [[Kotiharjun Sauna]]
 - [[Löyly]]
 - [[Oodi (Helsinki Central Library)]]
+- [[Presidential Palace, Helsinki]]
 - [[Siilitie school (Helsinki)]]
+- [[Sinebrychoff Park]]
 - [[Supercell (Helsinki)]]
+- [[Svenska normallyceum i Helsingfors]]
+- [[Torvalds family apartment (Petersgatan)]]
+- [[University of Helsinki]]
 
 ## How the Finnish survive without small talk — Laura Studarus (2018)
 Source: [Original](https://www.bbc.com/travel/story/20181016-how-the-finnish-survive-without-small-talk) · [Readwise highlight](https://read.readwise.io/read/01m5k7bwxbmn3n1m6bs1btv7dn)

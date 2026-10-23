@@ -2,8 +2,8 @@
 publish: true
 title: Utah
 created: 2026-10-20T19:39:46.000Z
-modified: 2026-10-23T02:26:54.929Z
-published: 2026-10-23T02:26:54.929Z
+modified: 2026-10-23T05:34:01.833Z
+published: 2026-10-23T05:34:01.833Z
 aliases: []
 books: []
 categories:
@@ -31,6 +31,7 @@ US state in the Mountain West. Hub for literary places in the state.
 - [[Flaming Gorge Dam]]
 - [[Golden Spike National Historical Park]]
 - [[Iosepa]]
+- [[Orem, Utah]]
 - [[Powder Mountain]]
 - [[Provo, Utah]]
 - [[Sand Island Campground]]
