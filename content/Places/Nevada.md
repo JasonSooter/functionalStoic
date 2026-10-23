@@ -2,8 +2,8 @@
 publish: true
 title: Nevada
 created: 2026-10-20T19:39:48.000Z
-modified: 2026-10-23T02:26:54.233Z
-published: 2026-10-23T02:26:54.233Z
+modified: 2026-10-23T04:59:28.427Z
+published: 2026-10-23T04:59:28.427Z
 aliases: []
 books: []
 categories:
@@ -26,6 +26,7 @@ US state in the Mountain West. Hub for literary places in the state.
 - [[Bootleg Canyon]]
 - [[Cleve Creek Baldy]]
 - [[Ely, Nevada]]
+- [[Frenchman Flat]]
 - [[Gigafactory Nevada]]
 - [[Hoover Dam]]
 - [[Lake Mead]]

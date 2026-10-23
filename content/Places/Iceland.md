@@ -2,8 +2,8 @@
 publish: true
 title: Iceland
 created: 2026-10-20T10:42:22.000Z
-modified: 2026-10-22T22:36:17.580Z
-published: 2026-10-22T22:36:17.580Z
+modified: 2026-10-23T04:59:31.347Z
+published: 2026-10-23T04:59:31.347Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -39,12 +39,16 @@ Island country in the North Atlantic. In The Comfort Crisis (Michael Easter) its
 
 ## Sub-places
 
+- [[Akureyri]]
+- [[Arnarstapi]]
 - [[Blue Lagoon]]
 - [[Egilsstaðir]]
+- [[Jökuldalsheiði]]
 - [[Reykjanesbær]]
 - [[Reykjavík]]
 - [[Route 1 (Iceland)]]
 - [[Skálholt]]
+- [[Snæfellsjökull]]
 - [[Svartsengi Power Station]]
 
 ## The Comfort Crisis — Michael Easter (2021)

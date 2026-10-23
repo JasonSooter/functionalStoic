@@ -2,8 +2,8 @@
 publish: true
 title: Chicago
 created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-23T02:05:58.479Z
-published: 2026-10-23T02:05:58.479Z
+modified: 2026-10-23T04:59:25.735Z
+published: 2026-10-23T04:59:25.735Z
 aliases:
   - Chicawgo
 books:
@@ -59,6 +59,7 @@ City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Ric
 - [[Standard Club (Chicago)]]
 - [[University of Chicago]]
 - [[Wicker Park]]
+- [[Wrigley Field]]
 - [[Zanies Comedy Club (Chicago)]]
 
 ## Big Boy Leaves Home — Richard Wright (1936)

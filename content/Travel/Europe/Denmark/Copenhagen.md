@@ -2,8 +2,8 @@
 publish: true
 title: Copenhagen
 created: 2026-10-21T11:09:08.000Z
-modified: 2026-10-23T04:41:16.456Z
-published: 2026-10-23T04:41:16.456Z
+modified: 2026-10-23T04:59:29.963Z
+published: 2026-10-23T04:59:29.963Z
 aliases:
   - København
 books:
@@ -148,6 +148,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 ## Sub-places
 
 - [[Christianshavn]]
+- [[Church of Our Saviour (Copenhagen)]]
 - [[Copenhagen City Hall]]
 - [[Copenhagen Zoo]]
 - [[Gråbrødretorv]]

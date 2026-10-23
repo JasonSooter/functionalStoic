@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2026-10-22T22:36:21.676Z
-modified: 2026-10-23T04:28:42.673Z
-published: 2026-10-23T04:28:42.673Z
+modified: 2026-10-23T04:59:26.995Z
+published: 2026-10-23T04:59:26.995Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -41,6 +41,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[Hotel Lincoln (Eighth Avenue)]]
 - [[Jewish Theological Seminary of America]]
 - [[New York City Center]]
+- [[Polo Grounds]]
 - [[The Four Seasons Restaurant]]
 - [[The Tombs]]
 - [[Union League Club of New York]]

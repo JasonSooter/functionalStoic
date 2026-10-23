@@ -2,12 +2,13 @@
 publish: true
 title: Reykjavík
 created: 2026-10-21T22:26:19.000Z
-modified: 2026-10-22T20:01:36.042Z
-published: 2026-10-22T20:01:36.042Z
+modified: 2026-10-23T05:01:15.167Z
+published: 2026-10-23T05:01:15.167Z
 aliases:
   - Reykjavik
 books:
   - "[[The Comfort Crisis]]"
+  - "[[Journey to the Centre of the Earth]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -32,6 +33,7 @@ Capital of [[Iceland]]. In The Comfort Crisis (Michael Easter) he goes there to 
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | turning point | Easter visits deCODE's founder, who drives him round the city explaining his search for a longevity gene. |
+| [[Journey to the Centre of the Earth]] | Jules Verne | journey waypoint | The expedition's Icelandic base: lodgings with Mr Fridriksson and the hiring of the guide Hans. |
 
 ## Sub-places
 - [[Vesturbæjarlaug]]
@@ -44,3 +46,12 @@ Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/
 - **Role:** turning point
 - **In the book:** Easter travels to Reykjavik to meet Kari Stefansson, who left Harvard to found deCODE, a 190-scientist genetics company in a modern laboratory there. Stefansson drives him around the city past Hallgrímskirkja, explaining his hunt for longevity genes in Icelanders.
 - **Why it matters:** This trip supplies the book's closing argument about hardship and long life.
+
+## Journey to the Centre of the Earth — Jules Verne (1864)
+Source: [[Journey to the Centre of the Earth]] · [Original](https://openlibrary.org/works/OL16820479W) · [Readwise highlight](https://read.readwise.io/read/01m5khvjv4m5wdd5af3w7p7sm4)
+
+> The town stretches out over rather low and marshy ground between two hills. A huge lava bed protects it on one side as it descends in gentle stages towards the sea.
+
+- **Role:** journey waypoint
+- **In the book:** The steamer anchors in Faxa Bay off Reykjavik, and Lidenbrock points out Snæfells across the bay. They are welcomed by the governor and mayor, lodge with Mr Fridriksson, and hire the eider-hunter Hans as guide; Axel tours the town's two streets, cemetery, church and school.
+- **Why it matters:** The last town before the wilderness, where the guide who saves them is found.
