@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-23T01:37:07.033Z
-published: 2026-10-23T01:37:07.033Z
+modified: 2026-10-23T02:05:35.132Z
+published: 2026-10-23T02:05:35.132Z
 aliases: []
 books: []
 categories:
@@ -100,6 +100,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Gordon French's garage (Menlo Park)]]
 - [[Half Moon Bay, California]]
 - [[Hangar One (Mountain View)]]
+- [[Inland Empire]]
 - [[Jet Propulsion Laboratory]]
 - [[Kennedy Meadows]]
 - [[Kern Water Bank]]
@@ -130,6 +131,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[San Diego]]
 - [[San Francisco]]
 - [[San Jacinto Mountains]]
+- [[San Lorenzo High School]]
 - [[Santa Barbara]]
 - [[Santa Barbara Channel]]
 - [[Santa Cruz Island]]

@@ -2,8 +2,8 @@
 publish: true
 title: Texas
 created: 2026-10-20T16:28:47.000Z
-modified: 2026-10-22T22:36:45.519Z
-published: 2026-10-22T22:36:45.519Z
+modified: 2026-10-23T02:06:07.824Z
+published: 2026-10-23T02:06:07.824Z
 aliases: []
 books: []
 categories:
@@ -24,6 +24,7 @@ US state on the Gulf of Mexico. Hub for literary places in the state.
 
 - [[Austin, Texas]]
 - [[Boca Chica (Starbase)]]
+- [[Caldwell, Texas]]
 - [[Corpus Christi]]
 - [[Costco Sugar Land]]
 - [[Dallas]]

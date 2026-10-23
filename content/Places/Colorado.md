@@ -2,8 +2,8 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-22T23:17:01.612Z
-published: 2026-10-22T23:17:01.612Z
+modified: 2026-10-23T02:06:04.284Z
+published: 2026-10-23T02:06:04.284Z
 aliases: []
 books: []
 categories:
@@ -54,6 +54,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Lemon Reservoir]]
 - [[Longmont]]
 - [[Louisville, Colorado]]
+- [[Luvin Arms Animal Sanctuary]]
 - [[Magnolia Road]]
 - [[Moffat Tunnel]]
 - [[Monarch Mountain]]

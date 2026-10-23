@@ -2,8 +2,8 @@
 publish: true
 title: Maryland
 created: 2026-10-20T10:42:28.000Z
-modified: 2026-10-22T22:36:37.387Z
-published: 2026-10-22T22:36:37.387Z
+modified: 2026-10-23T02:05:43.853Z
+published: 2026-10-23T02:05:43.853Z
 aliases: []
 books:
   - What Happens After Calls for New Gun Restrictions? Sales Go Up
@@ -38,7 +38,9 @@ US state on the Chesapeake Bay; a 2013 gun-control law there is one of the New Y
 - [[Bethesda Medical Center (Stranger in a Strange Land)]]
 - [[Chesapeake and Ohio Canal]]
 - [[Federalsburg, Maryland]]
+- [[Garrett County, Maryland]]
 - [[Hagerstown, Maryland]]
+- [[Hyattsville, Maryland]]
 - [[National Naval Medical Center (Bethesda)]]
 - [[NIST Gaithersburg]]
 - [[United States Naval Academy]]

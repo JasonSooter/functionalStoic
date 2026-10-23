@@ -2,8 +2,8 @@
 publish: true
 title: Greece
 created: 2026-10-21T02:07:09.000Z
-modified: 2026-10-22T22:36:34.359Z
-published: 2026-10-22T22:36:34.359Z
+modified: 2026-10-23T02:05:39.697Z
+published: 2026-10-23T02:05:39.697Z
 aliases: []
 books: []
 categories:
@@ -25,6 +25,7 @@ Hub note for places from reading.
 - [[Athens]]
 - [[Corinth]]
 - [[Crete]]
+- [[Delos]]
 - [[Ikaria]]
 - [[Marathon (battlefield)]]
 - [[Piraeus]]

@@ -2,8 +2,8 @@
 publish: true
 title: New Orleans
 created: 2026-10-20T02:11:53.000Z
-modified: 2026-10-22T22:59:30.436Z
-published: 2026-10-22T22:59:30.436Z
+modified: 2026-10-23T02:02:50.518Z
+published: 2026-10-23T02:02:50.518Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -14,6 +14,7 @@ books:
   - The New Starter Home
   - Those With Multiple Tours of War Overseas Struggle at Home - The New York Times
   - Meet the worst ants in the world
+  - "The Code of Hammurabi: The Best Rule To Manage Risk"
 categories:
   - "[[Places]]"
 color: purple
@@ -44,6 +45,7 @@ City on the Mississippi in Louisiana, USA, which appears in the reading for its 
 | The New Starter Home | David Friedlander | subject | Pilot site of the 975 sq ft Starter Home on a tiny infill lot. |
 | Those With Multiple Tours of War Overseas Struggle at Home - The New York Times | Benedict Carey | turning point | Lundeby's National Guard unit was sent to New Orleans after Katrina, where he decided he wanted to do this kind of work every day |
 | Meet the worst ants in the world | Annalee Newitz | journey waypoint | New Orleans was the first US port where the ants were recorded, then the railhead for the Sunset Limited carrying them west |
+| The Code of Hammurabi: The Best Rule To Manage Risk | Farnam Street | turning point | The author cites Katrina as a modern contrast to Hammurabi's accountability: 1600 people died from flooding partly caused by poorly… |
 
 ## Sub-places
 
@@ -125,3 +127,12 @@ Source: [Original](https://arstechnica.com/science/2016/08/meet-the-worst-ants-i
 - **Role:** journey waypoint
 - **In the article:** New Orleans was the first US port where the ants were recorded, then the railhead for the Sunset Limited carrying them west.
 - **Why it matters:** Entry point to North America.
+
+## The Code of Hammurabi: The Best Rule To Manage Risk — Farnam Street (2017)
+Source: [Original](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) · [Readwise highlight](https://read.readwise.io/read/01m5k7bs064arxnrzw8ezbyfyc)
+
+> We saw this in Hurricane Katrina —1600 people died due to flooding caused in part by the poor design of hurricane protection systems in New Orleans. Hindsight analysis showed that the city’s floodwalls, levees, pumps, and gates were ill designed and maintained.
+
+- **Role:** turning point
+- **In the article:** The author cites Katrina as a modern contrast to Hammurabi's accountability: 1600 people died from flooding partly caused by poorly designed and maintained protection systems. No one was held accountable, which shows builders with little skin in the game.
+- **Why it matters:** Used as the central modern counterexample of poor construction without accountability.

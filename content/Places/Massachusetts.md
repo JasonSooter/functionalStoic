@@ -2,8 +2,8 @@
 publish: true
 title: Massachusetts
 created: 2026-10-19T14:06:09.000Z
-modified: 2026-10-23T01:37:14.376Z
-published: 2026-10-23T01:37:14.376Z
+modified: 2026-10-23T02:05:42.765Z
+published: 2026-10-23T02:05:42.765Z
 aliases: []
 books: []
 categories:
@@ -29,6 +29,7 @@ US state in New England. Hub for literary places in Massachusetts.
 - [[Boston Marathon course]]
 - [[Cambridge, Massachusetts]]
 - [[Cape Wind]]
+- [[Gillette Stadium]]
 - [[Gloucester, Massachusetts]]
 - [[Harvard Art Museums]]
 - [[Harvard University]]

@@ -2,8 +2,8 @@
 publish: true
 title: Philadelphia
 created: 2026-10-20T16:28:35.000Z
-modified: 2026-10-23T01:35:51.548Z
-published: 2026-10-23T01:35:51.548Z
+modified: 2026-10-23T02:05:45.862Z
+published: 2026-10-23T02:05:45.862Z
 aliases: []
 books:
   - "[[The First Great Founder]]"
@@ -44,6 +44,7 @@ City on the Delaware River in [[Pennsylvania]], USA, which appears in the readin
 - [[Ninth Street and Passyunk Avenue]]
 - [[Point Breeze, Philadelphia]]
 - [[Science Leadership Academy]]
+- [[Temple University Hospital]]
 - [[The Franklin Institute]]
 
 ## The First Great Founder — Ben Putano (2022)

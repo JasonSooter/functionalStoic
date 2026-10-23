@@ -2,13 +2,14 @@
 publish: true
 title: San Francisco
 created: 2026-10-20T13:47:58.000Z
-modified: 2026-10-22T22:58:51.197Z
-published: 2026-10-22T22:58:51.197Z
+modified: 2026-10-23T02:05:37.953Z
+published: 2026-10-23T02:05:37.953Z
 aliases: []
 books:
   - Stranger in a Strange Land
   - Major New Study Finds Geography Can Affect Life Span as Much as Income
   - Would Kids Play Outside More If They Had Access to School Playgrounds?
+  - To Paris for the Talent, to San Francisco for the Energy
 categories:
   - "[[Places]]"
 color: purple
@@ -36,6 +37,8 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 | Stranger in a Strange Land | Robert A. Heinlein | setting | Mike and Jill's flat, piled with religious books, after visits to every kind of church in the city. |
 | Major New Study Finds Geography Can Affect Life Span as Much as Income | Eric Pfeiffer | subject | San Francisco: poor residents fare nearly as well as the rich, credited to local services |
 | Would Kids Play Outside More If They Had Access to School Playgrounds? | KQED | subject | The article discusses opening San Francisco school playgrounds to the public on weekends, giving city children safe play space |
+| To Paris for the Talent, to San Francisco for the Energy | Yura Riphyak | subject | San Francisco is cast as the source of energy and fast customer feedback; growth and operations staff sit there and Paris engineers… |
+| Growing an Interviewing Platform for Programmers to $170k/mo | Indie Hackers | subject | In the closing section the founder argues San Francisco's high rents are caused by tight zoning and Proposition 13. |
 
 ## Sub-places
 
@@ -57,6 +60,7 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 - [[Mission District]]
 - [[Murphy's on Gough Street (Project Hail Mary)]]
 - [[North Beach (San Francisco)]]
+- [[Ocean Beach (San Francisco)]]
 - [[Pier 70]]
 - [[Recology San Francisco]]
 - [[Sally's Diner (Project Hail Mary)]]
@@ -92,3 +96,21 @@ Source: [Original](http://ww2.kqed.org/mindshift/2016/05/05/would-kids-play-outs
 - **Role:** subject
 - **In the article:** The article discusses opening San Francisco school playgrounds to the public on weekends, giving city children safe play space. Concerns about vandalism proved largely unfounded, with minimal incidents and weekend users showing stewardship.
 - **Why it matters:** The schoolyards are the subject of the piece, though no individual school is named.
+
+## To Paris for the Talent, to San Francisco for the Energy — Yura Riphyak (2019)
+Source: [Original](https://youteam.io/blog/to-paris-for-the-talent-to-san-francisco-for-the-energy/) · [Readwise highlight](https://read.readwise.io/read/01m5k7bny3mrxp6ggcrpfdga1b)
+
+> Our team members from Paris arrive in SF jetlagged, but after two weeks spent in this environment they go back pumped up and super motivated.
+
+- **Role:** subject
+- **In the article:** San Francisco is cast as the source of energy and fast customer feedback; growth and operations staff sit there and Paris engineers visit to absorb that energy.
+- **Why it matters:** San Francisco is the other half of the two-city model: where the company sells and feels the market.
+
+## Growing an Interviewing Platform for Programmers to $170k/mo — Indie Hackers
+Source: [Original](https://www.indiehackers.com/businesses/coderpad) · [Readwise highlight](https://read.readwise.io/read/01m5k7e721rqmvzx1b6gf71yw1)
+
+> Right now, the citizens of the Bay Area have grown totally accustomed to the idea that a one-bedroom apartment in San Francisco costs $3,500 per month.
+
+- **Role:** subject
+- **In the article:** In the closing section the founder argues San Francisco's high rents are caused by tight zoning and Proposition 13. He says over half the city's land is zoned single-family only. He promotes the YIMBY movement and a ballot measure.
+- **Why it matters:** Subject of the founder's housing argument.

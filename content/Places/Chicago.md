@@ -2,8 +2,8 @@
 publish: true
 title: Chicago
 created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-22T23:16:44.360Z
-published: 2026-10-22T23:16:44.360Z
+modified: 2026-10-23T02:05:58.479Z
+published: 2026-10-23T02:05:58.479Z
 aliases:
   - Chicawgo
 books:
@@ -52,6 +52,7 @@ City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Ric
 - [[Chicago Union Station]]
 - [[Grant Park]]
 - [[Hyde Park, Chicago]]
+- [[Midway Gardens]]
 - [[Phoenix Bean Tofu (Edgewater)]]
 - [[Richard Bennett Custom Tailors]]
 - [[South Side (Chicago)]]

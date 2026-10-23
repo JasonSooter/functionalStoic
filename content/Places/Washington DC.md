@@ -2,8 +2,8 @@
 publish: true
 title: Washington, D.C.
 created: 2026-10-20T10:48:36.000Z
-modified: 2026-10-23T01:37:26.575Z
-published: 2026-10-23T01:37:26.575Z
+modified: 2026-10-23T02:05:39.497Z
+published: 2026-10-23T02:05:39.497Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -47,9 +47,11 @@ Capital of the United States. Hub for literary places in the region.
 - [[La Casa Permanent Supportive Housing]]
 - [[Lincoln Memorial]]
 - [[National Mall]]
+- [[National Press Club]]
 - [[New Mayflower Hotel (Stranger in a Strange Land)]]
 - [[Rubell Museum]]
 - [[Tidal Basin]]
+- [[Town Danceboutique]]
 - [[Washington Union Station]]
 - [[White House]]
 - [[White House kitchen garden]]

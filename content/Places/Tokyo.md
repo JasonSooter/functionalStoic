@@ -2,8 +2,8 @@
 publish: true
 title: Tokyo
 created: 2026-10-20T07:35:04.000Z
-modified: 2026-10-23T01:37:30.663Z
-published: 2026-10-23T01:37:30.663Z
+modified: 2026-10-23T02:05:59.143Z
+published: 2026-10-23T02:05:59.143Z
 aliases: []
 books:
   - "[[[RIDGELINE] Tokyo Notes - Public Commons]]"
@@ -38,6 +38,7 @@ Capital of Japan; see [[Japan]]. Craig Mod writes about its redevelopment, vanis
 
 - [[Cafe Ace (Kanda)]]
 - [[French Vouge (Yushima)]]
+- [[Imperial Hotel (Tokyo)]]
 - [[Jingu Gaien Ginkgo Avenue]]
 - [[Kagurazaka]]
 - [[Nakagin Capsule Tower]]

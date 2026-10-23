@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2026-10-22T22:36:21.676Z
-modified: 2026-10-23T01:37:13.160Z
-published: 2026-10-23T01:37:13.160Z
+modified: 2026-10-23T02:06:07.144Z
+published: 2026-10-23T02:06:07.144Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -38,9 +38,12 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 ## Sub-places
 
 - [[Hotel Lincoln (Eighth Avenue)]]
+- [[New York City Center]]
 - [[The Four Seasons Restaurant]]
+- [[Union League Club of New York]]
 - [[Waldorf Astoria New York]]
 - [[Wall Street]]
+- [[Whitney Museum]]
 
 ## The iPhone Thought Experiment — Wait But Why (2024)
 Source: [Original](https://waitbutwhy.com/table/iphone-thought-experiment) · [Readwise highlight](https://read.readwise.io/read/01m5jvp2213y057gxr0zvxckge)

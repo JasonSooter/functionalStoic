@@ -2,14 +2,15 @@
 publish: true
 title: Paris
 created: 2026-07-17T14:36:02.899Z
-modified: 2026-10-23T01:35:57.563Z
-published: 2026-10-23T01:35:57.563Z
+modified: 2026-10-23T02:06:04.720Z
+published: 2026-10-23T02:06:04.720Z
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
   - "[[Not the End of the World]]"
   - The Price of Civilization
   - "Here comes everybody: participatory budgeting, explained"
+  - To Paris for the Talent, to San Francisco for the Energy
 categories:
   - "[[Places]]"
 color: green
@@ -49,6 +50,7 @@ Capital of [[France]]. Each `geo:` link below is a separate map marker in Map Vi
 | [[Not the End of the World]] | Hannah Ritchie | setting | Ritchie recounts attending COP21 in Paris in 2015, where the 1.5C target unexpectedly entered the final agreement. |
 | The Price of Civilization | Jim Wright | subject | The November 2015 attacks, which Wright argues were bred by chaos the West left in Iraq, Syria and Afghanistan. |
 | Here comes everybody: participatory budgeting, explained | The Long and Short | subject | Paris is the article's main example of blending online and offline participation. |
+| To Paris for the Talent, to San Francisco for the Energy | Yura Riphyak | subject | The interview argues Paris is where Sqreen finds committed engineering talent and builds the product, with a co-located early team in… |
 
 ## Sub-places
 
@@ -59,6 +61,7 @@ Capital of [[France]]. Each `geo:` link below is a separate map marker in Map Vi
 - [[La Zone (Paris)]]
 - [[Louvre]]
 - [[Place de la Concorde]]
+- [[Rives de Seine]]
 - [[Rue Dauphine]]
 - [[Shakespeare and Company]]
 - [[Tour Montparnasse]]
@@ -111,3 +114,12 @@ Source: [Original](http://thelongandshort.org/society/participatory-budgeting-ex
 - **Role:** subject
 - **In the article:** Paris is the article's main example of blending online and offline participation. In 2016 almost 159,000 votes were cast, 60 per cent online, from a EUR 100m budget with set-asides for schools and deprived areas.
 - **Why it matters:** Worked example used to answer the digital-divide question.
+
+## To Paris for the Talent, to San Francisco for the Energy — Yura Riphyak (2019)
+Source: [Original](https://youteam.io/blog/to-paris-for-the-talent-to-san-francisco-for-the-energy/) · [Readwise highlight](https://read.readwise.io/read/01m5k7bmk9vv3ysjb60z5xs75y)
+
+> 90% of the engineering & product teams are located in Paris, with 2-3 people working remotely. Most of our growth & operations teams are based in San Francisco now.
+
+- **Role:** subject
+- **In the article:** The interview argues Paris is where Sqreen finds committed engineering talent and builds the product, with a co-located early team in one office. European engineers are described as more committed than US ones.
+- **Why it matters:** Paris is half of the company's two-city model: where the product is built.

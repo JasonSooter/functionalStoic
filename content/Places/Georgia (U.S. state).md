@@ -2,8 +2,8 @@
 publish: true
 title: Georgia (U.S. state)
 created: 2026-10-21T02:13:16.000Z
-modified: 2026-10-22T20:36:56.276Z
-published: 2026-10-22T20:36:56.276Z
+modified: 2026-10-23T02:06:08.812Z
+published: 2026-10-23T02:06:08.812Z
 aliases: []
 books: []
 categories:
@@ -25,6 +25,7 @@ US state in the South.
 - [[Columbus, Georgia]]
 - [[East Broad Street (Savannah)]]
 - [[F. D. Roosevelt State Park]]
+- [[Igbo Landing (Dunbar Creek)]]
 - [[Paradise Garden]]
 - [[Plant Vogtle]]
 - [[Savannah]]

@@ -2,8 +2,8 @@
 publish: true
 title: China
 created: 2026-10-20T07:53:40.000Z
-modified: 2026-10-22T22:58:55.042Z
-published: 2026-10-22T22:58:55.042Z
+modified: 2026-10-23T02:06:12.709Z
+published: 2026-10-23T02:06:12.709Z
 aliases: []
 books:
   - The coming debt bust
@@ -46,6 +46,7 @@ Country in East Asia. A subject in “The coming debt bust”: Subject of the Ec
 - [[Guizhou]]
 - [[Hong Kong]]
 - [[Jiuquan Satellite Launch Center]]
+- [[Kashgar]]
 - [[Longpao]]
 - [[Mount Emei]]
 - [[Ningbo]]

@@ -2,8 +2,8 @@
 publish: true
 title: Alaska
 created: 2026-10-21T11:07:13.000Z
-modified: 2026-10-22T22:36:39.647Z
-published: 2026-10-22T22:36:39.647Z
+modified: 2026-10-23T02:05:36.525Z
+published: 2026-10-23T02:05:36.525Z
 aliases: []
 books: []
 categories:
@@ -23,6 +23,7 @@ US state in the far north-west of North America.
 ## Sub-places
 
 - [[Costco West Dimond Boulevard (Anchorage)]]
+- [[Fox Island (Alaska)]]
 - [[Glacier Bay National Park]]
 - [[Kodiak Island]]
 - [[Matanuska-Susitna Valley]]

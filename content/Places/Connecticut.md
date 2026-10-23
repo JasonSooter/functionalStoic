@@ -2,8 +2,8 @@
 publish: true
 title: Connecticut
 created: 2026-10-21T19:58:07.000Z
-modified: 2026-10-22T22:37:09.334Z
-published: 2026-10-22T22:37:09.334Z
+modified: 2026-10-23T02:05:38.793Z
+published: 2026-10-23T02:05:38.793Z
 aliases: []
 books: []
 categories:
@@ -24,4 +24,5 @@ US state in New England. Hub for places in the state that come up in the reading
 
 - [[Ashford, Connecticut]]
 - [[Bridgeport, Connecticut]]
+- [[Granby Memorial High School]]
 - [[Sandy Hook Elementary School]]

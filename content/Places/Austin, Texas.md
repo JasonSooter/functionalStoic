@@ -2,14 +2,15 @@
 publish: true
 title: Austin, Texas
 created: 2026-10-21T19:58:35.000Z
-modified: 2026-10-22T22:59:27.604Z
-published: 2026-10-22T22:59:27.604Z
+modified: 2026-10-23T02:02:40.825Z
+published: 2026-10-23T02:02:40.825Z
 aliases:
   - Austin
 books:
   - "[[The Comfort Crisis]]"
   - Bang Bang Crazy, Part Five (Update)
   - Six Cities
+  - The Black Art of Escape
 categories:
   - "[[Places]]"
 color: purple
@@ -37,6 +38,7 @@ Capital of Texas. In The Comfort Crisis (Michael Easter) it is home to nutrition
 | [[The Comfort Crisis]] | Michael Easter | setting | Easter visits nutrition coach Trevor Kashey to learn about hunger. |
 | Bang Bang Crazy, Part Five (Update) | Jim Wright | subject | A gun-rights rally in Austin is the springboard for Wright's argument. |
 | Six Cities | Shawni Danner | journey waypoint | The author spends two weeks in an AirBnB trying Austin as a potential home, working from cafes and co-work spaces |
+| The Black Art of Escape | Casey Gerald | turning point | The serial bombings killed two black residents who attended the same church, with later blasts in East Austin and a suspect found in… |
 
 ## The Comfort Crisis — Michael Easter (2021)
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5g0f4bvm03xe93xpjhxn794)
@@ -64,3 +66,12 @@ Source: [Original](https://shift.infinite.red/six-cities-one-job-719d02369338) �
 - **Role:** journey waypoint
 - **In the article:** The author spends two weeks in an AirBnB trying Austin as a potential home, working from cafes and co-work spaces. She finds it windy, not walkable, with slow buses and a ghost-town downtown.
 - **Why it matters:** One of the six cities in a home-hunting tour; judged and rejected in detail.
+
+## The Black Art of Escape — Casey Gerald (2019)
+Source: [Original](https://nymag.com/intelligencer/2019/08/the-black-art-of-escape.html) · [Readwise highlight](https://read.readwise.io/read/01m5k7gddhdzzrsdds8pz5dcyh)
+
+> That morning, in North Austin, Anthony Stephan House, 39, opened a package that had been left outside his front door.
+
+- **Role:** turning point
+- **In the article:** The serial bombings killed two black residents who attended the same church, with later blasts in East Austin and a suspect found in Round Rock. He distrusts the official no-motive explanation.
+- **Why it matters:** The bombings push him from withdrawal toward his argument about escape and safety.

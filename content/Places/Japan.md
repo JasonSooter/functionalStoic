@@ -2,8 +2,8 @@
 publish: true
 title: Japan
 created: 2026-10-20T07:35:02.000Z
-modified: 2026-10-23T01:36:59.706Z
-published: 2026-10-23T01:36:59.706Z
+modified: 2026-10-23T02:05:41.509Z
+published: 2026-10-23T02:05:41.509Z
 aliases: []
 books: []
 categories:
@@ -34,6 +34,7 @@ Island country in East Asia. Hub for literary places in the country.
 - [[Mount Koya]]
 - [[Nagasaki]]
 - [[Nintendo hanafuda shop (Kyoto)]]
+- [[Nishiyama Onsen Keiunkan]]
 - [[Okinawa]]
 - [[Saitama]]
 - [[Tokyo]]

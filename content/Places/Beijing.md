@@ -2,8 +2,8 @@
 publish: true
 title: Beijing
 created: 2026-10-20T19:38:53.000Z
-modified: 2026-10-22T22:58:53.238Z
-published: 2026-10-22T22:58:53.238Z
+modified: 2026-10-23T02:06:15.385Z
+published: 2026-10-23T02:06:15.385Z
 aliases: []
 books:
   - Breakneck
@@ -40,6 +40,7 @@ Capital of [[China]], which appears in the reading as Dan Wang's dreary, control
 ## Sub-places
 
 - [[Big Air Shougang]]
+- [[Jackie Chan stunt training base (Panlong Valley)]]
 - [[Sitong Bridge]]
 - [[Tianyuan Cave]]
 - [[Zhoukoudian]]

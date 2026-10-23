@@ -1,18 +1,15 @@
 ---
 publish: true
+title: Grenfell Tower
+created: 2026-10-20T22:56:01.000Z
+modified: 2026-10-23T02:02:51.290Z
+published: 2026-10-23T02:02:51.290Z
 aliases:
   - Grenfell
   - Grenfell Tower site
-title: Grenfell Tower
-created: 2026-10-20T22:56:01.000Z
-modified: 2026-10-21T11:11:57.000Z
-published: 2026-10-21T11:11:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "The Grenfell Tower Fire: London’s High-Rise Scandal"
+  - "The Code of Hammurabi: The Best Rule To Manage Risk"
 categories:
   - "[[Places]]"
 color: purple
@@ -22,6 +19,10 @@ icon: video
 location:
   - 51.514
   - -0.2158
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -34,9 +35,9 @@ Residential tower block in North Kensington, [[London]], destroyed by fire in 20
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Grenfell Tower Fire - London’s High-Rise Scandal\|The Grenfell Tower Fire: London’s High-Rise Scandal]] | The B1M | subject | The 24-storey council tower in North Kensington caught fire after midnight on 14 June 2017, starting in a fourth-floor kitchen. |
+| The Code of Hammurabi: The Best Rule To Manage Risk | Farnam Street | subject | Cited as a second modern example of negligent construction: at least 80 people died in a fire accelerated by cheap building materials… |
 
 ## The Grenfell Tower Fire: London’s High-Rise Scandal — The B1M (2025)
-
 Source: [Original](https://www.youtube.com/watch?v=URX_5B1EaIE) · [Readwise highlight](https://read.readwise.io/read/01m5dqvwvpzt4rjpfv69c3a4k1)
 
 > It's the early hours of June 14th, 2017, and this West London neighbourhood is about to suffer one of the most shocking human tragedies of recent times.
@@ -44,3 +45,12 @@ Source: [Original](https://www.youtube.com/watch?v=URX_5B1EaIE) · [Readwise hig
 - **Role:** subject
 - **In the video:** The 24-storey council tower block in North Kensington caught fire after midnight on 14 June 2017, starting in a fourth-floor kitchen (Flat 16). The fire climbed the new aluminium composite cladding, engulfing the building; 72 of 297 occupants died. The video reconstructs the night, the cladding and insulation decisions, the inquiry's 1,700-page report, and the unfinished remediation across the UK; it also visits the shrouded tower eight years on, with the government confirming in February 2025 it will be carefully dismantled.
 - **Why it matters:** The site is the entire subject: the worst UK residential fire in decades, now a memorial site under protective sheeting, with a contested decision about demolition vs. preservation.
+
+## The Code of Hammurabi: The Best Rule To Manage Risk — Farnam Street (2017)
+Source: [Original](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) · [Readwise highlight](https://read.readwise.io/read/01m5k7btaw0esg77ccpktr2r5p)
+
+> In recent months, in the Grenfell Tower fire in London, we saw the effects of negligent construction.
+
+- **Role:** subject
+- **In the article:** Cited as a second modern example of negligent construction: at least 80 people died in a fire accelerated by cheap building materials that had failed safety tests.
+- **Why it matters:** A brief but deliberate example supporting the argument about builders' incentives.

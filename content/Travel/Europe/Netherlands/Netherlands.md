@@ -2,8 +2,8 @@
 publish: true
 title: Netherlands
 created: 2026-09-26T05:01:00.000Z
-modified: 2026-10-22T22:37:44.697Z
-published: 2026-10-22T22:37:44.697Z
+modified: 2026-10-23T02:06:16.661Z
+published: 2026-10-23T02:06:16.661Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
@@ -111,6 +111,8 @@ _Added 2026-09-25 (#source/ai/claude)._
 
 - [[Afsluitdijk]]
 - [[Apeldoorn]]
+- [[Delft]]
+- [[Duijvestijn Tomaten (Pijnacker)]]
 - [[Flevoland]]
 - [[Groningen]]
 - [[Houten]]
@@ -119,6 +121,7 @@ _Added 2026-09-25 (#source/ai/claude)._
 - [[Utrecht Centraal]]
 - [[Vaalserberg]]
 - [[Veluwemeer Aqueduct]]
+- [[Wageningen University & Research]]
 
 ## At a glance
 

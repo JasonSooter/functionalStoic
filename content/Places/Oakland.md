@@ -2,8 +2,8 @@
 publish: true
 title: Oakland
 created: 2026-10-20T22:56:47.000Z
-modified: 2026-10-22T22:58:43.688Z
-published: 2026-10-22T22:58:43.688Z
+modified: 2026-10-23T02:05:35.300Z
+published: 2026-10-23T02:05:35.300Z
 aliases: []
 books: []
 categories:
@@ -23,6 +23,8 @@ City on the east side of San Francisco Bay, California.
 
 ## Sub-places
 
+- [[Chapel of the Chimes (Oakland)]]
+- [[Fruitvale station]]
 - [[Glen Echo Creek]]
 - [[Grand Lake Theatre]]
 - [[Jack London Tree (Oakland)]]
