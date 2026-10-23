@@ -2,8 +2,8 @@
 publish: true
 title: Istanbul
 created: 2026-10-20T01:29:15.000Z
-modified: 2026-10-23T04:41:03.577Z
-published: 2026-10-23T04:41:03.577Z
+modified: 2026-10-23T05:12:36.025Z
+published: 2026-10-23T05:12:36.025Z
 aliases:
   - Constantinople
 books:
@@ -35,6 +35,7 @@ City on both sides of the Bosphorus, Turkey, and the setting of the author's tri
 ## Sub-places
 
 - [[Galata Bridge]]
+- [[Galata Tower]]
 - [[Gülhane Park]]
 - [[Hagia Sophia]]
 - [[Halkalı railway station]]

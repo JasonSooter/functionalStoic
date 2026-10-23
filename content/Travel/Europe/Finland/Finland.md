@@ -2,8 +2,8 @@
 publish: true
 title: Finland
 created: 2024-01-04T20:21:47.000Z
-modified: 2026-10-23T02:27:03.297Z
-published: 2026-10-23T02:27:03.297Z
+modified: 2026-10-23T05:13:00.231Z
+published: 2026-10-23T05:13:00.231Z
 aliases:
   - Helsinki, Finland
   - Helsinki
@@ -196,8 +196,10 @@ tags: #source/publications/the-atlantic #🗓️/2016/09/19
 
 - [[Helsinki]]
 - [[Kirkkojärvi Comprehensive School (Espoo)]]
+- [[Lammi]]
 - [[Niirala Preschool (Kuopio)]]
 - [[Rovaniemi]]
+- [[Tiistilä School]]
 
 ## Ditching Tech: Finland Returns to Books and Sweden Says No to Screens for Toddlers — Helen Russell (2024)
 Source: [[Ditching Tech - Finland Returns to Books and Sweden Says No to Screens for Toddlers]] · [Original](https://mshelenrussell.substack.com/p/ditching-tech-finland-returns-to) · [Readwise highlight](https://read.readwise.io/read/01m5f0rsyhccg0pdf4f7fpftw0)

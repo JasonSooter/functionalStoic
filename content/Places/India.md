@@ -2,8 +2,8 @@
 publish: true
 title: India
 created: 2026-10-20T07:53:34.000Z
-modified: 2026-10-22T23:16:36.693Z
-published: 2026-10-22T23:16:36.693Z
+modified: 2026-10-23T05:12:37.925Z
+published: 2026-10-23T05:12:37.925Z
 aliases: []
 books:
   - Planes, trains, and smartphones – Bill Gates
@@ -41,8 +41,10 @@ Country in South Asia. Hub for literary places in the country.
 - [[Chandauli]]
 - [[Chenab Bridge]]
 - [[Delhi]]
+- [[Gulmarg]]
 - [[Haryana]]
 - [[Hyderabad]]
+- [[Jaipur]]
 - [[Karnataka]]
 - [[Karni Mata Temple]]
 - [[Mumbai]]
@@ -52,7 +54,10 @@ Country in South Asia. Hub for literary places in the country.
 - [[Rameswaram]]
 - [[Silkyara Tunnel]]
 - [[Sirhind]]
+- [[Srinagar]]
 - [[Statue of Unity]]
+- [[Taj Mahal]]
+- [[Varanasi]]
 - [[Zojila Tunnel]]
 
 ## Planes, trains, and smartphones – Bill Gates — Bill Gates (2024)

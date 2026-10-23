@@ -2,8 +2,8 @@
 publish: true
 title: Frankfurt
 created: 2026-10-20T01:38:45.000Z
-modified: 2026-10-23T04:42:58.920Z
-published: 2026-10-23T04:42:58.920Z
+modified: 2026-10-23T05:12:34.293Z
+published: 2026-10-23T05:12:34.293Z
 aliases:
   - Frankfurt am Main
 books:
@@ -33,6 +33,8 @@ Frankfurt am Main, Hesse, Germany; see the Travel note [[Germany]]. It is the bi
 | [[The Girl Who Drew Butterflies]] | Joyce Sidman | setting | Maria Merian's birthplace: her father's printshop and her stepfather Jacob Marrel's studio, where she raises silkworms. |
 
 ## Sub-places
+
+- [[Frankfurt (Main) Hauptbahnhof]]
 - [[Frankfurt Airport]]
 - [[The German city (Apeirogon)]]
 

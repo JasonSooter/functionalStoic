@@ -2,8 +2,8 @@
 publish: true
 title: Massachusetts
 created: 2026-10-19T14:06:09.000Z
-modified: 2026-10-23T02:05:42.765Z
-published: 2026-10-23T02:05:42.765Z
+modified: 2026-10-23T05:13:06.863Z
+published: 2026-10-23T05:13:06.863Z
 aliases: []
 books: []
 categories:
@@ -45,5 +45,6 @@ US state in New England. Hub for literary places in Massachusetts.
 - [[Peabody Museum of Archaeology and Ethnology]]
 - [[South Station]]
 - [[SPARC (Devens)]]
+- [[Wellesley High School]]
 - [[William James Hall]]
 - [[Yellowjackets Gymnastics (Gymnastics)]]

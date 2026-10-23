@@ -2,8 +2,8 @@
 publish: true
 title: Brooklyn
 created: 2026-10-20T02:08:43.000Z
-modified: 2026-10-22T22:36:59.055Z
-published: 2026-10-22T22:36:59.055Z
+modified: 2026-10-23T05:13:08.595Z
+published: 2026-10-23T05:13:08.595Z
 aliases: []
 books:
   - "[[Dept. Of Speculation.md]]"
@@ -51,6 +51,7 @@ Borough of [[New York City]], USA (see also [[New York]]), and the home city of 
 - [[Prospect Park West]]
 - [[Sands Street (Brooklyn)]]
 - [[Sunset Park]]
+- [[Theodore Roosevelt United States Courthouse]]
 - [[Williamsburg power plant (The Caves of Steel)]]
 
 ## Dept. of Speculation — Jenny Offill (2014)

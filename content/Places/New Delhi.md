@@ -2,12 +2,8 @@
 publish: true
 title: New Delhi
 created: 2026-10-21T14:11:36.000Z
-modified: 2026-10-22T16:30:00.000Z
-published: 2026-10-22T16:30:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T05:12:38.761Z
+published: 2026-10-23T05:12:38.761Z
 aliases: []
 books:
   - I found inspiration in India – Bill Gates
@@ -22,6 +18,10 @@ icon: book
 location:
   - 28.6139
   - 77.2089
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[India]]"
 ---
 
@@ -38,10 +38,12 @@ New Delhi is the capital of India. It turns up in I found inspiration in India �
 
 ## Sub-places
 
+- [[Connaught Place]]
 - [[IIT Delhi]]
+- [[India Gate]]
+- [[Laxminarayan Temple]]
 
 ## I found inspiration in India – Bill Gates — Bill Gates (2024)
-
 Source: [Original](https://www.gatesnotes.com/I-found-inspiration-in-India) · [Readwise highlight](https://read.readwise.io/read/01m5fcnkjg83shzqfz7m21k04y)
 
 > I was excited to attend a learning session in New Delhi on Thursday with experts on livestock and crops.
@@ -51,7 +53,6 @@ Source: [Original](https://www.gatesnotes.com/I-found-inspiration-in-India) · [
 - **Why it matters:** Hub for the Delhi part of the trip, with several stops rather than one scene.
 
 ## Full Tilt — Dervla Murphy (1965)
-
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6nesrz75wxvasj9shrmbr)
 
 > we should have come directly into New Delhi, and when I woke I had quite a job to find my destination on Janpath, a mysterious boulevard which I’m secretly convinced runs in sixteen different directions
