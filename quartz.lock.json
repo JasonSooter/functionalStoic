@@ -169,12 +169,6 @@
       "commit": "07eaca7b31a537c7c4a0fd2848b1f00014c940af",
       "installedAt": "2026-07-08T19:10:04.232Z"
     },
-    "og-image": {
-      "source": "github:quartz-community/og-image",
-      "resolved": "https://github.com/quartz-community/og-image.git",
-      "commit": "31343c612d02c5fd22ff27a1e6035b2486be75f5",
-      "installedAt": "2026-07-08T19:10:12.458Z"
-    },
     "ox-hugo": {
       "source": "github:quartz-community/ox-hugo",
       "resolved": "https://github.com/quartz-community/ox-hugo.git",
@@ -204,6 +198,12 @@
       "resolved": "https://github.com/JasonSooter/quartz-graph.git",
       "commit": "68b542dcf89419d5825e0f0c34b310f7036b9577",
       "installedAt": "2026-10-22T20:30:00.000Z"
+    },
+    "quartz-og-image": {
+      "source": "github:JasonSooter/quartz-og-image",
+      "resolved": "https://github.com/JasonSooter/quartz-og-image.git",
+      "commit": "d77c031168bdf595ceb7addfd5b01634e0c957f1",
+      "installedAt": "2026-10-23T08:00:00.000Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
