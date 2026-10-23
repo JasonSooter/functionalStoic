@@ -2,8 +2,8 @@
 publish: true
 title: Arizona
 created: 2026-10-20T22:55:50.000Z
-modified: 2026-10-22T19:59:17.150Z
-published: 2026-10-22T19:59:17.150Z
+modified: 2026-10-23T05:19:48.605Z
+published: 2026-10-23T05:19:48.605Z
 aliases: []
 books: []
 categories:
@@ -23,6 +23,7 @@ US state in the Southwest.
 ## Sub-places
 
 - [[Alcor Life Extension Foundation]]
+- [[Biosphere 2]]
 - [[Catalina State Park]]
 - [[Culdesac Tempe]]
 - [[Flagstaff]]

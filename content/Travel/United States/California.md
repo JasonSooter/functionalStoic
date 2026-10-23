@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-23T04:28:53.103Z
-published: 2026-10-23T04:28:53.103Z
+modified: 2026-10-23T05:20:04.566Z
+published: 2026-10-23T05:20:04.566Z
 aliases: []
 books: []
 categories:
@@ -150,6 +150,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Tulare, California]]
 - [[Vandenberg Space Force Base]]
 - [[Ventura, California]]
+- [[Waldorf School of the Peninsula]]
 - [[Walker Creek Ranch]]
 - [[Wallis Annenberg Wildlife Crossing]]
 - [[White Mountains (California)]]

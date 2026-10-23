@@ -2,8 +2,8 @@
 publish: true
 title: Colorado
 created: 2026-10-20T10:42:18.000Z
-modified: 2026-10-23T02:06:04.284Z
-published: 2026-10-23T02:06:04.284Z
+modified: 2026-10-23T05:19:55.398Z
+published: 2026-10-23T05:19:55.398Z
 aliases: []
 books: []
 categories:
@@ -59,6 +59,7 @@ US state in the Rocky Mountains. Hub for literary places in the region.
 - [[Moffat Tunnel]]
 - [[Monarch Mountain]]
 - [[Mount Elbert]]
+- [[Mountain Middle School (Durango)]]
 - [[Old Fall River Road]]
 - [[Pennock Pass]]
 - [[Pingree Park Road]]

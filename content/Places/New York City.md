@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-23T01:37:18.904Z
-published: 2026-10-23T01:37:18.904Z
+modified: 2026-10-23T05:20:08.090Z
+published: 2026-10-23T05:20:08.090Z
 aliases:
   - NYC
 books:
@@ -62,6 +62,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[East 182nd Street (The Caves of Steel)]]
 - [[East River]]
 - [[Eighth Street and Sixth Avenue (Manhattan)]]
+- [[Governors Island]]
 - [[Hotel Chelsea]]
 - [[Hudson River Park]]
 - [[Jamaica Avenue and 164th Street (Queens)]]
