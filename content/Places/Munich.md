@@ -2,8 +2,8 @@
 publish: true
 title: Munich
 created: 2026-10-20T07:53:28.000Z
-modified: 2026-10-22T22:36:47.415Z
-published: 2026-10-22T22:36:47.415Z
+modified: 2026-10-23T01:37:06.501Z
+published: 2026-10-23T01:37:06.501Z
 aliases:
   - München
 books: []
@@ -25,5 +25,6 @@ Capital of Bavaria, Germany. See [[Bavaria]]. Hub for literary places in the cit
 ## Sub-places
 
 - [[München Hauptbahnhof]]
+- [[Munich-Riem Airport]]
 - [[Nordfriedhof (Munich)]]
 - [[Seehaus (Englischer Garten)]]

@@ -2,8 +2,8 @@
 publish: true
 title: Berlin
 created: 2026-10-19T22:29:20.000Z
-modified: 2026-10-22T22:59:01.631Z
-published: 2026-10-22T22:59:01.631Z
+modified: 2026-10-23T01:37:12.328Z
+published: 2026-10-23T01:37:12.328Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -36,10 +36,12 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 | On the Rebound from Epic Failure | Jason Goldberg | setting | After selling Fab, Goldberg moved to Berlin to build Hem near the design and manufacturing teams |
 
 ## Sub-places
+
 - [[Alexanderplatz]]
 - [[Berlin Hauptbahnhof]]
 - [[Berlin Ostbahnhof]]
 - [[Berlin Tegel Airport]]
+- [[Brandenburg Gate]]
 - [[Checkpoint Charlie]]
 - [[Spree Canal]]
 - [[Tempelhof Airport]]

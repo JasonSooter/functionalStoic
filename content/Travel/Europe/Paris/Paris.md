@@ -2,13 +2,14 @@
 publish: true
 title: Paris
 created: 2026-07-17T14:36:02.899Z
-modified: 2026-10-22T20:00:57.428Z
-published: 2026-10-22T20:00:57.428Z
+modified: 2026-10-23T01:35:57.563Z
+published: 2026-10-23T01:35:57.563Z
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
   - "[[Not the End of the World]]"
   - The Price of Civilization
+  - "Here comes everybody: participatory budgeting, explained"
 categories:
   - "[[Places]]"
 color: green
@@ -47,14 +48,17 @@ Capital of [[France]]. Each `geo:` link below is a separate map marker in Map Vi
 | [[How '15-Minute Cities' Will Change the Way We Socialise]] | Peter Yeung | subject | The city remade as a cluster of villages under the 15-minute-city plan. |
 | [[Not the End of the World]] | Hannah Ritchie | setting | Ritchie recounts attending COP21 in Paris in 2015, where the 1.5C target unexpectedly entered the final agreement. |
 | The Price of Civilization | Jim Wright | subject | The November 2015 attacks, which Wright argues were bred by chaos the West left in Iraq, Syria and Afghanistan. |
+| Here comes everybody: participatory budgeting, explained | The Long and Short | subject | Paris is the article's main example of blending online and offline participation. |
 
 ## Sub-places
 
 - [[Avenue de la Grande Armée]]
 - [[Centre Pompidou]]
 - [[Câble 1]]
+- [[Hôtel Meurice]]
 - [[La Zone (Paris)]]
 - [[Louvre]]
+- [[Place de la Concorde]]
 - [[Rue Dauphine]]
 - [[Shakespeare and Company]]
 - [[Tour Montparnasse]]
@@ -98,3 +102,12 @@ Source: [Original](https://www.stonekettle.com/2015/11/the-price-of-civilization
 - **Role:** subject
 - **In the article:** Prompted by the Paris attacks and a commenter asking how Paris could happen, Wright argues that terrorism grows in chaos that powers ignore, and concludes that Paris was caused by Iraq, Syria and Afghanistan and is only the beginning unless something changes.
 - **Why it matters:** The attacks are the occasion and the conclusion of the essay; the city stands for the cost of past wars.
+
+## Here comes everybody: participatory budgeting, explained — The Long and Short (2016)
+Source: [Original](http://thelongandshort.org/society/participatory-budgeting-explained) · [Readwise highlight](https://read.readwise.io/read/01m5k5qerqjhebnb4z7p54q3w0)
+
+> In Paris, for example, the web resources are supplemented with lots of local meetings where people can meet to suggest and develop ideas, and both civil society organisations and civil servants are involved in supporting people to participate offline.
+
+- **Role:** subject
+- **In the article:** Paris is the article's main example of blending online and offline participation. In 2016 almost 159,000 votes were cast, 60 per cent online, from a EUR 100m budget with set-asides for schools and deprived areas.
+- **Why it matters:** Worked example used to answer the digital-divide question.

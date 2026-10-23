@@ -2,8 +2,8 @@
 publish: true
 title: West Bank
 created: 2026-10-20T04:35:43.000Z
-modified: 2026-10-22T19:58:14.602Z
-published: 2026-10-22T19:58:14.602Z
+modified: 2026-10-23T01:37:08.709Z
+published: 2026-10-23T01:37:08.709Z
 aliases: []
 books: []
 categories:
@@ -31,6 +31,7 @@ Territory west of the Jordan River. Hub for literary places in the territory.
 - [[Jericho]]
 - [[Kidron Valley]]
 - [[Nablus]]
+- [[Ramallah Friends School]]
 - [[Sa'ir]]
 - [[Wadi al-Nar Road]]
 - [[Walaja checkpoint]]

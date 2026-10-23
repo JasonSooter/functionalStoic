@@ -2,8 +2,8 @@
 publish: true
 title: Hollywood
 created: 2026-10-22T22:59:05.032Z
-modified: 2026-10-22T22:59:05.032Z
-published: 2026-10-22T22:59:05.032Z
+modified: 2026-10-23T01:37:13.832Z
+published: 2026-10-23T01:37:13.832Z
 aliases: []
 books:
   - Bruce Lee’s Never-Before-Seen Writings on Willpower, Emotion, Reason, Memory,
@@ -41,3 +41,6 @@ Source: [Original](https://www.brainpickings.org/2016/08/01/bruce-lee-notebook/)
 - **Role:** subject
 - **In the article:** The piece frames Hollywood as the racially biased industry that sidelined Lee, cast white actors in yellowface, and tried to strip the philosophy from Enter the Dragon until Lee refused to work for two weeks.
 - **Why it matters:** Hollywood is the industrial setting of Lee's struggle, but it is an institution rather than a described place.
+
+## Sub-places
+- [[Capitol Records Building]]

@@ -1,17 +1,11 @@
 ---
 publish: true
-aliases:
-  - Belgium (literary places)
 title: Belgium
 created: 2026-10-21T04:45:29.697Z
-modified: 2026-10-22T10:47:08.000Z
-published: 2026-10-22T10:47:08.000Z
-tags:
-  - travel/europe/europe-2023
-  - travel/europe/belgium
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-23T01:37:10.357Z
+published: 2026-10-23T01:37:10.357Z
+aliases:
+  - Belgium (literary places)
 books:
   - 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow
 categories:
@@ -28,6 +22,12 @@ locations:
     name: Antwerp
   - coordinates: 51.0891,4.3664
     name: Boom
+tags:
+  - travel/europe/europe-2023
+  - travel/europe/belgium
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Belgium
@@ -48,7 +48,6 @@ Belgium is a country in Europe, and it groups the places in Belgium that show up
 ## FAQ
 
 ---
-
 🙋
 ✨
 
@@ -59,7 +58,6 @@ Belgium is a country in Europe, and it groups the places in Belgium that show up
 [[Boom]]
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow | David Friedlander | journey waypoint | Start and end of a seven-year family bike trip: they leave in 2004 and come back in 2013. |
@@ -67,6 +65,7 @@ Belgium is a country in Europe, and it groups the places in Belgium that show up
 ## Sub-places
 
 - [[Arlon]]
+- [[Bastogne]]
 - [[Bruges]]
 - [[Brussels]]
 - [[Durbuy]]
@@ -74,7 +73,6 @@ Belgium is a country in Europe, and it groups the places in Belgium that show up
 - [[Spa]]
 
 ## 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow — David Friedlander (2015)
-
 Source: [Original](https://lifeedited.com/1-couple-2-bikes-2-kids-5-continents-7-years-wow/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5r03e9ndce3hjagr5qyn)
 
 > They set out from Belgium in 2004 en route to Berlin.

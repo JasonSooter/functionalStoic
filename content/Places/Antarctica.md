@@ -2,8 +2,8 @@
 publish: true
 title: Antarctica
 created: 2026-10-22T19:58:13.858Z
-modified: 2026-10-22T22:59:19.219Z
-published: 2026-10-22T22:59:19.219Z
+modified: 2026-10-23T01:37:09.409Z
+published: 2026-10-23T01:37:09.409Z
 aliases: []
 books:
   - These Extreme Travelers Fulfilled Their Craziest Dreams
@@ -34,6 +34,7 @@ The continent around the South Pole. A subject in Karen Emslie's “These Extrem
 
 ## Sub-places
 
+- [[Port Lockroy]]
 - [[West Antarctica]]
 
 ## These Extreme Travelers Fulfilled Their Craziest Dreams — Karen Emslie (2016)

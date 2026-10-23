@@ -2,8 +2,8 @@
 publish: true
 title: Ohio
 created: 2026-10-21T04:45:15.000Z
-modified: 2026-10-22T22:36:36.227Z
-published: 2026-10-22T22:36:36.227Z
+modified: 2026-10-23T01:37:14.776Z
+published: 2026-10-23T01:37:14.776Z
 aliases: []
 books: []
 categories:
@@ -27,6 +27,7 @@ U.S. state.
 - [[Cincinnati]]
 - [[Cleveland]]
 - [[Coshocton, Ohio]]
+- [[Lakewood, Ohio]]
 - [[Main Street (Akron)]]
 - [[Short North]]
 - [[Valley View Golf Club (Akron)]]

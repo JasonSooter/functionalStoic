@@ -2,8 +2,8 @@
 publish: true
 title: Bloomsbury
 created: 2026-10-21T23:08:06.000Z
-modified: 2026-10-22T22:59:15.350Z
-published: 2026-10-22T22:59:15.350Z
+modified: 2026-10-23T01:37:07.945Z
+published: 2026-10-23T01:37:07.945Z
 aliases: []
 books:
   - The bohemian investor
@@ -34,6 +34,7 @@ District of central [[London]] known for its literary and artistic past. A Monev
 
 ## Sub-places
 
+- [[Mary Ward House]]
 - [[Tavistock Square]]
 
 ## The bohemian investor — The Investor (2015)

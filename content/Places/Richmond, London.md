@@ -2,8 +2,8 @@
 publish: true
 title: Richmond, London
 created: 2026-10-22T13:41:18.000Z
-modified: 2026-10-22T23:17:07.388Z
-published: 2026-10-22T23:17:07.388Z
+modified: 2026-10-23T01:37:23.287Z
+published: 2026-10-23T01:37:23.287Z
 aliases: []
 books:
   - Life on Air [revised & updated 2nd edition]
@@ -37,6 +37,7 @@ Riverside suburb in south-west London; in _Life on Air_ Attenborough's family ho
 
 ## Sub-places
 
+- [[Hampton Court House]]
 - [[The Time Traveller's house (The Time Machine)]]
 
 ## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)

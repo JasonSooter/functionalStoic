@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-10-22T23:17:06.640Z
-published: 2026-10-22T23:17:06.640Z
+modified: 2026-10-23T01:37:18.904Z
+published: 2026-10-23T01:37:18.904Z
 aliases:
   - NYC
 books:
@@ -77,6 +77,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[New York Marriott Marquis]]
 - [[New York Public Library Main Branch]]
 - [[Public Speaking–Social Anxiety Center of New York]]
+- [[Queens]]
 - [[Queens Village]]
 - [[Statue of Liberty]]
 - [[Thompson Street (Manhattan)]]

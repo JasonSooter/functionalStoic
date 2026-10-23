@@ -2,18 +2,19 @@
 publish: true
 title: Central Park
 created: 2026-10-20T13:44:07.000Z
-modified: 2026-10-22T20:01:52.731Z
-published: 2026-10-22T20:01:52.731Z
+modified: 2026-10-23T01:35:52.332Z
+published: 2026-10-23T01:35:52.332Z
 aliases: []
 books:
   - Why Cities Feel so Lonely Now.
   - Well That’s One Way of Adding Density
+  - "[[Uncommon Type]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.7822,-73.9653
 geo_source: Wikipedia (en)
-icon: video
+icon: book
 location:
   - 40.7822
   - -73.9653
@@ -29,10 +30,12 @@ within: "[[New York City]]"
 Urban park in Manhattan, [[New York City]], cited in a video on why cities feel lonely as the classic case of land seized by eminent domain for a park.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why Cities Feel So Lonely Now..md\|Why Cities Feel so Lonely Now.]] | Type Ashton | subject | Land seized by eminent domain for a park. |
 | Well That’s One Way of Adding Density | David Friedlander | subject | Site of the proposed New York Horizon design that would dig out the park and line it with housing |
+| [[Uncommon Type]] | Tom Hanks | setting | In 'Go See Costas' the penniless immigrant Assan eats a hot dog by a low wall, sleeps on the grass among families on a hot night and… |
 
 ## Why Cities Feel so Lonely Now. — Type Ashton (2025)
 Source: [Original](https://www.youtube.com/watch?v=JDSAkaep9c0) · [Readwise highlight](https://read.readwise.io/read/01m5crd3v69h3kq58v2j3wma85)
@@ -52,3 +55,12 @@ Source: [Original](http://lifeedited.com/well-thats-one-way-of-adding-density/) 
 - **In the article:** The winning skyscraper design in a competition, called New York Horizon, would excavate Central Park. The walls of the hole would be lined with housing and other spaces facing the new park. The author wonders about relocating residents and about reflected sunlight.
 - **Why it matters:** The proposal only works because of Central Park, a large open site in dense Manhattan. The article treats it as an unlikely but interesting idea.
 - **Real vs. fictional:** A competition design, not a real project.
+
+## Uncommon Type — Tom Hanks (2017)
+Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5w7pmqtj20j5db0774ttk)
+
+> Assan found a spot with soft grass. He removed his shoes and used his jacket as a pillow. He fell asleep to the sounds of distant traffic and quiet conversations between husbands and wives.
+
+- **Role:** setting
+- **In the book:** In 'Go See Costas' the penniless immigrant Assan eats a hot dog by a low wall, sleeps on the grass among families on a hot night and returns on a rainy Sunday. The park also features in a Hank Fiset newspaper column between the stories, where he crosses it and compares it with the Tri-Cities' riverside park.
+- **Why it matters:** The park is his refuge, which he calls the two middle fingers of the hand map.

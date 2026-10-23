@@ -2,8 +2,8 @@
 publish: true
 title: Massachusetts
 created: 2026-10-19T14:06:09.000Z
-modified: 2026-10-22T22:58:59.923Z
-published: 2026-10-22T22:58:59.923Z
+modified: 2026-10-23T01:37:14.376Z
+published: 2026-10-23T01:37:14.376Z
 aliases: []
 books: []
 categories:
@@ -26,6 +26,7 @@ US state in New England. Hub for literary places in Massachusetts.
 - [[Beaver Country Day School]]
 - [[Blue Hills Reservation]]
 - [[Boston]]
+- [[Boston Marathon course]]
 - [[Cambridge, Massachusetts]]
 - [[Cape Wind]]
 - [[Gloucester, Massachusetts]]

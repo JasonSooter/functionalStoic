@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-22T23:16:57.820Z
-published: 2026-10-22T23:16:57.820Z
+modified: 2026-10-23T01:37:07.033Z
+published: 2026-10-23T01:37:07.033Z
 aliases: []
 books: []
 categories:
@@ -74,6 +74,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[AC Propulsion]]
 - [[Allensworth, California]]
 - [[Altadena]]
+- [[Asilomar Conference Grounds]]
 - [[Auburn Dam]]
 - [[Bakersfield, California]]
 - [[Berkeley, California]]
@@ -95,6 +96,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Fairfax, California]]
 - [[Foothill College]]
 - [[Foresthill Bridge]]
+- [[Fountain Valley, California]]
 - [[Gordon French's garage (Menlo Park)]]
 - [[Half Moon Bay, California]]
 - [[Hangar One (Mountain View)]]
@@ -114,11 +116,14 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Ocean Avenue (Carmel-by-the-Sea)]]
 - [[Old Pasadena]]
 - [[Orange High School (California)]]
+- [[Oxnard, California]]
 - [[Palm Springs]]
 - [[Palo Alto]]
 - [[Patagonia headquarters (Ventura)]]
 - [[Pebble Beach Golf Links]]
+- [[Red Bluff, California]]
 - [[Rosewood Sand Hill]]
+- [[Sacramento]]
 - [[Sacramento–San Joaquin River Delta]]
 - [[Saddleback Church]]
 - [[San Clemente Dam]]

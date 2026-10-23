@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-22T23:16:58.296Z
-published: 2026-10-22T23:16:58.296Z
+modified: 2026-10-23T01:37:12.052Z
+published: 2026-10-23T01:37:12.052Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -52,6 +52,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Lime Grove Studios]]
 - [[London congestion charge zone]]
 - [[London Transport Museum Depot]]
+- [[London Underground]]
 - [[London Zoo]]
 - [[Lord's Cricket Ground]]
 - [[Natural History Museum, London]]

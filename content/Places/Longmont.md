@@ -2,8 +2,8 @@
 publish: true
 title: Longmont
 created: 2026-10-21T04:45:35.000Z
-modified: 2026-10-22T23:16:51.040Z
-published: 2026-10-22T23:16:51.040Z
+modified: 2026-10-23T01:36:02.839Z
+published: 2026-10-23T01:36:02.839Z
 aliases: []
 books:
   - How To Afford a House These Days
@@ -12,6 +12,8 @@ books:
   - Lessons Learned From Having My Bike Stolen
   - An Interview with Mother Earth on Climate Change
   - So I Bought an Electric Car…
+  - Curing your Clown-Like Car Habit
+  - The Happy City and our $20 Trillion Opportunity
 categories:
   - "[[Places]]"
 color: purple
@@ -42,6 +44,8 @@ City in Boulder County, [[Colorado]]. It shows up in the reading as the author's
 | Lessons Learned From Having My Bike Stolen | Mr. Money Mustache | setting | Mustache thinks his bike was stolen in Longmont, where a bike-shop owner says theft is common. |
 | An Interview with Mother Earth on Climate Change | Mr. Money Mustache | backdrop | The 2013 flood: 12 inches of rain in one storm and a $175 million rebuild. |
 | So I Bought an Electric Car… | Mr. Money Mustache | setting | The author lives in a small, bikeable city where friends ride bikes and he runs the Leaf experiment |
+| Curing your Clown-Like Car Habit | Mr. Money Mustache | subject | The author presents his home town as the ideal laboratory for observing needless car use because it is small and bike-friendly. |
+| The Happy City and our $20 Trillion Opportunity | Mr. Money Mustache | subject | Longmont's Main Street bridge over St. Vrain Creek is the author's example of costly car-centred infrastructure. |
 
 ## Sub-places
 - [[The Bo-Lar Boogie loop]]
@@ -99,3 +103,21 @@ Source: [Original](http://www.mrmoneymustache.com/2016/10/04/so-i-bought-an-elec
 - **Role:** setting
 - **In the article:** The author lives in a small, bikeable city where friends ride bikes and he runs the Leaf experiment. The text anchors it by a 90-mile round trip to the airport, a trip to Denver, 8.26% sales tax, Colorado state tax credits and Longmont's municipal wind power programme.
 - **Why it matters:** The place is the premise: a bikeable town makes the car unnecessary, and its range and tax context shape the cost analysis. Longmont is only named in a link and the closing caption.
+
+## Curing your Clown-Like Car Habit — Mr. Money Mustache (2013)
+Source: [Original](https://www.mrmoneymustache.com/2013/04/22/curing-your-clown-like-car-habit/) · [Readwise highlight](https://read.readwise.io/read/01m5k5qbrqf2cjsbr38znj73c1)
+
+> My home town of Longmont, Colorado represents the ultimate laboratory for studying Car Clown disease, as it is sufficiently small and bike-friendly that car trips within town are completely unnecessary.
+
+- **Role:** subject
+- **In the article:** The author presents his home town as the ideal laboratory for observing needless car use because it is small and bike-friendly. He then lists the intra-city trips people still drive (school, grocery store, restaurants, gym, Main Street) and uses the town as his evidence for the argument.
+- **Why it matters:** The town is the evidential setting for the argument that most car trips are unnecessary.
+
+## The Happy City and our $20 Trillion Opportunity — Mr. Money Mustache (2017)
+Source: [Original](https://www.mrmoneymustache.com/2017/02/10/the-happy-city/) · [Readwise highlight](https://read.readwise.io/read/01m5k5t8kt257aw5e5f56ecwhy)
+
+> In 2013, that Main Street bridge was partially destroyed, along with quite a few other things in town, by an enormous flood.
+
+- **Role:** subject
+- **In the article:** The author uses Longmont's Main Street (Highway 287) bridge over St. Vrain Creek, in a blighted car-oriented area, as his example of infrastructure waste. It was damaged in the 2013 flood, and its rebuild took over three years and about 5.6 million dollars.
+- **Why it matters:** Anchoring example for the argument about the cost of car infrastructure.

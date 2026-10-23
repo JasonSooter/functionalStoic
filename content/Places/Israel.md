@@ -2,8 +2,8 @@
 publish: true
 title: Israel
 created: 2026-10-21T02:07:11.000Z
-modified: 2026-10-22T19:57:23.623Z
-published: 2026-10-22T19:57:23.623Z
+modified: 2026-10-23T01:37:27.735Z
+published: 2026-10-23T01:37:27.735Z
 aliases: []
 books: []
 categories:
@@ -24,6 +24,8 @@ Hub note for places from reading.
 
 - [[Acre, Israel]]
 - [[Kibbutz Nachshon]]
+- [[Masada]]
 - [[Qesem Cave]]
 - [[Sea of Galilee]]
 - [[Tel Aviv]]
+- [[Yodfat (Jotapata)]]

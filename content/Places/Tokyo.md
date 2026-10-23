@@ -2,8 +2,8 @@
 publish: true
 title: Tokyo
 created: 2026-10-20T07:35:04.000Z
-modified: 2026-10-22T20:34:42.767Z
-published: 2026-10-22T20:34:42.767Z
+modified: 2026-10-23T01:37:30.663Z
+published: 2026-10-23T01:37:30.663Z
 aliases: []
 books:
   - "[[[RIDGELINE] Tokyo Notes - Public Commons]]"
@@ -41,6 +41,7 @@ Capital of Japan; see [[Japan]]. Craig Mod writes about its redevelopment, vanis
 - [[Jingu Gaien Ginkgo Avenue]]
 - [[Kagurazaka]]
 - [[Nakagin Capsule Tower]]
+- [[San'ya (Tokyo)]]
 - [[Sukiyabashi Jiro]]
 - [[Tokyo National Museum]]
 
