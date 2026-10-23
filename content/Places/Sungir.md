@@ -2,8 +2,8 @@
 publish: true
 title: Sungir
 created: 2026-10-23T11:15:58.760Z
-modified: 2026-10-23T11:15:58.760Z
-published: 2026-10-23T11:15:58.760Z
+modified: 2026-10-23T11:42:16.666Z
+published: 2026-10-23T11:42:16.666Z
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -33,9 +33,10 @@ Sungir is an Upper Palaeolithic site near Vladimir in western Russia. _Sapiens_ 
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | 30,000-year-old graves heaped with ivory beads, read as proof of hierarchy among mammoth hunters. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-Source: [Original](https://openlibrary.org/works/OL17075811W)
 
-> In Sungir, Russia, archaeologists discovered in 1955 a 30,000-year-old burial site belonging to a mammoth-hunting culture.
+Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m92cp72hgcezwx5ghfbc4d)
+
+> As the findings from Sungir testify, mammoth-hunters did not just survive in the frozen north – they thrived.
 
 - **Role:** subject
 - **In the book:** Archaeologists found a fifty-year-old man covered in about 3,000 ivory beads, and a boy and girl buried head to head under some 10,000 beads. Harari reads the unequal grave goods as signs of a hierarchical society and argues that cultural beliefs, not genes, explain the children's lavish burial.

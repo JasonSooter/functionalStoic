@@ -2,8 +2,8 @@
 publish: true
 title: Jericho
 created: 2026-10-22T19:57:13.000Z
-modified: 2026-10-23T11:14:54.831Z
-published: 2026-10-23T11:14:54.831Z
+modified: 2026-10-23T11:42:22.118Z
+published: 2026-10-23T11:42:22.118Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -49,9 +49,10 @@ Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207
 - **Why it matters:** The walled house and garden in Jericho are where the book comes to rest on Bassam's ordinary evening routine, after the large-scale material. Set elsewhere, the closing image of a man watering trees in the dark would lose its anchor in his home and its place under the hills.
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-Source: [Original](https://openlibrary.org/works/OL17075811W)
 
-> Around 13,000 BC, when people fed themselves by gathering wild plants and hunting wild animals, the area around the oasis of Jericho, in Palestine, could support at most one roaming band of about a hundred relatively healthy and well-nourished people.
+Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m92evrcc8h5jtch0wssmfj)
+
+> The average person in Jericho of 8500 BC lived a harder life than the average person in Jericho of 9500 BC or 13,000 BC.
 
 - **Role:** subject
 - **In the book:** Around 13,000 BC the oasis supported one band of about a hundred well-fed foragers; by 8500 BC, with wheat farming, it held a cramped village of 1,000 people suffering more disease and malnutrition. Harari uses it to show the 'wheat bargain' and later as a typical early village.
