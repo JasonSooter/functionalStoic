@@ -1,9 +1,13 @@
 ---
 publish: true
 title: University of Otago
-created: 2026-10-22T19:58:27.259Z
-modified: 2026-10-22T19:58:27.259Z
-published: 2026-10-22T19:58:27.259Z
+created: 2026-10-22T19:58:27.000Z
+modified: 2026-10-22T19:58:27.000Z
+published: 2026-10-22T19:58:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Range]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - -45.8656
   - 170.5139
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dunedin]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Dunedin]]"
 University in Dunedin, New Zealand. A setting in David Epstein's _Range_: Flynn's university, where he found the Dutch IQ data in his mailbox in 1984.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | setting | Flynn's university, where he found the Dutch IQ data in his mailbox in 1984. |
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
+
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jjsc10px1hxzdssjrck8bp)
 
 > It also features the University of Otago, the oldest university in New Zealand, and home to James Flynn, a professor of political studies who changed how psychologists think about thinking.

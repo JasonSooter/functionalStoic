@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Checkpoint 300
-created: 2026-10-22T19:56:41.596Z
-modified: 2026-10-22T19:56:41.596Z
-published: 2026-10-22T19:56:41.596Z
+created: 2026-10-22T19:56:42.000Z
+modified: 2026-10-22T19:56:42.000Z
+published: 2026-10-22T19:56:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 31.726
   - 35.204
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bethlehem]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Bethlehem]]"
 Israeli checkpoint at the Wall on the northern edge of Bethlehem, in the West Bank. A subject in Colum McCann's _Apeirogon_: Bethlehem checkpoint traced from a wooden hut in 1994 to one of the West Bank's largest after 2005.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | Bethlehem checkpoint traced from a wooden hut in 1994 to one of the West Bank's largest after 2005 |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjr2t3aymfac48t331mesx)
 
 > When Checkpoint 300 first went up, in 1994, it was a simple wooden hut with a couple of orange barrels placed in the middle of the road.

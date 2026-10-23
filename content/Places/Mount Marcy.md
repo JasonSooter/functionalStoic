@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Mount Marcy
-created: 2026-10-22T23:17:19.744Z
-modified: 2026-10-22T23:17:19.744Z
-published: 2026-10-22T23:17:19.744Z
+created: 2026-10-22T23:17:20.000Z
+modified: 2026-10-22T23:17:20.000Z
+published: 2026-10-22T23:17:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Serviceberry]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 44.1127
   - -73.9237
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Adirondacks]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Adirondacks]]"
 Highest peak of New York's Adirondacks, called Tahawus. Robin Wall Kimmerer recalls childhood canoe camping in its shadow in The Serviceberry.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Serviceberry]] | Robin Wall Kimmerer | setting | In 'An Offering' the author recalls childhood summers canoe camping in the Adirondacks, where her father poured the first coffee on the… |
 
 ## The Serviceberry — Robin Wall Kimmerer (2024)
+
 Source: [[The Serviceberry]] · [Original](https://www.simonandschuster.com/books/The-Serviceberry/Robin-Wall-Kimmerer/9781668072257) · [Readwise highlight](https://read.readwise.io/read/01m5jy9pmga4aw13ec1zqnw07w)
 
 > Tahawus is the Algonquin name for Mount Marcy, the highest peak in the Adirondacks.

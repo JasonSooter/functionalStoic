@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Hannibal, Missouri
-created: 2026-10-23T02:04:24.589Z
-modified: 2026-10-23T02:04:24.589Z
-published: 2026-10-23T02:04:24.589Z
 aliases:
   - St. Petersburg (Tom Sawyer)
+title: Hannibal, Missouri
+created: 2026-10-23T02:04:25.000Z
+modified: 2026-10-23T02:04:25.000Z
+published: 2026-10-23T02:04:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Adventures of Tom Sawyer, Complete
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 39.7097
   - -91.3939
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Missouri]]"
 ---
 
@@ -30,16 +30,19 @@ within: "[[Missouri]]"
 Mississippi river town in northeast Missouri, Mark Twain's boyhood home. It is the documented model for St. Petersburg in The Adventures of Tom Sawyer.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Adventures of Tom Sawyer, Complete | Mark Twain | setting | St. Petersburg is the village of the whole book. |
 
 ## Sub-places
+
 - [[Cardiff Hill (Hannibal)]]
 - [[Mark Twain Boyhood Home]]
 - [[Mark Twain Cave]]
 
 ## The Adventures of Tom Sawyer, Complete — Mark Twain (1876)
+
 Source: [Original](https://openlibrary.org/works/OL53919W) · [Readwise highlight](https://read.readwise.io/read/01m5k7habzf7ffe49ryj5y0ds1)
 
 > A new-comer of any age or either sex was an impressive curiosity in the poor little shabby village of St. Petersburg.

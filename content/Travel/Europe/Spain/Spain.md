@@ -1,12 +1,12 @@
 ---
 publish: true
-title: Spain
-created: 2023-12-12T03:43:03.000Z
-modified: 2026-10-23T02:06:07.880Z
-published: 2026-10-23T02:06:07.880Z
 aliases:
   - Barcelona, Spain
   - Barcelona
+title: Spain
+created: 2023-12-12T03:43:03.000Z
+modified: 2026-10-23T02:06:08.000Z
+published: 2026-10-23T02:06:08.000Z
 tags:
   - travel/europe/europe-2023
   - travel/europe/spain/barcelona
@@ -45,10 +45,10 @@ flag: 🇪🇸
 ## Barcelona
 
 - Public Transportation
-	- TMB App (City of Barcelona)
-	- Donkey Republic Bike Rental App
+  - TMB App (City of Barcelona)
+  - Donkey Republic Bike Rental App
 - Flight from Barcelona to [[Portugal|Portugal]]
-	- EasyJet
+  - EasyJet
 
 ### Superilla de Sant Antoni (superblock)
 

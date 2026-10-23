@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Queiq River
-created: 2026-10-23T04:41:33.107Z
-modified: 2026-10-23T04:41:33.107Z
-published: 2026-10-23T04:41:33.107Z
 aliases:
   - Queiq
   - Quweiq River
+title: Queiq River
+created: 2026-10-23T04:41:33.000Z
+modified: 2026-10-23T04:41:33.000Z
+published: 2026-10-23T04:41:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 36.1957
   - 37.1423
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Aleppo]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Aleppo]]"
 River that runs through Aleppo, Syria. In _The Beekeeper of Aleppo_ it runs below Nuri's house, and the bodies of executed men and boys are pulled from it in Bustan al-Qasr.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | turning point | Bodies of bound men and boys are pulled from the river in Bustan al-Qasr; Nuri finds Mustafa's son Firas among them. |
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
+
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgr44hk6wtmq82bedyyprk)
 
 > At the bottom of the hill was the Queiq. The last time I saw the river it was full of rubbish.

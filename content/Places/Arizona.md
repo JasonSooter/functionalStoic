@@ -2,18 +2,18 @@
 publish: true
 title: Arizona
 created: 2026-10-20T22:55:50.000Z
-modified: 2026-10-23T05:19:48.605Z
-published: 2026-10-23T05:19:48.605Z
+modified: 2026-10-23T05:19:49.000Z
+published: 2026-10-23T05:19:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Arizona

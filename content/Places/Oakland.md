@@ -2,18 +2,18 @@
 publish: true
 title: Oakland
 created: 2026-10-20T22:56:47.000Z
-modified: 2026-10-23T02:05:35.300Z
-published: 2026-10-23T02:05:35.300Z
+modified: 2026-10-23T02:05:35.000Z
+published: 2026-10-23T02:05:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 

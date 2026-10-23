@@ -2,18 +2,18 @@
 publish: true
 title: South Carolina
 created: 2026-10-21T19:58:09.000Z
-modified: 2026-10-22T23:16:43.200Z
-published: 2026-10-22T23:16:43.200Z
+modified: 2026-10-22T23:16:43.000Z
+published: 2026-10-22T23:16:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # South Carolina

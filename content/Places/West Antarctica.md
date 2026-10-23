@@ -1,9 +1,13 @@
 ---
 publish: true
 title: West Antarctica
-created: 2026-10-22T22:59:13.630Z
-modified: 2026-10-22T22:59:13.630Z
-published: 2026-10-22T22:59:13.630Z
+created: 2026-10-22T22:59:14.000Z
+modified: 2026-10-22T22:59:14.000Z
+published: 2026-10-22T22:59:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - -79
   - -100
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Antarctica]]"
 ---
 
@@ -29,14 +29,17 @@ within: "[[Antarctica]]"
 The part of Antarctica facing the Pacific. In Project Hail Mary Stratt's fleet anchors offshore while nuclear charges split the ice shelf.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | turning point | Stratt's carrier and escort ships anchor offshore while Leclerc orders 241 nuclear weapons, buried along a fissure, detonated to cleave… |
 
 ## Sub-places
+
 _None yet._
 
 ## Project Hail Mary — Andy Weir (2021)
+
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9m88w3dyrr0j63xnqjt8)
 
 > We anchored off the coast of western Antarctica in the dead of night. The coastline sat in the extreme distance, visible only by moonlight.

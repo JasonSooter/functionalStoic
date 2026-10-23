@@ -1,11 +1,15 @@
 ---
 publish: true
-title: La Glace (Copenhagen)
-created: 2026-10-23T04:41:06.189Z
-modified: 2026-10-23T04:41:06.189Z
-published: 2026-10-23T04:41:06.189Z
 aliases:
   - Konditori La Glace
+title: La Glace (Copenhagen)
+created: 2026-10-23T04:41:06.000Z
+modified: 2026-10-23T04:41:06.000Z
+published: 2026-10-23T04:41:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Little Book of Hygge - The Danish Way to Live Well]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 55.6786
   - 12.5736
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Copenhagen]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Copenhagen]]"
 Konditori La Glace, Denmark's oldest confectionery shop, founded in 1870 in central Copenhagen. In _The Little Book of Hygge_ Meik Wiking calls it the pilgrimage site of Danish cake.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Little Book of Hygge - The Danish Way to Live Well\|The Little Book of Hygge: The Danish Way to Live Well]] | Meik Wiking | subject | Denmark's oldest cake shop, whose rooms "scream hygge"; Wiking also signs off the book from there. |
 
 ## The Little Book of Hygge: The Danish Way to Live Well — Meik Wiking (2016)
+
 Source: [[The Little Book of Hygge - The Danish Way to Live Well]] · [Original](https://openlibrary.org/works/OL19352003W) · [Readwise highlight](https://read.readwise.io/read/01m5kgs1rg80wxw56k682a539p)
 
 > One of the most popular and traditional ones is La Glace, Denmark’s oldest confectionery shop, established in 1870.

@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Helsinki University of Technology
-created: 2026-10-23T05:33:57.601Z
-modified: 2026-10-23T05:33:57.601Z
-published: 2026-10-23T05:33:57.601Z
 aliases:
   - Polytechnic University of Helsinki
   - Otaniemi
+title: Helsinki University of Technology
+created: 2026-10-23T05:33:58.000Z
+modified: 2026-10-23T05:33:58.000Z
+published: 2026-10-23T05:33:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 60.1858
   - 24.8278
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Finland]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Finland]]"
 Former technical university at Otaniemi in Espoo, now part of Aalto University. In _Just for Fun_ it is where Linus hears Richard Stallman speak.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | turning point | Lars drags Linus to a Richard Stallman talk; he sees his first long-haired, bearded hacker and remembers little else. |
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
+
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrpyybs7sbpckqxm23rhm)
 
 > The first time I was introduced to this side of Unix was probably in 1991 or so when Lars Wirzenius dragged me along to an event at the Polytechnic University of Helsinki (which, as everybody knows, is not actually in Helsinki but right across the border in Espoo).

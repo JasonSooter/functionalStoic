@@ -2,8 +2,12 @@
 publish: true
 title: Maryland
 created: 2026-10-20T10:42:28.000Z
-modified: 2026-10-23T02:05:43.853Z
-published: 2026-10-23T02:05:43.853Z
+modified: 2026-10-23T02:05:44.000Z
+published: 2026-10-23T02:05:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - What Happens After Calls for New Gun Restrictions? Sales Go Up
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 39
   - -77
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Maryland
@@ -28,6 +28,7 @@ tags:
 US state on the Chesapeake Bay; a 2013 gun-control law there is one of the New York Times' case studies of sales spikes after calls for restrictions.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What Happens After Calls for New Gun Restrictions? Sales Go Up | Gregor Aisch and Josh Keller | subject | A 2013 gun-control law there is one of the New York Times' case studies of sales spikes after calls for restrictions. |
@@ -46,6 +47,7 @@ US state on the Chesapeake Bay; a 2013 gun-control law there is one of the New Y
 - [[United States Naval Academy]]
 
 ## What Happens After Calls for New Gun Restrictions? Sales Go Up — Gregor Aisch and Josh Keller (2015)
+
 Source: [Original](https://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html) · [Readwise highlight](https://read.readwise.io/read/01m5hx1x7xph532jfv5fekvfhd)
 
 > in May 2013, gun sales jumped as buyers tried to beat the October deadline specified in the measure, which banned most semiautomatic rifles.

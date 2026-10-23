@@ -1,16 +1,19 @@
 ---
 publish: true
-title: Syracuse
-created: 2026-10-19T22:28:11.000Z
-modified: 2026-10-22T22:59:03.044Z
-published: 2026-10-22T22:59:03.044Z
 aliases:
   - Siracusa
   - Syracuse, Sicily
+title: Syracuse
+created: 2026-10-19T22:28:11.000Z
+modified: 2026-10-22T22:59:03.000Z
+published: 2026-10-22T22:59:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
   - "The Global Yogi: Long-Term Travel through Five Continents"
-  - "A Primer on Plato: His Life, Works, and Philosophy"
 categories:
   - "[[Places]]"
 color: purple
@@ -19,10 +22,6 @@ icon: book
 location:
   - 37.0692
   - 15.2875
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sicily]]"
 ---
 
@@ -39,6 +38,7 @@ Ancient Greek city on the south-east coast of [[Sicily]], where Archimedes lived
 | A Primer on Plato: His Life, Works, and Philosophy | Brett and Kate McKay | turning point | On his first trip Plato is threatened by the tyrant Dionysus I and sold into slavery, then ransomed by Anniceris |
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5b44npmdaydkkj7smd372xe)
 
 > Archimedes was slaughtered by the Romans during the sacking of Syracuse, the last proud remnant of Magna Grecia to fall under the Roman yoke
@@ -49,6 +49,7 @@ Source: [[There Are Places in the World Where Rules Are Less Important Than Kind
 - **Not pinned separately:** the ancient theatre at Taormina (no standard-source coordinate found).
 
 ## The Global Yogi: Long-Term Travel through Five Continents — Chris Guillebeau (2015)
+
 Source: [Original](http://chrisguillebeau.com/the-global-yogi/) · [Readwise highlight](https://read.readwise.io/read/01m5j6k3zk0t3z2phz2pqmfzb8)
 
 > One evening I stumbled upon a vegan restaurant called MOON, where I met kindred nomadic spirits and saw a grand piano sitting in the bar area.
@@ -58,6 +59,7 @@ Source: [Original](http://chrisguillebeau.com/the-global-yogi/) · [Readwise hig
 - **Why it matters:** It is the scene of her first earning from her own music, the memorable travel story she chose to tell.
 
 ## A Primer on Plato: His Life, Works, and Philosophy — Brett and Kate McKay (2016)
+
 Source: [Original](https://www.artofmanliness.com/2016/07/10/a-primer-on-plato-his-life-works-and-philosophy/) · [Readwise highlight](https://read.readwise.io/read/01m5jx6zwe4wnj7x8j8g9q5re3)
 
 > while in Sicily, Dionysus I, the despotic ruler of Syracuse, threatened to kill him. Plato escaped death but was sold into slavery.

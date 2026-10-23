@@ -2,18 +2,18 @@
 publish: true
 title: Nepal
 created: 2026-10-21T22:27:13.000Z
-modified: 2026-10-23T05:12:58.083Z
-published: 2026-10-23T05:12:58.083Z
+modified: 2026-10-23T05:12:58.000Z
+published: 2026-10-23T05:12:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Nepal

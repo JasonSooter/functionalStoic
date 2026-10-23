@@ -1,13 +1,16 @@
 ---
 publish: true
 title: Provo, Utah
-created: 2026-10-22T22:36:26.956Z
-modified: 2026-10-23T02:26:49.758Z
-published: 2026-10-23T02:26:49.758Z
+created: 2026-10-23T02:26:50.000Z
+modified: 2026-10-23T02:26:50.000Z
+published: 2026-10-23T02:26:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
-  - We’re a Full-time Traveling Family. This is How We Pay For It. All the Financial
-    Details!
+  - We’re a Full-time Traveling Family. This is How We Pay For It. All the Financial Details!
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +20,6 @@ icon: newspaper
 location:
   - 40.2339
   - -111.6586
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Utah]]"
 ---
 
@@ -29,6 +28,7 @@ within: "[[Utah]]"
 College town south of Salt Lake City, home of BYU. Jessica Gee's family returns there before launching their full-time travelling life.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | We’re a Full-time Traveling Family. This is How We Pay For It. All the Financial Details! | Jessica Gee | turning point | The Gees return to Provo, Utah after a few months in Los Angeles so Garrett can finish his senior year of BYU soccer |
@@ -38,6 +38,7 @@ College town south of Salt Lake City, home of BYU. Jessica Gee's family returns 
 - [[Brigham Young University]]
 
 ## We’re a Full-time Traveling Family. This is How We Pay For It. All the Financial Details! — Jessica Gee (2018)
+
 Source: [Original](https://medium.com/@settie4444/we-re-a-full-time-traveling-family-this-is-how-we-pay-for-it-7c1d31c5563e) · [Readwise highlight](https://read.readwise.io/read/01m5jvq82hjwg3p6hahjy1yaeg)
 
 > I wasn’t super excited to be moving back to Provo, Utah because I felt like we were going backwards in life.

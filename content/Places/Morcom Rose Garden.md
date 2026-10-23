@@ -1,16 +1,19 @@
 ---
 publish: true
-title: Morcom Rose Garden
-created: 2026-10-20T22:55:57.000Z
-modified: 2026-10-23T02:02:40.093Z
-published: 2026-10-23T02:02:40.093Z
 aliases:
   - Morcom Amphitheatre of Roses
   - Oakland Rose Garden
   - the Rose Garden
+title: Morcom Rose Garden
+created: 2026-10-20T22:55:57.000Z
+modified: 2026-10-23T02:02:40.000Z
+published: 2026-10-23T02:02:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
-  - how to do nothing
 categories:
   - "[[Places]]"
 color: purple
@@ -20,10 +23,6 @@ icon: book
 location:
   - 37.8197
   - -122.247
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oakland]]"
 ---
 
@@ -40,6 +39,7 @@ Municipal rose garden in [[Oakland]], California. It is the place Jenny Odell's 
 | how to do nothing | Jenny Odell | setting | The talk is explicitly grounded here. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5dqzmyf531mbn7fnmtpt36r)
 
 > I did that partly because it was in the Rose Garden that I began brainstorming my talk.
@@ -49,6 +49,7 @@ Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] ·
 - **Why it matters:** It is her model of attention-holding architecture, public space and maintenance, and the place the book's argument is anchored in.
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebv7cdet5sgc4m5ag8xd0a)
 
 > Even when I go to the Rose Garden, I’m not really alone.
@@ -58,6 +59,7 @@ Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] ·
 - **Why it matters:** It is the book's recurring retreat site, and here its role flips from solitude to ecology of encounter.
 
 ## how to do nothing — Jenny Odell (2019)
+
 Source: [Original](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) · [Readwise highlight](https://read.readwise.io/read/01m5k7f461vnhmnts15rw0nh21)
 
 > I’d like to start off by saying that this talk is grounded in a particular location, and that is the Morcom Amphitheatre of Roses in Oakland, California, otherwise known simply as “the rose garden.”

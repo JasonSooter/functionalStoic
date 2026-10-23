@@ -2,18 +2,18 @@
 publish: true
 title: Michigan
 created: 2026-10-20T19:39:51.000Z
-modified: 2026-10-22T23:16:57.216Z
-published: 2026-10-22T23:16:57.216Z
+modified: 2026-10-22T23:16:57.000Z
+published: 2026-10-22T23:16:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Michigan

@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Geneva
-created: 2026-10-20T01:26:48.000Z
-modified: 2026-10-23T04:28:43.565Z
-published: 2026-10-23T04:28:43.565Z
 aliases:
   - Genève
+title: Geneva
+created: 2026-10-20T01:26:48.000Z
+modified: 2026-10-23T04:28:44.000Z
+published: 2026-10-23T04:28:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland]]"
 ---
 

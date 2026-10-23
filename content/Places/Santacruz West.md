@@ -1,13 +1,16 @@
 ---
 publish: true
 title: Santacruz West
-created: 2026-10-22T20:37:49.727Z
-modified: 2026-10-22T20:37:49.727Z
-published: 2026-10-22T20:37:49.727Z
+created: 2026-10-22T20:37:50.000Z
+modified: 2026-10-22T20:37:50.000Z
+published: 2026-10-22T20:37:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
-  - "The Urban Poor You Haven’t Noticed: Millennials Who're Broke, Hungry, But On\
-    \ Trend"
+  - "The Urban Poor You Haven’t Noticed: Millennials Who're Broke, Hungry, But On Trend"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +20,6 @@ icon: newspaper
 location:
   - 19.0817
   - 72.8414
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mumbai]]"
 ---
 
@@ -29,11 +28,13 @@ within: "[[Mumbai]]"
 Suburb of western Mumbai. A setting in Gayatri Jayaraman's “The Urban Poor You Haven’t Noticed: Millennials Who're Broke, Hungry, But On Trend”: Underground dance bar where a former pageant contestant ended up working; opening anecdote of the essay.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Urban Poor You Haven’t Noticed: Millennials Who're Broke, Hungry, But On Trend | Gayatri Jayaraman | setting | Underground dance bar where a former pageant contestant ended up working; opening anecdote of the essay |
 
 ## The Urban Poor You Haven’t Noticed: Millennials Who're Broke, Hungry, But On Trend — Gayatri Jayaraman (2016)
+
 Source: [Original](https://www.buzzfeed.com/gayatrijayaraman/broke-hungry-and-on-trend) · [Readwise highlight](https://read.readwise.io/read/01m5jkz1zzpecz0cz94nbedg67)
 
 > There’s an underground dance bar in Santacruz West where I saw a former national-level beauty pageant contestant perform.

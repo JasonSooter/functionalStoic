@@ -1,14 +1,17 @@
 ---
 publish: true
-title: Middlebury College
-created: 2026-10-21T16:38:28.000Z
-modified: 2026-10-22T22:59:05.704Z
-published: 2026-10-22T22:59:05.704Z
 aliases:
   - Middlebury College
+title: Middlebury College
+created: 2026-10-21T16:38:28.000Z
+modified: 2026-10-22T22:59:06.000Z
+published: 2026-10-22T22:59:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Soul of an Octopus]]"
-  - Schools Are Failing To Develop Students With Moral Identities
 categories:
   - "[[Places]]"
 color: purple
@@ -19,10 +22,6 @@ icon: book
 location:
   - 44.0089
   - -73.1772
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vermont]]"
 ---
 
@@ -38,6 +37,7 @@ Liberal arts college in Middlebury, Vermont, which hosted the small octopus lab.
 | Schools Are Failing To Develop Students With Moral Identities | Paul Barnwell | setting | The author recalls a freshman seminar at Middlebury where reading Kozol and wrestling with personal responsibility and injustice shaped… |
 
 ## The Soul of an Octopus — Sy Montgomery (2015)
+
 Source: [[The Soul of an Octopus]] · [Original](https://openlibrary.org/books/OL27182716M/The_Soul_of_an_Octopus) · [Readwise highlight](https://read.readwise.io/read/01m5fmt5hysbqppzkqkrzsvq1e)
 
 > Alexa was a pre-veterinary student at Middlebury College’s newly created octopus lab in Vermont.
@@ -47,6 +47,7 @@ Source: [[The Soul of an Octopus]] · [Original](https://openlibrary.org/books/O
 - **Why it matters:** A secondhand anecdote the narrator relays, but it dwells on the place and illustrates octopus intelligence in a research setting. Minor to the narrative route.
 
 ## Schools Are Failing To Develop Students With Moral Identities — Paul Barnwell (2016)
+
 Source: [Original](https://www.theatlantic.com/education/archive/2016/07/students-broken-moral-compasses/492866/) · [Readwise highlight](https://read.readwise.io/read/01m5jx8222dx8vf4q8r0vzmca4)
 
 > A couple years later, I signed up for a freshman seminar in college titled “Education and Social Inequality” at Middlebury College in Vermont.

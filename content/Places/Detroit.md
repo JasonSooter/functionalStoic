@@ -2,15 +2,17 @@
 publish: true
 title: Detroit
 created: 2026-10-20T19:37:35.000Z
-modified: 2026-10-22T22:36:57.007Z
-published: 2026-10-22T22:36:57.007Z
+modified: 2026-10-22T22:36:57.000Z
+published: 2026-10-22T22:36:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Reading List 08/09/2025
-  - "How Prison Sets Inmates Up for Failure: Racism, Mental Illness, Poverty – Shaka\
-    \ Senghor – Big Think"
+  - "How Prison Sets Inmates Up for Failure: Racism, Mental Illness, Poverty – Shaka Senghor – Big Think"
   - Major New Study Finds Geography Can Affect Life Span as Much as Income
-  - Opinion – A New Map for America - The New York Times
 categories:
   - "[[Places]]"
 color: purple
@@ -20,10 +22,6 @@ icon: newspaper
 location:
   - 42.3317
   - -83.0458
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Michigan]]"
 ---
 
@@ -47,6 +45,7 @@ City in [[Michigan]], USA, historic centre of the US car industry, cited in a Co
 - [[Michigan Theatre (Detroit)]]
 
 ## Reading List 08/09/2025 — Brian Potter (2025)
+
 Source: [Original](https://www.construction-physics.com/p/reading-list-08092025) · [Readwise highlight](https://read.readwise.io/read/01m5dcmadyg9q61c9r1pe7tzqb)
 
 > So globalization couldn’t kill Detroit because Detroit was already dead. Or at least dying.
@@ -56,17 +55,19 @@ Source: [Original](https://www.construction-physics.com/p/reading-list-08092025)
 - **Why it matters:** Central to the quoted point about where the decline actually happened, though only a short item in a link roundup.
 
 ## How Prison Sets Inmates Up for Failure: Racism, Mental Illness, Poverty – Shaka Senghor – Big Think — Big Think (2017)
+
 Source: [Original](https://www.youtube.com/watch?v=uOTVw2U5gv0) · [Readwise highlight](https://read.readwise.io/read/01m5f1x5aqfqh1p26d8v1mwwsv)
 
 > It was June 22, 2010 one day after my birthday,
-a beautiful sunny day in Detroit and I walked out of prison with a lot of optimism despite
-being told by the officers that I would probably be back in six months.
+> a beautiful sunny day in Detroit and I walked out of prison with a lot of optimism despite
+> being told by the officers that I would probably be back in six months.
 
 - **Role:** turning point
 - **In the video:** Shaka Senghor recalls walking out of prison in Detroit on 22 June 2010, after 19 years, full of optimism, and then meeting housing and job barriers because of his record.
 - **Why it matters:** Detroit is the setting of his release and the argument about re-entry.
 
 ## Major New Study Finds Geography Can Affect Life Span as Much as Income — Eric Pfeiffer (2016)
+
 Source: [Original](http://www.good.is/posts/health-tied-to-geography) · [Readwise highlight](https://read.readwise.io/read/01m5jjqevrxfj2ra52nx2y4cr0)
 
 > Meanwhile, lower-income people in places like Detroit and Tulsa, Oklahoma (the two poorest performing cities in the study) are seeing their life expectancy levels drop, in a widening gap between the rich and poor.
@@ -76,6 +77,7 @@ Source: [Original](http://www.good.is/posts/health-tied-to-geography) · [Readwi
 - **Why it matters:** Detroit is a named negative example for the argument that local conditions shape life span.
 
 ## Opinion – A New Map for America - The New York Times — Parag Khanna (2016)
+
 Source: [Original](https://www.nytimes.com/2016/04/17/opinion/sunday/a-new-map-for-america.html) · [Readwise highlight](https://read.readwise.io/read/01m5jvn070z8jzz21b45b3e704)
 
 > While Detroit’s population has fallen below a million, the Detroit-Windsor region is the largest United States-Canada cross-border area, with nearly six million people (and one of the largest border populations in the world).

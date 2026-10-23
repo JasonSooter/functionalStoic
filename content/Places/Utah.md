@@ -2,18 +2,18 @@
 publish: true
 title: Utah
 created: 2026-10-20T19:39:46.000Z
-modified: 2026-10-23T05:34:01.833Z
-published: 2026-10-23T05:34:01.833Z
+modified: 2026-10-23T05:34:02.000Z
+published: 2026-10-23T05:34:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Utah

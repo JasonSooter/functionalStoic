@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Glacier River (Independent People)
-created: 2026-10-23T04:49:41.419Z
-modified: 2026-10-23T04:49:41.419Z
-published: 2026-10-23T04:49:41.419Z
 aliases:
   - Glacier River
+title: Glacier River (Independent People)
+created: 2026-10-23T04:49:41.000Z
+modified: 2026-10-23T04:49:41.000Z
+published: 2026-10-23T04:49:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Independent People]]"
 categories:
@@ -13,17 +17,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 65.6544,-14.3122
-geo_note: "best-guess: approximate (article point of the Jökulsá á Dal, near its mouth);\
-  \ the river is unnamed beyond \"Glacier River\""
+geo_note: 'best-guess: approximate (article point of the Jökulsá á Dal, near its mouth); the river is unnamed beyond "Glacier River"'
 geo_source: Wikipedia (en) Jökulsá á Dal
 icon: book
 location:
   - 65.6544
   - -14.3122
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jökuldalsheiði]]"
 ---
 
@@ -32,11 +31,13 @@ within: "[[Jökuldalsheiði]]"
 The glacial river on the moors beyond Summerhouses in _Independent People_, where Bjartur is carried across on the back of a reindeer. Pinned at the Jökulsá á Dal as a best guess.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Independent People]] | Halldór Laxness | turning point | Bjartur rides a reindeer across the freezing river and spends a blizzard night in a snowdrift while Rosa dies at home. |
 
 ## Independent People — Halldór Laxness (1934)
+
 Source: [[Independent People]] · [Original](https://openlibrary.org/works/OL757983W) · [Readwise highlight](https://read.readwise.io/read/01m5khcr7bt6ph2r5qvw52za5w)
 
 > Here he was sitting neither more nor less than up to the waist in Glacier River, and that on no ordinary steed, but on the only steed that is considered suitable for the most renowned of adventures.

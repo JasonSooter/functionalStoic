@@ -2,12 +2,15 @@
 publish: true
 title: China
 created: 2026-10-20T07:53:40.000Z
-modified: 2026-10-23T02:06:12.709Z
-published: 2026-10-23T02:06:12.709Z
+modified: 2026-10-23T02:06:13.000Z
+published: 2026-10-23T02:06:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The coming debt bust
-  - How the West (and the Rest) Got Rich
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +21,6 @@ icon: newspaper
 location:
   - 35
   - 103
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # China
@@ -63,6 +62,7 @@ Country in East Asia. A subject in “The coming debt bust”: Subject of the Ec
 - [[Zhiren Cave]]
 
 ## The coming debt bust — The Economist (2016)
+
 Source: [Original](https://www.economist.com/news/leaders/21698240-it-question-when-not-if-real-trouble-will-hit-china-coming-debt-bust) · [Readwise highlight](https://read.readwise.io/read/01m5jkz538xpj5gjx8wzcgzxhd)
 
 > China is the world’s second-biggest economy; its banking sector is the biggest, with assets equivalent to 40% of global GDP.
@@ -72,6 +72,7 @@ Source: [Original](https://www.economist.com/news/leaders/21698240-it-question-w
 - **Why it matters:** China is the whole subject of the argument, treated as a national economy rather than a physical place.
 
 ## How the West (and the Rest) Got Rich — Deirdre N. McCloskey (2016)
+
 Source: [Original](http://www.wsj.com/articles/why-the-west-and-the-rest-got-rich-1463754427) · [Readwise highlight](https://read.readwise.io/read/01m5jvp0x7cfcz9m743hpcyezc)
 
 > Until 1500, and in many ways until 1700, China was the most technologically advanced country.

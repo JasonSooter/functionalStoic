@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Polo Grounds
-created: 2026-10-23T04:59:33.987Z
-modified: 2026-10-23T04:59:33.987Z
-published: 2026-10-23T04:59:33.987Z
+created: 2026-10-23T04:59:34.000Z
+modified: 2026-10-23T04:59:34.000Z
+published: 2026-10-23T04:59:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 40.8317
   - -73.9372
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Manhattan]]"
 Former ballpark of the New York Giants in upper Manhattan, demolished in 1964. In _The Life and Times of the Thunderbolt Kid_ Bryson's father is in its press box for Bobby Thomson's 1951 home run.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Life and Times of the Thunderbolt Kid]] | Bill Bryson | turning point | His father reports Bobby Thomson's pennant-winning home run from the press box, shortly before Bryson is born. |
 
 ## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
+
 Source: [[The Life and Times of the Thunderbolt Kid]] · [Original](https://openlibrary.org/works/OL4620956W) · [Readwise highlight](https://read.readwise.io/read/01m5khv4bb780fz63fya1pjnag)
 
 > Then, when realization of the miracle came, the double-decked stands of the Polo Grounds rocked on their forty-year-old foundations.

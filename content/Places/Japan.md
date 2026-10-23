@@ -2,18 +2,18 @@
 publish: true
 title: Japan
 created: 2026-10-20T07:35:02.000Z
-modified: 2026-10-23T02:27:07.129Z
-published: 2026-10-23T02:27:07.129Z
+modified: 2026-10-23T02:27:07.000Z
+published: 2026-10-23T02:27:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Japan

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Cahokia Mounds
-created: 2026-10-23T01:32:25.106Z
-modified: 2026-10-23T01:32:25.106Z
-published: 2026-10-23T01:32:25.106Z
+created: 2026-10-23T01:32:25.000Z
+modified: 2026-10-23T01:32:25.000Z
+published: 2026-10-23T01:32:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Finding North America’s lost medieval city
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 38.6539
   - -90.0644
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Illinois]]"
 ---
 
@@ -28,15 +28,18 @@ within: "[[Illinois]]"
 UNESCO World Heritage site near Collinsville, Illinois, across the Mississippi from St. Louis: the remains of a Mississippian city of up to 30,000 people. An Ars Technica feature digs into why the city rose and fell.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Finding North America’s lost medieval city | Annalee Newitz | subject | The piece is about the lost Mississippian city of Cahokia, once home to up to 30,000 people. |
 
 ## Sub-places
+
 - [[Monks Mound]]
 - [[Mound 72 (Cahokia)]]
 
 ## Finding North America’s lost medieval city — Annalee Newitz (2016)
+
 Source: [Original](http://arstechnica.com/features/2016/12/theres-a-1000-year-old-lost-city-beneath-the-st-louis-suburbs/) · [Readwise highlight](https://read.readwise.io/read/01m5k5ret30tf5xbgz0h0r89wq)
 
 > All that changed 40 years ago when Illinois declared Cahokia a state historic site, and UNESCO granted it World Heritage status. The state bought 2,200 acres of land from residents, clearing away the drive-in and a small subdivision.

@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Summerhouses (Independent People)
-created: 2026-10-23T04:49:31.507Z
-modified: 2026-10-23T04:49:31.507Z
-published: 2026-10-23T04:49:31.507Z
 aliases:
   - Summerhouses
   - Sumarhús
   - Winterhouses
+title: Summerhouses (Independent People)
+created: 2026-10-23T04:49:32.000Z
+modified: 2026-10-23T04:49:32.000Z
+published: 2026-10-23T04:49:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Independent People]]"
 categories:
@@ -15,17 +19,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 65.2626,-15.5189
-geo_note: "best-guess: invented croft; heath named as the inspiration by a travel\
-  \ guide"
+geo_note: "best-guess: invented croft; heath named as the inspiration by a travel guide"
 geo_source: OSM node 441872659 (Sænautasel)
 icon: book
 location:
   - 65.2626
   - -15.5189
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jökuldalsheiði]]"
 ---
 
@@ -34,11 +33,13 @@ within: "[[Jökuldalsheiði]]"
 Bjartur's fictional moorland croft in Halldór Laxness's _Independent People_, the farm on which he stakes his freedom. Pinned at Sænautasel on the Jökuldalsheiði heath in east Iceland as a best guess.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Independent People]] | Halldór Laxness | setting | Bjartur's cursed croft in a moorland valley: the struggle for independence that costs him his wives and children. |
 
 ## Independent People — Halldór Laxness (1934)
+
 Source: [[Independent People]] · [Original](https://openlibrary.org/works/OL757983W) · [Readwise highlight](https://read.readwise.io/read/01m5khckxr3wrnqa649b1c5frb)
 
 > ON a knoll in the marshes stand the ruins of an old croft-house.

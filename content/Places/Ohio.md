@@ -2,18 +2,18 @@
 publish: true
 title: Ohio
 created: 2026-10-21T04:45:15.000Z
-modified: 2026-10-23T02:05:33.832Z
-published: 2026-10-23T02:05:33.832Z
+modified: 2026-10-23T02:05:34.000Z
+published: 2026-10-23T02:05:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Ohio

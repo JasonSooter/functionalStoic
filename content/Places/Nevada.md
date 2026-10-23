@@ -2,18 +2,18 @@
 publish: true
 title: Nevada
 created: 2026-10-20T19:39:48.000Z
-modified: 2026-10-23T04:59:28.427Z
-published: 2026-10-23T04:59:28.427Z
+modified: 2026-10-23T04:59:28.000Z
+published: 2026-10-23T04:59:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Nevada

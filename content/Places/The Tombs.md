@@ -1,28 +1,27 @@
 ---
 publish: true
-title: The Tombs
-created: 2026-10-23T04:25:07.721Z
-modified: 2026-10-23T04:25:07.721Z
-published: 2026-10-23T04:25:07.721Z
 aliases:
   - Halls of Justice
+title: The Tombs
+created: 2026-10-23T04:25:08.000Z
+modified: 2026-10-23T04:25:08.000Z
+published: 2026-10-23T04:25:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Bartleby, the Scrivener - A Story of Wall-Street]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.7166,-74.0014
-geo_note: approximate (the article's point; the 1838 Halls of Justice stood on the
-  Centre–Leonard–Elm–Franklin block)
+geo_note: approximate (the article's point; the 1838 Halls of Justice stood on the Centre–Leonard–Elm–Franklin block)
 geo_source: Wikipedia (en) The Tombs
 icon: book
 location:
   - 40.7166
   - -74.0014
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 ---
 
@@ -31,11 +30,13 @@ within: "[[Manhattan]]"
 Popular name of New York City's jail in Lower Manhattan, first the Egyptian Revival Halls of Justice of 1838. In Melville's _Bartleby, the Scrivener_ it is where Bartleby is jailed as a vagrant and dies.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bartleby, the Scrivener - A Story of Wall-Street\|Bartleby, the Scrivener: A Story of Wall-Street]] | Herman Melville | setting | Bartleby is jailed as a vagrant, faces the yard wall, refuses food and dies at its foot. |
 
 ## Bartleby, the Scrivener: A Story of Wall-Street — Herman Melville (1853)
+
 Source: [[Bartleby, the Scrivener - A Story of Wall-Street]] · [Original](https://openlibrary.org/works/OL102732W) · [Readwise highlight](https://read.readwise.io/read/01m5kfr7k3krvpvwzq8tx7p8h1)
 
 > The same day I received the note I went to the Tombs, or to speak more properly, the Halls of Justice.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Union League Club of New York
-created: 2026-10-23T02:03:31.655Z
-modified: 2026-10-23T02:03:31.655Z
-published: 2026-10-23T02:03:31.655Z
+created: 2026-10-23T02:03:32.000Z
+modified: 2026-10-23T02:03:32.000Z
+published: 2026-10-23T02:03:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Rod Dreher’s Monastic Vision – The New Yorker
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 40.749
   - -73.9805
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Manhattan]]"
 Private club on Park Avenue in Midtown Manhattan. The New Yorker reports a panel there where critics challenged Rod Dreher.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Rod Dreher’s Monastic Vision – The New Yorker | Joshua Rothman | setting | Event where Dreher spoke and respondents (Douthat, Rivers, Bruderhof bishop Randall Gauger) challenged him; Gauger argued the book did… |
 
 ## Rod Dreher’s Monastic Vision – The New Yorker — Joshua Rothman (2017)
+
 Source: [Original](https://www.newyorker.com/magazine/2017/05/01/rod-drehers-monastic-vision) · [Readwise highlight](https://read.readwise.io/read/01m5k7fz8xvm4mt8ksyscnr80h)
 
 > Two days after his visit to Hyattsville, Dreher returned to Manhattan to talk about the Benedict Option at the Union League Club, in midtown.

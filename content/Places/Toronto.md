@@ -2,8 +2,12 @@
 publish: true
 title: Toronto
 created: 2026-10-20T10:42:24.000Z
-modified: 2026-10-22T23:16:51.188Z
-published: 2026-10-22T23:16:51.188Z
+modified: 2026-10-22T23:16:51.000Z
+published: 2026-10-22T23:16:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Absolute Best Transportation for Cities (trams)
@@ -18,10 +22,6 @@ icon: book
 location:
   - 43.6525
   - -79.3817
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ontario]]"
 ---
 
@@ -44,6 +44,7 @@ Largest city of Canada, capital of [[Ontario]]. It is the main negative example 
 - [[Yonge Street]]
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise highlight](https://read.readwise.io/read/01m5ce4gz97nw16zzmx7j8gqp9)
 
 > The streetcars in Toronto are barely functional.
@@ -53,6 +54,7 @@ Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise hig
 - **Why it matters:** It is what the narrator left, and the contrast that gives the Amsterdam praise its edge.
 
 ## Rent vs. Buy: If You Have to Ask, You Should Probably Rent — Mr. Money Mustache (2015)
+
 Source: [Original](https://www.mrmoneymustache.com/2015/07/27/rent-vs-buy/) · [Readwise highlight](https://read.readwise.io/read/01m5ganpaerht65x0t8e9yg9yx)
 
 > The City of Toronto is famous as one of the world’s most happening and expensive places to live.
@@ -62,6 +64,7 @@ Source: [Original](https://www.mrmoneymustache.com/2015/07/27/rent-vs-buy/) · [
 - **Why it matters:** Toronto is the first worked example for the post's argument that renting often beats buying.
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
+
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jkzxa2skx0v7ms3530k9p9)
 
 > They bonded easily on the phone—over how they’d been teased about their veins as kids—and Priscilla agreed to meet Jill and her mom in a hotel lobby in Toronto.

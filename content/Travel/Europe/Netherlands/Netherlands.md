@@ -1,15 +1,21 @@
 ---
 publish: true
-title: Netherlands
-created: 2026-09-26T05:01:00.000Z
-modified: 2026-10-23T04:41:13.329Z
-published: 2026-10-23T04:41:13.329Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
+title: Netherlands
+created: 2026-09-26T05:01:00.000Z
+modified: 2026-10-23T04:41:13.000Z
+published: 2026-10-23T04:41:13.000Z
+tags:
+  - travel/europe/europe-2023
+  - travel/europe/netherlands/utrecht
+  - travel/europe/netherlands
+  - places
+  - source/ai/claude
+  - place/literary
 books:
   - What Americans Can Learn From the New Dutch Dietary Guidelines
-  - How the West (and the Rest) Got Rich
 categories:
   - "[[Places]]"
 color: blue
@@ -29,13 +35,6 @@ locations:
     name: Utrecht
   - coordinates: 52.3676,4.9041
     name: Amsterdam
-tags:
-  - travel/europe/europe-2023
-  - travel/europe/netherlands/utrecht
-  - travel/europe/netherlands
-  - places
-  - source/ai/claude
-  - place/literary
 ---
 
 # Netherlands
@@ -52,11 +51,12 @@ Netherlands is a country in Europe, and it groups the places in the Netherlands 
 
 ## Action Items
 
- - [ ] Go to Ferdinand Bolstraat when in Amsterdam
+- [ ] Go to Ferdinand Bolstraat when in Amsterdam
 
 ## FAQ
 
 ---
+
 🙋
 ✨
 
@@ -82,23 +82,23 @@ Netherlands is a country in Europe, and it groups the places in the Netherlands 
 
 ### Resources
 
-- [Google Earth View of Rijksmuseum](https://artsandculture.google.com/streetview/rijksmuseum/iwH5aYGoPwSf7g?hl=en&sv_lng=4.885283712508563&sv_lat=52.35984312584405&sv_h=319&sv_p=0&sv_pid=fOVcUXQW2wpRf33iUmxEfg&sv_z=1)
+- [Google Earth View of Rijksmuseum](https://artsandculture.google.com/streetview/rijksmuseum/iwH5aYGoPwSf7g?hl=en\&sv_lng=4.885283712508563\&sv_lat=52.35984312584405\&sv_h=319\&sv_p=0\&sv_pid=fOVcUXQW2wpRf33iUmxEfg\&sv_z=1)
 - Public Transit
-	- [9292 for local Utrecht Travel](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en&gl=US&pli=1)
-		- 9292 is the most used app for public transport in the Netherlands with more than 5 million users.
-		- It combines all current train, bus, tram, metro and ferry timetables of all public transport companies in the Netherlands in 1 app.
-	- [NS](https://www.ns.nl/en)
-		- City to City [[Trains]] within the Netherlands
-	- [NS International](https://www.nsinternational.com/en)
-		- [[Trains]] for leaving the Netherlands
-		- We used it to go from Utrecht → [[Belgium]]
+  - [9292 for local Utrecht Travel](https://play.google.com/store/apps/details?id=nl.negentwee\&hl=en\&gl=US\&pli=1)
+    - 9292 is the most used app for public transport in the Netherlands with more than 5 million users.
+    - It combines all current train, bus, tram, metro and ferry timetables of all public transport companies in the Netherlands in 1 app.
+  - [NS](https://www.ns.nl/en)
+    - City to City [[Trains]] within the Netherlands
+  - [NS International](https://www.nsinternational.com/en)
+    - [[Trains]] for leaving the Netherlands
+    - We used it to go from Utrecht → [[Belgium]]
 
 ## De Hogeweyk: the dementia village (Weesp)
 
 _Added 2026-09-25 (#source/ai/claude)._
 
 > [!quote] Linnesby-Maria, "Indulgence Is Not the Same as Care"
-> [A] few years ago I read an article about a dementia home in the Netherlands. The home is actually a village. The entire open-air establishment is designed to feel like — in fact, to be — a village, in which residents live together in ordinary houses with carers, and move freely indoors and out, going to stores and cafes and so forth. ([View Highlight](https://readwise.io/open/853000640))
+> \[A] few years ago I read an article about a dementia home in the Netherlands. The home is actually a village. The entire open-air establishment is designed to feel like — in fact, to be — a village, in which residents live together in ordinary houses with carers, and move freely indoors and out, going to stores and cafes and so forth. ([View Highlight](https://readwise.io/open/853000640))
 
 - **What it is:** **De Hogeweyk** in **Weesp**, near Amsterdam, opened **December 2009** on a four-acre site ([Wikipedia](https://en.wikipedia.org/wiki/Hogeweyk)).
 - **Scale:** **152 residents in 27 houses**, about six or seven per house (23 original houses, 4 added in 2018) ([official site](https://hogeweyk.dementiavillage.com/)).
@@ -132,6 +132,7 @@ _Added 2026-09-25 (#source/ai/claude)._
 | How the West (and the Rest) Got Rich | Deirdre N. McCloskey | turning point | Named as where the Great Enrichment first began around 1600, spreading to England, the colonies, Scotland and the Rhineland, driven by… |
 
 ## What Americans Can Learn From the New Dutch Dietary Guidelines — Mark Hay (2016)
+
 Source: [Original](https://www.good.is/articles/dutch-nutritional-guidelines-meat-sustainability) · [Readwise highlight](https://read.readwise.io/read/01m5jjrzdy1p4w8nn2f3251f81)
 
 > Last month the Voedingscentrum, the Netherland’s state-funded nutrition authority, issued an aggressive new
@@ -141,6 +142,7 @@ Source: [Original](https://www.good.is/articles/dutch-nutritional-guidelines-mea
 - **Why it matters:** The country is the subject of a policy comparison with the US; the argument is about national guidelines rather than any specific location.
 
 ## How the West (and the Rest) Got Rich — Deirdre N. McCloskey (2016)
+
 Source: [Original](http://www.wsj.com/articles/why-the-west-and-the-rest-got-rich-1463754427) · [Readwise highlight](https://read.readwise.io/read/01m5jvp1ekdw1kyes8d2dj2dvw)
 
 > Why did it all start at first in Holland about 1600 and then England about 1700 and then the North American colonies and England’s impoverished neighbor, Scotland, and then Belgium and northern France and the Rhineland?

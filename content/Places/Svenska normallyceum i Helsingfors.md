@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Svenska normallyceum i Helsingfors
-created: 2026-10-23T05:33:55.298Z
-modified: 2026-10-23T05:33:55.298Z
-published: 2026-10-23T05:33:55.298Z
 aliases:
   - Norssen
   - Norsen
   - Svenska normallyceum
+title: Svenska normallyceum i Helsingfors
+created: 2026-10-23T05:33:55.000Z
+modified: 2026-10-23T05:33:55.000Z
+published: 2026-10-23T05:33:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 60.1633
   - 24.9512
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Helsinki]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Helsinki]]"
 Swedish-language secondary school in central Helsinki, known as "Norsen". In _Just for Fun_ it is Norssen High, where Linus is the "Math Guy".
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | Linus's high school, where he excels at maths and physics and skips gym for a nearby coffee shop. |
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
+
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrn9ak0ndr3h78rj4hfrm)
 
 > Okay, there was school: Norssen High, the most central of Helsinki’s five Swedish-language high schools, and the one nearest my home.

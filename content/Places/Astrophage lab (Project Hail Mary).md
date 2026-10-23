@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Astrophage lab (Project Hail Mary)
-created: 2026-10-22T22:36:38.583Z
-modified: 2026-10-22T22:36:38.583Z
-published: 2026-10-22T22:36:38.583Z
+created: 2026-10-22T22:36:39.000Z
+modified: 2026-10-22T22:36:39.000Z
+published: 2026-10-22T22:36:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -18,10 +22,6 @@ icon: book
 location:
   - 37.7775
   - -122.4164
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[San Francisco]]"
 Unnamed business-park lab near San Francisco in Project Hail Mary. Grace first studies, names and breeds Astrophage there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | FBI agents take Grace to a generic building where Stratt has outfitted a biology lab, soon converted into an argon-filled quarantine… |
 
 ## Project Hail Mary — Andy Weir (2021)
+
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvsdj5hkysm7hyz36n92ac)
 
 > After a twenty-minute drive where they refused to answer any of my questions or even speak to me at all, they parked and showed me into a generic-looking business-park building.

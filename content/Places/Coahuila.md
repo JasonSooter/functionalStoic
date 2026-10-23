@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Coahuila
-created: 2026-10-23T02:24:46.026Z
-modified: 2026-10-23T02:24:46.026Z
-published: 2026-10-23T02:24:46.026Z
+created: 2026-10-23T02:24:46.000Z
+modified: 2026-10-23T02:24:46.000Z
+published: 2026-10-23T02:24:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico]]"
 ---
 
@@ -22,4 +22,5 @@ within: "[[Mexico]]"
 Mexican border state south of Texas.
 
 ## Sub-places
+
 - [[Piedras Negras]]

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Hampton Court House
-created: 2026-10-23T01:32:21.967Z
-modified: 2026-10-23T01:32:21.967Z
-published: 2026-10-23T01:32:21.967Z
+created: 2026-10-23T01:32:22.000Z
+modified: 2026-10-23T01:32:22.000Z
+published: 2026-10-23T01:32:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Start secondary school at 10am to improve learning
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 51.4082
   - -0.3423
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Richmond, London]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Richmond, London]]"
 Independent school beside Hampton Court Palace, south-west London. A British Science Association piece cites it for moving its sixth-form start time to 1.30pm on body-clock research.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Start secondary school at 10am to improve learning | British Science Association | subject | Hampton Court House school in Surrey moved its sixth form start time to 1.30pm based on teenage body-clock research, independently of… |
 
 ## Start secondary school at 10am to improve learning — British Science Association (2015)
+
 Source: [Original](https://www.britishscienceassociation.org/news/start-secondary-school-at-10am-to-improve-learning) · [Readwise highlight](https://read.readwise.io/read/01m5k5re7b89kzt17qekg6xmb1)
 
 > school in Surrey is one school that has acted on the scientific findings independently of the Teensleep project, and changed sixth form students' start times to 1.30pm, based on the science of teenage body clocks.

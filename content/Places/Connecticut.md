@@ -2,18 +2,18 @@
 publish: true
 title: Connecticut
 created: 2026-10-21T19:58:07.000Z
-modified: 2026-10-23T02:05:38.793Z
-published: 2026-10-23T02:05:38.793Z
+modified: 2026-10-23T02:05:39.000Z
+published: 2026-10-23T02:05:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Connecticut

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: La Providence (Suriname)
-created: 2026-10-23T04:41:13.597Z
-modified: 2026-10-23T04:41:13.597Z
-published: 2026-10-23T04:41:13.597Z
+created: 2026-10-23T04:41:14.000Z
+modified: 2026-10-23T04:41:14.000Z
+published: 2026-10-23T04:41:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Girl Who Drew Butterflies]]"
@@ -11,17 +15,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 5.2709,-55.0645
-geo_note: "approximate: ⚠️ GeoNames populated place La Providence on the upper Suriname\
-  \ River, taken as the site of the Labadist plantation"
+geo_note: "approximate: ⚠️ GeoNames populated place La Providence on the upper Suriname River, taken as the site of the Labadist plantation"
 geo_source: GeoNames 3383730
 icon: book
 location:
   - 5.2709
   - -55.0645
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Suriname]]"
 ---
 
@@ -30,11 +29,13 @@ within: "[[Suriname]]"
 Former Labadist plantation on the upper Suriname River. In _The Girl Who Drew Butterflies_ Maria Merian travels upstream to it and finds it nearly deserted.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Girl Who Drew Butterflies]] | Joyce Sidman | journey waypoint | Maria travels upstream to the Labadists' old outpost and finds it eerily quiet. |
 
 ## The Girl Who Drew Butterflies — Joyce Sidman (2018)
+
 Source: [[The Girl Who Drew Butterflies]] · [Original](https://openlibrary.org/works/OL19731743W) · [Readwise highlight](https://read.readwise.io/read/01m5kgs0jyfr243268qhpb3t3k)
 
 > She and Dorothea journeyed far upstream to La Providence, the former Labadist outpost where Cornelis van Sommelsdijk had collected the specimens Maria had seen at Waltha Castle.

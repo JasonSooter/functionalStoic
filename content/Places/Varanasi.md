@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Varanasi
-created: 2026-10-23T05:11:59.654Z
-modified: 2026-10-23T05:11:59.654Z
-published: 2026-10-23T05:11:59.654Z
+created: 2026-10-23T05:12:00.000Z
+modified: 2026-10-23T05:12:00.000Z
+published: 2026-10-23T05:12:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[On the Hippie Trail]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 25.3189
   - 83.0128
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[India]]"
 Holy Hindu city on the Ganges in Uttar Pradesh, India. In _On the Hippie Trail_ Rick joins pilgrims on the river at dawn and sees the burning ghats.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | turning point | Dawn on the Ganges: bathers, pilgrims and cremations on the burning ghat. |
 
 ## On the Hippie Trail — Rick Steves (2025)
+
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjf3t2862evjr0bw21vev8)
 
 > Today we were up at 4:30 a.m. joining the other pilgrims to visit the Ganges River.

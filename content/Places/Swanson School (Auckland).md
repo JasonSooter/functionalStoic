@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Swanson School (Auckland)
-created: 2026-10-23T05:19:09.734Z
-modified: 2026-10-23T05:19:09.734Z
-published: 2026-10-23T05:19:09.734Z
 aliases:
   - Swanson Primary School
+title: Swanson School (Auckland)
+created: 2026-10-23T05:19:10.000Z
+modified: 2026-10-23T05:19:10.000Z
+published: 2026-10-23T05:19:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Anxious Generation]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - -36.8646
   - 174.5812
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Auckland]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Auckland]]"
 Primary school in Swanson, west Auckland, New Zealand. In _The Anxious Generation_ its "No Rules Recess" shows what happens when a school drops playground rules.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Anxious Generation]] | Jonathan Haidt | subject | The principal scraps all recess rules: more chaos, but less injury, vandalism and bullying. |
 
 ## The Anxious Generation — Jonathan Haidt (2024)
+
 Source: [[The Anxious Generation]] · [Original](https://openlibrary.org/works/OL37575384W) · [Readwise highlight](https://read.readwise.io/read/01m5kk2me9008wvsjcvdy9qe4v)
 
 > To see what the opposite of the Berkeley school looks like, consider the “No Rules Recess” at Swanson Primary School in New Zealand.

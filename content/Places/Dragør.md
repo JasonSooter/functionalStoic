@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Dragør
-created: 2026-10-23T04:40:54.962Z
-modified: 2026-10-23T04:40:54.962Z
-published: 2026-10-23T04:40:54.962Z
+created: 2026-10-23T04:40:55.000Z
+modified: 2026-10-23T04:40:55.000Z
+published: 2026-10-23T04:40:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Little Book of Hygge - The Danish Way to Live Well]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 55.5925
   - 12.6722
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Denmark]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Denmark]]"
 Harbour town on Amager, just south of Copenhagen. In _The Little Book of Hygge_ it is the site of the Happiness Research Institute's city study linking relationships to happiness.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Little Book of Hygge - The Danish Way to Live Well\|The Little Book of Hygge: The Danish Way to Live Well]] | Meik Wiking | subject | The institute's study of residents' happiness, which found social relationships strongly tied to life satisfaction. |
 
 ## The Little Book of Hygge: The Danish Way to Live Well — Meik Wiking (2016)
+
 Source: [[The Little Book of Hygge - The Danish Way to Live Well]] · [Original](https://openlibrary.org/works/OL19352003W) · [Readwise highlight](https://read.readwise.io/read/01m5kgs5dvkepegv8anf9qab1g)
 
 > One example is a city study we conducted a few years ago at the Happiness Research Institute, in the town of Dragør, just outside Copenhagen.

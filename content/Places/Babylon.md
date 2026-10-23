@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Babylon
-created: 2026-10-23T02:02:28.624Z
-modified: 2026-10-23T02:02:28.624Z
-published: 2026-10-23T02:02:28.624Z
+created: 2026-10-23T02:02:29.000Z
+modified: 2026-10-23T02:02:29.000Z
+published: 2026-10-23T02:02:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "The Code of Hammurabi: The Best Rule To Manage Risk"
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 32.5425
   - 44.4211
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iraq]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Iraq]]"
 Ancient Mesopotamian capital on the Euphrates in present-day Iraq. A Farnam Street essay uses Hammurabi's Code, made there, to argue that builders should carry the risk of what they build.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Code of Hammurabi: The Best Rule To Manage Risk | Farnam Street | subject | Hammurabi ruled Babylon from 1792 BC for 43 years, expanding a modest kingdom by conquest and then settling down to rule. |
 
 ## The Code of Hammurabi: The Best Rule To Manage Risk — Farnam Street (2017)
+
 Source: [Original](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) · [Readwise highlight](https://read.readwise.io/read/01m5k7bqccncm3ezx7d6fpjjyf)
 
 > Almost 4,000 years ago, King Hammurabi of Babylon, Mesopotamia, laid out one of the first sets of laws.

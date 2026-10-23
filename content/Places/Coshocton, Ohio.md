@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Coshocton, Ohio
-created: 2026-10-22T20:38:04.297Z
-modified: 2026-10-22T20:38:04.297Z
-published: 2026-10-22T20:38:04.297Z
+created: 2026-10-22T20:38:04.000Z
+modified: 2026-10-22T20:38:04.000Z
+published: 2026-10-22T20:38:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Distributing Awesome Developer Swag Across The Globe
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 40.2611
   - -81.8567
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ohio]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Ohio]]"
 City in central Ohio. A setting in Nick Harley's “Distributing Awesome Developer Swag Across The Globe”: Printers Meek and Beach here pioneered branded merchandise with imprinted book bags for Cantwell Shoes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Distributing Awesome Developer Swag Across The Globe | Nick Harley | setting | Printers Meek and Beach here pioneered branded merchandise with imprinted book bags for Cantwell Shoes. |
 
 ## Distributing Awesome Developer Swag Across The Globe — Nick Harley (2016)
+
 Source: [Original](https://raygun.com/blog/2016/05/developer-swag/) · [Readwise highlight](https://read.readwise.io/read/01m5jkz7z8bvk7vyr4jfynntrf)
 
 > Seeing a child drop her schoolbooks in the dirt on Main Street spurred Meek to approach his friend, Mr. Cantwell, owner of Cantwell Shoes, with an idea about building store traffic, name recognition, and ultimately increasing sales.

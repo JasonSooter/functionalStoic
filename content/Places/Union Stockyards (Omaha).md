@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Union Stockyards (Omaha)
-created: 2026-10-23T04:59:26.775Z
-modified: 2026-10-23T04:59:26.775Z
-published: 2026-10-23T04:59:26.775Z
 aliases:
   - Omaha Stockyards
+title: Union Stockyards (Omaha)
+created: 2026-10-23T04:59:27.000Z
+modified: 2026-10-23T04:59:27.000Z
+published: 2026-10-23T04:59:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 41.21
   - -95.958
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Omaha]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Omaha]]"
 Former stockyards in South Omaha, Nebraska, once among the largest in the world. In _The Life and Times of the Thunderbolt Kid_ Bryson's mother grew up poor in a shack at their edge.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Life and Times of the Thunderbolt Kid]] | Bill Bryson | setting | His mother's childhood shack above the stockyards: the dreaded family stop on every trip west. |
 
 ## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
+
 Source: [[The Life and Times of the Thunderbolt Kid]] · [Original](https://openlibrary.org/works/OL4620956W) · [Readwise highlight](https://read.readwise.io/read/01m5khv1tbykgxpe0x5w3dq6x3)
 
 > My mother grew up remarkably poor, in a tiny house that was really a shack, on the edge of Omaha’s vast and famous stockyards.

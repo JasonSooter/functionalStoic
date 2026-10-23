@@ -2,18 +2,18 @@
 publish: true
 title: Delaware
 created: 2026-10-21T22:44:08.000Z
-modified: 2026-10-22T20:01:18.969Z
-published: 2026-10-22T20:01:18.969Z
+modified: 2026-10-22T20:01:19.000Z
+published: 2026-10-22T20:01:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Delaware

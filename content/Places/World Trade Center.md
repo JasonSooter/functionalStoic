@@ -1,13 +1,16 @@
 ---
 publish: true
 title: World Trade Center
-created: 2026-10-22T19:58:24.119Z
-modified: 2026-10-23T02:02:39.457Z
-published: 2026-10-23T02:02:39.457Z
+created: 2026-10-22T19:58:24.000Z
+modified: 2026-10-23T02:02:39.000Z
+published: 2026-10-23T02:02:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Sometimes I Forget We’re At War
-  - “I Now Know What It’s Like to Have A 110-Story Building Come Down on My Head.”
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +20,6 @@ icon: newspaper
 location:
   - 40.7117
   - -74.0125
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -36,6 +35,7 @@ The former twin towers in Lower Manhattan, destroyed on 11 September 2001. A tur
 | “I Now Know What It’s Like to Have A 110-Story Building Come Down on My Head.” | Cal Fussman | setting | Michael Wright narrates the morning of 9/11 from his office on the 81st floor of the North Tower, where he arrived early and joked with… |
 
 ## Sometimes I Forget We’re At War — Frugaling (2016)
+
 Source: [Original](https://frugaling.org/war/) · [Readwise highlight](https://read.readwise.io/read/01m5jjrxec06f6na8fs4nbqpff)
 
 > I had stood atop those towers a year prior. My 12-year-old mind couldn’t compute how some of the tallest buildings in the world became shorter than our house – the great had fallen.
@@ -45,6 +45,7 @@ Source: [Original](https://frugaling.org/war/) · [Readwise highlight](https://r
 - **Why it matters:** The towers' fall is the personal and political starting point of the essay's argument about endless war.
 
 ## “I Now Know What It’s Like to Have A 110-Story Building Come Down on My Head.” — Cal Fussman (2019)
+
 Source: [Original](https://medium.com/s/story/9-11-the-ordinary-and-the-extraordinary-5ddc810057f2) · [Readwise highlight](https://read.readwise.io/read/01m5k7cjts2nvxx6y7nhecj99z)
 
 > We’d just started sharing the 81st floor of 1 World Trade Center with Bank of America, and they’d put up a sign telling everyone to keep the bathroom clean.

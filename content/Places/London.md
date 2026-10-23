@@ -2,8 +2,12 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-23T04:41:08.349Z
-published: 2026-10-23T04:41:08.349Z
+modified: 2026-10-23T04:41:08.000Z
+published: 2026-10-23T04:41:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 51.5072
   - -0.1275
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # London
@@ -27,6 +27,7 @@ tags:
 Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against Isis in London, and It’s Ignored by the Media”: City where the annual Arbaeen procession marched against ISIS with little media coverage.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Muslims March Against Isis in London, and It’s Ignored by the Media | Mike Albo | setting | City where the annual Arbaeen procession marched against ISIS with little media coverage |
@@ -72,6 +73,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Wimbledon Common]]
 
 ## Muslims March Against Isis in London, and It’s Ignored by the Media — Mike Albo (2016)
+
 Source: [Original](http://www.good.is/posts/anti-isis-march-london) · [Readwise highlight](https://read.readwise.io/read/01m5jjr7y49gwtnh1g2vnqbqfx)
 
 > Thousands of peace-promoting Muslims took to the streets of London last week, and it was barely covered by the media

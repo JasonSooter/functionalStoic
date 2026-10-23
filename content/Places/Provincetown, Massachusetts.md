@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Provincetown, Massachusetts
-created: 2026-10-23T05:33:32.958Z
-modified: 2026-10-23T05:33:32.958Z
-published: 2026-10-23T05:33:32.958Z
 aliases:
   - Provincetown
+title: Provincetown, Massachusetts
+created: 2026-10-23T05:33:33.000Z
+modified: 2026-10-23T05:33:33.000Z
+published: 2026-10-23T05:33:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Cod]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 42.058
   - -70.179
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Massachusetts]]"
 Town at the tip of Cape Cod. In _Cod_ Thoreau's visit to a Provincetown fish-house shows how carelessly American salt cod was handled.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | setting | Thoreau watches men in cowhide boots pitch salt cod with iron-pointed tools while a man chews tobacco and spits on the fish. |
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
+
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kkskzm9fm8p3fvek45pc47)
 
 > This was how Thoreau found the Provincetown fishery in 1851:

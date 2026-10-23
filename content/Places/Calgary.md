@@ -2,12 +2,15 @@
 publish: true
 title: Calgary
 created: 2026-10-22T14:40:03.000Z
-modified: 2026-10-22T22:59:04.624Z
-published: 2026-10-22T22:59:04.624Z
+modified: 2026-10-22T22:59:05.000Z
+published: 2026-10-22T22:59:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - It Isn’t Cheaper To Live In The Suburbs
-  - Less Stuff, More Sex
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +20,6 @@ icon: newspaper
 location:
   - 51.0475
   - -114.0625
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alberta]]"
 ---
 
@@ -36,6 +35,7 @@ City in southern Alberta, Canada; Bridget Casey argues for buying in its core ra
 | Less Stuff, More Sex | Joshua Fields Millburn & Ryan Nicodemus | setting | During the authors' tour stop, a heckler stands up at the back of a crowd in a Calgary (Albertan) bookshop and tells how minimalism led… |
 
 ## It Isn’t Cheaper To Live In The Suburbs — Bridget Casey (2015)
+
 Source: [Original](http://www.moneyaftergraduation.com/2015/12/14/it-isnt-cheaper-to-live-in-the-suburbs/) · [Readwise highlight](https://read.readwise.io/read/01m5hy6zdkjn9j77fy738p3224)
 
 > rather than continue my vigilant stakeout for fairly priced homes in my Calgary’s core.
@@ -45,6 +45,7 @@ Source: [Original](http://www.moneyaftergraduation.com/2015/12/14/it-isnt-cheape
 - **Why it matters:** Her personal stance is anchored in central Calgary, but the article is a general Canada-wide argument and Calgary appears only a few times.
 
 ## Less Stuff, More Sex — Joshua Fields Millburn & Ryan Nicodemus (2016)
+
 Source: [Original](https://www.theminimalists.com/sex/) · [Readwise highlight](https://read.readwise.io/read/01m5jx81ekebcagavd637vk8ww)
 
 > we stood amid alphabetical rows of endless bookshelves, basking in a Calgary bookstore’s fluorescent glow, answering questions at the end of our talk in front of a few hundred smiling Canadians.

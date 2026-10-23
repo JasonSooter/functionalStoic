@@ -2,12 +2,15 @@
 publish: true
 title: Kabul
 created: 2026-10-22T16:26:19.000Z
-modified: 2026-10-23T05:12:13.967Z
-published: 2026-10-23T05:12:13.967Z
+modified: 2026-10-23T05:12:14.000Z
+published: 2026-10-23T05:12:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
-  - "[[On the Hippie Trail]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +20,6 @@ icon: book
 location:
   - 34.5253
   - 69.1783
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Afghanistan]]"
 ---
 
@@ -29,12 +28,14 @@ within: "[[Afghanistan]]"
 Capital of Afghanistan. Dervla Murphy's base for weeks in _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Her Afghan base: permits, embassies, a sheepskin coat and rest for broken ribs. |
 | [[On the Hippie Trail]] | Rick Steves | setting | Chicken Street and the Sina Hotel: Rick explores alone, sees the revolution's signs and talks with a professor. |
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6m3w97vkmgs0na3b2gszq)
 
 > Kabul reminds me of Sofia in that the traffic is virtually nil by capital city standards; you can cycle happily around with only camel caravans, herds of pack-donkeys and droves of fellow-cyclists to impede the way.
@@ -44,6 +45,7 @@ Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://op
 - **Why it matters:** Kabul is her base in Afghanistan, from which she plans the Bamian trip and where she reflects on Western aid, foreign colonies and the Afghans she has met.
 
 ## On the Hippie Trail — Rick Steves (2025)
+
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjej1y372ef5ct0wzd14kr)
 
 > We took a cab to touristy “Chicken Street” and found the nicest hotel we could—the not-too-nice, but ok, Sina Hotel.

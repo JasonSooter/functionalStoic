@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Shalimar Bagh (Srinagar)
-created: 2026-10-23T05:12:28.605Z
-modified: 2026-10-23T05:12:28.605Z
-published: 2026-10-23T05:12:28.605Z
 aliases:
   - Shalimar Gardens
+title: Shalimar Bagh (Srinagar)
+created: 2026-10-23T05:12:29.000Z
+modified: 2026-10-23T05:12:29.000Z
+published: 2026-10-23T05:12:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[On the Hippie Trail]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 34.1424
   - 74.8629
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Srinagar]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Srinagar]]"
 Mughal garden on the shore of Dal Lake in Srinagar, Kashmir. In _On the Hippie Trail_ its sound-and-light show ends Rick's favourite day in Kashmir.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | setting | The Mughal gardens and their sound-and-light show; Rick vows to come back to the valley. |
 
 ## On the Hippie Trail — Rick Steves (2025)
+
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjesxpjgrbwhv0c0w3q1kr)
 
 > Our final stop was the famous Shalimar Gardens. In this lush valley, this colorful park of gardens, flowers, and tumbling water stood out.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Town Danceboutique
-created: 2026-10-23T02:02:26.243Z
-modified: 2026-10-23T02:02:26.243Z
-published: 2026-10-23T02:02:26.243Z
+created: 2026-10-23T02:02:26.000Z
+modified: 2026-10-23T02:02:26.000Z
+published: 2026-10-23T02:02:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - How to make and keep friends as an adult
@@ -12,10 +16,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington DC]]"
 ---
 
@@ -24,11 +24,13 @@ within: "[[Washington DC]]"
 Former gay nightclub in the Shaw neighbourhood of Washington, D.C. A Washington Post piece on adult friendship recalls an intern who went there alone and was happy.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to make and keep friends as an adult | Washington Post | setting | During his first summer in Washington as a 19-year-old intern, Alex Paterson had no friends and a punishing work schedule. |
 
 ## How to make and keep friends as an adult — Washington Post (2017)
+
 Source: [Original](https://www.washingtonpost.com/news/soloish/wp/2017/04/25/how-to-make-and-keep-friends-in-your-20s/) · [Readwise highlight](https://read.readwise.io/read/01m5k7cj6v6zz6q2jaks26kwqj)
 
 > “I was so happy,” Paterson, now 22, said of his solo outings that summer. He was recently out of the closet, so it was enough to just be at a gay club, never mind that he was alone.

@@ -2,18 +2,18 @@
 publish: true
 title: Texas
 created: 2026-10-20T16:28:47.000Z
-modified: 2026-10-23T02:26:56.313Z
-published: 2026-10-23T02:26:56.313Z
+modified: 2026-10-23T02:26:56.000Z
+published: 2026-10-23T02:26:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Texas

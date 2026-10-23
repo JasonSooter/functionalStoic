@@ -2,15 +2,17 @@
 publish: true
 title: Paris
 created: 2026-07-17T14:36:02.899Z
-modified: 2026-10-23T02:06:04.720Z
-published: 2026-10-23T02:06:04.720Z
+modified: 2026-10-23T02:06:05.000Z
+published: 2026-10-23T02:06:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
   - "[[Not the End of the World]]"
   - The Price of Civilization
-  - "Here comes everybody: participatory budgeting, explained"
-  - To Paris for the Talent, to San Francisco for the Energy
 categories:
   - "[[Places]]"
 color: green
@@ -19,10 +21,6 @@ icon: building-2
 location:
   - 48.8566
   - 2.3522
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Paris
@@ -80,6 +78,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5a86gz0wjjw3dzn0xq
 - **Not pinned separately:** Centre Pompidou (the target of the architecture rant). ⚠️ No coordinate from a standard source could be fetched this run.
 
 ## How '15-Minute Cities' Will Change the Way We Socialise — Peter Yeung (2020)
+
 Source: [[How '15-Minute Cities' Will Change the Way We Socialise]] · [Original](https://www.bbc.com/worklife/article/20201214-how-15-minute-cities-will-change-the-way-we-socialise) · [Readwise highlight](https://read.readwise.io/read/01m5d218ap56a9v45z1rmpax6r)
 
 > “I discovered it’s possible to feel like you're in a small village in Paris,” she says.
@@ -89,6 +88,7 @@ Source: [[How '15-Minute Cities' Will Change the Way We Socialise]] · [Original
 - **Why it matters:** Paris is the test case the article holds up for cities that want to copy the model.
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwise.io/read/01m5ebvffxyf7mdy9s4m2gq0v3)
 
 > In 2015, I went to Paris for the big, famous climate conference, COP21.
@@ -98,6 +98,7 @@ Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwi
 - **Why it matters:** The setting is the personal hinge for the chapter's optimism: seeing the target adopted there contrasts with her earlier fatalism. The argument rests on data trajectories, so the city itself is incidental; any summit venue would serve.
 
 ## The Price of Civilization — Jim Wright (2015)
+
 Source: [Original](https://www.stonekettle.com/2015/11/the-price-of-civilization.html) · [Readwise highlight](https://read.readwise.io/read/01m5hk4yxnym2bhsh2xzwb8tah)
 
 > We created this. Paris. Yes we did.
@@ -107,6 +108,7 @@ Source: [Original](https://www.stonekettle.com/2015/11/the-price-of-civilization
 - **Why it matters:** The attacks are the occasion and the conclusion of the essay; the city stands for the cost of past wars.
 
 ## Here comes everybody: participatory budgeting, explained — The Long and Short (2016)
+
 Source: [Original](http://thelongandshort.org/society/participatory-budgeting-explained) · [Readwise highlight](https://read.readwise.io/read/01m5k5qerqjhebnb4z7p54q3w0)
 
 > In Paris, for example, the web resources are supplemented with lots of local meetings where people can meet to suggest and develop ideas, and both civil society organisations and civil servants are involved in supporting people to participate offline.
@@ -116,6 +118,7 @@ Source: [Original](http://thelongandshort.org/society/participatory-budgeting-ex
 - **Why it matters:** Worked example used to answer the digital-divide question.
 
 ## To Paris for the Talent, to San Francisco for the Energy — Yura Riphyak (2019)
+
 Source: [Original](https://youteam.io/blog/to-paris-for-the-talent-to-san-francisco-for-the-energy/) · [Readwise highlight](https://read.readwise.io/read/01m5k7bmk9vv3ysjb60z5xs75y)
 
 > 90% of the engineering & product teams are located in Paris, with 2-3 people working remotely. Most of our growth & operations teams are based in San Francisco now.

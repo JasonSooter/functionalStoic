@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Berklee College of Music
-created: 2026-10-22T20:37:38.481Z
-modified: 2026-10-22T20:37:38.481Z
-published: 2026-10-22T20:37:38.481Z
+created: 2026-10-22T20:37:38.000Z
+modified: 2026-10-22T20:37:38.000Z
+published: 2026-10-22T20:37:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Why Place Matters — White Space
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 42.3464
   - -71.0869
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Boston]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Boston]]"
 Music college in Boston's Back Bay. A turning point in Alex Nichols's “Why Place Matters — White Space”: Free concert at Berklee discovered on foot, cited as the payoff of a connected city.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Place Matters — White Space | Alex Nichols | turning point | Free concert at Berklee discovered on foot, cited as the payoff of a connected city |
 
 ## Why Place Matters — White Space — Alex Nichols (2016)
+
 Source: [Original](https://blog.whiteboard.is/why-place-matters-cf9a104b1e27?gi=73dc6c502106) · [Readwise highlight](https://read.readwise.io/read/01m5jkyygeqbbpaegvnd4n8qyx)
 
 > We certainly would not have stumbled upon the free concert at Berklee, and we would have wasted time driving around looking for a restaurant.

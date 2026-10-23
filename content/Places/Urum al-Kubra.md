@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Urum al-Kubra
-created: 2026-10-23T04:41:47.121Z
-modified: 2026-10-23T04:41:47.121Z
-published: 2026-10-23T04:41:47.121Z
 aliases:
   - Orem al-Kubra
+title: Urum al-Kubra
+created: 2026-10-23T04:41:47.000Z
+modified: 2026-10-23T04:41:47.000Z
+published: 2026-10-23T04:41:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 36.1482
   - 36.9478
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Syria]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Syria]]"
 Village about twenty kilometres west of Aleppo, Syria. In _The Beekeeper of Aleppo_ it is the first stop on Nuri and Afra's flight to the Turkish border.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | journey waypoint | First stop on the road out of Aleppo, where a man on a bicycle warns them of a sniper ahead. |
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
+
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgr700dq0n547vg8gbwjwa)
 
 > We were heading to Urum al-Kubra, about twenty kilometres west of Aleppo.

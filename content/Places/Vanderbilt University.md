@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Vanderbilt University
-created: 2026-10-22T23:16:44.424Z
-modified: 2026-10-22T23:16:44.424Z
-published: 2026-10-22T23:16:44.424Z
+created: 2026-10-22T23:16:44.000Z
+modified: 2026-10-22T23:16:44.000Z
+published: 2026-10-22T23:16:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "How to Raise a Genius: Lessons from a 45-Year Study of Supersmart Children"
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 36.1475
   - -86.8025
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tennessee]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Tennessee]]"
 University in Nashville, Tennessee, home of the Study of Mathematically Precocious Youth. Nature's piece on gifted children opens on its quad.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Raise a Genius: Lessons from a 45-Year Study of Supersmart Children | Tom Clynes | setting | The reporter walks the quadrangle with Benbow and Lubinski as they recount SMPY's origins, passing the 1915 psychology laboratory, the… |
 
 ## How to Raise a Genius: Lessons from a 45-Year Study of Supersmart Children — Tom Clynes (2016)
+
 Source: [Original](https://www.scientificamerican.com/article/how-to-raise-a-genius-lessons-from-a-45-year-study-of-supersmart-children/) · [Readwise highlight](https://read.readwise.io/read/01m5jy7qmccpnbc6hefrs9t2t1)
 
 > On a muggy August day, Benbow and her husband, psychologist David Lubinski, describe the origins of SMPY as they walk across the quadrangle at Vanderbilt University.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Rosewood Sand Hill
-created: 2026-10-22T20:38:08.438Z
-modified: 2026-10-22T20:38:08.438Z
-published: 2026-10-22T20:38:08.438Z
+created: 2026-10-22T20:38:08.000Z
+modified: 2026-10-22T20:38:08.000Z
+published: 2026-10-22T20:38:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 37.4195
   - -122.2125
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[California]]"
 Hotel on Sand Hill Road in Menlo Park, California. A setting in Cade Metz's “Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free”: Private-room dinner where Musk, Altman, Brockman and Sutskever first floated OpenAI.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free | Cade Metz | setting | Private-room dinner where Musk, Altman, Brockman and Sutskever first floated OpenAI. |
 
 ## Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free — Cade Metz (2016)
+
 Source: [Original](https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/) · [Readwise highlight](https://read.readwise.io/read/01m5jkzatjj5nkh90v5qy50yg3)
 
 > OpenAI began one evening last summer in a private room at Silicon Valley's Rosewood Hotel---an upscale, urban, ranch-style hotel that sits, literally, at the center of the venture capital world along Sand Hill Road in Menlo Park, California.

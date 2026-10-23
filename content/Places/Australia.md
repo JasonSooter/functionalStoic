@@ -2,25 +2,18 @@
 publish: true
 title: Australia
 created: 2026-10-21T19:58:10.000Z
-modified: 2026-10-22T22:58:31.121Z
-published: 2026-10-22T22:58:31.121Z
-aliases: []
-books:
-  - On the Rebound from Epic Failure
-categories:
-  - "[[Places]]"
-color: purple
-coordinates: -25,133
-geo_note: approximate (article's country representative point)
-geo_source: Wikipedia (en)
-icon: newspaper
-location:
-  - -25
-  - 133
+modified: 2026-10-22T22:58:31.000Z
+published: 2026-10-22T22:58:31.000Z
 tags:
   - places
   - place/literary
   - source/ai/claude
+aliases: []
+books: []
+categories:
+  - "[[Places]]"
+color: purple
+icon: book
 ---
 
 # Australia
@@ -41,6 +34,7 @@ Country and continent in the southern hemisphere. Jason Goldberg makes his decis
 - [[Western Australia]]
 
 ## On the Rebound from Epic Failure — Jason Goldberg (2019)
+
 Source: [Original](https://medium.com/@betashop/on-the-rebound-from-epic-failure-88e77d2b39af) · [Readwise highlight](https://read.readwise.io/read/01m5jx5cpwz29tv110e3mgmrrg)
 
 > I loved what we were building with Hem though, and over the Christmas-New Years holidays at the end of 2015, while visiting Australia, I had to make an important decision as to whether I would personally invest in continuing Hem along with an investor group who was considering a takeover, or whether I would leave the company and start anew.

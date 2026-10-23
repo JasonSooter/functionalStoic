@@ -2,18 +2,18 @@
 publish: true
 title: Oregon
 created: 2026-10-20T04:35:52.000Z
-modified: 2026-10-22T20:01:38.162Z
-published: 2026-10-22T20:01:38.162Z
+modified: 2026-10-22T20:01:38.000Z
+published: 2026-10-22T20:01:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Oregon

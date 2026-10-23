@@ -2,13 +2,16 @@
 publish: true
 title: Times Square
 created: 2026-10-20T19:38:39.000Z
-modified: 2026-10-23T01:35:45.052Z
-published: 2026-10-23T01:35:45.052Z
+modified: 2026-10-23T01:35:45.000Z
+published: 2026-10-23T01:35:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Another Brooklyn]]"
   - "[[Walkable City]]"
-  - "[[Uncommon Type]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +21,6 @@ icon: book
 location:
   - 40.7575
   - -73.9858
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -38,6 +37,7 @@ Square at Broadway and Seventh Avenue in Midtown Manhattan, [[New York City]], U
 | [[Uncommon Type]] | Tom Hanks | journey waypoint | In two stories, Sue Gliebe (1978) and the newly arrived Assan pass through a rough, crowded Times Square. |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Readwise highlight](https://read.readwise.io/read/01m5dcn4vjgpakn91sce1kfmnh)
 
 > But in Times Square that same year, brown girls were dying.
@@ -47,6 +47,7 @@ Source: [[Another Brooklyn]] · [Readwise highlight](https://read.readwise.io/re
 - **Why it matters:** A place they never visit in the book but that shapes their dread.
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjygewqcttnpcfpjk0mgn)
 
 > Gehl has recently been consulting to the City of New York, which turned a stretch of Broadway in Times Square into a pedestrian park with great results.
@@ -56,6 +57,7 @@ Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695
 - **Why it matters:** It is the counterexample to failed Main Street closures; success depends on New York's density, not on expensive streetscape.
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5vbv9rmdbdzg50jx9dkvr)
 
 > Times Square was an exterior version of the station below—filthy, flooded, and overcharged with people.

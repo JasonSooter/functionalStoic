@@ -2,13 +2,15 @@
 publish: true
 title: Piraeus
 created: 2026-10-21T05:07:22.000Z
-modified: 2026-10-23T04:42:48.829Z
-published: 2026-10-23T04:42:48.829Z
+modified: 2026-10-23T04:42:49.000Z
+published: 2026-10-23T04:42:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Daily Stoic]]"
-  - "[[Uncommon Type]]"
-  - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +20,6 @@ icon: book
 location:
   - 37.943
   - 23.6469
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Greece]]"
 ---
 
@@ -38,6 +36,7 @@ Port of Athens in [[Greece]], named in _The Daily Stoic_ as the destination of Z
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | journey waypoint | Nuri and Afra land from Leros in a yard of tents; later Nuri makes his first night delivery for the smuggler near the port. |
 
 ## The Daily Stoic — Ryan Holiday (2016)
+
 Source: [[The Daily Stoic]] · [Original](https://openlibrary.org/works/OL20046443W) · [Readwise highlight](https://read.readwise.io/read/01m5edh04p41vhvw14nmptx93r)
 
 > On a voyage between Phoenicia and Peiraeus, his ship sank along with its cargo. Zeno ended up in Athens, and while visiting a bookstore he was introduced to the philosophy of Socrates and, later, an Athenian philosopher named Crates.
@@ -47,6 +46,7 @@ Source: [[The Daily Stoic]] · [Original](https://openlibrary.org/works/OL200464
 - **Why it matters:** The shipwreck and the Athens bookstore are the origin story of Stoicism, so the place is the turning point of the entry. Without Athens, there is no school.
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5w4z9xwjzjhjs43s0548y)
 
 > Assan found the chief at the Taverna Antholis, trying to enjoy his morning coffee.
@@ -56,6 +56,7 @@ Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/unco
 - **Why it matters:** It is where the escape to America is secured.
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
+
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgre3gwzy68cad3av2eg9y)
 
 > My first delivery was by the port of Piraeus, not too far from where the ferry had dropped us off when we’d come from Leros.

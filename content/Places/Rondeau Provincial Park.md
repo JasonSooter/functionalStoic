@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Rondeau Provincial Park
-created: 2026-10-23T02:03:45.720Z
-modified: 2026-10-23T02:03:45.720Z
-published: 2026-10-23T02:03:45.720Z
+created: 2026-10-23T02:03:46.000Z
+modified: 2026-10-23T02:03:46.000Z
+published: 2026-10-23T02:03:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - How to Bug a Bug
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 42.2833
   - -81.8667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ontario]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Ontario]]"
 Park on a sand spit in Lake Erie, southwestern Ontario. Atlas Obscura describes its annual monarch-tagging festival.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Bug a Bug | Jessica Leigh Hester | setting | The park hosts an annual monarch tagging festival in sand dunes, marsh and gardens. |
 
 ## How to Bug a Bug — Jessica Leigh Hester (2018)
+
 Source: [Original](https://www.atlasobscura.com/articles/how-to-tag-a-butterfly) · [Readwise highlight](https://read.readwise.io/read/01m5k7gtyhcgxv9aaj1k36xsrz)
 
 > Countless monarchs lay eggs there each summer, on milkweed plants close to the shore of Lake Erie. Every fall, naturalists and volunteers do their best to intercept close to 1,000 of them, press a sticker on each one, and send it on its way.

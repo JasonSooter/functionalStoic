@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Göttingen
-created: 2026-10-22T22:36:35.775Z
-modified: 2026-10-22T22:36:35.775Z
-published: 2026-10-22T22:36:35.775Z
+created: 2026-10-22T22:36:36.000Z
+modified: 2026-10-22T22:36:36.000Z
+published: 2026-10-22T22:36:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Poverty What Does It Mean To Be Poor?
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 51.5339
   - 9.9356
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Lower Saxony]]"
 ---
 
@@ -28,14 +28,17 @@ within: "[[Lower Saxony]]"
 University town in Lower Saxony, Germany. Der Spiegel's poverty report visits a family near the town whose middle-class house hides poverty.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Poverty What Does It Mean To Be Poor? | DER SPIEGEL | setting | The Ehlers family's pleasant house looks middle-class, yet the mortgage is unaffordable with a fourth child and they fall through a gap… |
 
 ## Sub-places
+
 _None yet._
 
 ## Poverty What Does It Mean To Be Poor? — DER SPIEGEL (2016)
+
 Source: [Original](https://www.spiegel.de/international/tomorrow/a-1093371.html) · [Readwise highlight](https://read.readwise.io/read/01m5jvr4m42bcxc2vhpv5w7d6z)
 
 > They live in a white house near the university town of Göttingen. Rabbits hop around in the backyard, a wooden horse stands on the patio and buzzing can be heard from a beehive.

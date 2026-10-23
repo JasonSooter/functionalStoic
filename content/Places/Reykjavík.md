@@ -1,14 +1,17 @@
 ---
 publish: true
-title: Reykjavík
-created: 2026-10-21T22:26:19.000Z
-modified: 2026-10-23T05:01:15.167Z
-published: 2026-10-23T05:01:15.167Z
 aliases:
   - Reykjavik
+title: Reykjavík
+created: 2026-10-21T22:26:19.000Z
+modified: 2026-10-23T05:01:15.000Z
+published: 2026-10-23T05:01:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Comfort Crisis]]"
-  - "[[Journey to the Centre of the Earth]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +21,6 @@ icon: book
 location:
   - 64.1458
   - -21.9425
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iceland]]"
 ---
 
@@ -30,15 +29,18 @@ within: "[[Iceland]]"
 Capital of [[Iceland]]. In The Comfort Crisis (Michael Easter) he goes there to meet the founder of the genetics firm deCODE about Icelandic longevity.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | turning point | Easter visits deCODE's founder, who drives him round the city explaining his search for a longevity gene. |
 | [[Journey to the Centre of the Earth]] | Jules Verne | journey waypoint | The expedition's Icelandic base: lodgings with Mr Fridriksson and the hiring of the guide Hans. |
 
 ## Sub-places
+
 - [[Vesturbæjarlaug]]
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5g8w8ekdecs1z9ekcdbzdfj)
 
 > Stefansson ran the Harvard neurology department for a while, until he left to open deCODE, a 190-scientist-strong genetic research company housed in a modern mega-laboratory in Reykjavik.
@@ -48,6 +50,7 @@ Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/
 - **Why it matters:** This trip supplies the book's closing argument about hardship and long life.
 
 ## Journey to the Centre of the Earth — Jules Verne (1864)
+
 Source: [[Journey to the Centre of the Earth]] · [Original](https://openlibrary.org/works/OL16820479W) · [Readwise highlight](https://read.readwise.io/read/01m5khvjv4m5wdd5af3w7p7sm4)
 
 > The town stretches out over rather low and marshy ground between two hills. A huge lava bed protects it on one side as it descends in gentle stages towards the sea.

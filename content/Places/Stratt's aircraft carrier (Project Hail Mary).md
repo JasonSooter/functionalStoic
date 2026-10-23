@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Stratt's aircraft carrier (Project Hail Mary)
-created: 2026-10-22T22:36:49.839Z
-modified: 2026-10-22T22:36:49.839Z
-published: 2026-10-22T22:36:49.839Z
+created: 2026-10-22T22:36:50.000Z
+modified: 2026-10-22T22:36:50.000Z
+published: 2026-10-22T22:36:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -18,10 +22,6 @@ icon: book
 location:
   - 12
   - 113
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South China Sea]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[South China Sea]]"
 Fictional Chinese aircraft carrier, Stratt's Vat, cruising the South China Sea in Project Hail Mary. The mission is planned and the spin drive tested on board.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | Grace lands on the carrier by helicopter, is led through its passageways to an officer's conference room, and presents his breeding… |
 
 ## Project Hail Mary — Andy Weir (2021)
+
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvsjnx2tcht6ekmr0ccpyr)
 
 > Despite objections from the sailors aboard, the name stuck. We wandered around the South China Sea, never getting too close to land.

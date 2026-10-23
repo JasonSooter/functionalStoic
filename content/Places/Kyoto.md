@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Kyoto
-created: 2026-10-23T02:24:47.965Z
-modified: 2026-10-23T04:28:40.010Z
-published: 2026-10-23T04:28:40.010Z
+created: 2026-10-23T04:28:40.000Z
+modified: 2026-10-23T04:28:40.000Z
+published: 2026-10-23T04:28:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Japan]]"
 ---
 

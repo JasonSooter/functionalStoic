@@ -2,12 +2,15 @@
 publish: true
 title: Richmond, London
 created: 2026-10-22T13:41:18.000Z
-modified: 2026-10-23T01:37:23.287Z
-published: 2026-10-23T01:37:23.287Z
+modified: 2026-10-23T01:37:23.000Z
+published: 2026-10-23T01:37:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air [revised & updated 2nd edition]
-  - How Virginia Woolf and Vita Sackville-West Fell in Love
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +20,6 @@ icon: book
 location:
   - 51.456
   - -0.301
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -32,7 +31,7 @@ Riverside suburb in south-west London; in _Life on Air_ Attenborough's family ho
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air [revised & updated 2nd edition] | David Attenborough | setting | Attenborough's family home fills with animals from his expeditions. |
+| Life on Air \[revised & updated 2nd edition] | David Attenborough | setting | Attenborough's family home fills with animals from his expeditions. |
 | How Virginia Woolf and Vita Sackville-West Fell in Love | Maria Popova | setting | After meeting Woolf in December 1922, Vita reports being invited to Richmond, where Woolf lived |
 
 ## Sub-places
@@ -40,7 +39,8 @@ Riverside suburb in south-west London; in _Life on Air_ Attenborough's family ho
 - [[Hampton Court House]]
 - [[The Time Traveller's house (The Time Machine)]]
 
-## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx22q765arknnwa6cq9bx3)
 
 > So after each Zoo Quest trip, our menagerie m Richmond expanded
@@ -50,6 +50,7 @@ Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Re
 - **Why it matters:** Domestic counterpart of the expeditions and where the animals are cared for; a lively but anecdotal setting.
 
 ## How Virginia Woolf and Vita Sackville-West Fell in Love — Maria Popova (2016)
+
 Source: [Original](https://www.brainpickings.org/2016/07/28/virginia-woolf-vita-sackville-west/) · [Readwise highlight](https://read.readwise.io/read/01m5jx8a9tyyxkxdedch41tg8r)
 
 > At least, she asked me to Richmond where she lives. Darling, I have quite lost my heart.

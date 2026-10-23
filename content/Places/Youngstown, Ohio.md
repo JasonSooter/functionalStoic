@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Youngstown, Ohio
-created: 2026-10-23T02:03:12.481Z
-modified: 2026-10-23T02:03:12.481Z
-published: 2026-10-23T02:03:12.481Z
+created: 2026-10-23T02:03:12.000Z
+modified: 2026-10-23T02:03:12.000Z
+published: 2026-10-23T02:03:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - A World Without Work
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 41.0991
   - -80.6459
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ohio]]"
 ---
 
@@ -28,14 +28,17 @@ within: "[[Ohio]]"
 Former steel city in northeast Ohio. Derek Thompson's Atlantic essay 'A World Without Work' makes it the national symbol of work disappearing.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A World Without Work | Derek Thompson | subject | The author travels to Youngstown as a national metaphor for the decline of labor. |
 
 ## Sub-places
+
 - [[Royal Oaks (Youngstown)]]
 
 ## A World Without Work — Derek Thompson (2015)
+
 Source: [Original](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/) · [Readwise highlight](https://read.readwise.io/read/01m5k7ebzmsdgpeksk4z8pq5s5)
 
 > The end of work is still just a futuristic concept for most of the United States, but it is something like a moment in history for Youngstown, Ohio, one its residents can cite with precision: September 19, 1977.

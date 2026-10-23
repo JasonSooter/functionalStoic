@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Menlo Park
-created: 2026-10-22T22:37:04.711Z
-modified: 2026-10-22T23:16:37.401Z
-published: 2026-10-22T23:16:37.401Z
+created: 2026-10-22T23:16:37.000Z
+modified: 2026-10-22T23:16:37.000Z
+published: 2026-10-22T23:16:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 

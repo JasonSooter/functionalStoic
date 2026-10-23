@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Sistine Chapel
-created: 2026-10-23T04:25:03.275Z
-modified: 2026-10-23T04:25:03.275Z
-published: 2026-10-23T04:25:03.275Z
 aliases:
   - Cappella Sistina
+title: Sistine Chapel
+created: 2026-10-23T04:25:03.000Z
+modified: 2026-10-23T04:25:03.000Z
+published: 2026-10-23T04:25:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 41.9031
   - 12.4544
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rome]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Rome]]"
 Chapel in the Apostolic Palace, Vatican City. In _Surely You're Joking, Mr. Feynman!_ the amateur artist Feynman tests his eye there, and his guidebook confirms his verdicts.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | turning point | Feynman has the chapel briefly to himself and picks out two weak panels, which his guidebook confirms. |
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
+
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfqyrqtyt576x8ezay5mh4)
 
 > The summer after the drawing class I was in Italy for a science conference and I thought I’d like to see the Sistine Chapel. I got there very early in the morning, bought my ticket before anybody else, and ran up the stairs as soon as the place opened.

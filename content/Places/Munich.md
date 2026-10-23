@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Munich
-created: 2026-10-20T07:53:28.000Z
-modified: 2026-10-23T01:37:06.501Z
-published: 2026-10-23T01:37:06.501Z
 aliases:
   - München
+title: Munich
+created: 2026-10-20T07:53:28.000Z
+modified: 2026-10-23T01:37:07.000Z
+published: 2026-10-23T01:37:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bavaria]]"
 ---
 

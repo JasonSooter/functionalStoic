@@ -2,12 +2,15 @@
 publish: true
 title: San Diego
 created: 2026-10-22T10:46:24.000Z
-modified: 2026-10-22T22:59:29.108Z
-published: 2026-10-22T22:59:29.108Z
+modified: 2026-10-22T22:59:29.000Z
+published: 2026-10-22T22:59:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Captains Courageous
-  - Six Cities
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +20,6 @@ icon: book
 location:
   - 32.715
   - -117.1625
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -36,6 +35,7 @@ City in southern [[California]]. In Captains Courageous (Rudyard Kipling) Harvey
 | Six Cities | Shawni Danner | journey waypoint | She drives down, splits time between a housesit and an AirBnB, works from the beach and concludes she could live there |
 
 ## Captains Courageous — Rudyard Kipling (1897)
+
 Source: [Original](https://openlibrary.org/works/OL20173W) · [Readwise highlight](https://read.readwise.io/read/01m5gapgw6ygna8m64t44qdjx4)
 
 > He had taken the wife to his raw new palace in San Diego, where she and her people occupied a wing of great price
@@ -50,6 +50,7 @@ Source: [Original](https://openlibrary.org/works/OL20173W) · [Readwise highligh
 - [[San Diego Zoo]]
 
 ## Six Cities — Shawni Danner (2016)
+
 Source: [Original](https://shift.infinite.red/six-cities-one-job-719d02369338) · [Readwise highlight](https://read.readwise.io/read/01m5jx859rxpdattkh117w8s0r)
 
 > It was amazing and I absolutely love it there. The weather is perfect, the sun is out from basically noon or 1pm on and it’s quite livable.

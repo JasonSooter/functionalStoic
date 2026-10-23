@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Chiemsee
-created: 2026-10-22T22:36:22.976Z
-modified: 2026-10-22T22:36:22.976Z
-published: 2026-10-22T22:36:22.976Z
+created: 2026-10-22T22:36:23.000Z
+modified: 2026-10-22T22:36:23.000Z
+published: 2026-10-22T22:36:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Poverty What Does It Mean To Be Poor?
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 47.89
   - 12.47
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bavaria]]"
 ---
 
@@ -28,14 +28,17 @@ within: "[[Bavaria]]"
 Large lake in Bavaria at the edge of the Alps. In Der Spiegel's poverty report it is where a retiree once owned a lakeside house, lost to foreclosure.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Poverty What Does It Mean To Be Poor? | DER SPIEGEL | backdrop | The inherited lakeside house is part of Huber's former prosperity; he loses it in a foreclosure after his business collapses in the 1990s |
 
 ## Sub-places
+
 _None yet._
 
 ## Poverty What Does It Mean To Be Poor? — DER SPIEGEL (2016)
+
 Source: [Original](https://www.spiegel.de/international/tomorrow/a-1093371.html) · [Readwise highlight](https://read.readwise.io/read/01m5jvr433wdqvhmjda4hvzyn5)
 
 > He had retirement insurance and had inherited a house from his parents on a large piece of property on the shores of popular Lake Chiemsee, at the edge of the Alps south of Munich.

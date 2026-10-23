@@ -1,19 +1,19 @@
 ---
 publish: true
 title: Queens
-created: 2026-10-23T01:33:16.446Z
-modified: 2026-10-23T04:28:31.464Z
-published: 2026-10-23T04:28:31.464Z
+created: 2026-10-23T04:28:31.000Z
+modified: 2026-10-23T04:28:31.000Z
+published: 2026-10-23T04:28:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 ---
 

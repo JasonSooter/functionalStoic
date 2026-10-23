@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Santa Cruz Island
-created: 2026-10-22T23:16:36.701Z
-modified: 2026-10-22T23:16:36.701Z
-published: 2026-10-22T23:16:36.701Z
+created: 2026-10-22T23:16:37.000Z
+modified: 2026-10-22T23:16:37.000Z
+published: 2026-10-22T23:16:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - All Queens Must Die - The Verge
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 34
   - -119.7167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -29,14 +29,17 @@ within: "[[California]]"
 Largest of California's Channel Islands. The Verge follows the eradication of introduced animals and Argentine ants there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | All Queens Must Die - The Verge | Ryan Bradley | subject | The island is where cows, sheep, bees, pigs and turkeys were eradicated in turn, and where Christina Boser now plans to poison Argentine… |
 
 ## Sub-places
+
 _None yet._
 
 ## All Queens Must Die - The Verge — Ryan Bradley (2016)
+
 Source: [Original](https://www.theverge.com/2016/8/25/12608928/santa-cruz-island-argentine-ants-extermination-nature-conservancy) · [Readwise highlight](https://read.readwise.io/read/01m5jy7f7f4m9kngfehn3t4ym0)
 
 > The sheep were trickier. There were a lot more of them, something like 40,000, grazing over 96 square miles of mountainous island covered in dense chaparral, little oak woodlands, deep canyons, towering cliffs, and some of the largest sea caves in the world.

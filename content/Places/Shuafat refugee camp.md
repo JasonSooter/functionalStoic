@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Shuafat refugee camp
-created: 2026-10-22T16:49:06.000Z
-modified: 2026-10-22T20:03:24.840Z
-published: 2026-10-22T20:03:24.840Z
 aliases:
   - Shu'fat refugee camp
   - Shu'fat camp
+title: Shuafat refugee camp
+created: 2026-10-22T16:49:06.000Z
+modified: 2026-10-22T20:03:25.000Z
+published: 2026-10-22T20:03:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Apeirogon]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 31.8123
   - 35.2465
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jerusalem]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Jerusalem]]"
 Palestinian refugee camp in East Jerusalem beside Anata. A place of checkpoints and building upward in _Apeirogon_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | backdrop | Easy to enter by the revolving gate, hard to leave: the checkpoint defines who reaches Jerusalem. |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7w0q8a4fbbpypm7whgwnz)
 
 > It is easy to get into the camp—just slide through the metal revolving gate at the checkpoint and walk down the road—but it is tougher to get out.

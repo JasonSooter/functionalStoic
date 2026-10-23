@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Kirkdale Cave
-created: 2026-10-22T19:57:29.104Z
-modified: 2026-10-22T19:57:29.104Z
-published: 2026-10-22T19:57:29.104Z
+created: 2026-10-22T19:57:29.000Z
+modified: 2026-10-22T19:57:29.000Z
+published: 2026-10-22T19:57:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Not All Practice Makes Perfect
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 54.2616
   - -0.9601
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[England]]"
 Cave in North Yorkshire, England, known for its Ice Age hyena bones. A subject in Anders Ericsson & Robert Pool's “Not All Practice Makes Perfect”: Cave where Buckland founded coprolite study; a hyena den, not Noah's flood.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Not All Practice Makes Perfect | Anders Ericsson & Robert Pool | subject | Cave where Buckland founded coprolite study; a hyena den, not Noah's flood |
 
 ## Not All Practice Makes Perfect — Anders Ericsson & Robert Pool (2016)
+
 Source: [Original](http://nautil.us/issue/35/boundaries/not-all-practice-makes-perfect) · [Readwise highlight](https://read.readwise.io/read/01m5jjqmg5g4k9ax42h9s8s8xm)
 
 > Buckland became the father of the field after studying remains in Great Britain’s Kirkdale Cave, thought to be prime evidence of Noah’s flood.

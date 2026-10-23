@@ -1,9 +1,13 @@
 ---
 publish: true
 title: St Burchardi Church (Halberstadt)
-created: 2026-10-22T19:57:05.166Z
-modified: 2026-10-22T19:57:05.166Z
-published: 2026-10-22T19:57:05.166Z
+created: 2026-10-22T19:57:05.000Z
+modified: 2026-10-22T19:57:05.000Z
+published: 2026-10-22T19:57:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 51.9014
   - 11.0422
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Germany]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Germany]]"
 Church in Halberstadt, Germany, home of the slowest organ performance in the world. A backdrop in Colum McCann's _Apeirogon_: Church housing the 639-year organ performance of Cage's As Slow as Possible, an image of endless duration.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | backdrop | Church housing the 639-year organ performance of Cage's As Slow as Possible, an image of endless duration. |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqqbc1x9x57bhzc83mzw5)
 
 > Seven centuries later, a John Cage piece was due to be performed at the cathedral.

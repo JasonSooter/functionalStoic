@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Sally's Diner (Project Hail Mary)
-created: 2026-10-22T22:36:48.739Z
-modified: 2026-10-22T22:36:48.739Z
-published: 2026-10-22T22:36:48.739Z
+created: 2026-10-22T22:36:49.000Z
+modified: 2026-10-22T22:36:49.000Z
+published: 2026-10-22T22:36:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -18,10 +22,6 @@ icon: book
 location:
   - 37.7775
   - -122.4164
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[San Francisco]]"
 Fictional diner in San Francisco. In Project Hail Mary Grace reads the first email about the Petrova line over breakfast there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | In the first flashback Grace eats his usual eggs-and-bacon breakfast here, reads Irina Petrova's email about the infrared line, and is… |
 
 ## Project Hail Mary — Andy Weir (2021)
+
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvs8ajydv82rpjnwkfn325)
 
 > I sipped my coffee, popped the last fragment of toast into my mouth, and signaled the waitress for my check.

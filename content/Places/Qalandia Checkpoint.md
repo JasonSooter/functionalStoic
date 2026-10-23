@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Qalandia Checkpoint
-created: 2026-10-22T19:56:21.995Z
-modified: 2026-10-22T19:56:21.995Z
-published: 2026-10-22T19:56:21.995Z
+created: 2026-10-22T19:56:22.000Z
+modified: 2026-10-22T19:56:22.000Z
+published: 2026-10-22T19:56:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 31.862
   - 35.228
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jerusalem]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Jerusalem]]"
 Israeli checkpoint between Jerusalem and Ramallah in the West Bank. A backdrop in Colum McCann's _Apeirogon_: Qalandia's Humanitarian lane: prefab hut, a sign reading The Hope of Us All, gate open forty-five minutes a day.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | backdrop | Qalandia's Humanitarian lane: prefab hut, a sign reading The Hope of Us All, gate open forty-five minutes a day. |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjpxc3kkjys3894f0fs37q)
 
 > The Humanitarian lane at Qalandia checkpoint—for women, children, the elderly and the sick—is a prefab hut with a bathroom and a watercooler.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Longpao
-created: 2026-10-22T19:57:50.761Z
-modified: 2026-10-22T19:57:50.761Z
-published: 2026-10-22T19:57:50.761Z
+created: 2026-10-22T19:57:51.000Z
+modified: 2026-10-22T19:57:51.000Z
+published: 2026-10-22T19:57:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Capturing the Plight of Rural China’s ‘Left Behind’ Children
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 32.2048
   - 118.949
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[China]]"
 Subdistrict near Nanjing, Jiangsu, China. A setting in Joseph Bien-Kahn's “Capturing the Plight of Rural China’s ‘Left Behind’ Children”: Rural village near Nanjing where the documentary and mentorship program were set.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Capturing the Plight of Rural China’s ‘Left Behind’ Children | Joseph Bien-Kahn | setting | Rural village near Nanjing where the documentary and mentorship program were set |
 
 ## Capturing the Plight of Rural China’s ‘Left Behind’ Children — Joseph Bien-Kahn (2016)
+
 Source: [Original](http://www.good.is/posts/china-left-behind-children) · [Readwise highlight](https://read.readwise.io/read/01m5jjrb0xqvj1nhtz4p4eje46)
 
 > A few months later, they were all in Longpao, a rural village near Nanjing, where they made the 18-minute “Left Behind,” released earlier this month.

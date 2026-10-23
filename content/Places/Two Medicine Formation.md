@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Two Medicine Formation
-created: 2026-10-22T19:57:19.703Z
-modified: 2026-10-22T19:57:19.703Z
-published: 2026-10-22T19:57:19.703Z
+created: 2026-10-22T19:57:20.000Z
+modified: 2026-10-22T19:57:20.000Z
+published: 2026-10-22T19:57:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Not All Practice Makes Perfect
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 48.0742
   - -112.2994
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Montana]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Montana]]"
 Geological formation in north-west Montana, rich in dinosaur fossils. A setting in Anders Ericsson & Robert Pool's “Not All Practice Makes Perfect”: Montana outcropping where Chin identified dinosaur coprolites with dung beetle burrows.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Not All Practice Makes Perfect | Anders Ericsson & Robert Pool | setting | Montana outcropping where Chin identified dinosaur coprolites with dung beetle burrows |
 
 ## Not All Practice Makes Perfect — Anders Ericsson & Robert Pool (2016)
+
 Source: [Original](http://nautil.us/issue/35/boundaries/not-all-practice-makes-perfect) · [Readwise highlight](https://read.readwise.io/read/01m5jjqkgarv6b156hmptfkfjt)
 
 > They were working with fossils found in Montana’s Two Medicine Formation, a sandstone outcropping that Horner was exploring.

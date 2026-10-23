@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Fjord (Independent People)
-created: 2026-10-23T04:49:36.659Z
-modified: 2026-10-23T04:49:36.659Z
-published: 2026-10-23T04:49:36.659Z
 aliases:
   - Fjord
+title: Fjord (Independent People)
+created: 2026-10-23T04:49:37.000Z
+modified: 2026-10-23T04:49:37.000Z
+published: 2026-10-23T04:49:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Independent People]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 65.6833
   - -18.1
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Akureyri]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Akureyri]]"
 The fictional trading town at the head of a fjord in _Independent People_, where Bjartur sells his wool and runs up debts with the merchant. Pinned at Akureyri as a best guess.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Independent People]] | Halldór Laxness | setting | The market town over the heath: Bruni's shop, the co-operative, the Sheriff, the harbour strike and the hovels of Sandeyri. |
 
 ## Independent People — Halldór Laxness (1934)
+
 Source: [[Independent People]] · [Original](https://openlibrary.org/works/OL757983W) · [Readwise highlight](https://read.readwise.io/read/01m5khcnk8xvjpt6k8k6jarx5c)
 
 > The high heath in the east, over which lies the road down to the market town on the fjord, is considered a five hours’ crossing with pack-horses.

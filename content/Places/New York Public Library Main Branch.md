@@ -2,12 +2,15 @@
 publish: true
 title: New York Public Library Main Branch
 created: 2026-10-21T10:49:08.000Z
-modified: 2026-10-23T01:35:46.504Z
-published: 2026-10-23T01:35:46.504Z
+modified: 2026-10-23T01:35:47.000Z
+published: 2026-10-23T01:35:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Daily Stoic]]"
-  - "[[Uncommon Type]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +20,6 @@ icon: book
 location:
   - 40.7531
   - -73.9819
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -36,6 +35,7 @@ The New York Public Library's main building on Fifth Avenue at 42nd Street, Manh
 | [[Uncommon Type]] | Tom Hanks | turning point | Sue goes to rent a typewriter for her résumé, but the library is closed on Mondays. |
 
 ## The Daily Stoic — Ryan Holiday and Stephen Hanselman (2016)
+
 Source: [[The Daily Stoic]] · [Original](https://openlibrary.org/works/OL20046443W) · [Readwise highlight](https://read.readwise.io/read/01m5f0qkav52ghk8kssdkwz0s0)
 
 > The library itself was designed by the firm of John Merven Carrère, one of the twentieth century’s most accomplished architects.
@@ -45,6 +45,7 @@ Source: [[The Daily Stoic]] · [Original](https://openlibrary.org/works/OL200464
 - **Why it matters:** The building is the entry's main exhibit; its plaques and names carry the argument.
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5vcwz2aqkkb8vrvzhd77v)
 
 > The exact moment Sue discovered that the Main Library was closed on Mondays, a flash of lightning bleached the scraped sky of Mid-Manhattan.

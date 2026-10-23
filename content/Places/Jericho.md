@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Jericho
-created: 2026-10-22T19:57:12.763Z
-modified: 2026-10-22T19:57:12.763Z
-published: 2026-10-22T19:57:12.763Z
+created: 2026-10-22T19:57:13.000Z
+modified: 2026-10-22T19:57:13.000Z
+published: 2026-10-22T19:57:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 31.8561
   - 35.46
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Bank]]"
 ---
 
@@ -28,15 +28,18 @@ within: "[[West Bank]]"
 Oasis city near the Dead Sea in the West Bank. A setting in Colum McCann's _Apeirogon_: Bassam's walled home and orchard in Jericho: the book's final scene of night watering and the porch with Salwa.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Bassam's walled home and orchard in Jericho: the book's final scene of night watering and the porch with Salwa. |
 
 ## Sub-places
+
 - [[Allenby Bridge]]
 - [[Oasis Casino Hotel]]
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjr0f7tj0vkxrk3mdenskb)
 
 > Bassam glances back to see an overturned bucket fallen from the porch. No matter. In the morning he will collect the fruit: even in winter the Jericho trees bloom.

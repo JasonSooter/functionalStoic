@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Ushuaia
-created: 2026-10-22T19:58:08.522Z
-modified: 2026-10-22T19:58:08.522Z
-published: 2026-10-22T19:58:08.522Z
+created: 2026-10-22T19:58:09.000Z
+modified: 2026-10-22T19:58:09.000Z
+published: 2026-10-22T19:58:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - These Extreme Travelers Fulfilled Their Craziest Dreams
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - -54.8072
   - -68.3081
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Argentina]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Argentina]]"
 City on Tierra del Fuego, Argentina, often called the southernmost city in the world. A journey waypoint in Karen Emslie's “These Extreme Travelers Fulfilled Their Craziest Dreams”: Southern Argentine port city where Philbert hunts for a boat to Antarctica.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | These Extreme Travelers Fulfilled Their Craziest Dreams | Karen Emslie | journey waypoint | Southern Argentine port city where Philbert hunts for a boat to Antarctica |
 
 ## These Extreme Travelers Fulfilled Their Craziest Dreams — Karen Emslie (2016)
+
 Source: [Original](http://www.good.is/posts/find-yourself-with-extreme-travel) · [Readwise highlight](https://read.readwise.io/read/01m5jjrpfyp56091mj3zjy7y0k)
 
 > She trekked down the Atlantic coast and through the wild Patagonian desert to Ushuaia, the world’s most southern city and the starting point for many Antarctica voyages.

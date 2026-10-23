@@ -2,18 +2,18 @@
 publish: true
 title: Jerusalem
 created: 2026-10-21T05:08:24.000Z
-modified: 2026-10-22T19:57:22.795Z
-published: 2026-10-22T19:57:22.795Z
+modified: 2026-10-22T19:57:23.000Z
+published: 2026-10-22T19:57:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Jerusalem

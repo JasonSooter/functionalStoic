@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Nissan (river)
-created: 2026-10-23T04:41:17.224Z
-modified: 2026-10-23T04:41:17.224Z
-published: 2026-10-23T04:41:17.224Z
 aliases:
   - Nissan River
+title: Nissan (river)
+created: 2026-10-23T04:41:17.000Z
+modified: 2026-10-23T04:41:17.000Z
+published: 2026-10-23T04:41:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Little Book of Hygge - The Danish Way to Live Well]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 56.6556
   - 12.85
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sweden]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Sweden]]"
 River in Småland and Halland, southern Sweden, flowing into the sea at Halmstad. In _The Little Book of Hygge_ Meik Wiking camps beside it with friends on a canoe trip.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Little Book of Hygge - The Danish Way to Live Well\|The Little Book of Hygge: The Danish Way to Live Well]] | Meik Wiking | setting | A canoe trip and campfire under the stars, which Wiking calls "pure hygge". |
 
 ## The Little Book of Hygge: The Danish Way to Live Well — Meik Wiking (2016)
+
 Source: [[The Little Book of Hygge - The Danish Way to Live Well]] · [Original](https://openlibrary.org/works/OL19352003W) · [Readwise highlight](https://read.readwise.io/read/01jr5wzem0px771ks62wbe9jem)
 
 > One summer I went camping with a group of friends along the Nissan River in Sweden.

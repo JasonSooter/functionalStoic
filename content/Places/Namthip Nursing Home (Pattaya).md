@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Namthip Nursing Home (Pattaya)
-created: 2026-10-22T20:37:45.430Z
-modified: 2026-10-22T20:37:45.430Z
-published: 2026-10-22T20:37:45.430Z
+created: 2026-10-22T20:37:45.000Z
+modified: 2026-10-22T20:37:45.000Z
+published: 2026-10-22T20:37:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Long-term Care Options for Early Retirees
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 12.9357
   - 100.889
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Thailand]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Thailand]]"
 Nursing home in Pattaya, Thailand. A subject in Retire by 40's “Long-term Care Options for Early Retirees”: Pattaya nursing home the author researched as a cheap long-term-care option for his father, about 50,000 baht a month.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Long-term Care Options for Early Retirees | Retire by 40 | subject | Pattaya nursing home the author researched as a cheap long-term-care option for his father, about 50,000 baht a month. |
 
 ## Long-term Care Options for Early Retirees — Retire by 40 (2016)
+
 Source: [Original](https://retireby40.org/long-term-care-options-early-retirees/) · [Readwise highlight](https://read.readwise.io/read/01m5jkyzg7xnag5fbsmqxh8p4g)
 
 > Namthip Nursing Home in Pattaya – This one seems like a typical nursing home that can accommodate foreigners.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Lammi
-created: 2026-10-23T05:12:31.341Z
-modified: 2026-10-23T05:12:31.341Z
-published: 2026-10-23T05:12:31.341Z
+created: 2026-10-23T05:12:31.000Z
+modified: 2026-10-23T05:12:31.000Z
+published: 2026-10-23T05:12:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Nordic Theory of Everything]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 61.0792
   - 25.0111
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Finland]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Finland]]"
 Small town in Häme, southern Finland. In _The Nordic Theory of Everything_ Partanen interviews there an American woman with a chronic illness about Finland's public health care.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Nordic Theory of Everything]] | Anu Partanen | setting | An American living in a small Finnish town describes near-complete public health coverage at tiny cost. |
 
 ## The Nordic Theory of Everything — Anu Partanen (2016)
+
 Source: [[The Nordic Theory of Everything]] · [Original](https://openlibrary.org/works/OL20028831W) · [Readwise highlight](https://read.readwise.io/read/01m5kjfqy30g1pg0p74az9xws8)
 
 > The hour-and-a-half drive from Helsinki to Lammi, a Finnish town of about five thousand people, runs on roads winding through farmland and past bright-red barns.

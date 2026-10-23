@@ -1,9 +1,13 @@
 ---
 publish: true
 title: The German city (Apeirogon)
-created: 2026-10-22T19:57:02.678Z
-modified: 2026-10-22T19:57:02.678Z
-published: 2026-10-22T19:57:02.678Z
+created: 2026-10-22T19:57:03.000Z
+modified: 2026-10-22T19:57:03.000Z
+published: 2026-10-22T19:57:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -18,10 +22,6 @@ icon: book
 location:
   - 50.1106
   - 8.6822
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Frankfurt]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Frankfurt]]"
 Unnamed German city in _Apeirogon_, inferred to be Frankfurt am Main. A journey waypoint in Colum McCann's _Apeirogon_: First stop of the German tour; Rami expects darkness and finds glass towers, the Main river and attentive audiences.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | journey waypoint | First stop of the German tour; Rami expects darkness and finds glass towers, the Main river and attentive audiences. |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqkxf3ayr35p1z66v2ffr)
 
 > He walked by the Main river. The height of the skyline surprised him.

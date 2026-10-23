@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Seehaus (Englischer Garten)
-created: 2026-10-22T22:36:29.968Z
-modified: 2026-10-22T22:36:29.968Z
-published: 2026-10-22T22:36:29.968Z
+created: 2026-10-22T22:36:30.000Z
+modified: 2026-10-22T22:36:30.000Z
+published: 2026-10-22T22:36:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Poverty What Does It Mean To Be Poor?
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 48.1606
   - 11.598
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Munich]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Munich]]"
 Beer garden on the Kleinhesseloher See in Munich's English Garden. Der Spiegel's report on German poverty opens with a long-term welfare recipient's day there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Poverty What Does It Mean To Be Poor? | DER SPIEGEL | setting | Retiree Manfred Huber, on welfare for 20 years, returns to Seehaus for a day, paid for by someone else, over a beer, obatzda and pretzel |
 
 ## Poverty What Does It Mean To Be Poor? — DER SPIEGEL (2016)
+
 Source: [Original](https://www.spiegel.de/international/tomorrow/a-1093371.html) · [Readwise highlight](https://read.readwise.io/read/01m5jvqazmy7btwmbe7wfmpgm9)
 
 > He's sitting in the beer garden on the bank of the Kleinhesseloher Lake in the city's massive English Garden. Just like he used to. At his favorite place.
