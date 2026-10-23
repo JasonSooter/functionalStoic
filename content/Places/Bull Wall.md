@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Bull Wall
-created: 2026-10-23T11:12:51.707Z
-modified: 2026-10-23T11:12:51.707Z
-published: 2026-10-23T11:12:51.707Z
 aliases:
   - North Bull Wall
   - Dollymount sands
+title: Bull Wall
+created: 2026-10-23T11:12:52.000Z
+modified: 2026-10-23T11:12:52.000Z
+published: 2026-10-23T11:12:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Country Girls Trilogy
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 53.3521
   - -6.1647
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dublin]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Dublin]]"
 The North Bull Wall, a sea wall at Clontarf on Dublin Bay leading to Bull Island and Dollymount Strand. In _The Country Girls Trilogy_ it is where Kate goes with both of her lovers.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | setting | The Clontarf sea wall and Dollymount sands, where Kate went 'first with Mr. Gentleman and then with him', both times in love. |
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
+
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m75xq6kvtzvzrwbgtvgnvd)
 
 > We had dinner that evening, and afterward we drove out to Clontarf and walked down by the Bull Wall, as it was a mild, misty November night.

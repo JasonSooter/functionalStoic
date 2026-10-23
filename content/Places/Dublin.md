@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Dublin
-created: 2026-10-20T07:37:20.000Z
-modified: 2026-10-23T11:14:59.823Z
-published: 2026-10-23T11:14:59.823Z
 aliases:
   - Baile Átha Cliath
+title: Dublin
+created: 2026-10-20T07:37:20.000Z
+modified: 2026-10-23T11:15:00.000Z
+published: 2026-10-23T11:15:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Ireland’s $27BN Mission to Save Dublin
   - The Country Girls Trilogy
@@ -17,10 +21,6 @@ icon: book
 location:
   - 53.35
   - -6.2603
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ireland]]"
 ---
 
@@ -47,7 +47,8 @@ Capital of Ireland, on the River Liffey ([[Ireland]]); it features in a B1M vide
 - [[Shelbourne Hotel]]
 - [[St Stephen's Green]]
 
-## Ireland’s $27BN Mission to Save Dublin — The B1M (2026)
+## Ireland’s \$27BN Mission to Save Dublin — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=T_Jz9xzOoO4) · [Readwise highlight](https://read.readwise.io/read/01m5c3nxywzz9faw9zvcm63p29)
 
 > Dublin’s population has grown by nearly a third since the turn of the century but its travel infrastructure
@@ -57,6 +58,7 @@ Source: [Original](https://www.youtube.com/watch?v=T_Jz9xzOoO4) · [Readwise hig
 - **Why it matters:** The whole video is about the city's transport problem. Its specific places, such as [[St Stephen's Green]] and Albert College Park, show what building the metro will cost the city's green spaces.
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
+
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m75rgvjy4qpkvmz4e22qmd)
 
 > We got in to Dublin just before six. It was still bright, and we carried our bags across the platform, stopping for a minute to let others pass by.

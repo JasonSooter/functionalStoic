@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Göbekli Tepe
-created: 2026-10-23T11:13:46.484Z
-modified: 2026-10-23T11:13:46.484Z
-published: 2026-10-23T11:13:46.484Z
+created: 2026-10-23T11:13:46.000Z
+modified: 2026-10-23T11:13:46.000Z
+published: 2026-10-23T11:13:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 37.2236
   - 38.9217
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Turkey]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Turkey]]"
 Göbekli Tepe is a Neolithic hilltop site near Şanlıurfa in south-east Turkey. In _Sapiens_ its forager-built pillars suggest that religion came before farming.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | Monumental pillars raised by foragers around 9500 BC, suggesting a temple came before farming. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75awcyetajsf5ted6vp6y)
 
 > In 1995 archaeologists began to excavate a site in south-east Turkey called Göbekli Tepe.

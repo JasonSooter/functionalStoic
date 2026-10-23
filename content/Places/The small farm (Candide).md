@@ -1,11 +1,15 @@
 ---
 publish: true
-title: The small farm (Candide)
-created: 2026-10-23T11:16:26.589Z
-modified: 2026-10-23T11:16:26.589Z
-published: 2026-10-23T11:16:26.589Z
 aliases:
   - Candide's farm
+title: The small farm (Candide)
+created: 2026-10-23T11:16:27.000Z
+modified: 2026-10-23T11:16:27.000Z
+published: 2026-10-23T11:16:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Candide]]"
 categories:
@@ -13,18 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 40.9778,27.5153
-geo_note: "inferred: Text puts the farm near Ragotsky's house on the Propontis; Rákóczi's\
-  \ real exile was at Tekirdağ (Rodosto); approximate (town centre of Tekirdağ, Rákóczi's\
-  \ place of exile)"
+geo_note: "inferred: Text puts the farm near Ragotsky's house on the Propontis; Rákóczi's real exile was at Tekirdağ (Rodosto); approximate (town centre of Tekirdağ, Rákóczi's place of exile)"
 geo_source: Wikipedia (en) Tekirdağ
 icon: book
 location:
   - 40.9778
   - 27.5153
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Turkey]]"
 ---
 
@@ -33,11 +31,13 @@ within: "[[Turkey]]"
 The small farm on the Sea of Marmara (the Propontis) where Voltaire's company settles at the end of _Candide_, near the exile house of the Transylvanian prince Rákóczi. It is where the book ends, with the company working their garden.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | setting | The farm on the Propontis where the company settles, quarrels from boredom, and learns to 'cultivate our garden' |
 
 ## Candide — Voltaire (1759)
+
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m765nqakrw3kg8tbbv4y7d)
 
 > they arrived at the house of the Transylvanian prince on the banks of the Propontis. The first objects which met their sight were Cunegonde and the old woman hanging towels out to dry.

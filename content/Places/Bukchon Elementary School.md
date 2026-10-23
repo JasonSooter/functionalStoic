@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Bukchon Elementary School
-created: 2026-10-23T07:45:51.020Z
-modified: 2026-10-23T07:45:51.020Z
-published: 2026-10-23T07:45:51.020Z
+created: 2026-10-23T07:45:51.000Z
+modified: 2026-10-23T07:45:51.000Z
+published: 2026-10-23T07:45:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Island of Sea Women
@@ -16,10 +20,6 @@ icon: book
 location:
   - 33.5476
   - 126.6919
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bukchon (Jeju)]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Bukchon (Jeju)]]"
 Primary school in Bukchon on Jeju's north coast, site of the Bukchon massacre of January 1949. In _The Island of Sea Women_ it is where Young-sook loses her husband and son.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Island of Sea Women | Lisa See | turning point | The 1949 massacre: Jun-bu and Sung-soo are shot and Mi-ja walks away. |
 
 ## The Island of Sea Women — Lisa See (2019)
+
 Source: [Original](https://openlibrary.org/works/OL19865296W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcjhzrrvz8bhk5t0zpcda)
 
 > We were steered through the school’s main gates. Husbands, brothers, and fathers were separated and pushed to the left.

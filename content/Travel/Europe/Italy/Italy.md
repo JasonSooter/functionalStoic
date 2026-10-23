@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Italy
-created: 2026-07-26T09:46:17.730Z
-modified: 2026-10-23T11:13:11.874Z
-published: 2026-10-23T11:13:11.874Z
 aliases:
   - Italia
+title: Italy
+created: 2026-07-26T09:46:17.730Z
+modified: 2026-10-23T11:13:12.000Z
+published: 2026-10-23T11:13:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
@@ -14,10 +18,6 @@ date created: 2026-07-26T11:46:17+02:00
 date modified: 2026-07-26T11:56:36+02:00
 icon: book
 linter-yaml-title-alias: Italy
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Italy

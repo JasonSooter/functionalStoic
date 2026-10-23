@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Nuremberg
-created: 2026-10-23T04:41:21.000Z
-modified: 2026-10-23T11:15:03.588Z
-published: 2026-10-23T11:15:03.588Z
 aliases:
   - Nürnberg
+title: Nuremberg
+created: 2026-10-23T04:41:21.000Z
+modified: 2026-10-23T11:15:04.000Z
+published: 2026-10-23T11:15:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Girl Who Drew Butterflies]]"
   - "[[Germany - Memories of a Nation]]"
@@ -18,10 +22,6 @@ icon: book
 location:
   - 49.4539
   - 11.0775
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Germany]]"
 ---
 
@@ -37,9 +37,11 @@ City in Franconia, Bavaria, Germany. In _The Girl Who Drew Butterflies_ it is wh
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Free city of the Imperial Crown, Dürer, precision metalwork and, later, the Nazi rallies. |
 
 ## Sub-places
+
 - [[Albrecht Dürer's House]]
 
 ## The Girl Who Drew Butterflies — Joyce Sidman (2018)
+
 Source: [[The Girl Who Drew Butterflies]] · [Original](https://openlibrary.org/works/OL19731743W) · [Readwise highlight](https://read.readwise.io/read/01m5kgrtfdavy9z9386eryghcd)
 
 > Instead, along with new baby Dorothea and ten-year-old Johanna, she visited the gardens near Nuremberg Castle—gathering, watching, learning.
@@ -49,6 +51,7 @@ Source: [[The Girl Who Drew Butterflies]] · [Original](https://openlibrary.org/
 - **Why it matters:** Nuremberg is the setting of her first books and growing research, and of the marriage she later leaves.
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75swbsaxczbsy1tjhyf3s)
 
 > But eventually, around 1500, when the Hapsburgs consolidated their hold on the Empire, it settled in Nuremberg, making that rich and powerful Free City in a very particular sense Imperial

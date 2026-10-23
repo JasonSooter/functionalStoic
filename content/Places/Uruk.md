@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Uruk
-created: 2026-10-23T11:15:53.904Z
-modified: 2026-10-23T11:15:53.904Z
-published: 2026-10-23T11:15:53.904Z
+created: 2026-10-23T11:15:54.000Z
+modified: 2026-10-23T11:15:54.000Z
+published: 2026-10-23T11:15:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 31.3242
   - 45.6372
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sumer]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Sumer]]"
 Uruk is an ancient Sumerian city in southern Iraq. In _Sapiens_ it supplies one of the earliest written tablets and the Gilgamesh story about accepting death.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | City of the earliest written records and of Gilgamesh, the king who failed to defeat death. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75q4mj69m7r3tpsx0s8yd)
 
 > Its hero is the strongest and most capable man in the world, King Gilgamesh of Uruk, who could defeat anyone in battle.

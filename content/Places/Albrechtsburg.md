@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Albrechtsburg
-created: 2026-10-23T11:12:29.752Z
-modified: 2026-10-23T11:12:29.752Z
-published: 2026-10-23T11:12:29.752Z
 aliases:
   - Albrechtsburg Meissen
+title: Albrechtsburg
+created: 2026-10-23T11:12:30.000Z
+modified: 2026-10-23T11:12:30.000Z
+published: 2026-10-23T11:12:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 51.1661
   - 13.4708
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Saxony]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Saxony]]"
 Late-Gothic castle above the Elbe in Meissen, Saxony, home of the first European porcelain factory from 1710. In _Germany: Memories of a Nation_ it is where Saxon porcelain was made in secret.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | turning point | Meissen castle where Augustus the Strong hid his new porcelain factory to keep the secret of 'white gold'. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m765v8zqffprzvbc0pdb9j)
 
 > But after some months the laboratory was too small, so he decided to move the manufactory to Meissen, to the Albrechtsburg, where it was secluded, because he wanted to preserve the secret, and the monopoly.

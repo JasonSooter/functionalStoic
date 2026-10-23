@@ -2,8 +2,13 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-10-23T11:13:10.706Z
-published: 2026-10-23T11:13:10.706Z
+modified: 2026-10-23T11:13:11.000Z
+published: 2026-10-23T11:13:11.000Z
+tags:
+  - places
+  - travel
+  - source/ai/claude
+  - place/literary
 aliases: []
 books:
   - How the West (and the Rest) Got Rich
@@ -20,11 +25,6 @@ linter-yaml-title-alias: England
 location:
   - 53.13
   - -1.38
-tags:
-  - places
-  - travel
-  - source/ai/claude
-  - place/literary
 ---
 
 # England
@@ -73,7 +73,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 
 ## Changelog
 
-- #🗓️/2026/09/23 Created from Readwise task `077d1e70` (`source/ai/claude`).
+- \#🗓️/2026/09/23 Created from Readwise task `077d1e70` (`source/ai/claude`).
 
 ## Action Items
 
@@ -121,11 +121,13 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Whitby]]
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How the West (and the Rest) Got Rich | Deirdre N. McCloskey | turning point | Second stage of the spread, associated with the Civil War of the 1640s and the liberal ideas of Hume and Smith |
 
 ## How the West (and the Rest) Got Rich — Deirdre N. McCloskey (2016)
+
 Source: [Original](http://www.wsj.com/articles/why-the-west-and-the-rest-got-rich-1463754427) · [Readwise highlight](https://read.readwise.io/read/01m5jvp1ekdw1kyes8d2dj2dvw)
 
 > Why did it all start at first in Holland about 1600 and then England about 1700 and then the North American colonies and England’s impoverished neighbor, Scotland, and then Belgium and northern France and the Rhineland?

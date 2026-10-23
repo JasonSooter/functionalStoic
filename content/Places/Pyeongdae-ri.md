@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Pyeongdae-ri
-created: 2026-10-23T07:47:54.581Z
-modified: 2026-10-23T07:47:54.581Z
-published: 2026-10-23T07:47:54.581Z
 aliases:
   - Pyeongdae
+title: Pyeongdae-ri
+created: 2026-10-23T07:47:55.000Z
+modified: 2026-10-23T07:47:55.000Z
+published: 2026-10-23T07:47:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Island of Sea Women
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 33.5184
   - 126.8348
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jeju Island]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Jeju Island]]"
 Coastal village in Gujwa-eup on Jeju's north-east coast. In _The Island of Sea Women_ the haenyeo protest against the Japanese ends at the district office here.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Island of Sea Women | Lisa See | turning point | Thousands of haenyeo march from the Sehwa market to the Japanese district office. |
 
 ## The Island of Sea Women — Lisa See (2019)
+
 Source: [Original](https://openlibrary.org/works/OL19865296W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcsnhjv7sdenk337z542h)
 
 > By the time we reached Pyeongdae, thousands of women had come together.

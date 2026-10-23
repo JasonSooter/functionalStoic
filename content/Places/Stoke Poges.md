@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Stoke Poges
-created: 2026-10-23T07:48:53.527Z
-modified: 2026-10-23T07:48:53.527Z
-published: 2026-10-23T07:48:53.527Z
+created: 2026-10-23T07:48:54.000Z
+modified: 2026-10-23T07:48:54.000Z
+published: 2026-10-23T07:48:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Brave New World]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 51.546
   - -0.584
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Buckinghamshire]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Buckinghamshire]]"
 Village in south Buckinghamshire, west of London. In _Brave New World_ it is the site of the Obstacle Golf club where Lenina and Henry spend their afternoon, beside the Slough Crematorium.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | setting | Lenina and Henry play Obstacle Golf at the Stoke Poges Club House, then fly back over the Slough Crematorium. |
 
 ## Brave New World — Aldous Huxley (1932)
+
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvadbm08wkqbb8cmfqpn7t)
 
 > Following its south-easterly course across the dark plain their eyes were drawn to the majestic buildings of the Slough Crematorium.

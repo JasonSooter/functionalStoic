@@ -2,8 +2,11 @@
 publish: true
 title: Lisbon
 created: 2026-07-17T14:36:22.287Z
-modified: 2026-10-23T11:17:29.196Z
-published: 2026-10-23T11:17:29.196Z
+modified: 2026-10-23T11:17:29.000Z
+published: 2026-10-23T11:17:29.000Z
+tags: |-
+  places
+  source/ai/claude
 location:
   - 38.7223
   - -9.1393
@@ -12,9 +15,6 @@ categories:
 coordinates: 38.7223,-9.1393
 color: green
 icon: building-2
-tags: 'places
-
-  source/ai/claude'
 date created: 2026-07-17T16:36:22+02:00
 date modified: 2026-07-17T17:32:29+02:00
 books: "[[Candide]]"
@@ -43,9 +43,9 @@ Capital of [[Portugal]]. Each `geo:` link below is a separate map marker in Map 
 ### FAQ
 
 ---
+
 🙋
 ✨
-
 
 ---
 
@@ -57,12 +57,12 @@ Capital of [[Portugal]]. Each `geo:` link below is a separate map marker in Map 
 
 View of the bridge on the way to [[#Resvés Cowork Space]] along the [Tagus River](https://en.wikipedia.org/wiki/Tagus)
 
-![[25 de Abril Bridge.png]]
-#🗓️/2023/10/30
+![[Attachments/25 de Abril Bridge.png]]
+\#🗓️/2023/10/30
 
 #### Resvés Co-Work Space
 
-![[Resvés Cowork Space.png]]
+![[Attachments/Resvés Cowork Space.png]]
 
 - <https://resvescowork.pt/>
 
@@ -79,11 +79,13 @@ What followed: Houtman led the **first Dutch expedition to the East Indies**, fo
 Source highlight: [Readwise](https://readwise.io/open/739134113).
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | turning point | Candide and Pangloss reach Lisbon as the earthquake strikes; the auto-da-fé follows. |
 
 ## Candide — Voltaire (1759)
+
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m758eh76eg7yyx2fbwbp79)
 
 > Scarcely had they reached the city, lamenting the death of their benefactor, when they felt the earth tremble under their feet. The sea swelled and foamed in the harbour, and beat to pieces the vessels riding at anchor.

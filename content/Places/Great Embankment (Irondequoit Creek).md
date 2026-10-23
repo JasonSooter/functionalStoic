@@ -2,8 +2,12 @@
 publish: true
 title: Great Embankment (Irondequoit Creek)
 created: 2026-10-23T01:32:39.000Z
-modified: 2026-10-23T07:56:21.471Z
-published: 2026-10-23T07:56:21.471Z
+modified: 2026-10-23T07:56:21.000Z
+published: 2026-10-23T07:56:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Erie Canal
@@ -12,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 43.073,-77.4906
-geo_note: approximate (Great Embankment Park, Pittsford, on the Erie Canal embankment
-  over Irondequoit Creek)
+geo_note: approximate (Great Embankment Park, Pittsford, on the Erie Canal embankment over Irondequoit Creek)
 geo_source: OSM way 468745025
 icon: book
 location:
   - 43.073
   - -77.4906
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York State]]"
 ---
 
@@ -38,6 +37,7 @@ Raised section of the Erie Canal over the Irondequoit Creek valley near Pittsfor
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | turning point | Geddes cries 'Eureka' at the valley in 1808; the embankment is built through quicksand by 1822. |
 
 ## Erie Canal — wikipedia.org (2001)
+
 Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise highlight](https://read.readwise.io/read/01m5k5sawgwh9px473ngdd4tt3)
 
 > The former ultimately required building the 1,320-foot (400 m) long "Great Embankment," to carry the canal at a height of 76 feet (23 m) above the level of the creek, which ran through a 245-foot (75 m) culvert underneath.
@@ -47,6 +47,7 @@ Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise high
 - **Why it matters:** A signature engineering obstacle and solution along the route.
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvdn3aze0bad0jbkvek81j)
 
 > Trekking over snowy hills, Geddes came to an area known by the romantic Indian name of the Irondequoit Valley, just to the east of the town of Rochester.

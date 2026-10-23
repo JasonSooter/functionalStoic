@@ -1,11 +1,15 @@
 ---
 publish: true
-title: University of Pennsylvania
-created: 2026-10-23T11:16:30.682Z
-modified: 2026-10-23T11:16:30.682Z
-published: 2026-10-23T11:16:30.682Z
 aliases:
   - Penn
+title: University of Pennsylvania
+created: 2026-10-23T11:16:31.000Z
+modified: 2026-10-23T11:16:31.000Z
+published: 2026-10-23T11:16:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Abundance
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 39.9519
   - -75.1936
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Philadelphia]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Philadelphia]]"
 The University of Pennsylvania is a research university in Philadelphia. In _Abundance_ it is where Katalin Karikó was demoted for her mRNA work and then met Drew Weissman at a photocopier.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | setting | Penn demoted Karikó, but a Xerox line in its Robert Wood Johnson Pavilion led to the mRNA partnership with Drew Weissman. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m74z7cve90ce3p8071v3qc)
 
 > The nearest large Xerox machine was in a different hall, inside Robert Wood Johnson Pavilion, which housed the biomedical library.

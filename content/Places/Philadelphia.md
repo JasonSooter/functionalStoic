@@ -2,8 +2,12 @@
 publish: true
 title: Philadelphia
 created: 2026-10-20T16:28:35.000Z
-modified: 2026-10-23T11:13:54.668Z
-published: 2026-10-23T11:13:54.668Z
+modified: 2026-10-23T11:13:55.000Z
+published: 2026-10-23T11:13:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The First Great Founder]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 39.9528
   - -75.1636
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pennsylvania]]"
 ---
 
@@ -53,6 +53,7 @@ City on the Delaware River in [[Pennsylvania]], USA, which appears in the readin
 - [[Wharton School]]
 
 ## The First Great Founder — Ben Putano (2022)
+
 Source: [[The First Great Founder]] · [Original](https://damngrav.substack.com/p/the-first-great-founder) · [Readwise highlight](https://read.readwise.io/read/01m5ebs1b3p3mtb0jwfekqwqm6)
 
 > When he lacked the funds to start his own newspaper in Philadelphia, Franklin decided to bolster the leading newspaper with a series of wildly popular essays.
@@ -62,6 +63,7 @@ Source: [[The First Great Founder]] · [Original](https://damngrav.substack.com/
 - **Why it matters:** It is the stage for the one concrete business episode in a general essay on Franklin and writing; the city is named but not described.
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5w5yr3vym908faat5t159)
 
 > “That is Philadelphia, Pennsylvania. America.”

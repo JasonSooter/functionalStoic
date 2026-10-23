@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Liverpool and Manchester Railway
-created: 2026-10-23T11:14:08.048Z
-modified: 2026-10-23T11:14:08.048Z
-published: 2026-10-23T11:14:08.048Z
+created: 2026-10-23T11:14:08.000Z
+modified: 2026-10-23T11:14:08.000Z
+published: 2026-10-23T11:14:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 53.4772
   - -2.2583
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[England]]"
 The Liverpool and Manchester Railway, opened in 1830 in north-west England, was the first inter-city steam railway. _Sapiens_ uses it as the start of the railway age in its account of the Industrial Revolution.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | First commercial railway, opened 1830: steam power moves from mines and mills to carrying people and goods. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m77ah8apsg3cpzg1tz2fzw)
 
 > On 15 September 1830, the first commercial railway line was opened, connecting Liverpool with Manchester.

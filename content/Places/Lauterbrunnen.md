@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Lauterbrunnen
-created: 2026-10-23T11:14:32.699Z
-modified: 2026-10-23T11:14:32.699Z
-published: 2026-10-23T11:14:32.699Z
 aliases:
   - Lauterbrunnen valley
   - Lauterbrunnental
+title: Lauterbrunnen
+created: 2026-10-23T11:14:33.000Z
+modified: 2026-10-23T11:14:33.000Z
+published: 2026-10-23T11:14:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Hobbit]]"
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 46.595
   - 7.9075
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Switzerland]]"
 Lauterbrunnen is a village and deep glacial valley in the Bernese Oberland, Switzerland, which Tolkien hiked through in 1911. It is pinned for _The Hobbit_ as the model for the valley of Rivendell and the start of the journey over the Misty Mountains.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | journey waypoint | Swiss valley Tolkien hiked in 1911, the model for Rivendell and Bilbo's crossing of the Misty Mountains. |
 
 ## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
+
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m774rap0c19jcsxwcgnybb)
 
 > Bilbo never forgot the way they slithered and slipped in the dusk down the steep zig-zag path into the secret valley of Rivendell.

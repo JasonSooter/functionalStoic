@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Malpais (Brave New World)
-created: 2026-10-23T07:47:34.408Z
-modified: 2026-10-23T07:47:34.408Z
-published: 2026-10-23T07:47:34.408Z
 aliases:
   - Malpais
   - Savage Reservation
+title: Malpais (Brave New World)
+created: 2026-10-23T07:47:34.000Z
+modified: 2026-10-23T07:47:34.000Z
+published: 2026-10-23T07:47:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Brave New World]]"
 categories:
@@ -14,17 +18,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 34.8772,-108.0508
-geo_note: "best-guess: fictional pueblo in the valley of Malpais beyond Acoma; El\
-  \ Malpais lava country chosen"
+geo_note: "best-guess: fictional pueblo in the valley of Malpais beyond Acoma; El Malpais lava country chosen"
 geo_source: Wikipedia (en) El Malpais National Monument
 icon: book
 location:
   - 34.8772
   - -108.0508
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Mexico]]"
 ---
 
@@ -33,11 +32,13 @@ within: "[[New Mexico]]"
 The mesa-top pueblo of Malpais on the New Mexican Savage Reservation, where John the Savage grows up in _Brave New World_. Pinned as a best guess at El Malpais in western New Mexico.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | setting | Lenina and Bernard watch a whipping ritual, meet John and Linda, and take them back to London. |
 
 ## Brave New World — Aldous Huxley (1932)
+
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvajj3bj6epwnqweqbs8xp)
 
 > The mesa was like a ship becalmed in a strait of lion-coloured dust.

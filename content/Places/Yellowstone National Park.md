@@ -2,8 +2,12 @@
 publish: true
 title: Yellowstone National Park
 created: 2026-10-21T04:45:49.000Z
-modified: 2026-10-23T11:14:55.871Z
-published: 2026-10-23T11:14:55.871Z
+modified: 2026-10-23T11:14:56.000Z
+published: 2026-10-23T11:14:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "What We’re Reading: A Genetic Milestone for Yellowstone’s Bison"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 44.6
   - -110.5
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Wyoming]]"
 ---
 
@@ -36,6 +36,7 @@ National park in Wyoming, Montana and Idaho, USA (part of [[Wyoming]] here), whi
 | Abundance | Ezra Klein & Derek Thompson | subject | A hot-springs bacterium isolated here in the 1960s later made PCR, and modern diagnostics, possible. |
 
 ## What We’re Reading: A Genetic Milestone for Yellowstone’s Bison — RTBC Staff (2025)
+
 Source: [Original](https://reasonstobecheerful.world/what-were-reading-genetic-milestone-yellowstone-bison/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqfy34cgd0739tsa3777j)
 
 > After near-extinction over a century ago, the bison herd in Yellowstone National Park was cobbled together in 1902 from multiple herds in Texas and Montana.
@@ -45,6 +46,7 @@ Source: [Original](https://reasonstobecheerful.world/what-were-reading-genetic-m
 - **Why it matters:** It is the subject of the item, though only as the home of the bison; the text gives no scene there.
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m755eskksagp9vzxbq1kc2)
 
 > Fortunately, two decades earlier, in the 1960s, biologists in Yellowstone National Park had isolated a hot-springs bacteria that thrived in boiling conditions.

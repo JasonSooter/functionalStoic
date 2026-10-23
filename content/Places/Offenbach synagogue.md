@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Offenbach synagogue
-created: 2026-10-23T11:14:47.407Z
-modified: 2026-10-23T11:14:47.407Z
-published: 2026-10-23T11:14:47.407Z
 aliases:
   - Capitol (Offenbach)
+title: Offenbach synagogue
+created: 2026-10-23T11:14:47.000Z
+modified: 2026-10-23T11:14:47.000Z
+published: 2026-10-23T11:14:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 50.1094
   - 8.7566
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hesse]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Hesse]]"
 The former synagogue at Goethestrasse and Kaiserstrasse in Offenbach am Main near Frankfurt, and the newer synagogue across the street. In _Germany: Memories of a Nation_ they trace the fortunes of German Jews across the twentieth century.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | A grand 1916 synagogue burnt in 1938, then a small hidden one across the street: the story of Jews in Germany in two buildings. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76zr7cv2xkpv05k6m1fx1)
 
 > Its site was at a powerfully symbolic address in the town centre: on the corner of Goethestrasse and Kaiserstrasse.

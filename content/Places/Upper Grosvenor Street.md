@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Upper Grosvenor Street
-created: 2026-10-23T11:16:04.125Z
-modified: 2026-10-23T11:16:04.125Z
-published: 2026-10-23T11:16:04.125Z
+created: 2026-10-23T11:16:04.000Z
+modified: 2026-10-23T11:16:04.000Z
+published: 2026-10-23T11:16:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Importance of Being Earnest]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 51.5104
   - -0.154
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[London]]"
 Upper Grosvenor Street is a Mayfair street running from Grosvenor Square to Park Lane in London. In _The Importance of Being Earnest_ the Bracknells' house there is where the missing baby was last seen.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Importance of Being Earnest]] | Oscar Wilde | turning point | Miss Prism wheeled a baby out of Lord Bracknell's house at No. 104 twenty-eight years ago and never came back |
 
 ## The Importance of Being Earnest — Oscar Wilde (1895)
+
 Source: [[The Importance of Being Earnest]] · [Original](https://openlibrary.org/works/OL27776452W) · [Readwise highlight](https://read.readwise.io/read/01m5m76bsdvdqy58td57bg01jz)
 
 > Twenty-eight years ago, Prism, you left Lord Bracknell’s house, Number 104, Upper Grosvenor Street, in charge of a perambulator that contained a baby of the male sex.

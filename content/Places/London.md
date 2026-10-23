@@ -2,8 +2,12 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-23T11:14:59.963Z
-published: 2026-10-23T11:14:59.963Z
+modified: 2026-10-23T11:15:00.000Z
+published: 2026-10-23T11:15:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -17,10 +21,6 @@ icon: book
 location:
   - 51.5072
   - -0.1275
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # London
@@ -88,6 +88,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Wimbledon Common]]
 
 ## Muslims March Against Isis in London, and It’s Ignored by the Media — Mike Albo (2016)
+
 Source: [Original](http://www.good.is/posts/anti-isis-march-london) · [Readwise highlight](https://read.readwise.io/read/01m5jjr7y49gwtnh1g2vnqbqfx)
 
 > Thousands of peace-promoting Muslims took to the streets of London last week, and it was barely covered by the media
@@ -97,6 +98,7 @@ Source: [Original](http://www.good.is/posts/anti-isis-march-london) · [Readwise
 - **Why it matters:** London is the setting but the text offers no specific site, so it is a whole-city reference. The argument concerns media coverage rather than the place.
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
+
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m76bxvgx09xkg6rpbreb6b)
 
 > When we vamoosed from the convent we went to a linoleum slum in Dublin, and then on to another slum here in London, where, over a period of eighteen months, we got asked out to about three good dinners apiece, which meant six meals for both of us because we had a pact that whoever got asked out would bring back food for the Cinderella.

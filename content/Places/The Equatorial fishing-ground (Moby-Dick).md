@@ -1,12 +1,16 @@
 ---
 publish: true
-title: The Equatorial fishing-ground (Moby-Dick)
-created: 2026-10-23T11:16:21.689Z
-modified: 2026-10-23T11:16:21.689Z
-published: 2026-10-23T11:16:21.689Z
 aliases:
   - Season-on-the-Line
   - The Line (Moby-Dick)
+title: The Equatorial fishing-ground (Moby-Dick)
+created: 2026-10-23T11:16:22.000Z
+modified: 2026-10-23T19:05:31.080Z
+published: 2026-10-23T19:05:31.080Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Exploration of Moby Dick]]"
 categories:
@@ -14,18 +18,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: -0.6833,-118.0
-geo_note: "best-guess: Unlocated equatorial Pacific; pinned at the sinking site of\
-  \ the Essex, the real wreck the ending is based on.; approximate (sinking site of\
-  \ the whaleship Essex, the model for the ending)"
+geo_note: "best-guess: Unlocated equatorial Pacific; pinned at the sinking site of the Essex, the real wreck the ending is based on.; approximate (sinking site of the whaleship Essex, the model for the ending)"
 geo_source: Wikipedia (en) Essex (whaleship)
 icon: book
 location:
   - -0.6833
   - -118
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pacific Ocean]]"
 ---
 
@@ -34,11 +32,13 @@ within: "[[Pacific Ocean]]"
 The Equatorial fishing-ground is the stretch of the equatorial Pacific where Ahab finally meets Moby Dick. In _Moby-Dick_ it is the site of the three-day chase and the sinking of the Pequod, pinned here at the real sinking site of the whaleship Essex.
 
 ## At a glance
-| Source | Author | Role | In one line |
-|---|---|---|---|
-| [[Exploration of Moby Dick\|Moby-Dick; or, The Whale]] | Herman Melville | setting | On the Line, near where he lost his leg, Ahab chases Moby Dick for three days until the whale sinks the Pequod. |
 
-## Moby-Dick; or, The Whale — Herman Melville (1851)
+| Source                                  | Author | Role | In one line |
+| --------------------------------------- | --------------- | ------- | --------------------------------------------------------------------------------------------------------------- |
+| [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | setting | On the Line, near where he lost his leg, Ahab chases Moby Dick for three days until the whale sinks the Pequod. |
+
+## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m754spt33ayrjkkaqvehaq)
 
 > now, that he found himself hard by the very latitude and longitude where his tormenting wound had been inflicted

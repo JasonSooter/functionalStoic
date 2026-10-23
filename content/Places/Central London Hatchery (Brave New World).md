@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Central London Hatchery (Brave New World)
-created: 2026-10-23T07:45:38.736Z
-modified: 2026-10-23T07:45:38.736Z
-published: 2026-10-23T07:45:38.736Z
 aliases:
   - Central London Hatchery and Conditioning Centre
   - Bloomsbury Centre
+title: Central London Hatchery (Brave New World)
+created: 2026-10-23T07:45:39.000Z
+modified: 2026-10-23T07:45:39.000Z
+published: 2026-10-23T07:45:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Brave New World]]"
 categories:
@@ -20,10 +24,6 @@ icon: book
 location:
   - 51.5211
   - -0.129
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bloomsbury]]"
 ---
 
@@ -32,11 +32,13 @@ within: "[[Bloomsbury]]"
 The squat grey thirty-four-storey Central London Hatchery and Conditioning Centre where _Brave New World_ opens, pinned in Bloomsbury, London, because the novel calls it the Bloomsbury Centre.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | setting | Opening setting: the Director tours students through the Fertilizing Room, Embryo Store, nurseries and garden. |
 
 ## Brave New World — Aldous Huxley (1932)
+
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvabw30nspmgdfm2f53z8s)
 
 > A squat grey building of only thirty-four stories. Over the main entrance the words, CENTRAL LONDON HATCHERY AND CONDITIONING CENTRE, and, in a shield, the World State’s motto, COMMUNITY, IDENTITY, STABILITY.

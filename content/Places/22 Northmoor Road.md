@@ -1,9 +1,13 @@
 ---
 publish: true
 title: 22 Northmoor Road
-created: 2026-10-23T11:12:32.284Z
-modified: 2026-10-23T11:12:32.284Z
-published: 2026-10-23T11:12:32.284Z
+created: 2026-10-23T11:12:32.000Z
+modified: 2026-10-23T11:12:32.000Z
+published: 2026-10-23T11:12:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Hobbit]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - 51.7713
   - -1.2602
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oxford]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Oxford]]"
 22 Northmoor Road is a house in North Oxford where the Tolkien family lived until early 1930. Christopher Tolkien's foreword to this edition of _The Hobbit_ names it as the house where his father first told his sons the story.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | backdrop | North Oxford house where Tolkien first told his sons the tale of a small being with furry feet. |
 
 ## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
+
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m776p03kp43kdccsg6z83g)
 
 > My brother Michael recorded long after his recollection of the evenings when my father would stand with his back to the fire in his small study of the house in North Oxford (22 Northmoor Road) and tell stories to my brothers and me;

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Petaluma, California
-created: 2026-10-23T11:14:55.683Z
-modified: 2026-10-23T11:14:55.683Z
-published: 2026-10-23T11:14:55.683Z
+created: 2026-10-23T11:14:56.000Z
+modified: 2026-10-23T11:14:56.000Z
+published: 2026-10-23T11:14:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Abundance
@@ -16,10 +20,6 @@ icon: book
 location:
   - 38.2458
   - -122.6314
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[California]]"
 Petaluma is a city in Sonoma County, in the hills north of San Francisco. In _Abundance_ it is the town whose 1971 growth cap became a template for stopping housing.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | subject | The Sonoma County city whose 1971 Petaluma Plan capped housing growth and became a model for anti-growth zoning. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m77eep8x3t0t69xg9w6prp)
 
 > Petaluma is nestled in the windy hills north of San Francisco, where a gap in the coastal mountain ranges pulls cool, moist marine air into the farmland. Petaluma also saw its population bloom after the war.

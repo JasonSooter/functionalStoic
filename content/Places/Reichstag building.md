@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Reichstag building
-created: 2026-10-23T11:15:23.640Z
-modified: 2026-10-23T11:15:23.640Z
-published: 2026-10-23T11:15:23.640Z
 aliases:
   - Reichstag
   - Bundestag
+title: Reichstag building
+created: 2026-10-23T11:15:24.000Z
+modified: 2026-10-23T11:15:24.000Z
+published: 2026-10-23T11:15:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 52.5186
   - 13.3761
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Berlin]]"
 Seat of the German parliament in Berlin's Tiergarten, built in the 1880s and restored with Norman Foster's dome. It is the setting of the final chapter of _Germany: Memories of a Nation_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | The book's last chapter: the parliament building whose fire, ruins, Soviet graffiti, wrapping and glass dome carry German history. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75397rfddp3pxmh85q5aa)
 
 > I want to end it in the Reichstag, seat of the German Parliament and site of Germany’s national deliberations.

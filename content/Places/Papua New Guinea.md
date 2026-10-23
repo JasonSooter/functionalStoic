@@ -2,18 +2,18 @@
 publish: true
 title: Papua New Guinea
 created: 2026-10-20T13:48:16.000Z
-modified: 2026-10-23T11:13:58.588Z
-published: 2026-10-23T11:13:58.588Z
+modified: 2026-10-23T11:13:59.000Z
+published: 2026-10-23T11:13:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Papua New Guinea

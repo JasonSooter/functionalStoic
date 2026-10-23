@@ -2,18 +2,18 @@
 publish: true
 title: Berkshire
 created: 2026-10-22T01:44:04.000Z
-modified: 2026-10-23T07:54:26.423Z
-published: 2026-10-23T07:54:26.423Z
+modified: 2026-10-23T07:54:26.000Z
+published: 2026-10-23T07:54:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 ---
 

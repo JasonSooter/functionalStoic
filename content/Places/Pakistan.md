@@ -2,18 +2,18 @@
 publish: true
 title: Pakistan
 created: 2026-10-20T07:35:05.000Z
-modified: 2026-10-23T11:14:05.500Z
-published: 2026-10-23T11:14:05.500Z
+modified: 2026-10-23T11:14:06.000Z
+published: 2026-10-23T11:14:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Pakistan

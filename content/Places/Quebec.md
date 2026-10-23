@@ -2,18 +2,18 @@
 publish: true
 title: Quebec
 created: 2026-10-21T11:07:38.000Z
-modified: 2026-10-23T07:54:37.489Z
-published: 2026-10-23T07:54:37.489Z
+modified: 2026-10-23T07:54:37.000Z
+published: 2026-10-23T07:54:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Canada]]"
 ---
 

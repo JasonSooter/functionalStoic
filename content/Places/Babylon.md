@@ -2,8 +2,12 @@
 publish: true
 title: Babylon
 created: 2026-10-23T02:02:29.000Z
-modified: 2026-10-23T11:15:01.243Z
-published: 2026-10-23T11:15:01.243Z
+modified: 2026-10-23T11:15:01.000Z
+published: 2026-10-23T11:15:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "The Code of Hammurabi: The Best Rule To Manage Risk"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 32.5425
   - 44.4211
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iraq]]"
 ---
 
@@ -36,6 +36,7 @@ Ancient Mesopotamian capital on the Euphrates in present-day Iraq. A Farnam Stre
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Hammurabi's capital, whose Code is one of the book's two model 'imagined orders'. |
 
 ## The Code of Hammurabi: The Best Rule To Manage Risk — Farnam Street (2017)
+
 Source: [Original](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) · [Readwise highlight](https://read.readwise.io/read/01m5k7bqccncm3ezx7d6fpjjyf)
 
 > Almost 4,000 years ago, King Hammurabi of Babylon, Mesopotamia, laid out one of the first sets of laws.
@@ -45,6 +46,7 @@ Source: [Original](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) ·
 - **Why it matters:** The ancient city-state and its laws are the subject of the whole argument about incentives and risk.
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75mess3s8m29k66zd839v)
 
 > In 1776 BC Babylon was the world’s biggest city.

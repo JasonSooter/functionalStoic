@@ -2,8 +2,12 @@
 publish: true
 title: Buchenwald
 created: 2026-10-22T19:56:59.000Z
-modified: 2026-10-23T11:14:14.640Z
-published: 2026-10-23T11:14:14.640Z
+modified: 2026-10-23T11:14:15.000Z
+published: 2026-10-23T11:14:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -17,10 +21,6 @@ icon: book
 location:
   - 51.0222
   - 11.2481
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Germany]]"
 ---
 
@@ -36,6 +36,7 @@ Nazi concentration camp near Weimar, Germany. A journey waypoint in Colum McCann
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | The camp gate, lettered 'Jedem das Seine' by a Bauhaus-trained prisoner, in the woods above Goethe's Weimar. |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqht6s2taazaqw3atjfnx)
 
 > They traveled south to Leipzig and walked through the gates at Buchenwald. It felt to Rami like an ancient ruin.
@@ -45,6 +46,7 @@ Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207
 - **Why it matters:** A moment where Rami, who had vowed never to visit Germany, stands with a Palestinian companion in the camp he had studied since childhood. It is brief but pivotal in his arc.
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76wvkt3xq1vp6adr778vs)
 
 > It is not enough merely to look into this camp. One has to go in, through this gate, and then look out in order to read the motto, boldly lettered in iron, which every prisoner who arrived at Buchenwald read as they looked back at the world from which they were being removed:

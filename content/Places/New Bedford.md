@@ -1,11 +1,15 @@
 ---
 publish: true
-title: New Bedford
-created: 2026-10-23T11:15:03.564Z
-modified: 2026-10-23T11:15:03.564Z
-published: 2026-10-23T11:15:03.564Z
 aliases:
   - New Bedford, Massachusetts
+title: New Bedford
+created: 2026-10-23T11:15:04.000Z
+modified: 2026-10-23T19:05:59.982Z
+published: 2026-10-23T19:05:59.982Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Exploration of Moby Dick]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 41.6361
   - -70.9347
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 ---
 
@@ -29,14 +29,17 @@ within: "[[Massachusetts]]"
 New Bedford is a port city on the Acushnet River in southeastern Massachusetts, a leading whaling port of the nineteenth century. In _Moby-Dick_ it is Ishmael's first stop, where he lodges at the Spouter-Inn and meets Queequeg.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Exploration of Moby Dick\|Moby-Dick; or, The Whale]] | Herman Melville | setting | Ishmael's first whaling town: a frozen December night, the Spouter-Inn, Queequeg, and the packet down the Acushnet to Nantucket. |
+| [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | setting | Ishmael's first whaling town: a frozen December night, the Spouter-Inn, Queequeg, and the packet down the Acushnet to Nantucket. |
 
 ## Sub-places
+
 - [[Seamen's Bethel]]
 
-## Moby-Dick; or, The Whale — Herman Melville (1851)
+## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m76pz9cqj1vc5y27wk8ce4)
 
 > As most young candidates for the pains and penalties of whaling stop at this same New Bedford, thence to embark on their voyage

@@ -2,8 +2,13 @@
 publish: true
 title: Mexico
 created: 2024-12-22T21:32:19.528Z
-modified: 2026-10-23T11:14:07.636Z
-published: 2026-10-23T11:14:07.636Z
+modified: 2026-10-23T11:14:08.000Z
+published: 2026-10-23T11:14:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Mexico Hero.jpg
 books: []
 categories:
   - "[[Places]]"
@@ -19,10 +24,6 @@ linter-yaml-title-alias: Mexico
 location:
   - 23.6345
   - -102.5528
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Mexico

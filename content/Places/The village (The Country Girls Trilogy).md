@@ -1,12 +1,16 @@
 ---
 publish: true
-title: The village (The Country Girls Trilogy)
-created: 2026-10-23T11:16:00.129Z
-modified: 2026-10-23T11:16:00.129Z
-published: 2026-10-23T11:16:00.129Z
 aliases:
   - Caithleen's village
   - The Brady farm
+title: The village (The Country Girls Trilogy)
+created: 2026-10-23T11:16:00.000Z
+modified: 2026-10-23T11:16:00.000Z
+published: 2026-10-23T11:16:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Country Girls Trilogy
 categories:
@@ -14,18 +18,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 52.9,-8.5333
-geo_note: "inferred: Text clues (the 'great Shannon lake', Lough Derg, buses to Portumna\
-  \ and Limerick, train from Nenagh) place it on Lough Derg's west shore; O'Brien\
-  \ grew up at Tuamgraney there."
+geo_note: "inferred: Text clues (the 'great Shannon lake', Lough Derg, buses to Portumna and Limerick, train from Nenagh) place it on Lough Derg's west shore; O'Brien grew up at Tuamgraney there."
 geo_source: Wikipedia (en) Tuamgraney
 icon: book
 location:
   - 52.9
   - -8.5333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[County Clare]]"
 ---
 
@@ -34,11 +32,13 @@ within: "[[County Clare]]"
 The unnamed village and the Brady farm where Caithleen and Baba grow up, in the Lough Derg country of the west of Ireland; pinned at Tuamgraney, County Clare, Edna O'Brien's birthplace. It is where _The Country Girls Trilogy_ begins and where Kate is dragged back to in the second novel.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | setting | Caithleen's home village and failing farm by the Shannon lake, the world she and Baba long to escape and keep returning to. |
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
+
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m75k52yrrxfzv0v78cjj1b)
 
 > It was a red cut-stone house set among the trees, and in the evening time, when the sun was going down, it had a luster of its own, with fields rolling out from it in a flat, uninterrupted expanse of green.

@@ -1,21 +1,21 @@
 ---
 publish: true
-title: North Rhine-Westphalia
-created: 2026-10-20T04:23:39.000Z
-modified: 2026-10-23T11:13:05.394Z
-published: 2026-10-23T11:13:05.394Z
 aliases:
   - Nordrhein-Westfalen
   - NRW
+title: North Rhine-Westphalia
+created: 2026-10-20T04:23:39.000Z
+modified: 2026-10-23T11:13:05.000Z
+published: 2026-10-23T11:13:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # North Rhine-Westphalia

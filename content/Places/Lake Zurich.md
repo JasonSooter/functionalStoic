@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Lake Zurich
-created: 2026-10-23T11:14:13.524Z
-modified: 2026-10-23T11:14:13.524Z
-published: 2026-10-23T11:14:13.524Z
 aliases:
   - Zürichsee
+title: Lake Zurich
+created: 2026-10-23T11:14:14.000Z
+modified: 2026-10-23T11:14:14.000Z
+published: 2026-10-23T11:14:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Hobbit]]"
 categories:
@@ -13,18 +17,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 47.2475,8.6775
-geo_note: "best-guess: Tolkien's documented model is Alpine pile dwellings in general;\
-  \ Lake Zurich is where the famous first finds were made.; approximate (centre of\
-  \ the lake)"
+geo_note: "best-guess: Tolkien's documented model is Alpine pile dwellings in general; Lake Zurich is where the famous first finds were made.; approximate (centre of the lake)"
 geo_source: Wikipedia (en) Lake Zurich
 icon: book
 location:
   - 47.2475
   - 8.6775
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland]]"
 ---
 
@@ -33,11 +31,13 @@ within: "[[Switzerland]]"
 Lake Zurich is a large lake in Switzerland whose shores yielded the prehistoric pile dwellings found in 1853–54 that started Europe's lake-dwelling craze. It is pinned for _The Hobbit_ as a best-guess anchor for Lake-town, which Tolkien modelled on such Alpine pile villages.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | setting | Best-guess anchor for Lake-town, the wooden town on piles that Tolkien modelled on Alpine lake dwellings. |
 
 ## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
+
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m775md51s47fkkbshcxmbd)
 
 > A great bridge made of wood ran out to where on huge piles made of forest trees was built a busy wooden town, not a town of elves but of Men, who still dared to dwell here under the shadow of the distant dragon-mountain.

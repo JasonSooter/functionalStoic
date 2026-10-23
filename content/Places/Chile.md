@@ -2,8 +2,12 @@
 publish: true
 title: Chile
 created: 2026-10-22T14:40:38.000Z
-modified: 2026-10-23T11:13:01.538Z
-published: 2026-10-23T11:13:01.538Z
+modified: 2026-10-23T11:13:02.000Z
+published: 2026-10-23T11:13:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - How Ordinary People Can Save Their Country
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - -34
   - -71
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Chile
@@ -28,6 +28,7 @@ tags:
 Long Pacific country of South America. Ariel Dorfman's essay recalls the 1988 plebiscite that ended Pinochet's rule as a lesson for American voters.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Ordinary People Can Save Their Country | Ariel Dorfman | subject | The essay uses Chile's 1988 plebiscite as a parallel to the 2020 US election. |
@@ -39,6 +40,7 @@ Long Pacific country of South America. Ariel Dorfman's essay recalls the 1988 pl
 - [[General Carrera Lake]]
 
 ## How Ordinary People Can Save Their Country — Ariel Dorfman (2020)
+
 Source: [Original](https://www.theatlantic.com/ideas/archive/2020/10/voting-lessons-from-a-not-so-distant-land/616597/) · [Readwise highlight](https://read.readwise.io/read/01m5k8xbrrvs0n7jj3y1dw2fce)
 
 > I am not describing the current U.S. election, but a plebiscite in Chile 32 years ago, which would determine whether General Augusto Pinochet, the country’s dictator since the coup of September 1973, would remain in power for another eight years.

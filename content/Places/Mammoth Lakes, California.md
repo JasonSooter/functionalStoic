@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Mammoth Lakes, California
-created: 2026-10-23T11:14:32.235Z
-modified: 2026-10-23T11:14:32.235Z
-published: 2026-10-23T11:14:32.235Z
+created: 2026-10-23T11:14:32.000Z
+modified: 2026-10-23T11:14:32.000Z
+published: 2026-10-23T11:14:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Abundance
@@ -16,10 +20,6 @@ icon: book
 location:
   - 37.6273
   - -118.9899
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[California]]"
 Mammoth Lakes is a ski resort town in Mono County in California's eastern Sierra Nevada. In _Abundance_ it is the site of the 1972 lawsuit that extended California's environmental review law to private building.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | turning point | A condo project near this ski town led to Friends of Mammoth (1972), which turned CEQA against nearly all California building. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m77fm79940bcc1aazsv3yw)
 
 > A developer had proposed to build six buildings’ worth of condominiums and shops and restaurants near Mammoth Lakes, one of California’s beloved ski resort areas. Friends of Mammoth, a homeowners’ association, sued to stop the build, arguing that it would strain water and sewage resources.

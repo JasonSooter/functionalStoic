@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Rochester, New York
-created: 2026-10-23T07:46:20.777Z
-modified: 2026-10-23T07:46:20.777Z
-published: 2026-10-23T07:46:20.777Z
 aliases:
   - Rochester
+title: Rochester, New York
+created: 2026-10-23T07:46:21.000Z
+modified: 2026-10-23T07:46:21.000Z
+published: 2026-10-23T07:46:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 43.1656
   - -77.6161
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York State]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[New York State]]"
 City on the Genesee River in western New York. In _Wedding of the Waters_ the canal makes it a boomtown of mills.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | setting | The flotilla's rainy Rochester stop, and the flour mills and factories the canal brought. |
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kve54wxm1ghka5dbvzww9p)
 
 > The parade reached Rochester on the rainy morning of the twenty-seventh.

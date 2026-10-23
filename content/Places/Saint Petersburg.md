@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Saint Petersburg
-created: 2026-10-23T07:49:19.956Z
-modified: 2026-10-23T11:14:53.391Z
-published: 2026-10-23T11:14:53.391Z
 aliases:
   - St Petersburg
   - Leningrad
+title: Saint Petersburg
+created: 2026-10-23T11:14:53.000Z
+modified: 2026-10-23T11:14:53.000Z
+published: 2026-10-23T11:14:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Subtle Art of Not Giving a Fck]]"
   - "[[Co-Intelligence]]"
@@ -19,10 +23,6 @@ icon: book
 location:
   - 59.9375
   - 30.3086
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 ---
 
@@ -37,7 +37,8 @@ Russia's second city, on the Neva. In Mark Manson's book a month there in 2011 t
 | [[The Subtle Art of Not Giving a Fck\|The Subtle Art of Not Giving a F*ck]] | Mark Manson | turning point | A month in 2011: Russian bluntness shocks Manson, then teaches him the cost of fake politeness. |
 | [[Co-Intelligence]] | Ethan Mollick | backdrop | Birthplace in 2001 of Eugene Goostman, the chatbot "boy" that arguably passed the Turing Test in 2014. |
 
-## The Subtle Art of Not Giving a F*ck — Mark Manson (2016)
+## The Subtle Art of Not Giving a F\*ck — Mark Manson (2016)
+
 Source: [[The Subtle Art of Not Giving a Fck]] · [Original](https://openlibrary.org/works/OL17590212W) · [Readwise highlight](https://read.readwise.io/read/01m5kvb6323d29478shq0b4m1c)
 
 > In 2011, I traveled to Saint Petersburg, Russia. The food sucked. The weather sucked.
@@ -47,6 +48,7 @@ Source: [[The Subtle Art of Not Giving a Fck]] · [Original](https://openlibrary
 - **Why it matters:** It is his example of how travel exposes you to other values, and of what Western politeness costs.
 
 ## Co-Intelligence — Ethan Mollick (2024)
+
 Source: [[Co-Intelligence]] · [Original](https://openlibrary.org/works/OL37565105W) · [Readwise highlight](https://read.readwise.io/read/01m5m771bj1n17q3mcpx5z0rfv)
 
 > In 2001, in Saint Petersburg, three programmers, Vladimir Veselov, Eugene Demchenko, and Sergey Ulasen, developed perhaps the first chatbot to have a claim to passing the Turing Test.

@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Lima
-created: 2026-10-23T11:14:30.440Z
-modified: 2026-10-23T11:14:30.440Z
-published: 2026-10-23T11:14:30.440Z
+created: 2026-10-23T11:14:30.000Z
+modified: 2026-10-23T19:05:59.116Z
+published: 2026-10-23T19:05:59.116Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Exploration of Moby Dick]]"
@@ -16,10 +20,6 @@ icon: book
 location:
   - -12.06
   - -77.0375
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Peru]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Peru]]"
 Lima is the capital of Peru, on the country's Pacific coast. In _Moby-Dick_ it is Ishmael's example of the horror of whiteness and the city where he tells the Town-Ho's story at the Golden Inn.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Exploration of Moby Dick\|Moby-Dick; or, The Whale]] | Herman Melville | subject | 'Tearless Lima' has taken the white veil; it is also where Ishmael tells the Town-Ho's story to Spanish dons at the Golden Inn. |
+| [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | subject | 'Tearless Lima' has taken the white veil; it is also where Ishmael tells the Town-Ho's story to Spanish dons at the Golden Inn. |
 
-## Moby-Dick; or, The Whale — Herman Melville (1851)
+## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m7736806tss9sk8zwcavvb)
 
 > it is not these things alone which make tearless Lima, the strangest, saddest city thou can’st see. For Lima has taken the white veil;

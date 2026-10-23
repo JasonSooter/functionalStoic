@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Deutsches Nationaltheater (Weimar)
-created: 2026-10-23T11:13:40.181Z
-modified: 2026-10-23T11:13:40.181Z
-published: 2026-10-23T11:13:40.181Z
 aliases:
   - German National Theatre
   - Deutsches Nationaltheater
+title: Deutsches Nationaltheater (Weimar)
+created: 2026-10-23T11:13:40.000Z
+modified: 2026-10-23T11:13:40.000Z
+published: 2026-10-23T11:13:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 50.9794
   - 11.3247
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Weimar]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Weimar]]"
 Court and national theatre on the Theaterplatz in Weimar, where the National Assembly met in 1919. In _Germany: Memories of a Nation_ it introduces the Weimar Republic and the Bauhaus.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | setting | The Weimar theatre where the 1919 National Assembly gave Germany its first democratic constitution. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76b05ferfxh37h5bz10zq)
 
 > On the wall of the German National Theatre in Weimar today a bronze plaque records that ‘In this house the German people, through their National Assembly, gave themselves the Weimar constitution of 11 August 1919.’

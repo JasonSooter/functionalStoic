@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Carrol Ground
-created: 2026-10-23T11:13:02.706Z
-modified: 2026-10-23T11:13:02.706Z
-published: 2026-10-23T11:13:02.706Z
+created: 2026-10-23T11:13:03.000Z
+modified: 2026-10-23T19:06:04.816Z
+published: 2026-10-23T19:06:04.816Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Exploration of Moby Dick]]"
@@ -12,18 +16,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: -15.9244,-5.7181
-geo_note: "best-guess: No position known; pinned at Saint Helena, the island the text\
-  \ says the ground lies 'southerly from'.; approximate (Jamestown, Saint Helena;\
-  \ the ground lies south of the island)"
+geo_note: "best-guess: No position known; pinned at Saint Helena, the island the text says the ground lies 'southerly from'.; approximate (Jamestown, Saint Helena; the ground lies south of the island)"
 geo_source: Wikipedia (en) Saint Helena
 icon: book
 location:
   - -15.9244
   - -5.7181
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Carrol Ground
@@ -31,11 +29,13 @@ tags:
 The Carrol Ground was a whaling ground in the South Atlantic south of the island of Saint Helena. In _Moby-Dick_ it is where the Pequod first sees the silvery 'spirit-spout' that lures it on.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Exploration of Moby Dick\|Moby-Dick; or, The Whale]] | Herman Melville | journey waypoint | On the Carrol Ground, south of St Helena, Fedallah first sights the moonlit spirit-spout that will beckon the Pequod round the world. |
+| [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | journey waypoint | On the Carrol Ground, south of St Helena, Fedallah first sights the moonlit spirit-spout that will beckon the Pequod round the world. |
 
-## Moby-Dick; or, The Whale — Herman Melville (1851)
+## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m76z7ng7152pa66jwpyjjv)
 
 > and the Carrol Ground, an unstaked, watery locality, southerly from St. Helena.

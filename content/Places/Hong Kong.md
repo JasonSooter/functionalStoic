@@ -2,8 +2,12 @@
 publish: true
 title: Hong Kong
 created: 2026-10-21T19:38:42.000Z
-modified: 2026-10-23T11:13:45.352Z
-published: 2026-10-23T11:13:45.352Z
+modified: 2026-10-23T11:13:45.000Z
+published: 2026-10-23T11:13:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Jackie Chan’s Plan to Keep Kicking Forever
@@ -18,10 +22,6 @@ icon: book
 location:
   - 22.3
   - 114.2
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 ---
 
@@ -41,6 +41,7 @@ Former British colony on China's south coast, now a special administrative regio
 - [[Hong Kong Hilton]]
 
 ## Jackie Chan’s Plan to Keep Kicking Forever — Alex Pappademas (2017)
+
 Source: [Original](https://www.gq.com/story/jackie-chans-gq-profile-2017) · [Readwise highlight](https://read.readwise.io/read/01m5k7gs34paaps6afrfwnt0vs)
 
 > People say Jackie became a patriot when he got rich, or got rich because he was so willing to become a patriot. Either way, it's cost him some fans back in Hong Kong, the city of his birth.
@@ -50,6 +51,7 @@ Source: [Original](https://www.gq.com/story/jackie-chans-gq-profile-2017) · [Re
 - **Why it matters:** Hong Kong is the subject of a recurring argument about Chan's loyalties.
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m771zfb51547azpqtfe6zp)
 
 > Furthermore, the British demanded and received control of Hong Kong, which they proceeded to use as a secure base for drug trafficking (Hong Kong remained in British hands until 1997).

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Biological Research Centre (Szeged)
-created: 2026-10-23T11:13:04.610Z
-modified: 2026-10-23T11:13:04.610Z
-published: 2026-10-23T11:13:04.610Z
 aliases:
   - Biological Research Centre, Szeged
+title: Biological Research Centre (Szeged)
+created: 2026-10-23T11:13:05.000Z
+modified: 2026-10-23T11:13:05.000Z
+published: 2026-10-23T11:13:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Abundance
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 46.2455
   - 20.1652
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Szeged]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Szeged]]"
 The Biological Research Centre is a research institute in Szeged, in southern Hungary. In _Abundance_ it is where Katalin Karikó began her scientific career before leaving for America.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | backdrop | Karikó's first scientific job; when it lost funding she sewed her car money into a teddy bear and left Hungary. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m74y0tz5242je6jgnezphp)
 
 > As a young woman, Karikó became a scientist at the Biological Research Centre in Szeged, near Hungary’s southern border.
