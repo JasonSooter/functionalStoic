@@ -2,8 +2,8 @@
 publish: true
 title: Virginia
 created: 2026-10-20T13:48:07.000Z
-modified: 2026-10-23T02:06:12.069Z
-published: 2026-10-23T02:06:12.069Z
+modified: 2026-10-23T02:26:44.082Z
+published: 2026-10-23T02:26:44.082Z
 aliases: []
 books: []
 categories:
@@ -28,3 +28,5 @@ US state on the Atlantic coast, bordering Washington, D.C. Hub for literary plac
 - [[Old Point Comfort]]
 - [[Plenty Richmond Farm]]
 - [[Skyline Plaza]]
+- [[Vesuvius, Virginia]]
+- [[Yorktown, Virginia]]

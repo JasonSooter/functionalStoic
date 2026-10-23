@@ -2,8 +2,8 @@
 publish: true
 title: Japan
 created: 2026-10-20T07:35:02.000Z
-modified: 2026-10-23T02:05:41.509Z
-published: 2026-10-23T02:05:41.509Z
+modified: 2026-10-23T02:27:07.129Z
+published: 2026-10-23T02:27:07.129Z
 aliases: []
 books: []
 categories:
@@ -28,6 +28,7 @@ Island country in East Asia. Hub for literary places in the country.
 - [[Hōshi Ryokan]]
 - [[Ise Grand Shrine]]
 - [[Kii Peninsula]]
+- [[Kyoto]]
 - [[Lake Akan]]
 - [[Morioka]]
 - [[Mount Fuji]]

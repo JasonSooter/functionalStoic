@@ -2,8 +2,8 @@
 publish: true
 title: Utah
 created: 2026-10-20T19:39:46.000Z
-modified: 2026-10-23T02:05:59.823Z
-published: 2026-10-23T02:05:59.823Z
+modified: 2026-10-23T02:26:54.929Z
+published: 2026-10-23T02:26:54.929Z
 aliases: []
 books: []
 categories:
@@ -24,6 +24,7 @@ US state in the Mountain West. Hub for literary places in the state.
 
 - [[Bears Ears National Monument]]
 - [[Bryce Canyon]]
+- [[Calf Creek Campground]]
 - [[Ching Farm Rescue]]
 - [[Circle Four Farms (Milford)]]
 - [[Dragonsteel Books]]

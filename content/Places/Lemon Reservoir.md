@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Lemon Reservoir
+created: 2026-10-21T16:37:54.000Z
+modified: 2026-10-23T02:25:34.559Z
+published: 2026-10-23T02:25:34.559Z
 aliases:
   - Lemon Dam
   - Vallecito-area Lemon Reservoir
-title: Lemon Reservoir
-created: 2026-10-21T16:37:54.000Z
-modified: 2026-10-21T16:37:54.000Z
-published: 2026-10-21T16:37:54.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - The Comfort Crisis
 categories:
@@ -23,6 +19,10 @@ icon: newspaper
 location:
   - 37.3824
   - -107.6603
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -37,7 +37,6 @@ Reservoir on the Florida River in La Plata County, Colorado, north-east of Duran
 | The Comfort Crisis | Mr. Money Mustache | setting | Remote reservoir near Durango where the author paddleboards, finding calm in difficulty. |
 
 ## The Comfort Crisis — Mr. Money Mustache (2023)
-
 Source: [Original](https://www.mrmoneymustache.com/2023/07/23/the-comfort-crisis/) · [Readwise highlight](https://read.readwise.io/read/01m5fmqcsv15y9vac6sw1b1a2k)
 
 > One day, my co-builder and I decided to take the afternoon off and head to the a wild, remote reservoir for some paddleboarding.

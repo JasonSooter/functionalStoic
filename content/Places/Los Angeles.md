@@ -2,8 +2,8 @@
 publish: true
 title: Los Angeles
 created: 2026-10-20T04:23:33.000Z
-modified: 2026-10-22T23:16:40.580Z
-published: 2026-10-22T23:16:40.580Z
+modified: 2026-10-23T02:26:30.186Z
+published: 2026-10-23T02:26:30.186Z
 aliases:
   - LA
 books:
@@ -44,6 +44,7 @@ City in southern California. A setting in Gila Lyons's “This Formerly Homeless
 - [[Los Angeles Memorial Coliseum]]
 - [[Manhattan Beach, California]]
 - [[Murphy Ranch]]
+- [[Orpheum Theatre (Los Angeles)]]
 - [[Pacific Palisades]]
 - [[Puente Hills Landfill]]
 - [[Ron Finley's garden (South Los Angeles)]]

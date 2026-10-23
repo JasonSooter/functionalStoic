@@ -2,8 +2,8 @@
 publish: true
 title: Philadelphia
 created: 2026-10-20T16:28:35.000Z
-modified: 2026-10-23T02:05:45.862Z
-published: 2026-10-23T02:05:45.862Z
+modified: 2026-10-23T02:26:44.298Z
+published: 2026-10-23T02:26:44.298Z
 aliases: []
 books:
   - "[[The First Great Founder]]"
@@ -42,6 +42,7 @@ City on the Delaware River in [[Pennsylvania]], USA, which appears in the readin
 - [[Hunting Park (Philadelphia)]]
 - [[John C. Anderson Apartments]]
 - [[Ninth Street and Passyunk Avenue]]
+- [[Philadelphia Museum of Art]]
 - [[Point Breeze, Philadelphia]]
 - [[Science Leadership Academy]]
 - [[Temple University Hospital]]

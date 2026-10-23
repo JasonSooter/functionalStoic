@@ -2,8 +2,8 @@
 publish: true
 title: Finland
 created: 2024-01-04T20:21:47.000Z
-modified: 2026-10-23T02:02:52.034Z
-published: 2026-10-23T02:02:52.034Z
+modified: 2026-10-23T02:27:03.297Z
+published: 2026-10-23T02:27:03.297Z
 aliases:
   - Helsinki, Finland
   - Helsinki
@@ -14,6 +14,7 @@ books:
     \ Toddlers]]"
   - What’s So Special About Finland?
   - How the Finnish survive without small talk
+  - How to Homeschool Like the Finnish
 categories:
   - "[[Places]]"
 color: blue
@@ -189,10 +190,12 @@ tags: #source/publications/the-atlantic #🗓️/2016/09/19
 | [[Ditching Tech - Finland Returns to Books and Sweden Says No to Screens for Toddlers\|Ditching Tech: Finland Returns to Books and Sweden Says No to Screens for Toddlers]] | Helen Russell | subject | Finland moves classrooms back from screens to books. |
 | What’s So Special About Finland? | Uri Friedman | subject | The interview with Anu Partanen argues that Finland and its Nordic neighbours deliver the American Dream's freedom and opportunity… |
 | How the Finnish survive without small talk | Laura Studarus | subject | The article examines Finnish culture's aversion to small talk, with the saying 'Silence is gold, talking is silver', minimal interaction… |
+| How to Homeschool Like the Finnish | Weird, Unsocialized Homeschoolers | subject | The piece holds up the Finnish school system as a model: minimal testing, teachers who stay with students for years, school starting at… |
 
 ## Sub-places
 
 - [[Helsinki]]
+- [[Kirkkojärvi Comprehensive School (Espoo)]]
 - [[Niirala Preschool (Kuopio)]]
 - [[Rovaniemi]]
 
@@ -222,3 +225,12 @@ Source: [Original](https://www.bbc.com/travel/story/20181016-how-the-finnish-sur
 - **Role:** subject
 - **In the article:** The article examines Finnish culture's aversion to small talk, with the saying 'Silence is gold, talking is silver', minimal interaction with baristas and strangers, and silence among friends as comfortable. Experts offer hypotheses involving language, distance between cities, and respect for personal space.
 - **Why it matters:** The whole piece is about Finland's national character, so the country itself is the subject.
+
+## How to Homeschool Like the Finnish — Weird, Unsocialized Homeschoolers (2019)
+Source: [Original](https://www.weirdunsocializedhomeschoolers.com/how-to-homeschool-like-the-finnish/) · [Readwise highlight](https://read.readwise.io/read/01m5k8y55wr3cr680awg4wnqxt)
+
+> In Finland, students don’t start school until age 7, and they still are given many breaks and time outdoors.
+
+- **Role:** subject
+- **In the article:** The piece holds up the Finnish school system as a model: minimal testing, teachers who stay with students for years, school starting at 7, cozy classrooms where kids warm up in socks, 15-minute outdoor recesses between lessons and hours outside even in winter.
+- **Why it matters:** The piece holds up the Finnish school system as a model: minimal testing, teachers who stay with students for years, school starting at 7, cozy classrooms where kids warm up in socks, 15-minute outdoor recesses between lessons and hours outside even in winter.

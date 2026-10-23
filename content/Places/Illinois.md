@@ -2,8 +2,8 @@
 publish: true
 title: Illinois
 created: 2026-10-20T10:42:23.000Z
-modified: 2026-10-23T02:06:22.070Z
-published: 2026-10-23T02:06:22.070Z
+modified: 2026-10-23T02:27:02.373Z
+published: 2026-10-23T02:27:02.373Z
 aliases: []
 books: []
 categories:
@@ -27,6 +27,7 @@ US state in the Midwest. Hub for literary places in the region.
 - [[Chicago]]
 - [[Emerald Mound and Village Site]]
 - [[Fermilab]]
+- [[Northwestern University]]
 - [[Pearl Island (Illinois)]]
 - [[Stagger Inn (Edwardsville)]]
 - [[University of Illinois Urbana-Champaign]]

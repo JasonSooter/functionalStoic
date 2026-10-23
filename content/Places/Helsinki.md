@@ -2,8 +2,8 @@
 publish: true
 title: Helsinki
 created: 2026-10-20T07:53:47.000Z
-modified: 2026-10-23T02:03:01.735Z
-published: 2026-10-23T02:03:01.735Z
+modified: 2026-10-23T02:27:04.757Z
+published: 2026-10-23T02:27:04.757Z
 aliases: []
 books:
   - How the Finnish survive without small talk
@@ -34,11 +34,13 @@ Capital of Finland on the Gulf of Finland. A BBC Travel piece on Finnish silence
 | How the Finnish survive without small talk | Laura Studarus | setting | The author met her friend Hanna on a coffee date during her first visit to Helsinki. |
 
 ## Sub-places
+
 - [[Esplanadi]]
 - [[Helsinki Central Station]]
 - [[Kotiharjun Sauna]]
 - [[Löyly]]
 - [[Oodi (Helsinki Central Library)]]
+- [[Siilitie school (Helsinki)]]
 
 ## How the Finnish survive without small talk — Laura Studarus (2018)
 Source: [Original](https://www.bbc.com/travel/story/20181016-how-the-finnish-survive-without-small-talk) · [Readwise highlight](https://read.readwise.io/read/01m5k7bwxbmn3n1m6bs1btv7dn)

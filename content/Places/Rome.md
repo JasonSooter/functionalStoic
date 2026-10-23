@@ -2,8 +2,8 @@
 publish: true
 title: Rome
 created: 2026-10-19T22:30:51.000Z
-modified: 2026-10-23T01:37:11.289Z
-published: 2026-10-23T01:37:11.289Z
+modified: 2026-10-23T02:26:47.542Z
+published: 2026-10-23T02:26:47.542Z
 aliases:
   - Roma
 books:
@@ -41,6 +41,7 @@ Capital of Italy. A setting in Colum McCann's _Apeirogon_: Zuaiter rides two bus
 - [[Roman Forum]]
 - [[St Peter's Basilica]]
 - [[Trastevere]]
+- [[Villa of Pliny at Laurentum]]
 
 ## Apeirogon — Colum McCann (2020)
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjr8m860qcbf98eswt5j3q)
