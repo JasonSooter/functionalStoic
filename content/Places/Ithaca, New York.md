@@ -2,8 +2,8 @@
 publish: true
 title: Ithaca, New York
 created: 2026-10-22T22:58:53.246Z
-modified: 2026-10-22T22:58:53.246Z
-published: 2026-10-22T22:58:53.246Z
+modified: 2026-10-23T04:28:37.218Z
+published: 2026-10-23T04:28:37.218Z
 aliases: []
 books:
   - For a More Creative Brain Follow These 5 Steps
@@ -35,7 +35,8 @@ City at the south end of Cayuga Lake, home of Cornell University. Frederic Ives 
 | For a More Creative Brain Follow These 5 Steps | James Clear | setting | Frederic Ives learns printing as an apprentice in Ithaca, then runs Cornell's photographic lab and experiments there through the 1870s |
 
 ## Sub-places
-_None yet._
+
+- [[Cornell University]]
 
 ## For a More Creative Brain Follow These 5 Steps — James Clear (2016)
 Source: [Original](https://jamesclear.com/five-step-creative-process) · [Readwise highlight](https://read.readwise.io/read/01m5jx82w0gkw8hfsw8jaab2em)

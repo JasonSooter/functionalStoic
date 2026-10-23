@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-10-23T02:26:42.962Z
-published: 2026-10-23T02:26:42.962Z
+modified: 2026-10-23T04:28:53.103Z
+published: 2026-10-23T04:28:53.103Z
 aliases: []
 books: []
 categories:
@@ -94,6 +94,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Disneyland]]
 - [[Elkhorn Slough]]
 - [[Emeryville station]]
+- [[Esalen Institute]]
 - [[Fairfax, California]]
 - [[Foothill College]]
 - [[Foresthill Bridge]]
@@ -121,6 +122,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Oxnard, California]]
 - [[Palm Springs]]
 - [[Palo Alto]]
+- [[Pasadena]]
 - [[Patagonia headquarters (Ventura)]]
 - [[Pebble Beach Golf Links]]
 - [[Red Bluff, California]]

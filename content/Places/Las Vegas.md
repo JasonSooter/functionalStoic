@@ -2,8 +2,8 @@
 publish: true
 title: Las Vegas
 created: 2026-10-21T13:55:41.000Z
-modified: 2026-10-22T22:37:04.079Z
-published: 2026-10-22T22:37:04.079Z
+modified: 2026-10-23T04:28:39.122Z
+published: 2026-10-23T04:28:39.122Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -40,6 +40,8 @@ Las Vegas is a desert city in southern Nevada. It turns up in Walkable City (Jef
 ## Sub-places
 
 - [[Downtown Las Vegas]]
+- [[El Rancho Vegas]]
+- [[Flamingo Las Vegas]]
 - [[Red Rock Canyon National Conservation Area]]
 - [[Sahara Las Vegas]]
 

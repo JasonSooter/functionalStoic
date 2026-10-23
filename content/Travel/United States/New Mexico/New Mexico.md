@@ -2,8 +2,8 @@
 publish: true
 title: New Mexico
 created: 2026-07-17T19:28:06.342Z
-modified: 2026-10-22T22:37:24.094Z
-published: 2026-10-22T22:37:24.094Z
+modified: 2026-10-23T04:28:35.263Z
+published: 2026-10-23T04:28:35.263Z
 aliases: []
 books: []
 categories:
@@ -73,8 +73,10 @@ Overall, New Mexico is a state of contrasts, blending centuries-old traditions w
 
 ## Sub-places
 
+- [[Albuquerque]]
 - [[Atari video game burial (Alamogordo)]]
 - [[Chama, New Mexico]]
 - [[Los Alamos National Laboratory]]
 - [[Raton Pass]]
+- [[Trinity Site]]
 - [[Waste Isolation Pilot Plant]]

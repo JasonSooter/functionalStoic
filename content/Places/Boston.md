@@ -2,8 +2,8 @@
 publish: true
 title: Boston
 created: 2026-10-21T13:56:40.000Z
-modified: 2026-10-22T22:37:08.482Z
-published: 2026-10-22T22:37:08.482Z
+modified: 2026-10-23T04:28:32.735Z
+published: 2026-10-23T04:28:32.735Z
 aliases: []
 books: []
 categories:
@@ -31,4 +31,5 @@ Capital of Massachusetts, on Massachusetts Bay. It collects places from Jason's 
 - [[Harvard Business School]]
 - [[Logan International Airport]]
 - [[New England Aquarium]]
+- [[Raymor-Playmor Ballroom]]
 - [[Seaport World Trade Center]]

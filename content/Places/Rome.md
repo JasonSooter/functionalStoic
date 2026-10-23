@@ -2,8 +2,8 @@
 publish: true
 title: Rome
 created: 2026-10-19T22:30:51.000Z
-modified: 2026-10-23T02:26:47.542Z
-published: 2026-10-23T02:26:47.542Z
+modified: 2026-10-23T04:28:41.277Z
+published: 2026-10-23T04:28:41.277Z
 aliases:
   - Roma
 books:
@@ -39,6 +39,7 @@ Capital of Italy. A setting in Colum McCann's _Apeirogon_: Zuaiter rides two bus
 - [[Circus Maximus]]
 - [[Piazza dei Navigatori]]
 - [[Roman Forum]]
+- [[Sistine Chapel]]
 - [[St Peter's Basilica]]
 - [[Trastevere]]
 - [[Villa of Pliny at Laurentum]]

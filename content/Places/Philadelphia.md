@@ -2,8 +2,8 @@
 publish: true
 title: Philadelphia
 created: 2026-10-20T16:28:35.000Z
-modified: 2026-10-23T02:26:44.298Z
-published: 2026-10-23T02:26:44.298Z
+modified: 2026-10-23T04:28:34.151Z
+published: 2026-10-23T04:28:34.151Z
 aliases: []
 books:
   - "[[The First Great Founder]]"
@@ -38,6 +38,7 @@ City on the Delaware River in [[Pennsylvania]], USA, which appears in the readin
 ## Sub-places
 
 - [[Buddakan (Philadelphia)]]
+- [[Frankford Arsenal]]
 - [[Gladfelter Hall]]
 - [[Hunting Park (Philadelphia)]]
 - [[John C. Anderson Apartments]]
