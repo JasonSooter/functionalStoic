@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2026-10-20T01:38:29.000Z
-modified: 2026-10-23T22:38:22.828Z
-published: 2026-10-23T22:38:22.828Z
+modified: 2026-10-29T20:14:41.230Z
+published: 2026-10-29T20:14:41.230Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -69,6 +69,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[London Waterloo station]]
 - [[London Zoo]]
 - [[Lord's Cricket Ground]]
+- [[Mûr de Ned]]
 - [[Natural History Museum, London]]
 - [[Palace of Green Porcelain (The Time Machine)]]
 - [[Palace of Westminster]]
