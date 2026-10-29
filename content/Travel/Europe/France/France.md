@@ -2,8 +2,8 @@
 publish: true
 title: France
 created: 2024-10-05T01:12:38.489Z
-modified: 2026-10-23T22:38:36.306Z
-published: 2026-10-23T22:38:36.306Z
+modified: 2026-10-29T23:12:27.810Z
+published: 2026-10-29T23:12:27.810Z
 aliases:
   - Paris, France
   - Paris
@@ -95,6 +95,7 @@ Upon return, we watched a PBS Nova video that launched about the [building of th
 - [[Dijon-Ville station]]
 - [[French Riviera]]
 - [[Gare de Nancy]]
+- [[Grand Est]]
 - [[Hall of Mirrors]]
 - [[Latche]]
 - [[Lyon]]
