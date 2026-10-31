@@ -2,18 +2,18 @@
 publish: true
 title: Hertfordshire
 created: 2026-10-23T11:13:55.000Z
-modified: 2026-10-23T22:38:17.728Z
-published: 2026-10-23T22:38:17.728Z
+modified: 2026-10-23T22:38:18.000Z
+published: 2026-10-23T22:38:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 ---
 

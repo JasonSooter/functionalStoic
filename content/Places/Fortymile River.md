@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Fortymile River
-created: 2026-10-23T22:34:42.628Z
-modified: 2026-10-23T22:34:42.628Z
-published: 2026-10-23T22:34:42.628Z
 aliases:
   - Forty-Mile Creek
+title: Fortymile River
+created: 2026-10-23T22:34:43.000Z
+modified: 2026-10-23T22:34:43.000Z
+published: 2026-10-23T22:34:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Call of the Wild
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - 64.4264
   - -140.5333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Yukon]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Yukon]]"
 River flowing from Alaska into the Yukon River below Dawson. In _The Call of the Wild_ Buck pulls Thornton from its rapids.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Call of the Wild | Jack London | turning point | Buck pulls Thornton out of its rapids. |
 
 ## The Call of the Wild — Jack London (1903)
+
 Source: [Original](https://openlibrary.org/works/OL14942956W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5r5r89z013ecdhq4z9bb)
 
 > The three partners were lining a long and narrow poling-boat down a bad stretch of rapids on the Forty-Mile Creek. Hans and Pete moved along the bank, snubbing with a thin Manila rope from tree to tree,

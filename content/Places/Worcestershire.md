@@ -2,18 +2,18 @@
 publish: true
 title: Worcestershire
 created: 2026-10-23T11:16:48.000Z
-modified: 2026-10-29T20:14:27.174Z
-published: 2026-10-29T20:14:27.174Z
+modified: 2026-10-29T20:14:27.000Z
+published: 2026-10-29T20:14:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 ---
 

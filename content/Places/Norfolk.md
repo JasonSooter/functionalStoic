@@ -2,18 +2,18 @@
 publish: true
 title: Norfolk
 created: 2026-10-21T11:07:37.000Z
-modified: 2026-10-23T22:39:06.832Z
-published: 2026-10-23T22:39:06.832Z
+modified: 2026-10-23T22:39:07.000Z
+published: 2026-10-23T22:39:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 ---
 

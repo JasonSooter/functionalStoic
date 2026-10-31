@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Saint Paul Island
-created: 2026-10-23T22:33:56.512Z
-modified: 2026-10-23T22:33:56.512Z
-published: 2026-10-23T22:33:56.512Z
 aliases:
   - St. Paul Island
   - Novastoshnah
   - Island of St. Paul
+title: Saint Paul Island
+created: 2026-10-23T22:33:57.000Z
+modified: 2026-10-23T22:33:57.000Z
+published: 2026-10-23T22:33:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Jungle Book
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 57.1785
   - -170.2891
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alaska]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Alaska]]"
 Largest of the Pribilof Islands in the Bering Sea, Alaska. It is the home beach of Kotick in 'The White Seal' in _The Jungle Book_, from Novastoshnah to the killing-grounds.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Jungle Book | Rudyard Kipling | setting | Kotick's home beach in 'The White Seal', and the killing-grounds he flees. |
 
 ## The Jungle Book — Rudyard Kipling (1894)
+
 Source: [Original](https://openlibrary.org/works/OL19870W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2v47an6mzspbx8j2wrbg)
 
 > All these things happened several years ago at a place called Novastoshnah, or North East Point, on the Island of St. Paul, away and away in the Bering Sea.

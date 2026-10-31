@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Yarmouth Roads
-created: 2026-10-23T22:35:10.190Z
-modified: 2026-10-23T22:35:10.190Z
-published: 2026-10-23T22:35:10.190Z
+created: 2026-10-23T22:35:10.000Z
+modified: 2026-10-23T22:35:10.000Z
+published: 2026-10-23T22:35:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Robinson Crusoe
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - 52.6072
   - 1.7315
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Norfolk]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Norfolk]]"
 Anchorage off Great Yarmouth on the Norfolk coast. Crusoe's first ship founders in a storm there, in his first taste of shipwreck.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Robinson Crusoe | Daniel Defoe | setting | His first shipwreck, in a storm at anchor off Yarmouth. |
 
 ## Robinson Crusoe — Daniel Defoe (1719)
+
 Source: [Original](https://openlibrary.org/works/OL45237W) · [Readwise highlight](https://read.readwise.io/read/01m5ne478b5emjhcsddhf36z2b)
 
 > The sixth day of our being at sea we came into Yarmouth Roads; the wind having been contrary and the weather calm, we had made but little way since the storm.

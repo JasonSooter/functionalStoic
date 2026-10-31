@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Crusoe's island
-created: 2026-10-23T22:34:14.679Z
-modified: 2026-10-23T22:34:14.679Z
-published: 2026-10-23T22:34:14.679Z
 aliases:
   - Island of Despair
+title: Crusoe's island
+created: 2026-10-23T22:34:15.000Z
+modified: 2026-10-23T22:34:15.000Z
+published: 2026-10-23T22:34:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Robinson Crusoe
 categories:
@@ -13,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 9.0,-61.0
-geo_note: "inferred: the text puts the island in the mouth of the Orinoco with Trinidad\
-  \ to the west and north-west; pinned at the Orinoco Delta"
+geo_note: "inferred: the text puts the island in the mouth of the Orinoco with Trinidad to the west and north-west; pinned at the Orinoco Delta"
 geo_source: Wikipedia (en), Orinoco Delta
 icon: book
 location:
   - 9
   - -61
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Venezuela]]"
 ---
 
@@ -32,11 +31,13 @@ within: "[[Venezuela]]"
 The unnamed island where Crusoe spends 28 years, which the text places in the mouth of the Orinoco off Venezuela; pinned there as an inference. His castle, the footprint, the cannibal shore and Friday's rescue are all on it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Robinson Crusoe | Daniel Defoe | setting | Twenty-eight years of castaway life, from the footprint to Friday to rescue. |
 
 ## Robinson Crusoe — Daniel Defoe (1719)
+
 Source: [Original](https://openlibrary.org/works/OL45237W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5csfsf63yjrv9gbrvzgb)
 
 > This I understood to be no more than the sets of the tide, as going out or coming in; but I afterwards understood it was occasioned by the great draft and reflux of the mighty river Orinoco, in the mouth or gulf of which river, as I found afterwards, our island lay; and that this land, which I perceived to be W. and NW., was the great island Trinidad, on the north point of the mouth of the river.

@@ -2,18 +2,18 @@
 publish: true
 title: Essex
 created: 2026-10-20T02:11:40.000Z
-modified: 2026-10-23T22:38:18.984Z
-published: 2026-10-23T22:38:18.984Z
+modified: 2026-10-23T22:38:19.000Z
+published: 2026-10-23T22:38:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Essex

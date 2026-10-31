@@ -1,9 +1,13 @@
 ---
 publish: true
 title: White River
-created: 2026-10-23T22:35:06.546Z
-modified: 2026-10-23T22:35:06.546Z
-published: 2026-10-23T22:35:06.546Z
+created: 2026-10-23T22:35:07.000Z
+modified: 2026-10-23T22:35:07.000Z
+published: 2026-10-23T22:35:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Call of the Wild
 categories:
@@ -16,10 +20,6 @@ icon: book
 location:
   - 63.19
   - -139.5897
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Yukon]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Yukon]]"
 Silt-laden tributary joining the Yukon River south of Dawson. At John Thornton's camp at its mouth in _The Call of the Wild_ Thornton saves Buck from Hal.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Call of the Wild | Jack London | turning point | Thornton saves Buck at his camp before Hal's sled goes through the ice. |
 
 ## The Call of the Wild — Jack London (1903)
+
 Source: [Original](https://openlibrary.org/works/OL14942956W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5px0ne3s5ptbmg0x5f51)
 
 > they staggered into John Thornton’s camp at the mouth of White River.

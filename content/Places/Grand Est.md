@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Grand Est
-created: 2026-10-29T23:12:14.333Z
-modified: 2026-10-29T23:12:14.333Z
-published: 2026-10-29T23:12:14.333Z
 aliases:
   - Grand-Est
   - Région Grand Est
+title: Grand Est
+created: 2026-10-29T23:12:14.000Z
+modified: 2026-10-29T23:12:14.000Z
+published: 2026-10-29T23:12:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "To France with the Deutschlandticket: Here's How"
 categories:
@@ -19,10 +23,6 @@ icon: newspaper
 location:
   - 48.7544
   - 5.8517
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[France]]"
 ---
 
@@ -41,6 +41,7 @@ Region of north-eastern France, made up of Alsace, Lorraine and Champagne-Ardenn
 - [[Alsace]]
 
 ## To France with the Deutschlandticket: Here's How — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/mit-dem-deutschlandticket-nach-frankreich-so-gehts/) · [Readwise highlight](https://read.readwise.io/read/01m64yyhhe1easkgwgr5xfn7ge)
 
 > Thanks to a special arrangement, you can reach attractive destinations in the French Grand Est region from Freiburg.

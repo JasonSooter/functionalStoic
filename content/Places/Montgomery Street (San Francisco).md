@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Montgomery Street
-created: 2026-10-23T22:33:31.535Z
-modified: 2026-10-23T22:33:31.535Z
-published: 2026-10-23T22:33:31.535Z
+created: 2026-10-23T22:33:32.000Z
+modified: 2026-10-23T22:33:32.000Z
+published: 2026-10-23T22:33:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Around the World in Eighty Days
 categories:
@@ -15,10 +19,6 @@ icon: book
 location:
   - 37.7953
   - -122.4031
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 ---
 
@@ -27,11 +27,13 @@ within: "[[San Francisco]]"
 Street in San Francisco's Financial District. In _Around the World in Eighty Days_ Fogg's party is caught in an election brawl there, starting the feud with Colonel Proctor.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | setting | An election brawl starts the feud with Colonel Proctor. |
 
 ## Around the World in Eighty Days — Jules Verne (1872)
+
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3rd0jtpcpsef8edg861m)
 
 > They soon found themselves in Montgomery Street, where a great crowd was collected; the side-walks, street, horsecar rails, the shop-doors, the windows of the houses, and even the roofs, were full of people.

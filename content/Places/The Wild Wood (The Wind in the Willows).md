@@ -1,11 +1,15 @@
 ---
 publish: true
-title: The Wild Wood
-created: 2026-10-23T22:34:54.763Z
-modified: 2026-10-23T22:34:54.763Z
-published: 2026-10-23T22:34:54.763Z
 aliases:
   - Badger's house (The Wind in the Willows)
+title: The Wild Wood
+created: 2026-10-23T22:34:55.000Z
+modified: 2026-10-23T22:34:55.000Z
+published: 2026-10-23T22:34:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Wind in the Willows
 categories:
@@ -19,10 +23,6 @@ icon: book
 location:
   - 51.5626
   - -0.7566
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berkshire]]"
 ---
 
@@ -31,11 +31,13 @@ within: "[[Berkshire]]"
 The dark wood across the water-meadows in _The Wind in the Willows_, pinned at Quarry Wood above Cookham Dean, the wood Grahame knew. Mole gets lost there in the snow and finds Badger's underground house, and the weasels and stoats come from it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Wind in the Willows | Kenneth Grahame | setting | Mole is lost here in the snow and finds Badger's underground house. |
 
 ## The Wind in the Willows — Kenneth Grahame (1908)
+
 Source: [Original](https://openlibrary.org/works/OL28570037W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2jhsf401hq4wdkkpm8bg)
 
 > and with great cheerfulness of spirit he pushed on towards the Wild Wood, which lay before him low and threatening, like a black reef in some still southern sea.

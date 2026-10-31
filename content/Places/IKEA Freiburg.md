@@ -1,9 +1,13 @@
 ---
 publish: true
 title: IKEA Freiburg
-created: 2026-10-31T11:13:06.104Z
-modified: 2026-10-31T11:13:06.104Z
-published: 2026-10-31T11:13:06.104Z
+created: 2026-10-31T11:13:06.000Z
+modified: 2026-10-31T11:13:06.000Z
+published: 2026-10-31T11:13:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Drei LastenVelos bei IKEA
@@ -16,10 +20,6 @@ icon: newspaper
 location:
   - 48.0283
   - 7.8326
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Freiburg]]"
 IKEA store on Hermann-Mitsch-Straße in the Brühl industrial area of [[Freiburg]]. A LastenVelo Freiburg post announces three free cargo bikes stationed there, two of them reserved for IKEA customers during opening hours.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Drei LastenVelos bei IKEA | Robert | setting | Three new cargo bikes at IKEA: nos. 10 and 11 for IKEA customers in opening hours, no. 12 for everyone. |
 
 ## Drei LastenVelos bei IKEA — Robert
+
 Source: [Original](https://www.lastenvelofreiburg.de/drei-lastenvelos-bei-ikea/) · [Readwise highlight](https://read.readwise.io/read/01m68tjybressjn6hj80m6mc2x)
 
 > Zwei der Räder sind immer zu den Öffnungszeiten von IKEA für IKEA reserviert.

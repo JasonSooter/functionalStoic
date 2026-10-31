@@ -2,8 +2,12 @@
 publish: true
 title: Pamplona
 created: 2026-10-22T10:25:59.000Z
-modified: 2026-10-23T22:37:22.973Z
-published: 2026-10-23T22:37:22.973Z
+modified: 2026-10-23T22:37:23.000Z
+published: 2026-10-23T22:37:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller
@@ -17,10 +21,6 @@ icon: book
 location:
   - 42.8167
   - -1.65
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Spain]]"
 ---
 
@@ -36,6 +36,7 @@ City in Navarre, northern [[Spain]], whose Running of the Bulls anchors a family
 | Robinson Crusoe | Daniel Defoe | turning point | Snowbound in Pamplona before the wolf attacks in the Pyrenees. |
 
 ## Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller — Steve Miller (2015)
+
 Source: [Original](https://www.themoneymine.com/early-retirement-from-the-sale-of-a-multi-million-dollar-business-with-steve-miller/) · [Readwise highlight](https://read.readwise.io/read/01m5hj19x7nbrdj5cc50wfc8gs)
 
 > We planned the trip around the Running of the Bulls in Pamplona but spent time in Paris, Spain, Italy and Portugal. The Running of the Bulls is something everyone should experience.
@@ -45,6 +46,7 @@ Source: [Original](https://www.themoneymine.com/early-retirement-from-the-sale-o
 - **Why it matters:** The festival is the fixed point the whole trip is built around; it shows retirement spent on experiences rather than things.
 
 ## Robinson Crusoe — Daniel Defoe (1719)
+
 Source: [Original](https://openlibrary.org/works/OL45237W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5fj9124q5nv92d2edgp6)
 
 > When we came to Pampeluna itself, we found it so indeed; and to me, that had been always used to a hot climate, and to countries where I could scarce bear any clothes on, the cold was insufferable

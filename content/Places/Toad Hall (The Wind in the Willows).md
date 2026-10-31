@@ -1,9 +1,13 @@
 ---
 publish: true
 title: Toad Hall
-created: 2026-10-23T22:34:59.747Z
-modified: 2026-10-23T22:34:59.747Z
-published: 2026-10-23T22:34:59.747Z
+created: 2026-10-23T22:35:00.000Z
+modified: 2026-10-23T22:35:00.000Z
+published: 2026-10-23T22:35:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Wind in the Willows
 categories:
@@ -11,17 +15,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 51.4848,-1.0355
-geo_note: "best-guess: several Thames-side houses are proposed as the model; pinned\
-  \ at Mapledurham House"
+geo_note: "best-guess: several Thames-side houses are proposed as the model; pinned at Mapledurham House"
 geo_source: Wikipedia (en), Mapledurham House
 icon: book
 location:
   - 51.4848
   - -1.0355
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oxfordshire]]"
 ---
 
@@ -30,11 +29,13 @@ within: "[[Oxfordshire]]"
 Toad's riverside mansion in _The Wind in the Willows_, pinned at a best guess on Mapledurham House by the Thames. It is the home Toad squanders and the stoats and weasels seize, and the four friends retake in the book's last battle.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Wind in the Willows | Kenneth Grahame | setting | Toad's mansion, lost to the weasels and retaken through the secret passage. |
 
 ## The Wind in the Willows — Kenneth Grahame (1908)
+
 Source: [Original](https://openlibrary.org/works/OL28570037W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2gjxvn84zf4w6b5sd9ha)
 
 > There’s Toad Hall,” said the Rat; “and that creek on the left, where the notice-board says, ‘Private. No landing allowed,’ leads to his boat-house, where we’ll leave the boat.

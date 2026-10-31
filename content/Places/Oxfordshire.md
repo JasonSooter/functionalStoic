@@ -2,18 +2,18 @@
 publish: true
 title: Oxfordshire
 created: 2026-10-22T01:44:40.000Z
-modified: 2026-10-23T22:38:34.131Z
-published: 2026-10-23T22:38:34.131Z
+modified: 2026-10-23T22:38:34.000Z
+published: 2026-10-23T22:38:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 ---
 

@@ -2,18 +2,18 @@
 publish: true
 title: Egypt
 created: 2026-10-22T16:49:42.000Z
-modified: 2026-10-23T22:38:47.177Z
-published: 2026-10-23T22:38:47.177Z
+modified: 2026-10-23T22:38:47.000Z
+published: 2026-10-23T22:38:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Egypt

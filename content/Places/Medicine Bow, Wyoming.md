@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Medicine Bow, Wyoming
-created: 2026-10-23T22:35:35.083Z
-modified: 2026-10-23T22:35:35.083Z
-published: 2026-10-23T22:35:35.083Z
 aliases:
   - Medicine Bow
+title: Medicine Bow, Wyoming
+created: 2026-10-23T22:35:35.000Z
+modified: 2026-10-23T22:35:35.000Z
+published: 2026-10-23T22:35:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Around the World in Eighty Days
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - 41.8994
   - -106.2019
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Wyoming]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Wyoming]]"
 Small town on the Union Pacific line in Carbon County, Wyoming. In _Around the World in Eighty Days_ the train leaps its ruined suspension bridge at full speed.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | turning point | The train leaps the ruined bridge at full speed. |
 
 ## Around the World in Eighty Days — Jules Verne (1872)
+
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3vsr365kxg6d32b1ak6j)
 
 > This was a suspension-bridge thrown over some rapids, about a mile from the place where they now were. According to the signal-man, it was in a ruinous condition, several of the iron wires being broken; and it was impossible to risk the passage.

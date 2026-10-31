@@ -2,8 +2,8 @@
 publish: true
 title: Nantucket
 created: 2026-10-22T22:59:03.000Z
-modified: 2026-10-23T19:06:25.489Z
-published: 2026-10-23T19:06:25.489Z
+modified: 2026-10-23T19:17:17.000Z
+published: 2026-10-23T19:17:17.000Z
 tags:
   - places
   - place/literary
@@ -34,7 +34,8 @@ Island off Cape Cod, Massachusetts. Maria Mitchell grew up there, and Diane Acke
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Diane Ackerman on the Evolutionary and Existential Purpose of Deep Play | Maria Popova | setting | On a July research trip to Nantucket, the author swims in the ocean each day and is drawn toward a long-necked bird that lets her swim… |
-| Mari                      Touching Testament to Tenacity | -------------------------- | --------------- | ------- | --------------------------------------------------------------------------------------------------------------- |of [[ExploratiMoby-Dick\|ck]] Herman Melville | setting | The Pequod's home port: the Try Pots chowder, Peleg and Bildad at the wharf, the Christmas sailing, and the home Ahab won't turn back to. |
+| Maria Mitchell and the Spider’s Web: A Touching Testament to Tenacity from America’s First Woman Astronomer | Maria Popova | setting | Mitchell grows up in a large Quaker family on Nantucket, the setting of her diaries of instrument repairs. |
+| [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | setting | The Pequod's home port: the Try Pots chowder, Peleg and Bildad at the wharf, the Christmas sailing, and the home Ahab won't turn back to. |
 
 ## Sub-places
 
@@ -62,7 +63,7 @@ Source: [Original](https://www.brainpickings.org/2016/08/01/maria-mitchell-diary
 
 ## Moby-Dick — Herman Melville (1851)
 
-SouMoby-Dickby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m76s9dbxbx2qcq6kpnpbj7)
+Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m76s9dbxbx2qcq6kpnpbj7)
 
 > Nantucket! Take out your map and look at it. See what a real corner of the world it occupies; how it stands there, away off shore, more lonely than the Eddystone lighthouse.
 

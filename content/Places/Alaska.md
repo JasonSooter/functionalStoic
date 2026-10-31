@@ -2,18 +2,18 @@
 publish: true
 title: Alaska
 created: 2026-10-21T11:07:13.000Z
-modified: 2026-10-23T22:38:40.426Z
-published: 2026-10-23T22:38:40.426Z
+modified: 2026-10-23T22:38:40.000Z
+published: 2026-10-23T22:38:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Alaska

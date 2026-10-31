@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Pagoda of Pillaji
-created: 2026-10-23T22:33:36.054Z
-modified: 2026-10-23T22:33:36.054Z
-published: 2026-10-23T22:33:36.054Z
 aliases:
   - Kholby (Around the World in Eighty Days)
+title: Pagoda of Pillaji
+created: 2026-10-23T22:33:36.000Z
+modified: 2026-10-23T22:33:36.000Z
+published: 2026-10-23T22:33:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Around the World in Eighty Days
 categories:
@@ -13,17 +17,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 25.44,78.57
-geo_note: "best-guess: fictional pagoda in Bundelcund; pinned at Bundelkhand's representative\
-  \ point"
+geo_note: "best-guess: fictional pagoda in Bundelcund; pinned at Bundelkhand's representative point"
 geo_source: Wikipedia (en), Bundelkhand
 icon: book
 location:
   - 25.44
   - 78.57
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 ---
 
@@ -32,11 +31,13 @@ within: "[[India]]"
 The fictional forest pagoda where Aouda is held before her suttee in _Around the World in Eighty Days_, pinned at a best guess in Bundelkhand. Fogg's party rescues her there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | turning point | Fogg's party rescues Aouda here from her suttee. |
 
 ## Around the World in Eighty Days — Jules Verne (1872)
+
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3fjeh1ky1hsb02b3gz7t)
 
 > “To the pagoda of Pillaji, two miles from here; she will pass the night there.”
