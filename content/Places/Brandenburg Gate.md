@@ -2,8 +2,13 @@
 publish: true
 title: Brandenburg Gate
 created: 2026-10-23T01:33:05.000Z
-modified: 2026-10-31T17:39:53.086Z
-published: 2026-10-31T17:39:53.086Z
+modified: 2026-10-31T17:39:53.000Z
+published: 2026-10-31T17:39:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Brandenburg Gate.svg
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 52.5163
   - 13.3777
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Brandenburg Gate.svg
 ---
@@ -37,6 +38,7 @@ Berlin's landmark gate at the end of Unter den Linden. In Tom Hanks's 'A Junket 
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Chapter 1's standpoint: Germany's 'village green', where Napoleon, the Nazis, the Wall and reunification all left their mark. |
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5v5pzs8rcqmnaessypfc3)
 
 > The German screening of the teaser took place later that night, projected onto the Brandenburg Gate to six thousand fans.
@@ -46,6 +48,7 @@ Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/unco
 - **Why it matters:** Berlin shows Rory's exhaustion and verbal slips (calling Willa 'Willa Sex'), moving the tour toward the breakdown in Paris.
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m74zge3355k411n26a44gt)
 
 > If the modern state of Germany can be said to have a village green on which communal events are marked and celebrated, then it is the area around the Brandenburg Gate.

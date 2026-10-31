@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Arlon
-created: 2026-10-19T14:07:25.000Z
-modified: 2026-10-31T16:21:51.624Z
-published: 2026-10-31T16:21:51.624Z
 aliases:
   - Aarlen
+title: Arlon
+created: 2026-10-19T14:07:25.000Z
+modified: 2026-10-31T16:21:52.000Z
+published: 2026-10-31T16:21:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Arlon.svg
 books:
   - Neither Here Nor There
 categories:
@@ -15,10 +20,6 @@ icon: book
 location:
   - 49.683
   - 5.817
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Belgium]]"
 coordinates: 49.683,5.817
 image: Attachments/Places/Arlon.svg
@@ -29,11 +30,13 @@ image: Attachments/Places/Arlon.svg
 Town in the Luxembourg province of [[Belgium]], where Bill Bryson spends his first night in Europe, in 1972, in Neither Here Nor There.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | First night in Europe, 1972: warm beer, two fried eggs and Gene Pitney with a shoe salesman and his furious wife. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5a7pz5vpr57409nxbqm933f)
 
 > It took half an hour to reach Arlon, a dreary industrial town. Everything about it looked gray and dusty, even the people.

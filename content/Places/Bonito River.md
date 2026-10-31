@@ -2,8 +2,13 @@
 publish: true
 title: Bonito River
 created: 2026-10-21T02:06:20.000Z
-modified: 2026-10-31T17:39:37.939Z
-published: 2026-10-31T17:39:37.939Z
+modified: 2026-10-31T17:39:38.000Z
+published: 2026-10-31T17:39:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bonito River.svg
 aliases: []
 books:
   - Water Worlds
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: -21.1333,-56.4833
-geo_note: approximate (Bonito town, Mato Grosso do Sul; river itself ambiguous, many
-  Bonito Rivers)
+geo_note: approximate (Bonito town, Mato Grosso do Sul; river itself ambiguous, many Bonito Rivers)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - -21.1333
   - -56.4833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brazil]]"
 image: Attachments/Places/Bonito River.svg
 ---
@@ -31,11 +31,13 @@ image: Attachments/Places/Bonito River.svg
 River in [[Brazil]]. It is the setting of a PBS nature film in which fish carry seeds upstream after eating fruit dropped by capuchin monkeys.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Water Worlds | PBS | setting | Capuchin monkeys drop sweet fruit and pirapatunga fish eat it, carrying the seeds miles upstream when they migrate to spawn. |
 
 ## Water Worlds — PBS (2022)
+
 Source: [Original](https://www.pbs.org/video/water-worlds-jqbzx5/) · [Readwise highlight](https://read.readwise.io/read/01m5e2znvnndpyrzv533tg5rt7)
 
 > Here along the Bonito River in Brazil, a variety of trees manage to do exactly that.

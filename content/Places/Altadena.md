@@ -2,8 +2,13 @@
 publish: true
 title: Altadena
 created: 2026-10-21T04:46:44.000Z
-modified: 2026-10-31T16:21:59.144Z
-published: 2026-10-31T16:21:59.144Z
+modified: 2026-10-31T16:21:59.000Z
+published: 2026-10-31T16:21:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Altadena.svg
 aliases: []
 books:
   - "What We’re Reading: Sowing Seeds of Wildfire Recovery in L.A."
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 34.1886
   - -118.1347
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Altadena.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Altadena.svg
 Town in Los Angeles County, [[California]], that appears in an RTBC reading list as the case for replanting after the L.A. fires with less flammable species.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What We’re Reading: Sowing Seeds of Wildfire Recovery in L.A. | RTBC Staff | subject | Grist piece on how fire-ravaged Altadena could replant with less flammable species and keep its green character. |
 
 ## What We’re Reading: Sowing Seeds of Wildfire Recovery in L.A. — RTBC Staff (2025)
+
 Source: [Original](https://reasonstobecheerful.world/wildfire-recovery-seed-library-la/) · [Readwise highlight](https://read.readwise.io/read/01m5ebrkj1fahd55kcecsawnyd)
 
 > Grist looks at how Altadena, California might restore its lush, green landscape with less combustible plants.

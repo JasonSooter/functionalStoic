@@ -2,8 +2,13 @@
 publish: true
 title: Blautopf
 created: 2026-10-20T04:21:46.000Z
-modified: 2026-10-31T17:39:49.994Z
-published: 2026-10-31T17:39:49.994Z
+modified: 2026-10-31T17:39:50.000Z
+published: 2026-10-31T17:39:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Blautopf.svg
 aliases: []
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
@@ -15,10 +20,6 @@ icon: video
 location:
   - 48.4161
   - 9.7839
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Baden-Württemberg]]"
 image: Attachments/Places/Blautopf.svg
 ---
@@ -28,11 +29,13 @@ image: Attachments/Places/Blautopf.svg
 Deep blue karst spring at Blaubeuren, west of Ulm, in [[Baden-Württemberg]]. It is the reason Blaubeuren appears in a DW Travel video on lesser-known German cities.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | Blaubeuren's intensely blue spring, a social media star. |
 
 ## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
+
 Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Original](https://www.youtube.com/watch?v=9AbxJrqpPqQ) · [Readwise highlight](https://read.readwise.io/read/01m5brfh4z4vc92mffwjdap5yd)
 
 > Here, you'll find the Blautopf, another social media star.

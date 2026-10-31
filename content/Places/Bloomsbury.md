@@ -2,8 +2,13 @@
 publish: true
 title: Bloomsbury
 created: 2026-10-21T23:08:06.000Z
-modified: 2026-10-31T17:39:51.690Z
-published: 2026-10-31T17:39:51.690Z
+modified: 2026-10-31T17:39:52.000Z
+published: 2026-10-31T17:39:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bloomsbury.svg
 aliases: []
 books:
   - The bohemian investor
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 51.5211
   - -0.129
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Bloomsbury.svg
 ---
@@ -29,6 +30,7 @@ image: Attachments/Places/Bloomsbury.svg
 District of central [[London]] known for its literary and artistic past. A Monevator essay uses a book launch there to weigh bohemian ideals against investing.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The bohemian investor | The Investor | setting | A book launch where old friends tease the author as the bohemian who became a banker. |
@@ -40,6 +42,7 @@ District of central [[London]] known for its literary and artistic past. A Monev
 - [[Tavistock Square]]
 
 ## The bohemian investor — The Investor (2015)
+
 Source: [Original](https://monevator.com/the-bohemian-investor/) · [Readwise highlight](https://read.readwise.io/read/01m5gbgn5rbmja5gezyeacfjzn)
 
 > A few Mondays ago I was enjoying drinks at a friend’s book launch in Bloomsbury.

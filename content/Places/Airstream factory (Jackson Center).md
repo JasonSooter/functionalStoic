@@ -2,8 +2,13 @@
 publish: true
 title: Airstream factory (Jackson Center)
 created: 2026-10-21T22:43:45.000Z
-modified: 2026-10-31T16:22:21.414Z
-published: 2026-10-31T16:22:21.414Z
+modified: 2026-10-31T16:22:21.000Z
+published: 2026-10-31T16:22:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Airstream factory (Jackson Center).svg
 aliases: []
 books:
   - Why Did We Decide on an Airstream Trailer For Full Time Travel?
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 40.4386
   - -84.0411
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ohio]]"
 image: Attachments/Places/Airstream factory (Jackson Center).svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Airstream factory (Jackson Center).svg
 Airstream's trailer factory in Jackson Center, [[Ohio]]. In a Currently Wandering post a family's tour there helps convince them to buy an Airstream.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Did We Decide on an Airstream Trailer For Full Time Travel? | Jess | journey waypoint | Factory tour that shows the family how Airstreams are built and water-tested. |
 
 ## Why Did We Decide on an Airstream Trailer For Full Time Travel? — Jess (2015)
+
 Source: [Original](https://currentlywandering.com/2015/07/07/why-did-we-decide-on-an-airstream-trailer-for-full-time-travel/) · [Readwise highlight](https://read.readwise.io/read/01m5ga19a52gfamypmc2pwpgfx)
 
 > On our first mini-van road trip, we visited the Airstream factory in Jackson Center, OH and saw how these trailers are built.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Amritsar
-created: 2026-10-20T04:33:23.000Z
-modified: 2026-10-31T16:22:13.043Z
-published: 2026-10-31T16:22:13.043Z
 aliases:
   - Grand Trunk Road near Amritsar
+title: Amritsar
+created: 2026-10-20T04:33:23.000Z
+modified: 2026-10-31T16:22:13.000Z
+published: 2026-10-31T16:22:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Amritsar.svg
 books:
   - "[[It's All About the Bike]]"
 categories:
@@ -16,10 +21,6 @@ icon: book
 location:
   - 31.64
   - 74.86
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Punjab]]"
 image: Attachments/Places/Amritsar.svg
 ---
@@ -29,14 +30,17 @@ image: Attachments/Places/Amritsar.svg
 City in [[Punjab]], India, on the Grand Trunk Road, where a roadside repair in Robert Penn's It's All About the Bike proves the case for a steel frame.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike]] | Robert Penn | turning point | A pothole crash on the Grand Trunk Road, and a roadside repair that proves steel's worth. |
 
 ## Sub-places
+
 - [[Golden Temple]]
 
 ## It's All About the Bike — Robert Penn (2010)
+
 Source: [[It's All About the Bike]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5bs7gd9857f7d9ax4w3hd16)
 
 > I was slipstreaming a tractor on the Grand Trunk Road near Amritsar.

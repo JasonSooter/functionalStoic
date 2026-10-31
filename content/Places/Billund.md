@@ -2,8 +2,13 @@
 publish: true
 title: Billund
 created: 2026-10-21T02:06:19.000Z
-modified: 2026-10-31T17:39:40.931Z
-published: 2026-10-31T17:39:40.931Z
+modified: 2026-10-31T17:39:41.000Z
+published: 2026-10-31T17:39:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Billund.svg
 aliases: []
 books:
   - "[[Back to the Moderland]]"
@@ -20,10 +25,6 @@ icon: book
 location:
   - 55.7308
   - 9.1153
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Denmark]]"
 image: Attachments/Places/Billund.svg
 ---
@@ -43,7 +44,7 @@ Town in [[Denmark]] best known as the home of Lego. It features in Helen Russell
 ## Action Items
 
 - [ ] Go to [Wow Park](https://www.theguardian.com/travel/2020/jun/24/wow-park-billund-denmark-newest-treetop-attraction)
-	- #people/authors/helen-russell mentioned this as a patch of woodland the size of forty football pitches with lashed-together suspension bridges, giant Tarzan swings, and treehouses (think Go Ape but without safety harnesses—where open fires are not only allowed but encouraged). There was a moving reunion of the smalls with the goats that graze there. There was also, I confess, an attempted adoption. I’m not naming names, but let’s just say it’s difficult to fit a goat in carry-on luggage. ([View Highlight](https://read.readwise.io/read/01jtc1rb0dajmfbrth15hm5q08))
+  - #people/authors/helen-russell mentioned this as a patch of woodland the size of forty football pitches with lashed-together suspension bridges, giant Tarzan swings, and treehouses (think Go Ape but without safety harnesses—where open fires are not only allowed but encouraged). There was a moving reunion of the smalls with the goats that graze there. There was also, I confess, an attempted adoption. I’m not naming names, but let’s just say it’s difficult to fit a goat in carry-on luggage. ([View Highlight](https://read.readwise.io/read/01jtc1rb0dajmfbrth15hm5q08))
 
 ## Sub-places
 
@@ -73,6 +74,7 @@ Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highl
 - **Why it matters:** It is the anchor of the book's premise (the Lego job) and the first culture-shock location, but the couple then choose to live elsewhere nearby, so it is partly a launch pad. Moving the job to Copenhagen would remove the rural-isolation theme.
 
 ## The post I didn't want to write… — Helen Russell
+
 Source: [Original](https://mshelenrussell.substack.com/p/the-post-i-didnt-want-to-write) · [Readwise highlight](https://read.readwise.io/read/01m5f0rpzkgm7a3bbyxsyexeg9)
 
 > I still remember that first morning when I flew into Billund in the middle of winter almost 12 years ago. I left London as a carefree, child-free woman.

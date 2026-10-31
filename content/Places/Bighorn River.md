@@ -2,8 +2,13 @@
 publish: true
 title: Bighorn River
 created: 2026-10-22T23:16:46.000Z
-modified: 2026-10-31T17:39:38.155Z
-published: 2026-10-31T17:39:38.155Z
+modified: 2026-10-31T17:39:38.000Z
+published: 2026-10-31T17:39:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bighorn River.svg
 aliases: []
 books:
   - Patagonia’s Philosopher-King – The New Yorker
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 45.3067
   - -107.9581
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Montana]]"
 image: Attachments/Places/Bighorn River.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Bighorn River.svg
 River in Montana flowing from the Yellowtail Dam through the Crow Reservation. Chouinard takes the New Yorker writer fishing there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Patagonia’s Philosopher-King – The New Yorker | Nick Paumgarten | turning point | The narrator and Chouinard drive ten and a half hours to the Bighorn, where Chouinard teaches a handful of Crow children tenkara fishing… |
 
 ## Patagonia’s Philosopher-King – The New Yorker — Nick Paumgarten (2016)
+
 Source: [Original](https://www.newyorker.com/magazine/2016/09/19/patagonias-philosopher-king) · [Readwise highlight](https://read.readwise.io/read/01m5jy7wxhjeqgsm1adh716des)
 
 > Our destination was the Bighorn River near Fort Smith, where it flows out of the Yellowtail Dam and north through the Crow Reservation, one of the biggest and poorest tribal territories in the country.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Arthur Dent's house
-created: 2026-10-23T22:33:35.000Z
-modified: 2026-10-31T16:21:59.920Z
-published: 2026-10-31T16:21:59.920Z
 aliases:
   - Arthur Dent's village
   - Horse and Groom (Hitchhiker's Guide)
+title: Arthur Dent's house
+created: 2026-10-23T22:33:35.000Z
+modified: 2026-10-31T16:22:00.000Z
+published: 2026-10-31T16:22:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Arthur Dent's house (The Hitchhiker's Guide to the Galaxy).svg
 books:
   - The Hitchhiker's Guide to the Galaxy
 categories:
@@ -14,17 +19,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 51.1,-2.9
-geo_note: "best-guess: the text gives only 'West Country farmland'; Somerset's representative\
-  \ point stands in for the West Country"
+geo_note: "best-guess: the text gives only 'West Country farmland'; Somerset's representative point stands in for the West Country"
 geo_source: Wikipedia (en), Somerset
 icon: book
 location:
   - 51.1
   - -2.9
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Somerset]]"
 image: Attachments/Places/Arthur Dent's house (The Hitchhiker's Guide to the Galaxy).svg
 ---
@@ -34,11 +34,13 @@ image: Attachments/Places/Arthur Dent's house (The Hitchhiker's Guide to the Gal
 Arthur Dent's house on the edge of an unnamed West Country village, pinned at a best guess in Somerset. It is where _The Hitchhiker's Guide to the Galaxy_ opens, with the bulldozers, the bypass and the pub down the lane.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | setting | Bulldozed for a bypass on the morning the Vogons demolish Earth; Ford breaks the news at the village pub. |
 
 ## The Hitchhiker's Guide to the Galaxy — Douglas Adams (1979)
+
 Source: [Original](https://openlibrary.org/works/OL2163649W) · [Readwise highlight](https://read.readwise.io/read/01m5ne281gx6dk7g80630j465s)
 
 > The house stood on a slight rise just on the edge of the village. It stood on its own and looked out over a broad spread of West Country farmland.

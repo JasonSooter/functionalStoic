@@ -2,8 +2,13 @@
 publish: true
 title: Buffalo
 created: 2026-10-23T01:32:42.000Z
-modified: 2026-10-31T17:39:49.882Z
-published: 2026-10-31T17:39:49.882Z
+modified: 2026-10-31T17:39:50.000Z
+published: 2026-10-31T17:39:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Buffalo.svg
 aliases: []
 books:
   - Erie Canal
@@ -17,10 +22,6 @@ icon: book
 location:
   - 42.8864
   - -78.8781
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Buffalo.svg
 ---
@@ -37,6 +38,7 @@ City at the east end of Lake Erie in western New York. In the Erie Canal article
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | setting | Western terminus: Buffalo beats Black Rock, the Seneca Chief departs in 1825, and it becomes the greatest grain port. |
 
 ## Erie Canal — wikipedia.org (2001)
+
 Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise highlight](https://read.readwise.io/read/01m5k5sd0pmkw9cekt2d8r1p41)
 
 > Buffalo won over Black Rock, and grew into a large city, eventually encompassing its former rival.
@@ -46,6 +48,7 @@ Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise high
 - **Why it matters:** The contest for the western terminus determined which town grew into a city.
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvd0are0d1t42ng60jkc1y)
 
 > As the Seneca Chief pulled away from the docks, there were simultaneously a rattle of small arms fire, a blast from a thirty-two-pound cannon, the band playing fortissimo, and robust cheers from the crowds on the shores

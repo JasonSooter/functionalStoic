@@ -1,29 +1,29 @@
 ---
 publish: true
-title: Aprica Pass
-created: 2026-10-20T01:34:55.000Z
-modified: 2026-10-31T16:21:45.677Z
-published: 2026-10-31T16:21:45.677Z
 aliases:
   - Passo dell'Aprica
   - Passo del Aprica
   - Aprica
+title: Aprica Pass
+created: 2026-10-20T01:34:55.000Z
+modified: 2026-10-31T16:21:46.000Z
+published: 2026-10-31T16:21:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Aprica Pass.svg
 books:
   - Passo del Aprica and Lago Moro
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 46.15,10.133
-geo_note: coordinate of the town of Aprica, which English Wikipedia says sits on the
-  pass
+geo_note: coordinate of the town of Aprica, which English Wikipedia says sits on the pass
 icon: newspaper
 location:
   - 46.15
   - 10.133
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy]]"
 image: Attachments/Places/Aprica Pass.svg
 ---
@@ -33,11 +33,13 @@ image: Attachments/Places/Aprica Pass.svg
 Road pass between the Valtellina and the Val Camonica in Lombardy, [[Italy]], the day's named climb in a short Mostly Bikes post.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Passo Del Aprica and Lago Moro]] | Mostly Bikes x Me | journey waypoint | A nice enough climb, then heat and headwinds. |
 
 ## Passo del Aprica and Lago Moro — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bez21tbv4jm0zwsjyw7bnb)
 
 > A nice enough climb, but hot and head winds the rest of the day.

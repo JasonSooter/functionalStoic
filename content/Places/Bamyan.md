@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Bamyan
-created: 2026-10-22T16:26:23.000Z
-modified: 2026-10-31T16:22:09.343Z
-published: 2026-10-31T16:22:09.343Z
 aliases:
   - Bamian
   - Bamiyan
+title: Bamyan
+created: 2026-10-22T16:26:23.000Z
+modified: 2026-10-31T16:22:09.000Z
+published: 2026-10-31T16:22:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bamyan.svg
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 34.825
   - 67.8333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Afghanistan]]"
 image: Attachments/Places/Bamyan.svg
 ---
@@ -31,15 +32,18 @@ image: Attachments/Places/Bamyan.svg
 Town in the Bamyan valley of central Afghanistan. Dervla Murphy's base for three days in _Full Tilt_ (as 'Bamian').
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | A bare 'Luxury, Grade A' hotel with a view of the great Buddha from her window. |
 
 ## Sub-places
+
 - [[Buddhas of Bamiyan]]
 - [[Shahr-e Gholghola]]
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6m6cwaqjm91zzygnrg583)
 
 > (The side-splitting part of this story is that Bamian Hotel is listed as Luxury, Grade A!)

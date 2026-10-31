@@ -2,8 +2,13 @@
 publish: true
 title: Adabile (Full Tilt)
 created: 2026-10-22T16:26:28.000Z
-modified: 2026-10-31T16:22:07.871Z
-published: 2026-10-31T16:22:07.871Z
+modified: 2026-10-31T16:22:08.000Z
+published: 2026-10-31T16:22:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Adabile (Full Tilt).svg
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 38.2517,48.2975
-geo_note: "inferred: text places it between Tabriz and the Caspian, near the Soviet\
-  \ border, at altitude"
+geo_note: "inferred: text places it between Tabriz and the Caspian, near the Soviet border, at altitude"
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 38.2517
   - 48.2975
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ardabil]]"
 image: Attachments/Places/Adabile (Full Tilt).svg
 ---
@@ -32,11 +32,13 @@ image: Attachments/Places/Adabile (Full Tilt).svg
 Town Dervla Murphy calls 'Adabile' in Iranian Azerbaijan, between Tabriz and the Caspian; most likely Ardabil. The scene of an assault she escapes in _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | turning point | A police officer locks her in an empty house; she fights him off and flees. |
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kmjf2ya2r7ggfw2x8xh7)
 
 > Passing through Adabile at lunchtime on a cold day (we had now risen to a considerable altitude) I paused to treat myself to a hot meal in an eating-house. As usual Roz and I attracted a curious crowd and soon a young police officer, gorgeously uniformed and braided, approached me to say that as this was a Restricted Area, because of Russia’s proximity, I must accompany him to the police-barracks to fill in some forms.

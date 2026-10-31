@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Brown University
-created: 2026-10-20T22:54:10.000Z
-modified: 2026-10-31T17:39:40.299Z
-published: 2026-10-31T17:39:40.299Z
 aliases:
   - Brown
+title: Brown University
+created: 2026-10-20T22:54:10.000Z
+modified: 2026-10-31T17:39:40.000Z
+published: 2026-10-31T17:39:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Brown University.svg
 books:
   - "[[Another Brooklyn]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 41.826
   - -71.403
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rhode Island]]"
 image: Attachments/Places/Brown University.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Brown University.svg
 University in Providence, [[Rhode Island]]; in Another Brooklyn it is where August goes to college, the escape from Bushwick.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | journey waypoint | August leaves Brooklyn by bus for college in Providence, studies death and dying, and takes her first lover. |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Readwise highlight](https://read.readwise.io/read/01m5dqys5h1wzfbmgztz5y9gnv)
 
 > When I stepped off the bus in Providence, Rhode Island, I was alone.

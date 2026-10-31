@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Alexanderplatz
-created: 2026-10-20T10:42:31.000Z
-modified: 2026-10-31T16:21:45.781Z
-published: 2026-10-31T16:21:45.781Z
 aliases:
   - Alex
+title: Alexanderplatz
+created: 2026-10-20T10:42:31.000Z
+modified: 2026-10-31T16:21:46.000Z
+published: 2026-10-31T16:21:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Alexanderplatz.svg
 books:
   - The Absolute Best Transportation for Cities (trams)
 categories:
@@ -17,10 +22,6 @@ icon: video
 location:
   - 52.5217
   - 13.4136
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Alexanderplatz.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Alexanderplatz.svg
 Public square in Mitte, [[Berlin]], Germany, shown in a Not Just Bikes video as proof that trams fit into pedestrianised squares.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Absolute Best Transportation for Cities\|The Absolute Best Transportation for Cities (trams)]] | Not Just Bikes | backdrop | Trams gliding through a pedestrian square. |
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise highlight](https://read.readwise.io/read/01m5ce4y7n524xet779vtc944q)
 
 > Alexanderplatz, a pedestrianised square in Berlin.

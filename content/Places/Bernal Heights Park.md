@@ -2,8 +2,13 @@
 publish: true
 title: Bernal Heights Park
 created: 2026-10-22T16:48:49.000Z
-modified: 2026-10-31T17:39:53.642Z
-published: 2026-10-31T17:39:53.642Z
+modified: 2026-10-31T17:39:54.000Z
+published: 2026-10-31T17:39:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bernal Heights Park.svg
 aliases: []
 books:
   - "Death by gentrification: the killing that shamed San Francisco"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 37.7434
   - -122.4135
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Bernal Heights Park.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Bernal Heights Park.svg
 Hilltop park in southern [[San Francisco]]. In Rebecca Solnit's essay it is where police shot Alejandro Nieto, a long-time local.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Death by gentrification: the killing that shamed San Francisco | Rebecca Solnit | setting | Where Nieto was shot on the park road, now marked by an unofficial memorial. |
 
 ## Death by gentrification: the killing that shamed San Francisco — Rebecca Solnit (2016)
+
 Source: [Original](https://www.theguardian.com/us-news/2016/mar/21/death-by-gentrification-the-killing-that-shamed-san-francisco) · [Readwise highlight](https://read.readwise.io/read/01m5j7v41cq6tbf53d05kjyh69)
 
 > On the road that curves around the green hilltop of Bernal Heights Park there is an unofficial memorial to Nieto. People walking dogs or running or taking a stroll stop to read the banner, which is pinned by stones to the slope of the hill and surrounded by fresh and artificial flowers.

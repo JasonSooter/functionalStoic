@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Barcelona
-created: 2026-10-20T22:55:13.000Z
-modified: 2026-10-31T16:22:12.711Z
-published: 2026-10-31T16:22:12.711Z
 aliases:
   - Barcelona, Spain
+title: Barcelona
+created: 2026-10-20T22:55:13.000Z
+modified: 2026-10-31T16:22:13.000Z
+published: 2026-10-31T16:22:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Barcelona.svg
 books:
   - In Barcelona, a Little Energy Advice Goes a Long Way
   - "[[How ‘Superblocks’ Can Create People-Centered Cities]]"
@@ -21,10 +26,6 @@ icon: newspaper
 location:
   - 41.3833
   - 2.1833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Catalonia]]"
 image: Attachments/Places/Barcelona.svg
 ---
@@ -52,6 +53,7 @@ Capital of [[Catalonia]], Spain, which appears in the reading as a city of munic
 - [[Superilla de Sant Antoni]]
 
 ## In Barcelona, a Little Energy Advice Goes a Long Way — Peter Yeung (2025)
+
 Source: [Original](https://reasonstobecheerful.world/barcelona-energy-advising-points/) · [Readwise highlight](https://read.readwise.io/read/01m5dqxrpw13ka0na7gs73435q)
 
 > Living alone in a social housing apartment in Barcelona, Gallard, now 74, was in an extremely precarious position.
@@ -61,6 +63,7 @@ Source: [Original](https://reasonstobecheerful.world/barcelona-energy-advising-p
 - **Why it matters:** The city is the article's case study of a municipal program against energy poverty.
 
 ## How ‘Superblocks’ Can Create People-Centered Cities — Kaja Šeruga (2025)
+
 Source: [[How ‘Superblocks’ Can Create People-Centered Cities]] · [Original](https://reasonstobecheerful.world/superblocks-are-for-people/) · [Readwise highlight](https://read.readwise.io/read/01m5edfcyacejtahdfk3kk6xjy)
 
 > In Barcelona, which is laid out in a uniform grid, the classic superblock is a square of nine blocks intersected by four streets, with two out of three parallel streets closed to vehicle traffic.
@@ -70,6 +73,7 @@ Source: [[How ‘Superblocks’ Can Create People-Centered Cities]] · [Original
 - **Why it matters:** The city and its grid are the subject of the story; the superblock idea is shaped by Barcelona’s uniform street layout.
 
 ## Opinion – Choose to Be Grateful. It Will Make You Happier. - The New York Times — Arthur C. Brooks (2015)
+
 Source: [Original](https://www.nytimes.com/2015/11/22/opinion/sunday/choose-to-be-grateful-it-will-make-you-happier.html) · [Readwise highlight](https://read.readwise.io/read/01m5hk597675ntv6rrfjd5sxmj)
 
 > TWENTY-FOUR years ago this month, my wife and I married in Barcelona, Spain.
@@ -79,6 +83,7 @@ Source: [Original](https://www.nytimes.com/2015/11/22/opinion/sunday/choose-to-b
 - **Why it matters:** The Barcelona dinner is the anecdote the essay's argument about choosing gratitude grows from.
 
 ## Typeform: Amazing Companies Can Come From Anywhere — John Battelle (2016)
+
 Source: [Original](https://shift.newco.co/typeform-amazing-companies-can-come-from-anywhere-d28a277ee662) · [Readwise highlight](https://read.readwise.io/read/01m5jy9a54r2mw8sk8a94drzjz)
 
 > Half of its employees, including Okuniev, hail from outside Barcelona

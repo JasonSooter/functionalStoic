@@ -2,8 +2,13 @@
 publish: true
 title: Albert College Park
 created: 2026-10-20T13:41:15.000Z
-modified: 2026-10-31T16:22:25.522Z
-published: 2026-10-31T16:22:25.522Z
+modified: 2026-10-31T16:22:26.000Z
+published: 2026-10-31T16:22:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Albert College Park.svg
 aliases: []
 books:
   - Ireland’s $27BN Mission to Save Dublin
@@ -11,31 +16,28 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 53.3850,-6.2565
-geo_note: approximate (Dublin City University's Glasnevin campus, which adjoins the
-  park; no gazetteer prints the park itself)
+geo_note: approximate (Dublin City University's Glasnevin campus, which adjoins the park; no gazetteer prints the park itself)
 geo_source: Wikipedia (en)
 icon: video
 location:
   - 53.385
   - -6.2565
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dublin]]"
 image: Attachments/Places/Albert College Park.svg
 ---
 
 # Albert College Park
 
-Public park in Glasnevin, north [[Dublin]], Ireland, chosen as the site of a MetroLink intervention shaft in a B1M video on Dublin's $27 billion metro.
+Public park in Glasnevin, north [[Dublin]], Ireland, chosen as the site of a MetroLink intervention shaft in a B1M video on Dublin's \$27 billion metro.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Ireland’s $27BN Mission to Save Dublin]] | The B1M | subject | Chosen site of a MetroLink intervention shaft. |
 
-## Ireland’s $27BN Mission to Save Dublin — The B1M (2026)
+## Ireland’s \$27BN Mission to Save Dublin — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=T_Jz9xzOoO4) · [Readwise highlight](https://read.readwise.io/read/01m5crb8m6pqbp2jsbcg6r3zxh)
 
 > Albert College Park is the destination of choice.
