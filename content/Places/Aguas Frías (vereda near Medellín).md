@@ -2,12 +2,8 @@
 publish: true
 title: Aguas Frías (vereda near Medellín)
 created: 2026-10-21T02:06:07.000Z
-modified: 2026-10-21T10:32:59.000Z
-published: 2026-10-21T10:32:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:22:14.711Z
+published: 2026-10-31T16:22:14.711Z
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
@@ -16,13 +12,19 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 6.2347,-75.6466
-geo_note: "inferred: Text ties the vereda to Medellín; several Aguas Frías entries exist so the vereda-level match is inferred."
+geo_note: "inferred: Text ties the vereda to Medellín; several Aguas Frías entries\
+  \ exist so the vereda-level match is inferred."
 geo_source: GeoNames 8336421
 icon: book
 location:
   - 6.2347
   - -75.6466
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Medellín]]"
+image: Attachments/Places/Aguas Frías (vereda near Medellín).svg
 ---
 
 # Aguas Frías (vereda near Medellín)
@@ -30,13 +32,11 @@ within: "[[Medellín]]"
 Isolated mountain community (vereda) above Medellín, Colombia, likely the real place behind a former Peace Corps volunteer's story of getting a school built there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | A former Colombia volunteer is led on horseback to Aguas Frias, an isolated community desperate for a school. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (1997)
-
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5e33k51zbza7rbnvc5dwe37)
 
 > We rode straight up into the mountains for about three miles to meet an isolated community of campesinos in a vereda called Aguas Frias.

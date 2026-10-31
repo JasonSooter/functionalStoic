@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Apostle Islands
 title: Apostle Islands National Lakeshore
 created: 2026-10-21T23:16:37.000Z
-modified: 2026-10-21T23:16:37.000Z
-published: 2026-10-21T23:16:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:21:43.017Z
+published: 2026-10-31T16:21:43.017Z
+aliases:
+  - Apostle Islands
 books:
   - Andrew’s 8th Backpacking Birthday on the Apostle Islands, Wisconsin
 categories:
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 46.9653
   - -90.6642
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Wisconsin]]"
+image: Attachments/Places/Apostle Islands National Lakeshore.svg
 ---
 
 # Apostle Islands National Lakeshore
@@ -29,13 +30,11 @@ within: "[[Wisconsin]]"
 Island group in Lake Superior off northern [[Wisconsin]]. A Currently Wandering post celebrates a son's eighth birthday backpacking there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Andrew’s 8th Backpacking Birthday on the Apostle Islands, Wisconsin | Jess | setting | A backpacking birthday: a new pocket knife, a hike to the next beach camp and a s'mores 'cake'. |
 
 ## Andrew’s 8th Backpacking Birthday on the Apostle Islands, Wisconsin — Jess (2015)
-
 Source: [Original](http://currentlywandering.com/2015/09/01/andrews-8th-backpacking-birthday-on-the-apostle-islands-wisconsin/) · [Readwise highlight](https://read.readwise.io/read/01m5gby189dsvwt3jmemtbcq2z)
 
 > Sam and I decided it would be great to have him open it while we were out backpacking on the Apostle Islands.

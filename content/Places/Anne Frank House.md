@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Anne Frank House
+created: 2026-10-19T22:24:07.000Z
+modified: 2026-10-31T16:22:23.386Z
+published: 2026-10-31T16:22:23.386Z
 aliases:
   - Anne Frank Huis
   - Prinsengracht 263
-title: Anne Frank House
-created: 2026-10-19T22:24:07.000Z
-modified: 2026-10-21T10:32:01.000Z
-published: 2026-10-21T10:32:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 52.3753
   - 4.8843
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Amsterdam]]"
+image: Attachments/Places/Anne Frank House.svg
 ---
 
 # Anne Frank House
@@ -29,13 +30,11 @@ within: "[[Amsterdam]]"
 Canal-house museum on the Prinsengracht in [[Amsterdam]] where the Frank family hid during the war, and the emotional end of Bill Bryson's Amsterdam chapter in Neither Here Nor There.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | The emotional end of the Amsterdam chapter, and a complaint that the Dutch helpers go unmentioned. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b43p434stmmwj5w5s51bd8)
 
 > Afterward I strolled on to the Anne Frank House on Prinsengracht. It was packed with visitors, but moving nonetheless.

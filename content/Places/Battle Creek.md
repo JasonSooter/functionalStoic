@@ -2,12 +2,8 @@
 publish: true
 title: Battle Creek
 created: 2026-10-21T14:11:25.000Z
-modified: 2026-10-21T14:11:25.000Z
-published: 2026-10-21T14:11:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:22:24.298Z
+published: 2026-10-31T16:22:24.298Z
 aliases: []
 books:
   - Jerry Seinfeld Says Movies Are Over. Here’s Why He Made One Anyway
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 42.3122
   - -85.2042
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Michigan]]"
+image: Attachments/Places/Battle Creek.svg
 ---
 
 # Battle Creek
@@ -28,13 +29,11 @@ within: "[[Michigan]]"
 Battle Creek is a city in southern Michigan, home of the Kellogg cereal company. It turns up in Jerry Seinfeld Says Movies Are Over. Here’s Why He Made One Anyway (Brett Martin): It is the setting of the film the profile is built around and the contrast with Seinfeld's New York.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Jerry Seinfeld Says Movies Are Over. Here’s Why He Made One Anyway | Brett Martin | setting | Seinfeld's directorial debut Unfrosted is set in Battle Creek in the early 1960s, among the warring cereal giants Kellogg's and Post. |
 
 ## Jerry Seinfeld Says Movies Are Over. Here’s Why He Made One Anyway — Brett Martin (2024)
-
 Source: [Original](https://www.gq.com/story/jerry-seinfeld-gq-hype) · [Readwise highlight](https://read.readwise.io/read/01m5fcnf423byq83b0m37s6tzx)
 
 > The film is set in cereal Valhalla, Battle Creek, Michigan, in the early 1960s, an era that has long fascinated Seinfeld and from which, it sometimes seems, he leapt directly into the 1980s.

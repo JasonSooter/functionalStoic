@@ -2,12 +2,8 @@
 publish: true
 title: Avenue de la Grande Armée
 created: 2026-10-20T04:33:28.000Z
-modified: 2026-10-21T13:28:41.000Z
-published: 2026-10-21T13:28:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:21:44.013Z
+published: 2026-10-31T16:21:44.013Z
 aliases: []
 books:
   - "[[It's All About the Bike]]"
@@ -19,7 +15,12 @@ icon: book
 location:
   - 48.8758
   - 2.2886
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Paris]]"
+image: Attachments/Places/Avenue de la Grande Armée.svg
 ---
 
 # Avenue de la Grande Armée
@@ -27,13 +28,11 @@ within: "[[Paris]]"
 Avenue running west from the Arc de Triomphe in [[Paris|Paris]], the start of the 1869 Paris–Rouen race described in Robert Penn's It's All About the Bike.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike]] | Robert Penn | journey waypoint | Start of the 1869 Paris–Rouen race, the first organised road race. |
 
 ## It's All About the Bike — Robert Penn (2010)
-
 Source: [[It's All About the Bike]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5bs7j0cbsvytbyrkwhbn5b7)
 
 > All kinds of machines set off down Avénue de la Grande Armée on 7 November 1869: monocycles, tricycles and quadricycles were among them.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Appalorne (Apeldoorn)
 title: Apeldoorn
 created: 2026-10-21T02:06:12.000Z
-modified: 2026-10-21T10:35:34.000Z
-published: 2026-10-21T10:35:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:21:42.161Z
+published: 2026-10-31T16:21:42.161Z
+aliases:
+  - Appalorne (Apeldoorn)
 books:
   - The US "Freedom" That is Illegal in Europe
 categories:
@@ -22,7 +18,12 @@ icon: video
 location:
   - 52.2167
   - 5.9667
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Netherlands]]"
+image: Attachments/Places/Apeldoorn.svg
 ---
 
 # Apeldoorn
@@ -30,13 +31,11 @@ within: "[[Netherlands]]"
 Town in the [[Netherlands]], site of the 2009 Queen's Day attack that closes a Type Ashton video on press anonymity.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The US Freedom That Is Illegal in Europe\|The US "Freedom" That is Illegal in Europe]] | Type Ashton | setting | A man steals a car and drives through police barriers into spectators at a Queen's Day parade where the royal family was riding. |
 
 ## The US "Freedom" That is Illegal in Europe — Type Ashton (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=677Lljg1RY4) · [Readwise highlight](https://read.readwise.io/read/01m5e32vx42n89xjvgjr9bh0cj)
 
 > headed towards a parade in the small town of Appalorne

@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Allen AME Church (Queens)
+created: 2026-10-21T16:37:26.000Z
+modified: 2026-10-31T16:21:50.736Z
+published: 2026-10-31T16:21:50.736Z
 aliases:
   - Allen African Methodist Episcopal Church
   - Greater Allen A.M.E. Cathedral
-title: Allen AME Church (Queens)
-created: 2026-10-21T16:37:26.000Z
-modified: 2026-10-21T16:37:26.000Z
-published: 2026-10-21T16:37:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - How to Be an Antiracist
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 40.695
   - -73.7814
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
+image: Attachments/Places/Allen AME Church (Queens).svg
 ---
 
 # Allen AME Church (Queens)
@@ -30,13 +31,11 @@ within: "[[New York City]]"
 Large African Methodist Episcopal cathedral on Merrick Boulevard in Jamaica, Queens. It turns up in How to Be an Antiracist (Ibram X. Kendi): megachurch where Kendi's family worshipped; Thanksgiving feeding program as emblem of Black self-reliance.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | setting | Megachurch where Kendi's family worshipped; Thanksgiving feeding program as emblem of Black self-reliance. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
-
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fms5kf5j25bqpnpnj4r8bt)
 
 > In 1985, they were drawn to Floyd H. Flake’s Allen African Methodist Episcopal Church in Southside Queens.

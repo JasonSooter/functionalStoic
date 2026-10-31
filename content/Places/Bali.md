@@ -2,12 +2,8 @@
 publish: true
 title: Bali
 created: 2026-10-22T16:29:42.000Z
-modified: 2026-10-22T16:29:42.000Z
-published: 2026-10-22T16:29:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:22:06.707Z
+published: 2026-10-31T16:22:06.707Z
 aliases: []
 books:
   - Life on Air [revised & updated 2nd edition]
@@ -21,7 +17,12 @@ icon: book
 location:
   - -8.335
   - 115.0881
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Indonesia]]"
+image: Attachments/Places/Bali.svg
 ---
 
 # Bali
@@ -32,11 +33,10 @@ Indonesian island east of Java known for its Hindu temple arts; in _Life on Air_
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | backdrop | Attenborough films its music and dance, returning eleven years later. |
+| Life on Air [revised & updated 2nd edition] | David Attenborough | backdrop | Attenborough films its music and dance, returning eleven years later. |
 | The Global Yogi: Long-Term Travel through Five Continents | Chris Guillebeau | turning point | A break-up email at the Bali Spirit Festival sets off a six-month trip. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
-
+## Life on Air [revised & updated 2nd edition] — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2j26rg15sqwewk1egppd)
 
 > The gamelan plays an essential part in temple rituals and accompanies thrilling dances and theatrical portrayals of episodes from Hindu legends, so there was plenty of visual excitement for our camera to record.
@@ -46,7 +46,6 @@ Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Re
 - **Why it matters:** An interlude of about two weeks given a page of description; not central to the animal story.
 
 ## The Global Yogi: Long-Term Travel through Five Continents — Chris Guillebeau (2015)
-
 Source: [Original](http://chrisguillebeau.com/the-global-yogi/) · [Readwise highlight](https://read.readwise.io/read/01m5j6k641wayfmm91m2x0ef1f)
 
 > While in Bali, I got a break-up email from my boyfriend.

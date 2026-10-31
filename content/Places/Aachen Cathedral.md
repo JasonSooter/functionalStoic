@@ -1,17 +1,13 @@
 ---
 publish: true
+title: Aachen Cathedral
+created: 2026-10-19T22:23:50.000Z
+modified: 2026-10-31T16:21:54.020Z
+published: 2026-10-31T16:21:54.020Z
 aliases:
   - Aachener Dom
   - Aachen Cathedral Treasury
   - Schatzkammer
-title: Aachen Cathedral
-created: 2026-10-19T22:23:50.000Z
-modified: 2026-10-23T11:13:42.000Z
-published: 2026-10-23T11:13:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Neither Here Nor There
   - "[[Germany - Memories of a Nation]]"
@@ -23,7 +19,12 @@ icon: book
 location:
   - 50.7748
   - 6.0839
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Aachen]]"
+image: Attachments/Places/Aachen Cathedral.svg
 ---
 
 # Aachen Cathedral
@@ -38,7 +39,6 @@ Charlemagne's octagonal palace chapel and its treasury (Schatzkammer), in the ce
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Charlemagne's octagon and coronation church of thirty emperors, fought over by France and Germany for his legacy. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b43hbvh9y3kz302taxrama)
 
 > Next door was the octagonal cathedral, modeled on the church of San Vitale at Ravenna, and all that remains of a palace complex mostly destroyed during the Second World War.
@@ -48,7 +48,6 @@ Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highligh
 - **Why it matters:** It's the high point of the Aachen-and-Cologne chapter and the yardstick for what follows: a day later Cologne's far bigger cathedral, marooned on a concrete plaza, leaves him cold. Set elsewhere, the chapter would lose its small-beats-big contrast.
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
-
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75q4rek9apj3vtzxxf22m)
 
 > Charlemagne was buried here in the year 814, and over the course of 600 years – from 936 to 1531 – thirty Holy Roman Emperors were crowned in this building.

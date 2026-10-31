@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Infinite Loop
 title: Apple Infinite Loop campus
 created: 2026-10-23T05:33:21.000Z
-modified: 2026-10-23T05:33:21.000Z
-published: 2026-10-23T05:33:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:21:44.809Z
+published: 2026-10-31T16:21:44.809Z
+aliases:
+  - Infinite Loop
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 37.3318
   - -122.0312
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Apple Infinite Loop campus.svg
 ---
 
 # Apple Infinite Loop campus
@@ -29,13 +30,11 @@ within: "[[California]]"
 Apple's former headquarters on Infinite Loop in Cupertino, California. In _Just for Fun_ Steve Jobs tries to recruit Linus Torvalds there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | Steve Jobs and Avie Tevanian pitch Mac OS X; Linus says he dislikes Mach, but leaves rather liking Jobs. |
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
-
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrxmfjhpy0p0ac3br5qj9)
 
 > The meeting was at Apple’s headquarters on Infinity Loop Drive.

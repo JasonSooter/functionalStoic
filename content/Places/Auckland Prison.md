@@ -2,12 +2,8 @@
 publish: true
 title: Auckland Prison
 created: 2026-10-22T22:36:57.000Z
-modified: 2026-10-22T22:36:57.000Z
-published: 2026-10-22T22:36:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:22:18.786Z
+published: 2026-10-31T16:22:18.786Z
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - -36.7581
   - 174.6448
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Auckland]]"
+image: Attachments/Places/Auckland Prison.svg
 ---
 
 # Auckland Prison
@@ -28,13 +29,11 @@ within: "[[Auckland]]"
 Maximum-security prison at Paremoremo, Auckland, New Zealand. In Project Hail Mary Stratt and Grace recruit the jailed engineer Redell there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | Grace and Stratt are searched at the gate by head guard Easton, who makes Stratt surrender her Taser |
 
 ## Project Hail Mary — Andy Weir (2021)
-
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvsrv0rwwkhnvp3k49mjjw)
 
 > Auckland Prison, which the locals called “Pare” for some reason, was New Zealand’s only maximum-security prison unit.

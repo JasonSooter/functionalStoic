@@ -2,12 +2,8 @@
 publish: true
 title: Anata
 created: 2026-10-22T16:49:06.000Z
-modified: 2026-10-22T20:03:46.000Z
-published: 2026-10-22T20:03:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:22:19.354Z
+published: 2026-10-31T16:22:19.354Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 31.8128
   - 35.2619
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[West Bank]]"
+image: Attachments/Places/Anata.svg
 ---
 
 # Anata
@@ -28,13 +29,11 @@ within: "[[West Bank]]"
 Palestinian town northeast of Jerusalem, almost encircled by the Separation Wall. Bassam Aramin's home in _Apeirogon_, where his daughter Abir is shot.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Bassam's walled-in home town, where Abir is shot near her school and carried through the market. |
 
 ## Apeirogon — Colum McCann (2020)
-
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7vwth7fx89yyxdfsf8t61)
 
 > A town of neither here nor there, Anata appears like an odd urban archipelago—a Palestinian town, in the West Bank, under Israeli occupation, within the Jerusalem governate.

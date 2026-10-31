@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Albany
 title: Albany, New York
 created: 2026-10-23T07:45:34.000Z
-modified: 2026-10-23T07:45:34.000Z
-published: 2026-10-23T07:45:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:22:24.838Z
+published: 2026-10-31T16:22:24.838Z
+aliases:
+  - Albany
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
   - "[[North Woods]]"
@@ -22,7 +18,12 @@ icon: book
 location:
   - 42.6525
   - -73.7572
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
+image: Attachments/Places/Albany, New York.svg
 ---
 
 # Albany, New York
@@ -30,14 +31,12 @@ within: "[[New York State]]"
 Capital of New York State on the Hudson, the canal's eastern end. It appears in _Wedding of the Waters_ and _North Woods_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | setting | Eastern end: the 1823 opening with the packet De Witt Clinton, and the 1825 banquet on a bridge. |
 | [[North Woods]] | Daniel Mason | journey waypoint | Osgood returns from Quebec to his sisterless house and twins, then rides out to find a wild apple tree. |
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
-
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvd22vt3pnpfsha9e3ey6e)
 
 > At 10:30 a.m. the next morning, Wednesday, November 2, Clinton and his companions arrived at Albany and passed through the last lock of the Erie Canal before entering the Hudson River.
@@ -47,7 +46,6 @@ Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Natio
 - **Why it matters:** Albany is the canal's eastern gate to the Hudson and the state capital where its politics were fought.
 
 ## North Woods — Daniel Mason (2023)
-
 Source: [[North Woods]] · [Original](https://openlibrary.org/works/OL34028309W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcawteka77pjs6f85f2zw)
 
 > I spent the winter convalescing at the Quebec garrison. When I was at last well enough to endure the journey, I travelled back to Albany, where I found my own house empty and my daughters living with my sister.

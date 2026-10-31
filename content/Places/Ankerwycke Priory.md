@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Ankerwycke Priory
+created: 2026-10-22T01:43:44.000Z
+modified: 2026-10-31T16:22:22.570Z
+published: 2026-10-31T16:22:22.570Z
 aliases:
   - Ankerwyke Priory
   - Ankerwycke
-title: Ankerwycke Priory
-created: 2026-10-22T01:43:44.000Z
-modified: 2026-10-22T01:43:44.000Z
-published: 2026-10-22T01:43:44.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 51.4442
   - -0.5565
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berkshire]]"
+image: Attachments/Places/Ankerwycke Priory.svg
 ---
 
 # Ankerwycke Priory
@@ -30,13 +31,11 @@ within: "[[Berkshire]]"
 Ruins of a medieval priory near Wraysbury on the Thames, beside the Ankerwycke yew. In Three Men in a Boat the narrator passes it at Picnic Point and spins a joke about Henry VIII courting Anne Boleyn there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | Passing Picnic Point, the priory ruins prompt a comic riff on Henry VIII and Anne Boleyn as courting lovers. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
-
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gky3tc5dsxnv35fyt7yvq1)
 
 > There are the ruins of an old priory in the grounds of Ankerwyke House, which is close to Picnic Point, and it was round about the grounds of this old priory that Henry VIII is said to have waited for and met Anne Boleyn.

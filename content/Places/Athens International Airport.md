@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Eleftherios Venizelos Airport
 title: Athens International Airport
 created: 2026-10-23T04:41:08.000Z
-modified: 2026-10-23T04:41:08.000Z
-published: 2026-10-23T04:41:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:22:15.938Z
+published: 2026-10-31T16:22:15.938Z
+aliases:
+  - Eleftherios Venizelos Airport
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 37.9364
   - 23.9472
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Athens]]"
+image: Attachments/Places/Athens International Airport.svg
 ---
 
 # Athens International Airport
@@ -29,13 +30,11 @@ within: "[[Athens]]"
 Main airport of Athens, Greece. In _The Beekeeper of Aleppo_ Nuri and Afra pass through it on false passports to board a flight to England.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | turning point | With false passports, Nuri and Afra pass security and wait at gate 27 as police remove other travellers. |
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
-
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgrjf6451kfntw0530tqfr)
 
 > At the airport we did as Marcos said. We walked through crowds of people; all the while I kept my eye on Marcos’s grey suit.

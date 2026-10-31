@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Amsterdam Centraal
+created: 2026-10-20T07:39:34.000Z
+modified: 2026-10-31T16:22:17.046Z
+published: 2026-10-31T16:22:17.046Z
 aliases:
   - Amsterdam Central Station
   - Amsterdam Centraal station
-title: Amsterdam Centraal
-created: 2026-10-20T07:39:34.000Z
-modified: 2026-10-21T10:31:51.000Z
-published: 2026-10-21T10:31:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Is European Sleeper's new "Comfort standard" Class worth the upgrade ?
 categories:
@@ -21,7 +17,12 @@ icon: video
 location:
   - 52.3783
   - 4.9
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Amsterdam]]"
+image: Attachments/Places/Amsterdam Centraal.svg
 ---
 
 # Amsterdam Centraal
@@ -29,13 +30,11 @@ within: "[[Amsterdam]]"
 Amsterdam's main railway station on the IJ waterfront, and the starting point of the European Sleeper night train to Berlin reviewed in a Simply Railway video.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Is European Sleeper's New Comfort Standard Class Worth the Upgrade \|Is European Sleeper's new "Comfort standard" Class worth the upgrade ?]] | Simply Railway | setting | Boarding the European Sleeper to Berlin amid Christmas decorations. |
 
 ## Is European Sleeper's new "Comfort standard" Class worth the upgrade ? — Simply Railway (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=-4T9QRiO8Js) · [Readwise highlight](https://read.readwise.io/read/01m5c3ppawtb95qzvq0j4f763a)
 
 > This new class was launched in December 2025, which explains the very Christmas-like vibes in Amsterdam Central Station.

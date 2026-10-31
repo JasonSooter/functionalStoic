@@ -2,12 +2,8 @@
 publish: true
 title: Afghanistan
 created: 2026-10-22T10:43:46.000Z
-modified: 2026-10-22T22:37:20.000Z
-published: 2026-10-22T22:37:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T16:22:13.191Z
+published: 2026-10-31T16:22:13.191Z
 aliases: []
 books:
   - The Price of Civilization
@@ -21,6 +17,11 @@ icon: newspaper
 location:
   - 34.5167
   - 69.1833
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+image: Attachments/Places/Afghanistan.svg
 ---
 
 # Afghanistan
@@ -28,7 +29,6 @@ location:
 Country in Central and South Asia, where Jim Wright traces the roots of modern terrorism in The Price of Civilization.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Price of Civilization | Jim Wright | turning point | The US funded the Mujahedeen against the Soviets, then left the ruins; the fighters became the Taliban and Al Qaida. |
@@ -52,7 +52,6 @@ Country in Central and South Asia, where Jim Wright traces the roots of modern t
 - [[Tangi Sharo Gorge (Full Tilt)]]
 
 ## The Price of Civilization — Jim Wright (2015)
-
 Source: [Original](https://www.stonekettle.com/2015/11/the-price-of-civilization.html) · [Readwise highlight](https://read.readwise.io/read/01m5hk506bkxs6z0g6vfzans1s)
 
 > Thirty years ago we denounced the Soviets for destroying Afghanistan and leaving nothing but ruins, a destroyed civilization, chaos.
