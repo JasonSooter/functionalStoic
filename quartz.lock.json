@@ -190,8 +190,8 @@
     "quartz-geo-map": {
       "source": "github:JasonSooter/quartz-geo-map",
       "resolved": "https://github.com/JasonSooter/quartz-geo-map.git",
-      "commit": "b7fcccd5983aab56afbf83a2db5318e0d200f82d",
-      "installedAt": "2026-10-23T09:00:00.000Z"
+      "commit": "06b79b2800fcd6500d06eb1473d043fe55d3c988",
+      "installedAt": "2026-10-31T10:50:00.000Z"
     },
     "quartz-graph": {
       "source": "github:JasonSooter/quartz-graph",
