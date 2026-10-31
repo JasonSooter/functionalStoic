@@ -1,7 +1,6 @@
 import path from "node:path"
 import fs from "node:fs/promises"
 import { escapeHTML } from "@quartz-community/utils"
-import { getDate } from "@quartz-community/utils/sort"
 
 // Replaces content-index's RSS output (enableRSS is off there). content-index
 // puts every page in /index.xml, generated tag pages included, and stamps
@@ -9,10 +8,15 @@ import { getDate } from "@quartz-community/utils/sort"
 // build. This emits the same feed at the same URL, minus any slug under an
 // excluded prefix and any page without a date. Real notes always have one:
 // created-modified-date falls back to git, then filesystem time.
+//
+// Items are dated by `dateType` (default "created"), not the site-wide
+// defaultDateType ("modified"), so editing an old page doesn't bring it back to
+// the top of the feed as if it were new.
 
 const defaultOptions = {
   limit: 10,
   excludePrefixes: ["tags/"],
+  dateType: "created",
 }
 
 const simplify = (slug) => {
@@ -59,7 +63,7 @@ export const NotesFeed = (userOpts) => {
         slug: d.slug,
         title: d.frontmatter?.title ?? "",
         description: d.description ?? "",
-        date: getDate(d),
+        date: d.dates?.[opts.dateType],
       }))
       .filter((item) => item.date)
       .sort((a, b) => b.date - a.date || a.title.localeCompare(b.title))
