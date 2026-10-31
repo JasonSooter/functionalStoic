@@ -1,0 +1,30 @@
+{
+  "name": "hero-image",
+  "version": "1.0.0",
+  "description": "Full-width hero banner from a note's frontmatter image, above the article body",
+  "type": "module",
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components.js",
+    "./package.json": "./package.json"
+  },
+  "sideEffects": false,
+  "quartz": {
+    "name": "hero-image",
+    "displayName": "Hero Image",
+    "category": "component",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "HeroImage": {
+        "displayName": "Hero Image",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 25
+      }
+    }
+  }
+}

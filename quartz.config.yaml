@@ -369,10 +369,19 @@ plugins:
     layout:
       position: beforeBody
       priority: 1
-  # Absolute og:image URLs from a note's image/socialImage vault path.
+  # Absolute og:image URLs from a note's image/socialImage vault path. An SVG
+  # page image's og:image is the 1200x630 PNG publish_site renders beside it.
   - source: ./plugins/social-image
     enabled: true
     order: 95
+  # Full-width banner of a note's frontmatter `image:` above the article body.
+  # Reads file.data.heroImage from social-image; content pages only (see
+  # layout.byPageType below).
+  - source: ./plugins/hero-image
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 25
   # Site-wide RSS at /index.xml, minus generated tag pages and the thousands of
   # map place pages (added in batches, they would fill the feed).
   - source: ./plugins/notes-feed
@@ -426,6 +435,7 @@ layout:
       template: full-width
       exclude:
         - recent-notes
+        - hero-image
       positions:
         beforeBody: []
         left: []
@@ -434,8 +444,14 @@ layout:
     folder:
       exclude:
         - reader-mode
+        - hero-image
     tag:
       exclude:
         - reader-mode
-    canvas: {}
-    bases: {}
+        - hero-image
+    canvas:
+      exclude:
+        - hero-image
+    bases:
+      exclude:
+        - hero-image
