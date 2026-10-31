@@ -2,12 +2,8 @@
 publish: true
 title: Burlington City riverfront
 created: 2026-10-21T10:48:46.000Z
-modified: 2026-10-21T10:48:46.000Z
-published: 2026-10-21T10:48:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T20:48:14.114Z
+published: 2026-10-31T20:48:14.114Z
 aliases: []
 books:
   - "My second Troll Trek: 7 trolls and 1 slice of pie"
@@ -15,13 +11,19 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.0783,-74.8533
-geo_note: approximate (Burlington City centre; troll Visser is on the Delaware riverfront near the southern end of the city)
+geo_note: approximate (Burlington City centre; troll Visser is on the Delaware riverfront
+  near the southern end of the city)
 geo_source: Wikipedia (en) Burlington, New Jersey
 icon: newspaper
 location:
   - 40.0783
   - -74.8533
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Burlington City riverfront.svg
 ---
 
 # Burlington City riverfront
@@ -29,13 +31,11 @@ within: "[[New Jersey]]"
 Delaware River waterfront at the southern end of Burlington City, New Jersey. The troll Visser, a Dutch fisherman, stands there on a troll-hunting ride.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | My second Troll Trek: 7 trolls and 1 slice of pie | alliumstozinnias | journey waypoint | Visser the Dutch fisherman troll on the Delaware, the author's favourite. |
 
 ## My second Troll Trek: 7 trolls and 1 slice of pie — alliumstozinnias (2024)
-
 Source: [Original](https://exploringbybike.com/2024/11/08/my-second-troll-trek-7-trolls-and-1-slice-of-pie/) · [Readwise highlight](https://read.readwise.io/read/01m5f0pgzqprfpr29dkxnrvn1b)
 
 > Visser was our first troll, hanging out along the Delaware River near the southern end of the city.

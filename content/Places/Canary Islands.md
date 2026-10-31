@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Canary Islands
+created: 2026-10-22T01:44:07.000Z
+modified: 2026-10-31T20:48:42.876Z
+published: 2026-10-31T20:48:42.876Z
 aliases:
   - Islas Canarias
   - Canarias
-title: Canary Islands
-created: 2026-10-22T01:44:07.000Z
-modified: 2026-10-22T01:44:07.000Z
-published: 2026-10-22T01:44:07.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[The Old Man and the Sea]]"
 categories:
@@ -23,7 +19,12 @@ icon: book
 location:
   - 28.2936
   - -16.6214
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Spain]]"
+image: Attachments/Places/Canary Islands.svg
 ---
 
 # Canary Islands
@@ -31,13 +32,11 @@ within: "[[Spain]]"
 Spanish archipelago in the Atlantic off north-west Africa. In The Old Man and the Sea Santiago dreams nightly of its harbours and of the African beaches he saw as a young sailor.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Old Man and the Sea]] | Ernest Hemingway | backdrop | Santiago's dreams of the Canary Islands harbours and the lions on African beaches, where the book ends. |
 
 ## The Old Man and the Sea — Ernest Hemingway (1952)
-
 Source: [[The Old Man and the Sea]] · [Original](https://openlibrary.org/books/OL7265161M) · [Readwise highlight](https://read.readwise.io/read/01m5gm07k78v2n7yxeree9w6q8)
 
 > then he dreamed of the different harbours and roadsteads of the Canary Islands.

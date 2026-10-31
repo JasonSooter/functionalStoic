@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Darangshi Oreum
 title: Darangshi Cave
 created: 2026-10-23T07:45:46.000Z
-modified: 2026-10-23T07:45:46.000Z
-published: 2026-10-23T07:45:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:10:03.861Z
+published: 2026-10-31T21:10:03.861Z
+aliases:
+  - Darangshi Oreum
 books:
   - The Island of Sea Women
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 33.4777
   - 126.8215
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Jeju Island]]"
+image: Attachments/Places/Darangshi Cave.svg
 ---
 
 # Darangshi Cave
@@ -30,13 +31,11 @@ within: "[[Jeju Island]]"
 Lava cave below Darangshi Oreum in eastern Jeju, where the remains of 4.3 victims were found in 1992. _The Island of Sea Women_ cites it as proof of the massacre.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Island of Sea Women | Lisa See | subject | The 1992 discovery of eleven bodies, suffocated by soldiers, as evidence of the massacre. |
 
 ## The Island of Sea Women — Lisa See (2019)
-
 Source: [Original](https://openlibrary.org/works/OL19865296W) · [Readwise highlight](https://read.readwise.io/read/01m5kvctm220y4z8j91p3htvj1)
 
 > Sixteen years ago, eleven bodies were discovered in the Darangshi Cave, including those of three women and a child.

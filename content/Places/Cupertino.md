@@ -2,15 +2,12 @@
 publish: true
 title: Cupertino
 created: 2026-10-21T02:06:40.000Z
-modified: 2026-10-21T22:30:18.000Z
-published: 2026-10-21T22:30:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:09:45.524Z
+published: 2026-10-31T21:09:45.524Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
+  - "[[Quiet]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -20,7 +17,12 @@ icon: book
 location:
   - 37.3231
   - -122.0319
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Cupertino.svg
 ---
 
 # Cupertino
@@ -41,7 +43,6 @@ City in Silicon Valley, [[California]], Jenny Odell's hometown, which she descri
 - [[Rancho Rinconada]]
 
 ## How to Do Nothing — Jenny Odell (2019)
-
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5e31vp911n27b0yg0b66gt0)
 
 > There’s a funny detail about Cupertino that I discovered as a teenager. Growing up there in the early 2000s, there wasn’t much to do except visit one shopping center after another in what I experienced as a mind-numbing sprawl with no obvious center.
@@ -51,7 +52,6 @@ Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] ·
 - **Why it matters:** It opens the chapter on attention: the place seemed placeless for lack of context, setting up the argument that attention reveals what is already there.
 
 ## Quiet — Susan Cain (2012)
-
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wpcf1n0fxc84qmchv6v4)
 
 > At first blush, Cupertino seems like the embodiment of the American Dream.

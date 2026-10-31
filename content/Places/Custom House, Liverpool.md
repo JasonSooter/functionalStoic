@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Liverpool Custom House
 title: Custom House, Liverpool
 created: 2026-10-23T22:34:18.000Z
-modified: 2026-10-23T22:34:18.000Z
-published: 2026-10-23T22:34:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:09:48.872Z
+published: 2026-10-31T21:09:48.872Z
+aliases:
+  - Liverpool Custom House
 books:
   - Around the World in Eighty Days
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 53.4024
   - -2.9886
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
+image: Attachments/Places/Custom House, Liverpool.svg
 ---
 
 # Custom House, Liverpool
@@ -30,13 +31,11 @@ within: "[[England]]"
 Liverpool's former Custom House on Canning Place, demolished after the Second World War. In _Around the World in Eighty Days_ Fix locks Fogg up in it, hours from the deadline.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | turning point | Fix locks Fogg up here, hours from the deadline. |
 
 ## Around the World in Eighty Days — Jules Verne (1872)
-
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne4429kv6kd2p56ht671z0)
 
 > Phileas Fogg was in prison. He had been shut up in the Custom House, and he was to be transferred to London the next day.

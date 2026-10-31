@@ -2,8 +2,8 @@
 publish: true
 title: Dead Sea
 created: 2026-10-22T14:40:21.000Z
-modified: 2026-10-31T19:36:25.666Z
-published: 2026-10-31T19:36:25.666Z
+modified: 2026-10-31T21:09:26.760Z
+published: 2026-10-31T21:09:26.760Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +22,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Dead Sea.svg
 ---
 
 # Dead Sea

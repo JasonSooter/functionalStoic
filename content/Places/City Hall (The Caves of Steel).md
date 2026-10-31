@@ -2,12 +2,8 @@
 publish: true
 title: City Hall (The Caves of Steel)
 created: 2026-10-22T10:27:18.000Z
-modified: 2026-10-22T10:27:18.000Z
-published: 2026-10-22T10:27:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T20:48:45.157Z
+published: 2026-10-31T20:48:45.157Z
 aliases: []
 books:
   - The Caves of Steel
@@ -22,7 +18,12 @@ icon: book
 location:
   - 40.7127
   - -74.0059
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
+image: Attachments/Places/City Hall (The Caves of Steel).svg
 ---
 
 # City Hall (The Caves of Steel)
@@ -30,13 +31,11 @@ within: "[[New York City]]"
 The towering City Hall of a future, enclosed [[New York City]] in Isaac Asimov's The Caves of Steel, home of the Police Department where Baley works. Pinned at today's New York City Hall.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Caves of Steel | Isaac Asimov | setting | The Police Department sits in its upper levels; R. Sammy dies there and Baley unmasks the Commissioner there. |
 
 ## The Caves of Steel — Isaac Asimov (1954)
-
 Source: [Original](https://openlibrary.org/works/OL46401W) · [Readwise highlight](https://read.readwise.io/read/01m5hj3ektck037fpycg04yt2t)
 
 > The Police Department was in the upper levels of City Hall, and City Hall reached high. From the Commissioner’s window, the neighboring towers fell short and the tops were visible.

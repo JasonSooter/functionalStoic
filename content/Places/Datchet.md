@@ -2,12 +2,8 @@
 publish: true
 title: Datchet
 created: 2026-10-22T01:44:19.000Z
-modified: 2026-10-22T01:44:19.000Z
-published: 2026-10-22T01:44:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:09:13.111Z
+published: 2026-10-31T21:09:13.111Z
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 51.4841
   - -0.5762
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berkshire]]"
+image: Attachments/Places/Datchet.svg
 ---
 
 # Datchet
@@ -28,13 +29,11 @@ within: "[[Berkshire]]"
 Riverside village opposite Windsor Home Park on the Thames. In Three Men in a Boat it is the scene of a remembered first trip, when the three friends hunt the whole village for beds at ten at night.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | setting | On an earlier August Bank Holiday trip the three arrive late and are turned away from every inn until a small boy finds them beds. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
-
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gky6eqb5a1mxkh4txxdbmq)
 
 > when we got to Datchet we took out the hamper, the two bags, and the rugs and coats, and such like things, and started off to look for diggings.

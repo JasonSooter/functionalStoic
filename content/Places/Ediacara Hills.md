@@ -2,8 +2,8 @@
 publish: true
 title: Ediacara Hills
 created: 2026-10-22T14:40:23.000Z
-modified: 2026-10-31T19:35:13.494Z
-published: 2026-10-31T19:35:13.494Z
+modified: 2026-10-31T21:25:33.973Z
+published: 2026-10-31T21:25:33.973Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[South Australia]]"
+image: Attachments/Places/Ediacara Hills.svg
 ---
 
 # Ediacara Hills

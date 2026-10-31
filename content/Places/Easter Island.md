@@ -2,8 +2,8 @@
 publish: true
 title: Easter Island
 created: 2026-10-22T14:40:36.000Z
-modified: 2026-10-31T19:36:49.095Z
-published: 2026-10-31T19:36:49.095Z
+modified: 2026-10-31T21:25:31.421Z
+published: 2026-10-31T21:25:31.421Z
 aliases:
   - Rapa Nui
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Chile]]"
+image: Attachments/Places/Easter Island.svg
 ---
 
 # Easter Island

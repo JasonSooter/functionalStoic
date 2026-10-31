@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Campagnolo factory
 title: Campagnolo headquarters (Vicenza)
 created: 2026-10-20T13:52:16.000Z
-modified: 2026-10-21T10:24:46.000Z
-published: 2026-10-21T10:24:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T20:48:37.548Z
+published: 2026-10-31T20:48:37.548Z
+aliases:
+  - Campagnolo factory
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -23,7 +19,12 @@ icon: book
 location:
   - 45.5467
   - 11.5475
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vicenza]]"
+image: Attachments/Places/Campagnolo headquarters (Vicenza).svg
 ---
 
 # Campagnolo headquarters (Vicenza)

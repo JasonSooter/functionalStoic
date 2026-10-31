@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Ceerigaabo
 title: Erigavo
 created: 2026-10-20T07:37:07.000Z
-modified: 2026-10-21T10:52:14.000Z
-published: 2026-10-21T10:52:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:25:17.596Z
+published: 2026-10-31T21:25:17.596Z
+aliases:
+  - Ceerigaabo
 books:
   - "[[Peace Corps - The Great Adventure]]"
 categories:
@@ -20,7 +16,12 @@ icon: book
 location:
   - 10.6181
   - 47.37
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Somalia]]"
+image: Attachments/Places/Erigavo.svg
 ---
 
 # Erigavo
@@ -28,13 +29,11 @@ within: "[[Somalia]]"
 Town in the mountains of northern Somalia ([[Somalia]]); it is the setting of Charles Baquet's Peace Corps essay on early failed projects reinterpreted decades later.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | Charles Baquet's failed projects, explained decades later at a peace conference. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
-
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5c3q5zxmq8m5cnnqm5rn8bd)
 
 > My two-year assignment was to teach English and social studies at a boys' school in Erigavo, a village in northern Somalia.

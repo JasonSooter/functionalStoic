@@ -2,8 +2,8 @@
 publish: true
 title: Cape May
 created: 2026-10-22T14:40:12.000Z
-modified: 2026-10-31T19:37:01.419Z
-published: 2026-10-31T19:37:01.419Z
+modified: 2026-10-31T20:48:47.497Z
+published: 2026-10-31T20:48:47.497Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Cape May.svg
 ---
 
 # Cape May

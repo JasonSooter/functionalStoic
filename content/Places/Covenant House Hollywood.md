@@ -2,26 +2,29 @@
 publish: true
 title: Covenant House Hollywood
 created: 2026-10-22T20:34:25.000Z
-modified: 2026-10-22T20:34:25.000Z
-published: 2026-10-22T20:34:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:09:19.008Z
+published: 2026-10-31T21:09:19.008Z
 aliases: []
 books:
-  - This Formerly Homeless Harvard Grad Is Using Her Story To Change How We Help The Homeless
+  - This Formerly Homeless Harvard Grad Is Using Her Story To Change How We Help The
+    Homeless
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 34.1017,-118.3267
-geo_note: approximate (Hollywood neighbourhood point; Covenant House Hollywood not found in OSM, only Oakland site)
+geo_note: approximate (Hollywood neighbourhood point; Covenant House Hollywood not
+  found in OSM, only Oakland site)
 geo_source: Wikipedia (en) Hollywood, Los Angeles
 icon: newspaper
 location:
   - 34.1017
   - -118.3267
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Los Angeles]]"
+image: Attachments/Places/Covenant House Hollywood.svg
 ---
 
 # Covenant House Hollywood
@@ -29,13 +32,11 @@ within: "[[Los Angeles]]"
 Youth shelter in Hollywood, Los Angeles. A turning point in Gila Lyons's “This Formerly Homeless Harvard Grad Is Using Her Story To Change How We Help The Homeless”: Hollywood Covenant House chapter where Chung found shelter at 18, the turning point toward Berkeley and Harvard.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This Formerly Homeless Harvard Grad Is Using Her Story To Change How We Help The Homeless | Gila Lyons | turning point | Hollywood Covenant House chapter where Chung found shelter at 18, the turning point toward Berkeley and Harvard. |
 
 ## This Formerly Homeless Harvard Grad Is Using Her Story To Change How We Help The Homeless — Gila Lyons (2018)
-
 Source: [Original](https://www.good.is/articles/homeless-to-harvard) · [Readwise highlight](https://read.readwise.io/read/01m5jkz0esdr9easymd1scjn68)
 
 > Chung survived on the streets for six years before benefiting from Covenant House’s services, but when she was 18, she walked by the Hollywood chapter and pushed through the front doors.

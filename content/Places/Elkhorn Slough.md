@@ -2,12 +2,8 @@
 publish: true
 title: Elkhorn Slough
 created: 2026-10-21T05:07:52.000Z
-modified: 2026-10-21T10:51:59.000Z
-published: 2026-10-21T10:51:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:25:09.624Z
+published: 2026-10-31T21:25:09.624Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 36.8167
   - -121.7667
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Elkhorn Slough.svg
 ---
 
 # Elkhorn Slough
@@ -28,13 +29,11 @@ within: "[[California]]"
 Estuary and wildlife reserve at Moss Landing, Monterey County, [[California]]; in Jenny Odell's How to Do Nothing it is where the sight of the slough's birds brings the emotional climax of the final chapter.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | turning point | Odell drives from her cabin to the reserve after hearing a radio report of cyclones elsewhere. |
 
 ## How to Do Nothing — Jenny Odell (2019)
-
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5edhpkq7m3re359qf4d3qtz)
 
 > All of a sudden, as I rounded a turn, part of the slough came into view.

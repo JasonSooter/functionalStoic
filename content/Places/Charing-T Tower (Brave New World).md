@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Charing-T Tower
 title: Charing-T Tower (Brave New World)
 created: 2026-10-23T07:46:13.000Z
-modified: 2026-10-23T07:46:13.000Z
-published: 2026-10-23T07:46:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T20:48:37.736Z
+published: 2026-10-31T20:48:37.736Z
+aliases:
+  - Charing-T Tower
 books:
   - "[[Brave New World]]"
 categories:
@@ -23,7 +19,12 @@ icon: book
 location:
   - 51.5075
   - -0.1275
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
+image: Attachments/Places/Charing-T Tower (Brave New World).svg
 ---
 
 # Charing-T Tower (Brave New World)
@@ -31,13 +32,11 @@ within: "[[London]]"
 The Charing-T Tower, London's rocket and helicopter hub in _Brave New World_, pinned at Charing Cross, whose name it puns on.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | setting | Bernard starts John's tour of civilisation with a bird's-eye view from the tower's platform. |
 
 ## Brave New World — Aldous Huxley (1932)
-
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvanjvm8gjk7e1091dwpgn)
 
 > He was being shown a bird’s-eye view of it at present, a bird’s-eye view from the platform of the Charing-T Tower.

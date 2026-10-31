@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Olympic Stadium (Mexico City)
 title: Estadio Olímpico Universitario
 created: 2026-10-21T22:43:35.000Z
-modified: 2026-10-21T22:43:35.000Z
-published: 2026-10-21T22:43:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:25:26.133Z
+published: 2026-10-31T21:25:26.133Z
+aliases:
+  - Olympic Stadium (Mexico City)
 books:
   - Olympic Medalist Dick Fosbury and the Power of Being Unconventional
 categories:
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 19.3319
   - -99.1922
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mexico City]]"
+image: Attachments/Places/Estadio Olímpico Universitario.svg
 ---
 
 # Estadio Olímpico Universitario
@@ -29,13 +30,11 @@ within: "[[Mexico City]]"
 University stadium in [[Mexico City]], main stadium of the 1968 Olympics. James Clear opens his essay on Dick Fosbury there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Olympic Medalist Dick Fosbury and the Power of Being Unconventional | James Clear | setting | Fosbury unveils his backwards high jump before 80,000 people at the 1968 Olympics. |
 
 ## Olympic Medalist Dick Fosbury and the Power of Being Unconventional — James Clear (2015)
-
 Source: [Original](https://jamesclear.com/dick-fosbury) · [Readwise highlight](https://read.readwise.io/read/01m5ga14pnm6ppm5cv93hzt7kj)
 
 > Dick Fosbury took a moment to meditate as 80,000 people looked down at him from their seats in Mexico City's Olympic stadium.

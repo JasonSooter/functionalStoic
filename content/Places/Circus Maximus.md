@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Circo Massimo
 title: Circus Maximus
 created: 2026-10-23T01:33:03.000Z
-modified: 2026-10-23T01:33:03.000Z
-published: 2026-10-23T01:33:03.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T20:48:44.305Z
+published: 2026-10-31T20:48:44.305Z
+aliases:
+  - Circo Massimo
 books:
   - "[[Uncommon Type]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 41.8859
   - 12.4857
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rome]]"
+image: Attachments/Places/Circus Maximus.svg
 ---
 
 # Circus Maximus
@@ -29,13 +30,11 @@ within: "[[Rome]]"
 The ancient chariot-racing stadium in Rome. In Tom Hanks's 'A Junket in the City of Light' the film teaser is screened there to a huge crowd.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Uncommon Type]] | Tom Hanks | journey waypoint | At the Rome stop of the junket, the teaser is projected on a huge temporary screen after a soccer trophy presentation, before about… |
 
 ## Uncommon Type — Tom Hanks (2017)
-
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5v4p2d4eg7f6ea6rpb6g5)
 
 > On the last night the teaser was shown outside at the Circo Máximo—where the chariot races were held in ancient times. To Rory it looked like just a big field.

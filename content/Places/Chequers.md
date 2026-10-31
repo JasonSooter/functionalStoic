@@ -2,8 +2,8 @@
 publish: true
 title: Chequers
 created: 2026-10-22T13:40:35.000Z
-modified: 2026-10-31T19:35:27.563Z
-published: 2026-10-31T19:35:27.563Z
+modified: 2026-10-31T20:48:49.109Z
+published: 2026-10-31T20:48:49.109Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Buckinghamshire]]"
+image: Attachments/Places/Chequers.svg
 ---
 
 # Chequers

@@ -2,12 +2,8 @@
 publish: true
 title: Ede, Netherlands
 created: 2026-10-23T05:33:39.000Z
-modified: 2026-10-23T05:33:39.000Z
-published: 2026-10-23T05:33:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:25:33.133Z
+published: 2026-10-31T21:25:33.133Z
 aliases: []
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 52.05
   - 5.6667
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Netherlands]]"
+image: Attachments/Places/Ede, Netherlands.svg
 ---
 
 # Ede, Netherlands
@@ -28,13 +29,11 @@ within: "[[Netherlands]]"
 Town in Gelderland, about an hour by train from Amsterdam. In _Just for Fun_ it is where Linus Torvalds gives his first public speech.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | Shivering in a drafty hotel, Linus dreads his first public speech, then gives it to about 400 Unix users. |
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
-
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrrbpvec1cq2tw02q3h9w)
 
 > But there I was in Ede, Netherlands, an hour’s train ride from Amsterdam, because I had been invited to be speaker at the tenth anniversary of the Netherlands Unix Users Group.

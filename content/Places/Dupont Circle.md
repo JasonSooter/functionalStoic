@@ -2,12 +2,8 @@
 publish: true
 title: Dupont Circle
 created: 2026-10-22T19:57:19.000Z
-modified: 2026-10-22T19:57:19.000Z
-published: 2026-10-22T19:57:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:25:12.732Z
+published: 2026-10-31T21:25:12.732Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 38.9094
   - -77.0433
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington DC]]"
+image: Attachments/Places/Dupont Circle.svg
 ---
 
 # Dupont Circle
@@ -28,13 +29,11 @@ within: "[[Washington DC]]"
 Neighbourhood and traffic circle in north-west Washington, D.C. A turning point in Colum McCann's _Apeirogon_: Bassam at a Dupont Circle reception, where a woman lifts a fallen Band-Aid from his collar.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | turning point | Bassam at a Dupont Circle reception, where a woman lifts a fallen Band-Aid from his collar. |
 
 ## Apeirogon — Colum McCann (2020)
-
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjra957svhkteg9a0gqtsn)
 
 > At a reception in Dupont Circle he was surrounded. Handshakes. Business cards.

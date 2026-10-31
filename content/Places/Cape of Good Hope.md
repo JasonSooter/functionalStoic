@@ -2,12 +2,8 @@
 publish: true
 title: Cape of Good Hope
 created: 2026-10-23T11:12:37.000Z
-modified: 2026-10-23T19:06:05.380Z
-published: 2026-10-23T19:06:05.380Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T20:48:48.961Z
+published: 2026-10-31T20:48:48.961Z
 aliases: []
 books:
   - "[[The Subtle Art of Not Giving a Fck]]"
@@ -21,7 +17,12 @@ icon: book
 location:
   - -34.3581
   - 18.4756
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[South Africa]]"
+image: Attachments/Places/Cape of Good Hope.svg
 ---
 
 # Cape of Good Hope
@@ -35,8 +36,7 @@ Rocky headland at the tip of the Cape Peninsula, South Africa. Mark Manson ends 
 | [[The Subtle Art of Not Giving a Fck\|The Subtle Art of Not Giving a F*ck]] | Mark Manson | setting | The closing scene: Manson sits a foot from the cliff edge and meditates on death. |
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | journey waypoint | 'Rather Cape Tormentoso': the Pequod turns east into a howling sea of condemned souls while Ahab stands silent through the gale. |
 
-## The Subtle Art of Not Giving a F\*ck — Mark Manson (2016)
-
+## The Subtle Art of Not Giving a F*ck — Mark Manson (2016)
 Source: [[The Subtle Art of Not Giving a Fck]] · [Original](https://openlibrary.org/works/OL17590212W) · [Readwise highlight](https://read.readwise.io/read/01m5kvb862ch0sf6a8xb275v3q)
 
 > I’m at South Africa’s Cape of Good Hope, once thought to be the southern tip of Africa and the southernmost point in the world.
@@ -46,7 +46,6 @@ Source: [[The Subtle Art of Not Giving a Fck]] · [Original](https://openlibrary
 - **Why it matters:** It is the book's closing scene, a deliberate confrontation with mortality that acts out the last chapter's thesis.
 
 ## Moby-Dick — Herman Melville (1851)
-
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m770b41nkmgnsjbp0sz78b)
 
 > Cape of Good Hope, do they call ye? Rather Cape Tormentoso, as called of yore;

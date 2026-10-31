@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Cremisan
 title: Cremisan Monastery
 created: 2026-10-22T16:49:25.000Z
-modified: 2026-10-22T20:04:19.000Z
-published: 2026-10-22T20:04:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:09:24.328Z
+published: 2026-10-31T21:09:24.328Z
+aliases:
+  - Cremisan
 books:
   - "[[Apeirogon]]"
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 31.727
   - 35.1726
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Beit Jala]]"
+image: Attachments/Places/Cremisan Monastery.svg
 ---
 
 # Cremisan Monastery
@@ -30,13 +31,11 @@ within: "[[Beit Jala]]"
 Salesian monastery and winery in the Cremisan valley of [[Beit Jala]]. Rami's destination and a place of vespers in _Apeirogon_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | Vespers at sunset and the monks' walk to the vineyard; Rami's meeting place. |
 
 ## Apeirogon — Colum McCann (2020)
-
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7wr1sb4frj0cz7bftd66z)
 
 > In the Cremisan monastery in Beit Jala the vespers sound out when the sun disappears behind the surrounding hills.

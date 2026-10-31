@@ -1,28 +1,30 @@
 ---
 publish: true
-aliases:
-  - Eriksberg, Uppsala
 title: Eriksberg (Uppsala)
 created: 2026-10-20T22:54:50.000Z
-modified: 2026-10-21T10:52:18.000Z
-published: 2026-10-21T10:52:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:25:21.400Z
+published: 2026-10-31T21:25:21.400Z
+aliases:
+  - Eriksberg, Uppsala
 books:
   - "[[How I Learned to Understand the World]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 59.8417,17.6047
-geo_note: Nominatim place=suburb 'Eriksberg, Uppsala'; matches the Uppsala district, not the other Swedish Eriksbergs
+geo_note: Nominatim place=suburb 'Eriksberg, Uppsala'; matches the Uppsala district,
+  not the other Swedish Eriksbergs
 geo_source: OSM node 272377362
 icon: book
 location:
   - 59.8417
   - 17.6047
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Uppsala]]"
+image: Attachments/Places/Eriksberg (Uppsala).svg
 ---
 
 # Eriksberg (Uppsala)
@@ -30,13 +32,11 @@ within: "[[Uppsala]]"
 District of [[Uppsala]], Sweden; in Hans Rosling's memoir it is where he nearly drowned in an open drain as a child, the root of his sense of slum conditions.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | setting | In 1952, aged four, Rosling nearly drowned in the open drain outside his grandparents' house while his mother was in hospital. |
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
-
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5dqz4sb18857a14n6a0cpjd)
 
 > Even then, in 1952, there was no deep drainage system in the Eriksberg area of Uppsala, where many factory workers, including my paternal grandparents, had their home.

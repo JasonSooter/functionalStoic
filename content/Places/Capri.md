@@ -1,17 +1,13 @@
 ---
 publish: true
+title: Capri
+created: 2026-10-20T01:29:29.000Z
+modified: 2026-10-31T20:48:51.989Z
+published: 2026-10-31T20:48:51.989Z
 aliases:
   - Capri town
   - Piazza Umberto I
   - La Piazzetta
-title: Capri
-created: 2026-10-20T01:29:29.000Z
-modified: 2026-10-21T10:32:46.000Z
-published: 2026-10-21T10:32:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Neither Here Nor There
   - "[[Dept. Of Speculation.md]]"
@@ -24,7 +20,12 @@ icon: book
 location:
   - 40.55
   - 14.25
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Italy]]"
+image: Attachments/Places/Capri.svg
 ---
 
 # Capri
@@ -49,7 +50,6 @@ Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highligh
 - **Why it matters:** The square is where Bryson stands "for perhaps an hour and a half" and realises he has "fallen spectacularly, hopelessly, and permanently in love with Italy", the declared turning point of his Italian chapters. The next morning brings rain, and a slow ferry to [[Naples]].
 
 ## Dept. of Speculation — Jenny Offill (2014)
-
 Source: [[Dept. Of Speculation.md]] · [Original](https://www.penguinrandomhouse.com/books/228424/dept-of-speculation-by-jenny-offill/9780345806871) · [Readwise highlight](https://read.readwise.io/read/01m5bfwgfn7nqbees27gb4ghbm)
 
 > We did not understand where we were going when we took the boat over to Capri.

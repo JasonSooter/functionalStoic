@@ -2,12 +2,8 @@
 publish: true
 title: Des Moines
 created: 2026-10-23T04:59:28.000Z
-modified: 2026-10-23T04:59:28.000Z
-published: 2026-10-23T04:59:28.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:09:44.664Z
+published: 2026-10-31T21:09:44.664Z
 aliases: []
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 41.5908
   - -93.6208
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Iowa]]"
+image: Attachments/Places/Des Moines.svg
 ---
 
 # Des Moines
@@ -28,13 +29,11 @@ within: "[[Iowa]]"
 Capital of Iowa, on the Des Moines and Raccoon rivers. It is Bill Bryson's home town in _The Life and Times of the Thunderbolt Kid_, his memoir of a 1950s childhood South of Grand.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Life and Times of the Thunderbolt Kid]] | Bill Bryson | setting | Bryson's 1950s home town: the leafy district South of Grand, downtown department stores, cafeterias and movie palaces. |
 
 ## Sub-places
-
 - [[Greenwood Elementary School (Des Moines)]]
 - [[Greenwood Park (Des Moines)]]
 - [[Iowa State Capitol]]
@@ -45,7 +44,6 @@ Capital of Iowa, on the Des Moines and Raccoon rivers. It is Bill Bryson's home 
 - [[Younkers (Des Moines)]]
 
 ## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
-
 Source: [[The Life and Times of the Thunderbolt Kid]] · [Original](https://openlibrary.org/works/OL4620956W) · [Readwise highlight](https://read.readwise.io/read/01m5khtee1z9e9agj4wd85cngs)
 
 > It was miles and miles of the American dream. This was my district. It was known as South of Grand.

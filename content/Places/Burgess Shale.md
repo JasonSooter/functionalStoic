@@ -2,8 +2,8 @@
 publish: true
 title: Burgess Shale
 created: 2026-10-22T14:40:27.000Z
-modified: 2026-10-31T19:36:11.106Z
-published: 2026-10-31T19:36:11.106Z
+modified: 2026-10-31T20:48:11.438Z
+published: 2026-10-31T20:48:11.438Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[British Columbia]]"
+image: Attachments/Places/Burgess Shale.svg
 ---
 
 # Burgess Shale

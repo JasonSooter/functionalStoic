@@ -1,28 +1,30 @@
 ---
 publish: true
+title: Capuchin Crypt
+created: 2026-10-19T22:31:05.000Z
+modified: 2026-10-31T20:48:52.793Z
+published: 2026-10-31T20:48:52.793Z
 aliases:
   - Santa Maria della Concezione dei Cappuccini
   - Capuchin monks' mausoleum
-title: Capuchin Crypt
-created: 2026-10-19T22:31:05.000Z
-modified: 2026-10-21T10:32:39.000Z
-published: 2026-10-21T10:32:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Neither Here Nor There
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 41.9046,12.4887
-geo_note: coordinate of the church above the crypt, Santa Maria della Concezione dei Cappuccini
+geo_note: coordinate of the church above the crypt, Santa Maria della Concezione dei
+  Cappuccini
 icon: book
 location:
   - 41.9046
   - 12.4887
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rome]]"
+image: Attachments/Places/Capuchin Crypt.svg
 ---
 
 # Capuchin Crypt
@@ -30,13 +32,11 @@ within: "[[Rome]]"
 Chapels decorated with the bones of Capuchin friars, under the church of Santa Maria della Concezione near Piazza Barberini, [[Rome]]; the grotesque last stop of Bryson's Rome in Neither Here Nor There.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | Bryson's grotesque last stop in Rome, "I cannot recommend highly enough". |
 
 ## Neither Here Nor There — Bill Bryson (1991)
-
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b448athwk21drpj1fc45g5)
 
 > On my final morning I called at the Capuchin monks’ mausoleum in the church of Santa Maria della Concezione off the busy Piazza Barberini. This I cannot recommend highly enough.

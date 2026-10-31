@@ -1,29 +1,31 @@
 ---
 publish: true
+title: Esplanade Avenue
+created: 2026-10-20T16:28:11.000Z
+modified: 2026-10-31T21:25:23.868Z
+published: 2026-10-31T21:25:23.868Z
 aliases:
   - Esplanade Street
   - Pigeon house
-title: Esplanade Avenue
-created: 2026-10-20T16:28:11.000Z
-modified: 2026-10-21T10:52:22.000Z
-published: 2026-10-21T10:52:22.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[The Awakening]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 29.9608,-90.0562
-geo_note: approximate (Esplanade Avenue Wharf, the avenue's river end; the Pontellier house is fictional and unlocated)
+geo_note: approximate (Esplanade Avenue Wharf, the avenue's river end; the Pontellier
+  house is fictional and unlocated)
 geo_source: GeoNames 4323867
 icon: book
 location:
   - 29.9608
   - -90.0562
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Orleans]]"
+image: Attachments/Places/Esplanade Avenue.svg
 ---
 
 # Esplanade Avenue
@@ -31,17 +33,14 @@ within: "[[New Orleans]]"
 Avenue on the edge of the French Quarter in [[New Orleans]]; in Kate Chopin's The Awakening it holds the Pontellier house and the pigeon house Edna moves to.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Awakening]] | Kate Chopin | setting | The Pontellier house Edna rebels in, and the little "pigeon house" she moves to. |
 
 ## Sub-places
-
 - [[The Ratignolle drug store (The Awakening)]]
 
 ## The Awakening — Kate Chopin (1899)
-
 Source: [[The Awakening]] · [Original](https://openlibrary.org/works/OL65430W) · [Readwise highlight](https://read.readwise.io/read/01m5d21jcrp2fw8tdsvtsj53ef)
 
 > The Pontelliers possessed a very charming home on Esplanade Street in New Orleans.

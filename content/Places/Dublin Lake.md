@@ -2,12 +2,8 @@
 publish: true
 title: Dublin Lake
 created: 2026-10-21T19:39:19.000Z
-modified: 2026-10-21T19:39:19.000Z
-published: 2026-10-21T19:39:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T21:25:03.599Z
+published: 2026-10-31T21:25:03.599Z
 aliases: []
 books:
   - "[[The Soul of an Octopus]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 42.906
   - -72.0812
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Hampshire]]"
+image: Attachments/Places/Dublin Lake.svg
 ---
 
 # Dublin Lake
@@ -28,13 +29,11 @@ within: "[[New Hampshire]]"
 Spring-fed lake in Dublin, New Hampshire. In The Soul of an Octopus (Sy Montgomery) it is where she earns her open-water scuba certification.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Soul of an Octopus]] | Sy Montgomery | turning point | Cold, murky lake where Montgomery finally earns her scuba certification. |
 
 ## The Soul of an Octopus — Sy Montgomery (2015)
-
 Source: [[The Soul of an Octopus]] · [Original](https://openlibrary.org/books/OL27182716M/The_Soul_of_an_Octopus) · [Readwise highlight](https://read.readwise.io/read/01m5fzcn2wzk5g8yr949qrhksp)
 
 > I would earn my open-water certi cation in New Hampshire’s Dublin Lake—only minutes’ drive from our house.

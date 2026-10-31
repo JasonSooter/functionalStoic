@@ -2,8 +2,8 @@
 publish: true
 title: Christmas Island
 created: 2026-10-22T14:40:32.000Z
-modified: 2026-10-31T19:37:04.271Z
-published: 2026-10-31T19:37:04.271Z
+modified: 2026-10-31T20:48:29.731Z
+published: 2026-10-31T20:48:29.731Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Christmas Island.svg
 ---
 
 # Christmas Island

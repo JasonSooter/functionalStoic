@@ -2,12 +2,8 @@
 publish: true
 title: Burj Khalifa
 created: 2026-10-20T10:43:04.000Z
-modified: 2026-10-21T10:23:53.000Z
-published: 2026-10-21T10:23:53.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T20:48:12.626Z
+published: 2026-10-31T20:48:12.626Z
 aliases: []
 books:
   - "[[Why the Jeddah Tower Won’t Be as Tall as You Think]]"
@@ -20,7 +16,12 @@ icon: video
 location:
   - 25.1973
   - 55.2743
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Dubai]]"
+image: Attachments/Places/Burj Khalifa.svg
 ---
 
 # Burj Khalifa
@@ -28,13 +29,11 @@ within: "[[Dubai]]"
 Supertall skyscraper in [[Dubai]], United Arab Emirates; in a B1M video it is the benchmark for vanity height against which the Jeddah Tower is measured.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why the Jeddah Tower Won’t Be as Tall as You Think\|Why the Jeddah Tower Won’t be as Tall as You Think]] | The B1M | subject | Record holder for 'vanity height': 242 metres of spire. |
 
 ## Why the Jeddah Tower Won’t be as Tall as You Think — The B1M (2026)
-
 Source: [[Why the Jeddah Tower Won’t Be as Tall as You Think]] · [Original](https://www.youtube.com/watch?v=vVfEs9wrW98) · [Readwise highlight](https://read.readwise.io/read/01m5ce8r0qh7h21fatmf5cgnm7)
 
 > the Burj Khalifa holds the record for the biggest vanity height of any building on earth.
