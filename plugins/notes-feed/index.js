@@ -4,10 +4,11 @@ import { escapeHTML } from "@quartz-community/utils"
 import { getDate } from "@quartz-community/utils/sort"
 
 // Replaces content-index's RSS output (enableRSS is off there). content-index
-// puts every page in /index.xml, generated tag pages included. Tag pages have
-// no date of their own, so each build stamps them "now" and they crowd out real
-// notes at the top of the feed. This emits the same feed at the same URL, minus
-// any slug under an excluded prefix.
+// puts every page in /index.xml, generated tag pages included, and stamps
+// undated pages with the build time so they crowd the top of the feed on every
+// build. This emits the same feed at the same URL, minus any slug under an
+// excluded prefix and any page without a date. Real notes always have one:
+// created-modified-date falls back to git, then filesystem time.
 
 const defaultOptions = {
   limit: 10,
@@ -58,8 +59,9 @@ export const NotesFeed = (userOpts) => {
         slug: d.slug,
         title: d.frontmatter?.title ?? "",
         description: d.description ?? "",
-        date: getDate(d) ?? new Date(),
+        date: getDate(d),
       }))
+      .filter((item) => item.date)
       .sort((a, b) => b.date - a.date || a.title.localeCompare(b.title))
       .slice(0, opts.limit)
     const out = path.join(ctx.argv.output, "index.xml")

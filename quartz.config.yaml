@@ -150,7 +150,7 @@ plugins:
     enabled: true
     options:
       enableSiteMap: true
-      # /index.xml comes from ./plugins/notes-feed instead, without tag pages.
+      # /index.xml comes from ./plugins/notes-feed instead, without tag or place pages.
       enableRSS: false
   - source: github:quartz-community/favicon
     enabled: true
@@ -373,9 +373,14 @@ plugins:
   - source: ./plugins/social-image
     enabled: true
     order: 95
-  # Site-wide RSS at /index.xml, minus generated tag pages.
+  # Site-wide RSS at /index.xml, minus generated tag pages and the thousands of
+  # map place pages (added in batches, they would fill the feed).
   - source: ./plugins/notes-feed
     enabled: true
+    options:
+      excludePrefixes:
+        - tags/
+        - places/
   # Posts-only RSS at the old site's /feed.xml.
   - source: ./plugins/blog-feed
     enabled: true
