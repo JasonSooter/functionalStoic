@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Barton Aqueduct
 title: Bridgewater Canal
 created: 2026-10-23T07:45:30.000Z
-modified: 2026-10-23T07:45:30.000Z
-published: 2026-10-23T07:45:30.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T17:39:31.119Z
+published: 2026-10-31T17:39:31.119Z
+aliases:
+  - Barton Aqueduct
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 53.4748
   - -2.3521
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Manchester]]"
+image: Attachments/Places/Bridgewater Canal.svg
 ---
 
 # Bridgewater Canal
@@ -29,13 +30,11 @@ within: "[[Manchester]]"
 Canal from the Duke of Bridgewater's Worsley mines to Manchester, opened in 1761, often called Britain's first modern canal. _Wedding of the Waters_ credits it with inspiring one of the Erie's champions.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | subject | Brindley's coal canal and its Irwell aqueduct, which inspired Elkanah Watson. |
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
-
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvdd28gxkz9yd1cf2y2fkf)
 
 > The canal’s most spectacular feature, built with the sweat of four hundred men, was the aqueduct supported by three great arches to carry the canal across the River Irwell, about halfway between the coal mines and Manchester.

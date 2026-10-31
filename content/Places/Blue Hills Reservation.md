@@ -2,12 +2,8 @@
 publish: true
 title: Blue Hills Reservation
 created: 2026-10-21T19:39:01.000Z
-modified: 2026-10-21T19:43:27.000Z
-published: 2026-10-21T19:43:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T17:39:53.390Z
+published: 2026-10-31T17:39:53.390Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 42.2121
   - -71.1141
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
+image: Attachments/Places/Blue Hills Reservation.svg
 ---
 
 # Blue Hills Reservation
@@ -28,13 +29,11 @@ within: "[[Massachusetts]]"
 State park south of Boston, Massachusetts. In The Comfort Crisis (Michael Easter) a hike there illustrates the second level of the nature pyramid.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | setting | Hike that illustrates 'country nature', the nature pyramid's second level. |
 
 ## The Comfort Crisis — Michael Easter (2021)
-
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fzd9k2mhf38sqryxzf3sa6)
 
 > The next day I met her at Blue Hills Reservation, a 7,000-acre state park south of Boston.

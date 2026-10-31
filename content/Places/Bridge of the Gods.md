@@ -2,12 +2,8 @@
 publish: true
 title: Bridge of the Gods
 created: 2026-10-21T19:39:05.000Z
-modified: 2026-10-21T19:39:05.000Z
-published: 2026-10-21T19:39:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T17:39:29.108Z
+published: 2026-10-31T17:39:29.108Z
 aliases: []
 books:
   - Hiking the 2,650-Mile Pacific Crest Trail
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 45.6623
   - -121.9012
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oregon]]"
+image: Attachments/Places/Bridge of the Gods.svg
 ---
 
 # Bridge of the Gods
@@ -28,13 +29,11 @@ within: "[[Oregon]]"
 Steel bridge over the Columbia River between Cascade Locks, Oregon, and Washington, the Pacific Crest Trail's lowest point. In a Priceonomics story it is the hikers' crossing into Washington.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Hiking the 2,650-Mile Pacific Crest Trail | Priceonomics | journey waypoint | Crossing into Washington for the last 500 miles. |
 
 ## Hiking the 2,650-Mile Pacific Crest Trail — Priceonomics (2015)
-
 Source: [Original](http://priceonomics.com/hiking-the-2650-mile-pacific-crest-trail/) · [Readwise highlight](https://read.readwise.io/read/01m5fzc54jb872scn7713yebp8)
 
 > In less than a month, they had crossed the Bridge of the Gods into Washington, and faced the final 500-mile crawl to the Canadian border.

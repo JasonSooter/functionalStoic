@@ -2,12 +2,8 @@
 publish: true
 title: Blue Lake (Full Tilt)
 created: 2026-10-22T16:27:33.000Z
-modified: 2026-10-22T16:27:33.000Z
-published: 2026-10-22T16:27:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T17:39:55.026Z
+published: 2026-10-31T17:39:55.026Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -22,7 +18,12 @@ icon: book
 location:
   - 34.877
   - 73.6945
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Lake Saiful Muluk]]"
+image: Attachments/Places/Blue Lake (Full Tilt).svg
 ---
 
 # Blue Lake (Full Tilt)
@@ -30,13 +31,11 @@ within: "[[Lake Saiful Muluk]]"
 Lake above Naran that Dervla Murphy calls the 'Blue Lake'; most likely Lake Saiful Muluk in the [[Kagan Valley]]. A scenic excursion in _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | subject | A walk round a crater-like lake mirroring snow peaks, with the Karachi family. |
 
 ## Full Tilt — Dervla Murphy (1965)
-
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6nb2355jeshe7ha6q5z1v)
 
 > This lake seems to be a volcanic crater, a mile wide and long, and it reflects all the snow-covered peaks that surround it on three sides.

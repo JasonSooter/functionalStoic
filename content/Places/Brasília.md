@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Brasilia
 title: Brasília
 created: 2026-10-20T10:42:12.000Z
-modified: 2026-10-21T10:25:28.000Z
-published: 2026-10-21T10:25:28.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T17:39:54.726Z
+published: 2026-10-31T17:39:54.726Z
+aliases:
+  - Brasilia
 books:
   - Is The Line Really Dead?
 categories:
@@ -21,7 +17,12 @@ icon: video
 location:
   - -15.7939
   - -47.8828
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Brazil]]"
+image: Attachments/Places/Brasília.svg
 ---
 
 # Brasília
@@ -29,17 +30,14 @@ within: "[[Brazil]]"
 Planned capital of [[Brazil]], founded in 1960. It appears in a B1M video as the precedent for a showpiece city built from nothing, against which the video judges The Line.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Is the Line Really Dead\|Is The Line Really Dead?]] | The B1M | backdrop | The precedent for a showpiece capital built from scratch. |
 
 ## Sub-places
-
 _None yet._
 
 ## Is The Line Really Dead? — The B1M (2025)
-
 Source: [Original](https://www.youtube.com/watch?v=zFVYgZMEOFg) · [Readwise highlight](https://read.readwise.io/read/01m5ce3h40v0g5xjeht52wrxvt)
 
 > This is Brasília. Founded in 1960, it replaced Rio de Janeiro as Brazil’s capital.
