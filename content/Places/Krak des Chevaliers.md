@@ -2,15 +2,11 @@
 publish: true
 title: Krak des Chevaliers
 created: 2026-10-22T14:40:20.000Z
-modified: 2026-10-22T14:40:20.000Z
-published: 2026-10-22T14:40:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-10-31T19:35:36.672Z
+published: 2026-10-31T19:35:36.672Z
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
@@ -20,6 +16,10 @@ icon: book
 location:
   - 34.757
   - 36.2947
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Syria]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Syria]]"
 Crusader castle in western Syria; in _Life on Air_ Attenborough films there for The First Eden.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | setting | Attenborough films there for The First Eden. |
+| Life on Air | David Attenborough | setting | Attenborough films there for The First Eden. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
-
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy82fqtymzrq1y8snpjx96)
 
 > Nonetheless, we were able to visit the most perfectly preserved of the Crusader castles - Krak des Chevaliers - and describe how both sides, Christian and Muslim, inflicted the most appalling atrocities on one another in the name of religion.
