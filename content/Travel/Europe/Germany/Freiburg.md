@@ -2,8 +2,8 @@
 publish: true
 title: Freiburg, Germany
 created: 2026-01-09T21:03:18.640Z
-modified: 2026-10-24T07:12:37.654Z
-published: 2026-10-24T07:12:37.654Z
+modified: 2026-10-31T11:13:23.261Z
+published: 2026-10-31T11:13:23.261Z
 aliases:
   - Freiburg im Breisgau
   - Freiburg, Germany
@@ -100,8 +100,11 @@ Overall, Freiburg blends historical charm with a forward-thinking approach to ur
 - [[Freiburg Hauptbahnhof]]
 - [[Friedrichsbau Kino]]
 - [[Hirschenhofweg mobility station]]
+- [[IKEA Freiburg]]
+- [[Katholische Akademie Freiburg]]
 - [[Landwasser]]
 - [[Maria-von-Rudloff-Platz]]
+- [[Marktladen Rieselfeld]]
 - [[Messe Freiburg]]
 - [[Mundenhof]]
 - [[Opfinger See bus stop]]
