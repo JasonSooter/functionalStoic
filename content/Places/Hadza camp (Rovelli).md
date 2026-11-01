@@ -1,17 +1,13 @@
 ---
 publish: true
+title: Hadza camp
+created: 2026-10-20T22:54:22.000Z
+modified: 2026-11-01T00:09:40.170Z
+published: 2026-11-01T00:09:40.170Z
 aliases:
   - Eyasi basin
   - Hadza territory
   - Hadzabe country
-title: Hadza camp
-created: 2026-10-20T22:54:22.000Z
-modified: 2026-10-21T11:12:32.000Z
-published: 2026-10-21T11:12:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -25,7 +21,12 @@ icon: book
 location:
   - -3.5833
   - 35
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tanzania]]"
+image: Attachments/Places/Hadza camp (Rovelli).svg
 ---
 
 # Hadza camp
@@ -33,13 +34,11 @@ within: "[[Tanzania]]"
 Hadza camp in the Lake Eyasi region of [[Tanzania]], pinned at a best-guess location. It is the likely real place behind Carlo Rovelli's essay There Are Places in the World Where Rules Are Less Important Than Kindness.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | setting | Rovelli drives out before dawn and walks through the savannah to a Hadza camp, where he trades his Opinel knife for friendship. |
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2018)
-
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0j2n7ebvs9b2n6bmctb9)
 
 > After a long drive we catch sight of them. Five or six men sitting around a small fire.

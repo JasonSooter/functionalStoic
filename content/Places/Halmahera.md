@@ -2,8 +2,8 @@
 publish: true
 title: Halmahera
 created: 2026-10-22T14:40:39.000Z
-modified: 2026-10-31T19:36:42.034Z
-published: 2026-10-31T19:36:42.034Z
+modified: 2026-11-01T00:09:10.505Z
+published: 2026-11-01T00:09:10.505Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Indonesia]]"
+image: Attachments/Places/Halmahera.svg
 ---
 
 # Halmahera

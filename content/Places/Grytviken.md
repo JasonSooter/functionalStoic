@@ -2,8 +2,8 @@
 publish: true
 title: Grytviken
 created: 2026-10-22T14:40:18.000Z
-modified: 2026-10-31T19:37:08.540Z
-published: 2026-10-31T19:37:08.540Z
+modified: 2026-11-01T00:09:28.186Z
+published: 2026-11-01T00:09:28.186Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[South Georgia]]"
+image: Attachments/Places/Grytviken.svg
 ---
 
 # Grytviken

@@ -2,12 +2,8 @@
 publish: true
 title: India Gate
 created: 2026-10-23T05:12:42.000Z
-modified: 2026-10-23T05:12:42.000Z
-published: 2026-10-23T05:12:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:32:48.391Z
+published: 2026-11-01T00:32:48.391Z
 aliases: []
 books:
   - "[[On the Hippie Trail]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 28.6129
   - 77.2293
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Delhi]]"
+image: Attachments/Places/India Gate.svg
 ---
 
 # India Gate
@@ -28,13 +29,11 @@ within: "[[New Delhi]]"
 War memorial arch on the Kartavya Path (formerly Rajpath) in New Delhi. In _On the Hippie Trail_ Rick and Gene walk there on Independence Day.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | setting | An Independence Day walk down Rajpath to India Gate, then to Lodi Gardens and a Sikh picnic. |
 
 ## On the Hippie Trail — Rick Steves (2025)
-
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjexx234qccfvjk9j8ydpv)
 
 > A long avenue, Rajpath, led to the famous India Gate with the eternal flame for WWI victims.

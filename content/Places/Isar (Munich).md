@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Isar (Munich)
+created: 2026-10-20T02:09:07.000Z
+modified: 2026-11-01T00:32:56.739Z
+published: 2026-11-01T00:32:56.739Z
 aliases:
   - Isar
   - Isar River, Munich
-title: Isar (Munich)
-created: 2026-10-20T02:09:07.000Z
-modified: 2026-10-21T11:11:18.000Z
-published: 2026-10-21T11:11:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - These Germans Who Swim To Work Are Happier Than You
   - The man who swims to work
@@ -18,12 +14,18 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 48.1375,11.575
-geo_note: "approximate (representative point: Munich city coordinate from English Wikipedia; the swim route isn't located more exactly)"
+geo_note: "approximate (representative point: Munich city coordinate from English\
+  \ Wikipedia; the swim route isn't located more exactly)"
 icon: newspaper
 location:
   - 48.1375
   - 11.575
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bavaria]]"
+image: Attachments/Places/Isar (Munich).svg
 ---
 
 # Isar (Munich)
@@ -31,14 +33,12 @@ within: "[[Bavaria]]"
 The Alpine river that runs through Munich, [[Bavaria]], Germany, and the swimming commute route in two articles about a man who swims to work.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The man who swims to work | Daniel Loher | subject | A Munich man who swims 2 km to his office instead of sitting in traffic. |
 | These Germans Who Swim To Work Are Happier Than You | Rebecca Schuman | subject | The same swim commute, held up as a model of German happiness. |
 
 ## The man who swims to work — Daniel Loher (2026)
-
 Source: [Original](http://www.bbc.com/capital/story/20170724-the-man-who-swims-to-work) · [Readwise highlight](https://read.readwise.io/read/01m5bfwmgm0vmgy9dt2y9j9jmq)
 
 > So he now packs his laptop, suit and shoes into a waterproof bag, straps it to his back and swims 2km to work along the Isar River in Munich, Germany.
@@ -48,7 +48,6 @@ Source: [Original](http://www.bbc.com/capital/story/20170724-the-man-who-swims-t
 - **Why it matters:** The river is the commute; without the Isar running through the city there is no story.
 
 ## These Germans Who Swim To Work Are Happier Than You — Rebecca Schuman (2026)
-
 Source: [Original](https://www.theawl.com/2017/08/these-germans-who-swim-to-work-are-happier-than-you/) · [Readwise highlight](https://read.readwise.io/read/01m5bfwjxradh9j60b0f5e9fa4)
 
 > Munich resident David Benjamin both lives and works near the city’s Isar river

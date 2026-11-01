@@ -2,8 +2,8 @@
 publish: true
 title: Jejuí River
 created: 2026-10-22T13:40:42.000Z
-modified: 2026-10-31T19:35:46.093Z
-published: 2026-10-31T19:35:46.093Z
+modified: 2026-11-01T00:33:13.275Z
+published: 2026-11-01T00:33:13.275Z
 aliases:
   - Jejui
   - Jejuí Guazú
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Paraguay]]"
+image: Attachments/Places/Jejuí River.svg
 ---
 
 # Jejuí River

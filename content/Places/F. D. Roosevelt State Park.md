@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Franklin D. Roosevelt State Park
 title: F. D. Roosevelt State Park
 created: 2026-10-22T14:39:59.000Z
-modified: 2026-10-22T14:39:59.000Z
-published: 2026-10-22T14:39:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:09:05.757Z
+published: 2026-11-01T00:09:05.757Z
+aliases:
+  - Franklin D. Roosevelt State Park
 books:
   - "Backpacking with Kids: The Gear List"
 categories:
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 32.8319
   - -84.8081
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Georgia (U.S. state)]]"
+image: Attachments/Places/F. D. Roosevelt State Park.svg
 ---
 
 # F. D. Roosevelt State Park
@@ -29,13 +30,11 @@ within: "[[Georgia (U.S. state)]]"
 Georgia's largest state park, on Pine Mountain; the Currently Wandering family's Thanksgiving backpacking trip.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Backpacking with Kids: The Gear List | Jess (Currently Wandering) | setting | The Currently Wandering family's Thanksgiving backpacking trip. |
 
 ## Backpacking with Kids: The Gear List — Jess (Currently Wandering) (2016)
-
 Source: [Original](http://currentlywandering.com/2016/01/13/backpacking-with-kids-the-gear-list/) · [Readwise highlight](https://read.readwise.io/read/01m5hy6vyh2nhxt2wajyjq8ya2)
 
 > Last Thanksgiving we went backpacking in Franklin D. Roosevelt State Park in Georgia.

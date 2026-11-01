@@ -2,8 +2,8 @@
 publish: true
 title: Galápagos Islands
 created: 2026-10-22T10:25:55.000Z
-modified: 2026-10-31T19:35:15.922Z
-published: 2026-10-31T19:35:15.922Z
+modified: 2026-11-01T00:09:33.866Z
+published: 2026-11-01T00:09:33.866Z
 aliases:
   - Galapagos Islands
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Ecuador]]"
+image: Attachments/Places/Galápagos Islands.svg
 ---
 
 # Galápagos Islands

@@ -1,20 +1,16 @@
 ---
 publish: true
+title: Gospel Pass
+created: 2026-10-20T10:42:50.000Z
+modified: 2026-11-01T00:09:36.366Z
+published: 2026-11-01T00:09:36.366Z
 aliases:
   - Llanthony Valley
   - Vale of Ewyas
   - Bwlch yr Efengyl
-title: Gospel Pass
-created: 2026-10-20T10:42:50.000Z
-modified: 2026-10-21T11:11:04.000Z
-published: 2026-10-21T11:11:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
-  - "#029 Summary of all content so far"
+  - '#029 Summary of all content so far'
 categories:
   - "[[Places]]"
 color: purple
@@ -24,7 +20,12 @@ icon: book
 location:
   - 52.0104
   - -3.1158
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Wales]]"
+image: Attachments/Places/Gospel Pass.svg
 ---
 
 # Gospel Pass
@@ -32,14 +33,12 @@ within: "[[Wales]]"
 Highest road pass in Wales, at the head of the Vale of Ewyas (Llanthony Valley), Black Mountains, [[Wales]]. It is the ride that ends Robert Penn's It's All About the Bike, and a route a newsletter author remembers cycling.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike - In Pursuit of Happiness on Two Wheels\|It's All About the Bike]] | Robert Penn | turning point | The first ride on the finished bike, and the book's last line. |
 | #029 Summary of all content so far | Diagram Club | journey waypoint | The author recalls cycling over Gospel Pass, via Llanthony and Capel-y-ffin, to reach Hay as a student-age rider. |
 
 ## It's All About the Bike — Robert Penn (2010)
-
 Source: [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5ce6j4h6a3se107ey44ab0b)
 
 > I dropped down into the Llanthony Valley, commanding the bike through the corners with the tiniest shifts in balance.
@@ -49,7 +48,6 @@ Source: [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [
 - **Why it matters:** It is the book's ending: the whole quest pays off on this road.
 
 ## #029 Summary of all content so far — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/029-summary-of-all-content-so-far) · [Readwise highlight](https://read.readwise.io/read/01m5ebr3qf8k1a666arjaszn11)
 
 > One happy memory (of many): cycling over Gospel Pass, probably when I was around student-age, past Llanthony and Capel-y-ffin over to Hay.

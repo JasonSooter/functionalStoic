@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Hall of Mirrors
+created: 2026-10-23T11:13:59.000Z
+modified: 2026-11-01T00:09:08.469Z
+published: 2026-11-01T00:09:08.469Z
 aliases:
   - Galerie des Glaces
   - Versailles
-title: Hall of Mirrors
-created: 2026-10-23T11:13:59.000Z
-modified: 2026-10-23T11:13:59.000Z
-published: 2026-10-23T11:13:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 48.8048
   - 2.1203
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[France]]"
+image: Attachments/Places/Hall of Mirrors.svg
 ---
 
 # Hall of Mirrors
@@ -30,13 +31,11 @@ within: "[[France]]"
 Mirrored gallery of the Palace of Versailles near Paris, built for Louis XIV. In _Germany: Memories of a Nation_ it is where the German Empire was proclaimed in 1871 and the 1919 treaty was imposed.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | turning point | Louis XIV's showpiece where Wilhelm I was proclaimed German Kaiser in 1871, and where Germany was made to sign in 1919. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
-
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76jxqtexqxm4d1qb1tdsj)
 
 > It was no coincidence that this ringing declaration was made not in Berlin, but in that same Hall of Mirrors at Versailles, before the Franco-Prussian War was even formally over.

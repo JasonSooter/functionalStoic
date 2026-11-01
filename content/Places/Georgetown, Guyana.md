@@ -2,8 +2,8 @@
 publish: true
 title: Georgetown, Guyana
 created: 2026-10-22T13:40:26.000Z
-modified: 2026-10-31T19:37:07.975Z
-published: 2026-10-31T19:37:07.975Z
+modified: 2026-11-01T00:09:09.505Z
+published: 2026-11-01T00:09:09.505Z
 aliases:
   - Georgetown
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Guyana]]"
+image: Attachments/Places/Georgetown, Guyana.svg
 ---
 
 # Georgetown, Guyana

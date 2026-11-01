@@ -1,30 +1,33 @@
 ---
 publish: true
+title: Huaqiangbei
+created: 2026-10-20T22:54:24.000Z
+modified: 2026-11-01T00:32:57.139Z
+published: 2026-11-01T00:32:57.139Z
 aliases:
   - Huaqiang North
   - Huaqiangbei electronics market
   - 华强北
-title: Huaqiangbei
-created: 2026-10-20T22:54:24.000Z
-modified: 2026-10-21T11:10:05.000Z
-published: 2026-10-21T11:10:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Breakneck
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 22.5448,114.0815
-geo_note: Wikipedia en 'Huaqiangbei' is a redirect with no coordinates; Nominatim neighbourhood node; subdistrict relation 12341743 at 22.5479,114.0878; Huaqiang North station (Wikipedia en) 22.5442,114.0853
+geo_note: Wikipedia en 'Huaqiangbei' is a redirect with no coordinates; Nominatim
+  neighbourhood node; subdistrict relation 12341743 at 22.5479,114.0878; Huaqiang
+  North station (Wikipedia en) 22.5442,114.0853
 geo_source: OSM node 3373068621 (neighbourhood)
 icon: book
 location:
   - 22.5448
   - 114.0815
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Shenzhen]]"
+image: Attachments/Places/Huaqiangbei.svg
 ---
 
 # Huaqiangbei
@@ -32,13 +35,11 @@ within: "[[Shenzhen]]"
 Electronics market district of [[Shenzhen]], the wholesale bazaar Dan Wang uses in Breakneck to show Shenzhen's component ecosystem.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | setting | Wang describes the wholesale electronics bazaar with bins of wires and capacitors, and buying a single whale-print phone case. |
 
 ## Breakneck — Dan Wang (2025)
-
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dqyw9xc88bfz150fdd4st1)
 
 > The center of Shenzhen is the Huaqiangbei mall complex. It is a giant bazaar spread across several buildings, with stalls filled not with spices or silks but wholesale electronics.

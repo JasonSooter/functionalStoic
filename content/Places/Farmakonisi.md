@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Biscuit Island
 title: Farmakonisi
 created: 2026-10-23T04:41:20.000Z
-modified: 2026-10-23T04:41:20.000Z
-published: 2026-10-23T04:41:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:09:14.525Z
+published: 2026-11-01T00:09:14.525Z
+aliases:
+  - Biscuit Island
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 37.29
   - 27.085
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Greece]]"
+image: Attachments/Places/Farmakonisi.svg
 ---
 
 # Farmakonisi
@@ -29,13 +30,11 @@ within: "[[Greece]]"
 Small Greek island in the eastern Aegean, used by the military. In _The Beekeeper of Aleppo_ Nuri, Afra and Mohammed land there after crossing from Turkey by dinghy.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | journey waypoint | Survivors of the dinghy crossing warm themselves at a fire of life jackets; Mohammed renames it Biscuit Island. |
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
-
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgrbcn8hbbzxncsem2jemt)
 
 > Like driftwood washed ashore, we were left on the tiny military island of Farmakonisi.

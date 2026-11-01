@@ -2,8 +2,8 @@
 publish: true
 title: Helyg
 created: 2026-10-22T13:40:17.000Z
-modified: 2026-10-31T19:35:50.477Z
-published: 2026-10-31T19:35:50.477Z
+modified: 2026-11-01T00:09:28.722Z
+published: 2026-11-01T00:09:28.722Z
 aliases:
   - Ogwen Valley
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Wales]]"
+image: Attachments/Places/Helyg.svg
 ---
 
 # Helyg

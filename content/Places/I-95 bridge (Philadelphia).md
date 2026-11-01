@@ -1,16 +1,12 @@
 ---
 publish: true
+title: I-95 bridge (Philadelphia)
+created: 2026-10-23T11:14:24.000Z
+modified: 2026-11-01T00:33:08.659Z
+published: 2026-11-01T00:33:08.659Z
 aliases:
   - I-95 bridge in Philadelphia
   - 2023 Interstate 95 highway collapse
-title: I-95 bridge (Philadelphia)
-created: 2026-10-23T11:14:24.000Z
-modified: 2026-10-23T11:14:24.000Z
-published: 2026-10-23T11:14:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Abundance
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 40.0242
   - -75.0308
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Philadelphia]]"
+image: Attachments/Places/I-95 bridge (Philadelphia).svg
 ---
 
 # I-95 bridge (Philadelphia)
@@ -30,13 +31,11 @@ within: "[[Philadelphia]]"
 This is the stretch of Interstate 95 in Northeast Philadelphia that collapsed after a tanker fire on June 11, 2023. _Abundance_ uses its quick rebuilding as proof that government can build fast.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | turning point | A tanker fire collapsed I-95 in June 2023; skipping normal rules, Pennsylvania reopened it in twelve days. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
-
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m7811a10t1e2v5426xbcdm)
 
 > The truck ignited underneath the I-95 bridge in Philadelphia, killing the driver and melting the steel beams undergirding it.

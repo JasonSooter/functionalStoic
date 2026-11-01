@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - FSU
 title: Florida State University
 created: 2026-10-21T19:22:48.000Z
-modified: 2026-10-21T19:22:48.000Z
-published: 2026-10-21T19:22:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:09:34.066Z
+published: 2026-11-01T00:09:34.066Z
+aliases:
+  - FSU
 books:
   - How to Be an Antiracist
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 30.442
   - -84.298
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tallahassee]]"
+image: Attachments/Places/Florida State University.svg
 ---
 
 # Florida State University
@@ -29,13 +30,11 @@ within: "[[Tallahassee]]"
 Public university in Tallahassee, Florida. In How to Be an Antiracist (Ibram X. Kendi) its GRE prep course shows him that standardized tests measure test-taking, not intelligence.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | turning point | A GRE prep course here convinces Kendi that tests measure coaching, not intelligence. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
-
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fydzk5wzzx41yqgndyjgk3)
 
 > I sat surrounded by White students before a White teacher at Florida State University, a flashback to my lonely boat at Stonewall Jackson.

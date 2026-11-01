@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Hobbiton film set
 title: Hobbiton Movie Set
 created: 2026-10-23T11:13:56.000Z
-modified: 2026-10-23T11:13:56.000Z
-published: 2026-10-23T11:13:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:09:40.182Z
+published: 2026-11-01T00:09:40.182Z
+aliases:
+  - Hobbiton film set
 books:
   - "[[The Hobbit]]"
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - -37.8575
   - 175.6797
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Zealand]]"
+image: Attachments/Places/Hobbiton Movie Set.svg
 ---
 
 # Hobbiton Movie Set
@@ -30,13 +31,11 @@ within: "[[New Zealand]]"
 The Hobbiton Movie Set is the village of hobbit-holes built on the Alexander family's sheep farm near Matamata, New Zealand, now a tourist attraction. It is pinned for _The Hobbit_ because Peter Jackson's Hobbit films shot Hobbiton and Bag End there; it is not a place in the book.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | setting | Film set near Matamata where Jackson's Hobbit films shot Bag End and Hobbiton; not a place in the book. |
 
 ## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
-
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m777qddbea4tthdfm580b5)
 
 > It had a perfectly round door like a porthole, painted green, with a shiny yellow brass knob in the exact middle.

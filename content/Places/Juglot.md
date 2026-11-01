@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Juglot
+created: 2026-10-22T16:27:25.000Z
+modified: 2026-11-01T00:32:59.815Z
+published: 2026-11-01T00:32:59.815Z
 aliases:
   - Juglote
   - Jaglot
-title: Juglot
-created: 2026-10-22T16:27:25.000Z
-modified: 2026-10-22T16:27:25.000Z
-published: 2026-10-22T16:27:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 35.685
   - 74.6239
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pakistan]]"
+image: Attachments/Places/Juglot.svg
 ---
 
 # Juglot
@@ -30,13 +31,11 @@ within: "[[Pakistan]]"
 Village on the Indus below Gilgit, Pakistan. The first camp of a harsh stage in _Full Tilt_ (as 'Juglote').
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | After 43 waterless miles by the Indus she drinks twelve pints at the nullah. |
 
 ## Full Tilt — Dervla Murphy (1965)
-
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6n49j5qyxhgehg6nm5jwz)
 
 > Nanga Parbat is directly overlooking Juglote and was visible all the afternoon, thrusting up grandly from the wild array of surrounding peaks; it’s definitely the second most impressive mountain I’ve seen, after Ararat, with Demavand a good third on my list.

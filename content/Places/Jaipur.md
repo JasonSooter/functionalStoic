@@ -2,12 +2,8 @@
 publish: true
 title: Jaipur
 created: 2026-10-23T05:12:49.000Z
-modified: 2026-10-23T05:12:49.000Z
-published: 2026-10-23T05:12:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:33:04.239Z
+published: 2026-11-01T00:33:04.239Z
 aliases: []
 books:
   - "[[On the Hippie Trail]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 26.915
   - 75.82
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[India]]"
+image: Attachments/Places/Jaipur.svg
 ---
 
 # Jaipur
@@ -28,13 +29,11 @@ within: "[[India]]"
 Capital of Rajasthan, India, known as the Pink City. In _On the Hippie Trail_ Rick and Gene stay in the Maharaja of Khetri's house and ride an elephant at Amber Fort.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | setting | The Pink City in the monsoon: a maharaja's guesthouse, the bazaar and an elephant ride at Amber Fort. |
 
 ## On the Hippie Trail — Rick Steves (2025)
-
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjf12pp914satn86862ve0)
 
 > Happily settled, we called for a rickshaw, rolled under majestic Chandpole Gate, and entered the old, pink city of Jaipur.

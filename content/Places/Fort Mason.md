@@ -2,12 +2,8 @@
 publish: true
 title: Fort Mason
 created: 2026-10-22T22:58:40.000Z
-modified: 2026-10-22T22:58:40.000Z
-published: 2026-10-22T22:58:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:09:41.506Z
+published: 2026-11-01T00:09:41.506Z
 aliases: []
 books:
   - Fitness Isn't a Lifestyle Anymore. Sometimes It's a Cult
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 37.8078
   - -122.4297
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
+image: Attachments/Places/Fort Mason.svg
 ---
 
 # Fort Mason
@@ -28,13 +29,11 @@ within: "[[San Francisco]]"
 Former army post on the San Francisco waterfront, now a park. Wired's piece on fitness cults opens with a pre-dawn November Project workout there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Fitness Isn't a Lifestyle Anymore. Sometimes It's a Cult | Meaghen Brown | setting | The reporter wanders Fort Mason in rainy pre-dawn darkness looking for a November Project workout, meets a fellow seeker, and joins… |
 
 ## Fitness Isn't a Lifestyle Anymore. Sometimes It's a Cult — Meaghen Brown (2016)
-
 Source: [Original](https://www.wired.com/2016/06/fitness-isnt-lifestyle-anymore-sometimes-cult/) · [Readwise highlight](https://read.readwise.io/read/01m5jx6vd3p4txsqg3464nwt0x)
 
 > San Francisco’s Fort Mason park is empty in the early morning darkness, every surface the color of a used cast-iron pan.

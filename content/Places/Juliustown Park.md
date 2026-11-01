@@ -2,15 +2,12 @@
 publish: true
 title: Juliustown Park
 created: 2026-10-21T05:07:02.000Z
-modified: 2026-10-21T11:10:50.000Z
-published: 2026-10-21T11:10:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:33:00.779Z
+published: 2026-11-01T00:33:00.779Z
 aliases: []
 books:
-  - Yet another bike ride to find Burlington County’s trolls — and some of its best pizza
+  - Yet another bike ride to find Burlington County’s trolls — and some of its best
+    pizza
 categories:
   - "[[Places]]"
 color: purple
@@ -20,7 +17,12 @@ icon: newspaper
 location:
   - 40.0181
   - -74.661
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Juliustown Park.svg
 ---
 
 # Juliustown Park
@@ -28,13 +30,11 @@ within: "[[New Jersey]]"
 Park in Burlington County, [[New Jersey]], home to a heavy-metal-loving troll on the bike ride in an article about hunting the county's trolls.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Yet another bike ride to find Burlington County’s trolls — and some of its best pizza | alliumstozinnias | journey waypoint | A few miles after Arney's Mount the group reaches Juliustown Park and finds Kevin, a heavy-metal-loving troll. |
 
 ## Yet another bike ride to find Burlington County’s trolls — and some of its best pizza — alliumstozinnias (2024)
-
 Source: [Original](https://exploringbybike.com/2024/12/18/yet-another-bike-ride-to-find-burlington-countys-trolls-and-some-of-its-best-pizza/) · [Readwise highlight](https://read.readwise.io/read/01m5edgfmgybd0csfa2wh3tpfb)
 
 > A few miles away in Juliustown Park is Kevin, happily waiting for a game to start.

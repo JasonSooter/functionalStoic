@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Hoover Tower
+created: 2026-10-21T22:44:04.000Z
+modified: 2026-11-01T00:32:50.283Z
+published: 2026-11-01T00:32:50.283Z
 aliases:
   - Hoover Library
   - Hoover Institution Library
-title: Hoover Tower
-created: 2026-10-21T22:44:04.000Z
-modified: 2026-10-21T22:44:04.000Z
-published: 2026-10-21T22:44:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Stranger in a Strange Land
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 37.4276
   - -122.1669
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Stanford University]]"
+image: Attachments/Places/Hoover Tower.svg
 ---
 
 # Hoover Tower
@@ -30,13 +31,11 @@ within: "[[Stanford University]]"
 Tower of the Hoover Institution library at [[Stanford University]], Palo Alto. In Stranger in a Strange Land (Robert A. Heinlein) Mike tries to read the whole 'Hoover Library'.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | journey waypoint | Mike tries and fails to swallow the whole Hoover Library 'in mammoth gulps'. |
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
-
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > They stopped in Palo Alto long enough for Mike to try (and fail to) swallow all the Hoover Library in mammoth gulps.

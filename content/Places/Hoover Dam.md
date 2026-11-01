@@ -2,16 +2,13 @@
 publish: true
 title: Hoover Dam
 created: 2026-10-20T19:37:23.000Z
-modified: 2026-10-22T16:29:23.000Z
-published: 2026-10-22T16:29:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:32:49.595Z
+published: 2026-11-01T00:32:49.595Z
 aliases: []
 books:
   - Why Are There No Short Arch Dams?
   - If all humans died, when would the last light go out?
+  - A Month At Lake Mead National Recreation Area — Live Small – Ride Free
 categories:
   - "[[Places]]"
 color: purple
@@ -21,7 +18,12 @@ icon: newspaper
 location:
   - 36.0156
   - -114.7378
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nevada]]"
+image: Attachments/Places/Hoover Dam.svg
 ---
 
 # Hoover Dam
@@ -37,7 +39,6 @@ Concrete arch-gravity dam on the Colorado River in Black Canyon, on the [[Nevada
 | A Month At Lake Mead National Recreation Area — Live Small – Ride Free | Ching | setting | A must-see on their Lake Mead month: the old water line and the Colorado below. |
 
 ## Why Are There No Short Arch Dams? — Wesley Crump (2025)
-
 Source: [Original](https://practical.engineering/blog/2025/8/5/why-are-there-no-short-arch-dams) · [Readwise highlight](https://read.readwise.io/read/01m5dcm62wjtnqxd9e8j59apmf)
 
 > Even what is perhaps the most famous arch dam in the world - Hoover Dam - isn’t a pure arch structure.
@@ -47,7 +48,6 @@ Source: [Original](https://practical.engineering/blog/2025/8/5/why-are-there-no-
 - **Why it matters:** Illustrates hybrid design; a one-paragraph example.
 
 ## If all humans died, when would the last light go out? — xkcd's What If? (2024)
-
 Source: [Original](https://www.youtube.com/watch?v=8fADp43wJwU) · [Readwise highlight](https://read.readwise.io/read/01m5fcnxxcbfrv2awarzvvh86s)
 
 > An operator at the Hoover Dam once said that if everyone walked out,
@@ -57,7 +57,6 @@ Source: [Original](https://www.youtube.com/watch?v=8fADp43wJwU) · [Readwise hig
 - **Why it matters:** One of several concrete examples of off-grid generation outlasting people; a modest mention. Another dam would serve the argument equally.
 
 ## A Month At Lake Mead National Recreation Area — Live Small – Ride Free — Ching (2016)
-
 Source: [Original](http://www.livesmallridefree.com/blog/a-month-at-lake-mead-national-recreation-area) · [Readwise highlight](https://read.readwise.io/read/01m5j6jz5ma27zw2ahgyzfzz01)
 
 > You can’t be in the area and not check out Hoover Dam, a huge feat during its time and for a long time after.

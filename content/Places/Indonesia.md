@@ -2,12 +2,8 @@
 publish: true
 title: Indonesia
 created: 2026-10-20T22:56:08.000Z
-modified: 2026-10-23T11:13:03.000Z
-published: 2026-10-23T11:13:03.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:32:49.071Z
+published: 2026-11-01T00:32:49.071Z
 aliases: []
 books:
   - Faster and lighter mobile web pages for Indonesia
@@ -21,6 +17,11 @@ icon: newspaper
 location:
   - -5
   - 120
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+image: Attachments/Places/Indonesia.svg
 ---
 
 # Indonesia
@@ -28,7 +29,6 @@ location:
 Island country in Southeast Asia. It is the test market in a 2015 Google post about lighter web pages for slow mobile connections.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Faster and lighter mobile web pages for Indonesia | Google Developers | subject | Field test of stripped-down search results and pages for users on slow 2G connections. |
@@ -49,7 +49,6 @@ Island country in Southeast Asia. It is the test market in a 2015 Google post ab
 - [[Surabaya]]
 
 ## Faster and lighter mobile web pages for Indonesia — Google Developers (2015)
-
 Source: [Original](http://googlewebmastercentral.blogspot.com/2015/04/faster-and-lighter-mobile-web-pages-for.html) · [Readwise highlight](https://read.readwise.io/read/01m5fzby3djm7xgcqef5ez0eyb)
 
 > In two weeks, we're starting a field test in Indonesia to provide streamlined search results and optimized pages when the user searches on slow mobile connections, such as 2G.

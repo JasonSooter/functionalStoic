@@ -2,8 +2,8 @@
 publish: true
 title: Gran Chaco
 created: 2026-10-22T13:41:07.000Z
-modified: 2026-10-31T19:36:42.494Z
-published: 2026-10-31T19:36:42.494Z
+modified: 2026-11-01T00:09:42.542Z
+published: 2026-11-01T00:09:42.542Z
 aliases:
   - The Chaco
   - Chaco
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Paraguay]]"
+image: Attachments/Places/Gran Chaco.svg
 ---
 
 # Gran Chaco

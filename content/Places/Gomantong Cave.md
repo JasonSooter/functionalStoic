@@ -2,8 +2,8 @@
 publish: true
 title: Gomantong Cave
 created: 2026-10-22T13:41:35.000Z
-modified: 2026-10-31T19:37:07.239Z
-published: 2026-10-31T19:37:07.239Z
+modified: 2026-11-01T00:09:33.430Z
+published: 2026-11-01T00:09:33.430Z
 aliases:
   - Gomantong Caves
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Borneo]]"
+image: Attachments/Places/Gomantong Cave.svg
 ---
 
 # Gomantong Cave

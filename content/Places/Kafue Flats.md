@@ -2,8 +2,8 @@
 publish: true
 title: Kafue Flats
 created: 2026-10-22T13:41:16.000Z
-modified: 2026-10-31T19:35:34.892Z
-published: 2026-10-31T19:35:34.892Z
+modified: 2026-11-01T00:33:05.595Z
+published: 2026-11-01T00:33:05.595Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Zambia]]"
+image: Attachments/Places/Kafue Flats.svg
 ---
 
 # Kafue Flats

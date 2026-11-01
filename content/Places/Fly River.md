@@ -2,8 +2,8 @@
 publish: true
 title: Fly River
 created: 2026-10-22T14:40:31.000Z
-modified: 2026-10-31T19:36:27.082Z
-published: 2026-10-31T19:36:27.082Z
+modified: 2026-11-01T00:09:34.694Z
+published: 2026-11-01T00:09:34.694Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Papua New Guinea]]"
+image: Attachments/Places/Fly River.svg
 ---
 
 # Fly River

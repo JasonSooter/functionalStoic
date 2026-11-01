@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Fehmarn Belt
+created: 2026-10-20T22:52:13.000Z
+modified: 2026-11-01T00:09:17.421Z
+published: 2026-11-01T00:09:17.421Z
 aliases:
   - Fehmarnbelt
   - Femern Bælt
-title: Fehmarn Belt
-created: 2026-10-20T22:52:13.000Z
-modified: 2026-10-21T10:50:31.000Z
-published: 2026-10-21T10:50:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - The Insane Scale of Europe’s New Mega-Tunnel
 categories:
@@ -23,6 +19,11 @@ icon: video
 location:
   - 54.5667
   - 11.2833
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+image: Attachments/Places/Fehmarn Belt.svg
 ---
 
 # Fehmarn Belt
@@ -30,13 +31,11 @@ location:
 Baltic strait between the German island of [[Fehmarn]] and the Danish island of Lolland. It is the subject of a B1M video on the immersed tunnel being built to cross it.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Insane Scale of Europe’s New Mega-Tunnel | The B1M | subject | The video explains how the Fehmarn Belt between Germany and Denmark forces a 500 km detour on the Scan-Med corridor. |
 
 ## The Insane Scale of Europe’s New Mega-Tunnel — The B1M (2025)
-
 Source: [Original](https://www.youtube.com/watch?v=QiYvXKQksgI) · [Readwise highlight](https://read.readwise.io/read/01m5dqw5920jycwscrf8x62tv1)
 
 > a stretch of water between Germany and Denmark

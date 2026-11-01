@@ -2,8 +2,8 @@
 publish: true
 title: Freetown
 created: 2026-10-22T13:40:34.000Z
-modified: 2026-10-31T19:35:43.036Z
-published: 2026-10-31T19:35:43.036Z
+modified: 2026-11-01T00:09:16.269Z
+published: 2026-11-01T00:09:16.269Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Sierra Leone]]"
+image: Attachments/Places/Freetown.svg
 ---
 
 # Freetown

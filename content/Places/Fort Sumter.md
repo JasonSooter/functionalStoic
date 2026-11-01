@@ -2,15 +2,12 @@
 publish: true
 title: Fort Sumter
 created: 2026-10-22T22:36:07.000Z
-modified: 2026-10-22T22:36:07.000Z
-published: 2026-10-22T22:36:07.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:09:42.958Z
+published: 2026-11-01T00:09:42.958Z
 aliases: []
 books:
-  - The incredible story of a slave who stole a boat, sailed to freedom, and became a hero.
+  - The incredible story of a slave who stole a boat, sailed to freedom, and became
+    a hero.
 categories:
   - "[[Places]]"
 color: purple
@@ -20,7 +17,12 @@ icon: newspaper
 location:
   - 32.7522
   - -79.8747
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Charleston, South Carolina]]"
+image: Attachments/Places/Fort Sumter.svg
 ---
 
 # Fort Sumter
@@ -28,13 +30,11 @@ within: "[[Charleston, South Carolina]]"
 Sea fort at the mouth of Charleston Harbor, South Carolina. It is the last and most dangerous checkpoint Robert Smalls bluffs his way past on his escape.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The incredible story of a slave who stole a boat, sailed to freedom, and became a hero. | Erin Canty | turning point | Smalls, dressed as the captain, must pass four Confederate checkpoints |
 
 ## The incredible story of a slave who stole a boat, sailed to freedom, and became a hero. — Erin Canty (2016)
-
 Source: [Original](http://www.upworthy.com/the-incredible-story-of-a-slave-who-stole-a-boat-sailed-to-freedom-and-became-a-hero?c=ufb1) · [Readwise highlight](https://read.readwise.io/read/01m5jvnyj8s65rwpq3cgg43cf5)
 
 > The fourth checkpoint, Fort Sumter, was the grandaddy of checkpoints. And that grandaddy had guns. Lots and lots of guns.

@@ -2,8 +2,8 @@
 publish: true
 title: Jubilee Hall (Aldeburgh)
 created: 2026-10-22T13:41:32.000Z
-modified: 2026-10-31T19:36:49.019Z
-published: 2026-10-31T19:36:49.019Z
+modified: 2026-11-01T00:32:56.363Z
+published: 2026-11-01T00:32:56.363Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Suffolk]]"
+image: Attachments/Places/Jubilee Hall (Aldeburgh).svg
 ---
 
 # Jubilee Hall (Aldeburgh)

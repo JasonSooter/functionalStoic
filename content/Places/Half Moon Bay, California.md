@@ -2,8 +2,8 @@
 publish: true
 title: Half Moon Bay, California
 created: 2026-10-22T14:40:34.000Z
-modified: 2026-10-31T19:37:11.244Z
-published: 2026-10-31T19:37:11.244Z
+modified: 2026-11-01T00:09:43.614Z
+published: 2026-11-01T00:09:43.614Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Half Moon Bay, California.svg
 ---
 
 # Half Moon Bay, California

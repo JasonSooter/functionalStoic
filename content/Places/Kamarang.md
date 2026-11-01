@@ -2,8 +2,8 @@
 publish: true
 title: Kamarang
 created: 2026-10-22T13:40:30.000Z
-modified: 2026-10-31T19:36:28.818Z
-published: 2026-10-31T19:36:28.818Z
+modified: 2026-11-01T00:33:13.531Z
+published: 2026-11-01T00:33:13.531Z
 aliases:
   - Mazaruni River
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Guyana]]"
+image: Attachments/Places/Kamarang.svg
 ---
 
 # Kamarang

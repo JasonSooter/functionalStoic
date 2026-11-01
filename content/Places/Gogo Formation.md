@@ -2,8 +2,8 @@
 publish: true
 title: Gogo Formation
 created: 2026-10-22T14:40:21.000Z
-modified: 2026-10-31T19:36:55.571Z
-published: 2026-10-31T19:36:55.571Z
+modified: 2026-11-01T00:09:28.506Z
+published: 2026-11-01T00:09:28.506Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Western Australia]]"
+image: Attachments/Places/Gogo Formation.svg
 ---
 
 # Gogo Formation

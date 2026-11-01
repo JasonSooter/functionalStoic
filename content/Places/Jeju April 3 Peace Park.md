@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - April 3 Peace Park
 title: Jeju April 3 Peace Park
 created: 2026-10-23T07:45:58.000Z
-modified: 2026-10-23T07:45:58.000Z
-published: 2026-10-23T07:45:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T00:33:11.975Z
+published: 2026-11-01T00:33:11.975Z
+aliases:
+  - April 3 Peace Park
 books:
   - The Island of Sea Women
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 33.4516
   - 126.6189
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Jeju Island]]"
+image: Attachments/Places/Jeju April 3 Peace Park.svg
 ---
 
 # Jeju April 3 Peace Park
@@ -29,13 +30,11 @@ within: "[[Jeju Island]]"
 Memorial park near Jeju City for the victims of the Jeju 4.3 uprising and massacres, opened in 2008. _The Island of Sea Women_ frames its present-day story with the park's opening.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Island of Sea Women | Lisa See | setting | In 2008 Young-sook finds her husband's and son's names on the memorial wall and refuses to forgive. |
 
 ## The Island of Sea Women — Lisa See (2019)
-
 Source: [Original](https://openlibrary.org/works/OL19865296W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcrq6gq6hm6trqvebp10t)
 
 > They’re here for the opening of the Jeju April 3 Peace Park, which will commemorate the years-long massacre and honor the dead.
