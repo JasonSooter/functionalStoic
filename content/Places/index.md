@@ -3,8 +3,8 @@ publish: true
 title: Places
 description: Every place that does real work in something I've read, grouped by region, by book and by confidence, with a link to the map.
 created: 2026-11-01T12:52:54.000Z
-modified: 2026-11-01T12:57:09.000Z
-published: 2026-11-01T12:57:09.000Z
+modified: 2026-11-01T13:00:38.000Z
+published: 2026-11-01T13:00:38.000Z
 tags:
   - places
   - source/ai/claude
@@ -1513,3 +1513,216 @@ Grouped by continent and country (from each pin). Under a country, a bold place 
 > - _**Nordic Tales**_ · Chronicle Books (2017) — 6 places: [[Gan-Finn's Gamme (Nordic Tales)]] · [[Jokkmokk]] · [[Klode Mølle (Nordic Tales)]] · [[Lake Fryken]] · [[Skálholt]] · [[Tjøtta]]
 > - **[[North Woods]]** · Daniel Mason (2023) — 7 places: [[Albany, New York]] · [[MCI-Concord]] · [[Museum of Fine Arts, Boston]] · [[Nonesuch Pond]] · [[Plains of Abraham]] · [[The yellow house (North Woods)]] · [[University of King's College]]
 > - **[[Not the End of the World]]** · Hannah Ritchie (2024) — 21 places: [[Amazon rainforest]] · [[Bangudae Petroglyphs]] · [[Beijing]] · [[Big Air Shougang]] · [[Borneo]] · [[Chernobyl Nuclear Power Plant]] · [[Delhi]] · [[Discovery Bay (Jamaica)]] · [[Fukushima Daiichi Nuclear Power Plant]] · [[Glasgow]] · [[Great Pacific Garbage Patch]] · [[Hluhluwe–iMfolozi Park]] · [[Mediterranean Sea]] · [[Newfoundland and Labrador]] · [[Nor Loch]] · [[Ol Pejeta Conservancy]] · [[Paris]] · [[Qesem Cave]] · [[Sri Lanka]] · [[Tianyuan Cave]] · [[University of Edinburgh]]
+> - **[[On the Hippie Trail]]** · Rick Steves (2025) — 23 places: [[Azadi Tower]] · [[Badshahi Mosque]] · [[Connaught Place]] · [[Dal Lake]] · [[Frankfurt (Main) Hauptbahnhof]] · [[Galata Tower]] · [[Golden Temple]] · [[Gulmarg]] · [[Herat]] · [[Imam Reza Shrine]] · [[India Gate]] · [[Jaipur]] · [[Kabul]] · [[Kathmandu Durbar Square]] · [[Khyber Pass]] · [[Laxminarayan Temple]] · [[Patan (Lalitpur)]] · [[Phewa Lake]] · [[Plovdiv]] · [[Shalimar Bagh (Srinagar)]] · [[Swayambhunath]] · [[Taj Mahal]] · [[Varanasi]]
+> - **[[Peace Corps - The Great Adventure|Peace Corps: The Great Adventure]]** · Peace Corps (1997) — 21 places: [[Aguas Frías (vereda near Medellín)]] · [[Alubarén]] · [[Ark of Bukhara]] · [[Bor-Öndör]] · [[Bukhara]] · [[Chuuk Lagoon]] · [[Dilla]] · [[El Hajeb]] · [[Elulakeni]] · [[Erigavo]] · [[Etal]] · [[Ghion]] · [[Lastoursville]] · [[M'semrir]] · [[Maimafu]] · [[Medina of Tunis]] · [[Naqelewai]] · [[Piggs Peak]] · [[Rokel River]] · [[Taranganya]] · [[White House]]
+> - **[[Project Hail Mary]]** · Andy Weir (2021) — 16 places: [[Astrophage lab (Project Hail Mary)]] · [[Auckland Prison]] · [[Baikonur Cosmodrome]] · [[Geneva Airport]] · [[Grace's middle school (Project Hail Mary)]] · [[Johnson Space Center Building 30]] · [[Murphy's on Gough Street (Project Hail Mary)]] · [[Naval Station Pearl Harbor]] · [[Neutral Buoyancy Laboratory]] · [[Sahara]] · [[Sally's Diner (Project Hail Mary)]] · [[Stratt's aircraft carrier (Project Hail Mary)]] · [[The Geneva conference room (Project Hail Mary)]] · [[Travis Air Force Base]] · [[U.S. District Court for the Western District of Washington (Project Hail Mary)]] · [[West Antarctica]]
+> - **[[Quiet]]** · Susan Cain (2012) — 22 places: [[AmericasMart]] · [[Athinoula A. Martinos Center]] · [[Cupertino]] · [[DAR Constitution Hall]] · [[Foothill College]] · [[Gordon French's garage (Menlo Park)]] · [[Harvard Business School]] · [[Harvard Law School]] · [[Holt Street Baptist Church]] · [[Lincoln Memorial]] · [[Lower East Side]] · [[Monta Vista High School]] · [[Public Speaking–Social Anxiety Center of New York]] · [[Royal Military College Saint-Jean]] · [[Saddleback Church]] · [[Stanford University]] · [[Sun Valley, Idaho]] · [[Trinidad]] · [[Walker Creek Ranch]] · [[Warrensburg, Missouri]] · [[William James Hall]] · [[YMCA on 125th Street (Harlem)]]
+> - **[[Range|Range: Why Generalists Triumph in a Specialized World]]** · David Epstein (2019) — 29 places: [[Atari video game burial (Alamogordo)]] · [[Bagram Air Base]] · [[Budapest]] · [[Chernobyl Nuclear Power Plant]] · [[Dunedin]] · [[Grant Park]] · [[Halifax, West Yorkshire]] · [[Harvard Business School]] · [[Johns Hopkins Bloomberg School of Public Health]] · [[Johnstown, Pennsylvania]] · [[Kennedy Space Center]] · [[La Zone (Paris)]] · [[Mann Gulch]] · [[Marshall Space Flight Center]] · [[Mayo Clinic]] · [[Nintendo hanafuda shop (Kyoto)]] · [[Ospedale della Pietà]] · [[Paradise Garden]] · [[Storm King Mountain (Colorado)]] · [[Thompson Street (Manhattan)]] · [[Toronto]] · [[United States Air Force Academy]] · [[United States Military Academy]] · [[University of Chicago]] · [[University of Otago]] · [[Uzbekistan]] · [[Vandenberg Space Force Base]] · [[Venice]] · [[World War II Memorial]]
+> - _**Robinson Crusoe**_ · Daniel Defoe (1719) — 7 places: [[Crusoe's island (Robinson Crusoe)]] · [[Kingston upon Hull]] · [[Lisbon]] · [[Pamplona]] · [[Salvador, Bahia]] · [[Salé]] · [[Yarmouth Roads]]
+> - _**Sapiens: A Brief History of Humankind**_ · Yuval Noah Harari (2014) — 34 places: [[Amsterdam]] · [[Australia]] · [[Babylon]] · [[Behistun Inscription]] · [[Bengal]] · [[Beringia]] · [[Congo Free State]] · [[Denisova Cave]] · [[Flores]] · [[Göbekli Tepe]] · [[Hohlenstein-Stadel]] · [[Hong Kong]] · [[Jericho]] · [[Kaaba]] · [[Liverpool and Manchester Railway]] · [[Lydia]] · [[Mohenjo-daro]] · [[Navarino Bay]] · [[New Ireland]] · [[New Orleans]] · [[Numantia]] · [[Ofnet Caves]] · [[Royal Observatory, Greenwich]] · [[Samarkand]] · [[Sumer]] · [[Sungir]] · [[Tahiti]] · [[Tasmania]] · [[Tenochtitlan]] · [[Trinity Site]] · [[Uruk]] · [[Veracruz]] · [[Wall Street]] · [[Wrangel Island]]
+> - **[[Small Things Like These]]** · Claire Keegan (2021) — 2 places: [[New Ross]] · [[River Barrow]]
+> - _**Stranger in a Strange Land**_ · Robert A. Heinlein (1961) — 12 places: [[Ben Caxton's apartment (Stranger in a Strange Land)]] · [[Bethesda Medical Center (Stranger in a Strange Land)]] · [[Church of All Worlds Temple (Stranger in a Strange Land)]] · [[Executive Palace (Stranger in a Strange Land)]] · [[Golden Gate Park]] · [[Hagerstown, Maryland]] · [[Hoover Tower]] · [[Jubal Harshaw's home (Stranger in a Strange Land)]] · [[Las Vegas]] · [[New Mayflower Hotel (Stranger in a Strange Land)]] · [[San Francisco]] · [[Sans Souci Hotel (Stranger in a Strange Land)]]
+> - _**The Adventures of Tom Sawyer, Complete**_ · Mark Twain (1876) — 5 places: [[Cardiff Hill (Hannibal)]] · [[Hannibal, Missouri]] · [[Mark Twain Boyhood Home]] · [[Mark Twain Cave]] · [[Pearl Island (Illinois)]]
+> - **[[The Anxious Generation]]** · Jonathan Haidt (2024) — 9 places: [[Biosphere 2]] · [[Coney Island]] · [[Framingham, Massachusetts]] · [[Governors Island]] · [[Mountain Middle School (Durango)]] · [[NYU Stern School of Business]] · [[Swanson School (Auckland)]] · [[Waldorf School of the Peninsula]] · [[Washington Square]]
+> - **[[The Awakening]]** · Kate Chopin (1899) — 8 places: [[Chartres Street]] · [[Chênière Caminada]] · [[Esplanade Avenue]] · [[Grand Isle]] · [[Klein's hotel (The Awakening)]] · [[Mademoiselle Reisz's flat (The Awakening)]] · [[The Jockey Club race course (The Awakening)]] · [[The Ratignolle drug store (The Awakening)]]
+> - **[[The Ballad of the Sad Café]]** · Carson McCullers (1951) — 1 place: [[The mill town (The Ballad of the Sad Café)]]
+> - **[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]]** · Christy Lefteri (2019) — 14 places: [[Aleppo]] · [[Armanaz]] · [[Athens International Airport]] · [[Bab al-Faraj Clock Tower]] · [[Croydon]] · [[Farmakonisi]] · [[Leros]] · [[Pedion tou Areos]] · [[Piraeus]] · [[Queiq River]] · [[Taksim Square]] · [[The B&B by the sea (The Beekeeper of Aleppo)]] · [[Urum al-Kubra]] · [[Victoria Square (Athens)]]
+> - _**The Call of the Wild**_ · Jack London (1903) — 12 places: [[Chilkoot Pass]] · [[Circle, Alaska]] · [[Dawson City]] · [[Dyea, Alaska]] · [[Fortymile River]] · [[Lake Laberge]] · [[Santa Clara Valley]] · [[Seattle]] · [[Skagway, Alaska]] · [[Stewart River]] · [[Takhini River]] · [[White River (Yukon)]]
+> - _**The Caves of Steel**_ · Isaac Asimov (1954) — 6 places: [[City Hall (The Caves of Steel)]] · [[East 182nd Street (The Caves of Steel)]] · [[New York City]] · [[Spacetown (The Caves of Steel)]] · [[Williamsburg power plant (The Caves of Steel)]] · [[Yeast-town (The Caves of Steel)]]
+> - _**The Country Girls Trilogy**_ · Edna O'Brien (1986) — 18 places: [[Bayswater]] · [[Bull Wall]] · [[Custom House, Dublin]] · [[Davy Byrne's]] · [[Dawson Street]] · [[Dublin]] · [[Eugene Gaillard's house]] · [[Grafton Street]] · [[Limerick]] · [[London]] · [[London Waterloo station]] · [[Lough Derg (Shannon)]] · [[Nenagh railway station]] · [[Shelbourne Hotel]] · [[The Burren]] · [[The convent (The Country Girls Trilogy)]] · [[The Serpentine]] · [[The village (The Country Girls Trilogy)]]
+> - **[[The Daily Stoic]]** · Ryan Holiday (2016) — 11 places: [[Auschwitz]] · [[Corsica]] · [[Library Way]] · [[Lyon]] · [[New York Public Library Main Branch]] · [[Normandy]] · [[Piraeus]] · [[Robben Island]] · [[Roman Forum]] · [[Stoa Poikile]] · [[Via Dolorosa]]
+> - **[[The Dry Heart]]** · Natalia Ginzburg (1947) — 2 places: [[Sanremo]] · [[The city (The Dry Heart)]]
+> - **[[The Girl Who Drew Butterflies]]** · Joyce Sidman (2018) — 6 places: [[Frankfurt]] · [[La Providence (Suriname)]] · [[Nuremberg]] · [[Paramaribo]] · [[Vijzelstraat]] · [[Waltha Castle (Wieuwerd)]]
+> - _**The Hitchhiker's Guide to the Galaxy**_ · Douglas Adams (1979) — 5 places: [[Arthur Dent's house (The Hitchhiker's Guide to the Galaxy)]] · [[Islington]] · [[Norway]] · [[Rickmansworth]] · [[Southend-on-Sea]]
+> - **[[The Hobbit|The Hobbit (Middle-Earth Universe)]]** · J. R. R. Tolkien (1937) — 10 places: [[22 Northmoor Road]] · [[Dormston]] · [[Hobbiton Movie Set]] · [[Lake Zurich]] · [[Lauterbrunnen]] · [[Mount Ruapehu]] · [[Paradise, New Zealand]] · [[Pelorus River]] · [[Sarehole Mill]] · [[The Remarkables]]
+> - **[[The Importance of Being Earnest]]** · Oscar Wilde (1895) — 7 places: [[Albany (London)]] · [[Belgrave Square]] · [[Half Moon Street]] · [[London Victoria station]] · [[The Manor House (The Importance of Being Earnest)]] · [[Upper Grosvenor Street]] · [[Worthing]]
+> - _**The Island of Sea Women**_ · Lisa See (2019) — 10 places: [[Bukchon (Jeju)]] · [[Bukchon Elementary School]] · [[Darangshi Cave]] · [[Hado (Jeju)]] · [[Hallasan]] · [[Hamdeok]] · [[Jeju April 3 Peace Park]] · [[Jeju City]] · [[Pyeongdae-ri]] · [[Vladivostok]]
+> - _**The Jungle Book**_ · Rudyard Kipling (1894) — 7 places: [[City Palace, Udaipur]] · [[Garo Hills]] · [[Rawalpindi]] · [[Saint Paul Island]] · [[Seoni]] · [[Sugauli]] · [[Wainganga River]]
+> - **[[The Life and Times of the Thunderbolt Kid]]** · Bill Bryson (2006) — 17 places: [[Des Moines]] · [[Disneyland]] · [[Enewetak Atoll]] · [[Frenchman Flat]] · [[Greenwood Elementary School (Des Moines)]] · [[Greenwood Park (Des Moines)]] · [[Iowa State Capitol]] · [[Iowa State Fairgrounds]] · [[Lake Ahquabi State Park]] · [[MercyOne Des Moines Medical Center]] · [[Polo Grounds]] · [[Riverview Park (Des Moines)]] · [[Roosevelt High School (Des Moines)]] · [[Union Stockyards (Omaha)]] · [[Winfield, Iowa]] · [[Wrigley Field]] · [[Younkers (Des Moines)]]
+> - **[[The Little Book of Hygge - The Danish Way to Live Well|The Little Book of Hygge: The Danish Way to Live Well]]** · Meik Wiking (2016) — 9 places: [[Christianshavn]] · [[Dragør]] · [[Fejø]] · [[Gråbrødretorv]] · [[La Glace (Copenhagen)]] · [[Nissan (river)]] · [[Nyhavn]] · [[Tivoli Gardens]] · [[Værnedamsvej]]
+> - **[[The Martian]]** · Andy Weir (2011) — 6 places: [[Beijing]] · [[Cape Canaveral]] · [[Chicago]] · [[Jet Propulsion Laboratory]] · [[Jiuquan Satellite Launch Center]] · [[Johnson Space Center]]
+> - **[[The Nordic Theory of Everything]]** · Anu Partanen (2016) — 9 places: [[Chisago County, Minnesota]] · [[Dwight School]] · [[Lammi]] · [[Novo Nordisk headquarters (Bagsværd)]] · [[Sheraton New York Times Square Hotel]] · [[Supercell (Helsinki)]] · [[Theodore Roosevelt United States Courthouse]] · [[Tiistilä School]] · [[Wellesley High School]]
+> - **[[The Old Man and the Sea]]** · Ernest Hemingway (1952) — 6 places: [[Canary Islands]] · [[Casablanca (Havana)]] · [[Gulf Stream]] · [[Havana]] · [[The Terrace (The Old Man and the Sea)]] · [[The village (The Old Man and the Sea)]]
+> - **[[The Serviceberry]]** · Robin Wall Kimmerer (2024) — 2 places: [[Bears Ears National Monument]] · [[Mount Marcy]]
+> - _**The Simple Path to Wealth**_ · JL Collins (2016) — 3 places: [[Ireland]] · [[Tahiti]] · [[University of Illinois Urbana-Champaign]]
+> - **[[The Soul of an Octopus]]** · Sy Montgomery (2015) — 13 places: [[Cove 2 (Seacrest Park)]] · [[CRIOBE (Moorea)]] · [[Dublin Lake]] · [[El Paso del Cedral]] · [[Logan International Airport]] · [[Middlebury College]] · [[MIT swimming pool (The Soul of an Octopus)]] · [[New England Aquarium]] · [[Pacific Undersea Gardens]] · [[Papetoai]] · [[Paradise Reef (Cozumel)]] · [[Scuba Club Cozumel]] · [[Seattle Aquarium]]
+> - **[[The Subtle Art of Not Giving a Fck|The Subtle Art of Not Giving a F*ck]]** · Mark Manson (2016) — 7 places: [[Amazon rainforest]] · [[Cape of Good Hope]] · [[Lubang Island]] · [[Saint Petersburg]] · [[Swat Valley]] · [[The lake north of Dallas (The Subtle Art)]] · [[Tilaurakot (Kapilavastu)]]
+> - _**The Time Machine**_ · H. G. Wells (1895) — 3 places: [[Palace of Green Porcelain (The Time Machine)]] · [[The Time Traveller's house (The Time Machine)]] · [[Wimbledon Common]]
+> - _**The Underdogs: A Novel of the Mexican Revolution**_ · Mariano Azuela (1915) — 9 places: [[Aguascalientes]] · [[Cerro de la Bufa]] · [[Cuquío]] · [[Fresnillo]] · [[Juchipila]] · [[Lagos de Moreno]] · [[Limón (Zacatecas)]] · [[Moyahua de Estrada]] · [[Tepatitlán de Morelos]]
+> - _**The Wind in the Willows**_ · Kenneth Grahame (1908) — 5 places: [[Marseille]] · [[The River (The Wind in the Willows)]] · [[The Wild Wood (The Wind in the Willows)]] · [[Toad Hall (The Wind in the Willows)]] · [[Venice]]
+> - _**The Wonderful Wizard of Oz**_ · L. Frank Baum (1900) — 2 places: [[Kansas]] · [[Omaha]]
+> - _**The Year of Living Danishly**_ · Helen Russell (2015) — 15 places: [[Billund]] · [[Billund Airport]] · [[Castellammare del Golfo]] · [[Copenhagen]] · [[Copenhagen Zoo]] · [[Kolding]] · [[Lego Campus]] · [[Legoland Billund]] · [[Legoland Hotel]] · [[Louisiana Museum of Modern Art]] · [[Noma]] · [[Sprogø]] · [[Sticksville-on-Sea (The Year of Living Danishly)]] · [[The Big Town (The Year of Living Danishly)]] · [[Women's Museum (Aarhus)]]
+> - **[[There Are Places in the World Where Rules Are Less Important Than Kindness]]** · Carlo Rovelli (2020) — 12 places: [[Castel Gandolfo]] · [[Florence Baptistery]] · [[Hadza camp (Rovelli)]] · [[Mbour]] · [[Nataruk]] · [[Puig de Randa]] · [[Recanati]] · [[Sao (Senegal)]] · [[Stockholm]] · [[Syracuse]] · [[Teatro antico di Taormina]] · [[University of Bologna]]
+> - **[[Exploration of Three Men in a Boat|Three Men in a Boat]]** · Jerome K. Jerome (1889) — 35 places: [[Abingdon-on-Thames]] · [[Alhambra Theatre (London)]] · [[Ankerwycke Priory]] · [[Barley Mow (Clifton Hampden)]] · [[Bisham Abbey]] · [[British Museum]] · [[Cliveden Reach]] · [[Datchet]] · [[Dorchester on Thames]] · [[Goring-on-Thames]] · [[Hambleden Lock]] · [[Hampton Court Maze]] · [[Haymarket Stores]] · [[Henley-on-Thames]] · [[Kew Bridge]] · [[Kingston upon Thames]] · [[Magna Carta Island]] · [[Maidenhead]] · [[Marlow]] · [[Medmenham Abbey]] · [[Molesey Lock]] · [[Monkey Island (Bray)]] · [[Old Windsor]] · [[Oxford]] · [[Pangbourne]] · [[Penton Hook Lock]] · [[Reading, Berkshire]] · [[River Yare]] · [[Runnymede]] · [[Sandford Lock]] · [[Shiplake]] · [[Sonning]] · [[Wallingford]] · [[Walton-on-Thames]] · [[Wargrave]]
+> - **[[Uncommon Type]]** · Tom Hanks (2017) — 24 places: [[1939 New York World's Fair]] · [[Bastogne]] · [[Brandenburg Gate]] · [[Capitol Records Building]] · [[Central Park]] · [[Circus Maximus]] · [[Fairytale Town]] · [[Fort Worth]] · [[Fountain Valley, California]] · [[Hotel Lincoln (Eighth Avenue)]] · [[Hôtel Meurice]] · [[Iron Bend (Uncommon Type)]] · [[Kahala Hotel]] · [[Lakewood, Ohio]] · [[New York Public Library Main Branch]] · [[Normandy]] · [[Oxnard, California]] · [[Philadelphia]] · [[Piraeus]] · [[Place de la Concorde]] · [[Port Lockroy]] · [[Times Square]] · [[Ventura, California]] · [[Waldorf Astoria New York]]
+> - **[[Walkable City]]** · Jeff Speck (2012) — 65 places: [[Alaskan Way Viaduct]] · [[Amsterdam]] · [[Aspen]] · [[Boulder, Colorado]] · [[Brownsville (Brooklyn)]] · [[Buford Highway (Atlanta)]] · [[Calle Ocho]] · [[Centre Pompidou]] · [[Cheonggyecheon]] · [[Christiansfeld]] · [[Copenhagen]] · [[Dallas]] · [[Davenport, Iowa]] · [[DC USA]] · [[Denver]] · [[Downtown Baton Rouge]] · [[Downtown Oklahoma City]] · [[East Bay Street (Charleston)]] · [[East Broad Street (Savannah)]] · [[Embarcadero (San Francisco)]] · [[EPA Region 7 Headquarters (Lenexa)]] · [[Española Way]] · [[Fifth Avenue South (Naples, Florida)]] · [[Guggenheim Museum Bilbao]] · [[Hoyt Rail Yards (Portland)]] · [[K Street (Washington, D.C.)]] · [[Las Vegas]] · [[Lewistown]] · [[LoDo]] · [[London congestion charge zone]] · [[Lowell, Massachusetts]] · [[Main Street (Akron)]] · [[Main Street (Vancouver, Washington)]] · [[Market Street (Charleston)]] · [[Mashpee Commons]] · [[Merrimack Street (Lowell)]] · [[Michigan Theatre (Detroit)]] · [[Minneapolis]] · [[Mount Laurel (Alabama)]] · [[Mountain Brook]] · [[Ninth Street and Passyunk Avenue]] · [[Ocean Avenue (Carmel-by-the-Sea)]] · [[Old Pasadena]] · [[Oosterwolde]] · [[Palazzo Medici Riccardi]] · [[Palo Alto]] · [[Piazza dei Navigatori]] · [[Piazza del Campo]] · [[Portland Streetcar]] · [[Portland, Oregon]] · [[Prospect Park West]] · [[Sands Street (Brooklyn)]] · [[Short North]] · [[South Beach]] · [[South Lake Union]] · [[Telluride Gondola]] · [[Times Square]] · [[Trastevere]] · [[Ventura, California]] · [[Village of Hamburg, New York]] · [[Walt Disney Concert Hall]] · [[Washington DC]] · [[Westwood Village]] · [[Wyandotte Street (Bethlehem)]] · [[Ybor City]]
+> - **[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]** · Peter L. Bernstein (2005) — 26 places: [[Albany, New York]] · [[Batavia, New York]] · [[Bridgewater Canal]] · [[Buffalo]] · [[Canal du Midi]] · [[Canandaigua, New York]] · [[Chittenango, New York]] · [[City Hall Park]] · [[Cohoes Falls]] · [[Genesee River Aqueduct (Broad Street Bridge)]] · [[Great Embankment (Irondequoit Creek)]] · [[Hill Cumorah]] · [[Ireland]] · [[Little Falls, New York]] · [[Lockport Locks]] · [[Manchester]] · [[Mount Vernon]] · [[Niagara Falls]] · [[Oneida Carry]] · [[Patowmack Canal]] · [[Rochester, New York]] · [[Rome, New York]] · [[Sandy Hook]] · [[Schenectady, New York]] · [[Syracuse, New York]] · [[Utica, New York]]
+
+## Most-mapped articles and videos
+
+> [!info]- 36 articles, newsletters and videos with five or more places
+>
+> - **[[The Comfort Crisis]]** · Michael Easter (2021) — 27 places: [[Arnold Arboretum]] · [[Austin, Texas]] · [[Blue Hills Reservation]] · [[Cleve Creek Baldy]] · [[Dakarpo]] · [[Durango]] · [[Ely, Nevada]] · [[Everest Base Camp]] · [[GORUCK headquarters]] · [[Grand Canyon]] · [[Iceland]] · [[Lake Eyasi]] · [[Las Vegas]] · [[Lemon Reservoir]] · [[Noatak River]] · [[Orfield Laboratories]] · [[Paro International Airport]] · [[Paro Taktsang]] · [[Peabody Museum of Archaeology and Ethnology]] · [[Ralph Wien Memorial Airport]] · [[Reykjavík]] · [[Salida]] · [[Sand Island Campground]] · [[Santa Barbara]] · [[Santa Barbara Channel]] · [[Tuluksak River]] · [[Whale Bay (Prince William Sound)]]
+> - **[[Cod|Cod: A Biography of the Fish That Changed the World]]** · Mark Kurlansky (1997) — 16 places: [[Arnold's Cove]] · [[Arrigorriaga]] · [[Basque Country]] · [[Bristol]] · [[Georges Bank]] · [[Gloucester, Massachusetts]] · [[Grand Banks]] · [[Grimsby]] · [[Grindavík]] · [[La Rochelle]] · [[Labrador]] · [[Lunenburg, Nova Scotia]] · [[Newlyn]] · [[Petty Harbour]] · [[Provincetown, Massachusetts]] · [[St. John's, Newfoundland and Labrador]]
+> - **[[Just for Fun - The Story of an Accidental Revolutionary|Just for Fun: The Story of an Accidental Revolutionary]]** · Linus Torvalds and David Diamond (2001) — 15 places: [[Apple Infinite Loop campus]] · [[Durham, North Carolina]] · [[Ede, Netherlands]] · [[Grover Hot Springs State Park]] · [[Helsinki University of Technology]] · [[Orem, Utah]] · [[Presidential Palace, Helsinki]] · [[San Jose Convention Center]] · [[Santa Clara, California]] · [[Sinebrychoff Park]] · [[Stinson Beach, California]] · [[Svenska normallyceum i Helsingfors]] · [[The Venetian Las Vegas]] · [[Torvalds family apartment (Petersgatan)]] · [[University of Helsinki]]
+> - _**Rick Steves' Iran (2009)**_ · Rick Steves' Europe (2009) — 13 places: [[Abyaneh]] · [[Atashgah (Isfahan)]] · [[Azadi Tower]] · [[Chehel Sotoun]] · [[Grand Bazaar of Isfahan]] · [[Isfahan]] · [[Mausoleum of Ruhollah Khomeini]] · [[Naqsh-e Jahan Square]] · [[Persepolis]] · [[Shah Mosque (Isfahan)]] · [[Shiraz]] · [[Tehran]] · [[Tomb of Hafez]]
+> - **[[10 Lesser-Known German Cities That Will Amaze You]]** · DW Travel (2026) — 10 places: [[Alte Mainbrücke]] · [[Blautopf]] · [[Dokumentation Obersalzberg]] · [[Görlitz]] · [[Königssee]] · [[Marbach am Neckar]] · [[Monschau]] · [[Ozeaneum]] · [[Reichsburg Cochem]] · [[Wartburg]]
+> - **[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go|30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?]]** · Kyla Scanlon (2025) — 9 places: [[Baltimore]] · [[Berkeley, California]] · [[Florida]] · [[Kilkenny Castle]] · [[New Hampshire]] · [[New York City]] · [[Prague]] · [[St Canice's Cathedral]] · [[Washington Union Station]]
+> - _**Our 2 Week Costa Rica Vacation**_ · retirebyforty (2015) — 9 places: [[Arenal Volcano National Park]] · [[Juan Santamaría International Airport]] · [[La Fortuna Waterfall]] · [[Manuel Antonio National Park]] · [[Monteverde Cloud Forest Reserve]] · [[Museo del Oro Precolombino]] · [[Playa Espadilla]] · [[Santa Elena, Costa Rica]] · [[Selvatura Park]]
+> - _**Erie Canal**_ · wikipedia.org (2001) — 8 places: [[Buffalo]] · [[Genesee River Aqueduct (Broad Street Bridge)]] · [[Great Embankment (Irondequoit Creek)]] · [[Little Falls, New York]] · [[Lockport Locks]] · [[Mohawk Valley]] · [[Montezuma Marsh]] · [[Waterford Flight]]
+> - _**Colorado–Big Thompson Project - Wikipedia**_ · wikipedia.org (2005) — 7 places: [[Adams Tunnel]] · [[Carter Lake]] · [[Flatiron Reservoir]] · [[Green Mountain Reservoir]] · [[Horsetooth Reservoir]] · [[Lake Estes]] · [[Lake Granby]]
+> - _**The Black Art of Escape**_ · Casey Gerald (2019) — 7 places: [[Austin, Texas]] · [[Caldwell, Texas]] · [[Fruitvale station]] · [[Igbo Landing (Dunbar Creek)]] · [[New York City Center]] · [[Old Point Comfort]] · [[Whitney Museum]]
+> - _**These 8 cities are taking bold steps to get rid of cars**_ · Adele Peters (2019) — 7 places: [[Buenos Aires]] · [[City of London]] · [[Madrid]] · [[Oslo]] · [[Rives de Seine]] · [[Seoullo 7017]] · [[Thyagaraya Road]]
+> - _**While Riding on a Train Going West**_ · Linnesby-Maria (2024) — 7 places: [[Chicago Union Station]] · [[Emeryville station]] · [[Mississippi River]] · [[Moffat Tunnel]] · [[Ruby Canyon]] · [[South Station]] · [[Truckee River]]
+> - _**A Month At Lake Mead National Recreation Area**_ · Live Small – Ride Free — Ching (2016) — 6 places: [[Bootleg Canyon]] · [[Government Wash]] · [[Hoover Dam]] · [[Lake Mead]] · [[Red Rock Canyon National Conservation Area]] · [[River Mountains Loop]]
+> - _**Colorado is becoming a leader in constructing wildlife crossings**_ · and there's much more to come — Stephanie Butzer (2024) — 6 places: [[Colorado State Highway 9 wildlife crossings]] · [[East Vail Pass]] · [[Greenland Wildlife Overpass]] · [[I-25 South Gap wildlife underpass]] · [[I-70 at Genesee]] · [[US 160 between Durango and Pagosa Springs]]
+> - _**Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller**_ · Steve Miller (2015) — 6 places: [[Cannon Beach, Oregon]] · [[Galápagos Islands]] · [[Glacier Bay National Park]] · [[Italian Riviera]] · [[Pamplona]] · [[Stanley Park]]
+> - _**How China is rewriting the book on human origins**_ · Nature (2016) — 6 places: [[Dali Man site]] · [[Fuyan Cave (Daoxian)]] · [[Xujiayao]] · [[Yunxian hominin site]] · [[Zhiren Cave]] · [[Zhoukoudian]]
+> - _**Patagonia’s Philosopher-King – The New Yorker**_ · Nick Paumgarten (2016) — 6 places: [[Bighorn River]] · [[Bozeman, Montana]] · [[Camp 4 (Yosemite)]] · [[General Carrera Lake]] · [[Moose, Wyoming]] · [[Patagonia headquarters (Ventura)]]
+> - _**Rod Dreher’s Monastic Vision – The New Yorker**_ · Joshua Rothman (2017) — 6 places: [[Hyattsville, Maryland]] · [[National Press Club]] · [[St Francisville, Louisiana]] · [[St Jerome Academy (Hyattsville)]] · [[Union League Club of New York]] · [[Vigilante Coffee (Hyattsville)]]
+> - _**Six Cities**_ · Shawni Danner (2016) — 6 places: [[Austin, Texas]] · [[Bourbon Street]] · [[Denver]] · [[Gastown]] · [[Portland, Oregon]] · [[San Diego]]
+> - _**The Absolute Best Transportation for Cities (trams)**_ · Not Just Bikes (2025) — 6 places: [[Alexanderplatz]] · [[Amsterdam]] · [[Coolsingel]] · [[Groningen]] · [[IJburg]] · [[Toronto]]
+> - _**We Rode 3,800 Miles Across America on a Tandem Bike in Our 60s. Here’s What We Learned.**_ · Karen Kreider Yoder (2022) — 6 places: [[Calf Creek Campground]] · [[Carson Pass]] · [[Golden Gate Bridge]] · [[Middlegate, Nevada]] · [[Vesuvius, Virginia]] · [[Yorktown, Virginia]]
+> - _**Why are the Dutch So Famous for Waterworks?**_ · Practical Engineering (2025) — 6 places: [[Afsluitdijk]] · [[Flevoland]] · [[Maeslantkering]] · [[Oosterscheldekering]] · [[Stormvloedkering Hollandse IJssel]] · [[Veluwemeer Aqueduct]]
+> - **[[Why the Jeddah Tower Won’t Be as Tall as You Think|Why the Jeddah Tower Won’t be as Tall as You Think]]** · The B1M (2026) — 6 places: [[40 Wall Street]] · [[Burj Khalifa]] · [[Chrysler Building]] · [[Jeddah Tower]] · [[Merdeka 118]] · [[Petronas Towers]]
+> - **[[089 a Comprehensive Guide to Devon|#089 A comprehensive guide to Devon]]** · Diagram Club (2026) — 5 places: [[Appledore]] · [[Clovelly]] · [[Instow–Appledore ferry]] · [[Lundy]] · [[Tarka Trail]]
+> - _**A Love Letter to Cable-Stayed Bridges**_ · Practical Engineering (2025) — 5 places: [[Mike O'Callaghan–Pat Tillman Memorial Bridge]] · [[Millau Viaduct]] · [[Russky Bridge]] · [[San Francisco–Oakland Bay Bridge]] · [[Strömsund Bridge]]
+> - _**Every Metro System Should be this Beautiful**_ · Not Just Bikes (2026) — 5 places: [[Hötorget metro station]] · [[Kungsträdgården metro station]] · [[Stockholm]] · [[T-Centralen]] · [[Tensta metro station]]
+> - _**Finding North America’s lost medieval city**_ · Annalee Newitz (2016) — 5 places: [[Cahokia Mounds]] · [[Emerald Mound and Village Site]] · [[Monks Mound]] · [[Mound 72 (Cahokia)]] · [[Stagger Inn (Edwardsville)]]
+> - _**Hiking Tennessee’s Mount LeConte**_ · Bob Doucette (2015) — 5 places: [[Alum Cave Bluff]] · [[Alum Cave Trail]] · [[Arch Rock (Great Smoky Mountains)]] · [[LeConte Lodge]] · [[Mount Le Conte]]
+> - _**Hiking the 2,650-Mile Pacific Crest Trail**_ · Priceonomics (2015) — 5 places: [[Bridge of the Gods]] · [[Campo, California]] · [[Kennedy Meadows]] · [[Lassen Volcanic National Park]] · [[Pacific Crest Trail Northern Terminus]]
+> - _**I found inspiration in India – Bill Gates**_ · Bill Gates (2024) — 5 places: [[Bhubaneswar]] · [[Hyderabad]] · [[IIT Delhi]] · [[New Delhi]] · [[Statue of Unity]]
+> - _**The Citizen-Soldier Moral Risk and the Modern Military**_ · Phil Klay (2016) — 5 places: [[Anbar Province]] · [[Battle of the Wabash site (Fort Recovery)]] · [[Battle Pass (Prospect Park)]] · [[Lake Habbaniyah]] · [[National Naval Medical Center (Bethesda)]]
+> - _**The Surprising Success of Gondola Transit Systems**_ · Wendover Productions (2025) — 5 places: [[Brest cable car]] · [[Câble 1]] · [[IFS Cloud Cable Car]] · [[Metrocable (Medellín)]] · [[Mi Teleférico]]
+> - _**The vanishing groves**_ · Ross Andersen (2013) — 5 places: [[Bryce Canyon]] · [[Flagstaff]] · [[Schulman Grove]] · [[Tree-Ring Lab (Lamont-Doherty)]] · [[White Mountains (California)]]
+> - _**Water Worlds**_ · PBS (2022) — 5 places: [[Bonito River]] · [[Caño Cristales]] · [[Formentera]] · [[Lake Akan]] · [[Pantanal]]
+> - _**We bicycled the Formula 1 racetrack in Montreal**_ · alliumstozinnias (2024) — 5 places: [[Circuit Gilles Villeneuve]] · [[Estacade du pont Champlain]] · [[Lachine Canal]] · [[Montreal Biosphere]] · [[Piste de la Voie Maritime]]
+> - _**Why Cities Feel so Lonely Now.**_ · Type Ashton (2025) — 5 places: [[Central Park]] · [[Delmar Boulevard]] · [[Forest Park (St Louis)]] · [[Mission Bay (San Francisco)]] · [[Sherman Park (St Louis)]]
+
+## Best guesses
+
+Some settings are fictional or never named. Those pins sit on the most likely real place, in gray on the map, and each note's _Where is it?_ section gives the clues and the alternatives.
+
+> [!question]- Inferred from clues in the text (68)
+>
+> - [[Adabile (Full Tilt)]] → near [[Ardabil]] · _Full Tilt_
+> - [[Aguas Frías (vereda near Medellín)]] → near [[Medellín]] · _Peace Corps: The Great Adventure_
+> - [[Aschenbach's mountain house (Death in Venice)]] → near [[Bad Tölz]] · _Death in Venice_
+> - [[Astrophage lab (Project Hail Mary)]] → near [[San Francisco]] · _Project Hail Mary_
+> - [[Bazalgette's embankment (Cultural Tutor)]] → near [[Victoria Embankment]] · _How Did The World Get So Ugly?_
+> - [[Blue Lake (Full Tilt)]] → near [[Lake Saiful Muluk]] · _Full Tilt_
+> - [[Castle of Thunder-ten-Tronckh]] → near [[North Rhine-Westphalia]] · _Candide_
+> - [[Central London Hatchery (Brave New World)]] → near [[Bloomsbury]] · _Brave New World_
+> - [[Charing-T Tower (Brave New World)]] → near [[London]] · _Brave New World_
+> - [[City Hall (The Caves of Steel)]] → near [[New York City]] · _The Caves of Steel_
+> - [[Col de la Croix Rouge (Nyons post)]] → near [[Nyons]] · _Nyons and La Route de l’Olivier._
+> - [[Crusoe's island (Robinson Crusoe)]] → near [[Venezuela]] · _Robinson Crusoe_
+> - [[De la Garza ranch (Like Water for Chocolate)]] → near [[Piedras Negras]] · _Like Water for Chocolate_
+> - [[East 182nd Street (The Caves of Steel)]] → near [[New York City]] · _The Caves of Steel_
+> - [[Eugene Gaillard's house]] → near [[County Wicklow]] · _The Country Girls Trilogy_
+> - [[Firsthand Framebuilding School]] → near [[Portland, Oregon]] · _Firsthand Framebuilding School to Launch in Portland in 2026_
+> - [[Fordson Community Singery (Brave New World)]] → near [[City of London]] · _Brave New World_
+> - [[Hawaiian ghost town (Day Trips Galore)]] → near [[Iosepa]] · _Day Trips Galore_
+> - [[Jubal Harshaw's home (Stranger in a Strange Land)]] → near [[Pocono Mountains]] · _Stranger in a Strange Land_
+> - [[Klein's hotel (The Awakening)]] → near [[Grand Isle]] · _The Awakening_
+> - [[Klode Mølle (Nordic Tales)]] → near [[Jutland]] · _Nordic Tales_
+> - [[La Molière (Vercors post)]] → near [[Vercors]] · _La Molière_
+> - [[Lago Moro (Aprica post)]] → near [[Val Camonica]] · _Passo del Aprica and Lago Moro_
+> - [[Mademoiselle Reisz's flat (The Awakening)]] → near [[New Orleans]] · _The Awakening_
+> - [[Manor Farm (Animal Farm)]] → near [[Wallington, Hertfordshire]] · _Animal Farm_
+> - [[MIT swimming pool (The Soul of an Octopus)]] → near [[Massachusetts]] · _The Soul of an Octopus_
+> - [[Murphy's on Gough Street (Project Hail Mary)]] → near [[San Francisco]] · _Project Hail Mary_
+> - [[Museum of Fine Arts, Boston]] → near [[Boston]] · _North Woods_
+> - [[New Mayflower Hotel (Stranger in a Strange Land)]] → near [[Washington DC]] · _Stranger in a Strange Land_
+> - [[Palace of Pococurante]] → near [[Italy]] · _Candide_
+> - [[Park Lane Hospital for the Dying (Brave New World)]] → near [[London]] · _Brave New World_
+> - [[Planned Parenthood clinic (Colorado Springs)]] → near [[Colorado Springs]] · _Unknown Unknowns_
+> - [[Plaça de Sant Felip Neri]] → near [[Barcelona]] · _Why Cities and Walking Go Hand in Hand_
+> - [[Poncho's bodega (Another Brooklyn)]] → near [[Bushwick]] · _Another Brooklyn_
+> - [[Presidential Palace, Helsinki]] → near [[Helsinki]] · _Just for Fun: The Story of an Accidental Revolutionary_
+> - [[Princeton (What was I made for)]] → near [[New Jersey]] · _What was I made for? (allie's version)_
+> - [[Pupella]] → near [[Solomon Islands]] · _Moby-Dick_
+> - [[Sally's Diner (Project Hail Mary)]] → near [[San Francisco]] · _Project Hail Mary_
+> - [[Sans Souci Hotel (Stranger in a Strange Land)]] → near [[St Petersburg, Florida]] · _Stranger in a Strange Land_
+> - [[Sao (Senegal)]] → near [[Senegal]] · _There Are Places in the World Where Rules Are Less Important Than Kindness_
+> - [[Savage's lighthouse (Brave New World)]] → near [[Surrey]] · _Brave New World_
+> - [[Sticksville-on-Sea (The Year of Living Danishly)]] → near [[Brejning]] · _The Year of Living Danishly_
+> - [[Stratt's aircraft carrier (Project Hail Mary)]] → near [[South China Sea]] · _Project Hail Mary_
+> - [[Tangi Sharo Gorge (Full Tilt)]] → near [[Tang-e Gharu]] · _Full Tilt_
+> - [[The Alps base tunnel (B1M short)]] → near [[Mont Cenis Base Tunnel]] · _The \$29BN Tunnel Under a MOUNTAIN_
+> - [[The Bo-Lar Boogie loop]] → near [[Longmont]] · _Bo-Lar Boogie 200k_
+> - [[The circular plaza (Into the heart of terror)]] → near [[Raqqa]] · _Into the heart of terror: behind Isis lines_
+> - [[The cols (Passes Part Deux post)]] → near [[Cévennes]] · _Passes Part Deux_
+> - [[The cols (Picking off passes post)]] → near [[Cévennes]] · _Picking off passes_
+> - [[The convent (The Country Girls Trilogy)]] → near [[County Galway]] · _The Country Girls Trilogy_
+> - [[The downhill course under Ben Nevis]] → near [[Aonach Mòr]] · _It's All About the Bike: In Pursuit of Happiness on Two Wheels_
+> - [[The Geneva conference room (Project Hail Mary)]] → near [[Geneva]] · _Project Hail Mary_
+> - [[The German city (Apeirogon)]] → near [[Frankfurt]] · _Apeirogon_
+> - [[The Iidabashi café (Pedal & Brew)]] → near [[Kagurazaka]] · \*Tour de Cafe Tokyo #8*
+> - [[The Jockey Club race course (The Awakening)]] → near [[New Orleans]] · _The Awakening_
+> - [[The panda centre (Diagram Club Chengdu)]] → near [[Chengdu]] · _#056 From China, part one: Chengdu_
+> - [[The Ratignolle drug store (The Awakening)]] → near [[Esplanade Avenue]] · _The Awakening_
+> - [[The resort (Agostino)]] → near [[Viareggio]] · _Agostino_
+> - [[The River (The Wind in the Willows)]] → near [[Berkshire]] · _The Wind in the Willows_
+> - [[The small farm (Candide)]] → near [[Turkey]] · _Candide_
+> - [[The Time Traveller's house (The Time Machine)]] → near [[Richmond, London]] · _The Time Machine_
+> - [[The villa (Bonjour Tristesse)]] → near [[Saint-Raphaël]] · _Bonjour Tristesse_
+> - [[The village (The Country Girls Trilogy)]] → near [[County Clare]] · _The Country Girls Trilogy_
+> - [[The Wild Wood (The Wind in the Willows)]] → near [[Berkshire]] · _The Wind in the Willows_
+> - [[Urbana '70 arena (How to Be an Antiracist)]] → near [[Illinois]] · _How to Be an Antiracist_
+> - [[Williamsburg power plant (The Caves of Steel)]] → near [[Brooklyn]] · _The Caves of Steel_
+> - [[Yeast-town (The Caves of Steel)]] → near [[New Jersey]] · _The Caves of Steel_
+> - [[Yellowjackets Gymnastics (Gymnastics)]] → near [[Massachusetts]] · _Gymnastics_
+
+> [!question]- Best guesses from outside evidence (50)
+>
+> - [[Adamsons' camp (Life on Air)]] → near [[Kenya]] · _Life on Air_
+> - [[Arthur Dent's house (The Hitchhiker's Guide to the Galaxy)]] → near [[Somerset]] · _The Hitchhiker's Guide to the Galaxy_
+> - [[Ben Caxton's apartment (Stranger in a Strange Land)]] → near [[Washington DC]] · _Stranger in a Strange Land_
+> - [[Bettsbridge (Ethan Frome)]] → near [[Pittsfield]] · _Ethan Frome_
+> - [[Carrol Ground]] · _Moby-Dick_
+> - [[Church of All Worlds Temple (Stranger in a Strange Land)]] → near [[St Petersburg, Florida]] · _Stranger in a Strange Land_
+> - [[Col de l'Homme Mort (Forcalquier post)]] → near [[Ferrassières]] · _Forcalquier_
+> - [[Col de l'Homme Mort (Gap post)]] → near [[Vercoiran]] · _Another Col de l'Homme Mort?_
+> - [[Executive Palace (Stranger in a Strange Land)]] → near [[Washington DC]] · _Stranger in a Strange Land_
+> - [[Fjord (Independent People)]] → near [[Akureyri]] · _Independent People_
+> - [[Gan-Finn's Gamme (Nordic Tales)]] → near [[Finnmark]] · _Nordic Tales_
+> - [[Geatland (Beowulf)]] → near [[Sweden]] · _Beowulf_
+> - [[Ghion]] → near [[Waliso]] · _Peace Corps: The Great Adventure_
+> - [[Glacier River (Independent People)]] → near [[Jökuldalsheiði]] · _Independent People_
+> - [[Grace's middle school (Project Hail Mary)]] → near [[San Francisco]] · _Project Hail Mary_
+> - [[Group Home Ingleside (Hunchback)]] → near [[Japan]] · _Hunchback_
+> - [[Guatemalan town museum (Surely You're Joking)]] → near [[Guatemala]] · _"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character_
+> - [[Hadza camp (Rovelli)]] → near [[Tanzania]] · _There Are Places in the World Where Rules Are Less Important Than Kindness_
+> - [[Iron Bend (Uncommon Type)]] → near [[Red Bluff, California]] · _Uncommon Type_
+> - [[La Nible (Mostly Bikes post)]] → near [[Provence]] · _La Nible._
+> - [[Lake Zurich]] → near [[Switzerland]] · _The Hobbit (Middle-Earth Universe)_
+> - [[Malpais (Brave New World)]] → near [[New Mexico]] · _Brave New World_
+> - [[Pagoda of Pillaji (Around the World in Eighty Days)]] → near [[India]] · _Around the World in Eighty Days_
+> - [[Palace of Green Porcelain (The Time Machine)]] → near [[London]] · _The Time Machine_
+> - [[Spacetown (The Caves of Steel)]] → near [[New Jersey]] · _The Caves of Steel_
+> - [[Special Operations headquarters in Iraq (McChrystal)]] → near [[Balad Air Base]] · _Why Every Organization Needs a Chief of Staff Like This One_
+> - [[Starkfield (Ethan Frome)]] → near [[Lenox]] · _Ethan Frome_
+> - [[Summerhouses (Independent People)]] → near [[Jökuldalsheiði]] · _Independent People_
+> - [[Sylvia's house (Another Brooklyn)]] → near [[Bushwick]] · _Another Brooklyn_
+> - [[The administration office (Luhmann, Smart Notes)]] → near [[Hanover]] · _How to Take Smart Notes_
+> - [[The B&B by the sea (The Beekeeper of Aleppo)]] → near [[Brighton]] · _The Beekeeper of Aleppo: A Moving Testament to the Human Spirit_
+> - [[The Big Town (The Year of Living Danishly)]] → near [[Vejle]] · _The Year of Living Danishly_
+> - [[The caravan site (Hythe post)]] → near [[Hythe, Kent]] · _#061 Please assemble in the telephone box_
+> - [[The city (A Clockwork Orange)]] → near [[Manchester]] · _A Clockwork Orange_
+> - [[The city (The Dry Heart)]] → near [[Turin]] · _The Dry Heart_
+> - [[The country house (Dept of Speculation)]] → near [[Pennsylvania]] · _Dept. of Speculation_
+> - [[The Equatorial fishing-ground (Moby-Dick)]] → near [[Pacific Ocean]] · _Moby-Dick_
+> - [[The flower gardens (Coffee Outside post)]] → near [[Colorado State University]] · _Coffee Outside_
+> - [[The hunting unit (Cargo Bike Elk Hunting)]] → near [[Chama, New Mexico]] · _Cargo Bike Elk Hunting: Conservation and Consciousness – John Watson_
+> - [[The lake north of Dallas (The Subtle Art)]] → near [[Dallas]] · _The Subtle Art of Not Giving a &#x46;_&#x63;k\*
+> - [[The Main swim crossing (Rodgau, Schuman)]] → near [[Seligenstadt]] · _These Germans Who Swim To Work Are Happier Than You_
+> - [[The Manor House (The Importance of Being Earnest)]] → near [[Hertfordshire]] · _The Importance of Being Earnest_
+> - [[The mill town (The Ballad of the Sad Café)]] → near [[Columbus, Georgia]] · _The Ballad of the Sad Café_
+> - [[The Terrace (The Old Man and the Sea)]] → near [[Cojímar]] · _The Old Man and the Sea_
+> - [[The village (The Old Man and the Sea)]] → near [[Cojímar]] · _The Old Man and the Sea_
+> - [[The yellow house (North Woods)]] → near [[Massachusetts]] · _North Woods_
+> - [[Toad Hall (The Wind in the Willows)]] → near [[Oxfordshire]] · _The Wind in the Willows_
+> - [[Type Ashton's village (Black Forest)]] → near [[Black Forest]] · _What the U.S. Gets Wrong About Fitness (And Europe Gets Right)_
+> - [[U.S. District Court for the Western District of Washington (Project Hail Mary)]] → near [[Seattle]] · _Project Hail Mary_
+> - [[Willingdon (Animal Farm)]] → near [[East Sussex]] · _Animal Farm_

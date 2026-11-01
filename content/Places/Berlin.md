@@ -2,8 +2,13 @@
 publish: true
 title: Berlin
 created: 2026-10-19T22:29:20.000Z
-modified: 2026-11-01T15:19:17.767Z
-published: 2026-11-01T15:19:17.767Z
+modified: 2026-11-01T15:19:18.000Z
+published: 2026-11-01T15:19:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Berlin.svg
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 52.52
   - 13.405
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Berlin.svg
 ---
 
@@ -56,6 +57,7 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 - [[Tränenpalast]]
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
+
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcqh6yff0xza3cyhbhrm1q)
 
 > living in Berlin when Hitler came to power in 1933
@@ -65,6 +67,7 @@ Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22
 - **Why it matters:** Berlin is the starting point of the family flight that shaped his relatives' planning mania. The anecdote is brief and the city is a departure point.
 
 ## On the Rebound from Epic Failure — Jason Goldberg (2019)
+
 Source: [Original](https://medium.com/@betashop/on-the-rebound-from-epic-failure-88e77d2b39af) · [Readwise highlight](https://read.readwise.io/read/01m5jx5b2yy9t7708y9sbfz98e)
 
 > In 2015 I escaped the Fab spotlight and the U.S. startup scene and hunkered down in Berlin, Germany and by all accounts built a lovely brand, Hem.
