@@ -5,26 +5,26 @@ aliases:
   - BBC Natural History Unit
 title: BBC Bristol (Whiteladies Road)
 created: 2026-10-22T13:41:46.000Z
-modified: 2026-10-31T16:21:49.000Z
-published: 2026-10-31T16:21:49.000Z
+modified: 2026-10-31T19:36:16.000Z
+published: 2026-10-31T19:36:16.000Z
 tags:
   - places
   - place/literary
   - source/ai/claude
 socialImage: Attachments/Places/BBC Bristol (Whiteladies Road).svg
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.4611,-2.608
 geo_source: Wikipedia (en) (Broadcasting House, Bristol)
 icon: book
+image: Attachments/Places/BBC Bristol (Whiteladies Road).svg
 location:
   - 51.4611
   - -2.608
 within: "[[Bristol]]"
-image: Attachments/Places/BBC Bristol (Whiteladies Road).svg
 ---
 
 # BBC Bristol (Whiteladies Road)
@@ -35,9 +35,9 @@ BBC Broadcasting House on Whiteladies Road, Bristol, home of the Natural History
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | subject | The root of BBC wildlife film-making. |
+| Life on Air | David Attenborough | subject | The root of BBC wildlife film-making. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3npg8dvqhgs71qgmm708)
 

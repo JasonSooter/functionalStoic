@@ -2,8 +2,13 @@
 publish: true
 title: Chongqing
 created: 2026-10-20T04:23:37.000Z
-modified: 2026-10-31T20:48:26.487Z
-published: 2026-10-31T20:48:26.487Z
+modified: 2026-10-31T20:48:26.000Z
+published: 2026-10-31T20:48:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chongqing.svg
 aliases: []
 books:
   - Breakneck
@@ -17,10 +22,6 @@ icon: book
 location:
   - 29.5603
   - 106.5577
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 image: Attachments/Places/Chongqing.svg
 ---
@@ -30,18 +31,21 @@ image: Attachments/Places/Chongqing.svg
 Mountainous city on the Yangtze in south-west [[China]], where the bike trip in Breakneck ends and where Dwarkesh Patel finds the best city he has visited.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | turning point | End of the Guizhou ride: the world's most dramatic urban setting. |
 | Notes on China | Dwarkesh Patel | subject | Praised as the best city he has visited: a cheap hotel room over two rivers, and a skyline like the Hubble Deep Field. |
 
 ## Sub-places
+
 - [[Chongqing East railway station]]
 - [[Liziba station]]
 - [[Luohan Temple (Chongqing)]]
 - [[Raffles City Chongqing]]
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dcnf1rdkg3p46naavcpkx1)
 
 > Chongqing is my favorite Chinese city to visit because it has the country’s, and perhaps the world’s, most dramatic urban setting.
@@ -51,6 +55,7 @@ Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highl
 - **Why it matters:** The end of the bike trip and a vivid case of urban engineering and of climate vulnerability.
 
 ## Notes on China — Dwarkesh Patel (2024)
+
 Source: [Original](https://www.dwarkeshpatel.com/p/notes-on-china) · [Readwise highlight](https://read.readwise.io/read/01m5edfq1h93ara7x8mt7gys7h)
 
 > Chongqing is by far the coolest city I've ever visited. It's this insane cyberpunk multi-level metropolis of over 20 million people.

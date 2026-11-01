@@ -2,8 +2,13 @@
 publish: true
 title: Gdańsk Shipyard
 created: 2026-10-21T23:01:56.000Z
-modified: 2026-11-01T00:09:42.826Z
-published: 2026-11-01T00:09:42.826Z
+modified: 2026-11-01T00:09:43.000Z
+published: 2026-11-01T00:09:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gdańsk Shipyard.svg
 aliases: []
 books:
   - Get Your Life on Track
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 54.3762
   - 18.6488
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Poland]]"
 image: Attachments/Places/Gdańsk Shipyard.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Gdańsk Shipyard.svg
 Historic shipyard in Gdańsk, [[Poland]]. A LifeEdited post covers a plan for small houses on its old rail tracks.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Get Your Life on Track | David Friedlander | subject | Small House on Tracks: movable units on old shipyard rails to revive the site as an artists' colony. |
 
 ## Get Your Life on Track — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/get-your-life-on-track/) · [Readwise highlight](https://read.readwise.io/read/01m5gann7hb16rxy5zqn37ng4f)
 
 > SMoT (my acronym, not theirs) is actually not meant as a universal housing solution, but rather a site-specific one for the Gdańsk Shipyard

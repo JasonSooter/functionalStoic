@@ -2,8 +2,13 @@
 publish: true
 title: Georges Bank
 created: 2026-10-23T05:33:42.000Z
-modified: 2026-11-01T00:09:08.825Z
-published: 2026-11-01T00:09:08.825Z
+modified: 2026-11-01T00:09:09.000Z
+published: 2026-11-01T00:09:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Georges Bank.svg
 aliases: []
 books:
   - "[[Cod]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 41.21
   - -67.3811
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/Georges Bank.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Georges Bank.svg
 Shallow fishing bank in the Atlantic off Cape Cod and Nova Scotia. In _Cod_ it is the richest New England cod ground and the last to be closed.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | subject | Gloucester's deadly cod ground, split with Canada and, by the 1990s, the last Atlantic bank still fished for cod. |
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
+
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kksda6y3nd3gzvjx24088v)
 
 > From Newfoundland to southern New England, there is a series of shallow areas called banks, the southernmost being Georges Bank off of Massachusetts, which is larger than the state.

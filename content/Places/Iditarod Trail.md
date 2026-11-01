@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Iditarod Trail
-created: 2026-10-23T02:23:48.000Z
-modified: 2026-11-01T00:33:13.067Z
-published: 2026-11-01T00:33:13.067Z
 aliases:
   - Iditarod Trail Invitational route
+title: Iditarod Trail
+created: 2026-10-23T02:23:48.000Z
+modified: 2026-11-01T00:33:13.000Z
+published: 2026-11-01T00:33:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Iditarod Trail.svg
 books:
   - "1,000 miles on: Duluth woman Leah Gruhn completes Iditarod odyssey by fatbike"
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 61.745
   - -150.0511
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alaska]]"
 image: Attachments/Places/Iditarod Trail.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Iditarod Trail.svg
 Historic trail across Alaska from the Anchorage area to Nome. The Duluth News Tribune follows Leah Gruhn's 1,000-mile fatbike ride along it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 1,000 miles on: Duluth woman Leah Gruhn completes Iditarod odyssey by fatbike | Bob Timmons | journey waypoint | Leah Gruhn rode the 1,000-mile human-powered Iditarod Trail Invitational by fatbike, starting Feb. |
 
 ## 1,000 miles on: Duluth woman Leah Gruhn completes Iditarod odyssey by fatbike — Bob Timmons (2023)
+
 Source: [Original](https://www.startribune.com/iditarod-trail-invitational-fatbike-leah-gruhn-duluth-alaska/600260778/) · [Readwise highlight](https://read.readwise.io/read/01m5k8vmfexqz4x71ecwv1j42s)
 
 > The Duluth woman navigated 1,000 miles of Alaskan wilderness, 20-below mornings, drenching sleet and enough gales to keep a field of wind turbines humming before she rolled across the frozen Bering Sea to the finish in Nome.

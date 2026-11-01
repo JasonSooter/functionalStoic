@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Dakar railway station
-created: 2026-10-20T13:42:08.000Z
-modified: 2026-10-31T21:09:54.796Z
-published: 2026-10-31T21:09:54.796Z
 aliases:
   - Gare de Dakar
+title: Dakar railway station
+created: 2026-10-20T13:42:08.000Z
+modified: 2026-10-31T21:09:55.000Z
+published: 2026-10-31T21:09:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Dakar railway station.svg
 books:
-  - "[[Bookshelf/Highlights & Notes/Articles/Is This Africa’s Urban Transport Model\
-    \ .md]]"
+  - "[[Bookshelf/Highlights & Notes/Articles/Is This Africa’s Urban Transport Model .md]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +22,6 @@ icon: video
 location:
   - 14.6757
   - -17.4332
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Senegal]]"
 image: Attachments/Places/Dakar railway station.svg
 ---
@@ -31,11 +31,13 @@ image: Attachments/Places/Dakar railway station.svg
 Colonial-era terminus in Dakar, [[Senegal]], now served by the TER to [[Diamniadio]]; it is the departure point of the ride in a Simply Railway video on Africa's urban transport.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Is This Africa’s Urban Transport Model .md\|Is this Africa’s Urban Transport Model ?]] | Simply Railway | setting | Departure point of the TER ride. |
 
 ## Is this Africa’s Urban Transport Model ? — Simply Railway (2026)
+
 Source: [[Bookshelf/Highlights & Notes/Articles/Is This Africa’s Urban Transport Model .md]] · [Original](https://www.youtube.com/watch?v=hXnOj7AXre8) · [Readwise highlight](https://read.readwise.io/read/01m5crbw6x69dd9a6rrkpjf6a6)
 
 > We are currently in front of the original station, built between 1913 and 1914.

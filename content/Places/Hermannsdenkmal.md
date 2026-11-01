@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Hermannsdenkmal
-created: 2026-10-23T11:14:02.000Z
-modified: 2026-11-01T00:09:31.674Z
-published: 2026-11-01T00:09:31.674Z
 aliases:
   - Hermann Monument
   - Teutoburg Forest
+title: Hermannsdenkmal
+created: 2026-10-23T11:14:02.000Z
+modified: 2026-11-01T00:09:32.000Z
+published: 2026-11-01T00:09:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hermannsdenkmal.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 51.9117
   - 8.8394
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[North Rhine-Westphalia]]"
 image: Attachments/Places/Hermannsdenkmal.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Hermannsdenkmal.svg
 Nineteenth-century colossal statue of Arminius (Hermann) on a hill in the Teutoburg Forest near Detmold. _Germany: Memories of a Nation_ uses it to show the rise and embarrassment of the Hermann cult.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | The colossal Hermann in the Teutoburg Forest, sword raised towards France: forest myth turned nationalist monument. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75ga4rs5mk4rj13tapya8)
 
 > Today, over 100,000 visitors a year come to admire the colossal statue of Hermann that stands in the Teutoburg Forest, just outside the town of Detmold.

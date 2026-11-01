@@ -2,8 +2,13 @@
 publish: true
 title: Golden, Colorado
 created: 2026-10-22T01:44:13.000Z
-modified: 2026-11-01T00:09:32.718Z
-published: 2026-11-01T00:09:32.718Z
+modified: 2026-11-01T00:09:33.000Z
+published: 2026-11-01T00:09:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Golden, Colorado.svg
 aliases: []
 books:
   - The Case for More Traffic Roundabouts
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 39.7533
   - -105.2153
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Golden, Colorado.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Golden, Colorado.svg
 Small city at the foot of the Rockies west of Denver, [[Colorado]]. Priceonomics cites its 1999 roundabout conversion as proof that slower can be faster.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Case for More Traffic Roundabouts | Priceonomics | subject | After swapping signals for roundabouts in 1999, average speeds fell 10 mph but trip times dropped. |
 
 ## The Case for More Traffic Roundabouts — Priceonomics (2015)
+
 Source: [Original](http://priceonomics.com/the-case-for-more-traffic-roundabouts/) · [Readwise highlight](https://read.readwise.io/read/01m5gm0f9hs2jtf2hby6pvk47r)
 
 > a series of signalized intersections to roundabouts in 1999, the average speed of commuters dropped by 10 mph on those sections, but “the time to travel the entire stretch of road dropped.”

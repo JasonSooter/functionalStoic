@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Hallasan
-created: 2026-10-23T07:45:55.000Z
-modified: 2026-11-01T00:09:09.113Z
-published: 2026-11-01T00:09:09.113Z
 aliases:
   - Mount Halla
   - Grandmother Seolmundae
+title: Hallasan
+created: 2026-10-23T07:45:55.000Z
+modified: 2026-11-01T00:09:09.000Z
+published: 2026-11-01T00:09:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hallasan.svg
 books:
   - The Island of Sea Women
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 33.3617
   - 126.5292
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jeju Island]]"
 image: Attachments/Places/Hallasan.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Hallasan.svg
 Shield volcano at the centre of Jeju Island, South Korea's highest mountain. In _The Island of Sea Women_ it is the goddess Grandmother Seolmundae.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Island of Sea Women | Lisa See | subject | The volcano as Grandmother Seolmundae, the goddess who made the island and its sea floor. |
 
 ## The Island of Sea Women — Lisa See (2019)
+
 Source: [Original](https://openlibrary.org/works/OL19865296W) · [Readwise highlight](https://read.readwise.io/read/01m5kvckkkks6mvmsqgbyp6m7g)
 
 > “When you go into the sea, you dive among the underwater ripples of her skirt. She is the great volcano at the center of our island. Some people call it Mount Halla, the Peak That Pulls Down the Milky Way, or the Mountain of the Blessed Isle.

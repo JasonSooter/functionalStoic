@@ -2,8 +2,13 @@
 publish: true
 title: Grand Isle
 created: 2026-10-20T13:43:29.000Z
-modified: 2026-11-01T00:09:13.937Z
-published: 2026-11-01T00:09:13.937Z
+modified: 2026-11-01T00:09:14.000Z
+published: 2026-11-01T00:09:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Grand Isle.svg
 aliases: []
 books:
   - "[[The Awakening]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 29.2366
   - -89.9873
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Louisiana]]"
 image: Attachments/Places/Grand Isle.svg
 ---
@@ -35,6 +36,7 @@ Barrier island on the Gulf coast of [[Louisiana]], USA. It is where Kate Chopin'
 | [[The Awakening]] | Kate Chopin | setting | Summer colony where Edna's awakening begins, and where she swims out at the end. |
 
 ## Sub-places
+
 - [[Klein's hotel (The Awakening)]]
 
 ## The Awakening — Kate Chopin (1899)

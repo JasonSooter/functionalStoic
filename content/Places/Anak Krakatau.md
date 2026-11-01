@@ -5,26 +5,26 @@ aliases:
   - Krakatoa
 title: Anak Krakatau
 created: 2026-10-22T13:41:16.000Z
-modified: 2026-10-31T16:22:18.000Z
-published: 2026-10-31T16:22:18.000Z
+modified: 2026-10-31T19:37:11.000Z
+published: 2026-10-31T19:37:11.000Z
 tags:
   - places
   - place/literary
   - source/ai/claude
 socialImage: Attachments/Places/Anak Krakatau.svg
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: -6.102,105.423
 geo_source: Wikipedia (en) (Anak Krakatoa, via redirect)
 icon: book
+image: Attachments/Places/Anak Krakatau.svg
 location:
   - -6.102
   - 105.423
 within: "[[Indonesia]]"
-image: Attachments/Places/Anak Krakatau.svg
 ---
 
 # Anak Krakatau
@@ -35,9 +35,9 @@ Volcanic island in the Sunda Strait between Java and Sumatra; in _Life on Air_ A
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | subject | Attenborough tries to film its eruption. |
+| Life on Air | David Attenborough | subject | Attenborough tries to film its eruption. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3dywsq54qb2vf4d33bqk)
 

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Hötorget metro station
-created: 2026-10-20T07:38:56.000Z
-modified: 2026-11-01T00:33:04.767Z
-published: 2026-11-01T00:33:04.767Z
 aliases:
   - Hötorget station
+title: Hötorget metro station
+created: 2026-10-20T07:38:56.000Z
+modified: 2026-11-01T00:33:05.000Z
+published: 2026-11-01T00:33:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hötorget metro station.svg
 books:
   - Every Metro System Should be this Beautiful
 categories:
@@ -16,10 +21,6 @@ icon: video
 location:
   - 59.3347
   - 18.0619
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Stockholm]]"
 image: Attachments/Places/Hötorget metro station.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Hötorget metro station.svg
 Green-line station under the Hötorget square in central [[Stockholm]], held up in a Not Just Bikes video as a restored 1950s station.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Every Metro System Should be this Beautiful | Not Just Bikes | subject | A 1950s station restored to its original look. |
 
 ## Every Metro System Should be this Beautiful — Not Just Bikes (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=WJCCDYbK0Gc) · [Readwise highlight](https://read.readwise.io/read/01m5c3pj4p1w5wq27nq5hkqdtk)
 
 > In contrast, Hötorget station, apologies

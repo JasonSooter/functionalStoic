@@ -2,8 +2,8 @@
 publish: true
 title: Ambunti
 created: 2026-10-22T13:41:43.000Z
-modified: 2026-10-31T16:22:08.000Z
-published: 2026-10-31T16:22:08.000Z
+modified: 2026-10-31T19:35:29.000Z
+published: 2026-10-31T19:35:29.000Z
 tags:
   - places
   - place/literary
@@ -11,18 +11,18 @@ tags:
 socialImage: Attachments/Places/Ambunti.svg
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: -4.22,142.83
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Ambunti.svg
 location:
   - -4.22
   - 142.83
 within: "[[Papua New Guinea]]"
-image: Attachments/Places/Ambunti.svg
 ---
 
 # Ambunti
@@ -33,9 +33,9 @@ Station on the middle Sepik River, Papua New Guinea; in _Life on Air_ the starti
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | journey waypoint | The starting point of a 1971 patrol into unexplored country. |
+| Life on Air | David Attenborough | journey waypoint | The starting point of a 1971 patrol into unexplored country. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3cj6pmtctpxwg9m6hg24)
 

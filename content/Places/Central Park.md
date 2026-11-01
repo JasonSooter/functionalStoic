@@ -2,8 +2,13 @@
 publish: true
 title: Central Park
 created: 2026-10-20T13:44:07.000Z
-modified: 2026-10-31T20:48:27.327Z
-published: 2026-10-31T20:48:27.327Z
+modified: 2026-10-31T20:48:27.000Z
+published: 2026-10-31T20:48:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Central Park.svg
 aliases: []
 books:
   - Why Cities Feel so Lonely Now.
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.7822
   - -73.9653
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Central Park.svg
 ---
@@ -39,6 +40,7 @@ Urban park in Manhattan, [[New York City]], cited in a video on why cities feel 
 | [[Uncommon Type]] | Tom Hanks | setting | In 'Go See Costas' the penniless immigrant Assan eats a hot dog by a low wall, sleeps on the grass among families on a hot night and… |
 
 ## Why Cities Feel so Lonely Now. — Type Ashton (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=JDSAkaep9c0) · [Readwise highlight](https://read.readwise.io/read/01m5crd3v69h3kq58v2j3wma85)
 
 > New York City, for example, used eminent domain to seize 843 acres of land north of the developed city to create what we know today as Central Park.
@@ -48,6 +50,7 @@ Source: [Original](https://www.youtube.com/watch?v=JDSAkaep9c0) · [Readwise hig
 - **Why it matters:** It shows why such parks are hard to create today, when urban land is expensive and already built on.
 
 ## Well That’s One Way of Adding Density — David Friedlander (2016)
+
 Source: [Original](http://lifeedited.com/well-thats-one-way-of-adding-density/) · [Readwise highlight](https://read.readwise.io/read/01m5jjr422frjra1fn0kyk6ft7)
 
 > Rather than building up, they dug down deep below the surface of Manhattan. Their design calls for the excavation of Central Park.
@@ -58,6 +61,7 @@ Source: [Original](http://lifeedited.com/well-thats-one-way-of-adding-density/) 
 - **Real vs. fictional:** A competition design, not a real project.
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5w7pmqtj20j5db0774ttk)
 
 > Assan found a spot with soft grass. He removed his shoes and used his jacket as a pillow. He fell asleep to the sounds of distant traffic and quiet conversations between husbands and wives.

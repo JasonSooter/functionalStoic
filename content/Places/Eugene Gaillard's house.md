@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Eugene Gaillard's house
-created: 2026-10-23T11:13:32.000Z
-modified: 2026-10-31T21:25:30.793Z
-published: 2026-10-31T21:25:30.793Z
 aliases:
   - Eugene's house (The Country Girls Trilogy)
+title: Eugene Gaillard's house
+created: 2026-10-23T11:13:32.000Z
+modified: 2026-10-31T21:25:31.000Z
+published: 2026-10-31T21:25:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Eugene Gaillard's house.svg
 books:
   - The Country Girls Trilogy
 categories:
@@ -13,18 +18,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 53.1833,-6.25
-geo_note: "inferred: The text puts the house in the Wicklow mountains about an hour\
-  \ by bus from Dublin, near Glencree; pinned at Glencree.; approximate (the Glencree\
-  \ valley)"
+geo_note: "inferred: The text puts the house in the Wicklow mountains about an hour by bus from Dublin, near Glencree; pinned at Glencree.; approximate (the Glencree valley)"
 geo_source: Wikipedia (en) Glencree
 icon: book
 location:
   - 53.1833
   - -6.25
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[County Wicklow]]"
 image: Attachments/Places/Eugene Gaillard's house.svg
 ---
@@ -34,11 +33,13 @@ image: Attachments/Places/Eugene Gaillard's house.svg
 The white country house of the film-maker Eugene Gaillard, in the mountains south of Dublin; pinned at Glencree in the Wicklow Mountains. In _The Country Girls Trilogy_ Kate lives there with Eugene through most of the second novel.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | setting | Eugene's white house with its wood, lake and bog in the mountains, where Kate lives with him until her family come to drag her home. |
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
+
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m76anc36y6fjam58c423sd)
 
 > When we came around the corner of the drive, my first thought was that his house looked so happy and peaceful.

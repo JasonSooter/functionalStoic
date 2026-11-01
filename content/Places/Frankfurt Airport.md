@@ -1,28 +1,28 @@
 ---
 publish: true
-title: Frankfurt Airport
-created: 2026-10-20T01:38:43.000Z
-modified: 2026-11-01T00:09:15.617Z
-published: 2026-11-01T00:09:15.617Z
 aliases:
   - Frankfurt Terminal 3
   - FRA
+title: Frankfurt Airport
+created: 2026-10-20T01:38:43.000Z
+modified: 2026-11-01T00:09:16.000Z
+published: 2026-11-01T00:09:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Frankfurt Airport.svg
 books:
   - Europe's Biggest Airport Expansion is (Finally) Complete
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 50.0333,8.5706
-geo_note: airport coordinate (English Wikipedia); no standard-source coordinate for
-  Terminal 3 itself
+geo_note: airport coordinate (English Wikipedia); no standard-source coordinate for Terminal 3 itself
 icon: video
 location:
   - 50.0333
   - 8.5706
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Frankfurt]]"
 image: Attachments/Places/Frankfurt Airport.svg
 ---
@@ -32,11 +32,13 @@ image: Attachments/Places/Frankfurt Airport.svg
 Germany's largest airport, south-west of [[Frankfurt]] am Main; it is the subject of The B1M's video on the opening of its Terminal 3, set against Berlin Brandenburg.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Europe's Biggest Airport Expansion Is (Finally) Complete\|Europe's Biggest Airport Expansion is (Finally) Complete]] | The B1M | subject | Terminal 3 opens after a decade of building, under the shadow of Berlin Brandenburg. |
 
 ## Europe's Biggest Airport Expansion is (Finally) Complete — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=nx7nUpDec1Q) · [Readwise highlight](https://read.readwise.io/read/01m5beyw8fx1bzmhhksjrznmsx)
 
 > But this China Southern Airlines flight was significant, because these were the first travellers to arrive at Frankfurt’s brand-new, and much-anticipated, Terminal 3.

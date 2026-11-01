@@ -2,8 +2,13 @@
 publish: true
 title: Columbus Idea Foundry
 created: 2026-10-23T02:03:20.000Z
-modified: 2026-10-31T21:09:48.192Z
-published: 2026-10-31T21:09:48.192Z
+modified: 2026-10-31T21:09:48.000Z
+published: 2026-10-31T21:09:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Columbus Idea Foundry.svg
 aliases: []
 books:
   - A World Without Work
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 39.9585
   - -83.0118
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ohio]]"
 image: Attachments/Places/Columbus Idea Foundry.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Columbus Idea Foundry.svg
 Makerspace in a converted shoe factory in Columbus, Ohio. Derek Thompson visits it as a glimpse of craft-based work after jobs.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A World Without Work | Derek Thompson | setting | Thompson detours to this makerspace in a converted shoe factory on a bitterly cold February afternoon. |
 
 ## A World Without Work — Derek Thompson (2015)
+
 Source: [Original](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/) · [Readwise highlight](https://read.readwise.io/read/01m5k7f2strvbzz2t1h4f403sn)
 
 > The Columbus Idea Foundry is the country’s largest such space, a cavernous converted shoe factory stocked with industrial-age machinery.

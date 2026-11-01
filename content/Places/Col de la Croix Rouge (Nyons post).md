@@ -2,8 +2,13 @@
 publish: true
 title: Col de la Croix Rouge (Nyons post)
 created: 2026-10-21T02:17:58.000Z
-modified: 2026-10-31T21:09:22.892Z
-published: 2026-10-31T21:09:22.892Z
+modified: 2026-10-31T21:09:23.000Z
+published: 2026-10-31T21:09:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Col de la Croix Rouge (Nyons post).svg
 aliases: []
 books:
   - "[[Bookshelf/Highlights & Notes/Articles/Nyons and La Route De L’Olivier..md]]"
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 44.3303,5.1683
-geo_note: "inferred: Only one same-named pass in the area and it lies on the Nyons\
-  \ approach."
+geo_note: "inferred: Only one same-named pass in the area and it lies on the Nyons approach."
 geo_source: OSM node 271239999
 icon: newspaper
 location:
   - 44.3303
   - 5.1683
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nyons]]"
 image: Attachments/Places/Col de la Croix Rouge (Nyons post).svg
 ---
@@ -32,11 +32,13 @@ image: Attachments/Places/Col de la Croix Rouge (Nyons post).svg
 Mountain pass in the Drôme near Nyons, likely the real climb behind the Col de la Croix Rouge the riders take on their way to buy olives in Nyons.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Nyons and La Route De L’Olivier..md\|Nyons and La Route de l’Olivier.]] | Mostly Bikes x Me | journey waypoint | Riders cycle to Nyons by La Route de l'Olivier, a spur off the Col de la Croix Rouge climb, to buy olives themselves. |
 
 ## Nyons and La Route de l’Olivier. — Mostly Bikes x Me (2026)
+
 Source: [[Bookshelf/Highlights & Notes/Articles/Nyons and La Route De L’Olivier..md]] · [Readwise highlight](https://read.readwise.io/read/01m5e33g5mjfhewb7twpwb85p2)
 
 > Today we rode to Nyons via La Route de l’Olivier, a small spur road off the climb the Col de la Croix Rouge, to source them ourselves.

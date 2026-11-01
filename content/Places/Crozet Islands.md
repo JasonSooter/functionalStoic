@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Crozet Islands
-created: 2026-10-23T11:13:23.000Z
-modified: 2026-10-31T21:09:35.408Z
-published: 2026-10-31T21:09:35.408Z
 aliases:
   - Crozetts
+title: Crozet Islands
+created: 2026-10-23T11:13:23.000Z
+modified: 2026-10-31T21:09:35.000Z
+published: 2026-10-31T21:09:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Crozet Islands.svg
 books:
   - "[[Exploration of Moby Dick]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -46.38
   - 51.67
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[French Southern and Antarctic Lands]]"
 image: Attachments/Places/Crozet Islands.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Crozet Islands.svg
 The Crozet Islands are a remote sub-Antarctic archipelago in the southern Indian Ocean, part of the French Southern and Antarctic Lands. In _Moby-Dick_ the Pequod meets the whaler Goney off the 'Crozetts' and later crosses meadows of brit nearby.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | setting | Off the Crozetts the Pequod hails the bleached whaler Goney about the White Whale, and her captain's trumpet falls into the sea. |
 
 ## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m771wx6kwczw8x12fgqcst)
 
 > South-eastward from the Cape, off the distant Crozetts, a good cruising ground for Right Whalemen, a sail loomed ahead, the Goney (Albatross) by name.

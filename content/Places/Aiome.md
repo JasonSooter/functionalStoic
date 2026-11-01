@@ -2,8 +2,8 @@
 publish: true
 title: Aiome
 created: 2026-10-22T13:40:55.000Z
-modified: 2026-10-31T16:22:21.000Z
-published: 2026-10-31T16:22:21.000Z
+modified: 2026-10-31T19:36:05.000Z
+published: 2026-10-31T19:36:05.000Z
 tags:
   - places
   - place/literary
@@ -11,18 +11,18 @@ tags:
 socialImage: Attachments/Places/Aiome.svg
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: -5.143,144.7351
 geo_source: OSM node 5911829396 (Nominatim)
 icon: book
+image: Attachments/Places/Aiome.svg
 location:
   - -5.143
   - 144.7351
 within: "[[Papua New Guinea]]"
-image: Attachments/Places/Aiome.svg
 ---
 
 # Aiome
@@ -33,9 +33,9 @@ Government station on the Ramu side of the Bismarck Range, Papua New Guinea; in 
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | journey waypoint | The end of the Jimi Valley trek. |
+| Life on Air | David Attenborough | journey waypoint | The end of the Jimi Valley trek. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx374dh42pktzwmwj2fcr6)
 

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Grover Hot Springs State Park
-created: 2026-10-23T05:33:54.000Z
-modified: 2026-11-01T00:09:27.566Z
-published: 2026-11-01T00:09:27.566Z
 aliases:
   - Grover Hot Springs
+title: Grover Hot Springs State Park
+created: 2026-10-23T05:33:54.000Z
+modified: 2026-11-01T00:09:28.000Z
+published: 2026-11-01T00:09:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Grover Hot Springs State Park.svg
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 38.7014
   - -119.8389
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Grover Hot Springs State Park.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Grover Hot Springs State Park.svg
 State park near Markleeville in the Eastern Sierra, California. In _Just for Fun_ it is the campsite where David Diamond interviews Linus Torvalds.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | A July 4th camping trip where Diamond interviews Linus on a hike about the early Linux days. |
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
+
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrspwwd3eqrwth6ttr4e2)
 
 > We’re camping at Grover Hot Springs, way up in the Eastern Sierra over the July 4th weekend

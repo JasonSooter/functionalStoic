@@ -2,8 +2,13 @@
 publish: true
 title: Johansson Projects
 created: 2026-10-21T04:46:58.000Z
-modified: 2026-11-01T00:32:49.531Z
-published: 2026-11-01T00:32:49.531Z
+modified: 2026-11-01T00:32:50.000Z
+published: 2026-11-01T00:32:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Johansson Projects.svg
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 37.8126
   - -122.2686
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oakland]]"
 image: Attachments/Places/Johansson Projects.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Johansson Projects.svg
 Gallery in downtown [[Oakland]], California, setting of the film scene Jenny Odell discusses in How to Do Nothing.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | subject | Collin and Miles visit a photographer in the gallery who has Oakland residents stare silently at each other. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebv2msccysr0s3qm5ydmrg)
 
 > It happens much earlier, in Johansson Projects, a small gallery downtown.

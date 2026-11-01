@@ -2,8 +2,13 @@
 publish: true
 title: Flaming Gorge Dam
 created: 2026-10-20T19:37:18.000Z
-modified: 2026-11-01T00:09:26.010Z
-published: 2026-11-01T00:09:26.010Z
+modified: 2026-11-01T00:09:26.000Z
+published: 2026-11-01T00:09:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Flaming Gorge Dam.svg
 aliases: []
 books:
   - Why Are There No Short Arch Dams?
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 40.9144
   - -109.4214
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Utah]]"
 image: Attachments/Places/Flaming Gorge Dam.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Flaming Gorge Dam.svg
 Concrete arch dam on the Green River in north-eastern [[Utah]], USA. It is the opening example in Wesley Crump's article on why arch dams are so rare.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Are There No Short Arch Dams? | Wesley Crump | subject | The textbook image of an arch dam in a narrow canyon. |
 
 ## Why Are There No Short Arch Dams? — Wesley Crump (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/8/5/why-are-there-no-short-arch-dams) · [Readwise highlight](https://read.readwise.io/read/01m5dcm4e5tfqn8c706d3addgv)
 
 > Flaming Gorge Dam rises from the Green River in northern Utah like a concrete wedge driven into the canyon, anchored against the sheer rock walls that flank it.

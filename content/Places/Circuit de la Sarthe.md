@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Circuit de la Sarthe
-created: 2026-10-22T10:31:04.000Z
-modified: 2026-10-31T20:48:43.568Z
-published: 2026-10-31T20:48:43.568Z
 aliases:
   - Le Mans
   - 24 Hours of Le Mans
+title: Circuit de la Sarthe
+created: 2026-10-22T10:31:04.000Z
+modified: 2026-10-31T20:48:44.000Z
+published: 2026-10-31T20:48:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Circuit de la Sarthe.svg
 books:
   - The Hidden Beauty of Constraints
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 47.9333
   - 0.2333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[France]]"
 image: Attachments/Places/Circuit de la Sarthe.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Circuit de la Sarthe.svg
 Racing circuit at Le Mans, [[France]], home of the 24-hour race that opens Help Scout's essay on constraints.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Hidden Beauty of Constraints | Help Scout | subject | Audi asks how to win Le Mans without a faster car, and wins on fuel efficiency. |
 
 ## The Hidden Beauty of Constraints — Help Scout (2015)
+
 Source: [Original](https://www.helpscout.net/blog/flipping-constraints/) · [Readwise highlight](https://read.readwise.io/read/01m5hj2346swdm2fzbp9p5qstx)
 
 > when developing a car for the famous 24-hour Le Mans race in 2006, the chief engineer of Audi asked a brilliant question instead: “How could we win Le Mans if our car could go no faster than anyone else’s?”

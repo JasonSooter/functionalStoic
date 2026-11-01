@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Col du Galibier
-created: 2026-10-20T01:33:53.000Z
-modified: 2026-10-31T21:09:27.384Z
-published: 2026-10-31T21:09:27.384Z
 aliases:
   - Galibier
+title: Col du Galibier
+created: 2026-10-20T01:33:53.000Z
+modified: 2026-10-31T21:09:27.000Z
+published: 2026-10-31T21:09:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Col du Galibier.svg
 books:
   - Col du Galibier & Alpe d’Huez.
 categories:
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 45.064
   - 6.408
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[French Alps]]"
 image: Attachments/Places/Col du Galibier.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Col du Galibier.svg
 High road pass between Savoie and Hautes-Alpes in the [[French Alps]], climbed at sunrise in a Mostly Bikes x Me photo post.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Col Du Galibier & Alpe D’Huez.\|Col du Galibier & Alpe d’Huez.]] | Mostly Bikes x Me | subject | An early climb before the traffic, counting marmots. |
 
 ## Col du Galibier & Alpe d’Huez. — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5beyxn3tbc5dxhvgm18h8s9)
 
 > Galibier before breakfast, with the subrise, before the traffic and while the marmots were still squeaking.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Hado (Jeju)
-created: 2026-10-23T07:46:58.000Z
-modified: 2026-11-01T00:09:39.502Z
-published: 2026-11-01T00:09:39.502Z
 aliases:
   - Hado
   - Hado-ri
+title: Hado (Jeju)
+created: 2026-10-23T07:46:58.000Z
+modified: 2026-11-01T00:09:40.000Z
+published: 2026-11-01T00:09:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hado (Jeju).svg
 books:
   - The Island of Sea Women
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 33.5188
   - 126.8831
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jeju Island]]"
 image: Attachments/Places/Hado (Jeju).svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/Hado (Jeju).svg
 Coastal village in Gujwa-eup on the north-east coast of Jeju Island, South Korea. It is the home village of Young-sook and Mi-ja in _The Island of Sea Women_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Island of Sea Women | Lisa See | setting | Young-sook and Mi-ja's home village: the bulteok, the underwater canyon and the 2008 beach. |
 
 ## The Island of Sea Women — Lisa See (2019)
+
 Source: [Original](https://openlibrary.org/works/OL19865296W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcgc9bxqy41rn7a08wxc1)
 
 > I’d grown up in the Gul-dong section of Hado, while Mi-ja lived in the Sut-dong section, and the two of us always met in this spot.

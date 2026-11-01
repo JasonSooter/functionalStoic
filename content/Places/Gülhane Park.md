@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Gülhane Park
-created: 2026-10-20T01:29:14.000Z
-modified: 2026-11-01T00:09:36.618Z
-published: 2026-11-01T00:09:36.618Z
 aliases:
   - Gilhane
   - Gülhane Parkı
+title: Gülhane Park
+created: 2026-10-20T01:29:14.000Z
+modified: 2026-11-01T00:09:37.000Z
+published: 2026-11-01T00:09:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gülhane Park.svg
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 41.0127
   - 28.9805
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Istanbul]]"
 image: Attachments/Places/Gülhane Park.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Gülhane Park.svg
 Park below Topkapı Palace running down to a view of the Bosphorus, in [[Istanbul]], Turkey. It is where Bill Bryson ends Neither Here Nor There, with a Coke and a view of Asia.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | turning point | Where the book ends: a Coke at a taverna, a view of Asia, and the decision to go home. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bekqjj6rca36bqfqdfh4v9)
 
 > found myself presently at the entrance to a large and miraculously tranquil park called Gilhane, full of leafy shade, twittering birds, and happily ambling families.

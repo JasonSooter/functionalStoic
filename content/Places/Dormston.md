@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Dormston
-created: 2026-10-23T11:13:36.000Z
-modified: 2026-10-31T21:10:05.145Z
-published: 2026-10-31T21:10:05.145Z
 aliases:
   - Bag End, Dormston
+title: Dormston
+created: 2026-10-23T11:13:36.000Z
+modified: 2026-10-31T21:10:05.000Z
+published: 2026-10-31T21:10:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Dormston.svg
 books:
   - "[[The Hobbit]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 52.218
   - -2.019
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Worcestershire]]"
 image: Attachments/Places/Dormston.svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/Dormston.svg
 Dormston is a small village in Worcestershire, England, where Tolkien's aunt Jane Neave lived in a Tudor farmhouse called Bag End. It is pinned for _The Hobbit_ as the source of the name of Bilbo's home.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | setting | Village of Tolkien's aunt's farmhouse "Bag End", the name he gave Bilbo's hobbit-hole. |
 
 ## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
+
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m773vdkctz33tzgbrwhjnx)
 
 > He shuddered; and very quickly he was plain Mr. Baggins of Bag-End, Under-Hill, again.

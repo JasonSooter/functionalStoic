@@ -2,8 +2,13 @@
 publish: true
 title: Campo, California
 created: 2026-10-21T19:39:08.000Z
-modified: 2026-10-31T20:48:38.224Z
-published: 2026-10-31T20:48:38.224Z
+modified: 2026-10-31T20:48:38.000Z
+published: 2026-10-31T20:48:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Campo, California.svg
 aliases: []
 books:
   - Hiking the 2,650-Mile Pacific Crest Trail
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 32.6064
   - -116.4681
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Campo, California.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Campo, California.svg
 Small community on the US–Mexico border in San Diego County, the southern terminus of the Pacific Crest Trail. In a Priceonomics story it is where two hikers start their thru-hike.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Hiking the 2,650-Mile Pacific Crest Trail | Priceonomics | journey waypoint | Southern terminus where the 2013 thru-hike begins. |
 
 ## Hiking the 2,650-Mile Pacific Crest Trail — Priceonomics (2015)
+
 Source: [Original](http://priceonomics.com/hiking-the-2650-mile-pacific-crest-trail/) · [Readwise highlight](https://read.readwise.io/read/01m5fzc13j35qjz9avbxxnmzav)
 
 > The duo arrived in Campo, the trail’s Southern terminus on the Mexico-U.S. border, on April 19, 2013, about a week before the crowds amassed

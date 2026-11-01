@@ -2,8 +2,13 @@
 publish: true
 title: Gilgit
 created: 2026-10-22T16:26:44.000Z
-modified: 2026-11-01T00:09:18.370Z
-published: 2026-11-01T00:09:18.370Z
+modified: 2026-11-01T00:09:18.000Z
+published: 2026-11-01T00:09:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gilgit.svg
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 35.9208
   - 74.3083
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pakistan]]"
 image: Attachments/Places/Gilgit.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Gilgit.svg
 Town in Gilgit-Baltistan in Pakistan's Karakoram. The gateway to the mountain section of _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | turning point | A Dakota flight through the peaks, Colonel Shah's warnings, and the start of the valley trek. |
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6mz384g4929f2xjnxbg5g)
 
 > I got to the airport at 1.30 p.m. and after the six-mile cycle run out from the city I needed to drink every drop in my six-pint water-bottle.

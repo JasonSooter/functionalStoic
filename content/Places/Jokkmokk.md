@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Jokkmokk
-created: 2026-10-21T19:23:13.000Z
-modified: 2026-11-01T00:32:53.091Z
-published: 2026-11-01T00:32:53.091Z
 aliases:
   - Jokmok
+title: Jokkmokk
+created: 2026-10-21T19:23:13.000Z
+modified: 2026-11-01T00:32:53.000Z
+published: 2026-11-01T00:32:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jokkmokk.svg
 books:
   - Nordic Tales
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 66.6167
   - 19.8333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sweden]]"
 image: Attachments/Places/Jokkmokk.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Jokkmokk.svg
 Town in Swedish Lapland, long a Sámi meeting place. In Nordic Tales it is where the Gan-Finn's spirit travels to meet the other sorcerers.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Nordic Tales | Chronicle Books | backdrop | Where the Gan-Finn's spirit goes to meet the sorcerers in a trance. |
 
 ## Nordic Tales — Chronicle Books (2017)
+
 Source: [Original](https://chroniclebooks.com/products/nordic-tales) · [Readwise highlight](https://read.readwise.io/read/01m5fyddfb62ee8p9tnk53jm9q)
 
 > There the magicians were all sitting together in the dark sea-fog beneath the shelter of the high mountain, and whispering about all manner of secret and hidden things, and blowing spirits into the novices of the black art.

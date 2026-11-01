@@ -2,8 +2,13 @@
 publish: true
 title: Cambridge Conservation Initiative
 created: 2026-10-21T11:07:16.000Z
-modified: 2026-10-31T20:48:34.600Z
-published: 2026-10-31T20:48:34.600Z
+modified: 2026-10-31T20:48:35.000Z
+published: 2026-10-31T20:48:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cambridge Conservation Initiative.svg
 aliases: []
 books:
   - Closing Remarks to Cambridge Conservation Initiative
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 52.2036
   - 0.1204
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cambridge]]"
 image: Attachments/Places/Cambridge Conservation Initiative.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Cambridge Conservation Initiative.svg
 Conservation partnership based in the David Attenborough Building, Cambridge, England. Attenborough gives closing remarks there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Closing Remarks to Cambridge Conservation Initiative | David Attenborough | setting | Attenborough's closing remarks on communicating the biodiversity crisis. |
 
 ## Closing Remarks to Cambridge Conservation Initiative — David Attenborough
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5f1wq1dpjcm88z5wqpt38j1)
 
 > It was precisely to address this problem that the Godfather of modern conservation communication, Sir David Attenborough, came to Cambridge Conservation Initiative on 12 April.

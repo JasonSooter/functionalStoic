@@ -2,8 +2,13 @@
 publish: true
 title: Davies Symphony Hall
 created: 2026-10-21T02:06:43.000Z
-modified: 2026-10-31T21:09:20.028Z
-published: 2026-10-31T21:09:20.028Z
+modified: 2026-10-31T21:09:20.000Z
+published: 2026-10-31T21:09:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Davies Symphony Hall.svg
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 37.778
   - -122.4206
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Davies Symphony Hall.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Davies Symphony Hall.svg
 Concert hall in [[San Francisco]], United States, where Jenny Odell describes a performance that changed how she heard the city in _How to Do Nothing_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | turning point | At a Cage Song Books performance, conductor Michael Tilson Thomas makes a smoothie in a blender and the audience's laughter becomes part of the piece. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5e31xkvdavvkzzs7c70dw0t)
 
 > It was at San Francisco’s Davies Symphony Hall, which I would occasionally visit alone after work for the comfort of old favorite pieces, an overpriced plastic cup of wine, and anonymity among an older crowd.

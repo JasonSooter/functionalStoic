@@ -2,8 +2,13 @@
 publish: true
 title: Appledore
 created: 2026-10-20T01:35:42.000Z
-modified: 2026-11-01T12:24:02.123Z
-published: 2026-11-01T12:24:02.123Z
+modified: 2026-11-01T12:24:02.000Z
+published: 2026-11-01T12:24:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Appledore.svg
 aliases: []
 books:
   - "[[089 a Comprehensive Guide to Devon]]"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 51.0537
   - -4.1908
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Devon]]"
 image: Attachments/Places/Appledore.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Appledore.svg
 Village at the mouth of the Torridge estuary in north [[Devon]], the base for the cycling holiday in Diagram Club's guide to Devon.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[089 a Comprehensive Guide to Devon\|#089 A comprehensive guide to Devon]] | Diagram Club | setting | The village where the family stayed, with the bike ferry and the Tarka Trail on the doorstep. |
 
 ## #089 A comprehensive guide to Devon — Diagram Club (2026)
+
 Source: [[089 a Comprehensive Guide to Devon]] · [Original](https://diagramclub.substack.com/p/089-a-comprehensive-guide-to-devon) · [Readwise highlight](https://read.readwise.io/read/01m5bexywjz3ym9fyn7x5y6y3m)
 
 > This is Appledore, a village in north Devon, where we stayed (in the tallest house).

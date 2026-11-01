@@ -2,8 +2,8 @@
 publish: true
 title: Anbangbang rock shelter
 created: 2026-10-22T13:41:22.000Z
-modified: 2026-10-31T16:22:20.000Z
-published: 2026-10-31T16:22:20.000Z
+modified: 2026-10-31T19:36:56.000Z
+published: 2026-10-31T19:36:56.000Z
 tags:
   - places
   - place/literary
@@ -11,18 +11,18 @@ tags:
 socialImage: Attachments/Places/Anbangbang rock shelter.svg
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: -12.8659,132.8129
 geo_source: OSM node 3624480430 (Nominatim)
 icon: book
+image: Attachments/Places/Anbangbang rock shelter.svg
 location:
   - -12.8659
   - 132.8129
 within: "[[Kakadu National Park]]"
-image: Attachments/Places/Anbangbang rock shelter.svg
 ---
 
 # Anbangbang rock shelter
@@ -33,9 +33,9 @@ Rock shelter with Aboriginal paintings beneath Nourlangie Rock in Kakadu Nationa
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | subject | Attenborough films its ochre figures. |
+| Life on Air | David Attenborough | subject | Attenborough films its ochre figures. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2b1ew554hnejssew9rna)
 

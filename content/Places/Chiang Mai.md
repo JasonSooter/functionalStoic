@@ -2,8 +2,13 @@
 publish: true
 title: Chiang Mai
 created: 2026-10-21T02:06:25.000Z
-modified: 2026-10-31T20:48:12.582Z
-published: 2026-10-31T20:48:12.582Z
+modified: 2026-10-31T20:48:13.000Z
+published: 2026-10-31T20:48:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chiang Mai.svg
 aliases: []
 books:
   - Breakneck
@@ -17,10 +22,6 @@ icon: book
 location:
   - 18.7953
   - 98.9986
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Thailand]]"
 image: Attachments/Places/Chiang Mai.svg
 ---
@@ -37,9 +38,11 @@ City in northern [[Thailand]], where Dan Wang's Breakneck finds young Chinese wh
 | Is Private School Worth It? | Retire by 40 | setting | The author's childhood city, where his parents paid for one of the few good private primary schools. |
 
 ## Sub-places
+
 - [[Nowhere Books]]
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5e30qh07n9sjajkrpk47a0p)
 
 > At the end of 2023, I spent a month in Thailand’s Chiang Mai with people who have
@@ -49,6 +52,7 @@ Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highl
 - **Why it matters:** It is the destination of the 'rùn' emigration theme, a place of escape from Chinese controls; the section's reporting setting.
 
 ## Is Private School Worth It? — Retire by 40 (2015)
+
 Source: [Original](https://retireby40.org/is-private-school-worth-it/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1szbc6y5pakx28spft8n)
 
 > I grew up in Chiang Mai, Thailand and went to school there until I finished 7th grade.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Kamarang
-created: 2026-10-22T13:40:30.000Z
-modified: 2026-11-01T00:33:13.531Z
-published: 2026-11-01T00:33:13.531Z
 aliases:
   - Mazaruni River
+title: Kamarang
+created: 2026-10-22T13:40:30.000Z
+modified: 2026-11-01T00:33:14.000Z
+published: 2026-11-01T00:33:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kamarang.svg
 books:
   - Life on Air
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 5.8653
   - -60.6142
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Guyana]]"
 image: Attachments/Places/Kamarang.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Kamarang.svg
 Settlement on the Mazaruni River in western Guyana; the rain-forest base of the Guiana Zoo Quest in _Life on Air_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The rain-forest base of the Guiana Zoo Quest. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx28ghmkyb29a38spc85rf)
 
 > Our main work, however, was in the rain forest. For that we flew up to Kamarang in the north-west of the country.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Goethe House (Weimar)
-created: 2026-10-23T11:13:49.000Z
-modified: 2026-11-01T00:09:27.850Z
-published: 2026-11-01T00:09:27.850Z
 aliases:
   - Goethes Wohnhaus
   - Goethe National Museum
+title: Goethe House (Weimar)
+created: 2026-10-23T11:13:49.000Z
+modified: 2026-11-01T00:09:28.000Z
+published: 2026-11-01T00:09:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Goethe House (Weimar).svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 50.9775
   - 11.3286
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Weimar]]"
 image: Attachments/Places/Goethe House (Weimar).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Goethe House (Weimar).svg
 Goethe's house on the Frauenplan in Weimar, where he lived for some fifty years, now a museum. In _Germany: Memories of a Nation_ it shows Goethe's ambition to gather the whole world into one house.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | setting | Goethe's Weimar home, crammed with casts, minerals and a model of Stephenson's Rocket: a one-man British Museum. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75jwar1mct9at7vxhybcy)
 
 > In the small capital town of a tiny duchy, Goethe sought to collect and to understand the whole world.

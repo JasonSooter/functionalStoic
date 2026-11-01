@@ -2,8 +2,13 @@
 publish: true
 title: Capitol Records Building
 created: 2026-10-23T01:33:07.000Z
-modified: 2026-10-31T20:48:51.145Z
-published: 2026-10-31T20:48:51.145Z
+modified: 2026-10-31T20:48:51.000Z
+published: 2026-10-31T20:48:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Capitol Records Building.svg
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 34.1031
   - -118.3262
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hollywood]]"
 image: Attachments/Places/Capitol Records Building.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Capitol Records Building.svg
 The round tower on Vine Street, Hollywood. In Tom Hanks's 'A Junket in the City of Light' Rory first meets Willa Sax in her office there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Uncommon Type]] | Tom Hanks | turning point | In flashback, Rory is called back from a Utah ski season to meet Willa over green tea. |
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5v82cwbkaz6f1qgx47ms6)
 
 > The first time Rory met Willa Sax—who was crazy beautiful, beyond-real-life beautiful—was over cups of green tea in her offices in the Capitol Records Building on Vine Street in Hollywood.

@@ -2,8 +2,13 @@
 publish: true
 title: Delray Beach
 created: 2026-10-22T16:48:49.000Z
-modified: 2026-10-31T21:09:36.684Z
-published: 2026-10-31T21:09:36.684Z
+modified: 2026-10-31T21:09:37.000Z
+published: 2026-10-31T21:09:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Delray Beach.svg
 aliases: []
 books:
   - Addicts For Sale
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 26.4444
   - -80.1097
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 image: Attachments/Places/Delray Beach.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Delray Beach.svg
 City in Palm Beach County, South Florida. A BuzzFeed News investigation into the rehab industry is set here.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Addicts For Sale | BuzzFeed News | subject | A town of rehab centres and halfway houses where recruiters trade in addicts and their insurance. |
 
 ## Addicts For Sale — BuzzFeed News (2016)
+
 Source: [Original](https://www.buzzfeed.com/catferguson/addiction-marketplace) · [Readwise highlight](https://read.readwise.io/read/01m5j7v5zmc2m25zjw6pc69qty)
 
 > In South Florida’s Delray Beach, home to hundreds of rehab facilities and halfway houses, scams abound to profit off of addicts and their insurance policies.

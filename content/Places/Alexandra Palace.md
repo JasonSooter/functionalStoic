@@ -2,8 +2,8 @@
 publish: true
 title: Alexandra Palace
 created: 2026-10-22T13:40:30.000Z
-modified: 2026-10-31T16:21:47.000Z
-published: 2026-10-31T16:21:47.000Z
+modified: 2026-10-31T19:36:37.000Z
+published: 2026-10-31T19:36:37.000Z
 tags:
   - places
   - place/literary
@@ -11,18 +11,18 @@ tags:
 socialImage: Attachments/Places/Alexandra Palace.svg
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.5942,-0.1308
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Alexandra Palace.svg
 location:
   - 51.5942
   - -0.1308
 within: "[[London]]"
-image: Attachments/Places/Alexandra Palace.svg
 ---
 
 # Alexandra Palace
@@ -33,9 +33,9 @@ Victorian–Edwardian palace on a hill in north London, home of the first BBC te
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | setting / subject | Attenborough starts his BBC career there. |
+| Life on Air | David Attenborough | setting / subject | Attenborough starts his BBC career there. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1hry7zgxx072f183w34j)
 

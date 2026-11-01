@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Galápagos Islands
-created: 2026-10-22T10:25:55.000Z
-modified: 2026-11-01T00:09:33.866Z
-published: 2026-11-01T00:09:33.866Z
 aliases:
   - Galapagos Islands
+title: Galápagos Islands
+created: 2026-10-22T10:25:55.000Z
+modified: 2026-11-01T00:09:34.000Z
+published: 2026-11-01T00:09:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Galápagos Islands.svg
 books:
   - Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller
   - Life on Air
@@ -18,10 +23,6 @@ icon: book
 location:
   - -0.5
   - -90.5
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ecuador]]"
 image: Attachments/Places/Galápagos Islands.svg
 ---
@@ -38,9 +39,11 @@ Volcanic archipelago in the Pacific belonging to [[Ecuador]], the first stop of 
 | Life on Air | David Attenborough | setting | Life in Cold Blood opens with marine iguanas filmed by thermal camera. |
 
 ## Sub-places
+
 - [[Alcedo Volcano]]
 
 ## Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller — Steve Miller (2015)
+
 Source: [Original](https://www.themoneymine.com/early-retirement-from-the-sale-of-a-multi-million-dollar-business-with-steve-miller/) · [Readwise highlight](https://read.readwise.io/read/01m5hj180j2rs2jj82ssrhd6gr)
 
 > We then made our way to the Galapagos Islands, Machu Picchu and the Bahamas. We saw extraordinary things. We watched a tortoise painstakingly dig a hole for her eggs.
@@ -50,6 +53,7 @@ Source: [Original](https://www.themoneymine.com/early-retirement-from-the-sale-o
 - **Why it matters:** It stands for what the sale bought him: time to watch something slow and extraordinary. A minor stop in a long list of trips.
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy950ykq7aavr7pm012gxb)
 
 > And in May 2006 Miles and I were sitting surrounded by marine iguanas on the Galapagos Islands.

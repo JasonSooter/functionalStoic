@@ -2,8 +2,8 @@
 publish: true
 title: British Museum
 created: 2026-10-21T14:12:16.000Z
-modified: 2026-10-31T17:39:36.000Z
-published: 2026-10-31T17:39:36.000Z
+modified: 2026-10-31T19:35:50.000Z
+published: 2026-10-31T19:35:50.000Z
 tags:
   - places
   - place/literary
@@ -13,18 +13,18 @@ aliases: []
 books:
   - "[[Four Thousand Weeks]]"
   - Three Men in a Boat
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.5194,-0.1269
 geo_source: Wikidata Q6373
 icon: book
+image: Attachments/Places/British Museum.svg
 location:
   - 51.5194
   - -0.1269
 within: "[[London]]"
-image: Attachments/Places/British Museum.svg
 ---
 
 # British Museum
@@ -37,7 +37,7 @@ British Museum is the national museum of human history in London. It turns up in
 |---|---|---|---|
 | [[Four Thousand Weeks]] | Oliver Burkeman | backdrop | Steve Taylor watches tourists at the museum recording the Rosetta Stone on their phones instead of looking at it, an example of using time… |
 | Three Men in a Boat | Jerome K. Jerome | turning point | J. reads a medical dictionary in the museum and finds he has every disease but housemaid's knee. |
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | setting | A note during a Trustees' meeting tells Attenborough the Icelandic eruption has begun. |
+| Life on Air | David Attenborough | setting | A note during a Trustees' meeting tells Attenborough the Icelandic eruption has begun. |
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
 
@@ -59,7 +59,7 @@ Source: [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highli
 - **In the book:** In chapter 1, J. goes to the museum to read up on hay fever, works through a medical dictionary and convinces himself he has every disease in it except housemaid's knee. He crawls out a 'decrepit wreck' and goes to his doctor.
 - **Why it matters:** The hypochondria born in the reading room is the joke that sets up the whole river holiday.
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7xgt7qw6sdmb359h4yh3)
 

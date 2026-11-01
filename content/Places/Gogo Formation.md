@@ -2,8 +2,13 @@
 publish: true
 title: Gogo Formation
 created: 2026-10-22T14:40:21.000Z
-modified: 2026-11-01T00:09:28.506Z
-published: 2026-11-01T00:09:28.506Z
+modified: 2026-11-01T00:09:29.000Z
+published: 2026-11-01T00:09:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gogo Formation.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ icon: book
 location:
   - -18.3
   - 126.5
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Western Australia]]"
 image: Attachments/Places/Gogo Formation.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Gogo Formation.svg
 Devonian fossil reef site in the Kimberley, Western Australia; in _Life on Air_ Attenborough picks up a fish fossil there by helicopter.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough picks up a fish fossil there by helicopter. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8e0c52k6cy984na30t50)
 
 > Later on that same trip, we wanted to film at a site in the central Australian desert called Gogo .

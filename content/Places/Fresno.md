@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Fresno
-created: 2026-10-23T11:13:45.000Z
-modified: 2026-11-01T00:09:21.098Z
-published: 2026-11-01T00:09:21.098Z
 aliases:
   - Fresno, California
+title: Fresno
+created: 2026-10-23T11:13:45.000Z
+modified: 2026-11-01T00:09:21.000Z
+published: 2026-11-01T00:09:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Fresno.svg
 books:
   - Abundance
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 36.75
   - -119.7667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Fresno.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Fresno.svg
 Fresno is the largest city in California's Central Valley. In _Abundance_ it is where Ezra Klein tours the partly built California high-speed rail line.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | setting | Ezra tours California's half-built high-speed rail near Fresno and hears about politics, not engineering. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m77p1vav4e5kzq18p7w16s)
 
 > In October 2023, one of us—okay, it was Ezra—went to Fresno, California, and toured the miles of rail infrastructure that the California High-Speed Rail Authority has built.

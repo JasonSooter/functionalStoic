@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Devil's Den State Park
-created: 2026-10-22T10:44:22.000Z
-modified: 2026-10-31T21:09:47.244Z
-published: 2026-10-31T21:09:47.244Z
 aliases:
   - Devils Den State Park
+title: Devil's Den State Park
+created: 2026-10-22T10:44:22.000Z
+modified: 2026-10-31T21:09:47.000Z
+published: 2026-10-31T21:09:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Devil's Den State Park.svg
 books:
   - "Outdoors in Arkansas: Hiking Devil’s Den State Park"
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 35.7799
   - -94.25
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Arkansas]]"
 image: Attachments/Places/Devil's Den State Park.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Devil's Den State Park.svg
 State park in the Ozarks of north-west [[Arkansas]], chosen for an annual friends' hike after a bad trip in Oklahoma.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Outdoors in Arkansas: Hiking Devil’s Den State Park | Cary Aspinwall | setting | The Devil’s Den loop and a ranger-recommended Lee Creek trail, with good maps and helpful staff. |
 
 ## Outdoors in Arkansas: Hiking Devil’s Den State Park — Cary Aspinwall (2015)
+
 Source: [Original](https://proactiveoutside.wordpress.com/2015/12/01/outdoors-in-arkansas-hiking-devils-den-state-park/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5nf9gwcn6m67sxhr7d5a)
 
 > After talking to the park staff, we decided to start out with the beautiful Devil’s Den trail right by the visitor’s center (it’s a 1.5 mile loop, but it has some steep elevation changes).

@@ -2,8 +2,8 @@
 publish: true
 title: Bali
 created: 2026-10-22T16:29:42.000Z
-modified: 2026-10-31T16:22:07.000Z
-published: 2026-10-31T16:22:07.000Z
+modified: 2026-10-31T19:36:23.000Z
+published: 2026-10-31T19:36:23.000Z
 tags:
   - places
   - place/literary
@@ -11,7 +11,7 @@ tags:
 socialImage: Attachments/Places/Bali.svg
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
   - "The Global Yogi: Long-Term Travel through Five Continents"
 categories:
   - "[[Places]]"
@@ -19,11 +19,11 @@ color: purple
 coordinates: -8.335,115.0881
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Bali.svg
 location:
   - -8.335
   - 115.0881
 within: "[[Indonesia]]"
-image: Attachments/Places/Bali.svg
 ---
 
 # Bali
@@ -34,10 +34,10 @@ Indonesian island east of Java known for its Hindu temple arts; in _Life on Air_
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | backdrop | Attenborough films its music and dance, returning eleven years later. |
+| Life on Air | David Attenborough | backdrop | Attenborough films its music and dance, returning eleven years later. |
 | The Global Yogi: Long-Term Travel through Five Continents | Chris Guillebeau | turning point | A break-up email at the Bali Spirit Festival sets off a six-month trip. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2j26rg15sqwewk1egppd)
 

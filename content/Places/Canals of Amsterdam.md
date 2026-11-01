@@ -1,9 +1,5 @@
 ---
 publish: true
-title: Canals of Amsterdam
-created: 2026-10-19T22:24:02.000Z
-modified: 2026-10-31T20:48:41.500Z
-published: 2026-10-31T20:48:41.500Z
 aliases:
   - Grachtengordel
   - Amsterdam canal ring
@@ -11,22 +7,26 @@ aliases:
   - Herengracht
   - Keizersgracht
   - Prinsengracht
+title: Canals of Amsterdam
+created: 2026-10-19T22:24:02.000Z
+modified: 2026-10-31T20:48:42.000Z
+published: 2026-10-31T20:48:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Canals of Amsterdam.svg
 books:
   - Neither Here Nor There
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 52.365,4.8878
-geo_note: approximate (representative point for the canal ring, from Wikipedia's 'Canals
-  of Amsterdam')
+geo_note: approximate (representative point for the canal ring, from Wikipedia's 'Canals of Amsterdam')
 icon: book
 location:
   - 52.365
   - 4.8878
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Amsterdam]]"
 image: Attachments/Places/Canals of Amsterdam.svg
 ---
@@ -36,11 +36,13 @@ image: Attachments/Places/Canals of Amsterdam.svg
 The seventeenth-century canal ring (Singel, Herengracht, Keizersgracht, Prinsengracht) around the centre of [[Amsterdam]]; in Neither Here Nor There it is where Bryson's sour Amsterdam visit turns.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | Where a sour Amsterdam visit turns: beautiful along the canals, if dirty. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b43mkkwsnxskf9h2s4g1bt)
 
 > I found my way to the canals—the Singel, Herengracht, Keizersgracht, and Prinsengracht—and things were immediately better.

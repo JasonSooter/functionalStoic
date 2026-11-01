@@ -2,8 +2,8 @@
 publish: true
 title: Antananarivo
 created: 2026-10-22T13:41:00.000Z
-modified: 2026-10-31T16:22:24.000Z
-published: 2026-10-31T16:22:24.000Z
+modified: 2026-10-31T19:36:30.000Z
+published: 2026-10-31T19:36:30.000Z
 tags:
   - places
   - place/literary
@@ -11,18 +11,18 @@ tags:
 socialImage: Attachments/Places/Antananarivo.svg
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: -18.91,47.525
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Antananarivo.svg
 location:
   - -18.91
   - 47.525
 within: "[[Madagascar]]"
-image: Attachments/Places/Antananarivo.svg
 ---
 
 # Antananarivo
@@ -33,9 +33,9 @@ Capital of Madagascar in the central highlands; the Zoo Quest team's base at the
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | journey waypoint | The Zoo Quest team's base at the start and end of the Madagascar trip. |
+| Life on Air | David Attenborough | journey waypoint | The Zoo Quest team's base at the start and end of the Madagascar trip. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1t9gdykkep8rh6st3f6h)
 

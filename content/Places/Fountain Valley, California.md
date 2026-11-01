@@ -2,8 +2,13 @@
 publish: true
 title: Fountain Valley, California
 created: 2026-10-23T01:33:21.000Z
-modified: 2026-11-01T00:09:06.421Z
-published: 2026-11-01T00:09:06.421Z
+modified: 2026-11-01T00:09:06.000Z
+published: 2026-11-01T00:09:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Fountain Valley, California.svg
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 33.7086
   - -117.9564
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Fountain Valley, California.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Fountain Valley, California.svg
 City in Orange County, California. In Tom Hanks's 'Steve Wong Is Perfect' the televised bowling showdown takes place at its Crowne Lanes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Uncommon Type]] | Tom Hanks | turning point | The friends drive Steve here for the ESPN show Alley Nation. |
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5wa1pyg4ey325ny4sp202)
 
 > The show was going to be at Crowne Lanes in Fountain Valley—a long drive, so we stopped at an In-N-Out burger before hitting the freeway.

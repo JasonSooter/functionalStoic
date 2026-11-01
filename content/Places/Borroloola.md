@@ -2,8 +2,8 @@
 publish: true
 title: Borroloola
 created: 2026-10-22T13:40:59.000Z
-modified: 2026-10-31T17:39:42.000Z
-published: 2026-10-31T17:39:42.000Z
+modified: 2026-10-31T19:36:46.000Z
+published: 2026-10-31T19:36:46.000Z
 tags:
   - places
   - place/literary
@@ -11,18 +11,18 @@ tags:
 socialImage: Attachments/Places/Borroloola.svg
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: -16.0703,136.3072
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Borroloola.svg
 location:
   - -16.0703
   - 136.3072
 within: "[[Northern Territory]]"
-image: Attachments/Places/Borroloola.svg
 ---
 
 # Borroloola
@@ -33,9 +33,9 @@ Remote town on the McArthur River, Northern Territory; in _Life on Air_ a near-g
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | subject | A near-ghost town of three eccentrics. |
+| Life on Air | David Attenborough | subject | A near-ghost town of three eccentrics. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2gq1vm2wj7cf1gqehq33)
 

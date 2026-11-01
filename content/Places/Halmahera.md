@@ -2,8 +2,13 @@
 publish: true
 title: Halmahera
 created: 2026-10-22T14:40:39.000Z
-modified: 2026-11-01T00:09:10.505Z
-published: 2026-11-01T00:09:10.505Z
+modified: 2026-11-01T00:09:11.000Z
+published: 2026-11-01T00:09:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Halmahera.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ icon: book
 location:
   - 0.65
   - 127.9
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Indonesia]]"
 image: Attachments/Places/Halmahera.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Halmahera.svg
 Largest island of the Moluccas, Indonesia; in _Life on Air_ the team films Wallace's standard-wing display.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The team films Wallace's standard-wing display. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8xqbe0sfnws6abx9m9bg)
 
 > An English ornithologist, David Bishop, found a population, not on Bacan but on the neighbouring larger island of Halmahera.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Cannon Beach, Oregon
-created: 2026-10-22T10:26:13.000Z
-modified: 2026-10-31T20:48:43.981Z
-published: 2026-10-31T20:48:43.981Z
 aliases:
   - Cannon Beach
   - Canon Beach
+title: Cannon Beach, Oregon
+created: 2026-10-22T10:26:13.000Z
+modified: 2026-10-31T20:48:44.000Z
+published: 2026-10-31T20:48:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cannon Beach, Oregon.svg
 books:
   - Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 45.8819
   - -123.9594
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oregon]]"
 image: Attachments/Places/Cannon Beach, Oregon.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Cannon Beach, Oregon.svg
 Coastal town in [[Oregon]] where Steve Miller's family stays in an old farmhouse by the shore.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller | Steve Miller | journey waypoint | On the western trip they stay in an old farmhouse steps from the shore. |
 
 ## Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller — Steve Miller (2015)
+
 Source: [Original](https://www.themoneymine.com/early-retirement-from-the-sale-of-a-multi-million-dollar-business-with-steve-miller/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1e6rfdr91z5hrexp3ja8)
 
 > stayed in an old farm house steps away from the shores of Canon Beach, Oregon.

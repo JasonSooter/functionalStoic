@@ -2,8 +2,12 @@
 publish: true
 title: Ubirr
 created: 2026-10-22T13:41:13.000Z
-modified: 2026-10-31T19:35:17.358Z
-published: 2026-10-31T19:35:17.358Z
+modified: 2026-10-31T19:35:17.000Z
+published: 2026-10-31T19:35:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air
@@ -16,10 +20,6 @@ icon: book
 location:
   - -12.4094
   - 132.9593
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kakadu National Park]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Kakadu National Park]]"
 Rock-art site in Kakadu National Park, Northern Territory; in _Life on Air_ the BBC team races the sunset to film its X-ray paintings.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | turning point | The BBC team races the sunset to film its X-ray paintings. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2ch7fcvk1rtf08jex4pn)
 
 > Ubirr lay seventy miles east of our base at Nourlangie. Its rock , a coarse sandstone, is horizontally stratified and at its western end, one immense leaf juts out from the main mass.

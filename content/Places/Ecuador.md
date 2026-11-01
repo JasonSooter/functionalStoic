@@ -2,8 +2,13 @@
 publish: true
 title: Ecuador
 created: 2026-10-22T10:30:55.000Z
-modified: 2026-10-31T21:25:32.421Z
-published: 2026-10-31T21:25:32.421Z
+modified: 2026-10-31T21:25:32.000Z
+published: 2026-10-31T21:25:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ecuador.svg
 aliases: []
 books:
   - Understand the Drive-Thru and We Can Solve All Problems
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - -0.22
   - -78.5119
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Ecuador.svg
 ---
 
@@ -29,6 +30,7 @@ image: Attachments/Places/Ecuador.svg
 Country in north-western South America, where Sarah Noelle's two weeks in the jungle set up her essay on drive-thrus and effort.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Understand the Drive-Thru and We Can Solve All Problems | Sarah Noelle | backdrop | Two weeks in a jungle hut, climbing waterfalls, show her how little of her stuff she misses. |
@@ -40,6 +42,7 @@ Country in north-western South America, where Sarah Noelle's two weeks in the ju
 - [[Quito]]
 
 ## Understand the Drive-Thru and We Can Solve All Problems — Sarah Noelle (2015)
+
 Source: [Original](https://www.mrmoneymustache.com/2015/11/01/the-drive-thru/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1nh7wtpzge3qpd6z03tx)
 
 > I’ve been out traveling in Ecuador for the past two weeks, living in the jungle, climbing waterfalls and noting the cultural differences of a country set about 3000 miles South and 30 years back in time from my own.

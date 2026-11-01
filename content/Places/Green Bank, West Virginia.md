@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Green Bank, West Virginia
-created: 2026-10-21T22:25:30.000Z
-modified: 2026-11-01T00:09:20.762Z
-published: 2026-11-01T00:09:20.762Z
 aliases:
   - Green Bank
+title: Green Bank, West Virginia
+created: 2026-10-21T22:25:30.000Z
+modified: 2026-11-01T00:09:21.000Z
+published: 2026-11-01T00:09:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Green Bank, West Virginia.svg
 books:
   - The Land without Cell Service
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 38.42
   - -79.8314
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Virginia]]"
 image: Attachments/Places/Green Bank, West Virginia.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Green Bank, West Virginia.svg
 Tiny town in the mountains of [[West Virginia]], home of the Green Bank Telescope inside a zone where wireless signals are banned. A LifeEdited post describes it as the land without cell service.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Land without Cell Service | David Friedlander | subject | Town of 143 around a giant radio telescope, inside a zone where wireless signals are banned. |
 
 ## The Land without Cell Service — David Friedlander (2015)
+
 Source: [Original](http://www.lifeedited.com/the-land-without-cell-service/) · [Readwise highlight](https://read.readwise.io/read/01m5g8va9jhfbhx7hrfvky6hdb)
 
 > Green Bank WV is a tiny town (pop 143) located in the Blue Ridge Mountains, about one and half hours drive from nowhere.

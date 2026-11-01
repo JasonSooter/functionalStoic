@@ -2,8 +2,13 @@
 publish: true
 title: Forcalquier
 created: 2026-10-20T07:37:29.000Z
-modified: 2026-11-01T00:09:36.510Z
-published: 2026-11-01T00:09:36.510Z
+modified: 2026-11-01T00:09:37.000Z
+published: 2026-11-01T00:09:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Forcalquier.svg
 aliases: []
 books:
   - Forcalquier
@@ -15,10 +20,6 @@ icon: newspaper
 location:
   - 43.96
   - 5.7806
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Forcalquier.svg
 ---
@@ -28,11 +29,13 @@ image: Attachments/Places/Forcalquier.svg
 Hill town in Alpes-de-Haute-Provence, France, in [[Provence]]; it is the destination of the cycling ride described in the Mostly Bikes x Me post of the same name.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Forcalquier\|Forcalquier]] | Mostly Bikes x Me | journey waypoint | End of a ride from Sault, reached just ahead of the weather. |
 
 ## Forcalquier — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c3p12btc3jee027g0h6db9)
 
 > Rolled into Forcalquier mercifully ahead of the weather

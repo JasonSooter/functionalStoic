@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Daytona International Speedway
-created: 2026-10-20T19:35:47.000Z
-modified: 2026-10-31T21:09:25.192Z
-published: 2026-10-31T21:09:25.192Z
 aliases:
   - Daytona
+title: Daytona International Speedway
+created: 2026-10-20T19:35:47.000Z
+modified: 2026-10-31T21:09:25.000Z
+published: 2026-10-31T21:09:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Daytona International Speedway.svg
 books:
   - How fast could a human accellerate (while staying alive)?
   - How fast could a vehicle go around a track - but the racer does not have to survive.
@@ -19,10 +24,6 @@ icon: video
 location:
   - 29.1856
   - -81.0694
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 image: Attachments/Places/Daytona International Speedway.svg
 ---
@@ -32,6 +33,7 @@ image: Attachments/Places/Daytona International Speedway.svg
 Motor-racing circuit at Daytona Beach, [[Florida]], USA, home of the Daytona 500; it is the yardstick track in two xkcd What If? videos on survivable acceleration and speed.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/How Fast Could a Human Accellerate (While Staying Alive).md\|How fast could a human accellerate (while staying alive)?]] | xkcd's What If? | subject | Its banked turns set the limit for a human-survivable top speed. |
@@ -39,6 +41,7 @@ Motor-racing circuit at Daytona Beach, [[Florida]], USA, home of the Daytona 500
 | What if NASCAR had no rules? | xkcd's What If? | subject | Yardstick oval whose curves and 200-lap race set the human-survivable limit in the thought experiment. |
 
 ## How fast could a human accellerate (while staying alive)? — xkcd's What If? (2025)
+
 Source: [Original](https://www.youtube.com/shorts/eSPcp-tfGbA) · [Readwise highlight](https://read.readwise.io/read/01m5dck3pn9erm79p68y48vvcx)
 
 > If we limit our vehicle to 4 Gs, its top speed on the turns at Daytona will be about 240 mph.
@@ -48,6 +51,7 @@ Source: [Original](https://www.youtube.com/shorts/eSPcp-tfGbA) · [Readwise high
 - **Why it matters:** The track supplies the numbers for the whole argument, though nothing about the place itself is described.
 
 ## How fast could a vehicle go around a track - but the racer does not have to survive. — xkcd's What If? (2025)
+
 Source: [Original](https://www.youtube.com/shorts/rgUfcFAPicY) · [Readwise highlight](https://read.readwise.io/read/01m5dck2487jna5sxj4cxn6yp2)
 
 > Human biology limits us to Daytona finishing times over an hour.
@@ -57,6 +61,7 @@ Source: [Original](https://www.youtube.com/shorts/rgUfcFAPicY) · [Readwise high
 - **Why it matters:** Again the yardstick for a thought experiment rather than a described place.
 
 ## What if NASCAR had no rules? — xkcd's What If? (2024)
+
 Source: [Original](https://www.youtube.com/watch?v=JcXpCyPc2Xw) · [Readwise highlight](https://read.readwise.io/read/01m5fmr8tdzaqs4jbh6kkjcvby)
 
 > the Daytona Speedway in Florida has two main curves and if the vehicles go around them too fast the drivers will die from the acceleration alone

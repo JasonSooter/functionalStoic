@@ -2,8 +2,13 @@
 publish: true
 title: Crown Heights
 created: 2026-10-22T16:25:43.000Z
-modified: 2026-10-31T21:09:34.736Z
-published: 2026-10-31T21:09:34.736Z
+modified: 2026-10-31T21:09:35.000Z
+published: 2026-10-31T21:09:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Crown Heights.svg
 aliases: []
 books:
   - Before We Were Mr. and Mrs. Frugalwoods
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 40.673
   - -73.946
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
 image: Attachments/Places/Crown Heights.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Crown Heights.svg
 Neighbourhood in central [[Brooklyn]], New York City. Mrs. Frugalwoods lived here on an AmeriCorps stipend in 2006, the broke starting point of the couple's frugality.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Before We Were Mr. and Mrs. Frugalwoods | Mrs. Frugalwoods | setting | Her AmeriCorps year on food stamps in a dingy shared flat with mice and cockroaches. |
 
 ## Before We Were Mr. and Mrs. Frugalwoods — Mrs. Frugalwoods (2016)
+
 Source: [Original](https://www.frugalwoods.com/2016/01/28/before-we-were-mr-and-mrs-frugalwoods/) · [Readwise highlight](https://read.readwise.io/read/01m5j6jrvw48mfx63gppqk6t23)
 
 > I was living in Brooklyn, New York with two roommates in Crown Heights–a neighborhood that no one would describe as “safe” in 2006.

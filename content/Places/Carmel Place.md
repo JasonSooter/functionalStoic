@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Carmel Place
-created: 2026-10-21T19:58:45.000Z
-modified: 2026-10-31T20:48:14.462Z
-published: 2026-10-31T20:48:14.462Z
 aliases:
   - My Micro NY
+title: Carmel Place
+created: 2026-10-21T19:58:45.000Z
+modified: 2026-10-31T20:48:14.000Z
+published: 2026-10-31T20:48:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Carmel Place.svg
 books:
   - Where’s the Best Place in North America to Live an Edited Life?
   - NYC’s First Micro-Apartment Building is (Almost) Ready to Rock
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 40.7399
   - -73.9774
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Carmel Place.svg
 ---
@@ -38,6 +39,7 @@ Micro-apartment building in Kips Bay, Manhattan, first known as My Micro NY. In 
 | NYC’s First Micro-Apartment Building is (Almost) Ready to Rock | David Friedlander | subject | Leasing starts: 265–323 sq ft prefab units trucked in from Brooklyn, with 60,000 applications for 14 affordable flats. |
 
 ## Where’s the Best Place in North America to Live an Edited Life? — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/wheres-the-best-place-in-north-america-to-live-an-edited-life/) · [Readwise highlight](https://read.readwise.io/read/01m5g0ehcb7mfnywvs06k2wkf6)
 
 > Make no mistake, My Micro is a significant step in the right direction for giving more housing options to New Yorkers.
@@ -47,6 +49,7 @@ Source: [Original](https://lifeedited.com/wheres-the-best-place-in-north-america
 - **Why it matters:** It is the post's example of how little the city is doing about housing costs.
 
 ## NYC’s First Micro-Apartment Building is (Almost) Ready to Rock — David Friedlander (2015)
+
 Source: [Original](http://lifeedited.com/carmel-place-micro-apartment-buildnig/) · [Readwise highlight](https://read.readwise.io/read/01m5hk57xst71pf4p2r751rfh7)
 
 > all of the units were prefabricated in the Brooklyn Navy Yard then trucked over the Manhattan bridge to the Kip’s Bay neighborhood of Manhattan.

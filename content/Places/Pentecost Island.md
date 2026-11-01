@@ -2,8 +2,12 @@
 publish: true
 title: Pentecost Island
 created: 2026-10-22T13:41:10.000Z
-modified: 2026-10-31T19:36:27.570Z
-published: 2026-10-31T19:36:27.570Z
+modified: 2026-10-31T19:36:28.000Z
+published: 2026-10-31T19:36:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air
@@ -17,10 +21,6 @@ icon: book
 location:
   - -15.7606
   - 168.1897
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vanuatu]]"
 ---
 
@@ -29,11 +29,13 @@ within: "[[Vanuatu]]"
 Island in northern Vanuatu known for its land-diving ritual; in _Life on Air_ Attenborough films the divers for the first time.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | subject | Attenborough films the divers for the first time. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3jhvvph32adyq87ae485)
 
 > On the southern tip of the island of Pentecost in the northern part of Vanuatu, the people indulged in land-diving.

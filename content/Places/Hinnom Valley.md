@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Hinnom Valley
-created: 2026-10-22T16:49:17.000Z
-modified: 2026-11-01T00:09:34.638Z
-published: 2026-11-01T00:09:34.638Z
 aliases:
   - Gehenna
   - Valley of Hinnom
+title: Hinnom Valley
+created: 2026-10-22T16:49:17.000Z
+modified: 2026-11-01T00:09:35.000Z
+published: 2026-11-01T00:09:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hinnom Valley.svg
 books:
   - "[[Apeirogon]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 31.7697
   - 35.2267
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jerusalem]]"
 image: Attachments/Places/Hinnom Valley.svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/Hinnom Valley.svg
 Valley below Mount Zion on the edge of Jerusalem's Old City. In _Apeirogon_ a 1948 cable cart crossed it carrying wounded soldiers.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | A 1948 cable that carried the wounded across the valley, later walked by Philippe Petit. |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7wc4me177j4mssqyqs43f)
 
 > In the ’48 war Moti Richler guarded a primitive cart that ran on a metal cable strung across the Hinnom Valley in Jerusalem.

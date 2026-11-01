@@ -2,8 +2,12 @@
 publish: true
 title: Tabibuga
 created: 2026-10-22T13:40:49.000Z
-modified: 2026-10-31T19:35:21.519Z
-published: 2026-10-31T19:35:21.519Z
+modified: 2026-10-31T19:35:22.000Z
+published: 2026-10-31T19:35:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air
@@ -16,10 +20,6 @@ icon: book
 location:
   - -5.6
   - 144.68
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Papua New Guinea]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Papua New Guinea]]"
 Remote patrol station in the Jimi Valley, Papua New Guinea; in _Life on Air_ the base of Attenborough's 1957 trek into uncontrolled territory.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The base of Attenborough's 1957 trek into uncontrolled territory. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx34rajsjqnc1dvz754nb8)
 
 > The path ahead broadened and opened out into the red-earthed open arena I had seen from the forest above. At least a thousand people were there awaiting us.

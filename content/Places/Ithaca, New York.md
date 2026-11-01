@@ -2,8 +2,13 @@
 publish: true
 title: Ithaca, New York
 created: 2026-10-23T04:28:37.000Z
-modified: 2026-11-01T00:33:01.599Z
-published: 2026-11-01T00:33:01.599Z
+modified: 2026-11-01T00:33:02.000Z
+published: 2026-11-01T00:33:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ithaca, New York.svg
 aliases: []
 books:
   - For a More Creative Brain Follow These 5 Steps
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 42.4433,-76.5
-geo_note: approximate (city point; Cornell University campus is a separate feature
-  in the city)
+geo_note: approximate (city point; Cornell University campus is a separate feature in the city)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 42.4433
   - -76.5
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York]]"
 image: Attachments/Places/Ithaca, New York.svg
 ---
@@ -31,6 +31,7 @@ image: Attachments/Places/Ithaca, New York.svg
 City at the south end of Cayuga Lake, home of Cornell University. Frederic Ives learned printing there before inventing halftone.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | For a More Creative Brain Follow These 5 Steps | James Clear | setting | Frederic Ives learns printing as an apprentice in Ithaca, then runs Cornell's photographic lab and experiments there through the 1870s |
@@ -40,6 +41,7 @@ City at the south end of Cayuga Lake, home of Cornell University. Frederic Ives 
 - [[Cornell University]]
 
 ## For a More Creative Brain Follow These 5 Steps — James Clear (2016)
+
 Source: [Original](https://jamesclear.com/five-step-creative-process) · [Readwise highlight](https://read.readwise.io/read/01m5jx82w0gkw8hfsw8jaab2em)
 
 > Ives got his start as a printer’s apprentice in Ithaca, New York. After two years of learning the ins and outs of the printing process, he began managing the photographic laboratory at nearby Cornell University.

@@ -2,8 +2,13 @@
 publish: true
 title: Dwight School
 created: 2026-10-23T05:12:25.000Z
-modified: 2026-10-31T21:25:20.988Z
-published: 2026-10-31T21:25:20.988Z
+modified: 2026-10-31T21:25:21.000Z
+published: 2026-10-31T21:25:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Dwight School.svg
 aliases: []
 books:
   - "[[The Nordic Theory of Everything]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 40.7875
   - -73.9681
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Dwight School.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Dwight School.svg
 Private school on the Upper West Side of Manhattan. In _The Nordic Theory of Everything_ the Finnish educator Pasi Sahlberg mentions there, in passing, that Finland has no private schools.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Nordic Theory of Everything]] | Anu Partanen | setting | Pasi Sahlberg tells a private-school audience, almost unnoticed, that Finland has no private schools. |
 
 ## The Nordic Theory of Everything — Anu Partanen (2016)
+
 Source: [[The Nordic Theory of Everything]] · [Original](https://openlibrary.org/works/OL20028831W) · [Readwise highlight](https://read.readwise.io/read/01m5kjfm6053adzm9kd160sn32)
 
 > As he sat in an Upper West Side classroom at the Dwight School, directly across from Central Park, surrounded by students, teachers, and visitors, America’s fascination with Finnish education was on full display.

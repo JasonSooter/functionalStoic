@@ -2,8 +2,13 @@
 publish: true
 title: Glen Echo Creek
 created: 2026-10-21T04:44:46.000Z
-modified: 2026-11-01T00:09:24.114Z
-published: 2026-11-01T00:09:24.114Z
+modified: 2026-11-01T00:09:24.000Z
+published: 2026-11-01T00:09:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Glen Echo Creek.svg
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 37.8106
   - -122.2617
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oakland]]"
 image: Attachments/Places/Glen Echo Creek.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Glen Echo Creek.svg
 Creek and parklet in [[Oakland]], California, where Jenny Odell sits to collect herself after a seizure in How to Do Nothing.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | After the seizure she sits in the parklet, seeing the familiar scene against the possibility of nonexistence. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebv3pfc8n9kmz49qswmymt)
 
 > I stopped in a parklet next to Glen Echo Creek to collect myself.

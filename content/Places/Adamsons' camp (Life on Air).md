@@ -2,8 +2,8 @@
 publish: true
 title: Adamsons' camp (Life on Air)
 created: 2026-10-22T13:41:15.000Z
-modified: 2026-10-31T16:22:11.000Z
-published: 2026-10-31T16:22:11.000Z
+modified: 2026-10-31T19:36:39.000Z
+published: 2026-10-31T19:36:39.000Z
 tags:
   - places
   - place/literary
@@ -11,7 +11,7 @@ tags:
 socialImage: Attachments/Places/Adamsons' camp (Life on Air).svg
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: gray
@@ -20,11 +20,11 @@ coordinates: 0.0936,38.2081
 geo_note: "best-guess: the book says only 'the far north of Kenya'; Elsa was released and buried in Meru National Park (Wikipedia), pinned at the park's point"
 geo_source: Wikipedia (en) (Meru National Park)
 icon: book
+image: Attachments/Places/Adamsons' camp (Life on Air).svg
 location:
   - 0.0936
   - 38.2081
 within: "[[Kenya]]"
-image: Attachments/Places/Adamsons' camp (Life on Air).svg
 ---
 
 # Adamsons' camp (Life on Air)
@@ -35,9 +35,9 @@ Joy and George Adamson's camp in northern Kenya, where Elsa the lioness lived; p
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | setting | Attenborough wakes on a sand bank to find Elsa the lioness standing over him. |
+| Life on Air | David Attenborough | setting | Attenborough wakes on a sand bank to find Elsa the lioness standing over him. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1rxbn1t5aktmgfnty2se)
 

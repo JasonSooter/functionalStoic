@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Col du Lautaret
-created: 2026-10-20T01:34:10.000Z
-modified: 2026-10-31T21:09:28.104Z
-published: 2026-10-31T21:09:28.104Z
 aliases:
   - Lautaret
   - Hotel du Glacier
+title: Col du Lautaret
+created: 2026-10-20T01:34:10.000Z
+modified: 2026-10-31T21:09:28.000Z
+published: 2026-10-31T21:09:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Col du Lautaret.svg
 books:
   - Col du Lautaret
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 45.0344
   - 6.405
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[French Alps]]"
 image: Attachments/Places/Col du Lautaret.svg
 ---
@@ -30,6 +31,7 @@ image: Attachments/Places/Col du Lautaret.svg
 Road pass in the Hautes-Alpes between the Romanche and Guisane valleys, at the foot of the Galibier, in the [[French Alps]], climbed through old tunnels in a Mostly Bikes x Me photo post.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Col Du Lautaret\|Col du Lautaret]] | Mostly Bikes x Me | journey waypoint | Old tunnels for shade on the climb, and a hotel from another era at the top. |

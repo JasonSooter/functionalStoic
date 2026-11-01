@@ -2,8 +2,13 @@
 publish: true
 title: East 182nd Street (The Caves of Steel)
 created: 2026-10-22T10:27:35.000Z
-modified: 2026-10-31T21:25:24.448Z
-published: 2026-10-31T21:25:24.448Z
+modified: 2026-10-31T21:25:24.000Z
+published: 2026-10-31T21:25:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/East 182nd Street (The Caves of Steel).svg
 aliases: []
 books:
   - The Caves of Steel
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 40.8544,-73.8946
-geo_note: "inferred: the text names East 182nd Street in the Bronx; point on the street\
-  \ is approximate"
+geo_note: "inferred: the text names East 182nd Street in the Bronx; point on the street is approximate"
 geo_source: OSM way 153015250
 icon: book
 location:
   - 40.8544
   - -73.8946
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/East 182nd Street (The Caves of Steel).svg
 ---
@@ -32,11 +32,13 @@ image: Attachments/Places/East 182nd Street (The Caves of Steel).svg
 A street in the Lower Bronx Section of a future [[New York City]] in Isaac Asimov's The Caves of Steel, near Baley's apartment, where a shoe-store riot breaks out.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Caves of Steel | Isaac Asimov | turning point | Near Baley’s home, a crowd turns on robot clerks at a shoe counter and Daneel faces it down. |
 
 ## The Caves of Steel — Isaac Asimov (1954)
+
 Source: [Original](https://openlibrary.org/works/OL46401W) · [Readwise highlight](https://read.readwise.io/read/01m5hj3m19qmvhf59aqakw04gc)
 
 > They were at East 182nd Street and in not more than two hundred yards they would be at the elevator banks that fed those steel and concrete layers of apartments that included his own.

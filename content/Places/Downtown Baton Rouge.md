@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Downtown Baton Rouge
-created: 2026-10-21T13:55:35.000Z
-modified: 2026-10-31T21:24:56.639Z
-published: 2026-10-31T21:24:56.639Z
 aliases:
   - Baton Rouge
+title: Downtown Baton Rouge
+created: 2026-10-21T13:55:35.000Z
+modified: 2026-10-31T21:24:57.000Z
+published: 2026-10-31T21:24:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Downtown Baton Rouge.svg
 books:
   - "[[Walkable City]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 30.4475
   - -91.1786
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Louisiana]]"
 image: Attachments/Places/Downtown Baton Rouge.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Downtown Baton Rouge.svg
 Downtown Baton Rouge is the city centre of Baton Rouge, Louisiana. It turns up in Walkable City (Jeff Speck): Twice-used cautionary tale on enclosure and height limits.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | setting | From the top of a bank tower, Speck saw a checkerboard city with every built block surrounded by parking. |
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbnh66vts6w2n424zhpfsn)
 
 > I remember in 1998, when I was helping Andres Duany redesign downtown Baton Rouge and we were taken to the top floor of the tallest banking tower for a bird’s-eye view

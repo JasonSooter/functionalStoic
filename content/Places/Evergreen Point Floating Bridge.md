@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Evergreen Point Floating Bridge
-created: 2026-10-20T22:56:13.000Z
-modified: 2026-10-31T21:25:35.221Z
-published: 2026-10-31T21:25:35.221Z
 aliases:
   - Evergreen Point Bridge
   - Governor Albert D. Rosellini Bridge
   - SR 520 bridge
+title: Evergreen Point Floating Bridge
+created: 2026-10-20T22:56:13.000Z
+modified: 2026-10-31T21:25:35.000Z
+published: 2026-10-31T21:25:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Evergreen Point Floating Bridge.svg
 books:
   - The Hidden Engineering of Floating Bridges
 categories:
@@ -20,10 +25,6 @@ icon: newspaper
 location:
   - 47.6403
   - -122.2562
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Seattle]]"
 image: Attachments/Places/Evergreen Point Floating Bridge.svg
 ---
@@ -33,11 +34,13 @@ image: Attachments/Places/Evergreen Point Floating Bridge.svg
 Floating bridge carrying SR 520 across Lake Washington in [[Seattle|Seattle]]. It appears in Wesley Crump's article on floating-bridge engineering as an example of elevated approach spans and pontoon construction.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Hidden Engineering of Floating Bridges | Wesley Crump | subject | Example of elevated approach spans for passing ships, and of heated pontoon slabs on the replacement bridge. |
 
 ## The Hidden Engineering of Floating Bridges — Wesley Crump (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/7/15/the-hidden-engineering-of-floating-bridges) · [Readwise highlight](https://read.readwise.io/read/01m5dqwrergwhzhfznkxm67a41)
 
 > The Evergreen Point Floating Bridge includes elevated approach spans on either end, allowing ships to pass beneath before the road descends to water level.

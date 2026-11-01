@@ -2,13 +2,17 @@
 publish: true
 title: Burlington, Vermont
 created: 2026-10-21T22:56:53.000Z
-modified: 2026-10-31T20:48:14.794Z
-published: 2026-10-31T20:48:14.794Z
+modified: 2026-10-31T20:48:15.000Z
+published: 2026-10-31T20:48:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Burlington, Vermont.svg
 aliases: []
 books:
   - Updates On The Lives Of Some Frugal Weirdos
-  - "Bernie Sanders Does His Own Laundry (and Grocery Shopping): Inside the Family\
-    \ Life of the Down-to-Earth Democratic Candidate"
+  - "Bernie Sanders Does His Own Laundry (and Grocery Shopping): Inside the Family Life of the Down-to-Earth Democratic Candidate"
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 44.4761
   - -73.2131
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vermont]]"
 image: Attachments/Places/Burlington, Vermont.svg
 ---
@@ -38,6 +38,7 @@ City on Lake Champlain in [[Vermont]]. In a Frugalwoods post the couple tag alon
 | Bernie Sanders Does His Own Laundry (and Grocery Shopping): Inside the Family Life of the Down-to-Earth Democratic Candidate | Sandra Sobieraj Westfall | setting | Sanders's modest colonial home: kitchen table, basement dryer, firewood. |
 
 ## Updates On The Lives Of Some Frugal Weirdos — Mrs. Frugalwoods (2015)
+
 Source: [Original](https://www.frugalwoods.com/2015/07/31/updates-on-the-lives-of-some-frugal-weirdos/) · [Readwise highlight](https://read.readwise.io/read/01m5gan6nvme0e592jxt3183wz)
 
 > Mr. FW must attend a work conference in Burlington, Vermont this weekend and so, spying an opportunity to revel in his free hotel and per diem together, I’m tagging along.
@@ -47,6 +48,7 @@ Source: [Original](https://www.frugalwoods.com/2015/07/31/updates-on-the-lives-o
 - **Why it matters:** A small example of the couple's 'free travel' habit.
 
 ## Bernie Sanders Does His Own Laundry (and Grocery Shopping): Inside the Family Life of the Down-to-Earth Democratic Candidate — Sandra Sobieraj Westfall (2016)
+
 Source: [Original](http://www.people.com/article/bernie-sanders-family-home-life) · [Readwise highlight](https://read.readwise.io/read/01m5j6jvp5n64x79k01tcfk3vm)
 
 > And that much was plain to see when PEOPLE stopped by to visit Sanders and his family at his modest colonial home in Burlington, Vermont, last month.

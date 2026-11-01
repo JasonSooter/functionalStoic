@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Gomantong Cave
-created: 2026-10-22T13:41:35.000Z
-modified: 2026-11-01T00:09:33.430Z
-published: 2026-11-01T00:09:33.430Z
 aliases:
   - Gomantong Caves
+title: Gomantong Cave
+created: 2026-10-22T13:41:35.000Z
+modified: 2026-11-01T00:09:33.000Z
+published: 2026-11-01T00:09:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gomantong Cave.svg
 books:
   - Life on Air
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 5.5167
   - 118.0667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Borneo]]"
 image: Attachments/Places/Gomantong Cave.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Gomantong Cave.svg
 Limestone cave system in Sabah, Malaysian Borneo, known for swiftlet nests; in _Life on Air_ the crew climbs its guano dune.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The crew climbs its guano dune. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3gsdkn1t7anfsafvr4df)
 
 > Since Niah had already been filmed, Richard had decided to go to another nest-producing cave, Gomanton, on the other side of Borneo, in Sabah.

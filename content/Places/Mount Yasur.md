@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Mount Yasur
-created: 2026-10-22T13:41:11.000Z
-modified: 2026-10-31T19:35:30.243Z
-published: 2026-10-31T19:35:30.243Z
 aliases:
   - Yahuwey
   - Yasur
+title: Mount Yasur
+created: 2026-10-22T13:41:11.000Z
+modified: 2026-10-31T19:35:30.000Z
+published: 2026-10-31T19:35:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Life on Air
 categories:
@@ -18,10 +22,6 @@ icon: book
 location:
   - -19.5283
   - 169.4483
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tanna]]"
 ---
 
@@ -30,11 +30,13 @@ within: "[[Tanna]]"
 Active volcano on Tanna, Vanuatu; in _Life on Air_ the sacred mountain of the John Frum cult (the book's 'Yahuwey').
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The sacred mountain of the John Frum cult (the book's 'Yahuwey'). |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1njxrm5340g4w3dkss9j)
 
 > But Yahuwey had an atmosphere I have not encountered on any other. It was eerie.

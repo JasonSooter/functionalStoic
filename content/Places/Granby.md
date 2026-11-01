@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Granby
-created: 2026-10-21T16:38:15.000Z
-modified: 2026-11-01T00:09:43.190Z
-published: 2026-11-01T00:09:43.190Z
 aliases:
   - Granby, CO
+title: Granby
+created: 2026-10-21T16:38:15.000Z
+modified: 2026-11-01T00:09:43.000Z
+published: 2026-11-01T00:09:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Granby.svg
 books:
   - Listening to Coloradans 💭
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 40.0647
   - -105.9194
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Granby.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Granby.svg
 Town in Grand County, Colorado, west of the Continental Divide. It turns up in Listening to Coloradans 💭 (Congressman Joe Neguse): site of the town hall that anchors the Grand County listening tour.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Listening to Coloradans 💭 | Congressman Joe Neguse | setting | Site of the town hall that anchors the Grand County listening tour. |
 
 ## Listening to Coloradans 💭 — Congressman Joe Neguse (2024)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5fmqnzx5m7mt4h6xbrwkwxe)
 
 > Over the weekend, I had the opportunity to travel throughout Grand County, including visiting with the dedicated folks at the National Sports Center for the Disabled in Winter Park, meeting with local leaders, county officials and law enforcement in Fraser, and hosting a terrific town hall in Granby, where we heard from many constituents about the issues they care most about.

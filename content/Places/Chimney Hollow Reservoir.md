@@ -2,8 +2,13 @@
 publish: true
 title: Chimney Hollow Reservoir
 created: 2026-10-20T19:35:36.000Z
-modified: 2026-10-31T20:48:19.423Z
-published: 2026-10-31T20:48:19.423Z
+modified: 2026-10-31T20:48:19.000Z
+published: 2026-10-31T20:48:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chimney Hollow Reservoir.svg
 aliases: []
 books:
   - Why Is Colorado Building a 22 MILLION TON Rock Wall in the Rocky Mountains?
@@ -18,10 +23,6 @@ icon: video
 location:
   - 40.3722
   - -105.2278
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Chimney Hollow Reservoir.svg
 ---
@@ -31,12 +32,14 @@ image: Attachments/Places/Chimney Hollow Reservoir.svg
 New reservoir and dam west of Loveland, [[Colorado]], USA, the subject of a video tour of America's largest new dam project in decades.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why Is Colorado Building a 22 MILLION TON Rock Wall in the Rocky Mountains\|Why Is Colorado Building a 22 MILLION TON Rock Wall in the Rocky Mountains?]] | Aaron Witt | subject | America's largest new dam project in decades, toured from crest to quarry. |
 | Main Dam Hits Halfway Mark | northernwater.org | subject | The page reports the main dam reaching elevation 5699.5 feet in March 2024, the halfway mark to the eventual 350-foot-tall dam. |
 
 ## Why Is Colorado Building a 22 MILLION TON Rock Wall in the Rocky Mountains? — Aaron Witt (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=0eFTrOpueYE) · [Readwise highlight](https://read.readwise.io/read/01m5dcjth64xbhb0shy1z0gv8m)
 
 > The Chimney Hollow Reservoir is a collaboration between 12 northeastern Colorado water providers to provide consistent and clean water year round for about 825,000 people.
@@ -46,6 +49,7 @@ Source: [Original](https://www.youtube.com/watch?v=0eFTrOpueYE) · [Readwise hig
 - **Why it matters:** The subject of the video; storage here lets Front Range communities draw West Slope water at a steady rate.
 
 ## Main Dam Hits Halfway Mark — northernwater.org
+
 Source: [Original](https://www.northernwater.org/CHRP) · [Readwise highlight](https://read.readwise.io/read/01m5fbgc1f1ckn61gv8jytw3tv)
 
 > Chimney Hollow Reservoir will be located just west of Carter Lake in Larimer County to provide dedicated storage to supply a reliable 30,000 acre-feet of water each year for future generations.

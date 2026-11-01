@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Fuqing Nuclear Power Plant
-created: 2026-10-20T02:09:41.000Z
-modified: 2026-11-01T00:09:27.454Z
-published: 2026-11-01T00:09:27.454Z
 aliases:
   - Fuqing
+title: Fuqing Nuclear Power Plant
+created: 2026-10-20T02:09:41.000Z
+modified: 2026-11-01T00:09:27.000Z
+published: 2026-11-01T00:09:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Fuqing Nuclear Power Plant.svg
 books:
   - Why China is Winning The Nuclear Power Race
 categories:
@@ -16,10 +21,6 @@ icon: video
 location:
   - 25.4458
   - 119.4472
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Fuqing Nuclear Power Plant.svg
 ---
 
@@ -28,11 +29,13 @@ image: Attachments/Places/Fuqing Nuclear Power Plant.svg
 Nuclear power station on the coast of Fujian, China, shown in a B1M video as the proof that China builds reactors faster than anyone else.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why China is Winning The Nuclear Power Race | The B1M | subject | Where the first Hualong One reactor was built in record time. |
 
 ## Why China is Winning The Nuclear Power Race — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=uTCA6RZmQbY) · [Readwise highlight](https://read.readwise.io/read/01m5bfwwpve92pkgm1sgyh0x26)
 
 > Construction began in 2015, with the pouring of the first concrete for the reactor containment building.

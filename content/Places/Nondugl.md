@@ -2,8 +2,12 @@
 publish: true
 title: Nondugl
 created: 2026-10-22T13:40:45.000Z
-modified: 2026-10-31T19:35:20.470Z
-published: 2026-10-31T19:35:20.470Z
+modified: 2026-10-31T19:35:20.000Z
+published: 2026-10-31T19:35:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air
@@ -16,10 +20,6 @@ icon: book
 location:
   - -5.8614
   - 144.7698
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Wahgi Valley]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Wahgi Valley]]"
 Former experimental farm and station in the Wahgi Valley, Papua New Guinea highlands; the base of Attenborough's 1957 bird-of-paradise quest in _Life on Air_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The base of Attenborough's 1957 bird-of-paradise quest. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2xvzkzvs8yjdbzfwxah9)
 
 > He had set up an experimental farm at Nondugl in the central highlands of New Guinea which was attempting to establish sheep in those high pastures.

@@ -2,8 +2,8 @@
 publish: true
 title: Bima
 created: 2026-10-22T13:40:48.000Z
-modified: 2026-10-31T17:39:42.000Z
-published: 2026-10-31T17:39:42.000Z
+modified: 2026-10-31T19:36:32.000Z
+published: 2026-10-31T19:36:32.000Z
 tags:
   - places
   - place/literary
@@ -11,18 +11,18 @@ tags:
 socialImage: Attachments/Places/Bima.svg
 aliases: []
 books:
-  - Life on Air [revised & updated 2nd edition]
+  - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: -8.46,118.7267
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Bima.svg
 location:
   - -8.46
   - 118.7267
 within: "[[Indonesia]]"
-image: Attachments/Places/Bima.svg
 ---
 
 # Bima
@@ -33,9 +33,9 @@ Port town on Sumbawa, Indonesia; in _Life on Air_ the Zoo Quest team waits there
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Life on Air \[revised & updated 2nd edition] | David Attenborough | journey waypoint | The Zoo Quest team waits there three days for a flight home. |
+| Life on Air | David Attenborough | journey waypoint | The Zoo Quest team waits there three days for a flight home. |
 
-## Life on Air \[revised & updated 2nd edition] — David Attenborough (2002)
+## Life on Air — David Attenborough (2002)
 
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2s633fjw4ca3b7zcs594)
 

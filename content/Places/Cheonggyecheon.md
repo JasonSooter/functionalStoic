@@ -2,8 +2,13 @@
 publish: true
 title: Cheonggyecheon
 created: 2026-10-21T13:55:20.000Z
-modified: 2026-10-31T20:48:48.281Z
-published: 2026-10-31T20:48:48.281Z
+modified: 2026-10-31T20:48:48.000Z
+published: 2026-10-31T20:48:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cheonggyecheon.svg
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 37.57
   - 127.0064
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South Korea]]"
 image: Attachments/Places/Cheonggyecheon.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Cheonggyecheon.svg
 Cheonggyecheon is a stream through central Seoul, South Korea, uncovered when an elevated expressway was removed. It turns up in Walkable City (Jeff Speck): It is the book's flagship case for reduced demand: removing a road that carried 168,000 cars a day made the traffic go away.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Speck tells the story of the Seoul elevated freeway teardown: a grassroots effort that a mayoral candidate, Lee Myung-bak, adopted and… |
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjqbkwv1tdk79gf74h32f)
 
 > The most celebrated, and properly so, has got to be the Cheonggyecheon (pronounced chung-yay-chun) Freeway in Seoul, where a traffic-choked elevated expressway was hauled down in the mid-2000s, daylighting the river that it had obscured for half a century.

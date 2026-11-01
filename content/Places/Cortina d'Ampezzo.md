@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Cortina d'Ampezzo
-created: 2026-10-20T02:09:24.000Z
-modified: 2026-10-31T21:10:04.205Z
-published: 2026-10-31T21:10:04.205Z
 aliases:
   - Cortina
+title: Cortina d'Ampezzo
+created: 2026-10-20T02:09:24.000Z
+modified: 2026-10-31T21:10:04.000Z
+published: 2026-10-31T21:10:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cortina d'Ampezzo.svg
 books:
   - DOLOMITES!
 categories:
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 46.5403
   - 12.1361
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dolomites]]"
 image: Attachments/Places/Cortina d'Ampezzo.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Cortina d'Ampezzo.svg
 Mountain resort town in the [[Dolomites]] of northern Italy, which a cycling post calls a traffic-choked luxury town to escape by steep detours.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Dolomites!\|DOLOMITES!]] | Mostly Bikes x Me | journey waypoint | A traffic-choked luxury town, escaped by steep detours with views of the peaks. |
 
 ## DOLOMITES! — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfwrfzsx6s1r105d33gahv)
 
 > At the top of one particularly steep detour, a series of metal viewing tubes identified half a dozen peaks surrounding the town.

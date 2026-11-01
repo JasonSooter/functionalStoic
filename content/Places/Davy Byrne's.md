@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Davy Byrne's
-created: 2026-10-23T11:13:33.000Z
-modified: 2026-10-31T21:09:21.460Z
-published: 2026-10-31T21:09:21.460Z
 aliases:
   - Davy Byrnes
+title: Davy Byrne's
+created: 2026-10-23T11:13:33.000Z
+modified: 2026-10-31T21:09:21.000Z
+published: 2026-10-31T21:09:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Davy Byrne's.svg
 books:
   - The Country Girls Trilogy
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 53.3419
   - -6.2593
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dublin]]"
 image: Attachments/Places/Davy Byrne's.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Davy Byrne's.svg
 Historic pub on Duke Street, off Grafton Street in Dublin, known from Joyce's _Ulysses_. In _The Country Girls Trilogy_ Kate and Baba share one Pernod there, hoping to be bought drinks.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | setting | The Duke Street bar where the broke girls split a single Pernod and wait for a man to buy them drinks. |
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
+
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m75vamdctabwyqfaqkr2k8)
 
 > Then we went to Davy Byrnes’s cocktail bar and ordered a Pernod between us.

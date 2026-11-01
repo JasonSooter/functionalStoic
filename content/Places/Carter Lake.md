@@ -2,8 +2,13 @@
 publish: true
 title: Carter Lake
 created: 2026-10-21T13:56:30.000Z
-modified: 2026-10-31T20:48:19.755Z
-published: 2026-10-31T20:48:19.755Z
+modified: 2026-10-31T20:48:20.000Z
+published: 2026-10-31T20:48:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Carter Lake.svg
 aliases: []
 books:
   - Colorado–Big Thompson Project - Wikipedia
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 40.3255
   - -105.2122
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Carter Lake.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Carter Lake.svg
 Carter Lake is a reservoir in the Colorado foothills west of Berthoud. It turns up in Colorado–Big Thompson Project - Wikipedia (wikipedia.org): Terminus of the southern branch.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Colorado–Big Thompson Project - Wikipedia | wikipedia.org | journey waypoint | The southern branch must be pumped into Carter Lake west of Berthoud, which then feeds the St. |
 
 ## Colorado–Big Thompson Project - Wikipedia — wikipedia.org (2005)
+
 Source: [Original](https://en.wikipedia.org/wiki/Colorado%E2%80%93Big_Thompson_Project) · [Readwise highlight](https://read.readwise.io/read/01m5fbh7f4gngm56navqth52p9)
 
 > During times of peak power demand, water can be released back from Carter into Flatiron via a

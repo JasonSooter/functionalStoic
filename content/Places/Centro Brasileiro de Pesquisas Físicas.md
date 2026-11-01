@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Centro Brasileiro de Pesquisas Físicas
-created: 2026-10-23T04:24:39.000Z
-modified: 2026-10-31T20:48:29.959Z
-published: 2026-10-31T20:48:29.959Z
 aliases:
   - CBPF
   - Center for Physical Research
+title: Centro Brasileiro de Pesquisas Físicas
+created: 2026-10-23T04:24:39.000Z
+modified: 2026-10-31T20:48:30.000Z
+published: 2026-10-31T20:48:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Centro Brasileiro de Pesquisas Físicas.svg
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -22.954
   - -43.1737
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rio de Janeiro]]"
 image: Attachments/Places/Centro Brasileiro de Pesquisas Físicas.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Centro Brasileiro de Pesquisas Físicas.svg
 Physics research centre in Rio de Janeiro, Brazil. In _Surely You're Joking, Mr. Feynman!_ Cesar Lattes invites Feynman there, and it is his base for his long stays in Brazil.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | setting | Cesar Lattes's "Center for Physical Research", Feynman's base in Rio, where he lectures in Portuguese. |
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
+
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfqbygw1est905djytvqj2)
 
 > Why don’t you come to Brazil? I’ll get a position for you at the Center for Physical Research.

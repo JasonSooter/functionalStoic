@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Hammerfest
-created: 2026-10-19T14:07:44.000Z
-modified: 2026-11-01T00:09:12.481Z
-published: 2026-11-01T00:09:12.481Z
 aliases:
   - Hammerfest, Norway
+title: Hammerfest
+created: 2026-10-19T14:07:44.000Z
+modified: 2026-11-01T00:09:12.000Z
+published: 2026-11-01T00:09:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hammerfest.svg
 books:
   - Neither Here Nor There
 categories:
@@ -15,10 +20,6 @@ icon: book
 location:
   - 70.6634
   - 23.6821
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Norway]]"
 coordinates: 70.6634,23.6821
 image: Attachments/Places/Hammerfest.svg
@@ -29,6 +30,7 @@ image: Attachments/Places/Hammerfest.svg
 Arctic town on the island of Kvaløya in Finnmark, northern [[Norway]]. It is the starting point of Bill Bryson's journey in Neither Here Nor There, where he waits out the polar night.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | Bryson spends weeks of polar night here waiting for the Northern Lights. |
@@ -38,6 +40,7 @@ Arctic town on the island of Kvaløya in Finnmark, northern [[Norway]]. It is th
 - [[Meridian Column, Hammerfest]]
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5a7pt72zjyhtkvcc2gvmgws)
 
 > After the war the people returned to Hammerfest to find nothing standing but the chapel. With their bare hands and almost nothing else, they built their town again, one house at a time.
