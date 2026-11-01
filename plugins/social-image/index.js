@@ -59,6 +59,48 @@ const embeds = (tree, file, target) => {
   return found
 }
 
+// Place hero SVGs carry both themes: dark by default, light when loaded as
+// `…/x.svg#light` (CSS :target on an element with id="light"). An <img> can't
+// see the page's CSS, so the theme has to travel in the URL fragment. This
+// runs in <head>, right after the darkmode plugin has set `saved-theme` on
+// <html>, and rewrites every matching <img> as the parser inserts it -- a
+// MutationObserver callback runs before the first paint, so there is no flash
+// of the wrong theme. The same observer follows the theme toggle (the
+// attribute changes), SPA navigation, hover popovers and anything else that
+// adds images later. Only `attachments/places/*.svg` is touched; the PNG link
+// previews stay dark.
+const THEMED_HERO_SCRIPT = `(() => {
+  const PLACE_SVG = /\\/attachments\\/places\\/[^/?#]+\\.svg$/i
+  const isLight = () => document.documentElement.getAttribute("saved-theme") === "light"
+  const theme = (img) => {
+    const raw = img.getAttribute("src")
+    if (!raw) return
+    let url
+    try { url = new URL(raw, document.baseURI) } catch { return }
+    if (!PLACE_SVG.test(url.pathname)) return
+    const fragment = isLight() ? "#light" : ""
+    if (url.hash === fragment) return
+    img.setAttribute("src", raw.split("#")[0] + fragment)
+  }
+  const sweep = (root) => {
+    if (root.tagName === "IMG") theme(root)
+    if (root.querySelectorAll) root.querySelectorAll("img").forEach(theme)
+  }
+  new MutationObserver((mutations) => {
+    for (const m of mutations) {
+      if (m.type === "attributes") sweep(document)
+      else m.addedNodes.forEach((n) => n.nodeType === 1 && sweep(n))
+    }
+  }).observe(document.documentElement, {
+    childList: true,
+    subtree: true,
+    attributes: true,
+    attributeFilter: ["saved-theme"],
+  })
+  document.addEventListener("themechange", () => sweep(document))
+  document.addEventListener("nav", () => sweep(document))
+})()`
+
 export const SocialImage = () => ({
   name: "SocialImage",
   htmlPlugins(ctx) {
@@ -117,6 +159,7 @@ export const SocialImage = () => ({
   // the dimensions for a user-supplied image. The rendered PNG's are known.
   externalResources() {
     return {
+      js: [{ loadTime: "beforeDOMReady", contentType: "inline", script: THEMED_HERO_SCRIPT }],
       additionalHead: [
         (fileData) =>
           fileData.socialImageSize
