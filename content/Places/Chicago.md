@@ -1,18 +1,15 @@
 ---
 publish: true
-aliases:
-  - Chicawgo
 title: Chicago
 created: 2026-10-20T10:42:40.000Z
-modified: 2026-10-23T04:59:26.000Z
-published: 2026-10-23T04:59:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T21:00:25.951Z
+published: 2026-11-01T21:00:25.951Z
+aliases:
+  - Chicawgo
 books:
   - "[[Big Boy Leaves Home]]"
-  - "Lessons From a Vexillonaire: Creativity, Simplicity, and the Carefully Constrained Life"
+  - "Lessons From a Vexillonaire: Creativity, Simplicity, and the Carefully Constrained\
+    \ Life"
   - Impulsive Rich Kid, Impulsive Poor Kid
   - The Chicago Bungalow
   - How A Million Dollars Bought Me Happiness
@@ -26,7 +23,12 @@ icon: book
 location:
   - 41.8819
   - -87.6278
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Illinois]]"
+image: Attachments/Places/Chicago.svg
 ---
 
 # Chicago
@@ -41,7 +43,7 @@ City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Ric
 | Lessons From a Vexillonaire: Creativity, Simplicity, and the Carefully Constrained Life | James Clear | subject | The city's flag, praised as one of the best, is the article's model of simple design. |
 | Impulsive Rich Kid, Impulsive Poor Kid | Priceonomics | subject | BAM therapy in schools on the south and west sides cut violent-crime arrests among young men. |
 | The Chicago Bungalow | David Friedlander | subject | The modest, dense brick bungalow built by the tens of thousands for immigrant families. |
-| How A Million Dollars Bought Me Happiness | Mr. 1500 | turning point | Where he wanders, numb, on the day his portfolio passes \$1 million. |
+| How A Million Dollars Bought Me Happiness | Mr. 1500 | turning point | Where he wanders, numb, on the day his portfolio passes $1 million. |
 | [[The Martian]] | Andy Weir | setting | A cutaway to a middle-aged couple in Chicago watching the rescue on TV. |
 
 ## Sub-places
@@ -62,7 +64,6 @@ City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Ric
 - [[Zanies Comedy Club (Chicago)]]
 
 ## Big Boy Leaves Home — Richard Wright (1936)
-
 Source: [[Big Boy Leaves Home]] · [Readwise highlight](https://read.readwise.io/read/01m5ce6rfc05qq7wymntgd6278)
 
 > Mah son, Will, the one whut drives fer the Magnolia Express Comny, is taking a truck o goods t Chicawgo in the mawnin.
@@ -72,7 +73,6 @@ Source: [[Big Boy Leaves Home]] · [Readwise highlight](https://read.readwise.io
 - **Why it matters:** Chicago is the story's only way out: the Great Migration in miniature. Set it anywhere else and the ending loses its historical charge.
 
 ## Lessons From a Vexillonaire: Creativity, Simplicity, and the Carefully Constrained Life — James Clear (2015)
-
 Source: [Original](https://jamesclear.com/vexillology) · [Readwise highlight](https://read.readwise.io/read/01m5g16qc9n25rk36gy5rhwgn9)
 
 > The flag of Chicago is widely regarded as one of the best city flags in the United States, perhaps in the world.
@@ -82,7 +82,6 @@ Source: [Original](https://jamesclear.com/vexillology) · [Readwise highlight](h
 - **Why it matters:** The flag carries the article's argument that simple, constrained design works best.
 
 ## Impulsive Rich Kid, Impulsive Poor Kid — Priceonomics (2015)
-
 Source: [Original](http://priceonomics.com/impulsive-rich-kid-impulsive-poor-kid/) · [Readwise highlight](https://read.readwise.io/read/01m5g8vj8a12n3pyp00tyaxy6m)
 
 > One of the interventions studied was the Becoming a Man (BAM) program, conducted in public schools with disadvantaged young males, grades 6-12, on the south and west sides of Chicago.
@@ -92,7 +91,6 @@ Source: [Original](http://priceonomics.com/impulsive-rich-kid-impulsive-poor-kid
 - **Why it matters:** The high-crime neighbourhoods are the field site and the reason the article argues that 'impulsive' reactions can be adaptive.
 
 ## The Chicago Bungalow — David Friedlander (2015)
-
 Source: [Original](http://lifeedited.com/the-chicago-bungalow/) · [Readwise highlight](https://read.readwise.io/read/01m5gancgvr7zeztbjz798aqed)
 
 > One supply solution to this demand came in the form of the Chicago Bungalow–a modest, solidly-built, densely laid out single family house that spread throughout the midwestern city’s borders.
@@ -102,17 +100,15 @@ Source: [Original](http://lifeedited.com/the-chicago-bungalow/) · [Readwise hig
 - **Why it matters:** The city's housing type is the subject, held up as a model of modest, dense family housing.
 
 ## How A Million Dollars Bought Me Happiness — Mr. 1500 (2016)
-
 Source: [Original](https://www.investmentzen.com/blog/how-a-million-dollars-bought-me-happiness/) · [Readwise highlight](https://read.readwise.io/read/01m5j7t88mwf646fwdskpy943c)
 
 > I had taken the train into Chicago and knew the markets had had a good day.
 
 - **Role:** turning point
-- **In the article:** On the day his portfolio first topped \$1,000,000, the author took the train into Chicago and learned of his milestone on stepping off. With an hour to spare before meeting a friend, he wandered aimlessly around the city, numb, thinking about what it meant.
+- **In the article:** On the day his portfolio first topped $1,000,000, the author took the train into Chicago and learned of his milestone on stepping off. With an hour to spare before meeting a friend, he wandered aimlessly around the city, numb, thinking about what it meant.
 - **Why it matters:** The city is where the author absorbs the moment he became financially independent.
 
 ## The Martian — Andy Weir (2011)
-
 Source: [[The Martian]] · [Original](https://openlibrary.org/works/OL17091839W) · [Readwise highlight](https://read.readwise.io/read/01m5j7vgv43ajr0yzb45hz40fv)
 
 > In Chicago, a middle-aged couple clutched each other’s hands as they watched. The man held his wife gently as she rocked back and forth out of sheer terror. The NASA representative knew not to disturb them, but stood ready to answer any questions, should they ask.

@@ -2,12 +2,8 @@
 publish: true
 title: Antarctica
 created: 2026-10-22T19:58:14.000Z
-modified: 2026-10-23T01:37:09.000Z
-published: 2026-10-23T01:37:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T20:18:04.289Z
+published: 2026-11-01T20:18:04.289Z
 aliases: []
 books:
   - These Extreme Travelers Fulfilled Their Craziest Dreams
@@ -21,6 +17,11 @@ icon: newspaper
 location:
   - -90
   - 0
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+image: Attachments/Places/Antarctica.svg
 ---
 
 # Antarctica
@@ -28,7 +29,6 @@ location:
 The continent around the South Pole. A subject in Karen Emslie's “These Extreme Travelers Fulfilled Their Craziest Dreams”: Destination of Philbert's hitchhike: 28 days aboard a Chilean Navy ship visiting research bases.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | These Extreme Travelers Fulfilled Their Craziest Dreams | Karen Emslie | subject | Destination of Philbert's hitchhike: 28 days aboard a Chilean Navy ship visiting research bases |
@@ -39,7 +39,6 @@ The continent around the South Pole. A subject in Karen Emslie's “These Extrem
 - [[West Antarctica]]
 
 ## These Extreme Travelers Fulfilled Their Craziest Dreams — Karen Emslie (2016)
-
 Source: [Original](http://www.good.is/posts/find-yourself-with-extreme-travel) · [Readwise highlight](https://read.readwise.io/read/01m5jjrq5wdazfsr2damk5gpxv)
 
 > Five days later the ship—carrying crew, scientists, engineers, a few family members, and Philbert—set off. For the next 28 days, they navigated their way from base to base, picking up and dropping off researchers, delivering supplies and carrying out repairs.

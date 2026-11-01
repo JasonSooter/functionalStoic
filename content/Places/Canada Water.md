@@ -2,15 +2,11 @@
 publish: true
 title: Canada Water
 created: 2026-10-21T10:48:48.000Z
-modified: 2026-10-21T10:48:48.000Z
-published: 2026-10-21T10:48:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T20:35:05.172Z
+published: 2026-11-01T20:35:05.172Z
 aliases: []
 books:
-  - "#012 The problem with fitted sheets"
+  - '#012 The problem with fitted sheets'
 categories:
   - "[[Places]]"
 color: purple
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 51.497
   - -0.0483
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
+image: Attachments/Places/Canada Water.svg
 ---
 
 # Canada Water
@@ -29,13 +30,11 @@ within: "[[London]]"
 District in Rotherhithe, south-east London, home to Taskmaster: The Live Experience. Dave Walker's annotated photo of the week comes from there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #012 The problem with fitted sheets | Dave Walker | setting | Walker's family competes at Taskmaster: The Live Experience during its preview phase. |
 
 ## #012 The problem with fitted sheets — Dave Walker (2024)
-
 Source: [Original](https://diagramclub.substack.com/p/012-the-problem-with-fitted-sheets) · [Readwise highlight](https://read.readwise.io/read/01m5f0pbnn0s1634j9v0t92n92)
 
 > This week’s annotated photo comes to you from Taskmaster: The Live Experience in London.

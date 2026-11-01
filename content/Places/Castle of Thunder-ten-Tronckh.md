@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Thunder-ten-Tronckh
 title: Castle of Thunder-ten-Tronckh
 created: 2026-10-23T11:12:57.000Z
-modified: 2026-10-23T11:12:57.000Z
-published: 2026-10-23T11:12:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T20:46:21.536Z
+published: 2026-11-01T20:46:21.536Z
+aliases:
+  - Thunder-ten-Tronckh
 books:
   - "[[Candide]]"
 categories:
@@ -17,13 +13,19 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 51.6083,7.9333
-geo_note: "inferred: Text names Westphalia only; pinned at the region's representative point; approximate (representative point of the Westphalia region)"
+geo_note: "inferred: Text names Westphalia only; pinned at the region's representative\
+  \ point; approximate (representative point of the Westphalia region)"
 geo_source: Wikipedia (en) Westphalia
 icon: book
 location:
   - 51.6083
   - 7.9333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[North Rhine-Westphalia]]"
+image: Attachments/Places/Castle of Thunder-ten-Tronckh.svg
 ---
 
 # Castle of Thunder-ten-Tronckh
@@ -31,13 +33,11 @@ within: "[[North Rhine-Westphalia]]"
 An invented baronial castle that Voltaire places in Westphalia, in north-western Germany. It is where _Candide_ opens, and the home from which the young hero is kicked out.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | setting | The Baron's Westphalian castle, Pangloss's 'best of all possible' homes, from which Candide is kicked out for kissing Cunegonde |
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m7560y99zxpnmy40dk1tsp)
 
 > In a castle of Westphalia, belonging to the Baron of Thunder-ten-Tronckh, lived a youth, whom nature had endowed with the most gentle manners.

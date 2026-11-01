@@ -2,15 +2,14 @@
 publish: true
 title: Cleveland
 created: 2026-10-22T20:34:08.000Z
-modified: 2026-10-23T02:02:43.000Z
-published: 2026-10-23T02:02:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T21:09:31.346Z
+published: 2026-11-01T21:09:31.346Z
 aliases: []
 books:
   - America Has Never Been So Ripe for Tyranny
+  - The World-Wide Work.
+  - Little Free Library founder dies, leaving a legacy of helping cities 'one book
+    at a time'
 categories:
   - "[[Places]]"
 color: purple
@@ -20,7 +19,12 @@ icon: newspaper
 location:
   - 41.4992
   - -81.6947
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ohio]]"
+image: Attachments/Places/Cleveland.svg
 ---
 
 # Cleveland
@@ -36,7 +40,6 @@ City on Lake Erie in north-east Ohio. A subject in Andrew Sullivan's “America 
 | Little Free Library founder dies, leaving a legacy of helping cities 'one book at a time' | Jenna Ross | journey waypoint | Cleveland is where the nonprofit launched Little Free Library Neighborhoods, which Bernstein says got neighbors talking to each other. |
 
 ## America Has Never Been So Ripe for Tyranny — Andrew Sullivan (2016)
-
 Source: [Original](http://nymag.com/daily/intelligencer/2016/04/america-tyranny-donald-trump.html) · [Readwise highlight](https://read.readwise.io/read/01m5jkyvyqyraptm0jvwp5y865)
 
 > There will be riots in Cleveland if he doesn’t get his way. The RNC will have “a rough time” if it doesn’t cooperate.
@@ -46,11 +49,10 @@ Source: [Original](http://nymag.com/daily/intelligencer/2016/04/america-tyranny-
 - **Why it matters:** Cleveland stands for the convention floor where the nomination fight, and the threat of violence around it, would be decided. The echo with Lewis's fictional convention is the essay's own point.
 
 ## The World-Wide Work. — ethanmarcotte.com (2019)
-
 Source: [Original](https://ethanmarcotte.com/wrote/the-world-wide-work/) · [Readwise highlight](https://read.readwise.io/read/01m5k7cgvaf6m262ggsjrq73wz)
 
 > This is a map of Cleveland, Ohio.
 
 - **Role:** subject
-- **In the article:** A 2015 map built from National Digital Inclusion Alliance data shows areas where over 35 percent of residents live below the poverty line against areas where AT\&T deployed high-speed fiber. The text says there is almost no overlap, which the author calls digital redlining and a form of design like Moses's.
+- **In the article:** A 2015 map built from National Digital Inclusion Alliance data shows areas where over 35 percent of residents live below the poverty line against areas where AT&T deployed high-speed fiber. The text says there is almost no overlap, which the author calls digital redlining and a form of design like Moses's.
 - **Why it matters:** A modern, concrete case of infrastructure design excluding the poor.

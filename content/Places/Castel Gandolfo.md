@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Castel Gandolfo
+created: 2026-10-19T22:26:17.000Z
+modified: 2026-11-01T20:46:21.512Z
+published: 2026-11-01T20:46:21.512Z
 aliases:
   - Specola Vaticana
   - Vatican Observatory
-title: Castel Gandolfo
-created: 2026-10-19T22:26:17.000Z
-modified: 2026-10-21T10:33:11.000Z
-published: 2026-10-21T10:33:11.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 41.7469
   - 12.6519
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Italy]]"
+image: Attachments/Places/Castel Gandolfo.svg
 ---
 
 # Castel Gandolfo
@@ -29,13 +30,11 @@ within: "[[Italy]]"
 Hill town south-east of Rome, [[Italy]], the Pope's summer residence and historic seat of the Vatican Observatory, where Carlo Rovelli's essay on science and faith opens at a conference.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | setting | A Vatican conference on black holes, held at the Pope's summer residence, frames an essay on science and faith. |
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
-
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5b44m8gwhr3z0jnnm68mzyv)
 
 > brought together in the beautiful setting of Castel Gandolfo, the summer residence of the Pope on the hills behind Rome
