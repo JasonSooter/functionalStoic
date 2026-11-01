@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Chisago County, Minnesota</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a3be8c"/><stop offset="1" stop-color="#5e81ac"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M140,504L140,-16L1060,-16L1060,504L140,504Z" fill="#3b4252"/><path d="M496,504L493,500L457,407L433,390L255,296L219,271L195,245L171,211L171,169L159,143L140,116" fill="none" stroke="#5e81ac" stroke-opacity=".75" stroke-width="1.6"/><path d="M789,-16L784,2L777,2L765,-4L759,-2L754,1L750,13L747,16L748,19L745,22L726,17L719,24L718,32L697,40L689,40L689,45L683,45L677,51L677,53L666,59L656,74L656,82L648,89L650,100L644,108L641,120L633,130L613,143L613,152L606,178L608,192L607,199L608,210L613,213L628,216L646,213L660,226L660,239L667,246L676,262L684,266L687,273L685,293L680,296L676,305L668,312L669,322L666,329L648,345L652,356L649,362L652,378L648,384L646,391L652,399L650,409L656,427L639,444L635,450L637,457L648,470L645,482L646,492L651,504L140,504L140,-16L789,-16Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><path d="M622,137L613,143L613,152L606,178L608,192L607,199L608,209L613,213L628,216L645,213L660,225L660,239L667,246L676,262L685,267L687,273L685,293L680,296L676,305L668,312L669,324L654,342L563,341L562,218L523,218L523,136L622,137Z" fill="#b48ead" fill-opacity=".26" stroke="#b48ead" stroke-width="2.2"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/><circle cx="473" cy="371" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="481" y="376" font-size="14" fill="#d8dee9" fill-opacity=".7">Andover</text><circle cx="382" cy="338" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="390" y="343" font-size="14" fill="#d8dee9" fill-opacity=".7">Elk River</text><circle cx="575" cy="350" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="583" y="355" font-size="14" fill="#d8dee9" fill-opacity=".7">Forest Lake</text>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Chisago County, Minnesota</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Chisago County · United States</text>
+<rect x="200" y="552" width="70" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Book</text>
+<text x="285" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">45.5025, -92.9083</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Azov</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a3be8c"/><stop offset="1" stop-color="#5e81ac"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M207,256L140,252L140,-16L333,-16L301,-4L254,4L230,30L219,65L219,117L207,134L207,152L219,160L230,160L230,169L219,186L207,195L207,256Z" fill="#3b4252"/><path d="M207,256L140,252M333,-16L301,-4L254,4L230,30L219,65L219,117L207,134L207,152L219,160L230,160L230,169L219,186L207,195L207,256" fill="none" stroke="#4c566a" stroke-width="1.3" stroke-dasharray="5 4"/><path d="M1060,26L985,56L926,100L879,160L832,186L690,204L584,247L561,247" fill="none" stroke="#5e81ac" stroke-opacity=".75" stroke-width="1.6"/><path d="M140,252L207,256L289,212L325,178L384,169L372,186L348,195L313,221L360,230L443,212L466,169L525,169L549,204L561,247L561,264L549,273L502,282L396,342L337,360L278,386L301,429L301,455L242,455L207,438L183,446L140,472" fill="none" stroke="#4c566a" stroke-width="1"/><path d="M182,363L246,305L210,237L213,229L212,198L215,192L212,186L221,181L230,181L230,173L242,173L245,166L241,161L245,155L245,153L242,153L246,149L208,149L208,140L211,130L216,128L217,124L216,121L219,117L230,116L229,108L235,108L235,68L230,67L230,64L232,54L229,51L229,34L236,34L238,30L237,19L250,19L250,-1L285,-1L285,-14L337,-14L339,-16L1060,-16L1060,504L140,504L140,367L182,363Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><path d="M582,275L592,272L588,272L587,268L591,268L591,258L586,258L586,251L591,251L591,248L587,247L588,232L604,229L607,232L613,232L617,240L625,236L625,239L628,241L627,247L620,250L612,248L620,255L610,254L610,272L608,272L608,276L586,279L583,279L582,275Z" fill="#b48ead" fill-opacity=".26" stroke="#b48ead" stroke-width="2.2"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/><circle cx="700" cy="185" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="708" y="190" font-size="14" fill="#d8dee9" fill-opacity=".7">Rostov-na-Donu</text><circle cx="429" cy="182" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="437" y="187" font-size="14" fill="#d8dee9" fill-opacity=".7">Taganrog</text><circle cx="709" cy="229" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="717" y="234" font-size="14" fill="#d8dee9" fill-opacity=".7">Bataysk</text><circle cx="892" cy="371" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="900" y="376" font-size="14" fill="#d8dee9" fill-opacity=".7">Zernograd</text>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Azov</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Russia</text>
+<rect x="200" y="552" width="70" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Book</text>
+<text x="285" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">47.1083, 39.4181</text>
+</svg>

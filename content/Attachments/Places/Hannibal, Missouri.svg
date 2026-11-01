@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Hannibal, Missouri</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a3be8c"/><stop offset="1" stop-color="#5e81ac"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M140,504L140,-16L1060,-16L1060,504L140,504Z" fill="#3b4252"/><path d="M841,504L839,498L773,403L666,299L600,221L586,186L573,134L560,57L560,-4L564,-16" fill="none" stroke="#5e81ac" stroke-opacity=".75" stroke-width="1.6"/><path d="M561,-15L558,-9L559,9L556,17L557,46L565,77L563,87L574,112L591,139L590,144L582,156L580,163L584,179L606,195L611,204L610,235L634,258L644,265L661,287L678,296L681,300L683,314L689,322L709,326L722,348L724,360L732,370L748,382L768,391L772,399L781,403L786,410L800,417L814,432L822,436L836,456L843,460L847,467L853,504L140,504L140,-16L561,-15Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><path d="M575,247L581,242L580,235L578,235L578,227L583,227L583,242L586,242L585,249L595,252L593,247L595,247L593,245L594,242L590,244L588,242L590,241L592,229L595,229L596,224L598,224L603,229L603,232L610,235L624,249L619,249L619,252L621,252L621,250L627,256L616,256L616,252L609,252L609,255L600,257L600,261L590,259L590,254L583,252L582,245L581,247L575,247ZM581,245L582,244L581,244L581,245ZM592,237L594,235L593,235L592,237ZM594,232L595,234L595,232L594,232ZM591,247L592,247L591,248L591,247Z" fill="#b48ead" fill-opacity=".26" stroke="#b48ead" stroke-width="2.2"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/><text x="620" y="230" font-size="16" font-weight="600" fill="#eceff4" fill-opacity=".85">Hannibal</text><circle cx="594" cy="135" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="602" y="140" font-size="14" fill="#d8dee9" fill-opacity=".7">Quincy</text>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Hannibal, Missouri</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Hannibal · United States</text>
+<rect x="200" y="552" width="70" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Book</text>
+<text x="285" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">39.7097, -91.3939</text>
+</svg>

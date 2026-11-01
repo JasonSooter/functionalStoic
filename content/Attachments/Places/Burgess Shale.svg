@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Burgess Shale</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a3be8c"/><stop offset="1" stop-color="#5e81ac"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M140,504L140,-16L1060,-16L1060,504L140,504Z" fill="#3b4252"/><path d="M280,137L183,33" fill="none" stroke="#5e81ac" stroke-opacity=".75" stroke-width="1.6"/><path d="M621,504L572,449L507,397L463,336L420,267L388,223L345,206L312,180L280,137M183,33L140,3" fill="none" stroke="#5e81ac" stroke-opacity=".75" stroke-width="1.6"/><path d="M615,128L636,137L647,154L658,206L777,319L842,362L885,362L917,379L950,405L1014,405L1060,378" fill="none" stroke="#5e81ac" stroke-opacity=".75" stroke-width="1.6"/><path d="M140,-16L396,-16L400,-13L404,-7L409,-8L410,1L413,1L431,21L436,24L432,29L430,41L437,50L446,51L443,57L444,60L443,62L451,72L450,76L451,80L448,82L448,86L447,87L454,95L456,95L457,99L462,102L461,105L466,112L497,113L501,104L494,98L497,96L502,85L505,85L516,65L522,65L525,68L536,61L542,65L543,67L543,71L547,74L544,90L552,94L550,99L551,101L560,104L564,109L564,115L566,117L563,119L566,122L563,126L564,129L561,132L561,135L569,138L570,142L580,145L584,151L590,151L593,156L592,158L599,163L600,169L597,171L600,181L623,190L625,197L622,200L621,206L625,217L631,226L639,229L651,230L654,233L654,243L651,246L655,257L652,259L652,262L646,268L651,276L656,278L656,282L653,288L654,292L657,295L659,302L667,308L671,307L674,312L681,308L685,310L691,309L694,314L692,320L694,326L697,325L710,332L720,333L725,343L732,347L738,346L740,359L733,363L733,368L729,371L735,378L738,378L736,387L736,390L750,394L749,397L753,397L755,405L760,406L763,413L769,413L770,407L771,411L779,410L782,414L786,413L787,416L796,411L799,419L803,418L807,421L814,417L812,418L811,423L808,425L809,434L815,438L817,436L819,438L818,441L824,444L832,439L833,446L839,453L845,453L848,460L851,461L852,467L856,472L856,478L861,482L857,488L861,493L866,494L871,503L140,504L140,-16Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Burgess Shale</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">British Columbia · Canada</text>
+<rect x="200" y="552" width="70" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Book</text>
+<text x="285" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">51.4333, -116.4667</text>
+</svg>

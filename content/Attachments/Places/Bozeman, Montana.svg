@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Bozeman, Montana</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ebcb8b"/><stop offset="1" stop-color="#d08770"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M140,504L140,-16L1060,-16L1060,504L140,504Z" fill="#3b4252"/><path d="M377,504L377,400L425,296L449,226L461,140L474,79L486,45L474,1L466,-16" fill="none" stroke="#5e81ac" stroke-opacity=".75" stroke-width="1.6"/><path d="M140,504L140,-16L1060,-16L1060,504L140,504Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><path d="M572,238L574,237L574,234L579,234L578,231L585,230L585,225L587,223L582,218L585,218L597,230L597,227L599,228L600,234L603,233L600,229L602,227L600,223L605,224L605,229L604,229L612,231L610,234L606,233L607,237L618,241L609,241L610,246L617,250L610,248L612,249L612,255L601,255L602,265L596,265L599,263L599,260L598,263L595,260L586,262L589,257L591,258L591,251L588,251L588,255L586,255L586,250L584,248L577,248L577,251L576,252L576,248L572,248L572,238ZM579,242L580,241L579,241L579,242ZM580,240L579,240L580,240L580,240ZM584,237L585,241L585,237L584,237ZM585,241L585,244L586,241L585,241ZM585,231L587,234L586,231L588,230L585,231ZM585,246L586,245L585,245L585,246ZM586,245L585,245L586,245L586,245ZM586,244L586,244L586,244L586,244ZM586,245L586,244L586,244L586,245ZM587,243L587,244L587,244L587,243ZM588,233L588,232L588,232L588,233ZM588,246L588,244L589,241L588,243L588,246ZM588,224L590,225L590,224L588,224ZM588,227L589,227L590,228L589,227L588,227ZM589,245L589,244L589,245L589,245ZM589,244L589,245L589,244L589,244ZM589,233L590,234L590,233L589,233ZM590,236L590,234L590,234L590,236ZM591,224L590,224L590,225L591,224ZM591,225L591,225L591,225L591,225ZM595,257L595,254L591,253L591,257L595,257ZM592,237L593,239L593,237L592,237ZM592,252L592,252L592,252L592,252ZM592,253L594,251L593,252L592,253ZM594,239L595,241L595,238L594,239ZM595,234L595,233L595,233L595,234ZM599,255L598,253L597,255L599,255ZM597,234L599,233L598,232L597,234ZM600,235L599,233L598,235L600,235ZM598,259L599,259L598,259L598,259ZM598,259L599,258L598,258L598,259ZM602,254L604,253L602,251L602,254ZM607,238L605,234L604,234L603,237L607,238ZM591,224L591,222L592,223L591,224ZM592,224L593,224L593,225L592,224Z" fill="#b48ead" fill-opacity=".26" stroke="#b48ead" stroke-width="2.2"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/><text x="620" y="230" font-size="16" font-weight="600" fill="#eceff4" fill-opacity=".85">Bozeman</text>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Bozeman, Montana</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Bozeman · United States</text>
+<rect x="200" y="552" width="100" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Article</text>
+<text x="315" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">45.6794, -111.0372</text>
+</svg>

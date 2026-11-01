@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Dyea, Alaska</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a3be8c"/><stop offset="1" stop-color="#5e81ac"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M408,504L273,504L241,495L205,469L197,478L214,504L140,504L140,491L214,434L249,417L302,417L329,356L329,270L355,270L372,252L381,226L364,192L416,183L460,166L513,140L575,105L601,131L627,148L671,209L680,218L671,252L671,278L698,348L707,356L733,365L768,391L777,408L821,443L830,460L838,486L847,504L644,504L636,452L610,374L601,330L601,287L592,313L584,330L566,339L592,391L584,382L566,391L592,443L605,504L422,504L416,486L408,469L408,504Z" fill="#3b4252"/><path d="M847,504L838,486L830,460L821,443L777,408L768,391L733,365L707,356L698,348L671,278L671,252L680,218L671,209L627,148L601,131L575,105L513,140L460,166L416,183L364,192L381,226L372,252L355,270L329,270L329,356L302,417L249,417L214,434L140,491L140,-16L1060,-16L1060,504L847,504Z" fill="#3b4252"/><path d="M408,469L408,504M273,504L241,495L205,469L197,478L214,504M140,491L214,434L249,417L302,417L329,356L329,270L355,270L372,252L381,226L364,192L416,183L460,166L513,140L575,105L601,131L627,148L671,209L680,218L671,252L671,278L698,348L707,356L733,365L768,391L777,408L821,443L830,460L838,486L847,504M644,504L636,452L610,374L601,330L601,287L592,313L584,330L566,339L592,391L584,382L566,391L592,443L605,504M422,504L416,486L408,469" fill="none" stroke="#4c566a" stroke-width="1.3" stroke-dasharray="5 4"/><path d="M847,504L838,486L830,460L821,443L777,408L768,391L733,365L707,356L698,348L671,278L671,252L680,218L671,209L627,148L601,131L575,105L513,140L460,166L416,183L364,192L381,226L372,252L355,270L329,270L329,356L302,417L249,417L214,434L140,491" fill="none" stroke="#4c566a" stroke-width="1.3" stroke-dasharray="5 4"/><path d="M214,504L197,478L205,469L241,495L273,504M408,504L408,469M408,469L408,460M408,469L416,486L422,504M605,504L592,443L566,391L584,382L592,391L566,339L584,330L592,313L601,287L601,330L610,374L636,452L644,504" fill="none" stroke="#4c566a" stroke-width="1"/><path d="M140,481L207,438L230,421L241,410L301,407L324,362L323,354L329,350L327,306L327,263L354,271L369,263L385,234L385,218L359,198L397,179L455,168L571,103L600,132L626,151L631,152L634,168L649,186L659,187L681,215L681,258L669,269L663,281L690,300L680,320L698,352L761,367L766,394L794,424L814,423L823,444L839,468L833,497L853,504L140,504L140,481Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Dyea, Alaska</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Skagway · United States</text>
+<rect x="200" y="552" width="70" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Book</text>
+<text x="285" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">59.5044, -135.3600</text>
+</svg>

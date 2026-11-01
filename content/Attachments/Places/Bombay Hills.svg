@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Bombay Hills</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ebcb8b"/><stop offset="1" stop-color="#d08770"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M921,83L921,126L976,351L1018,403L1018,421L990,412L990,429L1018,455L1045,464L1060,464L1060,504L549,504L493,386L493,334L507,308L479,299L466,273L438,187L438,178L466,187L493,247L493,213L535,187L562,187L507,117L493,117L438,135L410,126L397,117L383,83L369,31L355,14L337,-16L504,-16L493,31L479,48L479,66L521,74L535,83L548,100L562,74L576,74L604,100L686,126L714,161L728,221L742,239L769,247L797,239L811,221L797,161L783,74L783,-4L777,-16L825,-16L852,22L893,14L893,48L921,83Z" fill="#3b4252"/><path d="M893,48L921,83L921,126L976,351L1018,403L1018,421L990,412L990,429L1018,455L1045,464L1060,464M549,504L493,386L493,334L507,308L479,299L466,273L438,187L438,178L466,187L493,247L493,213L535,187L562,187L507,117L493,117L438,135L410,126L397,117L383,83L369,31L355,14L337,-16M504,-16L493,31L479,48L479,66L521,74L535,83L548,100L562,74L576,74L604,100L686,126L714,161L728,221L742,239L769,247L797,239L811,221L797,161L783,74L783,-4L777,-16M825,-16L852,22L893,14L893,48" fill="none" stroke="#4c566a" stroke-width="1.3" stroke-dasharray="5 4"/><path d="M698,504L686,490L659,447L659,395L645,351L617,299L590,282L521,282L507,308" fill="none" stroke="#5e81ac" stroke-opacity=".75" stroke-width="1.6"/><path d="M893,48L921,83L921,126L976,351L1018,403L1018,421L990,412L990,429L1018,455L1045,464L1060,464M549,504L493,386L493,334L507,308L479,299L466,273L438,187L438,178L466,187L493,247L493,213L535,187L562,187L507,117L493,117L438,135L410,126L397,117L383,83L369,31L355,14L337,-16M504,-16L493,31L479,48L479,66L521,74L535,83L548,100L562,74L576,74L604,100L686,126L714,161L728,221L742,239L769,247L797,239L811,221L797,161L783,74L783,-4L777,-16M825,-16L852,22L893,14L893,48" fill="none" stroke="#4c566a" stroke-width="1"/><path d="M1048,-16L1039,13L1060,25L1060,504L417,504L424,493L414,466L401,448L392,428L389,410L389,390L383,372L380,340L377,332L353,275L338,246L319,228L307,210L299,186L297,166L291,142L274,79L242,21L216,-16L1048,-16Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/><circle cx="546" cy="139" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="554" y="144" font-size="14" fill="#d8dee9" fill-opacity=".7">Manukau City</text><circle cx="570" cy="174" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="578" y="179" font-size="14" fill="#d8dee9" fill-opacity=".7">Papakura</text>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Bombay Hills</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Franklin · New Zealand</text>
+<rect x="200" y="552" width="100" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Article</text>
+<text x="315" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">-37.2108, 175.0220</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Burlington, Vermont</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ebcb8b"/><stop offset="1" stop-color="#d08770"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M140,-6L328,-6L464,-15L1060,-15L1060,504L140,504L140,-6Z" fill="#3b4252"/><path d="M1060,-16L464,-15L328,-6L140,-6L140,-16L1060,-16Z" fill="#3b4252"/><path d="M140,-6L328,-6L464,-15L1060,-15" fill="none" stroke="#4c566a" stroke-width="1.3" stroke-dasharray="5 4"/><path d="M1060,-15L464,-15L328,-6L140,-6" fill="none" stroke="#4c566a" stroke-width="1.3" stroke-dasharray="5 4"/><path d="M303,427L303,479L291,488L279,504" fill="none" stroke="#5e81ac" stroke-opacity=".75" stroke-width="1.6"/><path d="M552,-16L563,-16L563,11L575,37L588,20L601,-16L637,-15L612,3L612,133L600,193L600,202L588,210L588,228L600,236L600,262L588,262L575,280L575,323L563,358L538,444L547,504L532,504L526,470L526,462L513,436L526,384L550,340L538,280L538,262L526,167L538,98L538,20L552,-16Z" fill="#2a3a4c" stroke="#5e81ac" stroke-opacity=".6"/><path d="M534,498L531,483L534,465L532,460L523,451L526,435L532,419L530,409L535,403L537,389L539,386L539,381L549,373L555,359L562,356L566,346L566,341L563,328L562,312L558,298L559,294L565,286L572,263L568,232L557,209L545,196L542,190L544,185L539,176L540,167L543,164L542,162L543,157L546,154L546,143L549,139L548,137L548,116L559,94L558,86L543,70L542,64L546,56L550,39L557,31L557,9L551,-2L555,-13L737,-16L909,-10L1060,-12L1060,311L1049,306L1045,306L1039,311L1023,311L1015,317L1005,319L1005,328L995,339L993,344L997,343L996,350L1000,358L994,382L999,393L1003,398L1002,400L1002,407L1005,410L998,416L998,420L1000,427L1003,423L1006,425L1005,430L1001,431L1006,435L998,436L1000,440L997,445L993,446L995,449L989,453L991,458L988,463L984,463L985,468L981,466L981,472L976,476L978,480L977,489L985,490L982,491L982,494L980,497L976,499L976,504L533,504L534,498Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><path d="M579,229L581,225L579,214L582,213L582,221L587,222L590,219L591,225L598,225L595,227L595,229L599,228L603,232L604,237L613,240L607,245L608,255L602,254L601,259L594,258L579,234L579,229Z" fill="#b48ead" fill-opacity=".26" stroke="#b48ead" stroke-width="2.2"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/><text x="620" y="230" font-size="16" font-weight="600" fill="#eceff4" fill-opacity=".85">Burlington</text><circle cx="518" cy="136" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="526" y="141" font-size="14" fill="#d8dee9" fill-opacity=".7">Plattsburgh</text>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Burlington, Vermont</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Burlington · United States</text>
+<rect x="200" y="552" width="100" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Article</text>
+<text x="315" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">44.4761, -73.2131</text>
+</svg>

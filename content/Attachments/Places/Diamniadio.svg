@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Diamniadio</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bf616a"/><stop offset="1" stop-color="#b48ead"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M753,504L695,394L644,359L611,281L527,238L493,246L477,281L426,229L493,212L611,151L749,-16L1060,-16L1060,504L753,504Z" fill="#3b4252"/><path d="M753,504L695,394L644,359L611,281L527,238L493,246L477,281L426,229L493,212L611,151L749,-16" fill="none" stroke="#4c566a" stroke-width="1.3" stroke-dasharray="5 4"/><path d="M749,-16L611,151L493,212L426,229L477,281L493,246L527,238L611,281L644,359L695,394L753,504" fill="none" stroke="#4c566a" stroke-width="1"/><path d="M634,503L625,484L620,463L599,450L583,435L563,408L550,383L535,362L518,370L498,376L483,377L452,375L427,368L412,360L387,338L348,283L337,258L334,234L336,214L343,194L354,175L377,153L407,137L437,126L462,123L509,104L551,83L633,-16L1060,-16L1060,504L634,503Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><path d="M572,236L587,225L604,218L607,213L616,209L622,220L612,228L601,229L602,235L601,239L606,237L616,241L621,252L613,249L606,263L596,260L587,260L585,252L580,251L580,246L572,243L572,236Z" fill="#b48ead" fill-opacity=".26" stroke="#b48ead" stroke-width="2.2"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/><circle cx="477" cy="258" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="485" y="263" font-size="14" fill="#d8dee9" fill-opacity=".7">Dakar</text><circle cx="501" cy="223" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="509" y="228" font-size="14" fill="#d8dee9" fill-opacity=".7">Pikine</text><circle cx="718" cy="212" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="726" y="217" font-size="14" fill="#d8dee9" fill-opacity=".7">Thiès</text><circle cx="681" cy="345" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="689" y="350" font-size="14" fill="#d8dee9" fill-opacity=".7">Nguékhokh</text><circle cx="655" cy="220" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="663" y="225" font-size="14" fill="#d8dee9" fill-opacity=".7">Pout</text><circle cx="628" cy="149" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="636" y="154" font-size="14" fill="#d8dee9" fill-opacity=".7">Kayar</text>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Diamniadio</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Dakar region · Senegal</text>
+<rect x="200" y="552" width="80" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Video</text>
+<text x="295" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">14.7219, -17.1789</text>
+</svg>

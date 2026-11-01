@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Barre, Vermont</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ebcb8b"/><stop offset="1" stop-color="#d08770"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M140,504L140,-16L1060,-16L1060,504L140,504Z" fill="#3b4252"/><path d="M367,-1L354,59L354,68L342,77L342,94L354,103L354,129L342,129L330,146L330,189L317,224L292,311L305,397L305,458L292,432L292,406L280,337L280,328L268,302L280,250L305,207L292,146L292,129L280,33L289,-16L367,-16L367,-1Z" fill="#2a3a4c" stroke="#5e81ac" stroke-opacity=".6"/><path d="M1000,484L1013,501L1013,504L963,504L963,501L976,493L976,484L988,475L1000,484Z" fill="#2a3a4c" stroke="#5e81ac" stroke-opacity=".6"/><path d="M285,504L289,488L300,472L301,463L307,449L304,442L298,436L297,430L293,426L294,420L300,414L296,409L299,399L291,386L287,373L288,355L286,349L287,329L277,318L280,301L286,285L285,275L289,269L291,256L294,252L293,247L303,239L310,225L316,222L320,212L321,207L317,194L316,179L313,164L313,160L319,152L327,129L322,99L311,76L299,62L296,56L298,51L293,42L295,33L297,31L296,29L297,23L301,20L300,10L303,5L302,3L302,-16L902,-16L902,-11L905,-11L904,-8L911,-0L911,3L913,4L912,6L912,13L917,15L915,17L915,22L920,24L918,26L919,26L924,25L926,31L924,33L929,36L926,36L930,39L927,38L927,48L924,50L928,50L927,54L930,52L929,55L932,53L933,59L930,61L927,58L929,65L926,65L925,68L915,67L912,70L912,73L921,81L917,87L913,89L919,98L915,95L916,99L913,98L911,105L905,105L901,111L899,109L903,107L900,106L896,110L895,113L897,116L892,118L890,128L884,130L885,134L872,142L864,142L862,146L855,143L844,148L841,151L842,154L837,156L838,168L824,175L818,177L805,172L796,178L779,177L772,183L762,185L762,194L753,202L749,209L753,209L753,216L757,224L750,248L755,259L760,264L758,267L759,273L762,276L755,282L754,286L756,293L760,290L762,291L762,296L757,297L762,301L755,302L756,306L753,311L750,312L752,315L746,319L747,324L745,329L740,329L742,335L737,332L737,338L733,342L734,346L734,355L742,356L738,357L739,360L737,363L732,365L732,378L721,386L718,393L714,395L715,402L709,405L708,409L710,419L708,425L710,431L702,443L702,450L698,452L692,462L680,467L670,481L668,486L669,499L665,504L285,504Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><path d="M589,235L603,236L602,240L607,243L605,248L606,250L599,252L589,244L589,241L587,241L589,235Z" fill="#b48ead" fill-opacity=".26" stroke="#b48ead" stroke-width="2.2"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Barre, Vermont</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Barre · United States</text>
+<rect x="200" y="552" width="100" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Article</text>
+<text x="315" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">44.1981, -72.5017</text>
+</svg>

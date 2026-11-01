@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Athenaeum (Caltech)</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a3be8c"/><stop offset="1" stop-color="#5e81ac"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M662,493L619,441L590,433L547,424L533,450L490,433L490,381L447,303L404,294L318,294L189,259L160,233L146,190L140,186L140,-16L1060,-16L1060,504L684,504L662,493Z" fill="#3b4252"/><path d="M684,504L662,493L619,441L590,433L547,424L533,450L490,433L490,381L447,303L404,294L318,294L189,259L160,233L146,190L140,186" fill="none" stroke="#4c566a" stroke-width="1.3" stroke-dasharray="5 4"/><path d="M140,186L146,190L160,233L189,259L318,294L404,294L447,303L490,381L490,433L533,450L547,424L590,433L619,441L662,493L684,504" fill="none" stroke="#4c566a" stroke-width="1"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/><text x="620" y="230" font-size="16" font-weight="600" fill="#eceff4" fill-opacity=".85">Pasadena</text><circle cx="889" cy="332" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="897" y="337" font-size="14" fill="#d8dee9" fill-opacity=".7">Riverside</text><circle cx="873" cy="265" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="881" y="270" font-size="14" fill="#d8dee9" fill-opacity=".7">Fontana</text><circle cx="788" cy="279" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="796" y="284" font-size="14" fill="#d8dee9" fill-opacity=".7">Ontario</text><circle cx="821" cy="370" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="829" y="375" font-size="14" fill="#d8dee9" fill-opacity=".7">Corona</text><circle cx="678" cy="372" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="686" y="377" font-size="14" fill="#d8dee9" fill-opacity=".7">Fullerton</text><circle cx="470" cy="220" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="478" y="225" font-size="14" fill="#d8dee9" fill-opacity=".7">Van Nuys</text><circle cx="315" cy="228" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="323" y="233" font-size="14" fill="#d8dee9" fill-opacity=".7">Thousand Oaks</text><circle cx="337" cy="180" r="3.2" fill="#d8dee9" fill-opacity=".75"/><text x="345" y="185" font-size="14" fill="#d8dee9" fill-opacity=".7">Simi Valley</text>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Athenaeum (Caltech)</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Pasadena · United States</text>
+<rect x="200" y="552" width="70" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Book</text>
+<text x="285" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">34.1368, -118.1217</text>
+</svg>

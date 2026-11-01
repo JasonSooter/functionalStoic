@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<title>Franconia Notch</title>
+<defs>
+<radialGradient id="a" cx="78%" cy="18%" r="70%"><stop offset="0" stop-color="#5a7486" stop-opacity=".9"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<radialGradient id="b" cx="15%" cy="95%" r="50%"><stop offset="0" stop-color="#5b4a5e" stop-opacity=".55"/><stop offset="1" stop-color="#2e3440" stop-opacity="0"/></radialGradient>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<pattern id="m" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#88c0d0" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect x="200" y="90" width="800" height="360" rx="16"/></clipPath>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ebcb8b"/><stop offset="1" stop-color="#d08770"/></linearGradient>
+<radialGradient id="p"><stop offset="0" stop-color="#b48ead" stop-opacity=".6"/><stop offset="1" stop-color="#b48ead" stop-opacity="0"/></radialGradient>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1200" height="630" fill="#2e3440"/><rect width="1200" height="630" fill="url(#a)"/><rect width="1200" height="630" fill="url(#b)"/><rect width="1200" height="630" fill="url(#g)"/>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="#242b35" filter="url(#s)"/>
+<g clip-path="url(#c)" font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><path d="M140,504L140,-16L1060,-16L1060,504L140,504Z" fill="#3b4252"/><path d="M720,471L732,488L732,504L682,504L682,488L695,479L695,471L707,462L720,471Z" fill="#2a3a4c" stroke="#5e81ac" stroke-opacity=".6"/><path d="M826,-16L836,229L841,426L846,504L379,504L379,502L384,498L384,491L388,486L387,473L389,467L399,454L411,448L417,439L421,436L421,430L429,418L427,412L429,406L427,396L429,392L434,389L433,382L437,380L440,373L451,365L451,352L456,350L458,347L457,344L461,343L453,341L454,333L452,329L456,325L456,320L459,319L461,321L459,316L464,316L466,311L465,306L471,302L469,299L472,298L476,293L474,289L481,288L477,284L481,283L482,278L479,276L476,280L473,273L474,269L481,263L478,260L477,253L479,251L474,246L469,235L476,211L472,203L472,196L469,196L470,192L481,181L481,172L491,170L498,164L515,165L525,159L537,164L557,155L556,142L561,141L560,138L563,134L574,130L581,133L583,129L594,127L604,120L603,116L609,115L612,105L617,103L614,100L615,97L620,93L622,94L618,96L620,98L624,92L631,92L633,85L635,86L635,82L638,84L632,75L637,74L640,67L631,59L631,57L634,54L644,55L645,52L648,51L647,45L649,48L653,43L651,43L652,40L649,42L649,39L646,41L648,37L643,37L646,34L646,25L649,26L645,23L649,23L643,20L645,17L643,12L638,13L637,12L639,11L634,8L634,4L637,2L631,-0L631,-7L632,-9L630,-10L631,-12L628,-16L826,-16Z" fill="#434c5e" fill-opacity=".5" stroke="#81a1c1" stroke-opacity=".55" stroke-width="1.4" stroke-dasharray="6 5"/><rect x="200" y="90" width="800" height="360" fill="url(#m)"/>
+<circle cx="600" cy="244" r="44" fill="url(#p)"/><circle cx="600" cy="244" r="9" fill="#b48ead" stroke="#eceff4" stroke-width="3"/></g>
+<rect x="200" y="90" width="800" height="360" rx="16" fill="none" stroke="#4c566a" stroke-opacity=".7"/>
+<rect x="240" y="398" width="720" height="92" rx="14" fill="#353c48" stroke="#4c566a" filter="url(#s)"/>
+<rect x="264" y="420" width="48" height="48" rx="11" fill="url(#i)"/>
+<g font-family="'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif"><text x="332" y="446" font-size="30" font-weight="600" fill="#eceff4">Franconia Notch</text>
+<text x="332" y="474" font-size="18" fill="#9aa5b8">Franconia · United States</text>
+<rect x="200" y="552" width="100" height="34" rx="8" fill="#3b4252" stroke="#4c566a"/><text x="215" y="575" font-size="17" fill="#d8dee9">Article</text>
+<text x="315" y="575" font-size="17" fill="#9aa5b8">From reading</text></g>
+<text x="936" y="458" text-anchor="end" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" fill="#81a1c1">44.1707, -71.6881</text>
+</svg>
