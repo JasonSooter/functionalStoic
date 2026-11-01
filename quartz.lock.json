@@ -184,7 +184,7 @@
     "quartz-folder-page": {
       "source": "github:JasonSooter/quartz-folder-page",
       "resolved": "https://github.com/JasonSooter/quartz-folder-page.git",
-      "commit": "50dc38f2bbf3ae59d694b8b25e9b1d74dbed68db",
+      "commit": "78433262918ce94788bd112c1c89a0fabed21e82",
       "installedAt": "2026-11-01T13:30:00.000Z"
     },
     "quartz-geo-map": {
