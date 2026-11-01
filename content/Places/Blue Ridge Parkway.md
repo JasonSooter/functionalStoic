@@ -2,12 +2,8 @@
 publish: true
 title: Blue Ridge Parkway
 created: 2026-10-22T16:48:41.000Z
-modified: 2026-10-22T16:48:41.000Z
-published: 2026-10-22T16:48:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T15:19:24.100Z
+published: 2026-11-01T15:19:24.100Z
 aliases: []
 books:
   - 8 Ways You Can Survive — And Thrive In — Midlife
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 37.6654
   - -79.3229
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Virginia]]"
+image: Attachments/Places/Blue Ridge Parkway.svg
 ---
 
 # Blue Ridge Parkway
@@ -29,13 +30,11 @@ within: "[[Virginia]]"
 Scenic road along the Blue Ridge Mountains of Virginia and North Carolina. The route of a calamitous but happy RV trip in a piece on surviving midlife.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 8 Ways You Can Survive — And Thrive In — Midlife | Barbara Bradley Hagerty | setting | An RV trip where something went wrong every day, and the best vacation ever. |
 
 ## 8 Ways You Can Survive — And Thrive In — Midlife — Barbara Bradley Hagerty (2016)
-
 Source: [Original](https://www.npr.org/2016/03/17/469822644/8-ways-you-can-survive-and-thrive-in-midlife) · [Readwise highlight](https://read.readwise.io/read/01m5j7v11bc0ep53nvvgx62j80)
 
 > Something went wrong almost every day — we got caught in a flood, the brakes nearly went out, we could not figure out how to dump the blackwater (don't ask) for some time. We had the time of our lives.
