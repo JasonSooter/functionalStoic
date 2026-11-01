@@ -162,7 +162,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/content-page
     enabled: true
-  - source: github:quartz-community/folder-page
+  # Fork: a folder's index.md can cap or hide this listing with `folderListing`
+  # (Places/index.md sets 25). Quartz 5 has no built-in option for it.
+  - source: github:JasonSooter/quartz-folder-page
     enabled: true
     options:
       showFolderCount: false

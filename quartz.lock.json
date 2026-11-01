@@ -121,12 +121,6 @@
       "commit": "85842d5c15f937a3d1a02c45accee27118146d73",
       "installedAt": "2026-07-08T19:10:11.092Z"
     },
-    "folder-page": {
-      "source": "github:quartz-community/folder-page",
-      "resolved": "https://github.com/quartz-community/folder-page.git",
-      "commit": "93304d22e1d7f09f93a33658ec273f7cb8d17793",
-      "installedAt": "2026-07-08T19:10:13.673Z"
-    },
     "fonts": {
       "source": "github:quartz-community/fonts",
       "resolved": "https://github.com/quartz-community/fonts.git",
@@ -186,6 +180,12 @@
       "resolved": "https://github.com/JasonSooter/quartz-folder-note-links.git",
       "commit": "89ea0d6001a8f756306c36c3a87acb107e206400",
       "installedAt": "2026-07-19T20:14:03.784Z"
+    },
+    "quartz-folder-page": {
+      "source": "github:JasonSooter/quartz-folder-page",
+      "resolved": "https://github.com/JasonSooter/quartz-folder-page.git",
+      "commit": "50dc38f2bbf3ae59d694b8b25e9b1d74dbed68db",
+      "installedAt": "2026-11-01T13:30:00.000Z"
     },
     "quartz-geo-map": {
       "source": "github:JasonSooter/quartz-geo-map",
