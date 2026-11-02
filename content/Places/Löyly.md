@@ -2,12 +2,8 @@
 publish: true
 title: Löyly
 created: 2026-10-21T02:07:19.000Z
-modified: 2026-10-21T11:14:24.000Z
-published: 2026-10-21T11:14:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T12:00:48.789Z
+published: 2026-11-02T12:00:48.789Z
 aliases: []
 books:
   - "[[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]]"
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 60.1519
   - 24.9301
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Helsinki]]"
+image: Attachments/Places/Löyly.svg
 ---
 
 # Löyly
@@ -28,13 +29,11 @@ within: "[[Helsinki]]"
 Seaside sauna building in [[Helsinki]], Finland, where a New York Times Magazine writer takes an ice dip in her account of a week in the supposedly happiest country on earth.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]] | Molly Young, Julia Whelan, Emma Kehlbeck, Jeremy McLennan | turning point | She visits Löyly, a pricey swimsuit-required sauna in a rock-heap-like building. |
 
 ## My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times — Molly Young, Julia Whelan, Emma Kehlbeck, Jeremy McLennan (2025)
-
 Source: [[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]] · [Original](https://www.nytimes.com/2025/05/02/magazine/finland-happiest-country.html/) · [Readwise highlight](https://read.readwise.io/read/01m5e2xnkh67bdgz9yx36bh22j)
 
 > On my second day, I visited a place called Löyly, pronounced LOW-luh.

@@ -2,12 +2,8 @@
 publish: true
 title: Lake Habbaniyah
 created: 2026-10-22T22:36:17.000Z
-modified: 2026-10-22T22:36:17.000Z
-published: 2026-10-22T22:36:17.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T11:40:03.696Z
+published: 2026-11-02T11:40:03.696Z
 aliases: []
 books:
   - The Citizen-Soldier Moral Risk and the Modern Military
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 33.2953
   - 43.4528
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Anbar Province]]"
+image: Attachments/Places/Lake Habbaniyah.svg
 ---
 
 # Lake Habbaniyah
@@ -28,13 +29,11 @@ within: "[[Anbar Province]]"
 Lake in Iraq's Anbar Province. Phil Klay recalls a 2010 photo of young Iraqis partying on its shore as a false sign that the war had been won.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Citizen-Soldier Moral Risk and the Modern Military | Phil Klay | turning point | A 2010 Times story shows hundreds of young Iraqis partying on the lake; Klay and fellow Marine Michael Pitre wonder if the US had won |
 
 ## The Citizen-Soldier Moral Risk and the Modern Military — Phil Klay (2016)
-
 Source: [Original](https://www.brookings.edu/research/essays/2016/the-citizen-soldier/) · [Readwise highlight](https://read.readwise.io/read/01m5jvq1tcejs0k0zvszzf1x7e)
 
 > giant beach party thrown on the banks of Lake Habbaniyah, near where I’d spent much of my time overseas.

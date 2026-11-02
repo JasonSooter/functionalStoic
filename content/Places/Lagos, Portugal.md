@@ -2,12 +2,8 @@
 publish: true
 title: Lagos, Portugal
 created: 2026-10-21T16:37:39.000Z
-modified: 2026-10-21T16:37:39.000Z
-published: 2026-10-21T16:37:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T11:34:22.546Z
+published: 2026-11-02T11:34:22.546Z
 aliases: []
 books:
   - How to Be an Antiracist
@@ -20,7 +16,12 @@ icon: book
 location:
   - 37.1028
   - -8.6728
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Portugal]]"
+image: Attachments/Places/Lagos, Portugal.svg
 ---
 
 # Lagos, Portugal
@@ -28,13 +29,11 @@ within: "[[Portugal]]"
 Coastal city in the Algarve of southern Portugal. It turns up in How to Be an Antiracist (Ibram X. Kendi): site of Prince Henry's first major slave auction in 1444, per Zurara.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | subject | Site of Prince Henry's first major slave auction in 1444, per Zurara. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
-
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fmssw5p9cszaykm5xn8084)
 
 > One of Zurara’s stories chronicled Prince Henry’s first major slave auction in Lagos, Portugal, in 1444.

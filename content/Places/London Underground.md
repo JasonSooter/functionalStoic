@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - the Tube
 title: London Underground
 created: 2026-10-23T01:32:18.000Z
-modified: 2026-10-23T01:32:18.000Z
-published: 2026-10-23T01:32:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T11:54:24.514Z
+published: 2026-11-02T11:54:24.514Z
+aliases:
+  - the Tube
 books:
   - "Deep Work vs. Messy: How to Balance Productivity and Creativity"
 categories:
@@ -22,7 +18,12 @@ icon: newspaper
 location:
   - 51.5074
   - -0.1278
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
+image: Attachments/Places/London Underground.svg
 ---
 
 # London Underground
@@ -30,13 +31,11 @@ within: "[[London]]"
 London's metro network. A Zapier piece on deep work and messiness uses a Tube strike, which forced commuters onto new routes, as its case study.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Deep Work vs. Messy: How to Balance Productivity and Creativity | Matthew Guay | subject | During a strike on the Tube, commuters had to find other routes. |
 
 ## Deep Work vs. Messy: How to Balance Productivity and Creativity — Matthew Guay (2017)
-
 Source: [Original](https://zapier.com/blog/deep-work-vs-messy/) · [Readwise highlight](https://read.readwise.io/read/01m5k5rccw7rgerftd6c5zcdg1)
 
 > During a London Underground workers' strike, commuters were forced to find alternate routes to work.

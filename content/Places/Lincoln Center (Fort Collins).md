@@ -2,12 +2,8 @@
 publish: true
 title: Lincoln Center (Fort Collins)
 created: 2026-10-21T04:46:49.000Z
-modified: 2026-10-21T13:23:23.000Z
-published: 2026-10-21T13:23:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T11:54:24.302Z
+published: 2026-11-02T11:54:24.302Z
 aliases: []
 books:
   - Join us at the Transportation Projects Fair!
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 40.5823
   - -105.0834
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Fort Collins]]"
+image: Attachments/Places/Lincoln Center (Fort Collins).svg
 ---
 
 # Lincoln Center (Fort Collins)
@@ -29,14 +30,12 @@ within: "[[Fort Collins]]"
 Civic venue and event hall in [[Fort Collins|Fort Collins]], Colorado, the venue for a Transfort Transportation Projects Fair announced in city newsletters.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Join us at the Transportation Projects Fair! | Transfort | setting | The city's Transportation Projects Fair is held here on Thursday March 6, 5-7 p.m. |
 | Get Involved and Stay Informed! | Transfort | setting | The newsletter announces a free open-house Transportation Projects Fair on Thursday, March 6, 5-7 p.m., at the Lincoln Center. |
 
 ## Join us at the Transportation Projects Fair! — Transfort (n.d.)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ebrn1e83pehygdr43aqb15)
 
 > The Lincoln Center is in the heart of Fort Collins' walkable streets.
@@ -46,7 +45,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5ebrn1e83pehygdr43
 - **Why it matters:** The venue anchors the whole lead item; the access directions are written around it. Held elsewhere, the route and parking advice would change entirely.
 
 ## Get Involved and Stay Informed! — Transfort (n.d.)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ebrpkv611qne5af6026sxa)
 
 > The Lincoln Center, 417 W. Magnolia

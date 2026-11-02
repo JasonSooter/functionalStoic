@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Laxminarayan Temple
+created: 2026-10-23T05:12:46.000Z
+modified: 2026-11-02T11:46:55.430Z
+published: 2026-11-02T11:46:55.430Z
 aliases:
   - Lakshmi Narayan Temple
   - Birla Mandir
-title: Laxminarayan Temple
-created: 2026-10-23T05:12:46.000Z
-modified: 2026-10-23T05:12:46.000Z
-published: 2026-10-23T05:12:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[On the Hippie Trail]]"
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 28.6327
   - 77.1989
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Delhi]]"
+image: Attachments/Places/Laxminarayan Temple.svg
 ---
 
 # Laxminarayan Temple
@@ -30,13 +31,11 @@ within: "[[New Delhi]]"
 Hindu temple in New Delhi, also called Birla Mandir. In _On the Hippie Trail_ it is the first major Hindu temple Rick sees and his highlight of Delhi.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | turning point | Rick's first major Hindu temple, the highlight of a Delhi bus tour. |
 
 ## On the Hippie Trail — Rick Steves (2025)
-
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjezf6rktgn5316fz4swar)
 
 > The highlight was Delhi’s Lakshmi Narayan Temple. This was my first real major Hindu temple, and I really was fascinated by it.

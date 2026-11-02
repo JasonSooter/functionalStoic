@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Lunenburg
 title: Lunenburg, Nova Scotia
 created: 2026-10-23T05:34:08.000Z
-modified: 2026-10-23T05:34:08.000Z
-published: 2026-10-23T05:34:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T12:00:48.673Z
+published: 2026-11-02T12:00:48.673Z
+aliases:
+  - Lunenburg
 books:
   - "[[Cod]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 44.3778
   - -64.3094
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Canada]]"
+image: Attachments/Places/Lunenburg, Nova Scotia.svg
 ---
 
 # Lunenburg, Nova Scotia
@@ -29,13 +30,11 @@ within: "[[Canada]]"
 Fishing town on Nova Scotia's South Shore. In _Cod_ it keeps sailing schooners to the Grand Banks longer than anywhere else.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | setting | Home of the Bluenose and of the last Grand Banks fishing schooner, with a gilded cod weather vane on the church. |
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
-
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kksmxhtx0w1gsjsem31gen)
 
 > The town of Lunenburg was built on a hill running down to a sheltered harbor.

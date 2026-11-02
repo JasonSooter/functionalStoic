@@ -2,12 +2,8 @@
 publish: true
 title: Lyon
 created: 2026-10-21T23:00:57.000Z
-modified: 2026-10-21T23:00:57.000Z
-published: 2026-10-21T23:00:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T12:00:48.745Z
+published: 2026-11-02T12:00:48.745Z
 aliases: []
 books:
   - "[[The Daily Stoic]]"
@@ -21,7 +17,12 @@ icon: book
 location:
   - 45.7675
   - 4.835
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[France]]"
+image: Attachments/Places/Lyon.svg
 ---
 
 # Lyon
@@ -36,7 +37,6 @@ City in eastern [[France]] that sent aid to Rome after the fire of AD 64, an exa
 | World Chess Champion Garry Kasparov on How to Build Confidence | James Clear | turning point | Second half of the 1990 title match, where Kasparov forces himself to attack and keeps his title. |
 
 ## The Daily Stoic — Ryan Holiday (2016)
-
 Source: [[The Daily Stoic]] · [Original](https://openlibrary.org/works/OL20046443W) · [Readwise highlight](https://read.readwise.io/read/01m5edhfsd7zjfhbxq2hjg2gny)
 
 > In the year 64, during the reign of Nero, a fire tore through the city of Rome. The French city of Lyons sent a large sum of money to aid the victims.
@@ -46,7 +46,6 @@ Source: [[The Daily Stoic]] · [Original](https://openlibrary.org/works/OL200464
 - **Why it matters:** Two cities mirrored in disaster give the entry its argument about reversals of fortune. The cities matter as the example, though neither is described.
 
 ## World Chess Champion Garry Kasparov on How to Build Confidence — James Clear (2015)
-
 Source: [Original](https://jamesclear.com/kasparov-confidence) · [Readwise highlight](https://read.readwise.io/read/01m5gap761008q0f7jds47q6xh)
 
 > When the second half of the World Chess Championship began in Lyon, France, Kasparov forced himself to play aggressive.

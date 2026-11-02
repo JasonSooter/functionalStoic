@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Louvre
+created: 2026-10-21T22:43:27.000Z
+modified: 2026-11-02T11:54:52.989Z
+published: 2026-11-02T11:54:52.989Z
 aliases:
   - Musée du Louvre
   - Louvre Museum
-title: Louvre
-created: 2026-10-21T22:43:27.000Z
-modified: 2026-10-21T22:43:27.000Z
-published: 2026-10-21T22:43:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "How to Stop Lying to Ourselves: A Call for Self-Awareness"
 categories:
@@ -22,7 +18,12 @@ icon: newspaper
 location:
   - 48.8611
   - 2.338
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Paris]]"
+image: Attachments/Places/Louvre.svg
 ---
 
 # Louvre
@@ -30,13 +31,11 @@ within: "[[Paris]]"
 Former royal palace and art museum in central [[Paris]]. James Clear opens an essay on self-awareness with a scene in its courtyard in 1816.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Stop Lying to Ourselves: A Call for Self-Awareness | James Clear | setting | Boys tapping a plank in the courtyard give Laennec the idea for the stethoscope (1816). |
 
 ## How to Stop Lying to Ourselves: A Call for Self-Awareness — James Clear (2015)
-
 Source: [Original](https://jamesclear.com/stethoscope-self-awareness) · [Readwise highlight](https://read.readwise.io/read/01m5ga124x1yjp7m2a1t2ht9gx)
 
 > It was September of 1816 and two Parisian boys were playing in the courtyard of the Louvre, the famous museum in Paris.

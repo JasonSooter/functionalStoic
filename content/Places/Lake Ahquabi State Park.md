@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Lake Ahquabi
 title: Lake Ahquabi State Park
 created: 2026-10-23T05:00:09.000Z
-modified: 2026-10-23T05:00:09.000Z
-published: 2026-10-23T05:00:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T11:34:22.586Z
+published: 2026-11-02T11:34:22.586Z
+aliases:
+  - Lake Ahquabi
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 41.2899
   - -93.5925
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Iowa]]"
+image: Attachments/Places/Lake Ahquabi State Park.svg
 ---
 
 # Lake Ahquabi State Park
@@ -29,13 +30,11 @@ within: "[[Iowa]]"
 State park around a lake south of Des Moines, Iowa. In _The Life and Times of the Thunderbolt Kid_ it is the scene of Mr. Milton's spectacular dive.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Life and Times of the Thunderbolt Kid]] | Bill Bryson | setting | A day out with the Miltons ends with Mr. Milton belly-flopping from the giant diving platform: "the best day of my life". |
 
 ## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
-
 Source: [[The Life and Times of the Thunderbolt Kid]] · [Original](https://openlibrary.org/works/OL4620956W) · [Readwise highlight](https://read.readwise.io/read/01m5khtz9x4hg3k266v0c5xdtg)
 
 > So I went to Lake Ahquabi, in a mood of gloomy submission, crammed into the Miltons’ ancient, dinky Nash, a car with the comfort and stylish zip of a chest freezer, expecting the worst and receiving it.

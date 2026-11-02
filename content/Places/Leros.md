@@ -2,12 +2,8 @@
 publish: true
 title: Leros
 created: 2026-10-23T04:41:24.000Z
-modified: 2026-10-23T04:41:24.000Z
-published: 2026-10-23T04:41:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T11:46:55.666Z
+published: 2026-11-02T11:46:55.666Z
 aliases: []
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 37.15
   - 26.85
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Greece]]"
+image: Attachments/Places/Leros.svg
 ---
 
 # Leros
@@ -28,13 +29,11 @@ within: "[[Greece]]"
 Greek island in the Dodecanese with a refugee registration centre. In _The Beekeeper of Aleppo_ Nuri and Afra are held in its fenced camp, and Mohammed disappears there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | setting | Registration and a fenced container camp; Nuri searches the island and its old asylum for the vanished boy Mohammed. |
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
-
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgrckn3vdpb467nv50cf9p)
 
 > The fire had been extinguished, and we were aboard a marine vessel heading to the island of Leros.

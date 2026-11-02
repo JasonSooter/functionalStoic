@@ -2,12 +2,8 @@
 publish: true
 title: Lebanon Hills Regional Park
 created: 2026-10-21T23:02:37.000Z
-modified: 2026-10-21T23:02:37.000Z
-published: 2026-10-21T23:02:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T11:46:55.510Z
+published: 2026-11-02T11:46:55.510Z
 aliases: []
 books:
   - Mountain Biking (Off Road Cycling) in Minneapolis, MN
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 44.7772
   - -93.1669
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Minnesota]]"
+image: Attachments/Places/Lebanon Hills Regional Park.svg
 ---
 
 # Lebanon Hills Regional Park
@@ -28,13 +29,11 @@ within: "[[Minnesota]]"
 Regional park in Dakota County, [[Minnesota]], south of the Twin Cities. A Currently Wandering post reviews its mountain-bike trails.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Mountain Biking (Off Road Cycling) in Minneapolis, MN | Jess | subject | Family camps across the road and rides the beginner and advanced trails and the skills park. |
 
 ## Mountain Biking (Off Road Cycling) in Minneapolis, MN — Jess (2015)
-
 Source: [Original](http://currentlywandering.com/2015/08/11/mountain-biking-off-road-cycling-in-minneapolis-mn/) · [Readwise highlight](https://read.readwise.io/read/01m5gane2h2tkgs5aj43m29e0j)
 
 > is located in Dakota County on the south side of downtown Minneapolis. We camped across the road in the campground and Sam and I were both able to bike over to the trails.
