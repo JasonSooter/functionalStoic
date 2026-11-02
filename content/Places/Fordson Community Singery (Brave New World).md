@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Fordson Community Singery (Brave New World)
+created: 2026-10-23T07:45:51.000Z
+modified: 2026-11-02T02:30:32.665Z
+published: 2026-11-02T02:30:32.665Z
 aliases:
   - Fordson Community Singery
   - Big Henry
-title: Fordson Community Singery (Brave New World)
-created: 2026-10-23T07:45:51.000Z
-modified: 2026-10-23T07:45:51.000Z
-published: 2026-10-23T07:45:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Brave New World]]"
 categories:
@@ -24,7 +20,12 @@ icon: book
 location:
   - 51.5137
   - -0.101
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[City of London]]"
+image: Attachments/Places/Fordson Community Singery (Brave New World).svg
 ---
 
 # Fordson Community Singery (Brave New World)
@@ -32,13 +33,11 @@ within: "[[City of London]]"
 The floodlit Fordson Community Singery, the World State's secular church in _Brave New World_, which the text places over Ludgate Hill in the City of London.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | setting | Bernard attends a Solidarity Service in Room 3210 and feels more alone after the orgy-porgy. |
 
 ## Brave New World — Aldous Huxley (1932)
-
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvah4va8t6mnmspbpvd3s7)
 
 > Flood-lighted, its three hundred and twenty metres of white Carrara-surrogate gleamed with a snowy incandescence over Ludgate Hill;

@@ -2,12 +2,8 @@
 publish: true
 title: Gates Avenue
 created: 2026-10-20T19:38:32.000Z
-modified: 2026-10-21T11:10:01.000Z
-published: 2026-10-21T11:10:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T02:43:10.770Z
+published: 2026-11-02T02:43:10.770Z
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -21,7 +17,12 @@ icon: book
 location:
   - 40.6895
   - -73.9221
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bushwick]]"
+image: Attachments/Places/Gates Avenue.svg
 ---
 
 # Gates Avenue
@@ -29,13 +30,11 @@ within: "[[Bushwick]]"
 Street through Bedford–Stuyvesant and [[Bushwick]], Brooklyn, New York City, USA, where the shoe-repair booth in Jacqueline Woodson's Another Brooklyn teaches the girls they are being watched. The pin is the Gates Avenue subway station.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | setting | The shoe-repair booth where the old man watches the girls. |
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
-
 Source: [[Another Brooklyn]] · [Original](https://www.jacquelinewoodson.com/product/another-brooklyn/) · [Readwise highlight](https://read.readwise.io/read/01m5dcmyg0g10mcdgcdxb92tb6)
 
 > So we warned each other about the shoe repair on Gates Avenue, how the old man who reminded us of Geppetto made you wait on the hard wooden seat in the little booth so he could steal glances at your legs and bare feet.

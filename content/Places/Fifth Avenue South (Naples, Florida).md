@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - 5th Avenue South
 title: Fifth Avenue South (Naples, Florida)
 created: 2026-10-21T13:56:14.000Z
-modified: 2026-10-21T13:56:14.000Z
-published: 2026-10-21T13:56:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T02:25:05.149Z
+published: 2026-11-02T02:25:05.149Z
+aliases:
+  - 5th Avenue South
 books:
   - "[[Walkable City]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 26.142
   - -81.7944
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Florida]]"
+image: Attachments/Places/Fifth Avenue South (Naples, Florida).svg
 ---
 
 # Fifth Avenue South (Naples, Florida)
@@ -29,13 +30,11 @@ within: "[[Florida]]"
 Fifth Avenue South is the main street of Naples, Florida. It turns up in Walkable City (Jeff Speck): A personal, concrete case of fixing a code by deleting an old rule.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | In 1993 Speck and Duany worked on reviving the main street of Naples, Florida. |
 
 ## Walkable City — Jeff Speck (2012)
-
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbp0228qd6nfzhkqmpwarr)
 
 > In 1993, I was working with Andres Duany on the resuscitation of 5th Avenue South, the main street of Naples, Florida.
