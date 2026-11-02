@@ -1,28 +1,30 @@
 ---
 publish: true
-aliases:
-  - KC
 title: Kansas City
 created: 2026-10-20T22:56:43.000Z
-modified: 2026-10-21T11:11:06.000Z
-published: 2026-10-21T11:11:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T08:54:30.094Z
+published: 2026-11-02T08:54:30.094Z
+aliases:
+  - KC
 books:
   - KC Audax UAF 600k
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 39.1001,-94.5781
-geo_note: Kansas City, Missouri assumed (not stated); Kansas City, Kansas is a relation alternative at 39.1135,-94.6265.
+geo_note: Kansas City, Missouri assumed (not stated); Kansas City, Kansas is a relation
+  alternative at 39.1135,-94.6265.
 geo_source: OSM relation 141008
 icon: newspaper
 location:
   - 39.1001
   - -94.5781
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Missouri]]"
+image: Attachments/Places/Kansas City.svg
 ---
 
 # Kansas City
@@ -30,13 +32,11 @@ within: "[[Missouri]]"
 City on the Missouri River in [[Missouri]], USA, the base of the Audax 600k ride described in a Mostly Bikes x Me post.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[KC Audax UAF 600k]] | Mostly Bikes x Me | setting | A two-day 600k Audax ride run by Kansas City hosts, with perfect Saturday weather and steady rain and headwinds on Sunday. |
 
 ## KC Audax UAF 600k — Mostly Bikes x Me (2025)
-
 Source: [Original](https://funkadelic.net/pages/14605654649.html) · [Readwise highlight](https://read.readwise.io/read/01m5dqyf6c1fggrtp6mb7gedne)
 
 > The route was pretty, and most roads were low traffic, but the real standout was our Kansas City Audax hosts.

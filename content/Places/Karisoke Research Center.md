@@ -2,12 +2,8 @@
 publish: true
 title: Karisoke Research Center
 created: 2026-10-22T14:40:09.000Z
-modified: 2026-10-31T19:35:18.000Z
-published: 2026-10-31T19:35:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T08:54:58.360Z
+published: 2026-11-02T08:54:58.360Z
 aliases: []
 books:
   - Life on Air
@@ -20,7 +16,12 @@ icon: book
 location:
   - -1.4736
   - 29.4854
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rwanda]]"
+image: Attachments/Places/Karisoke Research Center.svg
 ---
 
 # Karisoke Research Center
@@ -28,13 +29,11 @@ within: "[[Rwanda]]"
 Dian Fossey's mountain gorilla research camp in the Virunga Mountains, Rwanda; in _Life on Air_ Attenborough visits Fossey there shortly before her death.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough visits Fossey there shortly before her death. |
 
 ## Life on Air — David Attenborough (2002)
-
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7m5p19rrzj4qrpx89kvt)
 
 > Karisoke, Dian's camp, proved to be a group of half a dozen green-painted corrugated iron huts connected by paths edged by low rails.

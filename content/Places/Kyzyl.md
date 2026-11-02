@@ -2,12 +2,8 @@
 publish: true
 title: Kyzyl
 created: 2026-10-22T14:40:34.000Z
-modified: 2026-10-31T19:35:57.000Z
-published: 2026-10-31T19:35:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T08:55:39.228Z
+published: 2026-11-02T08:55:39.228Z
 aliases: []
 books:
   - Life on Air
@@ -20,7 +16,12 @@ icon: book
 location:
   - 51.7167
   - 94.45
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Russia]]"
+image: Attachments/Places/Kyzyl.svg
 ---
 
 # Kyzyl
@@ -28,13 +29,11 @@ within: "[[Russia]]"
 Capital of Tuva in southern Siberia; in _Life on Air_ the start of a failed hamster-pheromone shoot on the steppe.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The start of a failed hamster-pheromone shoot on the steppe. |
 
 ## Life on Air — David Attenborough (2002)
-
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8s2hz3tq0c4c207t7nj9)
 
 > We flew to Moscow. The next day we t9ok an immensely long flight to a city I had never heard of (Kyzyl) , in a Soviet State (Tuva) that until then I did not know existed.

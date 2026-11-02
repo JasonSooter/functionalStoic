@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Hull
 title: Kingston upon Hull
 created: 2026-10-23T22:35:13.000Z
-modified: 2026-10-23T22:35:13.000Z
-published: 2026-10-23T22:35:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T08:55:26.059Z
+published: 2026-11-02T08:55:26.059Z
+aliases:
+  - Hull
 books:
   - Robinson Crusoe
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 53.7444
   - -0.3325
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
+image: Attachments/Places/Kingston upon Hull.svg
 ---
 
 # Kingston upon Hull
@@ -29,13 +30,11 @@ within: "[[England]]"
 Port city on the Humber estuary in Yorkshire. Robinson Crusoe sails from Hull on his first voyage, against his father's wishes.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Robinson Crusoe | Daniel Defoe | turning point | Crusoe sails from Hull against his father's wishes. |
 
 ## Robinson Crusoe — Daniel Defoe (1719)
-
 Source: [Original](https://openlibrary.org/works/OL45237W) · [Readwise highlight](https://read.readwise.io/read/01m5ne45ta3cqr7836e535et6y)
 
 > on the 1st of September 1651, I went on board a ship bound for London. Never any young adventurer’s misfortunes, I believe, began sooner, or continued longer than mine. The ship was no sooner out of the Humber than the wind began to blow and the sea to rise in a most frightful manner

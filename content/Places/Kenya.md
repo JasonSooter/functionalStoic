@@ -2,12 +2,8 @@
 publish: true
 title: Kenya
 created: 2026-10-19T22:29:12.000Z
-modified: 2026-10-22T13:40:39.000Z
-published: 2026-10-22T13:40:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T08:54:58.516Z
+published: 2026-11-02T08:54:58.516Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -21,6 +17,11 @@ icon: book
 location:
   - 1
   - 38
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+image: Attachments/Places/Kenya.svg
 ---
 
 # Kenya
@@ -28,7 +29,6 @@ location:
 Country in East Africa. Hub for literary places in Kenya.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Four Thousand Weeks]] | Oliver Burkeman | setting | Carl Jung, on a hike at dawn in 1925, looks from a low hill over a broad savanna with herds of gazelle, antelope, gnu and zebra and feels… |
@@ -42,7 +42,6 @@ Country in East Africa. Hub for literary places in Kenya.
 - [[Taranganya]]
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
-
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcq233k9pkdwqbmnpaeqkb)
 
 > The Swiss psychologist Carl Jung, visiting Kenya in 1925, was setting out on a hike in the first glow of dawn when he, too, was suddenly plunged into timelessness:

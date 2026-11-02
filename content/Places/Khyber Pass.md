@@ -2,15 +2,12 @@
 publish: true
 title: Khyber Pass
 created: 2026-10-22T16:27:03.000Z
-modified: 2026-10-23T05:12:15.000Z
-published: 2026-10-23T05:12:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T08:54:58.568Z
+published: 2026-11-02T08:54:58.568Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
+  - "[[On the Hippie Trail]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -20,7 +17,12 @@ icon: book
 location:
   - 34.0757
   - 71.2039
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pakistan]]"
+image: Attachments/Places/Khyber Pass.svg
 ---
 
 # Khyber Pass
@@ -28,14 +30,12 @@ within: "[[Pakistan]]"
 Mountain pass between Afghanistan and Pakistan. In _Full Tilt_ Dervla Murphy rides down the old tribal road.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | backdrop | Riding down the tribal road past forts and the steep railway, talking with armed Pathans. |
 | [[On the Hippie Trail]] | Rick Steves | turning point | A lifelong dream: the bus climbs the pass past fortresses and Pashtun tribesmen into Pakistan. |
 
 ## Full Tilt — Dervla Murphy (1965)
-
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6mmmtwwam6xgy7v6z6bnd)
 
 > The Khyber Pass is very fine, but, after the Hindu Kush, something of an anticlimax. Its fame is based on history rather than on scenery, and one has both in Afghanistan, though British travellers find the Khyber uniquely significant, with all its sad little graveyards on the mountainsides and the regimental plaques on the cliff-faces.
@@ -45,7 +45,6 @@ Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://op
 - **Why it matters:** Historic gateway into the subcontinent; its tribal law and armed culture introduce the Pathan world she grows to love.
 
 ## On the Hippie Trail — Rick Steves (2025)
-
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjekjdysyz6m6ey61thw7b)
 
 > The Khyber Pass! I had dreamed of crossing this romantically wild and historically dangerous cultural divide for years.

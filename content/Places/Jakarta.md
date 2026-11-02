@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Jakarta
+created: 2026-10-20T22:54:49.000Z
+modified: 2026-11-02T08:37:07.556Z
+published: 2026-11-02T08:37:07.556Z
 aliases:
   - Batavia
   - DKI Jakarta
-title: Jakarta
-created: 2026-10-20T22:54:49.000Z
-modified: 2026-10-31T19:35:41.000Z
-published: 2026-10-31T19:35:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - The $40BN Plan to Save The World’s Fastest Sinking City
   - Life on Air
@@ -24,7 +20,12 @@ icon: book
 location:
   - -6.1754
   - 106.8272
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Indonesia]]"
+image: Attachments/Places/Jakarta.svg
 ---
 
 # Jakarta
@@ -39,11 +40,9 @@ Capital city of [[Indonesia]], on the north coast of Java, and the subject of a 
 | Life on Air | David Attenborough | turning point | Officials impound the Zoo Quest gear and forbid the trip to Aru. |
 
 ## Sub-places
-
 - [[Jakarta Bay]]
 
-## The \$40BN Plan to Save The World’s Fastest Sinking City — The B1M (2025)
-
+## The $40BN Plan to Save The World’s Fastest Sinking City — The B1M (2025)
 Source: [Original](https://www.youtube.com/watch?v=B7PHRVQgTKM) · [Readwise highlight](https://read.readwise.io/read/01m5dqxkhe3zy1r2qny2rt3gba)
 
 > Jakarta is the largest city in Southeast Asia, but it’s sinking at a rate of up to 15 centimetres a year
@@ -53,7 +52,6 @@ Source: [Original](https://www.youtube.com/watch?v=B7PHRVQgTKM) · [Readwise hig
 - **Why it matters:** The city is the article's whole subject: a real-world case of a capital literally sinking and being partly abandoned.
 
 ## Life on Air — David Attenborough (2002)
-
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2e1fppwh6bm16t8spd2y)
 
 > When we landed in Jakarta, our letter did us no good whatsoever.
