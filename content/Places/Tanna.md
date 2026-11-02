@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Tanna
-created: 2026-10-22T13:40:56.000Z
-modified: 2026-11-02T14:22:27.205Z
-published: 2026-11-02T14:22:27.205Z
 aliases:
   - Tanna Island
+title: Tanna
+created: 2026-10-22T13:40:56.000Z
+modified: 2026-11-02T14:22:27.000Z
+published: 2026-11-02T14:22:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Life on Air
 categories:
@@ -17,10 +21,6 @@ icon: book
 location:
   - -19.5
   - 169.3333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vanuatu]]"
 ---
 
@@ -29,15 +29,18 @@ within: "[[Vanuatu]]"
 Island in southern Vanuatu, home of the John Frum cargo cult; the subject of Attenborough's quest in _Life on Air_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | subject | The subject of Attenborough's quest. |
 
 ## Sub-places
+
 - [[Mount Yasur]]
 - [[Sulphur Bay]]
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3m9w2jy8a704v7bbfxpa)
 
 > Many of the cults personified the supernatural being who would ultimately bring this cargo. In Tanna, his name was John Frum.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Gulmarg
-created: 2026-10-23T05:12:32.000Z
-modified: 2026-11-02T14:16:51.337Z
-published: 2026-11-02T14:16:51.337Z
 aliases:
   - Khilanmarg
+title: Gulmarg
+created: 2025-09-24
+modified: 2026-11-02T14:16:51.000Z
+published: 2026-11-02T14:16:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gulmarg.svg
 books:
   - "[[On the Hippie Trail]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 34.05
   - 74.38
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Gulmarg.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Gulmarg.svg
 Hill station in the Pir Panjal range west of Srinagar, Kashmir. In _On the Hippie Trail_ Rick rides a pony up to the Khilanmarg meadow above it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | setting | A pony ride up to Khilanmarg at 9,000 feet, a gallop across the meadow and a visit to a stone hut. |
 
 ## On the Hippie Trail — Rick Steves (2025)
+
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjety12szkw6aq8ks342ma)
 
 > Khilanmarg was rugged, thin-air beauty—an open meadow high above the placid valley of Kashmir and bordered by towering mountains.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Calabazas Creek
-created: 2026-10-21T04:46:48.000Z
-modified: 2026-11-02T14:15:08.446Z
-published: 2026-11-02T14:15:08.446Z
+created: 2020-01-19
+modified: 2026-11-02T14:15:08.000Z
+published: 2026-11-02T14:15:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Calabazas Creek.svg
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 37.32
   - -122.014
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cupertino]]"
 image: Attachments/Places/Calabazas Creek.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Calabazas Creek.svg
 Creek in [[Cupertino]], Santa Clara County, California; in How to Do Nothing, Jenny Odell uses it as her example of an overlooked place noticed through attention.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | subject | Odell spots a creek on Google Maps beside her childhood school, never having registered it, and traces it from Table Mountain to the Bay. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebtzkrjatrz6nvafp9m43f)
 
 > That is the only time that Calabazas Creek had surfaced to the level of my consciousness

@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Poprad-Tatry station
-created: 2026-10-20T04:32:49.000Z
-modified: 2026-11-02T18:30:31.816Z
-published: 2026-11-02T18:30:31.816Z
 aliases:
   - Poprad-Tatry
+title: Poprad-Tatry station
+created: 2026-10-20T04:32:49.000Z
+modified: 2026-11-02T18:30:32.000Z
+published: 2026-11-02T18:30:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Crossing 3 Countries in 15 Hours to Reach the Tatras Mountains
 categories:
@@ -16,12 +20,7 @@ icon: video
 location:
   - 49.0597
   - 20.2964
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[High Tatras]]"
-image: Attachments/Places/Poprad-Tatry station.svg
 ---
 
 # Poprad-Tatry station
@@ -29,11 +28,13 @@ image: Attachments/Places/Poprad-Tatry station.svg
 Main station of Poprad, Slovakia, gateway to the Tatra Electric Railway in the [[High Tatras]], where a rail video's journey changes from mainline train to mountain railway.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Crossing 3 Countries in 15 Hours to Reach the Tatras Mountains | Simply Railway | turning point | The change from mainline train to the mountain railway. |
 
 ## Crossing 3 Countries in 15 Hours to Reach the Tatras Mountains — Simply Railway (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=dTFkFN-qVLI) · [Readwise highlight](https://read.readwise.io/read/01m5bs76zt5v6349sz9ed3gmdr)
 
 > Welcome to Poprad-Tatry! This is where you need to get off if you want to connect with the Tatra Electric Railway

@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Chihuahua
-created: 2026-10-22T16:48:30.000Z
-modified: 2026-11-02T14:15:24.583Z
-published: 2026-11-02T14:15:24.583Z
 aliases:
   - Chihuahua City
+title: Chihuahua
+created: 2016-03-12
+modified: 2026-11-02T14:15:25.000Z
+published: 2026-11-02T14:15:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chihuahua.svg
 books:
-  - Why you should live in another country at some point in your life (or as soon
-    as possible)
+  - Why you should live in another country at some point in your life (or as soon as possible)
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 28.6369
   - -106.0769
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico]]"
 image: Attachments/Places/Chihuahua.svg
 ---
@@ -31,11 +31,13 @@ image: Attachments/Places/Chihuahua.svg
 Desert city of about a million in northern Mexico. In an essay on living abroad the writer moves here from Toronto for six months of work.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why you should live in another country at some point in your life (or as soon as possible) | Alanna Harvey | setting | Six months of ordinary working life in a northern Mexican desert city, far from imagined beaches. |
 
 ## Why you should live in another country at some point in your life (or as soon as possible) — Alanna Harvey
+
 Source: [Original](https://medium.com/human-output/why-you-should-live-in-another-country-at-some-point-in-your-life-or-as-soon-as-possible-c0fd319237b2) · [Readwise highlight](https://read.readwise.io/read/01m5j7tb81czn2hkhvw3hyw341)
 
 > From my comfortable Toronto apartment I moved to Chihuahua, a desert city of a million in the north of Mexico. I moved there to work, so my intention was to live there like I did at home.

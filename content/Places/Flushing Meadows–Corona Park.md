@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Flushing Meadows–Corona Park
-created: 2026-10-23T11:13:55.000Z
-modified: 2026-11-02T02:30:32.609Z
-published: 2026-11-02T02:30:32.609Z
 aliases:
   - 1964 New York World's Fair
+title: Flushing Meadows–Corona Park
+created: 2026-10-23
+modified: 2026-11-02T14:16:34.000Z
+published: 2026-11-02T14:16:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Flushing Meadows–Corona Park.svg
 books:
   - Abundance
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.7458
   - -73.8447
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Queens]]"
 image: Attachments/Places/Flushing Meadows–Corona Park.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Flushing Meadows–Corona Park.svg
 Flushing Meadows–Corona Park is a large park in Queens, New York City, built on former marshland and ash dumps, and site of the 1939 and 1964 World's Fairs. _Abundance_ uses the 1964 fair as an emblem of a country confident about building the future.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | subject | The former 'valley of ashes' that hosted the 1964 World's Fair, the conclusion's image of America's building optimism. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m75bej1bw63ktwa4kspmm1)
 
 > The scene was Flushing, a three-mile stretch of natural marshlands in Queens.

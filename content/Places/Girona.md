@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Girona
-created: 2026-10-20T07:40:01.000Z
-modified: 2026-11-02T02:51:09.951Z
-published: 2026-11-02T02:51:09.951Z
 aliases:
   - Gerona
+title: Girona
+created: 2026-01-30
+modified: 2026-11-02T14:16:47.000Z
+published: 2026-11-02T14:16:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Girona.svg
 books:
   - Perpignan to Girona
 categories:
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 41.9844
   - 2.8211
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Catalonia]]"
 image: Attachments/Places/Girona.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Girona.svg
 City in north-eastern [[Catalonia]], Spain, where a cycling trip over the Pyrenees from Perpignan ends at dusk.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Perpignan to Girona]] | Mostly Bikes x Me | journey waypoint | Arrival at dusk after crossing the Pyrenees from Perpignan. |
 
 ## Perpignan to Girona — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c3pydxtm03skz6k603mjyq)
 
 > We rolled into Girona just as the light faded.

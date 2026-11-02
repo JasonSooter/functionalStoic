@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Lejre
-created: 2026-10-23T22:35:24.000Z
-modified: 2026-11-02T11:46:55.638Z
-published: 2026-11-02T11:46:55.638Z
 aliases:
   - Heorot
   - Gammel Lejre
+title: Lejre
+created: 2026-10-23
+modified: 2026-11-02T14:18:41.000Z
+published: 2026-11-02T14:18:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lejre.svg
 books:
   - Beowulf
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 55.6044
   - 11.975
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Denmark]]"
 image: Attachments/Places/Lejre.svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/Lejre.svg
 Village west of Roskilde on Zealand, Denmark, where great royal halls of the 6th to 10th centuries have been excavated and which scholars identify with Heorot. Hrothgar's hall, Grendel's raids and the mere a few miles off are the core of _Beowulf_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Beowulf | Seamus Heaney | setting | Heorot, raided by Grendel and his mother, and the mere a few miles off. |
 
 ## Beowulf — Seamus Heaney (1999)
+
 Source: [Original](https://openlibrary.org/works/OL1810107W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5wkpvrj6z792rsvkqngr)
 
 > the hall of halls. Heorot was the name

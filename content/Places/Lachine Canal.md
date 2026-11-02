@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Lachine Canal
-created: 2026-10-21T11:07:34.000Z
-modified: 2026-11-02T11:34:22.506Z
-published: 2026-11-02T11:34:22.506Z
+created: 2024-10-01
+modified: 2026-11-02T14:18:07.000Z
+published: 2026-11-02T14:18:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lachine Canal.svg
 aliases: []
 books:
   - We bicycled the Formula 1 racetrack in Montreal
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 45.4583,-73.6117
-geo_note: approximate (article representative point; the roundabout in the text not
-  located)
+geo_note: approximate (article representative point; the roundabout in the text not located)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 45.4583
   - -73.6117
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Montreal]]"
 image: Attachments/Places/Lachine Canal.svg
 ---
@@ -31,11 +31,13 @@ image: Attachments/Places/Lachine Canal.svg
 Historic canal across the island of Montreal, with a cycle path. A cycling blog follows it to and from the F1 circuit.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | We bicycled the Formula 1 racetrack in Montreal | alliumstozinnias | journey waypoint | The canal path that leads to and from the ride. |
 
 ## We bicycled the Formula 1 racetrack in Montreal — alliumstozinnias (2024)
+
 Source: [Original](https://exploringbybike.com/2024/09/21/we-bicycled-the-formula-1-racetrack-in-montreal/) · [Readwise highlight](https://read.readwise.io/read/01m5f1w2bcmycvjr5jrashgvxp)
 
 > We hit a roundabout along Canal de Lachine where the path meets a bike/ped bridge; at the roundabout, take the second exit, intoned our bike directions.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Hamburg
-created: 2026-10-19T22:28:51.000Z
-modified: 2026-11-02T05:36:18.596Z
-published: 2026-11-02T05:36:18.596Z
+created: 2025-08-18
+modified: 2026-11-02T14:16:13.000Z
+published: 2026-11-02T14:16:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hamburg.svg
 aliases: []
 books:
   - "[[Journey to the Centre of the Earth]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 53.5502
   - 10.0013
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Hamburg.svg
 ---
 
@@ -28,6 +29,7 @@ image: Attachments/Places/Hamburg.svg
 Port city on the Elbe in northern Germany, built around the two Alster lakes. In _Journey to the Centre of the Earth_ it is Professor Lidenbrock's home, where the expedition begins and ends; also hub for literary places in the city.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Journey to the Centre of the Earth]] | Jules Verne | setting | Lidenbrock's leaning house on Königstrasse, where the cryptogram is cracked and the journey begins and ends. |
@@ -39,6 +41,7 @@ Port city on the Elbe in northern Germany, built around the two Alster lakes. In
 - [[Reeperbahn]]
 
 ## Journey to the Centre of the Earth — Jules Verne (1864)
+
 Source: [[Journey to the Centre of the Earth]] · [Original](https://openlibrary.org/works/OL16820479W) · [Readwise highlight](https://read.readwise.io/read/01m5khvftsxcgcz56c38wn88jy)
 
 > He lived in his little house on Königstrasse, a half-wood, half-brick construction with a crenellated gable-end. It looked out on to one of the winding canals that criss-cross in the centre of the oldest part of Hamburg, fortunately unharmed by the fire of 1842.

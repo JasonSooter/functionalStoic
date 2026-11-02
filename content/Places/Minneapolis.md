@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Minneapolis
-created: 2026-10-20T04:20:04.000Z
-modified: 2026-11-02T15:41:41.523Z
-published: 2026-11-02T15:41:41.523Z
+created: 2024-05-18
+modified: 2026-11-02T15:41:42.000Z
+published: 2026-11-02T15:41:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Minneapolis.svg
 aliases: []
 books:
   - It is important to remember that we are winning
@@ -16,10 +21,6 @@ icon: book
 location:
   - 44.9819
   - -93.2692
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Minnesota]]"
 image: Attachments/Places/Minneapolis.svg
 ---
@@ -29,6 +30,7 @@ image: Attachments/Places/Minneapolis.svg
 Largest city in [[Minnesota]], on the Mississippi. It is the author's central evidence that organised neighbourly solidarity can force a federal enforcement operation to back off.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It Is Important to Remember That We Are Winning\|It is important to remember that we are winning]] | Garrett Bucks | turning point | Neighbourly solidarity in a snowy January as evidence that organised communities win. |
@@ -39,6 +41,7 @@ Largest city in [[Minnesota]], on the Mississippi. It is the author's central ev
 - [[Orfield Laboratories]]
 
 ## It is important to remember that we are winning — Garrett Bucks (2026)
+
 Source: [Original](https://thewhitepages.net/p/it-is-important-to-remember-that) · [Readwise highlight](https://read.readwise.io/read/01m5bredpv75x0hvg80e6cxrjc)
 
 > Nothing proves this better than Minneapolis in January.
@@ -48,6 +51,7 @@ Source: [Original](https://thewhitepages.net/p/it-is-important-to-remember-that)
 - **Why it matters:** The city is the author's central piece of evidence for the title's claim; without it the essay is an exhortation rather than an argument.
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbp9bg8px11z4emg4p43q5)
 
 > In stark distinction to most American cities portrayed on TV at the time, Mary’s Minneapolis is sparkling, lively, and brimming with opportunity.

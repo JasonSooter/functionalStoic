@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Lime Grove Studios
-created: 2026-10-22T13:40:23.000Z
-modified: 2026-11-02T11:54:24.250Z
-published: 2026-11-02T11:54:24.250Z
 aliases:
   - Lime Grove
+title: Lime Grove Studios
+created: 2024-10-04
+modified: 2026-11-02T14:18:38.000Z
+published: 2026-11-02T14:18:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lime Grove Studios.svg
 books:
   - Life on Air
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.5036
   - -0.2272
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Lime Grove Studios.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Lime Grove Studios.svg
 Former film studios in Shepherd's Bush, west London, used by BBC Television; in _Life on Air_ they are the base for Attenborough's Talks programmes and Zoo Quest.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | They are the base for Attenborough's Talks programmes and Zoo Quest. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1mfnkyhen7g0pt2jvdv8)
 
 > The BBC had acquired some old film studios that stood in Lime Grove, a shabby suburban street close to Shepherd's Bush in west London.

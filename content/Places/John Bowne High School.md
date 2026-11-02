@@ -1,9 +1,14 @@
 ---
 publish: true
 title: John Bowne High School
-created: 2026-10-21T19:23:09.000Z
-modified: 2026-11-02T08:45:34.787Z
-published: 2026-11-02T08:45:34.787Z
+created: 2024-05-18
+modified: 2026-11-02T14:17:50.000Z
+published: 2026-11-02T14:17:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/John Bowne High School.svg
 aliases: []
 books:
   - How to Be an Antiracist
@@ -16,10 +21,6 @@ icon: book
 location:
   - 40.7386
   - -73.8239
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/John Bowne High School.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/John Bowne High School.svg
 Public high school in Flushing, Queens, across from Queens College. In How to Be an Antiracist (Ibram X. Kendi) it is where his fear of the Black body takes shape.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | setting | Crowded Queens high school where a gun on the bus shapes Kendi's fear of Black bodies. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fydvkkas1npkyx7znxhmts)
 
 > I enrolled in John Bowne High School, a public school that my Haitian neighbor Gil attended. It was in Flushing, in central Queens, just across the street from Queens College.

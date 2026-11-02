@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Havana
-created: 2026-10-21T02:07:06.000Z
-modified: 2026-11-02T05:41:33.486Z
-published: 2026-11-02T05:41:33.486Z
 aliases:
   - La Habana
+title: Havana
+created: 2025-10-25
+modified: 2026-11-02T14:17:07.000Z
+published: 2026-11-02T14:17:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Havana.svg
 books:
   - "[[The Old Man and the Sea]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 23.1367
   - -82.3589
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cuba]]"
 image: Attachments/Places/Havana.svg
 ---
@@ -30,17 +31,20 @@ image: Attachments/Places/Havana.svg
 Capital of [[Cuba]], on the island's north coast. In The Old Man and the Sea its glow on the horizon is what Santiago steers home by.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Old Man and the Sea]] | Ernest Hemingway | journey waypoint | The city's glow is Santiago's beacon home; its market buys the village's catch. |
 
 ## Sub-places
+
 - [[Casablanca (Havana)]]
 - [[Cojímar]]
 - [[Cuban Academy of Sciences]]
 - [[Finlay Institute]]
 
 ## The Old Man and the Sea — Ernest Hemingway (1952)
+
 Source: [[The Old Man and the Sea]] · [Original](https://openlibrary.org/books/OL7265161M) · [Readwise highlight](https://read.readwise.io/read/01m5gm04s7j863105wt7yz9cd4)
 
 > That makes no difference, he thought. I can always come in on the glow from Havana.

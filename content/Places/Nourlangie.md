@@ -2,8 +2,12 @@
 publish: true
 title: Nourlangie
 created: 2026-10-22T13:40:56.000Z
-modified: 2026-11-02T17:59:22.923Z
-published: 2026-11-02T17:59:22.923Z
+modified: 2026-11-02T17:59:23.000Z
+published: 2026-11-02T17:59:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Life on Air
@@ -17,12 +21,7 @@ icon: book
 location:
   - -12.8617
   - 132.8125
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kakadu National Park]]"
-image: Attachments/Places/Nourlangie.svg
 ---
 
 # Nourlangie
@@ -30,11 +29,13 @@ image: Attachments/Places/Nourlangie.svg
 Sandstone outlier in Kakadu National Park, Northern Territory; in _Life on Air_ the BBC team's base camp in the Top End.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The BBC team's base camp in the Top End. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx246rcvkxeayk19asampv)
 
 > We based ourselves at a disused logging camp at a place called Nourlangie about fifty miles from the north coast, close to the South Alligator River and from there drove into the bush country to camp wherever we wished.

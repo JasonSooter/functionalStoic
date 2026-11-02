@@ -2,8 +2,12 @@
 publish: true
 title: Oslo
 created: 2026-10-23T02:02:53.000Z
-modified: 2026-11-02T18:09:58.746Z
-published: 2026-11-02T18:09:58.746Z
+modified: 2026-11-02T18:09:59.000Z
+published: 2026-11-02T18:09:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - These 8 cities are taking bold steps to get rid of cars
@@ -16,12 +20,7 @@ icon: newspaper
 location:
   - 59.9133
   - 10.7389
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Norway]]"
-image: Attachments/Places/Oslo.svg
 ---
 
 # Oslo
@@ -29,11 +28,13 @@ image: Attachments/Places/Oslo.svg
 Capital of Norway. Fast Company lists its city-centre parking removal among eight bold moves to get rid of cars.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | These 8 cities are taking bold steps to get rid of cars | Adele Peters | subject | The city removed 700 parking spaces and added charging stations and disabled parking while improving transit and cycling. |
 
 ## These 8 cities are taking bold steps to get rid of cars — Adele Peters (2019)
+
 Source: [Original](https://www.fastcompany.com/90321627/these-8-cities-are-taking-bold-steps-to-get-rid-of-cars) · [Readwise highlight](https://read.readwise.io/read/01m5k7e7mtwny3rr8anqr6yryx)
 
 > In the city center of Oslo, former parking spaces on the street have been transformed into bike lanes, benches, and tiny parks.

@@ -2,8 +2,12 @@
 publish: true
 title: Napa Valley
 created: 2026-10-22T20:39:00.000Z
-modified: 2026-11-02T17:48:49.241Z
-published: 2026-11-02T17:48:49.241Z
+modified: 2026-11-02T17:48:49.000Z
+published: 2026-11-02T17:48:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free
@@ -17,12 +21,7 @@ icon: newspaper
 location:
   - 38.4012
   - -122.3302
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
-image: Attachments/Places/Napa Valley.svg
 ---
 
 # Napa Valley
@@ -30,11 +29,13 @@ image: Attachments/Places/Napa Valley.svg
 Wine valley north of San Francisco Bay, California. A turning point in Cade Metz's “Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free”: Winery day where Brockman recruited ten researchers; nine joined.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free | Cade Metz | turning point | Winery day where Brockman recruited ten researchers; nine joined. |
 
 ## Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free — Cade Metz (2016)
+
 Source: [Original](https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/) · [Readwise highlight](https://read.readwise.io/read/01m5jkzbjb2cf5105artrf0yqe)
 
 > Brockman picked the ten researchers he wanted the most and invited them to spend a Saturday getting wined, dined, and cajoled at a winery in Napa Valley.

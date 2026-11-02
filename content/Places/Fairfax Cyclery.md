@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Gravy's workshop
 title: Fairfax Cyclery
-created: 2026-10-20T13:51:54.000Z
-modified: 2026-10-21T10:50:06.000Z
-published: 2026-10-21T10:50:06.000Z
+created: 2026-03-08
+modified: 2026-11-02T14:16:33.000Z
+published: 2026-11-02T14:16:33.000Z
 tags:
   - places
   - place/literary

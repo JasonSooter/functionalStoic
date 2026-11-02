@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Lastoursville
-created: 2026-10-20T13:42:41.000Z
-modified: 2026-11-02T11:46:55.374Z
-published: 2026-11-02T11:46:55.374Z
+created: 2026-10-04
+modified: 2026-11-02T14:18:16.000Z
+published: 2026-11-02T14:18:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lastoursville.svg
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - -0.8172
   - 12.7081
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Gabon]]"
 image: Attachments/Places/Lastoursville.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Lastoursville.svg
 Town on the Trans-Gabon railway in Ogooué-Lolo province, [[Gabon]], where a Peace Corps health volunteer writes about daily life without a refrigerator.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | Daily market walks in 'The Fridge Factor'. |
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
+
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5crc4bbwbnwj91gcvf68qtj)
 
 > There are four-wheel-drive cars and pickup trucks here in Lastoursville, a small town on the train line about two degrees south of the equator.

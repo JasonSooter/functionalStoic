@@ -2,11 +2,15 @@
 publish: true
 title: Norwich
 created: 2026-10-20T13:45:55.000Z
-modified: 2026-11-02T17:59:22.911Z
-published: 2026-11-02T17:59:22.911Z
+modified: 2026-11-02T17:59:23.000Z
+published: 2026-11-02T17:59:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
-  - '#061 Please assemble in the telephone box'
+  - "#061 Please assemble in the telephone box"
 categories:
   - "[[Places]]"
 color: purple
@@ -16,12 +20,7 @@ icon: newspaper
 location:
   - 52.6286
   - 1.2928
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
-image: Attachments/Places/Norwich.svg
 ---
 
 # Norwich
@@ -29,11 +28,13 @@ image: Attachments/Places/Norwich.svg
 Cathedral city in Norfolk, [[England]], and the setting of a half-term trip told in annotated photos in Diagram Club's issue #061.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #061 Please assemble in the telephone box | Diagram Club | setting | Half-term trip in annotated photos. |
 
 ## #061 Please assemble in the telephone box — Diagram Club (2025)
+
 Source: [Original](https://diagramclub.substack.com/p/061-please-assemble-in-the-telephone) · [Readwise highlight](https://read.readwise.io/read/01m5cre1mm7ba3nbe8vctn187y)
 
 > It’s been half term here in the UK, so we went to Norwich with some friends.

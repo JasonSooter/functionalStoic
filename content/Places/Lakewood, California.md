@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Lakewood, California
-created: 2026-10-23T11:14:04.000Z
-modified: 2026-11-02T11:40:03.792Z
-published: 2026-11-02T11:40:03.792Z
+created: 2026-10-23
+modified: 2026-11-02T14:18:05.000Z
+published: 2026-11-02T14:18:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lakewood, California.svg
 aliases: []
 books:
   - Abundance
@@ -16,10 +21,6 @@ icon: book
 location:
   - 33.8475
   - -118.12
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Lakewood, California.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Lakewood, California.svg
 Lakewood is a planned postwar suburb in Los Angeles County, just north of Long Beach. In _Abundance_ it stands for the go-go era when California built homes at breakneck speed.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | subject | The postwar planned suburb that epitomizes California's old pro-growth era, set against Petaluma. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m77dbdmgjf3se6xe4z81xv)
 
 > No suburban development epitomized this go-go era more than Lakewood, California, a planned community built on open farmland just north of Long Beach. Between 1950 and 1953, more than 17,000 homes went up.

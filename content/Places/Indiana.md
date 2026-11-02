@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Indiana
-created: 2026-10-22T01:44:10.000Z
-modified: 2026-11-02T08:29:40.604Z
-published: 2026-11-02T08:29:40.604Z
+created: 2016-12-14
+modified: 2026-11-02T14:17:49.000Z
+published: 2026-11-02T14:17:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Indiana.svg
 aliases: []
 books:
   - America Has Never Been So Ripe for Tyranny
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 40
   - -86
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Indiana.svg
 ---
 
@@ -29,14 +30,17 @@ image: Attachments/Places/Indiana.svg
 State in the US Midwest. A turning point in Andrew Sullivan's “America Has Never Been So Ripe for Tyranny”: Indiana's May 3 primary framed as the decisive stand against Trump's nomination.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | America Has Never Been So Ripe for Tyranny | Andrew Sullivan | turning point | Indiana's May 3 primary framed as the decisive stand against Trump's nomination |
 
 ## Sub-places
+
 - [[Carmel, Indiana]]
 
 ## America Has Never Been So Ripe for Tyranny — Andrew Sullivan (2016)
+
 Source: [Original](http://nymag.com/daily/intelligencer/2016/04/america-tyranny-donald-trump.html) · [Readwise highlight](https://read.readwise.io/read/01m5jkywnsvb3w26km1bhamghz)
 
 > Ted Cruz and John Kasich face their decisive battle in Indiana on May 3. But they need to fight on, with any tactic at hand, all the way to the bitter end.

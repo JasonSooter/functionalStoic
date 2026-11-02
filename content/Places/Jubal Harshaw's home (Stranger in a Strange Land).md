@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Jubal Harshaw's home (Stranger in a Strange Land)
-created: 2026-10-21T19:23:20.000Z
-modified: 2026-11-02T08:54:29.890Z
-published: 2026-11-02T08:54:29.890Z
+created: 2024-05-18
+modified: 2026-11-02T14:18:02.000Z
+published: 2026-11-02T14:18:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jubal Harshaw's home (Stranger in a Strange Land).svg
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 41.229,-75.3734
-geo_note: "inferred: the text names the Poconos but not a town; pin is the representative\
-  \ point of the Pocono Mountains"
+geo_note: "inferred: the text names the Poconos but not a town; pin is the representative point of the Pocono Mountains"
 geo_source: Wikipedia (en) Pocono Mountains
 icon: book
 location:
   - 41.229
   - -75.3734
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pocono Mountains]]"
 image: Attachments/Places/Jubal Harshaw's home (Stranger in a Strange Land).svg
 ---
@@ -32,11 +32,13 @@ image: Attachments/Places/Jubal Harshaw's home (Stranger in a Strange Land).svg
 Jubal Harshaw's hillside estate with a swimming pool in the Pocono Mountains, Pennsylvania, in Stranger in a Strange Land. The house is fictional; the pin is the Poconos.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | setting | Harshaw's pool-side estate, where Jill brings Smith for refuge. |
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
+
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > was sitting by his swimming pool at his home in the Poconos, scratching the thick grey thatch on his chest

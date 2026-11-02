@@ -1,12 +1,17 @@
 ---
 publish: true
-title: London Waterloo station
-created: 2026-10-23T11:14:35.000Z
-modified: 2026-11-02T11:54:52.705Z
-published: 2026-11-02T11:54:52.705Z
 aliases:
   - Waterloo Station
   - Waterloo
+title: London Waterloo station
+created: 2026-10-23
+modified: 2026-11-02T14:18:39.000Z
+published: 2026-11-02T14:18:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/London Waterloo station.svg
 books:
   - The Country Girls Trilogy
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 51.5031
   - -0.1132
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/London Waterloo station.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/London Waterloo station.svg
 Major railway terminus in Lambeth, south London. In _The Country Girls Trilogy_ it is where Kate's last plea to Eugene fails, and where Baba later waits for Kate's coffin.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | turning point | Kate's failed plea to Eugene ends here in breakdown; twenty years later Baba waits here with Kate's coffin. |
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
+
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m76fqr7jsf0ds2gmfxmapq)
 
 > It goes on, by Jesus, it goes on. I am at Waterloo again, the railway station where Kate gashed her wrists, thinking daftly that someone might come to her rescue, a male Florence Nightingale might kneel and bandage and swoop her off to a life of certainty and bliss.

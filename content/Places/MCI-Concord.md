@@ -1,12 +1,17 @@
 ---
 publish: true
-title: MCI-Concord
-created: 2026-10-23T07:47:40.000Z
-modified: 2026-11-02T15:17:20.944Z
-published: 2026-11-02T15:17:20.944Z
 aliases:
   - Massachusetts Correctional Institution – Concord
   - Concord state prison
+title: MCI-Concord
+created: 2025-11-29
+modified: 2026-11-02T15:17:21.000Z
+published: 2026-11-02T15:17:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/MCI-Concord.svg
 books:
   - "[[North Woods]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 42.4647
   - -71.3956
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/MCI-Concord.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/MCI-Concord.svg
 State prison in Concord, Massachusetts. In _North Woods_ a pen-pal programme there lets a prisoner deceive Lillian.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[North Woods]] | Daniel Mason | subject | Lillian's pen-pal letters to a prisoner who claims to be her son Robert. |
 
 ## North Woods — Daniel Mason (2023)
+
 Source: [[North Woods]] · [Original](https://openlibrary.org/works/OL34028309W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcd0q29cecny2yr7vw8d2)
 
 > For nearly a decade, Professor Trumbull had taught a literature course at the state prison in Concord, part of an education and rehabilitation initiative.

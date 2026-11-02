@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Prussian National Monument for the Liberation Wars
-created: 2026-10-23T11:15:20.000Z
-modified: 2026-11-02T18:35:42.674Z
-published: 2026-11-02T18:35:42.674Z
 aliases:
   - Kreuzberg monument
   - Nationaldenkmal für die Befreiungskriege
+title: Prussian National Monument for the Liberation Wars
+created: 2026-10-23T11:15:20.000Z
+modified: 2026-11-02T18:35:43.000Z
+published: 2026-11-02T18:35:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -18,12 +22,7 @@ icon: book
 location:
   - 52.4877
   - 13.3815
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
-image: Attachments/Places/Prussian National Monument for the Liberation Wars.svg
 ---
 
 # Prussian National Monument for the Liberation Wars
@@ -31,11 +30,13 @@ image: Attachments/Places/Prussian National Monument for the Liberation Wars.svg
 Cast-iron monument by Karl Friedrich Schinkel on the Kreuzberg in Viktoriapark, Berlin, honouring the wars against Napoleon. In _Germany: Memories of a Nation_ it anchors the chapter on iron and the Iron Cross.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Schinkel's iron spire on Kreuzberg hill, crowned by the Iron Cross, now in a park full of multicultural Berlin families. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76116t3pfwf68xry81kkt)
 
 > On the top of the hill to the south of the city centre, at the point from which Berliners watched Napoleon’s army finally retreat in 1813, the architect Karl Friedrich Schinkel designed a monument to honour Prussia’s part in freeing all of Germany from the decades of French invasion and occupation.

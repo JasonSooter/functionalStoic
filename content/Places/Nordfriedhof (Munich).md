@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Nordfriedhof (Munich)
-created: 2026-10-20T07:52:59.000Z
-modified: 2026-11-02T17:59:22.831Z
-published: 2026-11-02T17:59:22.831Z
 aliases:
   - Northern Cemetery
   - Nordfriedhof
+title: Nordfriedhof (Munich)
+created: 2026-10-20T07:52:59.000Z
+modified: 2026-11-02T17:59:23.000Z
+published: 2026-11-02T17:59:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Death in Venice]]"
 categories:
@@ -17,12 +21,7 @@ icon: book
 location:
   - 48.175
   - 11.6028
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Munich]]"
-image: Attachments/Places/Nordfriedhof (Munich).svg
 ---
 
 # Nordfriedhof (Munich)
@@ -30,11 +29,13 @@ image: Attachments/Places/Nordfriedhof (Munich).svg
 Munich's Northern Cemetery on Ungererstraße, Schwabing ([[Munich]]), where in Death in Venice a stranger at the mortuary chapel sparks Aschenbach's urge to travel.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Death in Venice]] | Thomas Mann | turning point | A stranger at the mortuary chapel sparks Aschenbach's sudden urge to travel. |
 
 ## Death in Venice — Thomas Mann (1912)
+
 Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5c4pr43t5p45bmg88vpe50s)
 
 > At Aumeister, to which he had been led by ever more solitary paths, Aschenbach briefly scanned the crowded and lively open-air restaurant and the cabs and carriages along its edge, then, the sun beginning to sink, headed home across the open fields beyond the park, but feeling tired and noticing a storm brewing over Föhring, he stopped at the Northern Cemetery to wait for the tram that would take him straight back to town.

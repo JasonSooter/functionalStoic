@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Orpheum Theatre (Los Angeles)
-created: 2026-10-23T02:23:44.000Z
-modified: 2026-11-02T18:09:58.730Z
-published: 2026-11-02T18:09:58.730Z
 aliases:
   - Orpheum Theater
+title: Orpheum Theatre (Los Angeles)
+created: 2026-10-23T02:23:44.000Z
+modified: 2026-11-02T18:09:59.000Z
+published: 2026-11-02T18:09:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Jeff Bezos’ guide to life
 categories:
@@ -17,12 +21,7 @@ icon: newspaper
 location:
   - 34.0427
   - -118.2553
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Los Angeles]]"
-image: Attachments/Places/Orpheum Theatre (Los Angeles).svg
 ---
 
 # Orpheum Theatre (Los Angeles)
@@ -30,11 +29,13 @@ image: Attachments/Places/Orpheum Theatre (Los Angeles).svg
 Historic movie palace on Broadway in downtown Los Angeles. TechCrunch's write-up of Jeff Bezos's Summit Series interview is set there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Jeff Bezos’ guide to life | Josh Constine | setting | The Summit Series interview of Jeff Bezos by his brother Mark takes place at the Orpheum Theater in Los Angeles. |
 
 ## Jeff Bezos’ guide to life — Josh Constine (2017)
+
 Source: [Original](https://techcrunch.com/2017/11/05/jeff-bezos-guide-to-life/) · [Readwise highlight](https://read.readwise.io/read/01m5k8vgkb46je0mtynzzdpyhj)
 
 > Set against a backdrop of old Bezos family photos at the opulent Orpheum Theater, Jeff revealed his personal philosophy.

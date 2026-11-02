@@ -2,8 +2,12 @@
 publish: true
 title: Pittsburgh
 created: 2026-10-20T16:27:11.000Z
-modified: 2026-11-02T18:25:16.047Z
-published: 2026-11-02T18:25:16.047Z
+modified: 2026-11-02T18:25:16.000Z
+published: 2026-11-02T18:25:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[17 Responses to “Year in Review - 2024”]]"
@@ -16,12 +20,7 @@ icon: newspaper
 location:
   - 40.4397
   - -79.9764
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pennsylvania]]"
-image: Attachments/Places/Pittsburgh.svg
 ---
 
 # Pittsburgh
@@ -29,15 +28,18 @@ image: Attachments/Places/Pittsburgh.svg
 City at the head of the Ohio River in western [[Pennsylvania]], USA, which appears in the reading as the walking getaway in a blogger's 2024 year in review.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[17 Responses to “Year in Review - 2024”\|Year in Review: 2024]] | MG (Chasing Mailboxes) | setting | The summer trip that stood in for a bike tour. |
 
 ## Sub-places
+
 - [[Carnegie Mellon University]]
 - [[Churchill Valley Greenway]]
 
 ## Year in Review: 2024 — MG (Chasing Mailboxes) (2024)
+
 Source: [[17 Responses to “Year in Review - 2024”]] · [Original](https://chasingmailboxes.com/2024/12/30/year-in-review-2024/) · [Readwise highlight](https://read.readwise.io/read/01m5d20r5v992vkkczmvyfsqkr)
 
 > Pittsburgh is such a rich city to explore. I can’t get enough of this town.

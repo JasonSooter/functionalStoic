@@ -1,13 +1,17 @@
 ---
 publish: true
 title: Matrimandir
-created: 2026-10-22T23:17:07.000Z
-modified: 2026-11-02T15:29:00.072Z
-published: 2026-11-02T15:29:00.072Z
+created: 2016-10-10
+modified: 2026-11-02T15:29:00.000Z
+published: 2026-11-02T15:29:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Matrimandir.svg
 aliases: []
 books:
-  - This experimental utopian "city of the future" in rural India may hold a dark
-    secret.
+  - This experimental utopian "city of the future" in rural India may hold a dark secret.
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 12.007
   - 79.8106
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Auroville]]"
 image: Attachments/Places/Matrimandir.svg
 ---
@@ -30,11 +30,13 @@ image: Attachments/Places/Matrimandir.svg
 Golden meditation dome at the centre of Auroville, India. The article describes its silent inner chamber.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This experimental utopian "city of the future" in rural India may hold a dark secret. | Atlas Obscura | subject | The golden dome is the centre of the plan, with absolute silence inside and a crystal globe lit by a single ray, faked by a solar light… |
 
 ## This experimental utopian "city of the future" in rural India may hold a dark secret. — Atlas Obscura (2016)
+
 Source: [Original](https://www.atlasobscura.com/places/auroville) · [Readwise highlight](https://read.readwise.io/read/01m5jy8fvm3335mc91p0dfmfkh)
 
 > Intended to house 50,000, the city centers around a giant golden geodesic dome known as the “Matrimandir” or Mother Temple.

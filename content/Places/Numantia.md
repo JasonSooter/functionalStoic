@@ -2,8 +2,12 @@
 publish: true
 title: Numantia
 created: 2026-10-23T11:14:44.000Z
-modified: 2026-11-02T17:59:23.003Z
-published: 2026-11-02T17:59:23.003Z
+modified: 2026-11-02T17:59:23.000Z
+published: 2026-11-02T17:59:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -16,12 +20,7 @@ icon: book
 location:
   - 41.8096
   - -2.4443
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Spain]]"
-image: Attachments/Places/Numantia.svg
 ---
 
 # Numantia
@@ -29,11 +28,13 @@ image: Attachments/Places/Numantia.svg
 Numantia was a Celtiberian hill town near Soria in northern Spain, destroyed by Rome in 133 BC. _Sapiens_ opens its chapter on empires with the siege.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | setting | Celtic town starved out by Rome in 134 BC, later a Spanish freedom symbol honoured in Latin-derived Spanish. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75s3m9rfaxcxy381b7ke0)
 
 > A small, insignificant mountain town called Numantia, inhabited by the peninsula’s native Celts, had dared to throw off the Roman yoke.

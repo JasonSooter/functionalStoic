@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Mashhad
-created: 2026-10-22T16:26:05.000Z
-modified: 2026-11-02T15:28:59.984Z
-published: 2026-11-02T15:28:59.984Z
 aliases:
   - Meshed
+title: Mashhad
+created: 2025-03-08
+modified: 2026-11-02T15:29:00.000Z
+published: 2026-11-02T15:29:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mashhad.svg
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 36.3264
   - 59.5433
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iran]]"
 image: Attachments/Places/Mashhad.svg
 ---
@@ -30,14 +31,17 @@ image: Attachments/Places/Mashhad.svg
 Shrine city in northeast Iran. In _Full Tilt_ (as 'Meshed') Dervla Murphy collects mail but is barred from the shrine quarter.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | Mail at the British Council, a barred shrine quarter and a frightening night ride back. |
 
 ## Sub-places
+
 - [[Imam Reza Shrine]]
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6ktee29vftb6szr2tx09t)
 
 > A car was kindly laid on to take me round the city yet it was most frustrating just to glimpse the out-of-bounds beauties of the mosques and shrine and museum and library.

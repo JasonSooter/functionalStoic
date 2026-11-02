@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Komodo
-created: 2026-10-22T13:40:36.000Z
-modified: 2026-11-02T08:55:26.351Z
-published: 2026-11-02T08:55:26.351Z
+created: 2024-10-04
+modified: 2026-11-02T14:18:11.000Z
+published: 2026-11-02T14:18:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Komodo.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - -8.55
   - 119.45
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Indonesia]]"
 image: Attachments/Places/Komodo.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Komodo.svg
 Island in Indonesia's Lesser Sunda chain, home of the Komodo dragon; the goal and climax of the 1956 Zoo Quest in _Life on Air_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The goal and climax of the 1956 Zoo Quest. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2qsebqdx37car2wvx8p3)
 
 > The headman received us in his thatched house. Yes, it was Komodo; and yes, there were buaja darat, land crocodiles, roaming around in the hills.

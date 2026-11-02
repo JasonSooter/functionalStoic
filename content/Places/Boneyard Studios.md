@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Boneyard Studios
-created: 2026-10-22T22:58:43.000Z
-modified: 2026-11-02T14:14:46.071Z
-published: 2026-11-02T14:14:46.071Z
+created: 2016-07-21
+modified: 2026-11-02T14:14:46.000Z
+published: 2026-11-02T14:14:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Boneyard Studios.svg
 aliases: []
 books:
   - The Trials of Tiny Homebuilding
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 38.924
   - -77.0084
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington, D.C.]]"
 image: Attachments/Places/Boneyard Studios.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Boneyard Studios.svg
 Tiny-house community in Washington, D.C. A piece on tiny homebuilding uses it to show how wheels get around building rules.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Trials of Tiny Homebuilding | Rachel Quednau | subject | Jay Austin helped start DC's first tiny home community, Boneyard Studios, and put the homes on wheels to avoid size rules |
 
 ## The Trials of Tiny Homebuilding — Rachel Quednau (2016)
+
 Source: [Original](https://www.strongtowns.org/journal/2016/7/12/tiny-homebuilding) · [Readwise highlight](https://read.readwise.io/read/01m5jx7154bf5n49w5k5eehwfd)
 
 > Washington DC has similar regulations about size and vehicles like the ones discussed above, so Jay and his neighbors put their homes on wheels to get around a lot of those legal challenges.

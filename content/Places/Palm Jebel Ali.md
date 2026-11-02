@@ -2,8 +2,12 @@
 publish: true
 title: Palm Jebel Ali
 created: 2026-10-20T07:38:16.000Z
-modified: 2026-11-02T18:15:25.042Z
-published: 2026-11-02T18:15:25.042Z
+modified: 2026-11-02T18:15:25.000Z
+published: 2026-11-02T18:15:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Dubai is Building a $15BN NEW PALM
@@ -15,12 +19,7 @@ icon: video
 location:
   - 25.01
   - 54.985
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dubai]]"
-image: Attachments/Places/Palm Jebel Ali.svg
 ---
 
 # Palm Jebel Ali
@@ -28,11 +27,13 @@ image: Attachments/Places/Palm Jebel Ali.svg
 Palm-shaped artificial island off Jebel Ali, south-west of central [[Dubai]], which a B1M short presents as the world's largest palm island, revived to more than double Dubai's coastline.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Dubai is Building a $15BN NEW PALM | The B1M | subject | The world's largest palm island, revived to more than double Dubai's coastline. |
+| Dubai is Building a \$15BN NEW PALM | The B1M | subject | The world's largest palm island, revived to more than double Dubai's coastline. |
 
-## Dubai is Building a $15BN NEW PALM — The B1M (2026)
+## Dubai is Building a \$15BN NEW PALM — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/shorts/ZL0z3TUz87Y) · [Readwise highlight](https://read.readwise.io/read/01m5c3p7fjqpsasxkeakrnxypd)
 
 > This is the Palm Jebali, the world's largest palm-shaped island.

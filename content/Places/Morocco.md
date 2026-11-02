@@ -2,8 +2,12 @@
 publish: true
 title: Morocco
 created: 2026-10-20T07:35:08.000Z
-modified: 2026-11-02T15:54:26.227Z
-published: 2026-11-02T15:54:26.227Z
+modified: 2026-11-02T15:54:26.000Z
+published: 2026-11-02T15:54:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Candide]]"
@@ -17,11 +21,6 @@ icon: book
 location:
   - 32
   - -6
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-image: Attachments/Places/Morocco.svg
 ---
 
 # Morocco
@@ -29,6 +28,7 @@ image: Attachments/Places/Morocco.svg
 Morocco is a country in north-west Africa. In Voltaire's _Candide_ it is the backdrop of the old woman's tale of captivity and civil war.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | backdrop | In the old woman's tale, she and her mother arrive as captives into a civil war and her mother is torn to pieces |
@@ -42,6 +42,7 @@ Morocco is a country in north-west Africa. In Voltaire's _Candide_ it is the bac
 - [[Tangier]]
 
 ## Candide — Voltaire (1759)
+
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75a5kv6npccmx7a46306f)
 
 > Morocco swam in blood when we arrived.

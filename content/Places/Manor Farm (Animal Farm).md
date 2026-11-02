@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Manor Farm (Animal Farm)
-created: 2026-10-22T23:16:37.000Z
-modified: 2026-11-02T15:21:50.263Z
-published: 2026-11-02T15:21:50.263Z
+created: 2024-12-28
+modified: 2026-11-02T15:21:50.000Z
+published: 2026-11-02T15:21:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Manor Farm (Animal Farm).svg
 aliases: []
 books:
   - "[[Animal Farm]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 51.988
   - -0.119
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Wallington, Hertfordshire]]"
 image: Attachments/Places/Manor Farm (Animal Farm).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Manor Farm (Animal Farm).svg
 Fictional English farm of Animal Farm, pinned at Wallington, Hertfordshire, where Orwell lived next to a Manor Farm. The whole fable unfolds there, from Major's speech to the windmill.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Animal Farm]] | George Orwell | setting | The whole story takes place here: old Major's speech in the big barn, the Rebellion that expels Jones, the renaming at the five-barred… |
 
 ## Animal Farm — George Orwell (1945)
+
 Source: [[Animal Farm]] · [Original](https://www.penguin.co.uk/books/56486/animal-farm)
 
 > Mr. Jones, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.

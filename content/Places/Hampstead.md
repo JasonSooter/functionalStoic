@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Hampstead
-created: 2026-10-22T19:56:51.000Z
-modified: 2026-11-02T05:36:18.644Z
-published: 2026-11-02T05:36:18.644Z
+created: 2024-12-21
+modified: 2026-11-02T14:17:18.000Z
+published: 2026-11-02T14:17:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hampstead.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 51.5541
   - -0.1744
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Hampstead.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Hampstead.svg
 Neighbourhood of north London. A setting in Colum McCann's _Apeirogon_: Where Nurit retreats to with young Yigal after Smadar's death.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Where Nurit retreats to with young Yigal after Smadar's death |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjq16mxz6vacapqprdz5tz)
 
 > She and Yigal stayed with a family in Hampstead—the bottom flat of a three-story Tudor, yellow roses out the back, the branches of the trees gently scraping the windowpane.

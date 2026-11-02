@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Half Moon Bay, California
-created: 2026-10-22T14:40:34.000Z
-modified: 2026-11-02T14:17:28.635Z
-published: 2026-11-02T14:17:28.635Z
+created: 2024-10-04
+modified: 2026-11-02T14:17:29.000Z
+published: 2026-11-02T14:17:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Half Moon Bay, California.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - 37.4589
   - -122.4369
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Half Moon Bay, California.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Half Moon Bay, California.svg
 Coastal city south of San Francisco; in _Life on Air_ Attenborough rides a Zodiac beside a surfacing blue whale.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough rides a Zodiac beside a surfacing blue whale. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy90hqp8zzsfb771394028)
 
 > We joined him south of San Francisco on the coast of Half Moon Bay.

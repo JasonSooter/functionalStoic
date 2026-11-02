@@ -2,12 +2,15 @@
 publish: true
 title: Nantucket Atheneum
 created: 2026-10-22T22:59:06.000Z
-modified: 2026-11-02T17:48:49.225Z
-published: 2026-11-02T17:48:49.225Z
+modified: 2026-11-02T17:48:49.000Z
+published: 2026-11-02T17:48:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
-  - "Maria Mitchell and the Spider’s Web: A Touching Testament to Tenacity from America’s\
-    \ First Woman Astronomer"
+  - "Maria Mitchell and the Spider’s Web: A Touching Testament to Tenacity from America’s First Woman Astronomer"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,12 +20,7 @@ icon: newspaper
 location:
   - 41.2843
   - -70.0983
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nantucket]]"
-image: Attachments/Places/Nantucket Atheneum.svg
 ---
 
 # Nantucket Atheneum
@@ -30,11 +28,13 @@ image: Attachments/Places/Nantucket Atheneum.svg
 Public library on Nantucket, Massachusetts. Maria Mitchell recalls finding spider cocoons in its library room.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Maria Mitchell and the Spider’s Web: A Touching Testament to Tenacity from America’s First Woman Astronomer | Maria Popova | turning point | Told to use cocoon web, Mitchell recalls two cocoons she had seen in the library room of the Atheneum and retrieves them to make her… |
 
 ## Maria Mitchell and the Spider’s Web: A Touching Testament to Tenacity from America’s First Woman Astronomer — Maria Popova (2016)
+
 Source: [Original](https://www.brainpickings.org/2016/08/01/maria-mitchell-diary-spider/) · [Readwise highlight](https://read.readwise.io/read/01m5jx99wsja3zshbakp90fsz4)
 
 > I remembered at once that I had seen two in the library room of the Atheneum, which I had carefully refrained from disturbing.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Ben Yehuda Street
-created: 2026-10-22T16:49:10.000Z
-modified: 2026-11-02T14:14:33.878Z
-published: 2026-11-02T14:14:33.878Z
 aliases:
   - Ben Yehuda
+title: Ben Yehuda Street
+created: 2024-12-21
+modified: 2026-11-02T14:14:34.000Z
+published: 2026-11-02T14:14:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ben Yehuda Street.svg
 books:
   - "[[Apeirogon]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 31.7815
   - 35.2176
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jerusalem]]"
 image: Attachments/Places/Ben Yehuda Street.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Ben Yehuda Street.svg
 Pedestrian street in central [[Jerusalem]]. In _Apeirogon_ it is where a suicide bombing kills Smadar Elhanan.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | turning point | Where the bombers killed Smadar, from the café awning to the ZAKA clean-up. |
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7w47awzcfy4gp3gwppap2)
 
 > The force of the blast on Ben Yehuda Street knocked her high in the air.

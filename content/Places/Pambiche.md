@@ -2,8 +2,12 @@
 publish: true
 title: Pambiche
 created: 2026-10-22T10:26:55.000Z
-modified: 2026-11-02T18:15:25.102Z
-published: 2026-11-02T18:15:25.102Z
+modified: 2026-11-02T18:15:25.000Z
+published: 2026-11-02T18:15:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - August 2015 Goals and Financial Update
@@ -16,12 +20,7 @@ icon: newspaper
 location:
   - 45.5266
   - -122.6369
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Portland, Oregon]]"
-image: Attachments/Places/Pambiche.svg
 ---
 
 # Pambiche
@@ -29,11 +28,13 @@ image: Attachments/Places/Pambiche.svg
 Cuban restaurant in north-east [[Portland, Oregon]], one of Retire by 40's goal restaurants for the month.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | August 2015 Goals and Financial Update | Retire by 40 | setting | A colourful Cuban restaurant: oxtail for him, and a promise to work through the whole menu. |
 
 ## August 2015 Goals and Financial Update — Retire by 40 (2015)
+
 Source: [Original](http://retireby40.org/august-2015-goals-and-financial-update/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1xvsdk697wan6ypk6qh1)
 
 > Pambiche is a great authentic Cuban restaurant in a colorful building on the east side of town.

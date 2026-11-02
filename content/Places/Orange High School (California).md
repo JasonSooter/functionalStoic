@@ -2,8 +2,12 @@
 publish: true
 title: Orange High School (California)
 created: 2026-10-22T16:48:38.000Z
-modified: 2026-11-02T18:09:58.642Z
-published: 2026-11-02T18:09:58.642Z
+modified: 2026-11-02T18:09:59.000Z
+published: 2026-11-02T18:09:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "#savings: Can Social Media Nudge Teens into Smarter Money Choices?"
@@ -16,12 +20,7 @@ icon: newspaper
 location:
   - 33.7962
   - -117.8472
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
-image: Attachments/Places/Orange High School (California).svg
 ---
 
 # Orange High School (California)
@@ -29,11 +28,13 @@ image: Attachments/Places/Orange High School (California).svg
 Public high school in Orange, Orange County, California. A financial-literacy mentoring programme works there in an article on teens and saving.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #savings: Can Social Media Nudge Teens into Smarter Money Choices? | Chris Berdik | setting | Chapman mentors teach students that skipping a $3 coffee adds up to over $1,000 a year. |
 
 ## #savings: Can Social Media Nudge Teens into Smarter Money Choices? — Chris Berdik (2016)
+
 Source: [Original](http://ww2.kqed.org/mindshift/2016/03/16/savings-can-social-media-nudge-teens-into-smarter-money-choices/) · [Readwise highlight](https://read.readwise.io/read/01m5j7teyevfm89djgr015m7na)
 
 > The Chapman mentors work with students at Orange High School, where nearly three quarters of the students qualify for free or reduced-price lunch.

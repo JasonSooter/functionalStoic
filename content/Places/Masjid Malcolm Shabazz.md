@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Masjid Malcolm Shabazz
-created: 2026-10-21T19:59:26.000Z
-modified: 2026-11-02T15:29:00.028Z
-published: 2026-11-02T15:29:00.028Z
 aliases:
   - Harlem Temple of the Nation of Islam
   - Temple No. 7
+title: Masjid Malcolm Shabazz
+created: 2024-05-18
+modified: 2026-11-02T15:29:00.000Z
+published: 2026-11-02T15:29:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Masjid Malcolm Shabazz.svg
 books:
   - How to Be an Antiracist
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.802
   - -73.9502
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Masjid Malcolm Shabazz.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Masjid Malcolm Shabazz.svg
 Mosque on West 116th Street in Harlem, formerly the Nation of Islam's Temple No. 7. In How to Be an Antiracist (Ibram X. Kendi) it is where his father confronts sexism in the movement.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | setting | Harlem temple where Kendi's father confronts a minister's sexism. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5g0f31q6bzh4fryh4k8eh6j)
 
 > On another day, in the summer of 1971, Dad and a girlfriend before Ma ventured up to the Harlem Temple of the Nation of Islam.

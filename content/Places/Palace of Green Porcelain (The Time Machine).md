@@ -2,8 +2,12 @@
 publish: true
 title: Palace of Green Porcelain (The Time Machine)
 created: 2026-10-22T23:17:24.000Z
-modified: 2026-11-02T18:15:24.978Z
-published: 2026-11-02T18:15:24.978Z
+modified: 2026-11-02T18:15:25.000Z
+published: 2026-11-02T18:15:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Time Machine
@@ -18,12 +22,7 @@ icon: book
 location:
   - 51.4189
   - -0.2642
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
-image: Attachments/Places/Palace of Green Porcelain (The Time Machine).svg
 ---
 
 # Palace of Green Porcelain (The Time Machine)
@@ -31,11 +30,13 @@ image: Attachments/Places/Palace of Green Porcelain (The Time Machine).svg
 Ruined museum of the far future in The Time Machine, "some latter-day South Kensington". Pinned as a best guess near Coombe, south-west London, on the route towards Wimbledon.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Time Machine | H. G. Wells | setting | The Time Traveller carries Weena there as a refuge from the Morlocks |
 
 ## The Time Machine — H. G. Wells (1895)
+
 Source: [Original](https://www.penguin.co.uk/books/55966/the-time-machine) · [Readwise highlight](https://read.readwise.io/read/01m5jy9v185wg8rbayf7msqzhe)
 
 > Clearly we stood among the ruins of some latter-day South Kensington!

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: MercyOne Des Moines Medical Center
-created: 2026-10-23T04:59:32.000Z
-modified: 2026-11-02T15:35:01.540Z
-published: 2026-11-02T15:35:01.540Z
 aliases:
   - Mercy Hospital (Des Moines)
+title: MercyOne Des Moines Medical Center
+created: 2025-06-03
+modified: 2026-11-02T15:35:02.000Z
+published: 2026-11-02T15:35:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/MercyOne Des Moines Medical Center.svg
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 41.599
   - -93.623
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Des Moines]]"
 image: Attachments/Places/MercyOne Des Moines Medical Center.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/MercyOne Des Moines Medical Center.svg
 Hospital in Des Moines, Iowa, founded as Mercy Hospital. In _The Life and Times of the Thunderbolt Kid_ it is where Bill Bryson is born.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Life and Times of the Thunderbolt Kid]] | Bill Bryson | setting | Bryson's birthplace on a snowy December day: "first superhero". |
 
 ## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
+
 Source: [[The Life and Times of the Thunderbolt Kid]] · [Original](https://openlibrary.org/works/OL4620956W) · [Readwise highlight](https://read.readwise.io/read/01m5khtfypan50115jzjapfj2y)
 
 > his wife went into Mercy Hospital and with very little fuss gave birth to a boy: their third child, second son, first superhero.

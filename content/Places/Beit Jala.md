@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Beit Jala
-created: 2026-10-22T16:49:02.000Z
-modified: 2026-11-02T14:14:35.314Z
-published: 2026-11-02T14:14:35.314Z
+created: 2024-12-21
+modified: 2026-11-02T14:14:35.000Z
+published: 2026-11-02T14:14:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Beit Jala.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 31.715
   - 35.1872
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Bank]]"
 image: Attachments/Places/Beit Jala.svg
 ---
@@ -29,16 +30,19 @@ image: Attachments/Places/Beit Jala.svg
 Palestinian town in the West Bank next to Bethlehem. A central place in Colum McCann's _Apeirogon_, under the bird flyway.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Hill town under the bird flyway, where Combatants for Peace first met and Rami rides twice a week. |
 
 ## Sub-places
+
 - [[Cremisan Monastery]]
 - [[Everest Hotel (Beit Jala)]]
 - [[Talitha Kumi]]
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7vnzg1qq5asgdk8gzzcww)
 
 > Five hundred million birds arc the sky over the hills of Beit Jala every year.

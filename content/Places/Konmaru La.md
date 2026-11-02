@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Konmaru La
-created: 2026-10-20T10:42:05.000Z
-modified: 2026-11-02T08:55:26.371Z
-published: 2026-11-02T08:55:26.371Z
 aliases:
   - Kongmaru La
   - Gongmaru La
+title: Konmaru La
+created: 2025-12-19
+modified: 2026-11-02T14:16:53.000Z
+published: 2026-11-02T14:16:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Konmaru La.svg
 books:
   - "Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky"
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 33.8142
   - 77.6037
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ladakh]]"
 image: Attachments/Places/Konmaru La.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Konmaru La.svg
 High pass (5,250 m, per the text) at the head of the [[Markha Valley]], [[Ladakh]], India, the brutal climax of a bikepacking ride described in The Radavist.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Touring the Indian Himalayas - Bikepacking the Markha Valley – Jan Zdansky\|Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky]] | The Radavist | turning point | The crux: pushing a loaded bike to 5,250 metres in snow with altitude sickness. |
 
 ## Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky — The Radavist (2025)
+
 Source: [Original](https://theradavist.com/touring-the-indian-himalayas-bikepacking-the-markha-valley) · [Readwise highlight](https://read.readwise.io/read/01m5ce3bjztrn7cngax0svvgn7)
 
 > Nimaling is an improvised camp with prepared tents and, most importantly, the possibility of refreshment. I settled my upset stomach with black tea and got to it: the final, most brutal section up to the 5,250-meter-high Konmaru La Pass.

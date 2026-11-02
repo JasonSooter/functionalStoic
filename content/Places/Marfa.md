@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Marfa
-created: 2026-10-21T19:23:27.000Z
-modified: 2026-11-02T15:21:50.359Z
-published: 2026-11-02T15:21:50.359Z
 aliases:
   - Marfa, Texas
+title: Marfa
+created: 2015-11-28
+modified: 2026-11-02T15:21:50.000Z
+published: 2026-11-02T15:21:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Marfa.svg
 books:
   - Shinola / Bringing Watchmaking Back to America
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 30.3106
   - -104.0256
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Texas]]"
 image: Attachments/Places/Marfa.svg
 ---
@@ -30,12 +31,14 @@ image: Attachments/Places/Marfa.svg
 Small desert town in far West Texas known for Donald Judd's minimalist art. In a maker.co story about Shinola it is the creative director's favourite place.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Shinola / Bringing Watchmaking Back to America | maker.co | subject | Shinola's creative director names it his design inspiration. |
 
 ## Shinola / Bringing Watchmaking Back to America — maker.co (2015)
-Source: [Original](http://stories.maker.me/shinola-bringing-watchmaking-back-to-america/?ct=t%28Shinola4_24_2015%29&goal=0_f9ee358102-a45ef1d403-195588993) · [Readwise highlight](https://read.readwise.io/read/01m5fye3x8mhta6j0naa0dzs60)
+
+Source: [Original](http://stories.maker.me/shinola-bringing-watchmaking-back-to-america/?ct=t%28Shinola4_24_2015%29\&goal=0_f9ee358102-a45ef1d403-195588993) · [Readwise highlight](https://read.readwise.io/read/01m5fye3x8mhta6j0naa0dzs60)
 
 > To me, one of the most intriguing places in the United States is Marfa, Texas.
 

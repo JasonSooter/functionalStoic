@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Keweenaw National Historical Park
-created: 2026-10-21T22:57:37.000Z
-modified: 2026-11-02T08:54:58.556Z
-published: 2026-11-02T08:54:58.556Z
+created: 2015-11-28
+modified: 2026-11-02T14:17:51.000Z
+published: 2026-11-02T14:17:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Keweenaw National Historical Park.svg
 aliases: []
 books:
   - Michigan’s Upper Peninsula Wrap-Up
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 47.1564
   - -88.5636
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Michigan]]"
 image: Attachments/Places/Keweenaw National Historical Park.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Keweenaw National Historical Park.svg
 Copper-mining heritage park at Calumet on the Keweenaw Peninsula, [[Michigan]]. A Currently Wandering post earns a Junior Ranger badge there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Michigan’s Upper Peninsula Wrap-Up | Jess | journey waypoint | Day trip to Calumet's visitor centre for a 74th Junior Ranger badge. |
 
 ## Michigan’s Upper Peninsula Wrap-Up — Jess (2015)
+
 Source: [Original](http://currentlywandering.com/2015/08/18/michigans-upper-peninsula-wrap-up/) · [Readwise highlight](https://read.readwise.io/read/01m5gap0g6b948h63mza2xejsb)
 
 > We day tripped up to Calumet and the Keweenaw National Historic Site Visitor Center to earn our 74th Jr. Ranger Badge and enjoyed learning about the history of the area.

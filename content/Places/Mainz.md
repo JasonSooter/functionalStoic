@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Mainz
-created: 2026-10-23T11:14:38.000Z
-modified: 2026-11-02T15:17:21.228Z
-published: 2026-11-02T15:17:21.228Z
+created: 2026-10-23
+modified: 2026-11-02T15:17:21.000Z
+published: 2026-11-02T15:17:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mainz.svg
 aliases: []
 books:
   - "[[Germany - Memories of a Nation]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 49.9994
   - 8.2736
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rhineland-Palatinate]]"
 image: Attachments/Places/Mainz.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Mainz.svg
 Cathedral city on the Rhine opposite the mouth of the Main, capital of Rhineland-Palatinate. In _Germany: Memories of a Nation_ it is where Gutenberg printed his bible.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | setting | Gutenberg's city, where wine presses, metalworking, paper fairs and the Rhine came together for the printed bible. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m762t18swh7dan92pq8dv5)
 
 > This man was a great combiner, a great entrepreneur, and there are few places where he could have operated so successfully in the 1450s as in Mainz.

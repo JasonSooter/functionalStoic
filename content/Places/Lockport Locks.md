@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Lockport Locks
-created: 2026-10-23T01:32:44.000Z
-modified: 2026-11-02T11:54:24.454Z
-published: 2026-11-02T11:54:24.454Z
 aliases:
   - Flight of Five
+title: Lockport Locks
+created: 2017-02-05
+modified: 2026-11-02T14:18:42.000Z
+published: 2026-11-02T14:18:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lockport Locks.svg
 books:
   - Erie Canal
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 43.1752
   - -78.6873
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Lockport Locks.svg
 ---
@@ -38,6 +39,7 @@ The Erie Canal's flight of locks up the Niagara Escarpment at Lockport, New York
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | subject | Nathan Roberts's double flight of five locks climbs the Niagara escarpment; a seven-mile Deep Cut follows. |
 
 ## Erie Canal — wikipedia.org (2001)
+
 Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise highlight](https://read.readwise.io/read/01m5k5scbq1kp2d1wkrjctvckk)
 
 > The route followed the channel of a creek that had cut a ravine steeply down the escarpment. The construction and operation of two sets of five locks along a 3-mile (4.8 km) corridor soon gave rise to the community of
@@ -47,6 +49,7 @@ Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise high
 - **Why it matters:** The steepest climb of the route, which created the town of Lockport.
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvdyjj89vxt8ngev9fee5w)
 
 > Soon to be appropriately named Lockport, the town had increased to 337 families by January 1823, when the contracts had been let and the first digging had begun.

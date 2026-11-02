@@ -2,8 +2,8 @@
 publish: true
 title: Schwetzinger Relaishaus
 created: 2026-10-20T13:52:23.000Z
-modified: 2026-10-21T11:19:17.000Z
-published: 2026-10-21T11:19:17.000Z
+modified: 2026-11-02T14:19:14.000Z
+published: 2026-11-02T14:19:14.000Z
 tags:
   - places
   - place/literary

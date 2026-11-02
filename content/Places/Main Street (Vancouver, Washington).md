@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Main Street (Vancouver, Washington)
-created: 2026-10-21T13:55:14.000Z
-modified: 2026-11-02T15:17:21.200Z
-published: 2026-11-02T15:17:21.200Z
 aliases:
   - Vancouver, Washington
+title: Main Street (Vancouver, Washington)
+created: 2024-05-18
+modified: 2026-11-02T15:17:21.000Z
+published: 2026-11-02T15:17:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Main Street (Vancouver, Washington).svg
 books:
   - "[[Walkable City]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 45.6311
   - -122.6717
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington (state)]]"
 image: Attachments/Places/Main Street (Vancouver, Washington).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Main Street (Vancouver, Washington).svg
 Main Street is the downtown main street of Vancouver, Washington. It turns up in Walkable City (Jeff Speck): The best-documented recent one-way reversion, with a quote from the Downtown Association's head.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Vancouver's one-way Main Street was converted back to two-way on November 16, 2008. |
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbmmx10e9jn95nrkk03e9q)
 
 > Perhaps the best documented of recent reversions was accomplished in Vancouver, Washington.

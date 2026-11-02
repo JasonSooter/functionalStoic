@@ -2,8 +2,12 @@
 publish: true
 title: Sprogø
 created: 2026-10-21T10:49:19.000Z
-modified: 2026-11-02T14:21:23.800Z
-published: 2026-11-02T14:21:23.800Z
+modified: 2026-11-02T14:21:24.000Z
+published: 2026-11-02T14:21:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - The Year of Living Danishly
@@ -16,10 +20,6 @@ icon: book
 location:
   - 55.3333
   - 10.9667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Denmark]]"
 ---
 
@@ -28,11 +28,13 @@ within: "[[Denmark]]"
 Small island in the Great Belt, Denmark, once the site of an institution for women. It appears in the reading as the history that shocks Helen Russell in The Year of Living Danishly.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Year of Living Danishly | Helen Russell | subject | Island institution where 'promiscuous' women were confined, founded by Keller in 1923. |
 
 ## The Year of Living Danishly — Helen Russell (2015)
+
 Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highlight](https://read.readwise.io/read/01m5f0s50kxfsrsxdhawxtz3pa)
 
 > Sprogø, it emerges, was used for the containment of women deemed ‘pathologically promiscuous’, ‘morally retarded’, ‘sexually frivolous’

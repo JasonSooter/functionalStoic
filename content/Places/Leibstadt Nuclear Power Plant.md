@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Leibstadt Nuclear Power Plant
-created: 2026-10-21T14:11:59.000Z
-modified: 2026-11-02T11:46:55.610Z
-published: 2026-11-02T11:46:55.610Z
 aliases:
   - Leibstadt nuclear reactor
   - KKL
+title: Leibstadt Nuclear Power Plant
+created: 2024-04-05
+modified: 2026-11-02T14:18:47.000Z
+published: 2026-11-02T14:18:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Leibstadt Nuclear Power Plant.svg
 books:
   - What if you swam in a nuclear storage pool?
 categories:
@@ -18,10 +23,6 @@ icon: video
 location:
   - 47.6031
   - 8.1847
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland]]"
 image: Attachments/Places/Leibstadt Nuclear Power Plant.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Leibstadt Nuclear Power Plant.svg
 Leibstadt Nuclear Power Plant is a nuclear power plant on the Rhine in northern Switzerland. It turns up in What if you swam in a nuclear storage pool? (xkcd's What If?): It supplies the real incident that shows spent fuel pools are swimmable but dangerous, the article's evidence for the safe-except-at-the-bottom answer.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What if you swam in a nuclear storage pool? | xkcd's What If? | turning point | On August 31st, 2010 a diver servicing the spent fuel pool here found a length of tubing on the pool floor and put it in his tool basket,… |
 
 ## What if you swam in a nuclear storage pool? — xkcd's What If? (2024)
+
 Source: [Original](https://www.youtube.com/watch?v=EFRUL7vKdU8) · [Readwise highlight](https://read.readwise.io/read/01m5fcnvx1k98y183g5198ssy1)
 
 > spent fuel pool at the Leibstadt nuclear reactor

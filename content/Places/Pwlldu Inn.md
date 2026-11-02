@@ -1,30 +1,28 @@
 ---
 publish: true
-title: Pwlldu Inn
-created: 2026-10-21T13:55:32.000Z
-modified: 2026-11-02T18:40:41.499Z
-published: 2026-11-02T18:40:41.499Z
 aliases:
   - Pwll Du Inn
+title: Pwlldu Inn
+created: 2026-10-21T13:55:32.000Z
+modified: 2026-11-02T18:40:41.000Z
+published: 2026-11-02T18:40:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[The Tiger Is in the Library]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 51.5634,-4.0557
-geo_note: approximate (Pwlldu Bay, the beach by the hamlet; inn building itself not
-  located). Not the Monmouthshire 'Pwll Du' near Blaenavon, which is a different place.
+geo_note: approximate (Pwlldu Bay, the beach by the hamlet; inn building itself not located). Not the Monmouthshire 'Pwll Du' near Blaenavon, which is a different place.
 geo_source: Wikipedia (en) Pwlldu Bay
 icon: newspaper
 location:
   - 51.5634
   - -4.0557
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Wales]]"
-image: Attachments/Places/Pwlldu Inn.svg
 ---
 
 # Pwlldu Inn
@@ -32,11 +30,13 @@ image: Attachments/Places/Pwlldu Inn.svg
 Pwlldu Inn is a former inn at Pwlldu on the Gower Peninsula, Wales. It turns up in The tiger is in the library (Shaun Usher): It is the sole physical setting of the letter's anecdote.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Tiger Is in the Library\|The tiger is in the library]] | Shaun Usher | setting | Dylan Thomas, writing in December 1934, describes sitting on the inn's porch with a sandwich and a quart mug when a huge, fat rat stamps… |
 
 ## The tiger is in the library — Shaun Usher (2024)
+
 Source: [[The Tiger Is in the Library]] · [Original](https://news.lettersofnote.com/p/the-tiger-is-in-the-library) · [Readwise highlight](https://read.readwise.io/read/01m5fbgp1qa38xekke49jkrecg)
 
 > I was sitting in the porch of the Pwlldu Inn on a cold, sunny afternoon, eating an unnaturally large sandwich and sipping at a quart mug

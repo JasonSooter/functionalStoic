@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Guatemalan town museum (Surely You're Joking)
-created: 2026-10-23T04:24:31.000Z
-modified: 2026-11-02T05:31:03.762Z
-published: 2026-11-02T05:31:03.762Z
+created: 2025-10-25
+modified: 2026-11-02T14:16:52.000Z
+published: 2026-11-02T14:16:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Guatemalan town museum (Surely You're Joking).svg
 aliases: []
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 15.5
   - -90.25
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Guatemala]]"
 image: Attachments/Places/Guatemalan town museum (Surely You're Joking).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Guatemalan town museum (Surely You're Joking).svg
 An unnamed museum in a small Guatemalan town where Feynman finds a copy of the Dresden Codex on his honeymoon. The book never names the town, so it is pinned at a representative point for Guatemala.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | turning point | On his honeymoon Feynman buys a copy of the Dresden Codex in a small museum and starts decoding Mayan numbers. |
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
+
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfr50672ncy5bmh8nydfv7)
 
 > In some little Guatemalan town in the middle of nowhere we went into a museum that had a case displaying a manuscript full of strange symbols, pictures, and bars and dots.

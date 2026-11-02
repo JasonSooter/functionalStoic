@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Hamburg, South Carolina
-created: 2026-10-21T19:59:01.000Z
-modified: 2026-11-02T05:36:18.608Z
-published: 2026-11-02T05:36:18.608Z
 aliases:
   - Hamburg (South Carolina)
+title: Hamburg, South Carolina
+created: 2024-05-18
+modified: 2026-11-02T14:17:07.000Z
+published: 2026-11-02T14:17:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hamburg, South Carolina.svg
 books:
   - How to Be an Antiracist
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 33.4833
   - -81.95
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South Carolina]]"
 image: Attachments/Places/Hamburg, South Carolina.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Hamburg, South Carolina.svg
 Former Black town on the Savannah River in South Carolina, site of the 1876 Hamburg massacre. In How to Be an Antiracist (Ibram X. Kendi) it shows racist terror used to win power.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | subject | Site of the 1876 massacre Tillman later boasted of. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5g0ew7xtcge4g1kq91hdzjw)
 
 > On July 8, 1876, a young Tillman had joined the power-hungry White mob that murdered at least seven Black militiamen defending Black power in the Black town of Hamburg, South Carolina.

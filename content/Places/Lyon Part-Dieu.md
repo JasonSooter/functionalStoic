@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Lyon Part-Dieu
-created: 2026-10-20T13:45:30.000Z
-modified: 2026-11-02T12:00:48.761Z
-published: 2026-11-02T12:00:48.761Z
 aliases:
   - Gare de Lyon-Part-Dieu
+title: Lyon Part-Dieu
+created: 2025-11-16
+modified: 2026-11-02T14:18:31.000Z
+published: 2026-11-02T14:18:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lyon Part-Dieu.svg
 books:
   - This new French train is a revolution... Here's why!
 categories:
@@ -17,10 +22,6 @@ icon: video
 location:
   - 45.7606
   - 4.8592
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[France]]"
 image: Attachments/Places/Lyon Part-Dieu.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Lyon Part-Dieu.svg
 Main railway station of Lyon, [[France]], where a Simply Railway video ends its Paris-free intercity train journey.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[This New French Train Is a Revolution... Here's Why!\|This new French train is a revolution... Here's why!]] | Simply Railway | journey waypoint | End of the Paris-free journey. |
 
 ## This new French train is a revolution... Here's why! — Simply Railway (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=iYvf1Dny-6Y) · [Readwise highlight](https://read.readwise.io/read/01m5crdwbywrfs04y4mcff22t4)
 
 > We’re approaching our stop: Lyon Part-Dieu — though the terminus is Lyon-Perrache, a couple of kilometres further down the line.

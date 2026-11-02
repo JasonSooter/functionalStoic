@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Leaning Tower of Pisa
-created: 2026-10-20T16:27:16.000Z
-modified: 2026-11-02T11:46:55.498Z
-published: 2026-11-02T11:46:55.498Z
 aliases:
   - Tower of Pisa
+title: Leaning Tower of Pisa
+created: 2025-10-25
+modified: 2026-11-02T14:18:38.000Z
+published: 2026-11-02T14:18:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Leaning Tower of Pisa.svg
 books:
   - Physics Insight
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 43.7231
   - 10.3964
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pisa]]"
 image: Attachments/Places/Leaning Tower of Pisa.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Leaning Tower of Pisa.svg
 Bell tower of Pisa Cathedral in [[Pisa]], Italy, the setting of Galileo's legendary weight drop and its modern parody in an xkcd comic.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Physics Insight]] | xkcd | subject | Galileo's legendary drop, repeated by someone less lucky. |
 
 ## Physics Insight — xkcd (2025)
+
 Source: [Original](https://xkcd.com/3154/) · [Readwise highlight](https://read.readwise.io/read/01m5d20sjm3kx933sj6c2d578e)
 
 > When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books.

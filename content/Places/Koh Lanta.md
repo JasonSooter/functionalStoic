@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Koh Lanta
-created: 2026-10-22T19:58:20.000Z
-modified: 2026-11-02T08:55:26.279Z
-published: 2026-11-02T08:55:26.279Z
+created: 2016-06-24
+modified: 2026-11-02T14:18:13.000Z
+published: 2026-11-02T14:18:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Koh Lanta.svg
 aliases: []
 books:
   - Here’s What Happens When the Entire Planet Is Your Office
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 7.6556
   - 99.0419
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Thailand]]"
 image: Attachments/Places/Koh Lanta.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Koh Lanta.svg
 Island district in Krabi Province, Thailand. A setting in Karen Emslie's “Here’s What Happens When the Entire Planet Is Your Office”: Thai island district hosting a 10-day DNX digital nomad camp.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Here’s What Happens When the Entire Planet Is Your Office | Karen Emslie | setting | Thai island district hosting a 10-day DNX digital nomad camp |
 
 ## Here’s What Happens When the Entire Planet Is Your Office — Karen Emslie (2016)
+
 Source: [Original](http://www.good.is/posts/digital-nomads-redefine-working-from-home) · [Readwise highlight](https://read.readwise.io/read/01m5jjrtkgmnw54946p4n68tqr)
 
 > The conversation is part of a session for a digital nomad camp on Koh Lanta, a Thai island district

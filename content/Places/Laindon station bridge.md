@@ -1,12 +1,17 @@
 ---
 publish: true
 title: Laindon station bridge
-created: 2026-10-21T11:07:26.000Z
-modified: 2026-11-02T11:34:22.574Z
-published: 2026-11-02T11:34:22.574Z
+created: 2024-09-01
+modified: 2026-11-02T14:18:12.000Z
+published: 2026-11-02T14:18:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Laindon station bridge.svg
 aliases: []
 books:
-  - '#006 Hopeful news about cycling'
+  - "#006 Hopeful news about cycling"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 51.5677
   - 0.4236
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Basildon]]"
 image: Attachments/Places/Laindon station bridge.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Laindon station bridge.svg
 Foot and cycle bridge at Laindon station, Basildon, Essex. Dave Walker is photographed there surveying cycle routes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #006 Hopeful news about cycling | Dave Walker | setting | Surveying local cycle routes with a council coordinator. |
 
 ## #006 Hopeful news about cycling — Dave Walker (2024)
+
 Source: [Original](https://diagramclub.substack.com/p/006-hopeful-news-about-cycling) · [Readwise highlight](https://read.readwise.io/read/01m5f1wd07694xrjzv28chmqb6)
 
 > Here we are at the robust-but-confusing Laindon station cycling and walking bridge.

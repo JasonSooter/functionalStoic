@@ -2,8 +2,12 @@
 publish: true
 title: Montezuma Marsh
 created: 2026-10-23T01:32:41.000Z
-modified: 2026-11-02T15:48:00.889Z
-published: 2026-11-02T15:48:00.889Z
+modified: 2026-11-02T15:48:01.000Z
+published: 2026-11-02T15:48:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Erie Canal
@@ -17,12 +21,7 @@ icon: newspaper
 location:
   - 42.97
   - -76.74
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York State]]"
-image: Attachments/Places/Montezuma Marsh.svg
 ---
 
 # Montezuma Marsh
@@ -30,11 +29,13 @@ image: Attachments/Places/Montezuma Marsh.svg
 Wetland at the north end of Cayuga Lake, New York. The Erie Canal article tells of the malaria rumours that halted canal work there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Erie Canal | wikipedia.org | turning point | When construction reached the marsh at the outlet of Cayuga Lake, rumor held that over 1,000 workers died of malaria and work halted. |
 
 ## Erie Canal — wikipedia.org (2001)
+
 Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise highlight](https://read.readwise.io/read/01m5k5sa4ne9dmk44t1e643pst)
 
 > it was rumored that over 1,000 workers died of "swamp fever" (malaria), and construction was temporarily stopped.

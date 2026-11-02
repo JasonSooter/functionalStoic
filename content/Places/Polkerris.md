@@ -1,13 +1,17 @@
 ---
 publish: true
-title: Polkerris
-created: 2026-10-20T19:37:57.000Z
-modified: 2026-11-02T18:30:31.720Z
-published: 2026-11-02T18:30:31.720Z
 aliases:
   - Rashleigh Inn
+title: Polkerris
+created: 2026-10-20T19:37:57.000Z
+modified: 2026-11-02T18:30:32.000Z
+published: 2026-11-02T18:30:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
-  - '#050 Is that a kayaking nun?'
+  - "#050 Is that a kayaking nun?"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,12 +21,7 @@ icon: newspaper
 location:
   - 50.3382
   - -4.6804
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cornwall]]"
-image: Attachments/Places/Polkerris.svg
 ---
 
 # Polkerris
@@ -30,11 +29,13 @@ image: Attachments/Places/Polkerris.svg
 Beach hamlet on St Austell Bay, [[Cornwall]], England, which appears in the reading as the subject of a holiday drawing of the Rashleigh Inn.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #050 Is that a kayaking nun? | Diagram Club | subject | An outdoor drawing of the Rashleigh Inn on the beach. |
 
 ## #050 Is that a kayaking nun? — Diagram Club (2025)
+
 Source: [Original](https://diagramclub.substack.com/p/050-is-that-a-kayaking-nun) · [Readwise highlight](https://read.readwise.io/read/01m5dcmp4wq6j35n4x3zbz87ms)
 
 > The Rashleigh Inn on the beach at Polkerris.

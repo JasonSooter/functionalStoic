@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Old City of Jerusalem
-created: 2026-10-22T16:49:19.000Z
-modified: 2026-11-02T18:04:41.270Z
-published: 2026-11-02T18:04:41.270Z
 aliases:
   - Old City (Jerusalem)
+title: Old City of Jerusalem
+created: 2026-10-22T16:49:19.000Z
+modified: 2026-11-02T18:04:41.000Z
+published: 2026-11-02T18:04:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Apeirogon]]"
 categories:
@@ -17,12 +21,7 @@ icon: book
 location:
   - 31.7767
   - 35.2342
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jerusalem]]"
-image: Attachments/Places/Old City of Jerusalem.svg
 ---
 
 # Old City of Jerusalem
@@ -30,17 +29,20 @@ image: Attachments/Places/Old City of Jerusalem.svg
 Walled historic core of [[Jerusalem]]. In _Apeirogon_ Borges wanders its souks.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | Borges walks the souks and alleys, collecting stories. |
 
 ## Sub-places
+
 - [[Al-Aqsa Mosque]]
 - [[Church of the Holy Sepulchre]]
 - [[Hezekiah's Tunnel]]
 - [[Western Wall]]
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7wdmyee186fvpyjcv6jdt)
 
 > He liked walking in the Palestinian neighborhoods, around the souks where as a blind storyteller he was treated with particular reverence.

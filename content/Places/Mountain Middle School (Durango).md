@@ -2,8 +2,12 @@
 publish: true
 title: Mountain Middle School (Durango)
 created: 2026-10-23T05:19:03.000Z
-modified: 2026-11-02T16:01:51.577Z
-published: 2026-11-02T16:01:51.577Z
+modified: 2026-11-02T16:01:52.000Z
+published: 2026-11-02T16:01:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[The Anxious Generation]]"
@@ -16,12 +20,7 @@ icon: book
 location:
   - 37.2992
   - -107.8726
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
-image: Attachments/Places/Mountain Middle School (Durango).svg
 ---
 
 # Mountain Middle School (Durango)
@@ -29,11 +28,13 @@ image: Attachments/Places/Mountain Middle School (Durango).svg
 Public charter middle school in Durango, Colorado. In _The Anxious Generation_ it is the model of a school that went phone-free in 2012.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Anxious Generation]] | Jonathan Haidt | subject | A phone-free school day: hallway scrolling stops, students talk again and results rise to the state's top rating. |
 
 ## The Anxious Generation — Jonathan Haidt (2024)
+
 Source: [[The Anxious Generation]] · [Original](https://openlibrary.org/works/OL37575384W) · [Readwise highlight](https://read.readwise.io/read/01m5kk2f3s9g1e2vcva6wqstpa)
 
 > Mountain Middle School in Durango, Colorado, went phone-free back in 2012, at the start of the mental health crisis.

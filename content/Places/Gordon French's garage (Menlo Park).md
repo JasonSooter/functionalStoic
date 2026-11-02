@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Gordon French's garage (Menlo Park)
-created: 2026-10-21T20:10:02.000Z
-modified: 2026-11-02T05:26:12.702Z
-published: 2026-11-02T05:26:12.702Z
 aliases:
   - Homebrew Computer Club
+title: Gordon French's garage (Menlo Park)
+created: 2025-10-25
+modified: 2026-11-02T14:16:52.000Z
+published: 2026-11-02T14:16:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gordon French's garage (Menlo Park).svg
 books:
   - "[[Quiet]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 37.4528
   - -122.1833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Gordon French's garage (Menlo Park).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Gordon French's garage (Menlo Park).svg
 The garage in Menlo Park, California, where the Homebrew Computer Club first met in 1975. In Quiet (Susan Cain) it is where Steve Wozniak finds the spark for his first computer.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | turning point | First Homebrew Computer Club meeting, which sends Wozniak home to design a computer. |
 
 ## Quiet — Susan Cain (2012)
+
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g1718x0d6x8kh2ngaf38rh)
 
 > March 5, 1975. A cold and drizzly evening in Menlo Park, California. Thirty unprepossessing-looking engineers gather in the garage of an unemployed colleague named Gordon French.

@@ -2,8 +2,12 @@
 publish: true
 title: Piazza del Campo
 created: 2026-10-21T13:56:07.000Z
-modified: 2026-11-02T18:25:15.891Z
-published: 2026-11-02T18:25:15.891Z
+modified: 2026-11-02T18:25:16.000Z
+published: 2026-11-02T18:25:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -16,12 +20,7 @@ icon: book
 location:
   - 43.3183
   - 11.3314
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy]]"
-image: Attachments/Places/Piazza del Campo.svg
 ---
 
 # Piazza del Campo
@@ -29,11 +28,13 @@ image: Attachments/Places/Piazza del Campo.svg
 Piazza del Campo is the main square of Siena, Italy. It turns up in Walkable City (Jeff Speck): An illustration for the edge-effect argument.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | backdrop | Jan Gehl's photograph of the Campo illustrates the 'edge effect': people linger along the edges, tethered to bollards. |
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbnvd08tq7d6qbbdqvg81p)
 
 > He photographs Siena’s famous Piazza del Campo, where the main pavement is surrounded by chunky man-size bollards, each one having accumulated the appendage of a standing or sitting man.

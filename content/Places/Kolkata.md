@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Kolkata
-created: 2026-10-23T22:35:17.000Z
-modified: 2026-11-02T08:55:26.335Z
-published: 2026-11-02T08:55:26.335Z
 aliases:
   - Calcutta
+title: Kolkata
+created: 2026-10-23
+modified: 2026-11-02T14:18:08.000Z
+published: 2026-11-02T14:18:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kolkata.svg
 books:
   - Around the World in Eighty Days
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 22.5726
   - 88.3639
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Kolkata.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Kolkata.svg
 Capital of West Bengal on the Hooghly. In _Around the World in Eighty Days_ Fogg is arrested at Calcutta station and tried before Judge Obadiah for the Bombay pagoda offence.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | setting | Fogg is arrested at Calcutta and tried for the Bombay pagoda offence. |
 
 ## Around the World in Eighty Days — Jules Verne (1872)
+
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3jpzx7k64jgyrm9j1e7x)
 
 > They first passed through the “black town,” with its narrow streets, its miserable, dirty huts, and squalid population; then through the “European town,” which presented a relief in its bright brick mansions, shaded by coconut-trees and bristling with masts, where, although it was early morning, elegantly dressed horsemen and handsome equipages were passing back and forth.

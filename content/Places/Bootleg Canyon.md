@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Bootleg Canyon
-created: 2026-10-22T16:26:15.000Z
-modified: 2026-11-02T14:14:32.850Z
-published: 2026-11-02T14:14:32.850Z
+created: 2016-01-30
+modified: 2026-11-02T14:14:33.000Z
+published: 2026-11-02T14:14:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bootleg Canyon.svg
 aliases: []
 books:
   - A Month At Lake Mead National Recreation Area — Live Small – Ride Free
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 35.9811
   - -114.8603
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nevada]]"
 image: Attachments/Places/Bootleg Canyon.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Bootleg Canyon.svg
 Mountain-bike park in Boulder City, Nevada, near Lake Mead. A riding stop in a van-life couple's month at Lake Mead.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Month At Lake Mead National Recreation Area — Live Small – Ride Free | Ching | setting | IMBA Epic trail network of which they rode a fraction. |
 
 ## A Month At Lake Mead National Recreation Area — Live Small – Ride Free — Ching (2016)
+
 Source: [Original](http://www.livesmallridefree.com/blog/a-month-at-lake-mead-national-recreation-area) · [Readwise highlight](https://read.readwise.io/read/01m5j6kdrkc8q13gt18v15gt6c)
 
 > With 36 miles of cross-country and downhill trails, we only got to check out a fraction of them.

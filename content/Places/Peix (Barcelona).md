@@ -1,12 +1,16 @@
 ---
 publish: true
-title: Peix (Barcelona)
-created: 2026-10-21T19:59:46.000Z
-modified: 2026-11-02T18:19:59.652Z
-published: 2026-11-02T18:19:59.652Z
 aliases:
   - Barcelona Fish
   - Golden Fish
+title: Peix (Barcelona)
+created: 2026-10-21T19:59:46.000Z
+modified: 2026-11-02T18:20:00.000Z
+published: 2026-11-02T18:20:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Software Behind Frank Gehry’s Geometrically Complex Architecture
 categories:
@@ -19,12 +23,7 @@ icon: newspaper
 location:
   - 41.3867
   - 2.1961
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Barcelona]]"
-image: Attachments/Places/Peix (Barcelona).svg
 ---
 
 # Peix (Barcelona)
@@ -32,11 +31,13 @@ image: Attachments/Places/Peix (Barcelona).svg
 Frank Gehry's giant fish sculpture on Barcelona's waterfront, built for the 1992 Olympics. In a Priceonomics story it is the project that pushed Gehry's office to adopt the CATIA software.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Software Behind Frank Gehry’s Geometrically Complex Architecture | Priceonomics | turning point | Fish sculpture that pushed Gehry's office to adopt CATIA. |
 
 ## The Software Behind Frank Gehry’s Geometrically Complex Architecture — Priceonomics (2015)
+
 Source: [Original](http://priceonomics.com/the-software-behind-frank-gehrys-geometrically/) · [Readwise highlight](https://read.readwise.io/read/01m5g0dyz0g2zm4a07155j8zte)
 
 > When Gehry won a contract for a pavilion for Barcelona’s 1992 Olympics, he designed a 50 meter mesh sculpture in the form of an undulating fish.

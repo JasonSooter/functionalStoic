@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Mahakam River
-created: 2026-10-22T13:40:45.000Z
-modified: 2026-11-02T15:17:21.156Z
-published: 2026-11-02T15:17:21.156Z
 aliases:
   - Mahakam
+title: Mahakam River
+created: 2024-10-04
+modified: 2026-11-02T15:17:21.000Z
+published: 2026-11-02T15:17:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mahakam River.svg
 books:
   - Life on Air
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -0.5833
   - 117.2833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Borneo]]"
 image: Attachments/Places/Mahakam River.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Mahakam River.svg
 Major river of East Kalimantan, Indonesian Borneo; in _Life on Air_ the Zoo Quest team travels up it to a Dyak longhouse.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The Zoo Quest team travels up it to a Dyak longhouse. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2kdcp0m7bgc1hjykgz8x)
 
 > They lived in a single longhouse, a huge construction built on stilts.

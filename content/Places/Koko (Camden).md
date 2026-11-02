@@ -1,12 +1,17 @@
 ---
 publish: true
 title: Koko (Camden)
-created: 2026-10-21T11:07:29.000Z
-modified: 2026-11-02T08:55:26.299Z
-published: 2026-11-02T08:55:26.299Z
+created: 2024-09-11
+modified: 2026-11-02T14:18:05.000Z
+published: 2026-11-02T14:18:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Koko (Camden).svg
 aliases: []
 books:
-  - '#007 An inaccurate representation of my life'
+  - "#007 An inaccurate representation of my life"
 categories:
   - "[[Places]]"
 color: purple
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 51.5347
   - -0.1383
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Koko (Camden).svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Koko (Camden).svg
 Music venue in a former theatre in Camden, London. Dave Walker sees a gig there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #007 An inaccurate representation of my life | Dave Walker | setting | An exceptional Phosphorescent gig; red as the colour of the week. |
 
 ## #007 An inaccurate representation of my life — Dave Walker (2024)
+
 Source: [Original](https://diagramclub.substack.com/p/007-an-inaccurate-representation) · [Readwise highlight](https://read.readwise.io/read/01m5f1wc6v1x091x4rac87x18c)
 
 > I went to see Phosphorescent, aka singer-songwriter Matthew Houck plus band at Koko in Camden this week.

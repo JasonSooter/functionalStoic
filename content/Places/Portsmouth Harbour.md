@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Portsmouth Harbour
-created: 2026-10-23T11:15:28.000Z
-modified: 2026-11-02T18:30:31.992Z
-published: 2026-11-02T18:30:31.992Z
 aliases:
   - Portsmouth
+title: Portsmouth Harbour
+created: 2026-10-23T11:15:28.000Z
+modified: 2026-11-02T18:30:32.000Z
+published: 2026-11-02T18:30:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Candide]]"
 categories:
@@ -17,12 +21,7 @@ icon: book
 location:
   - 50.8235
   - -1.1228
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
-image: Attachments/Places/Portsmouth Harbour.svg
 ---
 
 # Portsmouth Harbour
@@ -30,11 +29,13 @@ image: Attachments/Places/Portsmouth Harbour.svg
 Portsmouth Harbour is the natural harbour of Portsmouth on England's south coast, base of the Royal Navy. In _Candide_ it is where Candide watches an admiral shot on his own ship 'to encourage the others'.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | turning point | Candide watches an admiral shot on a warship 'to encourage the others' and refuses to set foot in England |
 
 ## Candide — Voltaire (1759)
+
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75mdk3cqcahg5b02w6ftm)
 
 > Talking thus they arrived at Portsmouth.

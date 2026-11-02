@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Lacey V Murrow Memorial Bridge
-created: 2026-10-20T22:56:05.000Z
-modified: 2026-11-02T11:34:22.490Z
-published: 2026-11-02T11:34:22.490Z
 aliases:
   - I-90 floating bridge
   - Lacey V Murrow
   - Lacey V. Murrow Bridge
+title: Lacey V Murrow Memorial Bridge
+created: 2025-08-03
+modified: 2026-11-02T14:18:35.000Z
+published: 2026-11-02T14:18:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lacey V Murrow Memorial Bridge.svg
 books:
   - The Hidden Engineering of Floating Bridges
 categories:
@@ -19,10 +24,6 @@ icon: newspaper
 location:
   - 47.5899
   - -122.2703
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Seattle]]"
 image: Attachments/Places/Lacey V Murrow Memorial Bridge.svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/Lacey V Murrow Memorial Bridge.svg
 Floating bridge carrying I-90 across Lake Washington, [[Seattle|Seattle]], whose 1990 sinking is the cautionary tale in Practical Engineering's piece on floating bridges.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hidden Engineering of Floating Bridges]] | Wesley Crump | subject | Homer Hadley's 1921 floating-pontoon idea became this span, which opened in 1940 as the first floating concrete highway across Lake Washington. |
 
 ## The Hidden Engineering of Floating Bridges — Wesley Crump (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/7/15/the-hidden-engineering-of-floating-bridges) · [Readwise highlight](https://read.readwise.io/read/01m5dqvyd91t5dy6gy3n84cmsy)
 
 > When it opened in 1940, it was the first floating concrete highway of its kind, a marvel of engineering and a symbol of ingenuity under constraint. But floating bridges, by their nature, carry some unique vulnerabilities. And fifty years later, this span would be swallowed by the very lake it crossed.

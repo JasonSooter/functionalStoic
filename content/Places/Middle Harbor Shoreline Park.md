@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Middle Harbor Shoreline Park
-created: 2026-10-21T05:07:55.000Z
-modified: 2026-11-02T15:41:41.383Z
-published: 2026-11-02T15:41:41.383Z
+created: 2020-01-19
+modified: 2026-11-02T15:41:41.000Z
+published: 2026-11-02T15:41:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Middle Harbor Shoreline Park.svg
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 37.8058
   - -122.3242
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oakland]]"
 image: Attachments/Places/Middle Harbor Shoreline Park.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Middle Harbor Shoreline Park.svg
 Park and shoreline in West Oakland, at the Port of [[Oakland]], California. It is the setting of the last scene of Jenny Odell's How to Do Nothing, a sliver of habitat inside an active port.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | The book's last scene: Odell stops here on her way to her studio and describes its history and its re-created lagoon and beach. |
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5edhrc4se4b26r6ybskj40m)
 
 > Today, on my way here, I took a detour through a serious gauntlet of big rigs thundering down Seventh Street to stop at Middle Harbor Shoreline Park, a surprising sliver of sand and marsh between the active cranes and the San Francisco Bay.

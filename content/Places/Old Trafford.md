@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Old Trafford
-created: 2026-10-20T13:41:09.000Z
-modified: 2026-11-02T18:09:58.498Z
-published: 2026-11-02T18:09:58.498Z
 aliases:
   - Old Trafford stadium
+title: Old Trafford
+created: 2026-10-20T13:41:09.000Z
+modified: 2026-11-02T18:09:58.000Z
+published: 2026-11-02T18:09:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The 10 Biggest Construction Fails of 2025
 categories:
@@ -17,12 +21,7 @@ icon: video
 location:
   - 53.4628
   - -2.2908
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manchester]]"
-image: Attachments/Places/Old Trafford.svg
 ---
 
 # Old Trafford
@@ -30,11 +29,13 @@ image: Attachments/Places/Old Trafford.svg
 Manchester United's stadium in Trafford, Greater [[Manchester]], England, which The B1M counts among 2025's biggest construction fails for its mocked 'circus tent' redevelopment plan.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The 10 Biggest Construction Fails of 2025]] | The B1M | subject | The mocked 'circus tent' plan for a new stadium. |
 
 ## The 10 Biggest Construction Fails of 2025 — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=QvHBvm9JIcc) · [Readwise highlight](https://read.readwise.io/read/01m5crb7ad800jcbp7t2q5rzkx)
 
 > Old Trafford, home to Manchester United, one of the greatest football teams in the world.

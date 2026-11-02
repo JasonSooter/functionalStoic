@@ -1,13 +1,17 @@
 ---
 publish: true
 title: Lost Hills, California
-created: 2026-10-22T22:59:03.000Z
-modified: 2026-11-02T11:54:52.917Z
-published: 2026-11-02T11:54:52.917Z
+created: 2016-08-17
+modified: 2026-11-02T14:18:41.000Z
+published: 2026-11-02T14:18:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lost Hills, California.svg
 aliases: []
 books:
-  - Meet the California Couple Who Uses More Water Than Every Home in Los Angeles
-    Combined
+  - Meet the California Couple Who Uses More Water Than Every Home in Los Angeles Combined
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 35.6164
   - -119.6942
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Lost Hills, California.svg
 ---
@@ -30,14 +30,17 @@ image: Attachments/Places/Lost Hills, California.svg
 Small town in Kern County, California. Mother Jones portrays it as the Resnicks' company town in the nut boom.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Meet the California Couple Who Uses More Water Than Every Home in Los Angeles Combined | Josh Harkinson | subject | The Resnicks' company town: dusty trailers and crumbling infrastructure, 2,500 residents, roughly 600 employed by the couple |
 
 ## Sub-places
+
 _None yet._
 
 ## Meet the California Couple Who Uses More Water Than Every Home in Los Angeles Combined — Josh Harkinson (2016)
+
 Source: [Original](http://www.motherjones.com/environment/2016/04/lynda-stewart-resnick-california-water) · [Readwise highlight](https://read.readwise.io/read/01m5jx9bzb2nh9h69t42stwp0w)
 
 > In the heart of the nut boom is Lost Hills, an entirely flat town where more than half the households have at least one adult who works for the Wonderful Company.

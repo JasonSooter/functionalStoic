@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Marysville School (Portland)
-created: 2026-10-22T19:57:27.000Z
-modified: 2026-11-02T15:28:59.956Z
-published: 2026-11-02T15:28:59.956Z
+created: 2016-07-11
+modified: 2026-11-02T15:29:00.000Z
+published: 2026-11-02T15:29:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Marysville School (Portland).svg
 aliases: []
 books:
   - What Changes When a School Embraces Mindfulness?
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 45.4871
   - -122.5835
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Portland, Oregon]]"
 image: Attachments/Places/Marysville School (Portland).svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Marysville School (Portland).svg
 K–8 school in south-east Portland, Oregon. A setting in Katrina Schwartz's “What Changes When a School Embraces Mindfulness?”: Southeast Portland K-8 school that burned in 2009 and later adopted MindUP mindfulness.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What Changes When a School Embraces Mindfulness? | Katrina Schwartz | setting | Southeast Portland K-8 school that burned in 2009 and later adopted MindUP mindfulness |
 
 ## What Changes When a School Embraces Mindfulness? — Katrina Schwartz (2016)
+
 Source: [Original](https://ww2.kqed.org/mindshift/2016/03/30/what-changes-when-a-school-embraces-mindfulness/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqnb6da8w1tavsztzvd4x)
 
 > Teachers quickly herded their students out of the building to the sports field behind the school as the old colonial-style building burned.

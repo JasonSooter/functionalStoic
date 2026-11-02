@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Mannheim
-created: 2026-10-20T13:47:54.000Z
-modified: 2026-11-02T15:21:50.247Z
-published: 2026-11-02T15:21:50.247Z
+created: 2016-07-15
+modified: 2026-11-02T15:21:50.000Z
+published: 2026-11-02T15:21:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mannheim.svg
 aliases: []
 books:
   - A Suburb that Puts People First
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 49.5205
   - 8.5302
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Baden-Württemberg]]"
 image: Attachments/Places/Mannheim.svg
 ---
@@ -30,6 +31,7 @@ image: Attachments/Places/Mannheim.svg
 City on the Rhine in Baden-Württemberg, Germany. LifeEdited presents a car-free suburb on a former US Army barracks site there as a people-first model.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Suburb that Puts People First | David Friedlander | subject | A suburb of single-family homes without cars or parking, with a catalog of modular houses, built on an old US Army barrack next to a… |
@@ -39,6 +41,7 @@ City on the Rhine in Baden-Württemberg, Germany. LifeEdited presents a car-free
 - [[Schwetzinger Relaishaus]]
 
 ## A Suburb that Puts People First — David Friedlander (2016)
+
 Source: [Original](https://lifeedited.com/a-suburb-that-puts-people-first/) · [Readwise highlight](https://read.readwise.io/read/01m5jvnv3k94peek3zv9x0gt7m)
 
 > And we just ran across this new suburban development in Mannheim, Germany that puts the humans first in its design.

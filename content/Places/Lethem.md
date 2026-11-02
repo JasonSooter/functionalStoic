@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Lethem
-created: 2026-10-22T13:40:14.000Z
-modified: 2026-11-02T11:46:55.694Z
-published: 2026-11-02T11:46:55.694Z
+created: 2024-10-04
+modified: 2026-11-02T14:17:12.000Z
+published: 2026-11-02T14:17:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lethem.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - 3.3833
   - -59.8
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Guyana]]"
 image: Attachments/Places/Lethem.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Lethem.svg
 Main town of the Rupununi savannah on Guyana's Brazilian border; in _Life on Air_ the Zoo Quest team's base for catching anteaters and anacondas.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | The Zoo Quest team's base for catching anteaters and anacondas. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1zb1eb5w8604n5yf2k3n)
 
 > Teddy Melville, who ran the hotel at Lethem, took us under his wing.

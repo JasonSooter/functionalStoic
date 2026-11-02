@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Nakagin Capsule Tower
-created: 2026-10-20T22:55:10.000Z
-modified: 2026-11-02T17:48:49.161Z
-published: 2026-11-02T17:48:49.161Z
 aliases:
   - Nakagin Capsule Tower Building
+title: Nakagin Capsule Tower
+created: 2026-10-20T22:55:10.000Z
+modified: 2026-11-02T17:48:49.000Z
+published: 2026-11-02T17:48:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - The Rise and Fall of Japan’s Most Futuristic Building
   - Tour Yesterday’s Future Architecture Right Now
@@ -18,12 +22,7 @@ icon: video
 location:
   - 35.6656
   - 139.7634
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tokyo]]"
-image: Attachments/Places/Nakagin Capsule Tower.svg
 ---
 
 # Nakagin Capsule Tower
@@ -38,6 +37,7 @@ Metabolist capsule apartment tower in Ginza, [[Tokyo]] (demolished 2022), and th
 | Tour Yesterday’s Future Architecture Right Now | David Friedlander | subject | A 2015 video tour of the semi-derelict capsule tower, then threatened with demolition. |
 
 ## The Rise and Fall of Japan’s Most Futuristic Building — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=ymT8DXaAH-I) · [Readwise highlight](https://read.readwise.io/read/01m5dqxq9tq7820avw0s53tx95)
 
 > the Nakagin Capsule Tower was unlike anything else you’ve seen before.
@@ -47,6 +47,7 @@ Source: [Original](https://www.youtube.com/watch?v=ymT8DXaAH-I) · [Readwise hig
 - **Why it matters:** The video's subject: a 'noble failure' whose modular ideas outlived it.
 
 ## Tour Yesterday’s Future Architecture Right Now — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/tour-yesterdays-future-architecture-right-now/) · [Readwise highlight](https://read.readwise.io/read/01m5gap9sb1rkqxcbp1d3maed9)
 
 > The 1972-built residential tower, located in the Ginza district of Tokyo, was a daring expression of the Metabolism architectural movement.

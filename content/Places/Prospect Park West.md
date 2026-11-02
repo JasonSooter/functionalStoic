@@ -2,8 +2,12 @@
 publish: true
 title: Prospect Park West
 created: 2026-10-21T13:55:21.000Z
-modified: 2026-11-02T18:35:42.594Z
-published: 2026-11-02T18:35:42.594Z
+modified: 2026-11-02T18:35:43.000Z
+published: 2026-11-02T18:35:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -16,12 +20,7 @@ icon: book
 location:
   - 40.6703
   - -73.9721
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
-image: Attachments/Places/Prospect Park West.svg
 ---
 
 # Prospect Park West
@@ -29,11 +28,13 @@ image: Attachments/Places/Prospect Park West.svg
 Prospect Park West is a street in Brooklyn. It turns up in Walkable City (Jeff Speck): The central New York case that bike lanes can fit without hurting car capacity.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Converting one lane to a bike lane tripled weekday cyclists, cut speeders from about 75 to under 17 percent, and cut injury crashes by 63… |
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbmrqfqqr0g50aagw8s16x)
 
 > The city converted one lane of Prospect Park West from driving to biking.

@@ -2,8 +2,12 @@
 publish: true
 title: Overland Trail and Laporte Avenue intersection (Fort Collins)
 created: 2026-10-21T10:49:11.000Z
-modified: 2026-11-02T18:09:58.810Z
-published: 2026-11-02T18:09:58.810Z
+modified: 2026-11-02T18:09:59.000Z
+published: 2026-11-02T18:09:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - BFC Announces MyCycle, Tour de Farms, Bicycle Film Festival, and More!
@@ -17,12 +21,7 @@ icon: newspaper
 location:
   - 40.5895
   - -105.1337
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fort Collins]]"
-image: Attachments/Places/Overland Trail and Laporte Avenue intersection (Fort Collins).svg
 ---
 
 # Overland Trail and Laporte Avenue intersection (Fort Collins)
@@ -30,11 +29,13 @@ image: Attachments/Places/Overland Trail and Laporte Avenue intersection (Fort C
 Road junction on the western edge of Fort Collins, Colorado, where North Overland Trail meets Laporte Avenue, named as the September 2024 focus spot of Bike Fort Collins' MyCycle safety survey.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | BFC Announces MyCycle, Tour de Farms, Bicycle Film Festival, and More! | Bike Fort Collins | subject | MyCycle focus intersection: readers report conflicts and feeling unsafe while cycling. |
 
 ## BFC Announces MyCycle, Tour de Farms, Bicycle Film Festival, and More! — Bike Fort Collins (2024)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5f0p3pctpwx4sy8w6zs0ywm)
 
 > for this month, we focus on the intersection of North Overland Trail and Laporte Avenue.

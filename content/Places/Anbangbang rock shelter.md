@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Anbangbang rock shelter
-created: 2026-10-22T13:41:22.000Z
-modified: 2026-11-02T14:13:53.508Z
-published: 2026-11-02T14:13:53.508Z
+created: 2024-10-04
+modified: 2026-11-02T14:13:54.000Z
+published: 2026-11-02T14:13:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Anbangbang rock shelter.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ image: Attachments/Places/Anbangbang rock shelter.svg
 location:
   - -12.8659
   - 132.8129
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kakadu National Park]]"
 ---
 
@@ -29,11 +30,13 @@ within: "[[Kakadu National Park]]"
 Rock shelter with Aboriginal paintings beneath Nourlangie Rock in Kakadu National Park; in _Life on Air_ Attenborough films its ochre figures.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | subject | Attenborough films its ochre figures. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2b1ew554hnejssew9rna)
 
 > The most spectacular of these we found at the foot of a monumental rock called Anbangbang that rose six hundred feet above the scrub.

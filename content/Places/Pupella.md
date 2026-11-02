@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Pupella
-created: 2026-10-23T11:15:04.000Z
-modified: 2026-11-02T18:40:41.467Z
-published: 2026-11-02T18:40:41.467Z
 aliases:
   - Tranque
+title: Pupella
+created: 2026-10-23T11:15:04.000Z
+modified: 2026-11-02T18:40:41.000Z
+published: 2026-11-02T18:40:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - "[[Exploration of Moby Dick]]"
 categories:
@@ -13,19 +17,13 @@ categories:
 color: gray
 confidence: inferred
 coordinates: -8.0,159.0
-geo_note: "inferred: The text's 'Arsacides' is an old name for the Solomon Islands;\
-  \ the island itself is invented.; approximate (country representative point)"
+geo_note: "inferred: The text's 'Arsacides' is an old name for the Solomon Islands; the island itself is invented.; approximate (country representative point)"
 geo_source: Wikipedia (en) Solomon Islands
 icon: book
 location:
   - -8
   - 159
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Solomon Islands]]"
-image: Attachments/Places/Pupella.svg
 ---
 
 # Pupella
@@ -33,11 +31,13 @@ image: Attachments/Places/Pupella.svg
 Pupella is King Tranquo's seaside glen on the island of Tranque in the Arsacides, an old European name for the Solomon Islands in the southwestern Pacific. In _Moby-Dick_ Ishmael says he measured a whale skeleton kept in a palm temple there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | setting | In a palm-wood temple at Pupella, Ishmael measures a whale skeleton whose skull is an altar: 'Life folded Death; Death trellised Life.' |
 
 ## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m77cw0pw0g67j519f68d14)
 
 > I was invited to spend part of the Arsacidean holidays with the lord of Tranque, at his retired palm villa at Pupella;

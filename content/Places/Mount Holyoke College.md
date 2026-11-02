@@ -2,8 +2,12 @@
 publish: true
 title: Mount Holyoke College
 created: 2026-10-20T04:32:24.000Z
-modified: 2026-11-02T15:54:26.419Z
-published: 2026-11-02T15:54:26.419Z
+modified: 2026-11-02T15:54:26.000Z
+published: 2026-11-02T15:54:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - "[[Emily Dickinson Wouldn't Have Survived Social Media]]"
@@ -15,12 +19,7 @@ icon: newspaper
 location:
   - 42.2556
   - -72.5745
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
-image: Attachments/Places/Mount Holyoke College.svg
 ---
 
 # Mount Holyoke College
@@ -28,11 +27,13 @@ image: Attachments/Places/Mount Holyoke College.svg
 Women's college in South Hadley, [[Massachusetts]]. It is where Elif Shafak spent a fellowship winter, which put her within reach of Emily Dickinson's world.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Emily Dickinson Wouldn't Have Survived Social Media]] | Elif Shafak | setting | Where Shafak spent her first American winter as a fellow, writing in English. |
 
 ## Emily Dickinson Wouldn't Have Survived Social Media — Elif Shafak (2026)
+
 Source: [[Emily Dickinson Wouldn't Have Survived Social Media]] · [Original](https://elifshafak.substack.com/p/emily-dickinson-wouldnt-have-survived) · [Readwise highlight](https://read.readwise.io/read/01m5bs6zbpmn0gq7negz0kgwkb)
 
 > I was in Massachusetts as a fellow at the lovely Mount Holyoke College.
