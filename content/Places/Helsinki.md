@@ -2,19 +2,26 @@
 publish: true
 title: Helsinki
 created: 2026-10-20T07:53:47.000Z
-modified: 2026-10-23T05:33:53.000Z
-published: 2026-10-23T05:33:53.000Z
+modified: 2026-11-02T05:41:33.582Z
+published: 2026-11-02T05:41:33.582Z
+aliases: []
+books:
+  - How the Finnish survive without small talk
+categories:
+  - "[[Places]]"
+color: purple
+coordinates: 60.1708,24.9375
+geo_source: Wikipedia (en)
+icon: newspaper
+location:
+  - 60.1708
+  - 24.9375
 tags:
   - places
   - place/literary
   - source/ai/claude
-aliases: []
-books: []
-categories:
-  - "[[Places]]"
-color: purple
-icon: book
 within: "[[Finland]]"
+image: Attachments/Places/Helsinki.svg
 ---
 
 # Helsinki
@@ -43,7 +50,6 @@ Capital of Finland on the Gulf of Finland. A BBC Travel piece on Finnish silence
 - [[University of Helsinki]]
 
 ## How the Finnish survive without small talk — Laura Studarus (2018)
-
 Source: [Original](https://www.bbc.com/travel/story/20181016-how-the-finnish-survive-without-small-talk) · [Readwise highlight](https://read.readwise.io/read/01m5k7bwxbmn3n1m6bs1btv7dn)
 
 > I met my now best friend Hanna a few years ago during my first visit to Helsinki, on a coffee date set up out of desperation.
