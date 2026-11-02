@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Bio Marktladen Rieselfeld
 title: Marktladen Rieselfeld
 created: 2026-10-31T11:13:17.000Z
-modified: 2026-10-31T11:13:17.000Z
-published: 2026-10-31T11:13:17.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T15:28:59.824Z
+published: 2026-11-02T15:28:59.824Z
+aliases:
+  - Bio Marktladen Rieselfeld
 books:
   - Mit Motor im Stadtteil Rieselfeld – Ab an den See!
 categories:
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 47.9998
   - 7.7904
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Freiburg]]"
+image: Attachments/Places/Marktladen Rieselfeld.svg
 ---
 
 # Marktladen Rieselfeld
@@ -29,13 +30,11 @@ within: "[[Freiburg]]"
 Organic grocery on Carl-von-Ossietzky-Straße in the Rieselfeld district of [[Freiburg]]. A LastenVelo Freiburg post announces a new cargo-bike station there with a charging point for a newly motorised bike.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Mit Motor im Stadtteil Rieselfeld – Ab an den See! | Robert | setting | LastenVelo 01 gets a mid-drive motor and a sheltered, charging station at the Marktladen in Rieselfeld. |
 
 ## Mit Motor im Stadtteil Rieselfeld – Ab an den See! — Robert
-
 Source: [Original](https://www.lastenvelofreiburg.de/lastenvelo01-im-rieselfeld/) · [Readwise highlight](https://read.readwise.io/read/01m68tk2pj1t93j5zaf3959aaq)
 
 > In Kooperation mit dem Marktladen Rieselfeld wurde dort eine Station für das Rad geschaffen

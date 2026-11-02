@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Parque Nacional Manuel Antonio
 title: Manuel Antonio National Park
 created: 2026-10-22T01:44:21.000Z
-modified: 2026-10-22T01:44:21.000Z
-published: 2026-10-22T01:44:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T16:04:35.266Z
+published: 2026-11-02T16:04:35.266Z
+aliases:
+  - Parque Nacional Manuel Antonio
 books:
   - 2 Weeks in Costa Rica
   - Our 2 Week Costa Rica Vacation
@@ -22,7 +18,12 @@ icon: newspaper
 location:
   - 9.3756
   - -84.1358
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Costa Rica]]"
+image: Attachments/Places/Manuel Antonio National Park.svg
 ---
 
 # Manuel Antonio National Park
@@ -30,18 +31,15 @@ within: "[[Costa Rica]]"
 Coastal national park near Quepos on Costa Rica's Pacific coast. It is the beach leg of Retire by 40's two-week Costa Rica trip, both in the plan and in the trip report.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 2 Weeks in Costa Rica | retirebyforty | journey waypoint | Third planned stop: four nights at the budget Hotel Verde Mar by the beach in one of Costa Rica's priciest spots. |
-| Our 2 Week Costa Rica Vacation | retirebyforty | setting | \$17 entry, no guide: sloths, three kinds of monkey and a raccoon that tries to steal their bags. |
+| Our 2 Week Costa Rica Vacation | retirebyforty | setting | $17 entry, no guide: sloths, three kinds of monkey and a raccoon that tries to steal their bags. |
 
 ## Sub-places
-
 - [[Playa Espadilla]]
 
 ## 2 Weeks in Costa Rica — retirebyforty (2015)
-
 Source: [Original](https://retireby40.org/2-weeks-in-costa-rica/) · [Readwise highlight](https://read.readwise.io/read/01m5gm0b4p90br6ehqqa8s9dr0)
 
 > Manuel Antonio National Park – Beach, forest, and wildlife.
@@ -51,11 +49,10 @@ Source: [Original](https://retireby40.org/2-weeks-in-costa-rica/) · [Readwise h
 - **Why it matters:** The final leg of the planned itinerary, framed by its cost.
 
 ## Our 2 Week Costa Rica Vacation — retirebyforty (2015)
-
 Source: [Original](https://retireby40.org/our-2-week-costa-rica-vacation/) · [Readwise highlight](https://read.readwise.io/read/01m5gm1myhj87yy0hhjvd0th6s)
 
 > The beaches in the park were beautiful and we hung out for over 3 hours.
 
 - **Role:** setting
-- **In the article:** They pay \$17 each and go in without a guide, seeing a deer, sloths, howler, capuchin and squirrel monkeys, and spend over three hours on the park's beaches while a bold raccoon tries to grab their bags until a guide shouts it away.
+- **In the article:** They pay $17 each and go in without a guide, seeing a deer, sloths, howler, capuchin and squirrel monkeys, and spend over three hours on the park's beaches while a bold raccoon tries to grab their bags until a guide shouts it away.
 - **Why it matters:** The wildlife high point of the trip and the heart of its favourite, beach leg.

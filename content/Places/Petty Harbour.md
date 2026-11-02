@@ -2,15 +2,13 @@
 publish: true
 title: Petty Harbour
 created: 2026-10-22T19:57:57.000Z
-modified: 2026-10-23T05:33:23.000Z
-published: 2026-10-23T05:33:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:05.655Z
+published: 2026-11-02T14:20:05.655Z
 aliases: []
 books:
-  - "The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic Revolution"
+  - "The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic\
+    \ Revolution"
+  - "[[Cod]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -20,6 +18,10 @@ icon: newspaper
 location:
   - 47.4667
   - -52.7167
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Newfoundland and Labrador]]"
 ---
 
@@ -28,14 +30,12 @@ within: "[[Newfoundland and Labrador]]"
 Fishing village near St. John's, Newfoundland. A setting in Bren Smith's “The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic Revolution”: Author's fishing-village birthplace; origin of his sea life and the community he wants to create jobs for.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic Revolution | Bren Smith | setting | Author's fishing-village birthplace; origin of his sea life and the community he wants to create jobs for |
 | [[Cod]] | Mark Kurlansky | setting | Kurlansky's opening and closing village: inshore fishermen tagging cod, then fighting the draggers and the moratorium. |
 
 ## The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic Revolution — Bren Smith (2016)
-
 Source: [Original](https://medium.com/@bren_7821/an-army-of-ocean-farmers-on-the-frontlines-of-the-blue-green-economic-revolution-d5ae171285a3) · [Readwise highlight](https://read.readwise.io/read/01m5jjr56k6bgk4tcygqwnpm6v)
 
 > I was born and raised in Petty Harbour, Newfoundland, a little fishing village with 14 salt-box houses painted in greens, blues, and reds so that fishermen could find their way home in the fog.
@@ -45,7 +45,6 @@ Source: [Original](https://medium.com/@bren_7821/an-army-of-ocean-farmers-on-the
 - **Why it matters:** It is the origin of his fishing life and the community he says he works for. Elsewhere the story of cod-collapse and redemption would lose its personal root.
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
-
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kks9hzyv8w0pdx6vh9wjcx)
 
 > Their little village, along with St. John’s in the next cove and the rocky point between them, is the site closest to the part of the North Atlantic fabled throughout this millennium as the cod grounds.

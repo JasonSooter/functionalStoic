@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Ağrı Dağı
 title: Mount Ararat
 created: 2026-10-22T16:25:59.000Z
-modified: 2026-10-22T16:25:59.000Z
-published: 2026-10-22T16:25:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T15:54:26.315Z
+published: 2026-11-02T15:54:26.315Z
+aliases:
+  - Ağrı Dağı
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 39.7019
   - 44.2983
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Turkey]]"
+image: Attachments/Places/Mount Ararat.svg
 ---
 
 # Mount Ararat
@@ -29,13 +30,11 @@ within: "[[Turkey]]"
 Dormant volcano in eastern Turkey near the Iranian and Armenian borders. A glorious day's ride round its base in Dervla Murphy's _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | subject | Fifteen miles round the mountain's base in perfect weather, a high point of the trip. |
 
 ## Full Tilt — Dervla Murphy (1965)
-
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kkq6ezcwqwxtaaebxa2s)
 
 > This extraordinary mountain, which inspires the most complex emotions in the least imaginative traveller, affected me so deeply that I have thought of it ever since as a personality encountered, rather than a landscape observed.

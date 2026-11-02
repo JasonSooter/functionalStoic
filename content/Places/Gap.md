@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Gap (Hautes-Alpes)
 title: Gap
 created: 2026-10-20T04:33:02.000Z
-modified: 2026-11-01T00:09:36.000Z
-published: 2026-11-01T00:09:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Gap.svg
+modified: 2026-11-02T14:16:57.137Z
+published: 2026-11-02T14:16:57.137Z
+aliases:
+  - Gap (Hautes-Alpes)
 books:
   - Caromb - Gap
 categories:
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 44.5594
   - 6.0786
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[French Alps]]"
 image: Attachments/Places/Gap.svg
 ---
@@ -30,13 +29,11 @@ image: Attachments/Places/Gap.svg
 Prefecture of the Hautes-Alpes in the [[French Alps]], named in the reading as the destination of a cycling overnighter.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Caromb - Gap]] | Mostly Bikes x Me | journey waypoint | Destination of an overnighter that replaced a cancelled brevet. |
 
 ## Caromb - Gap — Mostly Bikes x Me (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bs7avyqy3myjzx8ec66jhh)
 
 > First leg of an overnighter to Gap in lieu of the weekend’s cancelled-for-weather 200k brevet.

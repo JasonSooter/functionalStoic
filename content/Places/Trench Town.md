@@ -2,12 +2,8 @@
 publish: true
 title: Trench Town
 created: 2026-10-22T19:57:24.000Z
-modified: 2026-10-22T19:57:24.000Z
-published: 2026-10-22T19:57:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:22:08.165Z
+published: 2026-11-02T14:22:08.165Z
 aliases: []
 books:
   - Former Jamaican ‘Gangster’ Says Literacy May Be the Best Way to Fight Crime
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 17.9849
   - -76.7968
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Jamaica]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Jamaica]]"
 Neighbourhood of Kingston, Jamaica. A backdrop in Rebekah Kebede's “Former Jamaican ‘Gangster’ Says Literacy May Be the Best Way to Fight Crime”: Kingston neighbourhood where David Chang grew up wanting to be a badman.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Former Jamaican ‘Gangster’ Says Literacy May Be the Best Way to Fight Crime | Rebekah Kebede | backdrop | Kingston neighbourhood where David Chang grew up wanting to be a badman |
 
 ## Former Jamaican ‘Gangster’ Says Literacy May Be the Best Way to Fight Crime — Rebekah Kebede (2016)
-
 Source: [Original](http://www.good.is/posts/jamaican-badman-violence-and-illiteracy) · [Readwise highlight](https://read.readwise.io/read/01m5jjqvynghy29a26q6rgrfj4)
 
 > Growing up in Bob Marley’s Trench Town neighborhood, David Chang always knew what he wanted to be when he grew up.

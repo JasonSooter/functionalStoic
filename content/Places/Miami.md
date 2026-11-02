@@ -2,12 +2,8 @@
 publish: true
 title: Miami
 created: 2026-10-22T10:26:35.000Z
-modified: 2026-10-22T10:26:35.000Z
-published: 2026-10-22T10:26:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T15:41:41.347Z
+published: 2026-11-02T15:41:41.347Z
 aliases: []
 books:
   - ★ The Crazy Side of Paying Off $55,000 of Debt in 14 Months
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 25.7742
   - -80.1936
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Florida]]"
+image: Attachments/Places/Miami.svg
 ---
 
 # Miami
@@ -28,13 +29,11 @@ within: "[[Florida]]"
 City in South [[Florida]] where the Bean Counter couple live in a rented room during a three-month accounting contract.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| ★ The Crazy Side of Paying Off \$55,000 of Debt in 14 Months | Andrew (The Bean Counter) | journey waypoint | Winter prices force them into a private room in a stranger’s house, living out of a mini-fridge. |
+| ★ The Crazy Side of Paying Off $55,000 of Debt in 14 Months | Andrew (The Bean Counter) | journey waypoint | Winter prices force them into a private room in a stranger’s house, living out of a mini-fridge. |
 
-## ★ The Crazy Side of Paying Off \$55,000 of Debt in 14 Months — Andrew (The Bean Counter) (2015)
-
+## ★ The Crazy Side of Paying Off $55,000 of Debt in 14 Months — Andrew (The Bean Counter) (2015)
 Source: [Original](http://rockstarfinance.com/crazy-side-debt-repayment/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1jff9p15dg25j98r3wj1)
 
 > However, the prices in South Florida skyrocket from January-March and, therefore, the only place we could book within our budget was a private room with a private bathroom, inside the home of a single mom with 2 kids.

@@ -2,12 +2,8 @@
 publish: true
 title: Mount Scopus
 created: 2026-10-22T16:49:16.000Z
-modified: 2026-10-22T20:03:04.000Z
-published: 2026-10-22T20:03:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T15:54:26.551Z
+published: 2026-11-02T15:54:26.551Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 31.7925
   - 35.2442
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Jerusalem]]"
+image: Attachments/Places/Mount Scopus.svg
 ---
 
 # Mount Scopus
@@ -28,13 +29,11 @@ within: "[[Jerusalem]]"
 Hill in northeast [[Jerusalem]]. Rami Elhanan's overlook in _Apeirogon_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Rami watches the surveillance blimp from the overlook and voices his grief for Smadar. |
 
 ## Apeirogon — Colum McCann (2020)
-
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7waj3yk7hg4dssqbxpdg9)
 
 > then parked his bike at the overlook at Mount Scopus, sat on the low stone wall, shaded his eyes and stared upwards, watching the blimp drift in the blue.

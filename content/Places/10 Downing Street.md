@@ -2,13 +2,8 @@
 publish: true
 title: 10 Downing Street
 created: 2026-10-22T13:41:00.000Z
-modified: 2026-10-31T19:37:58.000Z
-published: 2026-10-31T19:37:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/10 Downing Street.svg
+modified: 2026-11-02T14:13:53.760Z
+published: 2026-11-02T14:13:53.760Z
 aliases: []
 books:
   - Life on Air
@@ -24,6 +19,10 @@ image: Attachments/Places/10 Downing Street.svg
 location:
   - 51.5033
   - -0.1275
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 

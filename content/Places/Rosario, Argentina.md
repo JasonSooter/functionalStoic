@@ -2,12 +2,8 @@
 publish: true
 title: Rosario, Argentina
 created: 2026-10-22T22:59:06.000Z
-modified: 2026-10-22T22:59:06.000Z
-published: 2026-10-22T22:59:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:46.008Z
+published: 2026-11-02T14:20:46.008Z
 aliases: []
 books:
   - Meet the worst ants in the world
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - -32.9575
   - -60.6394
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Argentina]]"
 ---
 
@@ -28,17 +28,14 @@ within: "[[Argentina]]"
 River port in Santa Fe Province, Argentina. Ars Technica traces California's Argentine ants to it.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Meet the worst ants in the world | Annalee Newitz | turning point | Genome work by Neil Tsutsui's team traced California's Argentine ants to Rosario rather than Buenos Aires |
 
 ## Sub-places
-
 _None yet._
 
 ## Meet the worst ants in the world — Annalee Newitz (2016)
-
 Source: [Original](https://arstechnica.com/science/2016/08/meet-the-worst-ants-in-the-world/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9fwaqfvt6e2daqcdxk41)
 
 > It turns out that in the late 19th century, when the ants were moving around, Rosario was actually a bigger shipping port than Buenos Aires.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Yarmouth Workhouse
 title: Great Yarmouth Workhouse
 created: 2026-10-21T13:55:14.000Z
-modified: 2026-10-21T13:55:14.000Z
-published: 2026-10-21T13:55:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:17:01.698Z
+published: 2026-11-02T14:17:01.698Z
+aliases:
+  - Yarmouth Workhouse
 books:
   - I MISS LORINA BULWER
 categories:
@@ -17,6 +13,10 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: newspaper
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Norfolk]]"
 ---
 
@@ -25,13 +25,11 @@ within: "[[Norfolk]]"
 Great Yarmouth Workhouse is the former workhouse of Great Yarmouth, Norfolk. It turns up in I MISS LORINA BULWER (Shaun Usher): The workhouse is where the whole artefact was made and where she spent her last decade or more; the letter's obsessive naming of Yarmouth streets and people is the view from inside it.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | I MISS LORINA BULWER | Shaun Usher | setting | Bulwer was admitted to the workhouse by 1901, among 515 other residents, and held in its 'Female Lunatic Ward'. |
 
 ## I MISS LORINA BULWER — Shaun Usher (2024)
-
 Source: [Original](https://news.lettersofnote.com/p/i-miss-lorina-bulwer) · [Readwise highlight](https://read.readwise.io/read/01m5fbgf8zxx19r1crdc07vvpx)
 
 > records show that by 1901, Bulwer had joined 515 others to become a resident of the of Great Yarmouth Workhouse in its ‘Female Lunatic Ward’.

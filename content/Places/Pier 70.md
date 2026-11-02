@@ -2,12 +2,8 @@
 publish: true
 title: Pier 70
 created: 2026-10-22T10:26:20.000Z
-modified: 2026-10-22T10:26:20.000Z
-published: 2026-10-22T10:26:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:18:37.037Z
+published: 2026-11-02T14:18:37.037Z
 aliases: []
 books:
   - "Billionaires: They’re Just Like Us"
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 37.7587
   - -122.3843
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[San Francisco]]"
 Historic industrial pier in [[San Francisco]], the venue of the Dreamforce finale concert in Financial Samurai's billionaire story.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Billionaires: They’re Just Like Us | Financial Samurai | setting | The Dreamforce concert: layered security, a VIP area, and a billionaire on the lower deck. |
 
 ## Billionaires: They’re Just Like Us — Financial Samurai (2015)
-
 Source: [Original](https://www.financialsamurai.com/billionaires-are-just-like-us/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1frvjhm43nzzy04ncbtx)
 
 > The grand finale is a concert at one of the piers. This year, Dreamforce hosted The Foo Fighters and The Killers (one of my favorite bands) at Pier 70. It was a zoo!

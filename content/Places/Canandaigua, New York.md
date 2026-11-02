@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Canandaigua
 title: Canandaigua, New York
 created: 2026-10-23T07:46:02.000Z
-modified: 2026-10-31T20:48:42.000Z
-published: 2026-10-31T20:48:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Canandaigua, New York.svg
+modified: 2026-11-02T14:15:01.277Z
+published: 2026-11-02T14:15:01.277Z
+aliases:
+  - Canandaigua
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 42.8875
   - -77.2817
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Canandaigua, New York.svg
 ---
@@ -31,13 +30,11 @@ image: Attachments/Places/Canandaigua, New York.svg
 City at the north end of Canandaigua Lake in the Finger Lakes. In _Wedding of the Waters_ Jesse Hawley writes his canal essays in its debtors' prison.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | setting | Jesse Hawley writes the 'Hercules' canal essays during twenty months in debtors' prison. |
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
-
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvdhwjt2xfmsmb8q8zjbeq)
 
 > He returned to New York, surrendered to the authorities in August 1807, and spent the next twenty months in debtors’ prison in Canandaigua on the Finger Lake of the same name.

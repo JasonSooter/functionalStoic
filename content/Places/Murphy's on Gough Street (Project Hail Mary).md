@@ -2,12 +2,8 @@
 publish: true
 title: Murphy's on Gough Street (Project Hail Mary)
 created: 2026-10-22T22:36:46.000Z
-modified: 2026-10-22T22:36:46.000Z
-published: 2026-10-22T22:36:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T16:01:51.709Z
+published: 2026-11-02T16:01:51.709Z
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -22,7 +18,12 @@ icon: book
 location:
   - 37.7876
   - -122.4252
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
+image: Attachments/Places/Murphy's on Gough Street (Project Hail Mary).svg
 ---
 
 # Murphy's on Gough Street (Project Hail Mary)
@@ -30,13 +31,11 @@ within: "[[San Francisco]]"
 Fictional steak bar on Gough Street, San Francisco. In Project Hail Mary Grace learns there that the sun is dimming.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | Grace meets his friend Marissa, a DOE employee, for their weekly steak dinner |
 
 ## Project Hail Mary — Andy Weir (2021)
-
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvs9r49aq8n7z0cqyfr6yy)
 
 > I met Marissa every Thursday night for steak and beer at Murphy’s on Gough Street. Always at six p.m., and because the staff knew us, always at the same table.

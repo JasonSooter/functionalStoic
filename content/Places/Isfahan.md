@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Esfahan
 title: Isfahan
 created: 2026-10-20T22:53:53.000Z
-modified: 2026-11-01T00:32:58.000Z
-published: 2026-11-01T00:32:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Isfahan.svg
+modified: 2026-11-02T14:17:43.043Z
+published: 2026-11-02T14:17:43.043Z
+aliases:
+  - Esfahan
 books:
   - Rick Steves' Iran (2009)
 categories:
@@ -22,6 +17,10 @@ icon: video
 location:
   - 32.6653
   - 51.6703
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Iran]]"
 image: Attachments/Places/Isfahan.svg
 ---
@@ -31,13 +30,11 @@ image: Attachments/Places/Isfahan.svg
 Historic city in central [[Iran]], Safavid capital, where the middle of Rick Steves' Iran film is set.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Rick Steves' Iran (2009) | Rick Steves' Europe | setting | After a few hours south on the highway the crew reaches Esfahan, a city of 1.5 million known for blue-tiled domes and bridges. |
 
 ## Sub-places
-
 - [[Atashgah (Isfahan)]]
 - [[Chehel Sotoun]]
 - [[Grand Bazaar of Isfahan]]
@@ -45,7 +42,6 @@ Historic city in central [[Iran]], Safavid capital, where the middle of Rick Ste
 - [[Shah Mosque (Isfahan)]]
 
 ## Rick Steves' Iran (2009) — Rick Steves' Europe (2009)
-
 Source: [Original](https://www.youtube.com/watch?v=CYoa9hI3CXg) · [Readwise highlight](https://read.readwise.io/read/01m5dqx7tkdacm0y44tp6b20j3)
 
 > After a few hours, we reach Esfahan.

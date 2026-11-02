@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Azof
 title: Azov
 created: 2026-10-23T11:12:45.000Z
-modified: 2026-10-31T16:21:48.000Z
-published: 2026-10-31T16:21:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Azov.svg
+modified: 2026-11-02T14:14:03.436Z
+published: 2026-11-02T14:14:03.436Z
+aliases:
+  - Azof
 books:
   - "[[Candide]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 47.1083
   - 39.4181
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Azov.svg
 ---
@@ -31,13 +30,11 @@ image: Attachments/Places/Azov.svg
 Azov is a town on the lower Don near the Sea of Azov in southern Russia, long fought over by the Ottomans and Russians. In _Candide_ the old woman survives its siege, where she loses a buttock.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | backdrop | The old woman's Aga defends besieged Azof; the starving Janissaries eat each woman's buttock before the Russians kill them |
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75axbrs4ws8v1s9cja8az)
 
 > At length I became the property of an Aga of the Janissaries, who was soon ordered away to the defence of Azof, then besieged by the Russians.

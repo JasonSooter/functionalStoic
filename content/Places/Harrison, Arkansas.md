@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Harrison
 title: Harrison, Arkansas
 created: 2026-10-21T19:39:44.000Z
-modified: 2026-11-01T00:09:16.000Z
-published: 2026-11-01T00:09:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Harrison, Arkansas.svg
+modified: 2026-11-02T14:17:27.903Z
+published: 2026-11-02T14:17:27.903Z
+aliases:
+  - Harrison
 books:
   - How to Be an Antiracist
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 36.2439
   - -93.1197
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Arkansas]]"
 image: Attachments/Places/Harrison, Arkansas.svg
 ---
@@ -31,13 +30,11 @@ image: Attachments/Places/Harrison, Arkansas.svg
 Small city in the Ozarks of northern Arkansas. In How to Be an Antiracist (Ibram X. Kendi) a billboard there claims antiracism is anti-White.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | subject | Site of the 2013 'anti-racist is a code word for anti-White' billboard. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
-
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fzcz01cm267b627h2kwvq1)
 
 > On October 15, 2013, workers unveiled a twelve-by-twenty-four-foot sign near a major roadway in Harrison, Arkansas, known in those parts as Klan territory.

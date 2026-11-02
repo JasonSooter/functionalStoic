@@ -2,12 +2,8 @@
 publish: true
 title: Marshall Space Flight Center
 created: 2026-10-22T22:37:08.000Z
-modified: 2026-10-22T22:37:08.000Z
-published: 2026-10-22T22:37:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T15:28:59.884Z
+published: 2026-11-02T15:28:59.884Z
 aliases: []
 books:
   - "[[Range]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 34.6508
   - -86.6728
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Alabama]]"
+image: Attachments/Places/Marshall Space Flight Center.svg
 ---
 
 # Marshall Space Flight Center
@@ -28,13 +29,11 @@ within: "[[Alabama]]"
 NASA centre in Huntsville, Alabama. Range contrasts von Braun's open Monday Notes culture there with what came before Challenger.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | subject | Von Braun's Monday Notes circulated problems openly; after William Lucas took over in 1974 they became a one-way formality and the… |
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
-
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jvtxc60hstfy6tjxzbh2aa)
 
 > Wernher von Braun, who led the Marshall Space Flight Center’s development of the rocket that propelled the moon mission, balanced NASA’s rigid process with an informal, individualistic culture that encouraged constant dissent and cross-boundary communication.

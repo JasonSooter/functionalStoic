@@ -2,12 +2,8 @@
 publish: true
 title: Pennock Pass
 created: 2026-10-20T10:42:54.000Z
-modified: 2026-10-21T13:24:13.000Z
-published: 2026-10-21T13:24:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:31.347Z
+published: 2026-11-02T14:20:31.347Z
 aliases: []
 books:
   - It snowed a bit
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 40.5914
   - -105.5453
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[Colorado]]"
 Gravel pass in the foothills west of [[Fort Collins|Fort Collins]], Larimer County, [[Colorado]], USA, where a bike blogger is caught in unexpected snow.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | It snowed a bit | Mostly Bikes x Me | journey waypoint | Caught in snow at about 9,000 feet, saved by a fast descent. |
 
 ## It snowed a bit — Mostly Bikes x Me (2025)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6tscbgmhdfm7fswra4r5)
 
 > Though it only snowed heavily for a brief period, and fast descent off Pennock Pass meant I was down from the coldest altitude relatively quickly.

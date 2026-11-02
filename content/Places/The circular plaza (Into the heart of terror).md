@@ -2,12 +2,8 @@
 publish: true
 title: The circular plaza (Into the heart of terror)
 created: 2026-10-22T19:58:04.000Z
-modified: 2026-10-22T19:58:04.000Z
-published: 2026-10-22T19:58:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:19:46.899Z
+published: 2026-11-02T14:19:46.899Z
 aliases: []
 books:
   - "Into the heart of terror: behind Isis lines"
@@ -22,6 +18,10 @@ icon: newspaper
 location:
   - 35.9545
   - 39.0094
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Raqqa]]"
 ---
 
@@ -30,13 +30,11 @@ within: "[[Raqqa]]"
 Unnamed plaza in Raqqa in Jürgen Todenhöfer's report, inferred to be Naim Square. A backdrop in Jürgen Todenhöfer's “Into the heart of terror: behind Isis lines”: Fenced circular plaza in Raqqa where severed heads are displayed; photography forbidden.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Into the heart of terror: behind Isis lines | Jürgen Todenhöfer | backdrop | Fenced circular plaza in Raqqa where severed heads are displayed; photography forbidden |
 
 ## Into the heart of terror: behind Isis lines — Jürgen Todenhöfer (2016)
-
 Source: [Original](http://www.theguardian.com/world/2016/apr/04/behind-isis-lines-jurgen-todenhofer-journalist-syria-iraq-my-journey-into-the-heart-of-terror) · [Readwise highlight](https://read.readwise.io/read/01m5jjrjm0pa1bdf1nf7sx85z6)
 
 > We drive by a circular plaza we recognise from media reports. It’s surrounded by an iron fence. This is where the heads of decapitated enemies are impaled and put on display.

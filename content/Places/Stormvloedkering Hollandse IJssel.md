@@ -2,12 +2,8 @@
 publish: true
 title: Stormvloedkering Hollandse IJssel
 created: 2026-10-21T05:07:50.000Z
-modified: 2026-10-21T16:22:33.000Z
-published: 2026-10-21T16:22:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:19:36.382Z
+published: 2026-11-02T14:19:36.382Z
 aliases: []
 books:
   - Why are the Dutch So Famous for Waterworks?
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 51.9177
   - 4.5798
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rotterdam]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Rotterdam]]"
 Storm surge barrier near Rotterdam, Netherlands, part of [[Rotterdam]]'s flood defences. It appears in Practical Engineering's article on Dutch waterworks as a brief, secondary Delta Works example.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why are the Dutch So Famous for Waterworks? | Practical Engineering | subject | It is described as a barrier with a lock, a bridge with a bascule portion, and two movable barriers strengthened with truss arches. |
 
 ## Why are the Dutch So Famous for Waterworks? — Practical Engineering (2025)
-
 Source: [Original](https://practical.engineering/blog/2025/1/21/why-are-the-dutch-so-famous-for-waterworks) · [Readwise highlight](https://read.readwise.io/read/01m5edf2z4etddvqajatn4d4s5)
 
 > Another notable structure in the Delta Works is the Stormvloedkering Hollandse IJssel (storm-FLODE-keering--hoLAHNDse-ICE-el), a storm surge barrier protecting Europe’s largest seaport.

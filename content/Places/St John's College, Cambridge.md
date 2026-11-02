@@ -1,18 +1,14 @@
 ---
 publish: true
+title: St John's College, Cambridge
+created: 2026-10-19T22:31:31.000Z
+modified: 2026-11-02T14:21:53.445Z
+published: 2026-11-02T14:21:53.445Z
 aliases:
   - St John's College
   - Bridge of Sighs, Cambridge
-title: St John's College, Cambridge
-created: 2026-10-19T22:31:31.000Z
-modified: 2026-10-21T13:38:48.000Z
-published: 2026-10-21T13:38:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
-  - "#094 Usually I don’t go to Cambridge"
+  - '#094 Usually I don’t go to Cambridge'
 categories:
   - "[[Places]]"
 color: purple
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 52.2083
   - 0.1169
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Cambridge]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[Cambridge]]"
 College of the University of [[Cambridge]], on the River Cam, with its own Bridge of Sighs. It appears in the reading as the setting of a backstage visit in a Diagram Club newsletter.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #094 Usually I don’t go to Cambridge | Diagram Club | setting | A rare trip to Cambridge for a publisher's anniversary, and a wander backstage at St John's. |
 
 ## #094 Usually I don’t go to Cambridge — Diagram Club (2026)
-
 Source: [Original](https://diagramclub.substack.com/p/094-usually-i-dont-go-to-cambridge) · [Readwise highlight](https://read.readwise.io/read/01m5b4585xgb4xvq7d6sdeqqtg)
 
 > It also meant I got to wander around some incredibly backstage areas of the very picturesque St John’s College, and there were special cupcakes.

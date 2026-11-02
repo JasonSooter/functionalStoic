@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Reform Club, Pall Mall
 title: Reform Club
 created: 2026-10-23T22:33:43.000Z
-modified: 2026-10-23T22:33:43.000Z
-published: 2026-10-23T22:33:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:58.312Z
+published: 2026-11-02T14:20:58.312Z
+aliases:
+  - Reform Club, Pall Mall
 books:
   - Around the World in Eighty Days
 categories:
@@ -21,6 +17,10 @@ icon: book
 location:
   - 51.5065
   - -0.1335
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[London]]"
 Gentlemen's club at 104 Pall Mall, London. Fogg makes his £20,000 wager at its whist table in _Around the World in Eighty Days_ and wins it there with seconds to spare.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | turning point | Fogg makes his £20,000 wager here and wins it at the last second. |
 
 ## Around the World in Eighty Days — Jules Verne (1872)
-
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne39nj5txx8d51mbbyn6cf)
 
 > reached the Reform Club, an imposing edifice in Pall Mall, which could not have cost less than three millions.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Museum of Fine Arts
 title: Museum of Fine Arts, Boston
 created: 2026-10-23T07:47:52.000Z
-modified: 2026-10-23T07:47:52.000Z
-published: 2026-10-23T07:47:52.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T16:01:51.813Z
+published: 2026-11-02T16:01:51.813Z
+aliases:
+  - Museum of Fine Arts
 books:
   - "[[North Woods]]"
 categories:
@@ -23,7 +19,12 @@ icon: book
 location:
   - 42.3394
   - -71.0942
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Boston]]"
+image: Attachments/Places/Museum of Fine Arts, Boston.svg
 ---
 
 # Museum of Fine Arts, Boston
@@ -31,13 +32,11 @@ within: "[[Boston]]"
 Boston's main art museum. In _North Woods_ it hosts a retrospective of the painter Teale that turns Nora's grief for vanished forests.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[North Woods]] | Daniel Mason | turning point | Nora stands in a virtual chestnut forest at a Teale retrospective and feels the scale of loss. |
 
 ## North Woods — Daniel Mason (2023)
-
 Source: [[North Woods]] · [Original](https://openlibrary.org/works/OL34028309W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcetwp24qb68kygq6w5s5)
 
 > Given her constant search for clues to long-lost forests, it was odd that when she was approached the previous summer about a retrospective at the Museum of Fine Arts, she did not appreciate the opportunity it represented.

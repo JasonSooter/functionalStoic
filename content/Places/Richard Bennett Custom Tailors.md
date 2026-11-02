@@ -2,12 +2,8 @@
 publish: true
 title: Richard Bennett Custom Tailors
 created: 2026-10-21T19:40:38.000Z
-modified: 2026-10-21T19:40:38.000Z
-published: 2026-10-21T19:40:38.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:56.492Z
+published: 2026-11-02T14:20:56.492Z
 aliases: []
 books:
   - A Stitch In Time
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 41.8752
   - -87.633
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Chicago]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[Chicago]]"
 Bespoke tailor shop on South Financial Place in Chicago's Loop. In a Basecamp story it is the workroom at the heart of Albert Karoll's business.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Stitch In Time | Basecamp | setting | Albert Karoll's 500-square-foot tailor shop with a window onto the street. |
 
 ## A Stitch In Time — Basecamp (2015)
-
 Source: [Original](https://thedistance.com/richard-bennett-custom-tailors/) · [Readwise highlight](https://read.readwise.io/read/01m5fzc9d5jm5cz5eyh9hzeqkn)
 
 > At the end of each day, Albert Karoll surveys the floor of his tailor shop, a roughly 500-square-foot room with a picture window that looks out on South Financial Place in downtown Chicago.

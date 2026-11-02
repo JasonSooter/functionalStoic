@@ -2,12 +2,8 @@
 publish: true
 title: New Mayflower Hotel (Stranger in a Strange Land)
 created: 2026-10-21T22:27:11.000Z
-modified: 2026-10-21T22:27:11.000Z
-published: 2026-10-21T22:27:11.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:19:58.207Z
+published: 2026-11-02T14:19:58.207Z
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -16,12 +12,17 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 38.9044,-77.0398
-geo_note: "inferred: the novel's 'New Mayflower' in the capital points to the Mayflower Hotel, Washington, D.C."
+geo_note: "inferred: the novel's 'New Mayflower' in the capital points to the Mayflower\
+  \ Hotel, Washington, D.C."
 geo_source: Wikipedia (en) Mayflower Hotel
 icon: book
 location:
   - 38.9044
   - -77.0398
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington DC]]"
 ---
 
@@ -30,13 +31,11 @@ within: "[[Washington DC]]"
 Hotel in Washington, D.C. in Stranger in a Strange Land (Robert A. Heinlein), where Jubal's party settles Mike's affairs after the Palace meeting. The pin is the real Mayflower Hotel the name points to.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | turning point | Guarded suite where Jubal's party lunches, talks strategy and receives Douglas's signed papers. |
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
-
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > a few minutes later the driver left them on the roof of the New Mayflower.

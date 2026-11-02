@@ -2,12 +2,8 @@
 publish: true
 title: The Serpentine
 created: 2026-10-23T11:15:46.000Z
-modified: 2026-10-23T11:15:46.000Z
-published: 2026-10-23T11:15:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:22:12.089Z
+published: 2026-11-02T14:22:12.089Z
 aliases: []
 books:
   - The Country Girls Trilogy
@@ -20,6 +16,10 @@ icon: book
 location:
   - 51.5053
   - -0.1694
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[London]]"
 Recreational lake in Hyde Park, London. In _The Country Girls Trilogy_ it is where Baba's drummer lover invites her to swim, and where she later feeds the ducks his smoked salmon.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | subject | Baba's drummer invites her to swim in the Serpentine mid-dinner party; she goes later, finds him gone, and feeds the ducks. |
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
-
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m76ejde23rqb4248x6n5jb)
 
 > “Would you like to come down to the Serpentine and have a swim?” he said.

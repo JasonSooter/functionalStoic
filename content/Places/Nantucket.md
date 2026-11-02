@@ -2,16 +2,13 @@
 publish: true
 title: Nantucket
 created: 2026-10-22T22:59:03.000Z
-modified: 2026-10-23T19:17:17.000Z
-published: 2026-10-23T19:17:17.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:19:52.151Z
+published: 2026-11-02T14:19:52.151Z
 aliases: []
 books:
   - Diane Ackerman on the Evolutionary and Existential Purpose of Deep Play
-  - "Maria Mitchell and the Spider’s Web: A Touching Testament to Tenacity from America’s First Woman Astronomer"
+  - "Maria Mitchell and the Spider’s Web: A Touching Testament to Tenacity from America’s\
+    \ First Woman Astronomer"
   - "[[Exploration of Moby Dick]]"
 categories:
   - "[[Places]]"
@@ -22,6 +19,10 @@ icon: book
 location:
   - 41.2828
   - -70.0994
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 ---
 
@@ -38,11 +39,9 @@ Island off Cape Cod, Massachusetts. Maria Mitchell grew up there, and Diane Acke
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | setting | The Pequod's home port: the Try Pots chowder, Peleg and Bildad at the wharf, the Christmas sailing, and the home Ahab won't turn back to. |
 
 ## Sub-places
-
 - [[Nantucket Atheneum]]
 
 ## Diane Ackerman on the Evolutionary and Existential Purpose of Deep Play — Maria Popova (2016)
-
 Source: [Original](https://www.brainpickings.org/2016/08/04/diane-ackerman-deep-play/) · [Readwise highlight](https://read.readwise.io/read/01m5jx88pxq5mtpe03ra6tkabz)
 
 > I had a most unusual experience. Midway through my daily swim in the ocean, my peripheral vision was drawn to what at first appeared to be a snorkel.
@@ -52,7 +51,6 @@ Source: [Original](https://www.brainpickings.org/2016/08/04/diane-ackerman-deep-
 - **Why it matters:** It is the opening scene that grounds the essay's abstract subject in a concrete place; the island itself is not otherwise discussed.
 
 ## Maria Mitchell and the Spider’s Web: A Touching Testament to Tenacity from America’s First Woman Astronomer — Maria Popova (2016)
-
 Source: [Original](https://www.brainpickings.org/2016/08/01/maria-mitchell-diary-spider/) · [Readwise highlight](https://read.readwise.io/read/01m5jx8bxbyg5e8v1n23j9ksft)
 
 > grew up in a large Quaker family on the small island of Nantucket and fell in love with the cosmos as a young girl.

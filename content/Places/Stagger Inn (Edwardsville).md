@@ -2,12 +2,8 @@
 publish: true
 title: Stagger Inn (Edwardsville)
 created: 2026-10-23T01:32:29.000Z
-modified: 2026-10-23T01:32:29.000Z
-published: 2026-10-23T01:32:29.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:21:54.973Z
+published: 2026-11-02T14:21:54.973Z
 aliases: []
 books:
   - Finding North America’s lost medieval city
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 38.8112
   - -89.9553
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Illinois]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[Illinois]]"
 Bar in Edwardsville, Illinois, near Cahokia. In an Ars Technica feature it is where the Cahokia archaeologists argue over beer whether the city was built on trade or belief.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Finding North America’s lost medieval city | Annalee Newitz | setting | The pub, founded by an archaeologist, is where the author talks with Baltus, Baires, Susan Alt and Tim Pauketat. |
 
 ## Finding North America’s lost medieval city — Annalee Newitz (2016)
-
 Source: [Original](http://arstechnica.com/features/2016/12/theres-a-1000-year-old-lost-city-beneath-the-st-louis-suburbs/) · [Readwise highlight](https://read.readwise.io/read/01m5k5rgqv9rdjpnxh0nc87t7e)
 
 > Every Thursday, people working the digs all over Cahokia converged on the place for beer, hamburgers, and ridiculously delicious fries.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Montparnasse Tower
 title: Tour Montparnasse
 created: 2026-10-20T07:39:45.000Z
-modified: 2026-10-21T13:44:41.000Z
-published: 2026-10-21T13:44:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:19:55.679Z
+published: 2026-11-02T14:19:55.679Z
+aliases:
+  - Montparnasse Tower
 books:
   - The Skyscraper That Ruined Paris
 categories:
@@ -20,6 +16,10 @@ icon: video
 location:
   - 48.8421
   - 2.322
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Paris]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Paris]]"
 Office skyscraper beside the Gare Montparnasse in Paris's 15th arrondissement; see [[Paris]]. It is the whole subject of a B1M video on Paris's first and much-disliked skyscraper.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Skyscraper That Ruined Paris | The B1M | subject | Paris's first skyscraper, loathed by locals and due for a makeover. |
 
 ## The Skyscraper That Ruined Paris — The B1M (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=68JUxRH8AZo) · [Readwise highlight](https://read.readwise.io/read/01m5c3psxvy2mgx4g4agqje5rg)
 
 > Ok, this is the Tour Montparnasse.

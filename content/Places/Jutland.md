@@ -2,13 +2,8 @@
 publish: true
 title: Jutland
 created: 2026-10-21T10:49:06.000Z
-modified: 2026-11-01T00:33:02.000Z
-published: 2026-11-01T00:33:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Jutland.svg
+modified: 2026-11-02T14:17:55.372Z
+published: 2026-11-02T14:17:55.372Z
 aliases: []
 books:
   - The post I didn't want to write…
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 55
   - 9
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Denmark]]"
 image: Attachments/Places/Jutland.svg
 ---
@@ -31,7 +30,6 @@ image: Attachments/Places/Jutland.svg
 Peninsula forming mainland Denmark, between the North Sea and the Kattegat. Helen Russell's farewell post looks back on her years living there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The post I didn't want to write… | Helen Russell | setting | Where Russell lived for almost 12 years and had her three children. |
@@ -44,7 +42,6 @@ Peninsula forming mainland Denmark, between the North Sea and the Kattegat. Hele
 - [[Kolding]]
 
 ## The post I didn't want to write… — Helen Russell
-
 Source: [Original](https://mshelenrussell.substack.com/p/the-post-i-didnt-want-to-write) · [Readwise highlight](https://read.readwise.io/read/01m5f0q0trhjmgg2wkbnt35gak)
 
 > I had all three of my children in Jutland - each one born into the Danish healthcare system that, to this day, leaves me in awe.

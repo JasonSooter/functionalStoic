@@ -2,13 +2,8 @@
 publish: true
 title: Alexandra Palace
 created: 2026-10-22T13:40:30.000Z
-modified: 2026-10-31T19:36:37.000Z
-published: 2026-10-31T19:36:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Alexandra Palace.svg
+modified: 2026-11-02T14:14:01.616Z
+published: 2026-11-02T14:14:01.616Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +17,10 @@ image: Attachments/Places/Alexandra Palace.svg
 location:
   - 51.5942
   - -0.1308
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -30,13 +29,11 @@ within: "[[London]]"
 Victorian–Edwardian palace on a hill in north London, home of the first BBC television studios; Attenborough starts his BBC career there in _Life on Air_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting / subject | Attenborough starts his BBC career there. |
 
 ## Life on Air — David Attenborough (2002)
-
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1hry7zgxx072f183w34j)
 
 > Alexandra Palace was - and still is - a sprawling Edwardian building, built on the top of a hill surrounded by a park in the north-eastern suburbs of London.

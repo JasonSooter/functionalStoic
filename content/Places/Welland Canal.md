@@ -2,12 +2,8 @@
 publish: true
 title: Welland Canal
 created: 2026-10-20T13:46:46.000Z
-modified: 2026-10-21T13:38:01.000Z
-published: 2026-10-21T13:38:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:22:41.589Z
+published: 2026-11-02T14:22:41.589Z
 aliases: []
 books:
   - The Hidden Engineering of Niagara Falls
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 42.8992
   - -79.2461
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ontario]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[Ontario]]"
 Ship canal bypassing [[Niagara Falls]] between Lake Ontario and Lake Erie in [[Ontario]], Canada, which appears in the reading as the first engineering workaround for the falls as a barrier to shipping.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Hidden Engineering of Niagara Falls | Wesley Crump | subject | Eight locks that bypass the falls. |
 
 ## The Hidden Engineering of Niagara Falls — Wesley Crump (2025)
-
 Source: [Original](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls) · [Readwise highlight](https://read.readwise.io/read/01m5cresn66zhv2pn9ywqy7ptj)
 
 > The Welland Canal runs through the peninsula west of the Niagara River, connecting two massive areas by shipping traffic for the first time in 1829.

@@ -2,12 +2,8 @@
 publish: true
 title: Sukiyabashi Jiro
 created: 2026-10-22T20:38:21.000Z
-modified: 2026-10-22T20:38:21.000Z
-published: 2026-10-22T20:38:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:21:47.177Z
+published: 2026-11-02T14:21:47.177Z
 aliases: []
 books:
   - 25 Documentaries Everybody Should Watch Pt. 2
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 35.6727
   - 139.764
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tokyo]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Tokyo]]"
 Sushi restaurant in a Ginza subway station, Tokyo. A subject in Martijn Schirp's “25 Documentaries Everybody Should Watch Pt. 2”: Ten-seat subway-station sushi restaurant in Tokyo from Jiro Dreams of Sushi.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 25 Documentaries Everybody Should Watch Pt. 2 | Martijn Schirp | subject | Ten-seat subway-station sushi restaurant in Tokyo from Jiro Dreams of Sushi |
 
 ## 25 Documentaries Everybody Should Watch Pt. 2 — Martijn Schirp (2016)
-
 Source: [Original](https://highexistence.com/25-documentaries-everybody-watch-part-ii/) · [Readwise highlight](https://read.readwise.io/read/01m5jkz6y33x8sj41sqemfdjvd)
 
 > His little place sits in a subway station with just ten seats, yet has gotten a 3 star Michelin review and is sold out a year in advance.

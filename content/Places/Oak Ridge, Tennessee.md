@@ -2,12 +2,8 @@
 publish: true
 title: Oak Ridge, Tennessee
 created: 2026-10-23T04:24:47.000Z
-modified: 2026-10-23T04:24:47.000Z
-published: 2026-10-23T04:24:47.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:19:31.434Z
+published: 2026-11-02T14:19:31.434Z
 aliases: []
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
@@ -20,6 +16,10 @@ icon: book
 location:
   - 36.0103
   - -84.2697
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tennessee]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Tennessee]]"
 City in eastern Tennessee built for the Manhattan Project's uranium plants. In _Surely You're Joking, Mr. Feynman!_ Feynman is sent there to stop the plant from risking an accidental chain reaction.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | turning point | Feynman tours the uranium plant, warns of neutrons in water and wins the right to tell the engineers how the bomb works. |
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
-
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfq7q5k7txttzrwjxayx3t)
 
 > At any rate, I arrived at Oak Ridge. The first thing I did was have them take me to the plant, and I said nothing, I just looked at everything.

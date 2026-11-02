@@ -2,12 +2,8 @@
 publish: true
 title: Murphy Ranch
 created: 2026-10-22T23:17:09.000Z
-modified: 2026-10-22T23:17:09.000Z
-published: 2026-10-22T23:17:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T16:01:51.693Z
+published: 2026-11-02T16:01:51.693Z
 aliases: []
 books:
   - "‘Call me a racist, but don’t say I’m a Buddhist’: meet America's alt right"
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 34.072
   - -118.513
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Los Angeles]]"
+image: Attachments/Places/Murphy Ranch.svg
 ---
 
 # Murphy Ranch
@@ -28,13 +29,11 @@ within: "[[Los Angeles]]"
 Ruined 1930s compound in Pacific Palisades, Los Angeles. The Guardian's alt-right subjects hike there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | ‘Call me a racist, but don’t say I’m a Buddhist’: meet America's alt right | Sanjiv Bhattacharya | journey waypoint | The Beach Goys hike to this ruined property, described as built as a refuge for Hitler after the war |
 
 ## ‘Call me a racist, but don’t say I’m a Buddhist’: meet America's alt right — Sanjiv Bhattacharya (2016)
-
 Source: [Original](https://www.theguardian.com/world/2016/oct/09/call-me-a-racist-but-dont-say-im-a-buddhist-meet-the-alt-right) · [Readwise highlight](https://read.readwise.io/read/01m5jy97r1zck9h7z472536svv)
 
 > Last week, they went on a hike to the Murphy Ranch in the Pacific Palisades, a decrepit old property that was originally built as a refuge for Hitler after the war.

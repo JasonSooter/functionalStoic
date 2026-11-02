@@ -2,12 +2,8 @@
 publish: true
 title: MIT swimming pool (The Soul of an Octopus)
 created: 2026-10-21T19:40:07.000Z
-modified: 2026-10-21T19:40:07.000Z
-published: 2026-10-21T19:40:07.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T15:17:20.956Z
+published: 2026-11-02T15:17:20.956Z
 aliases: []
 books:
   - "[[The Soul of an Octopus]]"
@@ -16,13 +12,19 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 42.3587,-71.0957
-geo_note: "inferred: the text says only \"the MIT swimming pool\"; pin is the Zesiger Center, MIT's main pool"
+geo_note: "inferred: the text says only \"the MIT swimming pool\"; pin is the Zesiger\
+  \ Center, MIT's main pool"
 geo_source: OSM way 29127389 (Zesiger Center)
 icon: book
 location:
   - 42.3587
   - -71.0957
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
+image: Attachments/Places/MIT swimming pool (The Soul of an Octopus).svg
 ---
 
 # MIT swimming pool (The Soul of an Octopus)
@@ -30,13 +32,11 @@ within: "[[Massachusetts]]"
 A swimming pool at MIT in Cambridge, Massachusetts, where Sy Montgomery takes her first scuba course in The Soul of an Octopus.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Soul of an Octopus]] | Sy Montgomery | setting | Scene of Montgomery's first, failed attempt at a scuba course. |
 
 ## The Soul of an Octopus — Sy Montgomery (2015)
-
 Source: [[The Soul of an Octopus]] · [Original](https://openlibrary.org/books/OL27182716M/The_Soul_of_an_Octopus) · [Readwise highlight](https://read.readwise.io/read/01m5fzckvrfzqd32t6ty8z6xts)
 
 > Here in the MIT swimming pool, I am practically delirious, reveling in my amphibious transformation.

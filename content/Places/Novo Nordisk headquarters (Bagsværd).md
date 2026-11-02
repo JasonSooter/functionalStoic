@@ -2,12 +2,8 @@
 publish: true
 title: Novo Nordisk headquarters (Bagsværd)
 created: 2026-10-23T05:12:46.000Z
-modified: 2026-10-23T05:12:46.000Z
-published: 2026-10-23T05:12:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:19:32.518Z
+published: 2026-11-02T14:19:32.518Z
 aliases: []
 books:
   - "[[The Nordic Theory of Everything]]"
@@ -20,6 +16,10 @@ icon: book
 location:
   - 55.7544
   - 12.455
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Copenhagen]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Copenhagen]]"
 Headquarters of the Danish pharmaceutical company Novo Nordisk in Bagsværd, north-west of Copenhagen. In _The Nordic Theory of Everything_ it is the case study for Danish "flexicurity".
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Nordic Theory of Everything]] | Anu Partanen | setting | Over smørrebrød, the HR chief explains how generous leave and state-funded security keep the company competitive. |
 
 ## The Nordic Theory of Everything — Anu Partanen (2016)
-
 Source: [[The Nordic Theory of Everything]] · [Original](https://openlibrary.org/works/OL20028831W) · [Readwise highlight](https://read.readwise.io/read/01m5kjfw9mztzdjw0wysqfjfxe)
 
 > The headquarters of Denmark’s Novo Nordisk, the world’s largest insulin maker, with forty thousand employees in seventy-five countries, is tucked in a low-lying industrial park outside Copenhagen.

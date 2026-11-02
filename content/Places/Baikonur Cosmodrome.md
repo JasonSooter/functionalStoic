@@ -2,13 +2,8 @@
 publish: true
 title: Baikonur Cosmodrome
 created: 2026-10-22T22:59:19.000Z
-modified: 2026-10-31T16:22:04.000Z
-published: 2026-10-31T16:22:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Baikonur Cosmodrome.svg
+modified: 2026-11-02T14:14:24.368Z
+published: 2026-11-02T14:14:24.368Z
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 45.965
   - 63.305
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Kazakhstan]]"
 image: Attachments/Places/Baikonur Cosmodrome.svg
 ---
@@ -30,13 +29,11 @@ image: Attachments/Places/Baikonur Cosmodrome.svg
 Russian launch site in the Kazakh steppe. In Project Hail Mary it is where the crew's deaths force Grace aboard the ship.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | In a flashback nine days before launch, Grace works as an administrator in a portable mobile home a few miles from Baikonur, looking out… |
 
 ## Project Hail Mary — Andy Weir (2021)
-
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9rtgpv76f81j83gf0tqd)
 
 > The Russians had their hands full erecting dozens of temporary shelters a few miles from Baikonur Cosmodrome.

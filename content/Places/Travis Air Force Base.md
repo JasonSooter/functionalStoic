@@ -2,12 +2,8 @@
 publish: true
 title: Travis Air Force Base
 created: 2026-10-22T22:36:52.000Z
-modified: 2026-10-22T22:36:52.000Z
-published: 2026-10-22T22:36:52.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:22:48.317Z
+published: 2026-11-02T14:22:48.317Z
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -20,6 +16,10 @@ icon: book
 location:
   - 38.2628
   - -121.9275
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[California]]"
 US Air Force base near Fairfield, California. In Project Hail Mary it is the first stop of Grace's sudden military flight across the Pacific.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | journey waypoint | A Marine helicopter carries Grace here from the Bay Area |
 
 ## Project Hail Mary — Andy Weir (2021)
-
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvsf426n7xn094jqhcebvb)
 
 > The chopper took me to Travis Air Force Base, about 60 miles north of the city.

@@ -2,12 +2,8 @@
 publish: true
 title: Pebble Beach Golf Links
 created: 2026-10-21T04:46:05.000Z
-modified: 2026-10-21T11:17:39.000Z
-published: 2026-10-21T11:17:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:18:29.045Z
+published: 2026-11-02T14:18:29.045Z
 aliases: []
 books:
   - "[[Brain Food - The Hardest Truth]]"
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 36.5686
   - -121.9506
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[California]]"
 Golf course in [[California]], USA, which is the setting of a quoted Warren Buffett anecdote about declining a hole-in-one bet.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brain Food - The Hardest Truth\|Brain Food: The Hardest Truth]] | Farnam Street | setting | In a quoted anecdote Buffett turns down a $10,000 hole-in-one bet against a $10 stake at Pebble Beach with Munger and Byrne. |
 
 ## Brain Food: The Hardest Truth — Farnam Street (2025)
-
 Source: [[Brain Food - The Hardest Truth]] · [Readwise highlight](https://read.readwise.io/read/01m5ebt36j1bhm7gjyjjs1kbp7)
 
 > Warren (Buffett) was playing golf at Pebble Beach with Charlie Munger (Berkshire Hathaway Vice-Chairman)

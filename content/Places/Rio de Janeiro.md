@@ -2,12 +2,8 @@
 publish: true
 title: Rio de Janeiro
 created: 2026-10-23T04:28:38.000Z
-modified: 2026-10-23T04:28:38.000Z
-published: 2026-10-23T04:28:38.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:37.624Z
+published: 2026-11-02T14:20:37.624Z
 aliases: []
 books:
   - Want to Be a Better Designer? Travel.
@@ -21,6 +17,10 @@ icon: book
 location:
   - -22.9111
   - -43.2056
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Brazil]]"
 ---
 
@@ -42,7 +42,6 @@ City on Guanabara Bay in south-eastern Brazil. A designer flies there one-way to
 - [[Lapa (Rio de Janeiro)]]
 
 ## Want to Be a Better Designer? Travel. — austinknight.com
-
 Source: [Original](https://austinknight.com/writing/want-better-designer-travel/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9hbd85naq9x59sdppbnz)
 
 > In a few hours, I’ll be boarding a one-way flight to Rio de Janeiro, Brazil. I sold all of my possessions and I don’t have plans to move back to the States any time soon.
@@ -52,7 +51,6 @@ Source: [Original](https://austinknight.com/writing/want-better-designer-travel/
 - **Why it matters:** Rio is the destination that frames the whole essay, though the city itself is not described in detail.
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
-
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfqf47shtfmxy7hpcgxf24)
 
 > Shortly after I won the Prize, Gweneth and I received an invitation from the Brazilian government to be the guests of honor at the Carnaval celebrations in Rio.

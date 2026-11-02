@@ -2,13 +2,8 @@
 publish: true
 title: Columbus Circle
 created: 2026-10-22T01:44:15.000Z
-modified: 2026-10-31T21:09:45.000Z
-published: 2026-10-31T21:09:45.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Columbus Circle.svg
+modified: 2026-11-02T14:15:05.613Z
+published: 2026-11-02T14:15:05.613Z
 aliases: []
 books:
   - The Case for More Traffic Roundabouts
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.769
   - -73.982
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Columbus Circle.svg
 ---
@@ -30,13 +29,11 @@ image: Attachments/Places/Columbus Circle.svg
 Traffic circle at the south-west corner of Central Park in Manhattan. Priceonomics names it as the first large American traffic circle in its case for roundabouts.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Case for More Traffic Roundabouts | Priceonomics | backdrop | Built in 1905 and 'largely acknowledged as the first' big traffic circle, the start of America's uneasy history with them. |
 
 ## The Case for More Traffic Roundabouts — Priceonomics (2015)
-
 Source: [Original](http://priceonomics.com/the-case-for-more-traffic-roundabouts/) · [Readwise highlight](https://read.readwise.io/read/01m5gm0ch33qpfh27hbceyz8e5)
 
 > Columbus Circle, built on the southwest corner of Central Park, New York

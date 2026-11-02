@@ -2,12 +2,8 @@
 publish: true
 title: Sourland Cycles
 created: 2026-10-21T10:49:23.000Z
-modified: 2026-10-21T13:36:45.000Z
-published: 2026-10-21T13:36:45.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:21:19.508Z
+published: 2026-11-02T14:21:19.508Z
 aliases: []
 books:
   - A hilly bicycle ride to a French bakery in New Jersey
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 40.3901
   - -74.7576
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[New Jersey]]"
 Bike shop on Broad Street in Hopewell, [[New Jersey]]. It appears in the reading as the start of its Friday women-only ride to a French bakery.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A hilly bicycle ride to a French bakery in New Jersey | alliumstozinnias | journey waypoint | Start of the shop's Friday women-only ride, the day after Thanksgiving. |
 
 ## A hilly bicycle ride to a French bakery in New Jersey — alliumstozinnias (2024)
-
 Source: [Original](https://exploringbybike.com/2024/11/29/a-hilly-bicycle-ride-to-a-french-bakery-in-new-jersey/) · [Readwise highlight](https://read.readwise.io/read/01m5f0psxe25pghns84tyx0s84)
 
 > We always leave from the Hopewell, N.J., store and head into the Sourland Mountain.

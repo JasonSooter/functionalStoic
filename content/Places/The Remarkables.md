@@ -2,12 +2,8 @@
 publish: true
 title: The Remarkables
 created: 2026-10-23T11:15:53.000Z
-modified: 2026-10-23T11:15:53.000Z
-published: 2026-10-23T11:15:53.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:22:21.665Z
+published: 2026-11-02T14:22:21.665Z
 aliases: []
 books:
   - "[[The Hobbit]]"
@@ -22,6 +18,10 @@ icon: book
 location:
   - -45.15
   - 168.8333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Zealand]]"
 ---
 
@@ -30,13 +30,11 @@ within: "[[New Zealand]]"
 The Remarkables are a mountain range beside Lake Wakatipu and Queenstown in Otago, New Zealand. They are pinned for _The Hobbit_ because Peter Jackson's Hobbit films used them for the Misty Mountains; they are not a place in the book.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | journey waypoint | Otago range that stood in for the Misty Mountains in Jackson's films; not a place in the book. |
 
 ## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
-
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m779t52zrctzw82mc8fp4c)
 
 > There were many paths that led up into those mountains, and many passes over them.

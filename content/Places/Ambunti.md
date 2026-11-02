@@ -2,13 +2,8 @@
 publish: true
 title: Ambunti
 created: 2026-10-22T13:41:43.000Z
-modified: 2026-10-31T19:35:29.000Z
-published: 2026-10-31T19:35:29.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Ambunti.svg
+modified: 2026-11-02T14:14:08.848Z
+published: 2026-11-02T14:14:08.848Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +17,10 @@ image: Attachments/Places/Ambunti.svg
 location:
   - -4.22
   - 142.83
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Papua New Guinea]]"
 ---
 
@@ -30,13 +29,11 @@ within: "[[Papua New Guinea]]"
 Station on the middle Sepik River, Papua New Guinea; in _Life on Air_ the starting point of a 1971 patrol into unexplored country.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | The starting point of a 1971 patrol into unexplored country. |
 
 ## Life on Air — David Attenborough (2002)
-
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3cj6pmtctpxwg9m6hg24)
 
 > So in April 1971, the three of us, together with Keith Adam, a film director from the ABC who had made all the arrangements on our behalf, flew in to Ambunti.

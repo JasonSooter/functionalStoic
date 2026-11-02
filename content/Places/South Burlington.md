@@ -2,12 +2,8 @@
 publish: true
 title: South Burlington
 created: 2026-10-21T02:07:44.000Z
-modified: 2026-10-21T13:37:12.000Z
-published: 2026-10-21T13:37:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:21:57.789Z
+published: 2026-11-02T14:21:57.789Z
 aliases: []
 books:
   - The Bright Future of the All-Electric Neighborhood
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 44.475
   - -73.1792
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vermont]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Vermont]]"
 Town in [[Vermont]], United States. It appears in the reading as the setting of a new all-electric townhouse development with views of the Green Mountains.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Bright Future of the All-Electric Neighborhood | Elizabeth Hewitt | setting | Susan Manners and her partner buy a townhouse in a new all-electric development with rooftop solar, a basement battery wall and no natural gas. |
 
 ## The Bright Future of the All-Electric Neighborhood — Elizabeth Hewitt (2025)
-
 Source: [Original](https://reasonstobecheerful.world/all-electric-neighborhoods/) · [Readwise highlight](https://read.readwise.io/read/01m5e2z7z6hwv86fd9asvt4w6n)
 
 > stumbled upon a chance to buy a townhouse in a new development in the northwestern city of South Burlington. The view — a vista of the Green Mountain range — was a huge selling point

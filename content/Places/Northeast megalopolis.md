@@ -2,12 +2,8 @@
 publish: true
 title: Northeast megalopolis
 created: 2026-10-22T22:36:05.000Z
-modified: 2026-10-22T22:36:05.000Z
-published: 2026-10-22T22:36:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:09.759Z
+published: 2026-11-02T14:20:09.759Z
 aliases: []
 books:
   - Opinion – A New Map for America - The New York Times
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 41
   - -74
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Northeast megalopolis
@@ -28,17 +28,14 @@ location:
 The urban corridor from Boston to Washington in the north-eastern United States. Parag Khanna's "A New Map for America" uses it as the model city-state region.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Opinion – A New Map for America - The New York Times | Parag Khanna | subject | Held up as the leading example of a metropolitan city-state whose economic weight far exceeds that of any single state |
 
 ## Sub-places
-
 _None yet._
 
 ## Opinion – A New Map for America - The New York Times — Parag Khanna (2016)
-
 Source: [Original](https://www.nytimes.com/2016/04/17/opinion/sunday/a-new-map-for-america.html) · [Readwise highlight](https://read.readwise.io/read/01m5jvmypypw0zf986619hmdns)
 
 > The Northeastern megalopolis, stretching from Boston to Washington, contains more than 50 million people and represents 20 percent of America’s gross domestic product.

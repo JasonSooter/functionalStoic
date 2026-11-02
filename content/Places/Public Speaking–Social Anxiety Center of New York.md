@@ -2,12 +2,8 @@
 publish: true
 title: Public Speaking–Social Anxiety Center of New York
 created: 2026-10-21T22:26:32.000Z
-modified: 2026-10-21T22:26:32.000Z
-published: 2026-10-21T22:26:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:37.076Z
+published: 2026-11-02T14:20:37.076Z
 aliases: []
 books:
   - "[[Quiet]]"
@@ -16,6 +12,10 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 ---
 
@@ -24,13 +24,11 @@ within: "[[New York City]]"
 Clinic in [[New York City]] that runs workshops for people afraid of public speaking. In Quiet (Susan Cain) she takes a class there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | setting | Where Cain takes a desensitisation class and starts to beat her fear of public speaking. |
 
 ## Quiet — Susan Cain (2012)
-
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wc7z2zxrfee71cn2vbbm)
 
 > After much hemming and hawing, I signed up for a workshop at the Public Speaking–Social Anxiety Center of New York.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Great Marlow
 title: Marlow
 created: 2026-10-22T01:44:44.000Z
-modified: 2026-10-22T01:44:44.000Z
-published: 2026-10-22T01:44:44.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T15:28:59.840Z
+published: 2026-11-02T15:28:59.840Z
+aliases:
+  - Great Marlow
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 51.57
   - -0.78
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Buckinghamshire]]"
+image: Attachments/Places/Marlow.svg
 ---
 
 # Marlow
@@ -29,13 +30,11 @@ within: "[[Buckinghamshire]]"
 Thames town in [[Buckinghamshire]]. In Three Men in a Boat the friends sleep at the Crown, Montmorency meets his match in a tom cat, and the party marches down the High Street with a procession of delivery boys.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | setting | Overnight at the Crown; Montmorency's run-in with a huge tom cat and the shopping procession down the High Street. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
-
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkydvdbe7djfgfry321kk0)
 
 > It is a bustling, lively little town; not very picturesque on the whole, it is true, but there are many quaint nooks and corners to be found in it

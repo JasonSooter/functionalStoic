@@ -2,12 +2,8 @@
 publish: true
 title: Rialto Bridge
 created: 2026-10-21T11:07:58.000Z
-modified: 2026-10-21T11:07:58.000Z
-published: 2026-10-21T11:07:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:50.732Z
+published: 2026-11-02T14:20:50.732Z
 aliases: []
 books:
   - The Crazy Engineering of Venice
@@ -20,6 +16,10 @@ icon: video
 location:
   - 45.438
   - 12.336
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Venice]]"
 ---
 
@@ -28,13 +28,11 @@ within: "[[Venice]]"
 Stone bridge over the Grand Canal in Venice. A video on Venice's engineering tells how it came to be built.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Crazy Engineering of Venice | Primal Space | turning point | From pontoon to burnt wooden bridge to a stone bridge on 12,000 piles. |
 
 ## The Crazy Engineering of Venice — Primal Space (2024)
-
 Source: [Original](https://www.youtube.com/watch?v=77omYd0JOeA) · [Readwise highlight](https://read.readwise.io/read/01m5f1xzrb2m5v1bfky0p1qs03)
 
 > there needed to be an easier way to reach Rialto

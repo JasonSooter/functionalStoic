@@ -2,13 +2,8 @@
 publish: true
 title: Harvard Law School
 created: 2026-10-21T22:27:06.000Z
-modified: 2026-11-01T00:09:18.000Z
-published: 2026-11-01T00:09:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Harvard Law School.svg
+modified: 2026-11-02T14:17:10.634Z
+published: 2026-11-02T14:17:10.634Z
 aliases: []
 books:
   - "[[Quiet]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 42.3791
   - -71.1197
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Harvard University]]"
 image: Attachments/Places/Harvard Law School.svg
 ---
@@ -30,13 +29,11 @@ image: Attachments/Places/Harvard Law School.svg
 Law school of [[Harvard University]] in Cambridge, Massachusetts. In Quiet (Susan Cain) she speaks on a panel there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | setting | Cain speaks on a panel and meets two women whose stories contrast self-monitoring and self-denial. |
 
 ## Quiet — Susan Cain (2012)
-
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wysedsdxsht1kepdwbg6)
 
 > Recently I spoke on a panel at Harvard Law School.

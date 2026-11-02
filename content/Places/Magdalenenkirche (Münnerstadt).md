@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - St Maria Magdalena (Münnerstadt)
 title: Magdalenenkirche (Münnerstadt)
 created: 2026-10-23T11:14:51.000Z
-modified: 2026-10-23T11:14:51.000Z
-published: 2026-10-23T11:14:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T15:17:21.088Z
+published: 2026-11-02T15:17:21.088Z
+aliases:
+  - St Maria Magdalena (Münnerstadt)
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 50.2494
   - 10.1958
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bavaria]]"
+image: Attachments/Places/Magdalenenkirche (Münnerstadt).svg
 ---
 
 # Magdalenenkirche (Münnerstadt)
@@ -29,13 +30,11 @@ within: "[[Bavaria]]"
 Parish church of St Mary Magdalene in Münnerstadt, Lower Franconia, north of Würzburg. In _Germany: Memories of a Nation_ it is the original home of Riemenschneider's Evangelists.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | setting | The church Riemenschneider's altarpiece was made for, its Evangelists set just above the altar near kneeling worshippers. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
-
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75v2dh5xjsttvmg80tz5f)
 
 > were part of a great carved altarpiece, made for the Magdalenenkirche in Münnerstadt, near Würzburg, and completed in 1492.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Espadilla Beach
 title: Playa Espadilla
 created: 2026-10-22T01:44:59.000Z
-modified: 2026-10-22T01:44:59.000Z
-published: 2026-10-22T01:44:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:54.912Z
+published: 2026-11-02T14:20:54.912Z
+aliases:
+  - Espadilla Beach
 books:
   - Our 2 Week Costa Rica Vacation
 categories:
@@ -22,6 +18,10 @@ icon: newspaper
 location:
   - 9.3926
   - -84.152
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Manuel Antonio National Park]]"
 ---
 
@@ -30,13 +30,11 @@ within: "[[Manuel Antonio National Park]]"
 Long beach at Manuel Antonio on Costa Rica's Pacific coast, just outside the national park. Retire by 40's family spends their beach days there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Our 2 Week Costa Rica Vacation | retirebyforty | setting | Right behind the hotel: tree-climbing, shells and crabs by day, an empty beach and lightning shows after 5 pm. |
 
 ## Our 2 Week Costa Rica Vacation — retirebyforty (2015)
-
 Source: [Original](https://retireby40.org/our-2-week-costa-rica-vacation/) · [Readwise highlight](https://read.readwise.io/read/01m5gm1p8avempwt8qp7bxwkbz)
 
 > Playa Espadilla was right behind our hotel and we hung out here the rest of the time.

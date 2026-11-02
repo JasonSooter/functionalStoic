@@ -2,12 +2,8 @@
 publish: true
 title: Leopold's Records
 created: 2026-10-21T04:44:59.000Z
-modified: 2026-10-21T11:18:59.000Z
-published: 2026-10-21T11:18:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:17:11.426Z
+published: 2026-11-02T14:17:11.426Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,6 +12,10 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berkeley, California]]"
 ---
 
@@ -24,13 +24,11 @@ within: "[[Berkeley, California]]"
 Record store in [[Berkeley, California]] whose bulletin board hosted the 1972 Community Memory kiosk, the first public bulletin board system, in Jenny Odell's How to Do Nothing.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | subject | The Community Memory kiosk, with a modem-linked teletype, sat under the store's physical bulletin board. |
 
 ## How to Do Nothing — Jenny Odell (2019)
-
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebvdsnz3f02p0n71nmna9j)
 
 > In 1972, the world’s first public bulletin board system (BBS) appeared in the form of a coin-operated kiosk at the top of the stairs to Leopold’s Records in Berkeley.

@@ -2,12 +2,8 @@
 publish: true
 title: Mackinac Island Public Library
 created: 2026-10-22T13:39:57.000Z
-modified: 2026-10-22T13:39:57.000Z
-published: 2026-10-22T13:39:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T15:17:20.988Z
+published: 2026-11-02T15:17:20.988Z
 aliases: []
 books:
   - Taking Star Line Ferry to Mackinac Island and Loving the Library
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 45.8463
   - -84.6192
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mackinac Island]]"
+image: Attachments/Places/Mackinac Island Public Library.svg
 ---
 
 # Mackinac Island Public Library
@@ -28,13 +29,11 @@ within: "[[Mackinac Island]]"
 Public library on Mackinac Island, Michigan, overlooking the lake; the last and favourite stop of the Currently Wandering family's day.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Taking Star Line Ferry to Mackinac Island and Loving the Library | Jess (Currently Wandering) | turning point | The last and favourite stop of the Currently Wandering family's day. |
 
 ## Taking Star Line Ferry to Mackinac Island and Loving the Library — Jess (Currently Wandering) (2015)
-
 Source: [Original](http://currentlywandering.com/2015/12/09/taking-star-line-ferry-to-mackinac-island-and-loving-the-library/) · [Readwise highlight](https://read.readwise.io/read/01m5hx1thna65hqrwa4hpw8hcw)
 
 > Our last stop, however, was the public library!

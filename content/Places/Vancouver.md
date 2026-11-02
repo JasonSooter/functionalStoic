@@ -2,12 +2,8 @@
 publish: true
 title: Vancouver
 created: 2026-10-22T10:27:37.000Z
-modified: 2026-10-22T22:58:56.000Z
-published: 2026-10-22T22:58:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:28.799Z
+published: 2026-11-02T14:20:28.799Z
 aliases: []
 books:
   - Why Successful People Spend 10 Hours A Week Just Thinking
@@ -20,6 +16,10 @@ icon: newspaper
 location:
   - 49.2608
   - -123.1139
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[British Columbia]]"
 ---
 
@@ -28,7 +28,6 @@ within: "[[British Columbia]]"
 City in British Columbia, Canada. A setting in Brian Scudamore's “Why Successful People Spend 10 Hours A Week Just Thinking”: Author's Monday thinking day: coffee shops, forest, beach and park benches.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Successful People Spend 10 Hours A Week Just Thinking | Brian Scudamore | setting | Author's Monday thinking day: coffee shops, forest, beach and park benches. |
@@ -39,7 +38,6 @@ City in British Columbia, Canada. A setting in Brian Scudamore's “Why Successf
 - [[Stanley Park]]
 
 ## Why Successful People Spend 10 Hours A Week Just Thinking — Brian Scudamore (2016)
-
 Source: [Original](https://medium.com/@BrianScudamore/why-successful-people-spend-10-hours-a-week-just-thinking-79a5b16eb404) · [Readwise highlight](https://read.readwise.io/read/01m5jkzfjq9s4vzm0q7n0xtdz1)
 
 > I often spend the day wandering around Vancouver.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Inyo-White Mountains
 title: White Mountains (California)
 created: 2026-10-20T22:51:47.000Z
-modified: 2026-10-21T13:38:24.000Z
-published: 2026-10-21T13:38:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:20:26.227Z
+published: 2026-11-02T14:20:26.227Z
+aliases:
+  - Inyo-White Mountains
 books:
   - The vanishing groves
 categories:
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 37.5833
   - -118.2675
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -29,17 +29,14 @@ within: "[[California]]"
 Arid mountain range east of the Sierra Nevada in [[California]], home of the ancient bristlecone pines, which is the central place in Ross Andersen's essay on the vanishing groves.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The vanishing groves | Ross Andersen | setting | The author trudges miles through snow in March to reach the bristlecone groves on the White Mountains' dolomite, north of Death Valley. |
 
 ## Sub-places
-
 - [[Schulman Grove]]
 
 ## The vanishing groves — Ross Andersen (2013)
-
 Source: [Original](https://aeon.co/essays/trees-of-deep-time-are-a-portal-to-the-past-and-the-future) · [Readwise highlight](https://read.readwise.io/read/01m5dqt7y7y72fcgkq493y3qjm)
 
 > In March this year, I paid a visit to these extraordinary beings on an arid strip of dolomite atop California’s White Mountains. Located just north of Death Valley, the White Mountains are some of the driest on the planet.

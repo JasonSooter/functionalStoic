@@ -2,13 +2,8 @@
 publish: true
 title: Ace Hotel Palm Springs
 created: 2026-10-21T04:44:49.000Z
-modified: 2026-10-31T16:22:04.000Z
-published: 2026-10-31T16:22:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Ace Hotel Palm Springs.svg
+modified: 2026-11-02T14:13:52.772Z
+published: 2026-11-02T14:13:52.772Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 33.8009
   - -116.5403
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Palm Springs]]"
 image: Attachments/Places/Ace Hotel Palm Springs.svg
 ---
@@ -30,13 +29,11 @@ image: Attachments/Places/Ace Hotel Palm Springs.svg
 Hotel in Palm Springs, California, [[Palm Springs]], that Jenny Odell's How to Do Nothing uses as a placeless, aesthetic backdrop against the mountains beyond.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | backdrop | A generic aesthetic simulacrum where she sits among influencers, fixated on the San Jacinto Mountains she cannot reach without a car. |
 
 ## How to Do Nothing — Jenny Odell (2019)
-
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebv8jkzyh1mg3vraavtf1c)
 
 > I went to a wedding in Palm Springs that was being held at the Ace Hotel.

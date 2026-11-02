@@ -2,12 +2,8 @@
 publish: true
 title: Sea of Galilee
 created: 2026-10-22T19:56:24.000Z
-modified: 2026-10-22T19:56:24.000Z
-published: 2026-10-22T19:56:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:21:42.156Z
+published: 2026-11-02T14:21:42.156Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -21,6 +17,10 @@ icon: book
 location:
   - 32.8333
   - 35.5833
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Israel]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[Israel]]"
 Freshwater lake in northern Israel, the source of the lower Jordan River. A journey waypoint in Colum McCann's _Apeirogon_: Lake where Costigin and the Maltese sailor begin their 1835 boat journey down the Jordan.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | journey waypoint | Lake where Costigin and the Maltese sailor begin their 1835 boat journey down the Jordan. |
 
 ## Apeirogon — Colum McCann (2020)
-
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqfnzb5f197pd9fvrjtx7)
 
 > On the evening of the third day, the Sea of Galilee rose in front of them.

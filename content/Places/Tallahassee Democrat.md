@@ -2,12 +2,8 @@
 publish: true
 title: Tallahassee Democrat
 created: 2026-10-21T19:41:01.000Z
-modified: 2026-10-21T19:41:01.000Z
-published: 2026-10-21T19:41:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T14:22:23.205Z
+published: 2026-11-02T14:22:23.205Z
 aliases: []
 books:
   - How to Be an Antiracist
@@ -21,6 +17,10 @@ icon: book
 location:
   - 30.4419
   - -84.2819
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tallahassee]]"
 ---
 
@@ -29,13 +29,11 @@ within: "[[Tallahassee]]"
 Daily newspaper in Tallahassee, Florida. In How to Be an Antiracist (Ibram X. Kendi) a meeting in its editor's office turns him toward antiracism.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | turning point | Editor's office where a confrontation turns Kendi toward antiracism. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
-
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fzdf46b2dh4ke8qpmmgq2m)
 
 > editor, in the autumn of 2003, I saw the tall, slim, light-skinned actor Christopher Duncan.

@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Pacific Crest Trail Northern Terminus
+created: 2026-10-21T19:40:31.000Z
+modified: 2026-11-02T14:20:39.984Z
+published: 2026-11-02T14:20:39.984Z
 aliases:
   - PCT Northern Terminus
   - Monument 78
-title: Pacific Crest Trail Northern Terminus
-created: 2026-10-21T19:40:31.000Z
-modified: 2026-10-21T19:40:31.000Z
-published: 2026-10-21T19:40:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Hiking the 2,650-Mile Pacific Crest Trail
 categories:
@@ -22,6 +18,10 @@ icon: newspaper
 location:
   - 49.0003
   - -120.8021
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington (state)]]"
 ---
 
@@ -30,13 +30,11 @@ within: "[[Washington (state)]]"
 Monument on the US–Canada border in the North Cascades, the northern end of the Pacific Crest Trail. In a Priceonomics story it is the finish of a 2013 thru-hike.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Hiking the 2,650-Mile Pacific Crest Trail | Priceonomics | turning point | The anti-climactic finish after 142 days on the trail. |
 
 ## Hiking the 2,650-Mile Pacific Crest Trail — Priceonomics (2015)
-
 Source: [Original](http://priceonomics.com/hiking-the-2650-mile-pacific-crest-trail/) · [Readwise highlight](https://read.readwise.io/read/01m5fzc6ayqwc8c4y0z3vptnqf)
 
 > Finally, on an overcast day in early September, Colin reached the Canadian border.

@@ -2,13 +2,8 @@
 publish: true
 title: Hawaiian ghost town (Day Trips Galore)
 created: 2026-10-21T22:44:00.000Z
-modified: 2026-11-01T00:09:21.000Z
-published: 2026-11-01T00:09:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hawaiian ghost town (Day Trips Galore).svg
+modified: 2026-11-02T14:17:17.238Z
+published: 2026-11-02T14:17:17.238Z
 aliases: []
 books:
   - Day Trips Galore
@@ -17,12 +12,17 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 40.5419,-112.7339
-geo_note: "inferred: Hawaiian colony in Utah near a Tooele County Supercharger points to Iosepa"
+geo_note: "inferred: Hawaiian colony in Utah near a Tooele County Supercharger points\
+  \ to Iosepa"
 geo_source: Wikipedia (en) Iosepa, Utah
 icon: newspaper
 location:
   - 40.5419
   - -112.7339
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Iosepa]]"
 image: Attachments/Places/Hawaiian ghost town (Day Trips Galore).svg
 ---
@@ -32,13 +32,11 @@ image: Attachments/Places/Hawaiian ghost town (Day Trips Galore).svg
 Unnamed ghost town of Hawaiian settlers in Utah in a Tesla owner's story, Day Trips Galore. The pin is Iosepa in Tooele County, the one Hawaiian colony in Utah.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Day Trips Galore | Corey Henderson | turning point | A ghost town of Hawaiian settlers that reconnects a family from Laie, Hawaii, with its past. |
 
 ## Day Trips Galore — Corey Henderson (2015)
-
 Source: [Original](http://www.teslamotors.com/customer-stories/day-trips-galore) · [Readwise highlight](https://read.readwise.io/read/01m5ga1dyx52x9r8dz0wapqvvs)
 
 > In looking for places to go and things to do, we discovered a ghost town nearby with roots to our past.

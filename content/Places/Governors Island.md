@@ -2,13 +2,8 @@
 publish: true
 title: Governors Island
 created: 2026-10-23T05:18:59.000Z
-modified: 2026-11-01T00:09:41.000Z
-published: 2026-11-01T00:09:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Governors Island.svg
+modified: 2026-11-02T14:16:53.709Z
+published: 2026-11-02T14:16:53.709Z
 aliases: []
 books:
   - "[[The Anxious Generation]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 40.6914
   - -74.0161
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Governors Island.svg
 ---
@@ -30,13 +29,11 @@ image: Attachments/Places/Governors Island.svg
 Island in New York Harbor south of Manhattan, now a park. In _The Anxious Generation_ its adventure playground is the best his children ever experienced.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Anxious Generation]] | Jonathan Haidt | subject | A junk playground where parents are asked not to interfere and children build forts with hammers and loose parts. |
 
 ## The Anxious Generation — Jonathan Haidt (2024)
-
 Source: [[The Anxious Generation]] · [Original](https://openlibrary.org/works/OL37575384W) · [Readwise highlight](https://read.readwise.io/read/01m5kk2jp241wx72prxpq1qnsv)
 
 > New York City is blessed with one such playground on Governors Island, the best playground my children have ever experienced.

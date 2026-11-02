@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Grottaferrata Abbey
 title: Abbey of Santa Maria di Grottaferrata
 created: 2026-10-20T13:52:01.000Z
-modified: 2026-10-31T16:22:00.000Z
-published: 2026-10-31T16:22:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Abbey of Santa Maria di Grottaferrata.svg
+modified: 2026-11-02T14:14:06.984Z
+published: 2026-11-02T14:14:06.984Z
+aliases:
+  - Grottaferrata Abbey
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -23,6 +18,10 @@ icon: book
 location:
   - 41.7857
   - 12.6668
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Lazio]]"
 image: Attachments/Places/Abbey of Santa Maria di Grottaferrata.svg
 ---

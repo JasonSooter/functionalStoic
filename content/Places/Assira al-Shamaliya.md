@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Asira ash-Shamaliya
 title: Assira al-Shamaliya
 created: 2026-10-22T16:49:20.000Z
-modified: 2026-10-31T16:22:09.000Z
-published: 2026-10-31T16:22:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Assira al-Shamaliya.svg
+modified: 2026-11-02T14:14:21.264Z
+published: 2026-11-02T14:14:21.264Z
+aliases:
+  - Asira ash-Shamaliya
 books:
   - "[[Apeirogon]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 32.2506
   - 35.2669
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[West Bank]]"
 image: Attachments/Places/Assira al-Shamaliya.svg
 ---
@@ -31,13 +30,11 @@ image: Attachments/Places/Assira al-Shamaliya.svg
 Palestinian village north of Nablus in the West Bank. Home village of the Ben Yehuda bombers in _Apeirogon_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | backdrop | Home village of the three Ben Yehuda bombers, all wheatfields and olive groves. |
 
 ## Apeirogon — Colum McCann (2020)
-
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7wf7a7fjc4q4494swgwv7)
 
 > They had all come originally from the village of Assira al-Shamaliya in the West Bank.
