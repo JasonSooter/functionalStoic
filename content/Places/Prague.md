@@ -2,8 +2,8 @@
 publish: true
 title: Prague
 created: 2026-10-20T10:42:32.000Z
-modified: 2026-11-02T14:20:37.832Z
-published: 2026-11-02T14:20:37.832Z
+modified: 2026-11-02T18:35:42.454Z
+published: 2026-11-02T18:35:42.454Z
 aliases:
   - Praha
 books:
@@ -22,6 +22,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Prague.svg
 ---
 
 # Prague

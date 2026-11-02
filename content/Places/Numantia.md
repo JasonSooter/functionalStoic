@@ -2,8 +2,8 @@
 publish: true
 title: Numantia
 created: 2026-10-23T11:14:44.000Z
-modified: 2026-11-02T14:19:46.415Z
-published: 2026-11-02T14:19:46.415Z
+modified: 2026-11-02T17:59:23.003Z
+published: 2026-11-02T17:59:23.003Z
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Spain]]"
+image: Attachments/Places/Numantia.svg
 ---
 
 # Numantia

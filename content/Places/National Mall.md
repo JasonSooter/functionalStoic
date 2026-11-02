@@ -2,8 +2,8 @@
 publish: true
 title: National Mall
 created: 2026-10-23T01:32:29.000Z
-modified: 2026-11-02T14:19:34.994Z
-published: 2026-11-02T14:19:34.994Z
+modified: 2026-11-02T17:48:49.341Z
+published: 2026-11-02T17:48:49.341Z
 aliases: []
 books:
   - Do We Want to Live in China’s World?
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Washington DC]]"
+image: Attachments/Places/National Mall.svg
 ---
 
 # National Mall

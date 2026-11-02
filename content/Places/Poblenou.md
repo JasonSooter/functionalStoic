@@ -2,8 +2,8 @@
 publish: true
 title: Poblenou
 created: 2026-10-21T05:08:15.000Z
-modified: 2026-11-02T14:20:43.108Z
-published: 2026-11-02T14:20:43.108Z
+modified: 2026-11-02T18:30:31.672Z
+published: 2026-11-02T18:30:31.672Z
 aliases: []
 books:
   - "[[How ‘Superblocks’ Can Create People-Centered Cities]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Barcelona]]"
+image: Attachments/Places/Poblenou.svg
 ---
 
 # Poblenou

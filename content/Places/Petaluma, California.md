@@ -2,8 +2,8 @@
 publish: true
 title: Petaluma, California
 created: 2026-10-23T11:14:56.000Z
-modified: 2026-11-02T14:20:19.627Z
-published: 2026-11-02T14:20:19.627Z
+modified: 2026-11-02T18:19:59.796Z
+published: 2026-11-02T18:19:59.796Z
 aliases: []
 books:
   - Abundance
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Petaluma, California.svg
 ---
 
 # Petaluma, California

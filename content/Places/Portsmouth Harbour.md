@@ -2,8 +2,8 @@
 publish: true
 title: Portsmouth Harbour
 created: 2026-10-23T11:15:28.000Z
-modified: 2026-11-02T14:20:11.879Z
-published: 2026-11-02T14:20:11.879Z
+modified: 2026-11-02T18:30:31.992Z
+published: 2026-11-02T18:30:31.992Z
 aliases:
   - Portsmouth
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[England]]"
+image: Attachments/Places/Portsmouth Harbour.svg
 ---
 
 # Portsmouth Harbour

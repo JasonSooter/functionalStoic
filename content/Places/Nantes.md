@@ -2,8 +2,8 @@
 publish: true
 title: Nantes
 created: 2026-10-20T07:38:21.000Z
-modified: 2026-11-02T14:19:33.214Z
-published: 2026-11-02T14:19:33.214Z
+modified: 2026-11-02T17:48:49.193Z
+published: 2026-11-02T17:48:49.193Z
 aliases: []
 books:
   - The Birthplace of Public Transit | Nebula Original
@@ -20,6 +20,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Pays de la Loire]]"
+image: Attachments/Places/Nantes.svg
 ---
 
 # Nantes

@@ -2,8 +2,8 @@
 publish: true
 title: Orpheum Theatre (Los Angeles)
 created: 2026-10-23T02:23:44.000Z
-modified: 2026-11-02T14:17:55.876Z
-published: 2026-11-02T14:17:55.876Z
+modified: 2026-11-02T18:09:58.730Z
+published: 2026-11-02T18:09:58.730Z
 aliases:
   - Orpheum Theater
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Los Angeles]]"
+image: Attachments/Places/Orpheum Theatre (Los Angeles).svg
 ---
 
 # Orpheum Theatre (Los Angeles)

@@ -2,8 +2,8 @@
 publish: true
 title: National Press Club
 created: 2026-10-23T02:03:41.000Z
-modified: 2026-11-02T14:20:08.427Z
-published: 2026-11-02T14:20:08.427Z
+modified: 2026-11-02T17:48:49.369Z
+published: 2026-11-02T17:48:49.369Z
 aliases: []
 books:
   - Rod Dreher’s Monastic Vision – The New Yorker
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Washington DC]]"
+image: Attachments/Places/National Press Club.svg
 ---
 
 # National Press Club

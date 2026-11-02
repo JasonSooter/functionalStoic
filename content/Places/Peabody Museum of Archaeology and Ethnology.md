@@ -2,8 +2,8 @@
 publish: true
 title: Peabody Museum of Archaeology and Ethnology
 created: 2026-10-21T20:10:14.000Z
-modified: 2026-11-02T14:20:01.203Z
-published: 2026-11-02T14:20:01.203Z
+modified: 2026-11-02T18:19:59.588Z
+published: 2026-11-02T18:19:59.588Z
 aliases:
   - Peabody Museum
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Massachusetts]]"
+image: Attachments/Places/Peabody Museum of Archaeology and Ethnology.svg
 ---
 
 # Peabody Museum of Archaeology and Ethnology

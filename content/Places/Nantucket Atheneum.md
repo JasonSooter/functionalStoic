@@ -2,8 +2,8 @@
 publish: true
 title: Nantucket Atheneum
 created: 2026-10-22T22:59:06.000Z
-modified: 2026-11-02T14:20:12.019Z
-published: 2026-11-02T14:20:12.019Z
+modified: 2026-11-02T17:48:49.225Z
+published: 2026-11-02T17:48:49.225Z
 aliases: []
 books:
   - "Maria Mitchell and the Spider’s Web: A Touching Testament to Tenacity from America’s\
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Nantucket]]"
+image: Attachments/Places/Nantucket Atheneum.svg
 ---
 
 # Nantucket Atheneum

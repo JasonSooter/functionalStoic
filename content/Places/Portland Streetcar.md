@@ -2,8 +2,8 @@
 publish: true
 title: Portland Streetcar
 created: 2026-10-21T13:56:48.000Z
-modified: 2026-11-02T14:20:16.063Z
-published: 2026-11-02T14:20:16.063Z
+modified: 2026-11-02T18:30:31.924Z
+published: 2026-11-02T18:30:31.924Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Portland, Oregon]]"
+image: Attachments/Places/Portland Streetcar.svg
 ---
 
 # Portland Streetcar

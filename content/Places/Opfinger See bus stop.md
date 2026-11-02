@@ -2,8 +2,8 @@
 publish: true
 title: Opfinger See bus stop
 created: 2026-10-20T13:42:36.000Z
-modified: 2026-11-02T14:18:07.556Z
-published: 2026-11-02T14:18:07.556Z
+modified: 2026-11-02T18:09:58.626Z
+published: 2026-11-02T18:09:58.626Z
 aliases: []
 books:
   - The Opfinger See bus stop now has a wooden shelter
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Freiburg]]"
+image: Attachments/Places/Opfinger See bus stop.svg
 ---
 
 # Opfinger See bus stop

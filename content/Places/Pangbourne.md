@@ -2,8 +2,8 @@
 publish: true
 title: Pangbourne
 created: 2026-10-22T01:44:34.000Z
-modified: 2026-11-02T14:20:25.939Z
-published: 2026-11-02T14:20:25.939Z
+modified: 2026-11-02T18:15:25.146Z
+published: 2026-11-02T18:15:25.146Z
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Berkshire]]"
+image: Attachments/Places/Pangbourne.svg
 ---
 
 # Pangbourne

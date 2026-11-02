@@ -2,8 +2,8 @@
 publish: true
 title: Pagoda of Pillaji
 created: 2026-10-23T22:33:36.000Z
-modified: 2026-11-02T14:18:21.197Z
-published: 2026-11-02T14:18:21.197Z
+modified: 2026-11-02T18:15:24.962Z
+published: 2026-11-02T18:15:24.962Z
 aliases:
   - Kholby (Around the World in Eighty Days)
 books:
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[India]]"
+image: Attachments/Places/Pagoda of Pillaji (Around the World in Eighty Days).svg
 ---
 
 # Pagoda of Pillaji

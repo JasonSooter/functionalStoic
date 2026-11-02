@@ -2,8 +2,8 @@
 publish: true
 title: Poprad-Tatry station
 created: 2026-10-20T04:32:49.000Z
-modified: 2026-11-02T14:20:26.659Z
-published: 2026-11-02T14:20:26.659Z
+modified: 2026-11-02T18:30:31.816Z
+published: 2026-11-02T18:30:31.816Z
 aliases:
   - Poprad-Tatry
 books:
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[High Tatras]]"
+image: Attachments/Places/Poprad-Tatry station.svg
 ---
 
 # Poprad-Tatry station

@@ -2,8 +2,8 @@
 publish: true
 title: Ponce City Market
 created: 2026-10-22T23:17:11.000Z
-modified: 2026-11-02T14:20:08.959Z
-published: 2026-11-02T14:20:08.959Z
+modified: 2026-11-02T18:30:31.752Z
+published: 2026-11-02T18:30:31.752Z
 aliases: []
 books:
   - MailChimp and the Un-Silicon Valley Way to Make It as a Start-Up - The New York
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Atlanta]]"
+image: Attachments/Places/Ponce City Market.svg
 ---
 
 # Ponce City Market

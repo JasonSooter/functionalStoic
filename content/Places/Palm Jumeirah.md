@@ -2,8 +2,8 @@
 publish: true
 title: Palm Jumeirah
 created: 2026-10-20T04:19:55.000Z
-modified: 2026-11-02T14:20:17.499Z
-published: 2026-11-02T14:20:17.499Z
+modified: 2026-11-02T18:15:25.054Z
+published: 2026-11-02T18:15:25.054Z
 aliases: []
 books:
   - Dubai Has a Sewage Problem
@@ -20,6 +20,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Dubai]]"
+image: Attachments/Places/Palm Jumeirah.svg
 ---
 
 # Palm Jumeirah

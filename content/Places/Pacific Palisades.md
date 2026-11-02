@@ -2,8 +2,8 @@
 publish: true
 title: Pacific Palisades
 created: 2026-10-21T04:46:41.000Z
-modified: 2026-11-02T14:18:18.901Z
-published: 2026-11-02T14:18:18.901Z
+modified: 2026-11-02T18:15:24.930Z
+published: 2026-11-02T18:15:24.930Z
 aliases: []
 books:
   - "‘Let the Fire Teach Us’: How L.A. Is Building Back Better"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Los Angeles]]"
+image: Attachments/Places/Pacific Palisades.svg
 ---
 
 # Pacific Palisades

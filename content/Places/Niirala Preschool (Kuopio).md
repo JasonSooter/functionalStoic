@@ -2,8 +2,8 @@
 publish: true
 title: Niirala Preschool (Kuopio)
 created: 2026-10-22T23:17:05.000Z
-modified: 2026-11-02T14:19:39.738Z
-published: 2026-11-02T14:19:39.738Z
+modified: 2026-11-02T17:54:06.328Z
+published: 2026-11-02T17:54:06.328Z
 aliases: []
 books:
   - The Joyful, Illiterate Kindergartners of Finland
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Finland]]"
+image: Attachments/Places/Niirala Preschool (Kuopio).svg
 ---
 
 # Niirala Preschool (Kuopio)

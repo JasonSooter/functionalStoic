@@ -2,8 +2,8 @@
 publish: true
 title: Noho'ana Farm
 created: 2026-10-22T19:58:00.000Z
-modified: 2026-11-02T14:19:39.010Z
-published: 2026-11-02T14:19:39.010Z
+modified: 2026-11-02T17:59:22.739Z
+published: 2026-11-02T17:59:22.739Z
 aliases: []
 books:
   - The Fall of the Sugar Goliath in Hawaii Makes Way for the Return of Kalo
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Maui]]"
+image: Attachments/Places/Noho'ana Farm.svg
 ---
 
 # Noho'ana Farm

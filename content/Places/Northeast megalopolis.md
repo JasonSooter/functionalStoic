@@ -2,8 +2,8 @@
 publish: true
 title: Northeast megalopolis
 created: 2026-10-22T22:36:05.000Z
-modified: 2026-11-02T14:20:09.759Z
-published: 2026-11-02T14:20:09.759Z
+modified: 2026-11-02T18:41:10.807Z
+published: 2026-11-02T18:41:10.807Z
 aliases: []
 books:
   - Opinion – A New Map for America - The New York Times
@@ -21,6 +21,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Northeast megalopolis.svg
 ---
 
 # Northeast megalopolis

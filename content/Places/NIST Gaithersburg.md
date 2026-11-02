@@ -2,8 +2,8 @@
 publish: true
 title: NIST Gaithersburg
 created: 2026-10-20T19:36:50.000Z
-modified: 2026-11-02T14:20:06.839Z
-published: 2026-11-02T14:20:06.839Z
+modified: 2026-11-02T17:59:22.707Z
+published: 2026-11-02T17:59:22.707Z
 aliases:
   - National Institute of Standards and Technology
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Maryland]]"
+image: Attachments/Places/NIST Gaithersburg.svg
 ---
 
 # NIST Gaithersburg

@@ -2,8 +2,8 @@
 publish: true
 title: New Ireland
 created: 2026-10-23T11:15:08.000Z
-modified: 2026-11-02T14:20:05.435Z
-published: 2026-11-02T14:20:05.435Z
+modified: 2026-11-02T17:54:06.128Z
+published: 2026-11-02T17:54:06.128Z
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Papua New Guinea]]"
+image: Attachments/Places/New Ireland.svg
 ---
 
 # New Ireland

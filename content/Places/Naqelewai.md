@@ -2,8 +2,8 @@
 publish: true
 title: Naqelewai
 created: 2026-10-20T13:43:19.000Z
-modified: 2026-11-02T14:20:09.619Z
-published: 2026-11-02T14:20:09.619Z
+modified: 2026-11-02T17:48:49.273Z
+published: 2026-11-02T17:48:49.273Z
 aliases:
   - Nagelewai
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Fiji]]"
+image: Attachments/Places/Naqelewai.svg
 ---
 
 # Naqelewai

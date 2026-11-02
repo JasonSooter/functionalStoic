@@ -2,8 +2,8 @@
 publish: true
 title: National Naval Medical Center (Bethesda)
 created: 2026-10-22T22:36:14.000Z
-modified: 2026-11-02T14:19:40.951Z
-published: 2026-11-02T14:19:40.951Z
+modified: 2026-11-02T17:48:49.353Z
+published: 2026-11-02T17:48:49.353Z
 aliases: []
 books:
   - The Citizen-Soldier Moral Risk and the Modern Military
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Maryland]]"
+image: Attachments/Places/National Naval Medical Center (Bethesda).svg
 ---
 
 # National Naval Medical Center (Bethesda)

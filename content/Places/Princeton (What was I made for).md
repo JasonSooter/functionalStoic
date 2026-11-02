@@ -2,8 +2,8 @@
 publish: true
 title: Princeton (What was I made for)
 created: 2026-10-21T16:37:16.000Z
-modified: 2026-11-02T14:20:14.331Z
-published: 2026-11-02T14:20:14.331Z
+modified: 2026-11-02T18:35:42.534Z
+published: 2026-11-02T18:35:42.534Z
 aliases:
   - Princeton
 books:
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Princeton (What was I made for).svg
 ---
 
 # Princeton (What was I made for)

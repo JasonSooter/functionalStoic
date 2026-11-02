@@ -2,8 +2,8 @@
 publish: true
 title: Provincetown, Massachusetts
 created: 2026-10-23T05:33:33.000Z
-modified: 2026-11-02T14:18:16.824Z
-published: 2026-11-02T14:18:16.824Z
+modified: 2026-11-02T18:35:42.626Z
+published: 2026-11-02T18:35:42.626Z
 aliases:
   - Provincetown
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Massachusetts]]"
+image: Attachments/Places/Provincetown, Massachusetts.svg
 ---
 
 # Provincetown, Massachusetts

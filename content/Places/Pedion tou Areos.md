@@ -2,8 +2,8 @@
 publish: true
 title: Pedion tou Areos
 created: 2026-10-23T04:41:29.000Z
-modified: 2026-11-02T14:20:17.843Z
-published: 2026-11-02T14:20:17.843Z
+modified: 2026-11-02T18:19:59.636Z
+published: 2026-11-02T18:19:59.636Z
 aliases:
   - Pedion tou Areos park
   - Field of Ares
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Athens]]"
+image: Attachments/Places/Pedion tou Areos.svg
 ---
 
 # Pedion tou Areos

@@ -2,8 +2,8 @@
 publish: true
 title: Ozeaneum
 created: 2026-10-20T04:21:31.000Z
-modified: 2026-11-02T14:19:50.919Z
-published: 2026-11-02T14:19:50.919Z
+modified: 2026-11-02T18:15:34.151Z
+published: 2026-11-02T18:15:34.151Z
 aliases:
   - Ozeaneum Stralsund
 books:
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Stralsund]]"
+image: Attachments/Places/Ozeaneum.svg
 ---
 
 # Ozeaneum

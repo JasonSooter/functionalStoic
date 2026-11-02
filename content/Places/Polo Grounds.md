@@ -2,8 +2,8 @@
 publish: true
 title: Polo Grounds
 created: 2026-10-23T04:59:34.000Z
-modified: 2026-11-02T14:20:41.768Z
-published: 2026-11-02T14:20:41.768Z
+modified: 2026-11-02T18:30:31.736Z
+published: 2026-11-02T18:30:31.736Z
 aliases: []
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Manhattan]]"
+image: Attachments/Places/Polo Grounds.svg
 ---
 
 # Polo Grounds

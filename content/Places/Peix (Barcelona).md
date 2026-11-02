@@ -2,8 +2,8 @@
 publish: true
 title: Peix (Barcelona)
 created: 2026-10-21T19:59:46.000Z
-modified: 2026-11-02T14:18:18.124Z
-published: 2026-11-02T14:18:18.124Z
+modified: 2026-11-02T18:19:59.652Z
+published: 2026-11-02T18:19:59.652Z
 aliases:
   - Barcelona Fish
   - Golden Fish
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Barcelona]]"
+image: Attachments/Places/Peix (Barcelona).svg
 ---
 
 # Peix (Barcelona)

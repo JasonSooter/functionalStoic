@@ -2,8 +2,8 @@
 publish: true
 title: Persepolis
 created: 2026-10-20T22:54:42.000Z
-modified: 2026-11-02T14:20:18.203Z
-published: 2026-11-02T14:20:18.203Z
+modified: 2026-11-02T18:19:59.764Z
+published: 2026-11-02T18:19:59.764Z
 aliases:
   - Takht-e Jamshid
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Iran]]"
+image: Attachments/Places/Persepolis.svg
 ---
 
 # Persepolis

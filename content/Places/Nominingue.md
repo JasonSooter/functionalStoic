@@ -2,8 +2,8 @@
 publish: true
 title: Nominingue
 created: 2026-10-21T11:07:46.000Z
-modified: 2026-11-02T14:18:06.736Z
-published: 2026-11-02T14:18:06.736Z
+modified: 2026-11-02T17:59:22.771Z
+published: 2026-11-02T17:59:22.771Z
 aliases: []
 books:
   - "P’tit Train du Nord day 1: First poutine, then a 4-course gourmet dinner"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Quebec]]"
+image: Attachments/Places/Nominingue.svg
 ---
 
 # Nominingue

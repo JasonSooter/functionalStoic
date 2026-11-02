@@ -2,8 +2,8 @@
 publish: true
 title: Paradise, New Zealand
 created: 2026-10-23T11:14:52.000Z
-modified: 2026-11-02T14:20:21.891Z
-published: 2026-11-02T14:20:21.891Z
+modified: 2026-11-02T18:15:25.222Z
+published: 2026-11-02T18:15:25.222Z
 aliases:
   - Paradise (Glenorchy)
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New Zealand]]"
+image: Attachments/Places/Paradise, New Zealand.svg
 ---
 
 # Paradise, New Zealand

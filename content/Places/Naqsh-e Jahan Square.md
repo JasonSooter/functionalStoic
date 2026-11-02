@@ -2,8 +2,8 @@
 publish: true
 title: Naqsh-e Jahan Square
 created: 2026-10-20T22:54:00.000Z
-modified: 2026-11-02T14:20:21.995Z
-published: 2026-11-02T14:20:21.995Z
+modified: 2026-11-02T17:48:49.289Z
+published: 2026-11-02T17:48:49.289Z
 aliases:
   - Imam Square
   - Meidan Emam
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Isfahan]]"
+image: Attachments/Places/Naqsh-e Jahan Square.svg
 ---
 
 # Naqsh-e Jahan Square

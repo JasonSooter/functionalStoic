@@ -2,8 +2,8 @@
 publish: true
 title: Piraeus
 created: 2026-10-21T05:07:22.000Z
-modified: 2026-11-02T14:20:53.460Z
-published: 2026-11-02T14:20:53.460Z
+modified: 2026-11-02T18:25:16.015Z
+published: 2026-11-02T18:25:16.015Z
 aliases: []
 books:
   - "[[The Daily Stoic]]"
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Greece]]"
+image: Attachments/Places/Piraeus.svg
 ---
 
 # Piraeus

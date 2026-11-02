@@ -2,8 +2,8 @@
 publish: true
 title: Okinawa
 created: 2026-10-22T13:40:08.000Z
-modified: 2026-11-02T14:19:51.367Z
-published: 2026-11-02T14:19:51.367Z
+modified: 2026-11-02T18:41:12.091Z
+published: 2026-11-02T18:41:12.091Z
 aliases:
   - Okinawa Island
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Japan]]"
+image: Attachments/Places/Okinawa.svg
 ---
 
 # Okinawa

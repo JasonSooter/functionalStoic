@@ -2,8 +2,8 @@
 publish: true
 title: Northwestern University
 created: 2026-10-23T02:26:26.000Z
-modified: 2026-11-02T14:19:35.726Z
-published: 2026-11-02T14:19:35.726Z
+modified: 2026-11-02T17:59:22.895Z
+published: 2026-11-02T17:59:22.895Z
 aliases: []
 books:
   - Schools Must Resist Destructive Anti-racist Demands
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Illinois]]"
+image: Attachments/Places/Northwestern University.svg
 ---
 
 # Northwestern University

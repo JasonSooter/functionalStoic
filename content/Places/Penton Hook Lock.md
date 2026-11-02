@@ -2,8 +2,8 @@
 publish: true
 title: Penton Hook Lock
 created: 2026-10-21T23:17:06.000Z
-modified: 2026-11-02T14:20:38.536Z
-published: 2026-11-02T14:20:38.536Z
+modified: 2026-11-02T18:19:59.732Z
+published: 2026-11-02T18:19:59.732Z
 aliases:
   - Penton Hook
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[England]]"
+image: Attachments/Places/Penton Hook Lock.svg
 ---
 
 # Penton Hook Lock

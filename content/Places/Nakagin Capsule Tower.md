@@ -2,8 +2,8 @@
 publish: true
 title: Nakagin Capsule Tower
 created: 2026-10-20T22:55:10.000Z
-modified: 2026-11-02T14:20:00.907Z
-published: 2026-11-02T14:20:00.907Z
+modified: 2026-11-02T17:48:49.161Z
+published: 2026-11-02T17:48:49.161Z
 aliases:
   - Nakagin Capsule Tower Building
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Tokyo]]"
+image: Attachments/Places/Nakagin Capsule Tower.svg
 ---
 
 # Nakagin Capsule Tower

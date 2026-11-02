@@ -2,8 +2,8 @@
 publish: true
 title: Pacific Ocean
 created: 2026-10-23T11:15:13.000Z
-modified: 2026-11-02T14:18:20.349Z
-published: 2026-11-02T14:18:20.349Z
+modified: 2026-11-02T18:41:22.718Z
+published: 2026-11-02T18:41:22.718Z
 aliases:
   - The Pacific
 books:
@@ -22,6 +22,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Pacific Ocean.svg
 ---
 
 # Pacific Ocean

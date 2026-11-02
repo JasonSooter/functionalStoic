@@ -2,8 +2,8 @@
 publish: true
 title: Porcupine Mountains
 created: 2026-10-21T22:57:40.000Z
-modified: 2026-11-02T14:20:15.751Z
-published: 2026-11-02T14:20:15.751Z
+modified: 2026-11-02T18:30:31.832Z
+published: 2026-11-02T18:30:31.832Z
 aliases:
   - Porcupine Mountains Wilderness State Park
   - Lake of the Clouds
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Michigan]]"
+image: Attachments/Places/Porcupine Mountains.svg
 ---
 
 # Porcupine Mountains

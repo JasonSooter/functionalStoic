@@ -2,8 +2,8 @@
 publish: true
 title: Old Rhine Bridge (Konstanz)
 created: 2026-10-20T10:42:58.000Z
-modified: 2026-11-02T14:19:50.635Z
-published: 2026-11-02T14:19:50.635Z
+modified: 2026-11-02T18:04:41.330Z
+published: 2026-11-02T18:04:41.330Z
 aliases:
   - Alte Rheinbrücke
   - Rheinbrücke Konstanz
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Baden-Württemberg]]"
+image: Attachments/Places/Old Rhine Bridge (Konstanz).svg
 ---
 
 # Old Rhine Bridge (Konstanz)

@@ -2,8 +2,8 @@
 publish: true
 title: Puente Hills Landfill
 created: 2026-10-21T02:07:42.000Z
-modified: 2026-11-02T14:20:25.467Z
-published: 2026-11-02T14:20:25.467Z
+modified: 2026-11-02T18:35:42.690Z
+published: 2026-11-02T18:35:42.690Z
 aliases: []
 books:
   - The Hidden Engineering of Landfills
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Los Angeles]]"
+image: Attachments/Places/Puente Hills Landfill.svg
 ---
 
 # Puente Hills Landfill

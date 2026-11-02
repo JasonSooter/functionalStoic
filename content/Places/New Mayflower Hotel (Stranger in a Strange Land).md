@@ -2,8 +2,8 @@
 publish: true
 title: New Mayflower Hotel (Stranger in a Strange Land)
 created: 2026-10-21T22:27:11.000Z
-modified: 2026-11-02T14:19:58.207Z
-published: 2026-11-02T14:19:58.207Z
+modified: 2026-11-02T17:54:06.144Z
+published: 2026-11-02T17:54:06.144Z
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Washington DC]]"
+image: Attachments/Places/New Mayflower Hotel (Stranger in a Strange Land).svg
 ---
 
 # New Mayflower Hotel (Stranger in a Strange Land)

@@ -2,8 +2,8 @@
 publish: true
 title: Nintendo hanafuda shop (Kyoto)
 created: 2026-10-22T20:38:44.000Z
-modified: 2026-11-02T14:19:30.734Z
-published: 2026-11-02T14:19:30.734Z
+modified: 2026-11-02T17:54:06.360Z
+published: 2026-11-02T17:54:06.360Z
 aliases: []
 books:
   - "[[Range]]"
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Japan]]"
+image: Attachments/Places/Nintendo hanafuda shop (Kyoto).svg
 ---
 
 # Nintendo hanafuda shop (Kyoto)

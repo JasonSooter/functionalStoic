@@ -2,8 +2,8 @@
 publish: true
 title: Orem, Utah
 created: 2026-10-23T05:33:25.000Z
-modified: 2026-11-02T14:18:04.860Z
-published: 2026-11-02T14:18:04.860Z
+modified: 2026-11-02T18:09:58.670Z
+published: 2026-11-02T18:09:58.670Z
 aliases: []
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Utah]]"
+image: Attachments/Places/Orem, Utah.svg
 ---
 
 # Orem, Utah

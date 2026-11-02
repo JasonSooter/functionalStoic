@@ -2,8 +2,8 @@
 publish: true
 title: Old Fall River Road
 created: 2026-10-20T10:43:05.000Z
-modified: 2026-11-02T14:19:47.139Z
-published: 2026-11-02T14:19:47.139Z
+modified: 2026-11-02T18:04:41.286Z
+published: 2026-11-02T18:04:41.286Z
 aliases: []
 books:
   - Mountains and marmots and elk.
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Colorado]]"
+image: Attachments/Places/Old Fall River Road.svg
 ---
 
 # Old Fall River Road

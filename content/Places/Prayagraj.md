@@ -2,8 +2,8 @@
 publish: true
 title: Prayagraj
 created: 2026-10-23T22:33:40.000Z
-modified: 2026-11-02T14:20:29.719Z
-published: 2026-11-02T14:20:29.719Z
+modified: 2026-11-02T18:35:42.486Z
+published: 2026-11-02T18:35:42.486Z
 aliases:
   - Allahabad
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[India]]"
+image: Attachments/Places/Prayagraj.svg
 ---
 
 # Prayagraj

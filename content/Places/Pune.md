@@ -2,8 +2,8 @@
 publish: true
 title: Pune
 created: 2026-10-22T22:58:30.000Z
-modified: 2026-11-02T14:20:41.640Z
-published: 2026-11-02T14:20:41.640Z
+modified: 2026-11-02T18:40:58.384Z
+published: 2026-11-02T18:40:58.384Z
 aliases: []
 books:
   - On the Rebound from Epic Failure
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[India]]"
+image: Attachments/Places/Pune.svg
 ---
 
 # Pune

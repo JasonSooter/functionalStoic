@@ -2,8 +2,8 @@
 publish: true
 title: Ofnet Caves
 created: 2026-10-23T11:15:19.000Z
-modified: 2026-11-02T14:19:48.855Z
-published: 2026-11-02T14:19:48.855Z
+modified: 2026-11-02T18:04:41.238Z
+published: 2026-11-02T18:04:41.238Z
 aliases:
   - Ofnet Cave
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Bavaria]]"
+image: Attachments/Places/Ofnet Caves.svg
 ---
 
 # Ofnet Caves

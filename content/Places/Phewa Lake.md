@@ -2,8 +2,8 @@
 publish: true
 title: Phewa Lake
 created: 2026-10-23T05:12:03.000Z
-modified: 2026-11-02T14:20:05.955Z
-published: 2026-11-02T14:20:05.955Z
+modified: 2026-11-02T18:25:15.799Z
+published: 2026-11-02T18:25:15.799Z
 aliases:
   - Fewa Lake
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Nepal]]"
+image: Attachments/Places/Phewa Lake.svg
 ---
 
 # Phewa Lake

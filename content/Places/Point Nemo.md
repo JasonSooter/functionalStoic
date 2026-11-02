@@ -2,8 +2,8 @@
 publish: true
 title: Point Nemo
 created: 2026-10-21T13:55:09.000Z
-modified: 2026-11-02T14:18:31.965Z
-published: 2026-11-02T14:18:31.965Z
+modified: 2026-11-02T18:30:31.704Z
+published: 2026-11-02T18:30:31.704Z
 aliases:
   - Oceanic pole of inaccessibility
 books:
@@ -22,6 +22,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Point Nemo.svg
 ---
 
 # Point Nemo

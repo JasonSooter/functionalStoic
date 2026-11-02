@@ -2,8 +2,8 @@
 publish: true
 title: Puerta del Sol
 created: 2026-10-22T19:58:09.000Z
-modified: 2026-11-02T14:20:35.323Z
-published: 2026-11-02T14:20:35.323Z
+modified: 2026-11-02T18:35:42.706Z
+published: 2026-11-02T18:35:42.706Z
 aliases: []
 books:
   - These Extreme Travelers Fulfilled Their Craziest Dreams
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Spain]]"
+image: Attachments/Places/Puerta del Sol.svg
 ---
 
 # Puerta del Sol

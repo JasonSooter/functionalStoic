@@ -2,8 +2,8 @@
 publish: true
 title: Pingree Park Road
 created: 2026-10-20T10:43:13.000Z
-modified: 2026-11-02T14:20:05.203Z
-published: 2026-11-02T14:20:05.203Z
+modified: 2026-11-02T18:25:16.003Z
+published: 2026-11-02T18:25:16.003Z
 aliases: []
 books:
   - Rist Pennock Lollipop
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Colorado]]"
+image: Attachments/Places/Pingree Park Road.svg
 ---
 
 # Pingree Park Road

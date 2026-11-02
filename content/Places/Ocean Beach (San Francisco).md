@@ -2,8 +2,8 @@
 publish: true
 title: Ocean Beach (San Francisco)
 created: 2026-10-23T02:03:24.000Z
-modified: 2026-11-02T14:19:42.351Z
-published: 2026-11-02T14:19:42.351Z
+modified: 2026-11-02T18:04:41.186Z
+published: 2026-11-02T18:04:41.186Z
 aliases: []
 books:
   - Despite Dangerously High Waves, Hundreds Still Strolled On Ocean Beach
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[San Francisco]]"
+image: Attachments/Places/Ocean Beach (San Francisco).svg
 ---
 
 # Ocean Beach (San Francisco)

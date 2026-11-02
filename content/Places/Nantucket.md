@@ -2,8 +2,8 @@
 publish: true
 title: Nantucket
 created: 2026-10-22T22:59:03.000Z
-modified: 2026-11-02T14:19:52.151Z
-published: 2026-11-02T14:19:52.151Z
+modified: 2026-11-02T17:48:49.209Z
+published: 2026-11-02T17:48:49.209Z
 aliases: []
 books:
   - Diane Ackerman on the Evolutionary and Existential Purpose of Deep Play
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Massachusetts]]"
+image: Attachments/Places/Nantucket.svg
 ---
 
 # Nantucket

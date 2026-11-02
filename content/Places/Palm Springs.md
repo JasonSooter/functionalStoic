@@ -2,8 +2,8 @@
 publish: true
 title: Palm Springs
 created: 2026-10-21T04:45:33.000Z
-modified: 2026-11-02T14:20:16.563Z
-published: 2026-11-02T14:20:16.563Z
+modified: 2026-11-02T18:15:25.070Z
+published: 2026-11-02T18:15:25.070Z
 aliases: []
 books:
   - My Right to Die
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Palm Springs.svg
 ---
 
 # Palm Springs

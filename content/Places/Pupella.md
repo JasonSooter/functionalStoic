@@ -2,8 +2,8 @@
 publish: true
 title: Pupella
 created: 2026-10-23T11:15:04.000Z
-modified: 2026-11-02T14:20:01.983Z
-published: 2026-11-02T14:20:01.983Z
+modified: 2026-11-02T18:40:41.467Z
+published: 2026-11-02T18:40:41.467Z
 aliases:
   - Tranque
 books:
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Solomon Islands]]"
+image: Attachments/Places/Pupella.svg
 ---
 
 # Pupella

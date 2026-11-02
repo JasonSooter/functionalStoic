@@ -2,8 +2,8 @@
 publish: true
 title: Old City of Jerusalem
 created: 2026-10-22T16:49:19.000Z
-modified: 2026-11-02T14:19:50.063Z
-published: 2026-11-02T14:19:50.063Z
+modified: 2026-11-02T18:04:41.270Z
+published: 2026-11-02T18:04:41.270Z
 aliases:
   - Old City (Jerusalem)
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Jerusalem]]"
+image: Attachments/Places/Old City of Jerusalem.svg
 ---
 
 # Old City of Jerusalem

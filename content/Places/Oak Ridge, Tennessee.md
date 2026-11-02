@@ -2,8 +2,8 @@
 publish: true
 title: Oak Ridge, Tennessee
 created: 2026-10-23T04:24:47.000Z
-modified: 2026-11-02T14:19:31.434Z
-published: 2026-11-02T14:19:31.434Z
+modified: 2026-11-02T18:04:41.106Z
+published: 2026-11-02T18:04:41.106Z
 aliases: []
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Tennessee]]"
+image: Attachments/Places/Oak Ridge, Tennessee.svg
 ---
 
 # Oak Ridge, Tennessee

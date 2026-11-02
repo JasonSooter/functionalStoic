@@ -2,8 +2,8 @@
 publish: true
 title: Phoenix
 created: 2026-10-21T16:37:19.000Z
-modified: 2026-11-02T14:20:37.632Z
-published: 2026-11-02T14:20:37.632Z
+modified: 2026-11-02T18:25:15.847Z
+published: 2026-11-02T18:25:15.847Z
 aliases:
   - Tempe/Phoenix
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Arizona]]"
+image: Attachments/Places/Phoenix.svg
 ---
 
 # Phoenix

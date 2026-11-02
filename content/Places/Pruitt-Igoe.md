@@ -2,8 +2,8 @@
 publish: true
 title: Pruitt-Igoe
 created: 2026-10-21T23:16:34.000Z
-modified: 2026-11-02T14:20:11.179Z
-published: 2026-11-02T14:20:11.179Z
+modified: 2026-11-02T18:35:42.658Z
+published: 2026-11-02T18:35:42.658Z
 aliases:
   - Pruitt–Igoe
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[St Louis]]"
+image: Attachments/Places/Pruitt-Igoe.svg
 ---
 
 # Pruitt-Igoe

@@ -2,8 +2,8 @@
 publish: true
 title: Pentecost Island
 created: 2026-10-22T13:41:10.000Z
-modified: 2026-11-02T14:20:09.647Z
-published: 2026-11-02T14:20:09.647Z
+modified: 2026-11-02T18:19:59.716Z
+published: 2026-11-02T18:19:59.716Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Vanuatu]]"
+image: Attachments/Places/Pentecost Island.svg
 ---
 
 # Pentecost Island

@@ -2,8 +2,8 @@
 publish: true
 title: Peshawar
 created: 2026-10-22T16:26:33.000Z
-modified: 2026-11-02T14:20:16.823Z
-published: 2026-11-02T14:20:16.823Z
+modified: 2026-11-02T18:19:59.780Z
+published: 2026-11-02T18:19:59.780Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Pakistan]]"
+image: Attachments/Places/Peshawar.svg
 ---
 
 # Peshawar

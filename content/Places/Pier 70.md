@@ -2,8 +2,8 @@
 publish: true
 title: Pier 70
 created: 2026-10-22T10:26:20.000Z
-modified: 2026-11-02T14:18:37.037Z
-published: 2026-11-02T14:18:37.037Z
+modified: 2026-11-02T18:25:15.955Z
+published: 2026-11-02T18:25:15.955Z
 aliases: []
 books:
   - "Billionaires: They’re Just Like Us"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[San Francisco]]"
+image: Attachments/Places/Pier 70.svg
 ---
 
 # Pier 70

@@ -2,8 +2,8 @@
 publish: true
 title: Pont Adolphe
 created: 2026-10-19T14:07:16.000Z
-modified: 2026-11-02T14:20:24.627Z
-published: 2026-11-02T14:20:24.627Z
+modified: 2026-11-02T18:30:31.784Z
+published: 2026-11-02T18:30:31.784Z
 aliases:
   - Adolphe Bridge
 books:
@@ -21,6 +21,7 @@ tags:
   - source/ai/claude
 within: "[[Luxembourg City]]"
 coordinates: 49.6083,6.127
+image: Attachments/Places/Pont Adolphe.svg
 ---
 
 # Pont Adolphe

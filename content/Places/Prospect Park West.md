@@ -2,8 +2,8 @@
 publish: true
 title: Prospect Park West
 created: 2026-10-21T13:55:21.000Z
-modified: 2026-11-02T14:20:39.976Z
-published: 2026-11-02T14:20:39.976Z
+modified: 2026-11-02T18:35:42.594Z
+published: 2026-11-02T18:35:42.594Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Brooklyn]]"
+image: Attachments/Places/Prospect Park West.svg
 ---
 
 # Prospect Park West

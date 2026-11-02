@@ -2,8 +2,8 @@
 publish: true
 title: Nørrebro
 created: 2026-10-23T02:24:18.000Z
-modified: 2026-11-02T14:19:34.306Z
-published: 2026-11-02T14:19:34.306Z
+modified: 2026-11-02T18:04:41.058Z
+published: 2026-11-02T18:04:41.058Z
 aliases:
   - Norrebro
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Copenhagen]]"
+image: Attachments/Places/Nørrebro.svg
 ---
 
 # Nørrebro

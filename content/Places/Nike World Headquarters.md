@@ -2,8 +2,8 @@
 publish: true
 title: Nike World Headquarters
 created: 2026-10-22T19:57:44.000Z
-modified: 2026-11-02T14:17:55.144Z
-published: 2026-11-02T14:17:55.144Z
+modified: 2026-11-02T17:54:06.344Z
+published: 2026-11-02T17:54:06.344Z
 aliases: []
 books:
   - Learning Larry Page’s Alphabet
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Oregon]]"
+image: Attachments/Places/Nike World Headquarters.svg
 ---
 
 # Nike World Headquarters

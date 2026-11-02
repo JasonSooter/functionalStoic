@@ -2,8 +2,8 @@
 publish: true
 title: Oak Street Plaza
 created: 2026-10-21T14:11:47.000Z
-modified: 2026-11-02T14:19:31.326Z
-published: 2026-11-02T14:19:31.326Z
+modified: 2026-11-02T18:04:41.122Z
+published: 2026-11-02T18:04:41.122Z
 aliases: []
 books:
   - "Reminder: Winter BTWD, SRTS National Conference, National Bike Summit, Tour de\
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Fort Collins]]"
+image: Attachments/Places/Oak Street Plaza.svg
 ---
 
 # Oak Street Plaza

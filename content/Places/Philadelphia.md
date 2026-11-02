@@ -2,8 +2,8 @@
 publish: true
 title: Philadelphia
 created: 2026-10-20T16:28:35.000Z
-modified: 2026-11-02T14:20:11.923Z
-published: 2026-11-02T14:20:11.923Z
+modified: 2026-11-02T18:25:15.815Z
+published: 2026-11-02T18:25:15.815Z
 aliases: []
 books:
   - "[[The First Great Founder]]"
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Pennsylvania]]"
+image: Attachments/Places/Philadelphia.svg
 ---
 
 # Philadelphia

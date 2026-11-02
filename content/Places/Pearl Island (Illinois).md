@@ -2,8 +2,8 @@
 publish: true
 title: Pearl Island (Illinois)
 created: 2026-10-23T02:04:03.000Z
-modified: 2026-11-02T14:20:25.723Z
-published: 2026-11-02T14:20:25.723Z
+modified: 2026-11-02T18:19:59.604Z
+published: 2026-11-02T18:19:59.604Z
 aliases:
   - Jackson's Island
   - Glasscock Island
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Illinois]]"
+image: Attachments/Places/Pearl Island (Illinois).svg
 ---
 
 # Pearl Island (Illinois)

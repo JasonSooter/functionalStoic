@@ -2,8 +2,8 @@
 publish: true
 title: Paro Taktsang
 created: 2026-10-21T20:10:11.000Z
-modified: 2026-11-02T14:20:23.019Z
-published: 2026-11-02T14:20:23.019Z
+modified: 2026-11-02T18:19:59.528Z
+published: 2026-11-02T18:19:59.528Z
 aliases:
   - Tiger's Nest
   - Taktsang
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Bhutan]]"
+image: Attachments/Places/Paro Taktsang.svg
 ---
 
 # Paro Taktsang

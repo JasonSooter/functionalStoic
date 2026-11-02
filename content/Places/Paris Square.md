@@ -2,8 +2,8 @@
 publish: true
 title: Paris Square
 created: 2026-10-22T19:56:54.000Z
-modified: 2026-11-02T14:20:15.075Z
-published: 2026-11-02T14:20:15.075Z
+modified: 2026-11-02T18:19:59.480Z
+published: 2026-11-02T18:19:59.480Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Jerusalem]]"
+image: Attachments/Places/Paris Square.svg
 ---
 
 # Paris Square

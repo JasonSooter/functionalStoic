@@ -2,8 +2,8 @@
 publish: true
 title: Palm Jebel Ali
 created: 2026-10-20T07:38:16.000Z
-modified: 2026-11-02T14:20:34.943Z
-published: 2026-11-02T14:20:34.943Z
+modified: 2026-11-02T18:15:25.042Z
+published: 2026-11-02T18:15:25.042Z
 aliases: []
 books:
   - Dubai is Building a $15BN NEW PALM
@@ -20,6 +20,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Dubai]]"
+image: Attachments/Places/Palm Jebel Ali.svg
 ---
 
 # Palm Jebel Ali

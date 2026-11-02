@@ -2,8 +2,8 @@
 publish: true
 title: Petronas Towers
 created: 2026-10-20T04:20:16.000Z
-modified: 2026-11-02T14:20:27.307Z
-published: 2026-11-02T14:20:27.307Z
+modified: 2026-11-02T18:19:59.828Z
+published: 2026-11-02T18:19:59.828Z
 aliases:
   - Petronas Twin Towers
 books:
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Kuala Lumpur]]"
+image: Attachments/Places/Petronas Towers.svg
 ---
 
 # Petronas Towers

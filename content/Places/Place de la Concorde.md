@@ -2,8 +2,8 @@
 publish: true
 title: Place de la Concorde
 created: 2026-10-23T01:33:06.000Z
-modified: 2026-11-02T14:20:23.695Z
-published: 2026-11-02T14:20:23.695Z
+modified: 2026-11-02T18:25:16.063Z
+published: 2026-11-02T18:25:16.063Z
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Paris]]"
+image: Attachments/Places/Place de la Concorde.svg
 ---
 
 # Place de la Concorde

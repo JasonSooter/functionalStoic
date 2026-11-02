@@ -2,8 +2,8 @@
 publish: true
 title: Pambiche
 created: 2026-10-22T10:26:55.000Z
-modified: 2026-11-02T14:20:30.595Z
-published: 2026-11-02T14:20:30.595Z
+modified: 2026-11-02T18:15:25.102Z
+published: 2026-11-02T18:15:25.102Z
 aliases: []
 books:
   - August 2015 Goals and Financial Update
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Portland, Oregon]]"
+image: Attachments/Places/Pambiche.svg
 ---
 
 # Pambiche

@@ -2,8 +2,8 @@
 publish: true
 title: Niagara Falls
 created: 2026-10-20T04:19:12.000Z
-modified: 2026-11-02T14:19:32.102Z
-published: 2026-11-02T14:19:32.102Z
+modified: 2026-11-02T17:54:06.312Z
+published: 2026-11-02T17:54:06.312Z
 aliases: []
 books:
   - What if you funneled the Niagara Falls through a straw?
@@ -21,6 +21,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Niagara Falls.svg
 ---
 
 # Niagara Falls

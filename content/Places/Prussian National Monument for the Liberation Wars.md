@@ -2,8 +2,8 @@
 publish: true
 title: Prussian National Monument for the Liberation Wars
 created: 2026-10-23T11:15:20.000Z
-modified: 2026-11-02T14:20:04.911Z
-published: 2026-11-02T14:20:04.911Z
+modified: 2026-11-02T18:35:42.674Z
+published: 2026-11-02T18:35:42.674Z
 aliases:
   - Kreuzberg monument
   - Nationaldenkmal für die Befreiungskriege
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Berlin]]"
+image: Attachments/Places/Prussian National Monument for the Liberation Wars.svg
 ---
 
 # Prussian National Monument for the Liberation Wars

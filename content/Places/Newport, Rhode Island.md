@@ -2,8 +2,8 @@
 publish: true
 title: Newport, Rhode Island
 created: 2026-10-21T22:43:24.000Z
-modified: 2026-11-02T14:19:44.631Z
-published: 2026-11-02T14:19:44.631Z
+modified: 2026-11-02T17:54:06.296Z
+published: 2026-11-02T17:54:06.296Z
 aliases: []
 books:
   - How to Not Get Overwhelmed by All of the Advice Online
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Rhode Island]]"
+image: Attachments/Places/Newport, Rhode Island.svg
 ---
 
 # Newport, Rhode Island

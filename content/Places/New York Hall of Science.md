@@ -2,8 +2,8 @@
 publish: true
 title: New York Hall of Science
 created: 2026-10-22T01:44:50.000Z
-modified: 2026-11-02T14:17:58.100Z
-published: 2026-11-02T14:17:58.100Z
+modified: 2026-11-02T17:54:06.220Z
+published: 2026-11-02T17:54:06.220Z
 aliases:
   - NYSCI
   - World Maker Faire
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New York City]]"
+image: Attachments/Places/New York Hall of Science.svg
 ---
 
 # New York Hall of Science

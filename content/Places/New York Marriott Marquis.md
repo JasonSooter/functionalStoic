@@ -2,8 +2,8 @@
 publish: true
 title: New York Marriott Marquis
 created: 2026-10-21T19:40:13.000Z
-modified: 2026-11-02T14:19:43.919Z
-published: 2026-11-02T14:19:43.919Z
+modified: 2026-11-02T17:54:06.236Z
+published: 2026-11-02T17:54:06.236Z
 aliases:
   - Marriott Marquis
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New York City]]"
+image: Attachments/Places/New York Marriott Marquis.svg
 ---
 
 # New York Marriott Marquis

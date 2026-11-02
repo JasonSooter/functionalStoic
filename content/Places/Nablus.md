@@ -2,8 +2,8 @@
 publish: true
 title: Nablus
 created: 2026-10-22T16:49:31.000Z
-modified: 2026-11-02T14:20:01.123Z
-published: 2026-11-02T14:20:01.123Z
+modified: 2026-11-02T17:48:49.109Z
+published: 2026-11-02T17:48:49.109Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[West Bank]]"
+image: Attachments/Places/Nablus.svg
 ---
 
 # Nablus

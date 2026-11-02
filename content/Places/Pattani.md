@@ -2,8 +2,8 @@
 publish: true
 title: Pattani
 created: 2026-10-23T02:02:46.000Z
-modified: 2026-11-02T14:20:21.439Z
-published: 2026-11-02T14:20:21.439Z
+modified: 2026-11-02T18:41:30.326Z
+published: 2026-11-02T18:41:30.326Z
 aliases: []
 books:
   - Westerners think that Buddhism is about peace and non-violence. So how come Buddhist
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Thailand]]"
+image: Attachments/Places/Pattani.svg
 ---
 
 # Pattani

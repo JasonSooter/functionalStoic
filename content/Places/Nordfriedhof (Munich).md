@@ -2,8 +2,8 @@
 publish: true
 title: Nordfriedhof (Munich)
 created: 2026-10-20T07:52:59.000Z
-modified: 2026-11-02T14:20:19.751Z
-published: 2026-11-02T14:20:19.751Z
+modified: 2026-11-02T17:59:22.831Z
+published: 2026-11-02T17:59:22.831Z
 aliases:
   - Northern Cemetery
   - Nordfriedhof
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Munich]]"
+image: Attachments/Places/Nordfriedhof (Munich).svg
 ---
 
 # Nordfriedhof (Munich)

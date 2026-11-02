@@ -2,8 +2,8 @@
 publish: true
 title: Presque Isle Park
 created: 2026-10-21T22:57:33.000Z
-modified: 2026-11-02T14:20:31.335Z
-published: 2026-11-02T14:20:31.335Z
+modified: 2026-11-02T18:35:42.518Z
+published: 2026-11-02T18:35:42.518Z
 aliases: []
 books:
   - Michigan’s Upper Peninsula Wrap-Up
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Michigan]]"
+image: Attachments/Places/Presque Isle Park.svg
 ---
 
 # Presque Isle Park

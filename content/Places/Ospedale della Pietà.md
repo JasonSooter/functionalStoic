@@ -2,8 +2,8 @@
 publish: true
 title: Ospedale della Pietà
 created: 2026-10-22T19:58:21.000Z
-modified: 2026-11-02T14:19:55.231Z
-published: 2026-11-02T14:19:55.231Z
+modified: 2026-11-02T18:09:58.762Z
+published: 2026-11-02T18:09:58.762Z
 aliases: []
 books:
   - "[[Range]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Venice]]"
+image: Attachments/Places/Ospedale della Pietà.svg
 ---
 
 # Ospedale della Pietà

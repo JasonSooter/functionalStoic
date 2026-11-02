@@ -2,8 +2,8 @@
 publish: true
 title: North Shore of Lake Superior
 created: 2026-10-22T01:44:38.000Z
-modified: 2026-11-02T14:19:51.555Z
-published: 2026-11-02T14:19:51.555Z
+modified: 2026-11-02T17:59:22.879Z
+published: 2026-11-02T17:59:22.879Z
 aliases:
   - Lake Superior North Shore
 books:
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Ontario]]"
+image: Attachments/Places/North Shore of Lake Superior.svg
 ---
 
 # North Shore of Lake Superior

@@ -2,8 +2,8 @@
 publish: true
 title: Piazza San Marco
 created: 2026-10-20T07:53:19.000Z
-modified: 2026-11-02T14:20:12.183Z
-published: 2026-11-02T14:20:12.183Z
+modified: 2026-11-02T18:25:15.907Z
+published: 2026-11-02T18:25:15.907Z
 aliases:
   - St Mark's Square
   - San Marco
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Venice]]"
+image: Attachments/Places/Piazza San Marco.svg
 ---
 
 # Piazza San Marco

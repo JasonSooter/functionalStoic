@@ -2,8 +2,8 @@
 publish: true
 title: Princeton University
 created: 2026-10-21T19:59:50.000Z
-modified: 2026-11-02T14:20:14.239Z
-published: 2026-11-02T14:20:14.239Z
+modified: 2026-11-02T18:35:42.566Z
+published: 2026-11-02T18:35:42.566Z
 aliases: []
 books:
   - Has cosmology run into a creative crisis?
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Princeton University.svg
 ---
 
 # Princeton University

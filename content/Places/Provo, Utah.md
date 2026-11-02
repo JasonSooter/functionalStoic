@@ -2,8 +2,8 @@
 publish: true
 title: Provo, Utah
 created: 2026-10-23T02:26:50.000Z
-modified: 2026-11-02T14:20:08.291Z
-published: 2026-11-02T14:20:08.291Z
+modified: 2026-11-02T18:35:42.642Z
+published: 2026-11-02T18:35:42.642Z
 aliases: []
 books:
   - We’re a Full-time Traveling Family. This is How We Pay For It. All the Financial
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Utah]]"
+image: Attachments/Places/Provo, Utah.svg
 ---
 
 # Provo, Utah

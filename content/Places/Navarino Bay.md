@@ -2,8 +2,8 @@
 publish: true
 title: Navarino Bay
 created: 2026-10-23T11:15:04.000Z
-modified: 2026-11-02T14:19:40.491Z
-published: 2026-11-02T14:19:40.491Z
+modified: 2026-11-02T17:48:49.425Z
+published: 2026-11-02T17:48:49.425Z
 aliases:
   - Battle of Navarino
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Greece]]"
+image: Attachments/Places/Navarino Bay.svg
 ---
 
 # Navarino Bay

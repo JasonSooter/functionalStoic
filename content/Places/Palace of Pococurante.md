@@ -2,8 +2,8 @@
 publish: true
 title: Palace of Pococurante
 created: 2026-10-23T11:14:57.000Z
-modified: 2026-11-02T14:20:18.891Z
-published: 2026-11-02T14:20:18.891Z
+modified: 2026-11-02T18:15:24.994Z
+published: 2026-11-02T18:15:24.994Z
 aliases:
   - Pococurante's palace
 books:
@@ -26,6 +26,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Italy]]"
+image: Attachments/Places/Palace of Pococurante.svg
 ---
 
 # Palace of Pococurante

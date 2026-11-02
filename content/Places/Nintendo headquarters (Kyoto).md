@@ -2,8 +2,8 @@
 publish: true
 title: Nintendo headquarters (Kyoto)
 created: 2026-10-23T02:23:57.000Z
-modified: 2026-11-02T14:19:44.643Z
-published: 2026-11-02T14:19:44.643Z
+modified: 2026-11-02T17:54:06.376Z
+published: 2026-11-02T17:54:06.376Z
 aliases: []
 books:
   - The Lie That Helped Build Nintendo
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Kyoto]]"
+image: Attachments/Places/Nintendo headquarters (Kyoto).svg
 ---
 
 # Nintendo headquarters (Kyoto)

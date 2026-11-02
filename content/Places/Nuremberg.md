@@ -2,8 +2,8 @@
 publish: true
 title: Nuremberg
 created: 2026-10-23T04:41:21.000Z
-modified: 2026-11-02T14:19:32.734Z
-published: 2026-11-02T14:19:32.734Z
+modified: 2026-11-02T17:59:23.019Z
+published: 2026-11-02T17:59:23.019Z
 aliases:
   - Nürnberg
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Germany]]"
+image: Attachments/Places/Nuremberg.svg
 ---
 
 # Nuremberg

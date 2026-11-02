@@ -2,8 +2,8 @@
 publish: true
 title: Port of Itajaí
 created: 2026-10-20T22:54:33.000Z
-modified: 2026-11-02T14:20:22.863Z
-published: 2026-11-02T14:20:22.863Z
+modified: 2026-11-02T18:30:31.876Z
+published: 2026-11-02T18:30:31.876Z
 aliases:
   - Itajai port
   - Itajaí
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Brazil]]"
+image: Attachments/Places/Port of Itajaí.svg
 ---
 
 # Port of Itajaí

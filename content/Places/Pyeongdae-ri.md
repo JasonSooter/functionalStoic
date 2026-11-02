@@ -2,8 +2,8 @@
 publish: true
 title: Pyeongdae-ri
 created: 2026-10-23T07:47:55.000Z
-modified: 2026-11-02T14:20:19.775Z
-published: 2026-11-02T14:20:19.775Z
+modified: 2026-11-02T18:40:41.515Z
+published: 2026-11-02T18:40:41.515Z
 aliases:
   - Pyeongdae
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Jeju Island]]"
+image: Attachments/Places/Pyeongdae-ri.svg
 ---
 
 # Pyeongdae-ri

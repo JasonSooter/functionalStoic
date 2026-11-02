@@ -2,8 +2,8 @@
 publish: true
 title: Puttgarden
 created: 2026-10-20T22:52:27.000Z
-modified: 2026-11-02T14:20:40.524Z
-published: 2026-11-02T14:20:40.524Z
+modified: 2026-11-02T18:40:41.483Z
+published: 2026-11-02T18:40:41.483Z
 aliases: []
 books:
   - The Insane Scale of Europe’s New Mega-Tunnel
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Fehmarn]]"
+image: Attachments/Places/Puttgarden.svg
 ---
 
 # Puttgarden

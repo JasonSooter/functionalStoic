@@ -2,8 +2,8 @@
 publish: true
 title: Occupy Madison tiny house village
 created: 2026-10-21T20:10:06.000Z
-modified: 2026-11-02T14:19:58.903Z
-published: 2026-11-02T14:19:58.903Z
+modified: 2026-11-02T18:04:41.154Z
+published: 2026-11-02T18:04:41.154Z
 aliases:
   - OM Build
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Wisconsin]]"
+image: Attachments/Places/Occupy Madison tiny house village.svg
 ---
 
 # Occupy Madison tiny house village

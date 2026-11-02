@@ -2,8 +2,8 @@
 publish: true
 title: Plum Village
 created: 2026-10-22T16:48:30.000Z
-modified: 2026-11-02T14:20:28.279Z
-published: 2026-11-02T14:20:28.279Z
+modified: 2026-11-02T18:30:31.656Z
+published: 2026-11-02T18:30:31.656Z
 aliases:
   - Plum Village Monastery
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[France]]"
+image: Attachments/Places/Plum Village.svg
 ---
 
 # Plum Village

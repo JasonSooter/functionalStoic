@@ -2,8 +2,8 @@
 publish: true
 title: Orongo
 created: 2026-10-22T14:40:10.000Z
-modified: 2026-11-02T14:20:04.427Z
-published: 2026-11-02T14:20:04.427Z
+modified: 2026-11-02T18:09:58.718Z
+published: 2026-11-02T18:09:58.718Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Easter Island]]"
+image: Attachments/Places/Orongo.svg
 ---
 
 # Orongo

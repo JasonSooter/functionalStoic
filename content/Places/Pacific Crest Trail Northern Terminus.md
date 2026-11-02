@@ -2,8 +2,8 @@
 publish: true
 title: Pacific Crest Trail Northern Terminus
 created: 2026-10-21T19:40:31.000Z
-modified: 2026-11-02T14:20:39.984Z
-published: 2026-11-02T14:20:39.984Z
+modified: 2026-11-02T18:41:22.702Z
+published: 2026-11-02T18:41:22.702Z
 aliases:
   - PCT Northern Terminus
   - Monument 78
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Washington (state)]]"
+image: Attachments/Places/Pacific Crest Trail Northern Terminus.svg
 ---
 
 # Pacific Crest Trail Northern Terminus

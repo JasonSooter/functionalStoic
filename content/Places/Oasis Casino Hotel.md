@@ -2,8 +2,8 @@
 publish: true
 title: Oasis Casino Hotel
 created: 2026-10-22T19:57:07.000Z
-modified: 2026-11-02T14:19:46.907Z
-published: 2026-11-02T14:19:46.907Z
+modified: 2026-11-02T18:04:41.138Z
+published: 2026-11-02T18:04:41.138Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Jericho]]"
+image: Attachments/Places/Oasis Casino Hotel.svg
 ---
 
 # Oasis Casino Hotel

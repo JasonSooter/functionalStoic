@@ -2,8 +2,8 @@
 publish: true
 title: New York Public Library Main Branch
 created: 2026-10-21T10:49:08.000Z
-modified: 2026-11-02T14:19:44.179Z
-published: 2026-11-02T14:19:44.179Z
+modified: 2026-11-02T17:54:06.252Z
+published: 2026-11-02T17:54:06.252Z
 aliases: []
 books:
   - "[[The Daily Stoic]]"
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New York City]]"
+image: Attachments/Places/New York Public Library Main Branch.svg
 ---
 
 # New York Public Library Main Branch

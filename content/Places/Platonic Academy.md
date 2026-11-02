@@ -2,8 +2,8 @@
 publish: true
 title: Platonic Academy
 created: 2026-10-22T22:58:44.000Z
-modified: 2026-11-02T14:20:06.707Z
-published: 2026-11-02T14:20:06.707Z
+modified: 2026-11-02T18:25:16.131Z
+published: 2026-11-02T18:25:16.131Z
 aliases: []
 books:
   - "A Primer on Plato: His Life, Works, and Philosophy"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Athens]]"
+image: Attachments/Places/Platonic Academy.svg
 ---
 
 # Platonic Academy

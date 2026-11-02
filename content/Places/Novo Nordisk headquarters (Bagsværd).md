@@ -2,8 +2,8 @@
 publish: true
 title: Novo Nordisk headquarters (Bagsværd)
 created: 2026-10-23T05:12:46.000Z
-modified: 2026-11-02T14:19:32.518Z
-published: 2026-11-02T14:19:32.518Z
+modified: 2026-11-02T17:59:22.971Z
+published: 2026-11-02T17:59:22.971Z
 aliases: []
 books:
   - "[[The Nordic Theory of Everything]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Copenhagen]]"
+image: Attachments/Places/Novo Nordisk headquarters (Bagsværd).svg
 ---
 
 # Novo Nordisk headquarters (Bagsværd)

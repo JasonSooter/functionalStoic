@@ -2,8 +2,8 @@
 publish: true
 title: Newfoundland and Labrador
 created: 2026-10-21T10:49:16.000Z
-modified: 2026-11-02T14:19:36.478Z
-published: 2026-11-02T14:19:36.478Z
+modified: 2026-11-02T17:54:06.268Z
+published: 2026-11-02T17:54:06.268Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Canada]]"
+image: Attachments/Places/Newfoundland and Labrador.svg
 ---
 
 # Newfoundland and Labrador

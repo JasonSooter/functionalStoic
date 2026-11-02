@@ -2,8 +2,8 @@
 publish: true
 title: Paraguay
 created: 2026-10-22T13:41:38.000Z
-modified: 2026-11-02T14:20:29.703Z
-published: 2026-11-02T14:20:29.703Z
+modified: 2026-11-02T18:41:22.750Z
+published: 2026-11-02T18:41:22.750Z
 aliases: []
 books:
   - "[[Candide]]"
@@ -21,6 +21,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Paraguay.svg
 ---
 
 # Paraguay

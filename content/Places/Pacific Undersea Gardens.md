@@ -2,8 +2,8 @@
 publish: true
 title: Pacific Undersea Gardens
 created: 2026-10-21T16:38:32.000Z
-modified: 2026-11-02T14:18:25.293Z
-published: 2026-11-02T14:18:25.293Z
+modified: 2026-11-02T18:15:24.946Z
+published: 2026-11-02T18:15:24.946Z
 aliases: []
 books:
   - "[[The Soul of an Octopus]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[British Columbia]]"
+image: Attachments/Places/Pacific Undersea Gardens.svg
 ---
 
 # Pacific Undersea Gardens

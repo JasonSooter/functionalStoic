@@ -2,8 +2,8 @@
 publish: true
 title: New Delhi
 created: 2026-10-21T14:11:36.000Z
-modified: 2026-11-02T14:19:43.879Z
-published: 2026-11-02T14:19:43.879Z
+modified: 2026-11-02T17:54:06.084Z
+published: 2026-11-02T17:54:06.084Z
 aliases: []
 books:
   - I found inspiration in India – Bill Gates
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[India]]"
+image: Attachments/Places/New Delhi.svg
 ---
 
 # New Delhi

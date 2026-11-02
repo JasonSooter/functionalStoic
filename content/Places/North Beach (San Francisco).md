@@ -2,8 +2,8 @@
 publish: true
 title: North Beach (San Francisco)
 created: 2026-10-20T13:44:16.000Z
-modified: 2026-11-02T14:19:47.603Z
-published: 2026-11-02T14:19:47.603Z
+modified: 2026-11-02T17:59:22.863Z
+published: 2026-11-02T17:59:22.863Z
 aliases: []
 books:
   - "[[Inside Cursor]]"
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[San Francisco]]"
+image: Attachments/Places/North Beach (San Francisco).svg
 ---
 
 # North Beach (San Francisco)

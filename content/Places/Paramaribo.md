@@ -2,8 +2,8 @@
 publish: true
 title: Paramaribo
 created: 2026-10-23T04:41:24.000Z
-modified: 2026-11-02T14:20:20.687Z
-published: 2026-11-02T14:20:20.687Z
+modified: 2026-11-02T18:19:59.464Z
+published: 2026-11-02T18:19:59.464Z
 aliases: []
 books:
   - "[[The Girl Who Drew Butterflies]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Suriname]]"
+image: Attachments/Places/Paramaribo.svg
 ---
 
 # Paramaribo

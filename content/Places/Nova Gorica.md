@@ -2,8 +2,8 @@
 publish: true
 title: Nova Gorica
 created: 2026-10-22T16:25:54.000Z
-modified: 2026-11-02T14:20:07.719Z
-published: 2026-11-02T14:20:07.719Z
+modified: 2026-11-02T17:59:22.955Z
+published: 2026-11-02T17:59:22.955Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Slovenia]]"
+image: Attachments/Places/Nova Gorica.svg
 ---
 
 # Nova Gorica

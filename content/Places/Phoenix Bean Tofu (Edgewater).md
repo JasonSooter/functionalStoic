@@ -2,8 +2,8 @@
 publish: true
 title: Phoenix Bean Tofu (Edgewater)
 created: 2026-10-22T23:16:35.000Z
-modified: 2026-11-02T14:20:40.800Z
-published: 2026-11-02T14:20:40.800Z
+modified: 2026-11-02T18:25:15.863Z
+published: 2026-11-02T18:25:15.863Z
 aliases: []
 books:
   - Soy You Bought a Tofu Factory
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Chicago]]"
+image: Attachments/Places/Phoenix Bean Tofu (Edgewater).svg
 ---
 
 # Phoenix Bean Tofu (Edgewater)

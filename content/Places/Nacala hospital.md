@@ -2,8 +2,8 @@
 publish: true
 title: Nacala hospital
 created: 2026-10-21T02:08:15.000Z
-modified: 2026-11-02T14:19:55.499Z
-published: 2026-11-02T14:19:55.499Z
+modified: 2026-11-02T17:48:49.141Z
+published: 2026-11-02T17:48:49.141Z
 aliases:
   - Hospital de Nacala
   - Nacala district hospital
@@ -28,6 +28,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Nacala]]"
+image: Attachments/Places/Nacala hospital.svg
 ---
 
 # Nacala hospital

@@ -2,8 +2,8 @@
 publish: true
 title: Point Breeze, Philadelphia
 created: 2026-10-22T19:57:28.000Z
-modified: 2026-11-02T14:20:42.428Z
-published: 2026-11-02T14:20:42.428Z
+modified: 2026-11-02T18:30:31.688Z
+published: 2026-11-02T18:30:31.688Z
 aliases: []
 books:
   - The Benefits and Challenges of Student-Designed Learning
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Philadelphia]]"
+image: Attachments/Places/Point Breeze, Philadelphia.svg
 ---
 
 # Point Breeze, Philadelphia

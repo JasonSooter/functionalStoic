@@ -2,8 +2,8 @@
 publish: true
 title: Piedras Negras
 created: 2026-10-23T02:24:32.000Z
-modified: 2026-11-02T14:20:23.591Z
-published: 2026-11-02T14:20:23.591Z
+modified: 2026-11-02T18:25:15.939Z
+published: 2026-11-02T18:25:15.939Z
 aliases: []
 books:
   - Like Water for Chocolate
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Coahuila]]"
+image: Attachments/Places/Piedras Negras.svg
 ---
 
 # Piedras Negras

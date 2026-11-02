@@ -2,8 +2,8 @@
 publish: true
 title: Plant Vogtle
 created: 2026-10-21T02:07:36.000Z
-modified: 2026-11-02T14:20:39.024Z
-published: 2026-11-02T14:20:39.024Z
+modified: 2026-11-02T18:25:16.115Z
+published: 2026-11-02T18:25:16.115Z
 aliases: []
 books:
   - "[[Can We Have Abundance What About Flying Cars]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Georgia (U.S. state)]]"
+image: Attachments/Places/Plant Vogtle.svg
 ---
 
 # Plant Vogtle

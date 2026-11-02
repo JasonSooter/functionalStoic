@@ -2,8 +2,8 @@
 publish: true
 title: Nukuʻalofa
 created: 2026-10-22T13:40:52.000Z
-modified: 2026-11-02T14:19:58.075Z
-published: 2026-11-02T14:19:58.075Z
+modified: 2026-11-02T17:59:22.987Z
+published: 2026-11-02T17:59:22.987Z
 aliases:
   - Nuku'alofa
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Tonga]]"
+image: Attachments/Places/Nukuʻalofa.svg
 ---
 
 # Nukuʻalofa

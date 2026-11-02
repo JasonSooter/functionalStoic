@@ -2,8 +2,8 @@
 publish: true
 title: Princeton University Graduate College
 created: 2026-10-23T04:24:51.000Z
-modified: 2026-11-02T14:20:28.615Z
-published: 2026-11-02T14:20:28.615Z
+modified: 2026-11-02T18:35:42.582Z
+published: 2026-11-02T18:35:42.582Z
 aliases: []
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Princeton University]]"
+image: Attachments/Places/Princeton University Graduate College.svg
 ---
 
 # Princeton University Graduate College

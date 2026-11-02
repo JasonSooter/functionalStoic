@@ -2,8 +2,8 @@
 publish: true
 title: Oodi (Helsinki Central Library)
 created: 2026-10-21T02:07:42.000Z
-modified: 2026-11-02T14:17:59.772Z
-published: 2026-11-02T14:17:59.772Z
+modified: 2026-11-02T18:09:58.578Z
+published: 2026-11-02T18:09:58.578Z
 aliases: []
 books:
   - "[[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Helsinki]]"
+image: Attachments/Places/Oodi (Helsinki Central Library).svg
 ---
 
 # Oodi (Helsinki Central Library)

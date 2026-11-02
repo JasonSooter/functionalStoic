@@ -2,8 +2,8 @@
 publish: true
 title: Natural History Museum, London
 created: 2026-10-22T14:40:31.000Z
-modified: 2026-11-02T14:19:49.719Z
-published: 2026-11-02T14:19:49.719Z
+modified: 2026-11-02T17:48:49.389Z
+published: 2026-11-02T17:48:49.389Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[London]]"
+image: Attachments/Places/Natural History Museum, London.svg
 ---
 
 # Natural History Museum, London

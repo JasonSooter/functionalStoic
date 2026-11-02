@@ -2,8 +2,8 @@
 publish: true
 title: Platz der Alten Synagoge
 created: 2026-10-24T07:12:31.000Z
-modified: 2026-11-02T14:20:25.135Z
-published: 2026-11-02T14:20:25.135Z
+modified: 2026-11-02T18:25:16.147Z
+published: 2026-11-02T18:25:16.147Z
 aliases:
   - Square of the Old Synagogue
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Freiburg]]"
+image: Attachments/Places/Platz der Alten Synagoge.svg
 ---
 
 # Platz der Alten Synagoge

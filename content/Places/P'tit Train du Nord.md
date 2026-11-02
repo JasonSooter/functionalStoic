@@ -2,8 +2,8 @@
 publish: true
 title: P'tit Train du Nord
 created: 2026-10-21T11:07:55.000Z
-modified: 2026-11-02T14:20:06.391Z
-published: 2026-11-02T14:20:06.391Z
+modified: 2026-11-02T18:15:24.914Z
+published: 2026-11-02T18:15:24.914Z
 aliases: []
 books:
   - "P’tit Train du Nord day 1: First poutine, then a 4-course gourmet dinner"
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Quebec]]"
+image: Attachments/Places/P'tit Train du Nord.svg
 ---
 
 # P'tit Train du Nord

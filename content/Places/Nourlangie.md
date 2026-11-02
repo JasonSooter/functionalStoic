@@ -2,8 +2,8 @@
 publish: true
 title: Nourlangie
 created: 2026-10-22T13:40:56.000Z
-modified: 2026-11-02T14:19:30.566Z
-published: 2026-11-02T14:19:30.566Z
+modified: 2026-11-02T17:59:22.923Z
+published: 2026-11-02T17:59:22.923Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Kakadu National Park]]"
+image: Attachments/Places/Nourlangie.svg
 ---
 
 # Nourlangie

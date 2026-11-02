@@ -2,8 +2,8 @@
 publish: true
 title: Peoria, Illinois
 created: 2026-10-23T11:15:15.000Z
-modified: 2026-11-02T14:20:13.615Z
-published: 2026-11-02T14:20:13.615Z
+modified: 2026-11-02T18:19:59.748Z
+published: 2026-11-02T18:19:59.748Z
 aliases:
   - Peoria
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Illinois]]"
+image: Attachments/Places/Peoria, Illinois.svg
 ---
 
 # Peoria, Illinois

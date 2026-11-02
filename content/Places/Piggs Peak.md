@@ -2,8 +2,8 @@
 publish: true
 title: Piggs Peak
 created: 2026-10-20T04:33:57.000Z
-modified: 2026-11-02T14:20:27.363Z
-published: 2026-11-02T14:20:27.363Z
+modified: 2026-11-02T18:25:15.971Z
+published: 2026-11-02T18:25:15.971Z
 aliases:
   - Pigg's Peak
 books:
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Eswatini]]"
+image: Attachments/Places/Piggs Peak.svg
 ---
 
 # Piggs Peak

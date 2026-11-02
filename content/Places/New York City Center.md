@@ -2,8 +2,8 @@
 publish: true
 title: New York City Center
 created: 2026-10-23T02:03:44.000Z
-modified: 2026-11-02T14:19:55.803Z
-published: 2026-11-02T14:19:55.803Z
+modified: 2026-11-02T17:54:06.208Z
+published: 2026-11-02T17:54:06.208Z
 aliases: []
 books:
   - The Black Art of Escape
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Manhattan]]"
+image: Attachments/Places/New York City Center.svg
 ---
 
 # New York City Center

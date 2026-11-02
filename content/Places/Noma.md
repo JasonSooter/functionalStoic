@@ -2,8 +2,8 @@
 publish: true
 title: Noma
 created: 2026-10-21T11:07:48.000Z
-modified: 2026-11-02T14:20:04.675Z
-published: 2026-11-02T14:20:04.675Z
+modified: 2026-11-02T17:59:22.755Z
+published: 2026-11-02T17:59:22.755Z
 aliases: []
 books:
   - The Year of Living Danishly
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Copenhagen]]"
+image: Attachments/Places/Noma.svg
 ---
 
 # Noma

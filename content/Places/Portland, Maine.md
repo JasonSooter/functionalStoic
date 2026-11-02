@@ -2,8 +2,8 @@
 publish: true
 title: Portland, Maine
 created: 2026-10-22T10:44:05.000Z
-modified: 2026-11-02T14:20:18.935Z
-published: 2026-11-02T14:20:18.935Z
+modified: 2026-11-02T18:30:31.940Z
+published: 2026-11-02T18:30:31.940Z
 aliases: []
 books:
   - Uncovering Mattress Manufacturing
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Maine]]"
+image: Attachments/Places/Portland, Maine.svg
 ---
 
 # Portland, Maine

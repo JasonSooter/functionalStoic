@@ -2,8 +2,8 @@
 publish: true
 title: Panama
 created: 2026-10-21T04:45:11.000Z
-modified: 2026-11-02T14:19:57.439Z
-published: 2026-11-02T14:19:57.439Z
+modified: 2026-11-02T18:41:22.734Z
+published: 2026-11-02T18:41:22.734Z
 aliases: []
 books:
   - Panama Papers Prove World Leaders Are Funneling Money Into Tax Shelters
@@ -21,6 +21,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Panama.svg
 ---
 
 # Panama

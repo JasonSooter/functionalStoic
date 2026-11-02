@@ -2,8 +2,8 @@
 publish: true
 title: Powder Mountain
 created: 2026-10-22T10:31:01.000Z
-modified: 2026-11-02T14:20:22.199Z
-published: 2026-11-02T14:20:22.199Z
+modified: 2026-11-02T18:35:42.422Z
+published: 2026-11-02T18:35:42.422Z
 aliases:
   - Summit Powder Mountain
   - Power Mountain
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Utah]]"
+image: Attachments/Places/Powder Mountain.svg
 ---
 
 # Powder Mountain

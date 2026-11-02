@@ -2,8 +2,8 @@
 publish: true
 title: Nyhavn
 created: 2026-10-19T22:24:35.000Z
-modified: 2026-11-02T14:20:10.563Z
-published: 2026-11-02T14:20:10.563Z
+modified: 2026-11-02T18:04:41.010Z
+published: 2026-11-02T18:04:41.010Z
 aliases: []
 books:
   - Neither Here Nor There
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Copenhagen]]"
+image: Attachments/Places/Nyhavn.svg
 ---
 
 # Nyhavn

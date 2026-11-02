@@ -2,8 +2,8 @@
 publish: true
 title: Ninth Street and Passyunk Avenue
 created: 2026-10-21T13:56:58.000Z
-modified: 2026-11-02T14:19:45.655Z
-published: 2026-11-02T14:19:45.655Z
+modified: 2026-11-02T17:54:06.392Z
+published: 2026-11-02T17:54:06.392Z
 aliases:
   - Geno's Steaks and Pat's King of Steaks intersection
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Philadelphia]]"
+image: Attachments/Places/Ninth Street and Passyunk Avenue.svg
 ---
 
 # Ninth Street and Passyunk Avenue

@@ -2,8 +2,8 @@
 publish: true
 title: New Ross
 created: 2026-10-19T14:06:31.000Z
-modified: 2026-11-02T14:19:35.890Z
-published: 2026-11-02T14:19:35.890Z
+modified: 2026-11-02T17:54:06.176Z
+published: 2026-11-02T17:54:06.176Z
 aliases:
   - New Ross, County Wexford
   - Ros Mhic Thriúin
@@ -22,6 +22,7 @@ tags:
   - source/ai/claude
 within: "[[Ireland]]"
 coordinates: 52.396,-6.945
+image: Attachments/Places/New Ross.svg
 ---
 
 # New Ross

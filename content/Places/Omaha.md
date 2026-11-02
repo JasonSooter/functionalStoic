@@ -2,8 +2,8 @@
 publish: true
 title: Omaha
 created: 2026-10-23T04:59:58.000Z
-modified: 2026-11-02T14:19:57.503Z
-published: 2026-11-02T14:19:57.503Z
+modified: 2026-11-02T18:09:58.546Z
+published: 2026-11-02T18:09:58.546Z
 aliases: []
 books:
   - Around the World in Eighty Days
@@ -21,6 +21,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Omaha.svg
 ---
 
 # Omaha

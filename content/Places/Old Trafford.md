@@ -2,8 +2,8 @@
 publish: true
 title: Old Trafford
 created: 2026-10-20T13:41:09.000Z
-modified: 2026-11-02T14:20:08.279Z
-published: 2026-11-02T14:20:08.279Z
+modified: 2026-11-02T18:09:58.498Z
+published: 2026-11-02T18:09:58.498Z
 aliases:
   - Old Trafford stadium
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Manchester]]"
+image: Attachments/Places/Old Trafford.svg
 ---
 
 # Old Trafford

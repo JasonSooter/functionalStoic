@@ -2,8 +2,8 @@
 publish: true
 title: Port Lockroy
 created: 2026-10-23T01:33:33.000Z
-modified: 2026-11-02T14:18:36.161Z
-published: 2026-11-02T14:18:36.161Z
+modified: 2026-11-02T18:30:31.860Z
+published: 2026-11-02T18:30:31.860Z
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Antarctica]]"
+image: Attachments/Places/Port Lockroy.svg
 ---
 
 # Port Lockroy

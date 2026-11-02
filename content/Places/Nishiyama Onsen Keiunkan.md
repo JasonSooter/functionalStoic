@@ -2,8 +2,8 @@
 publish: true
 title: Nishiyama Onsen Keiunkan
 created: 2026-10-23T02:03:16.000Z
-modified: 2026-11-02T14:19:29.298Z
-published: 2026-11-02T14:19:29.298Z
+modified: 2026-11-02T17:59:22.675Z
+published: 2026-11-02T17:59:22.675Z
 aliases: []
 books:
   - "An exist strategy: In business, small is beautiful too"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Japan]]"
+image: Attachments/Places/Nishiyama Onsen Keiunkan.svg
 ---
 
 # Nishiyama Onsen Keiunkan

@@ -2,8 +2,8 @@
 publish: true
 title: Panama Canal
 created: 2026-10-21T04:45:12.000Z
-modified: 2026-11-02T14:20:00.291Z
-published: 2026-11-02T14:20:00.291Z
+modified: 2026-11-02T18:15:25.130Z
+published: 2026-11-02T18:15:25.130Z
 aliases: []
 books:
   - "[[Canal Locks]]"
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Panama]]"
+image: Attachments/Places/Panama Canal.svg
 ---
 
 # Panama Canal

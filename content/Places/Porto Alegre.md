@@ -2,8 +2,8 @@
 publish: true
 title: Porto Alegre
 created: 2026-10-23T01:32:13.000Z
-modified: 2026-11-02T14:20:26.563Z
-published: 2026-11-02T14:20:26.563Z
+modified: 2026-11-02T18:30:31.976Z
+published: 2026-11-02T18:30:31.976Z
 aliases: []
 books:
   - "Here comes everybody: participatory budgeting, explained"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Brazil]]"
+image: Attachments/Places/Porto Alegre.svg
 ---
 
 # Porto Alegre

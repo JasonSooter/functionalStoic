@@ -2,8 +2,8 @@
 publish: true
 title: Outer Banks
 created: 2026-10-22T23:16:40.000Z
-modified: 2026-11-02T14:19:47.471Z
-published: 2026-11-02T14:19:47.471Z
+modified: 2026-11-02T18:41:21.775Z
+published: 2026-11-02T18:41:21.775Z
 aliases: []
 books:
   - Why Community Matters to me – Learn coding concepts
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[North Carolina]]"
+image: Attachments/Places/Outer Banks.svg
 ---
 
 # Outer Banks

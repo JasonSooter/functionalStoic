@@ -2,8 +2,8 @@
 publish: true
 title: Orange station (Vaucluse)
 created: 2026-10-20T19:35:58.000Z
-modified: 2026-11-02T14:20:11.299Z
-published: 2026-11-02T14:20:11.299Z
+modified: 2026-11-02T18:09:58.658Z
+published: 2026-11-02T18:09:58.658Z
 aliases:
   - Gare d'Orange
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Provence]]"
+image: Attachments/Places/Orange station (Vaucluse).svg
 ---
 
 # Orange station (Vaucluse)

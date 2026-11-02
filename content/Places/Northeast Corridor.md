@@ -2,8 +2,8 @@
 publish: true
 title: Northeast Corridor
 created: 2026-10-21T16:38:55.000Z
-modified: 2026-11-02T14:19:41.623Z
-published: 2026-11-02T14:19:41.623Z
+modified: 2026-11-02T18:41:10.791Z
+published: 2026-11-02T18:41:10.791Z
 aliases:
   - New York–Washington route
   - Northeast Corridor Improvement Project
@@ -24,6 +24,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Northeast Corridor.svg
 ---
 
 # Northeast Corridor

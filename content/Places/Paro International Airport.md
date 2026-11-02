@@ -2,8 +2,8 @@
 publish: true
 title: Paro International Airport
 created: 2026-10-21T19:59:42.000Z
-modified: 2026-11-02T14:20:39.240Z
-published: 2026-11-02T14:20:39.240Z
+modified: 2026-11-02T18:19:59.512Z
+published: 2026-11-02T18:19:59.512Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Bhutan]]"
+image: Attachments/Places/Paro International Airport.svg
 ---
 
 # Paro International Airport

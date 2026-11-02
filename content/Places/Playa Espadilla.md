@@ -2,8 +2,8 @@
 publish: true
 title: Playa Espadilla
 created: 2026-10-22T01:44:59.000Z
-modified: 2026-11-02T14:20:54.912Z
-published: 2026-11-02T14:20:54.912Z
+modified: 2026-11-02T18:30:31.604Z
+published: 2026-11-02T18:30:31.604Z
 aliases:
   - Espadilla Beach
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Manuel Antonio National Park]]"
+image: Attachments/Places/Playa Espadilla.svg
 ---
 
 # Playa Espadilla

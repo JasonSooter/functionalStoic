@@ -2,8 +2,8 @@
 publish: true
 title: Pelorus River
 created: 2026-10-23T11:15:24.000Z
-modified: 2026-11-02T14:20:39.740Z
-published: 2026-11-02T14:20:39.740Z
+modified: 2026-11-02T18:19:59.668Z
+published: 2026-11-02T18:19:59.668Z
 aliases: []
 books:
   - "[[The Hobbit]]"
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New Zealand]]"
+image: Attachments/Places/Pelorus River.svg
 ---
 
 # Pelorus River

@@ -2,8 +2,8 @@
 publish: true
 title: Palace of Westminster
 created: 2026-10-20T01:38:28.000Z
-modified: 2026-11-02T14:20:07.543Z
-published: 2026-11-02T14:20:07.543Z
+modified: 2026-11-02T18:15:25.010Z
+published: 2026-11-02T18:15:25.010Z
 aliases:
   - Houses of Parliament
   - Westminster Hall
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[London]]"
+image: Attachments/Places/Palace of Westminster.svg
 ---
 
 # Palace of Westminster

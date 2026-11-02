@@ -2,8 +2,8 @@
 publish: true
 title: Patan (Lalitpur)
 created: 2026-10-23T05:12:13.000Z
-modified: 2026-11-02T14:18:30.481Z
-published: 2026-11-02T14:18:30.481Z
+modified: 2026-11-02T18:19:59.560Z
+published: 2026-11-02T18:19:59.560Z
 aliases:
   - Lalitpur
   - Patan
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Nepal]]"
+image: Attachments/Places/Patan (Lalitpur).svg
 ---
 
 # Patan (Lalitpur)

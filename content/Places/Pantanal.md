@@ -2,8 +2,8 @@
 publish: true
 title: Pantanal
 created: 2026-10-21T02:07:36.000Z
-modified: 2026-11-02T14:20:04.155Z
-published: 2026-11-02T14:20:04.155Z
+modified: 2026-11-02T18:15:25.162Z
+published: 2026-11-02T18:15:25.162Z
 aliases: []
 books:
   - Water Worlds
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Brazil]]"
+image: Attachments/Places/Pantanal.svg
 ---
 
 # Pantanal

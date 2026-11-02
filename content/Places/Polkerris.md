@@ -2,8 +2,8 @@
 publish: true
 title: Polkerris
 created: 2026-10-20T19:37:57.000Z
-modified: 2026-11-02T14:20:30.651Z
-published: 2026-11-02T14:20:30.651Z
+modified: 2026-11-02T18:30:31.720Z
+published: 2026-11-02T18:30:31.720Z
 aliases:
   - Rashleigh Inn
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Cornwall]]"
+image: Attachments/Places/Polkerris.svg
 ---
 
 # Polkerris

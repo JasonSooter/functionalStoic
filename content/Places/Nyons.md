@@ -2,8 +2,8 @@
 publish: true
 title: Nyons
 created: 2026-10-20T01:34:46.000Z
-modified: 2026-11-02T14:20:07.027Z
-published: 2026-11-02T14:20:07.027Z
+modified: 2026-11-02T18:04:41.026Z
+published: 2026-11-02T18:04:41.026Z
 aliases: []
 books:
   - Nyons and La Route de l’Olivier.
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Provence]]"
+image: Attachments/Places/Nyons.svg
 ---
 
 # Nyons

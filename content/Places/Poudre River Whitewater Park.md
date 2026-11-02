@@ -2,8 +2,8 @@
 publish: true
 title: Poudre River Whitewater Park
 created: 2026-10-20T22:54:01.000Z
-modified: 2026-11-02T14:18:31.201Z
-published: 2026-11-02T14:18:31.201Z
+modified: 2026-11-02T18:35:42.406Z
+published: 2026-11-02T18:35:42.406Z
 aliases:
   - Fort Collins Whitewater Park
   - Whitewater Park
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Fort Collins]]"
+image: Attachments/Places/Poudre River Whitewater Park.svg
 ---
 
 # Poudre River Whitewater Park

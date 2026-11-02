@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2026-10-20T04:23:56.000Z
-modified: 2026-11-02T14:19:54.367Z
-published: 2026-11-02T14:19:54.367Z
+modified: 2026-11-02T17:54:06.192Z
+published: 2026-11-02T17:54:06.192Z
 aliases:
   - NYC
 books:
@@ -26,6 +26,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/New York City.svg
 ---
 
 # New York City

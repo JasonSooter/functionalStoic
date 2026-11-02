@@ -2,8 +2,8 @@
 publish: true
 title: Palace of Green Porcelain (The Time Machine)
 created: 2026-10-22T23:17:24.000Z
-modified: 2026-11-02T14:20:22.799Z
-published: 2026-11-02T14:20:22.799Z
+modified: 2026-11-02T18:15:24.978Z
+published: 2026-11-02T18:15:24.978Z
 aliases: []
 books:
   - The Time Machine
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[London]]"
+image: Attachments/Places/Palace of Green Porcelain (The Time Machine).svg
 ---
 
 # Palace of Green Porcelain (The Time Machine)

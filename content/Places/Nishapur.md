@@ -2,8 +2,8 @@
 publish: true
 title: Nishapur
 created: 2026-10-22T16:26:31.000Z
-modified: 2026-11-02T14:19:43.431Z
-published: 2026-11-02T14:19:43.431Z
+modified: 2026-11-02T17:54:06.404Z
+published: 2026-11-02T17:54:06.404Z
 aliases:
   - Neyshabur
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Iran]]"
+image: Attachments/Places/Nishapur.svg
 ---
 
 # Nishapur

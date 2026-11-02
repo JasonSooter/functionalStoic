@@ -2,8 +2,8 @@
 publish: true
 title: Navi Mumbai International Airport
 created: 2026-10-20T07:39:29.000Z
-modified: 2026-11-02T14:19:32.042Z
-published: 2026-11-02T14:19:32.042Z
+modified: 2026-11-02T17:48:49.441Z
+published: 2026-11-02T17:48:49.441Z
 aliases: []
 books:
   - The $2BN Airport Built in a Swamp
@@ -20,6 +20,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Navi Mumbai]]"
+image: Attachments/Places/Navi Mumbai International Airport.svg
 ---
 
 # Navi Mumbai International Airport

@@ -2,8 +2,8 @@
 publish: true
 title: New Bedford
 created: 2026-10-23T11:15:04.000Z
-modified: 2026-11-02T14:19:41.955Z
-published: 2026-11-02T14:19:41.955Z
+modified: 2026-11-02T17:54:06.052Z
+published: 2026-11-02T17:54:06.052Z
 aliases:
   - New Bedford, Massachusetts
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Massachusetts]]"
+image: Attachments/Places/New Bedford.svg
 ---
 
 # New Bedford

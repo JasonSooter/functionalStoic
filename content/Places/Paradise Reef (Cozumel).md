@@ -2,8 +2,8 @@
 publish: true
 title: Paradise Reef (Cozumel)
 created: 2026-10-21T19:40:35.000Z
-modified: 2026-11-02T14:20:03.299Z
-published: 2026-11-02T14:20:03.299Z
+modified: 2026-11-02T18:15:25.206Z
+published: 2026-11-02T18:15:25.206Z
 aliases:
   - Paradiso
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Cozumel]]"
+image: Attachments/Places/Paradise Reef (Cozumel).svg
 ---
 
 # Paradise Reef (Cozumel)

@@ -2,8 +2,8 @@
 publish: true
 title: Petty Harbour
 created: 2026-10-22T19:57:57.000Z
-modified: 2026-11-02T14:20:05.655Z
-published: 2026-11-02T14:20:05.655Z
+modified: 2026-11-02T18:25:15.783Z
+published: 2026-11-02T18:25:15.783Z
 aliases: []
 books:
   - "The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic\
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Newfoundland and Labrador]]"
+image: Attachments/Places/Petty Harbour.svg
 ---
 
 # Petty Harbour

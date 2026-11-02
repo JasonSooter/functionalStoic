@@ -2,8 +2,8 @@
 publish: true
 title: Nondugl
 created: 2026-10-22T13:40:45.000Z
-modified: 2026-11-02T14:19:27.938Z
-published: 2026-11-02T14:19:27.938Z
+modified: 2026-11-02T17:59:22.787Z
+published: 2026-11-02T17:59:22.787Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Wahgi Valley]]"
+image: Attachments/Places/Nondugl.svg
 ---
 
 # Nondugl

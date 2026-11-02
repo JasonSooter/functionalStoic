@@ -2,8 +2,8 @@
 publish: true
 title: Normandy
 created: 2026-10-20T04:35:41.000Z
-modified: 2026-11-02T14:19:45.667Z
-published: 2026-11-02T14:19:45.667Z
+modified: 2026-11-02T17:59:22.847Z
+published: 2026-11-02T17:59:22.847Z
 aliases:
   - Normandie
 books:
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[France]]"
+image: Attachments/Places/Normandy.svg
 ---
 
 # Normandy

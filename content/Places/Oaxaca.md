@@ -2,8 +2,8 @@
 publish: true
 title: Oaxaca
 created: 2026-10-21T22:57:45.000Z
-modified: 2026-11-02T14:20:09.795Z
-published: 2026-11-02T14:20:09.795Z
+modified: 2026-11-02T18:41:12.067Z
+published: 2026-11-02T18:41:12.067Z
 aliases:
   - Oaxaca de Juárez
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Mexico]]"
+image: Attachments/Places/Oaxaca.svg
 ---
 
 # Oaxaca

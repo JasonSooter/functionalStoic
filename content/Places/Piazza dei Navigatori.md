@@ -2,8 +2,8 @@
 publish: true
 title: Piazza dei Navigatori
 created: 2026-10-21T13:56:25.000Z
-modified: 2026-11-02T14:20:02.879Z
-published: 2026-11-02T14:20:02.879Z
+modified: 2026-11-02T18:25:15.875Z
+published: 2026-11-02T18:25:15.875Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Rome]]"
+image: Attachments/Places/Piazza dei Navigatori.svg
 ---
 
 # Piazza dei Navigatori

@@ -2,8 +2,8 @@
 publish: true
 title: New Hampshire
 created: 2026-10-20T10:42:40.000Z
-modified: 2026-11-02T14:19:51.707Z
-published: 2026-11-02T14:19:51.707Z
+modified: 2026-11-02T17:54:06.116Z
+published: 2026-11-02T17:54:06.116Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -21,6 +21,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/New Hampshire.svg
 ---
 
 # New Hampshire

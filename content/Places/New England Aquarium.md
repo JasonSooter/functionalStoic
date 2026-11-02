@@ -2,8 +2,8 @@
 publish: true
 title: New England Aquarium
 created: 2026-10-21T16:38:12.000Z
-modified: 2026-11-02T14:19:52.895Z
-published: 2026-11-02T14:19:52.895Z
+modified: 2026-11-02T17:54:06.100Z
+published: 2026-11-02T17:54:06.100Z
 aliases:
   - NEAq
   - Giant Ocean Tank
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Boston]]"
+image: Attachments/Places/New England Aquarium.svg
 ---
 
 # New England Aquarium

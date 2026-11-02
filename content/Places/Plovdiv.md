@@ -2,8 +2,8 @@
 publish: true
 title: Plovdiv
 created: 2026-10-23T05:12:04.000Z
-modified: 2026-11-02T14:20:41.104Z
-published: 2026-11-02T14:20:41.104Z
+modified: 2026-11-02T18:30:31.640Z
+published: 2026-11-02T18:30:31.640Z
 aliases: []
 books:
   - "[[On the Hippie Trail]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Bulgaria]]"
+image: Attachments/Places/Plovdiv.svg
 ---
 
 # Plovdiv

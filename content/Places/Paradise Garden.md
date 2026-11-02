@@ -2,8 +2,8 @@
 publish: true
 title: Paradise Garden
 created: 2026-10-22T20:38:51.000Z
-modified: 2026-11-02T14:20:49.608Z
-published: 2026-11-02T14:20:49.608Z
+modified: 2026-11-02T18:15:25.190Z
+published: 2026-11-02T18:15:25.190Z
 aliases: []
 books:
   - "[[Range]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Georgia (U.S. state)]]"
+image: Attachments/Places/Paradise Garden.svg
 ---
 
 # Paradise Garden

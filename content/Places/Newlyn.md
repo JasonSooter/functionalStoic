@@ -2,8 +2,8 @@
 publish: true
 title: Newlyn
 created: 2026-10-23T05:33:21.000Z
-modified: 2026-11-02T14:17:59.000Z
-published: 2026-11-02T14:17:59.000Z
+modified: 2026-11-02T17:54:06.284Z
+published: 2026-11-02T17:54:06.284Z
 aliases: []
 books:
   - "[[Cod]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Cornwall]]"
+image: Attachments/Places/Newlyn.svg
 ---
 
 # Newlyn

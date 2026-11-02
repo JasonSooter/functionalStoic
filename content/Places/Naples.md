@@ -2,8 +2,8 @@
 publish: true
 title: Naples
 created: 2026-10-20T01:25:42.000Z
-modified: 2026-11-02T14:17:54.424Z
-published: 2026-11-02T14:17:54.424Z
+modified: 2026-11-02T17:48:49.257Z
+published: 2026-11-02T17:48:49.257Z
 aliases:
   - Napoli
   - Vicaria
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Italy]]"
+image: Attachments/Places/Naples.svg
 ---
 
 # Naples

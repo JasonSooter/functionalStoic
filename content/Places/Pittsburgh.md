@@ -2,8 +2,8 @@
 publish: true
 title: Pittsburgh
 created: 2026-10-20T16:27:11.000Z
-modified: 2026-11-02T14:18:19.613Z
-published: 2026-11-02T14:18:19.613Z
+modified: 2026-11-02T18:25:16.047Z
+published: 2026-11-02T18:25:16.047Z
 aliases: []
 books:
   - "[[17 Responses to “Year in Review - 2024”]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Pennsylvania]]"
+image: Attachments/Places/Pittsburgh.svg
 ---
 
 # Pittsburgh

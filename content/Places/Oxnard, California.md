@@ -2,8 +2,8 @@
 publish: true
 title: Oxnard, California
 created: 2026-10-23T01:33:09.000Z
-modified: 2026-11-02T14:20:09.031Z
-published: 2026-11-02T14:20:09.031Z
+modified: 2026-11-02T18:09:58.858Z
+published: 2026-11-02T18:09:58.858Z
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Oxnard, California.svg
 ---
 
 # Oxnard, California

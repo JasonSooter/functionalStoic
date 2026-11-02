@@ -2,8 +2,8 @@
 publish: true
 title: Pebble Beach Golf Links
 created: 2026-10-21T04:46:05.000Z
-modified: 2026-11-02T14:18:29.045Z
-published: 2026-11-02T14:18:29.045Z
+modified: 2026-11-02T18:19:59.620Z
+published: 2026-11-02T18:19:59.620Z
 aliases: []
 books:
   - "[[Brain Food - The Hardest Truth]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Pebble Beach Golf Links.svg
 ---
 
 # Pebble Beach Golf Links

@@ -2,8 +2,8 @@
 publish: true
 title: Port of Oakland
 created: 2026-10-22T01:44:42.000Z
-modified: 2026-11-02T14:20:11.455Z
-published: 2026-11-02T14:20:11.455Z
+modified: 2026-11-02T18:30:31.892Z
+published: 2026-11-02T18:30:31.892Z
 aliases: []
 books:
   - Why Aren’t America’s Shipping Ports Automated?
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Oakland]]"
+image: Attachments/Places/Port of Oakland.svg
 ---
 
 # Port of Oakland

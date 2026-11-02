@@ -2,8 +2,8 @@
 publish: true
 title: Oneida Carry
 created: 2026-10-23T07:46:15.000Z
-modified: 2026-11-02T14:19:54.011Z
-published: 2026-11-02T14:19:54.011Z
+modified: 2026-11-02T18:09:58.562Z
+published: 2026-11-02T18:09:58.562Z
 aliases:
   - Great Carrying Place
   - Wood Creek Carry
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New York State]]"
+image: Attachments/Places/Oneida Carry.svg
 ---
 
 # Oneida Carry

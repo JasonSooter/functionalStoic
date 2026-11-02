@@ -2,8 +2,8 @@
 publish: true
 title: Naran
 created: 2026-10-22T16:27:06.000Z
-modified: 2026-11-02T14:19:50.143Z
-published: 2026-11-02T14:19:50.143Z
+modified: 2026-11-02T17:48:49.305Z
+published: 2026-11-02T17:48:49.305Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Kagan Valley]]"
+image: Attachments/Places/Naran.svg
 ---
 
 # Naran

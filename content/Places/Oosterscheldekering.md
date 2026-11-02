@@ -2,8 +2,8 @@
 publish: true
 title: Oosterscheldekering
 created: 2026-10-21T05:07:43.000Z
-modified: 2026-11-02T14:19:35.186Z
-published: 2026-11-02T14:19:35.186Z
+modified: 2026-11-02T18:09:58.594Z
+published: 2026-11-02T18:09:58.594Z
 aliases: []
 books:
   - Why are the Dutch So Famous for Waterworks?
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Netherlands]]"
+image: Attachments/Places/Oosterscheldekering.svg
 ---
 
 # Oosterscheldekering

@@ -2,8 +2,8 @@
 publish: true
 title: Nacala
 created: 2026-10-20T22:55:26.000Z
-modified: 2026-11-02T14:19:50.787Z
-published: 2026-11-02T14:19:50.787Z
+modified: 2026-11-02T17:48:49.125Z
+published: 2026-11-02T17:48:49.125Z
 aliases:
   - Nacala Porto
   - Nacala-Porto
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Mozambique]]"
+image: Attachments/Places/Nacala.svg
 ---
 
 # Nacala

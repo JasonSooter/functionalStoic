@@ -2,8 +2,8 @@
 publish: true
 title: Napa Valley
 created: 2026-10-22T20:39:00.000Z
-modified: 2026-11-02T14:19:59.563Z
-published: 2026-11-02T14:19:59.563Z
+modified: 2026-11-02T17:48:49.241Z
+published: 2026-11-02T17:48:49.241Z
 aliases: []
 books:
   - Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Napa Valley.svg
 ---
 
 # Napa Valley

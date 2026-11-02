@@ -2,8 +2,8 @@
 publish: true
 title: Neutral Buoyancy Laboratory
 created: 2026-10-22T22:59:12.000Z
-modified: 2026-11-02T14:19:52.511Z
-published: 2026-11-02T14:19:52.511Z
+modified: 2026-11-02T17:54:06.032Z
+published: 2026-11-02T17:54:06.032Z
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Johnson Space Center]]"
+image: Attachments/Places/Neutral Buoyancy Laboratory.svg
 ---
 
 # Neutral Buoyancy Laboratory

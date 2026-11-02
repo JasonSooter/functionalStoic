@@ -2,8 +2,8 @@
 publish: true
 title: Power Trail and Harmony Road crossing
 created: 2026-10-21T05:06:37.000Z
-modified: 2026-11-02T14:20:21.403Z
-published: 2026-11-02T14:20:21.403Z
+modified: 2026-11-02T18:35:42.438Z
+published: 2026-11-02T18:35:42.438Z
 aliases: []
 books:
   - Colorado Hands-Free Law, Ollie Stratton Trial, Scheels Giving Campaign, Winter
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Fort Collins]]"
+image: Attachments/Places/Power Trail and Harmony Road crossing.svg
 ---
 
 # Power Trail and Harmony Road crossing

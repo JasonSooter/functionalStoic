@@ -2,8 +2,8 @@
 publish: true
 title: Puig de Randa
 created: 2026-10-20T01:30:01.000Z
-modified: 2026-11-02T14:18:26.173Z
-published: 2026-11-02T14:18:26.173Z
+modified: 2026-11-02T18:35:42.722Z
+published: 2026-11-02T18:35:42.722Z
 aliases:
   - Randa
 books:
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Mallorca]]"
+image: Attachments/Places/Puig de Randa.svg
 ---
 
 # Puig de Randa

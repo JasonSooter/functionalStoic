@@ -2,8 +2,8 @@
 publish: true
 title: Papetoai
 created: 2026-10-21T19:59:39.000Z
-modified: 2026-11-02T14:19:58.327Z
-published: 2026-11-02T14:19:58.327Z
+modified: 2026-11-02T18:15:25.174Z
+published: 2026-11-02T18:15:25.174Z
 aliases: []
 books:
   - "[[The Soul of an Octopus]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Moorea]]"
+image: Attachments/Places/Papetoai.svg
 ---
 
 # Papetoai

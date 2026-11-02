@@ -2,8 +2,8 @@
 publish: true
 title: Norwich
 created: 2026-10-20T13:45:55.000Z
-modified: 2026-11-02T14:19:49.275Z
-published: 2026-11-02T14:19:49.275Z
+modified: 2026-11-02T17:59:22.911Z
+published: 2026-11-02T17:59:22.911Z
 aliases: []
 books:
   - '#061 Please assemble in the telephone box'
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[England]]"
+image: Attachments/Places/Norwich.svg
 ---
 
 # Norwich

@@ -2,8 +2,8 @@
 publish: true
 title: Planned Parenthood clinic (Colorado Springs)
 created: 2026-10-22T10:44:09.000Z
-modified: 2026-11-02T14:20:50.608Z
-published: 2026-11-02T14:20:50.608Z
+modified: 2026-11-02T18:25:16.099Z
+published: 2026-11-02T18:25:16.099Z
 aliases: []
 books:
   - Unknown Unknowns
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Colorado Springs]]"
+image: Attachments/Places/Planned Parenthood clinic (Colorado Springs).svg
 ---
 
 # Planned Parenthood clinic (Colorado Springs)

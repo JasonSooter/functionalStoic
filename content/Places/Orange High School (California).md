@@ -2,8 +2,8 @@
 publish: true
 title: Orange High School (California)
 created: 2026-10-22T16:48:38.000Z
-modified: 2026-11-02T14:18:05.876Z
-published: 2026-11-02T14:18:05.876Z
+modified: 2026-11-02T18:09:58.642Z
+published: 2026-11-02T18:09:58.642Z
 aliases: []
 books:
   - "#savings: Can Social Media Nudge Teens into Smarter Money Choices?"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Orange High School (California).svg
 ---
 
 # Orange High School (California)

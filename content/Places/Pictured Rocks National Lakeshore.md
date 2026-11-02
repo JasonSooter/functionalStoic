@@ -2,8 +2,8 @@
 publish: true
 title: Pictured Rocks National Lakeshore
 created: 2026-10-21T22:57:30.000Z
-modified: 2026-11-02T14:20:30.579Z
-published: 2026-11-02T14:20:30.579Z
+modified: 2026-11-02T18:25:15.923Z
+published: 2026-11-02T18:25:15.923Z
 aliases: []
 books:
   - Michigan’s Upper Peninsula Wrap-Up
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Michigan]]"
+image: Attachments/Places/Pictured Rocks National Lakeshore.svg
 ---
 
 # Pictured Rocks National Lakeshore

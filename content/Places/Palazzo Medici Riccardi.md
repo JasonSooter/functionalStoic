@@ -2,8 +2,8 @@
 publish: true
 title: Palazzo Medici Riccardi
 created: 2026-10-21T13:56:10.000Z
-modified: 2026-11-02T14:20:01.891Z
-published: 2026-11-02T14:20:01.891Z
+modified: 2026-11-02T18:15:25.026Z
+published: 2026-11-02T18:15:25.026Z
 aliases:
   - Palazzo Medici
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Florence]]"
+image: Attachments/Places/Palazzo Medici Riccardi.svg
 ---
 
 # Palazzo Medici Riccardi

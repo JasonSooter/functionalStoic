@@ -2,8 +2,8 @@
 publish: true
 title: Oslo
 created: 2026-10-23T02:02:53.000Z
-modified: 2026-11-02T14:19:55.095Z
-published: 2026-11-02T14:19:55.095Z
+modified: 2026-11-02T18:09:58.746Z
+published: 2026-11-02T18:09:58.746Z
 aliases: []
 books:
   - These 8 cities are taking bold steps to get rid of cars
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Norway]]"
+image: Attachments/Places/Oslo.svg
 ---
 
 # Oslo

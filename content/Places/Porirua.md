@@ -2,8 +2,8 @@
 publish: true
 title: Porirua
 created: 2026-10-21T05:06:46.000Z
-modified: 2026-11-02T14:20:14.115Z
-published: 2026-11-02T14:20:14.115Z
+modified: 2026-11-02T18:30:31.848Z
+published: 2026-11-02T18:30:31.848Z
 aliases: []
 books:
   - It is more likely that I was doing 911 km/h
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New Zealand]]"
+image: Attachments/Places/Porirua.svg
 ---
 
 # Porirua

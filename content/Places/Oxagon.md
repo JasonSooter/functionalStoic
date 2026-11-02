@@ -2,8 +2,8 @@
 publish: true
 title: Oxagon
 created: 2026-10-20T10:42:11.000Z
-modified: 2026-11-02T14:19:41.243Z
-published: 2026-11-02T14:19:41.243Z
+modified: 2026-11-02T18:09:58.826Z
+published: 2026-11-02T18:09:58.826Z
 aliases: []
 books:
   - Is The Line Really Dead?
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Saudi Arabia]]"
+image: Attachments/Places/Oxagon.svg
 ---
 
 # Oxagon

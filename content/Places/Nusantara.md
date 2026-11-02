@@ -2,8 +2,8 @@
 publish: true
 title: Nusantara
 created: 2026-10-20T22:55:06.000Z
-modified: 2026-11-02T14:19:55.107Z
-published: 2026-11-02T14:19:55.107Z
+modified: 2026-11-02T18:04:40.990Z
+published: 2026-11-02T18:04:40.990Z
 aliases:
   - IKN
   - Nusantara (city)
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Indonesia]]"
+image: Attachments/Places/Nusantara.svg
 ---
 
 # Nusantara

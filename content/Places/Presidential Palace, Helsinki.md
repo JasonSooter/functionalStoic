@@ -2,8 +2,8 @@
 publish: true
 title: Presidential Palace, Helsinki
 created: 2026-10-23T05:33:29.000Z
-modified: 2026-11-02T14:20:14.843Z
-published: 2026-11-02T14:20:14.843Z
+modified: 2026-11-02T18:35:42.502Z
+published: 2026-11-02T18:35:42.502Z
 aliases: []
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Helsinki]]"
+image: Attachments/Places/Presidential Palace, Helsinki.svg
 ---
 
 # Presidential Palace, Helsinki

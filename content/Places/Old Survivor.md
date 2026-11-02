@@ -2,8 +2,8 @@
 publish: true
 title: Old Survivor
 created: 2026-10-20T22:56:00.000Z
-modified: 2026-11-02T14:19:54.407Z
-published: 2026-11-02T14:19:54.407Z
+modified: 2026-11-02T18:04:41.346Z
+published: 2026-11-02T18:04:41.346Z
 aliases:
   - Grandfather
   - Old Survivor Redwood Tree
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Oakland]]"
+image: Attachments/Places/Old Survivor.svg
 ---
 
 # Old Survivor

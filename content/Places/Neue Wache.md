@@ -2,8 +2,8 @@
 publish: true
 title: Neue Wache
 created: 2026-10-23T11:14:43.000Z
-modified: 2026-11-02T14:18:09.416Z
-published: 2026-11-02T14:18:09.416Z
+modified: 2026-11-02T17:48:49.473Z
+published: 2026-11-02T17:48:49.473Z
 aliases:
   - New Guardhouse
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Berlin]]"
+image: Attachments/Places/Neue Wache.svg
 ---
 
 # Neue Wache

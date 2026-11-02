@@ -2,8 +2,8 @@
 publish: true
 title: Nā Wai ʻEhā
 created: 2026-10-22T19:58:03.000Z
-modified: 2026-11-02T14:19:47.871Z
-published: 2026-11-02T14:19:47.871Z
+modified: 2026-11-02T18:04:41.090Z
+published: 2026-11-02T18:04:41.090Z
 aliases: []
 books:
   - The Fall of the Sugar Goliath in Hawaii Makes Way for the Return of Kalo
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Maui]]"
+image: Attachments/Places/Nā Wai ʻEhā.svg
 ---
 
 # Nā Wai ʻEhā

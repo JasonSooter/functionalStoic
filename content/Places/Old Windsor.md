@@ -2,8 +2,8 @@
 publish: true
 title: Old Windsor
 created: 2026-10-22T01:44:31.000Z
-modified: 2026-11-02T14:19:45.367Z
-published: 2026-11-02T14:19:45.367Z
+modified: 2026-11-02T18:09:58.514Z
+published: 2026-11-02T18:09:58.514Z
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Berkshire]]"
+image: Attachments/Places/Old Windsor.svg
 ---
 
 # Old Windsor

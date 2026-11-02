@@ -2,8 +2,8 @@
 publish: true
 title: N Street Cohousing
 created: 2026-10-21T23:08:01.000Z
-modified: 2026-11-02T14:19:42.399Z
-published: 2026-11-02T14:19:42.399Z
+modified: 2026-11-02T17:48:49.093Z
+published: 2026-11-02T17:48:49.093Z
 aliases: []
 books:
   - What’s Right With This Picture?
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/N Street Cohousing.svg
 ---
 
 # N Street Cohousing

@@ -2,8 +2,8 @@
 publish: true
 title: Nataruk
 created: 2026-10-19T22:26:09.000Z
-modified: 2026-11-02T14:18:10.124Z
-published: 2026-11-02T14:18:10.124Z
+modified: 2026-11-02T17:48:49.321Z
+published: 2026-11-02T17:48:49.321Z
 aliases:
   - Lake Turkana massacre site
 books:
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Kenya]]"
+image: Attachments/Places/Nataruk.svg
 ---
 
 # Nataruk

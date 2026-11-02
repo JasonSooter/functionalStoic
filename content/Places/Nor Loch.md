@@ -2,8 +2,8 @@
 publish: true
 title: Nor Loch
 created: 2026-10-21T02:07:36.000Z
-modified: 2026-11-02T14:19:45.379Z
-published: 2026-11-02T14:19:45.379Z
+modified: 2026-11-02T17:59:22.815Z
+published: 2026-11-02T17:59:22.815Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Edinburgh]]"
+image: Attachments/Places/Nor Loch.svg
 ---
 
 # Nor Loch

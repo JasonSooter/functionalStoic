@@ -2,8 +2,8 @@
 publish: true
 title: Piste de la Voie Maritime
 created: 2026-10-21T11:07:50.000Z
-modified: 2026-11-02T14:20:15.971Z
-published: 2026-11-02T14:20:15.971Z
+modified: 2026-11-02T18:25:16.031Z
+published: 2026-11-02T18:25:16.031Z
 aliases: []
 books:
   - We bicycled the Formula 1 racetrack in Montreal
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Montreal]]"
+image: Attachments/Places/Piste de la Voie Maritime.svg
 ---
 
 # Piste de la Voie Maritime

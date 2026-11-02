@@ -2,8 +2,8 @@
 publish: true
 title: Nonesuch Pond
 created: 2026-10-23T07:47:47.000Z
-modified: 2026-11-02T14:19:50.755Z
-published: 2026-11-02T14:19:50.755Z
+modified: 2026-11-02T17:59:22.803Z
+published: 2026-11-02T17:59:22.803Z
 aliases: []
 books:
   - "[[North Woods]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Massachusetts]]"
+image: Attachments/Places/Nonesuch Pond.svg
 ---
 
 # Nonesuch Pond

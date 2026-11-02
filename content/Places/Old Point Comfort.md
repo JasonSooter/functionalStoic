@@ -2,8 +2,8 @@
 publish: true
 title: Old Point Comfort
 created: 2026-10-23T02:03:42.000Z
-modified: 2026-11-02T14:18:15.332Z
-published: 2026-11-02T14:18:15.332Z
+modified: 2026-11-02T18:04:41.314Z
+published: 2026-11-02T18:04:41.314Z
 aliases: []
 books:
   - The Black Art of Escape
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Virginia]]"
+image: Attachments/Places/Old Point Comfort.svg
 ---
 
 # Old Point Comfort

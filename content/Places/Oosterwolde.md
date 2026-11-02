@@ -2,8 +2,8 @@
 publish: true
 title: Oosterwolde
 created: 2026-10-21T13:57:16.000Z
-modified: 2026-11-02T14:20:10.451Z
-published: 2026-11-02T14:20:10.451Z
+modified: 2026-11-02T18:09:58.610Z
+published: 2026-11-02T18:09:58.610Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Netherlands]]"
+image: Attachments/Places/Oosterwolde.svg
 ---
 
 # Oosterwolde

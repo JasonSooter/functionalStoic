@@ -2,8 +2,8 @@
 publish: true
 title: Ocean Avenue (Carmel-by-the-Sea)
 created: 2026-10-21T13:56:03.000Z
-modified: 2026-11-02T14:20:07.603Z
-published: 2026-11-02T14:20:07.603Z
+modified: 2026-11-02T18:04:41.170Z
+published: 2026-11-02T18:04:41.170Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Ocean Avenue (Carmel-by-the-Sea).svg
 ---
 
 # Ocean Avenue (Carmel-by-the-Sea)

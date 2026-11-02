@@ -2,8 +2,8 @@
 publish: true
 title: Patagonia headquarters (Ventura)
 created: 2026-10-22T23:16:51.000Z
-modified: 2026-11-02T14:20:25.839Z
-published: 2026-11-02T14:20:25.839Z
+modified: 2026-11-02T18:19:59.544Z
+published: 2026-11-02T18:19:59.544Z
 aliases: []
 books:
   - Patagonia’s Philosopher-King – The New Yorker
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Patagonia headquarters (Ventura).svg
 ---
 
 # Patagonia headquarters (Ventura)

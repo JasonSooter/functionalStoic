@@ -2,8 +2,8 @@
 publish: true
 title: Olof Palme assassination site
 created: 2026-10-19T22:25:03.000Z
-modified: 2026-11-02T14:20:06.183Z
-published: 2026-11-02T14:20:06.183Z
+modified: 2026-11-02T18:09:58.530Z
+published: 2026-11-02T18:09:58.530Z
 aliases:
   - Sveavägen
   - Sveavägen–Tunnelgatan
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Stockholm]]"
+image: Attachments/Places/Olof Palme assassination site.svg
 ---
 
 # Olof Palme assassination site

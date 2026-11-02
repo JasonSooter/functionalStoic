@@ -2,8 +2,8 @@
 publish: true
 title: Orfield Laboratories
 created: 2026-10-21T19:40:27.000Z
-modified: 2026-11-02T14:19:33.598Z
-published: 2026-11-02T14:19:33.598Z
+modified: 2026-11-02T18:09:58.686Z
+published: 2026-11-02T18:09:58.686Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Minneapolis]]"
+image: Attachments/Places/Orfield Laboratories.svg
 ---
 
 # Orfield Laboratories

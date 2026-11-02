@@ -2,8 +2,8 @@
 publish: true
 title: Pamplona
 created: 2026-10-22T10:25:59.000Z
-modified: 2026-11-02T14:20:24.419Z
-published: 2026-11-02T14:20:24.419Z
+modified: 2026-11-02T18:15:25.114Z
+published: 2026-11-02T18:15:25.114Z
 aliases: []
 books:
   - Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Spain]]"
+image: Attachments/Places/Pamplona.svg
 ---
 
 # Pamplona

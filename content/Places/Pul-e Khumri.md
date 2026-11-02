@@ -2,8 +2,8 @@
 publish: true
 title: Pul-e Khumri
 created: 2026-10-22T16:26:32.000Z
-modified: 2026-11-02T14:20:36.043Z
-published: 2026-11-02T14:20:36.043Z
+modified: 2026-11-02T18:35:42.738Z
+published: 2026-11-02T18:35:42.738Z
 aliases:
   - Puli Khumri
   - Pul-i-Khumri
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Afghanistan]]"
+image: Attachments/Places/Pul-e Khumri.svg
 ---
 
 # Pul-e Khumri

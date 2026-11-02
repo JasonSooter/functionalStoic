@@ -2,8 +2,8 @@
 publish: true
 title: Plains of Abraham
 created: 2026-10-23T07:48:15.000Z
-modified: 2026-11-02T14:18:28.361Z
-published: 2026-11-02T14:18:28.361Z
+modified: 2026-11-02T18:25:16.083Z
+published: 2026-11-02T18:25:16.083Z
 aliases: []
 books:
   - "[[North Woods]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Quebec]]"
+image: Attachments/Places/Plains of Abraham.svg
 ---
 
 # Plains of Abraham

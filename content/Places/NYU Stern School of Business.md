@@ -2,8 +2,8 @@
 publish: true
 title: NYU Stern School of Business
 created: 2026-10-23T05:19:06.000Z
-modified: 2026-11-02T14:20:09.107Z
-published: 2026-11-02T14:20:09.107Z
+modified: 2026-11-02T18:04:41.042Z
+published: 2026-11-02T18:04:41.042Z
 aliases:
   - Stern School of Business
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Manhattan]]"
+image: Attachments/Places/NYU Stern School of Business.svg
 ---
 
 # NYU Stern School of Business

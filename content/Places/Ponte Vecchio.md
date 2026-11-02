@@ -2,8 +2,8 @@
 publish: true
 title: Ponte Vecchio
 created: 2026-10-20T01:25:53.000Z
-modified: 2026-11-02T14:20:36.424Z
-published: 2026-11-02T14:20:36.424Z
+modified: 2026-11-02T18:30:31.800Z
+published: 2026-11-02T18:30:31.800Z
 aliases: []
 books:
   - Neither Here Nor There
@@ -20,6 +20,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Florence]]"
+image: Attachments/Places/Ponte Vecchio.svg
 ---
 
 # Ponte Vecchio

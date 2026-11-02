@@ -2,8 +2,8 @@
 publish: true
 title: Odisha
 created: 2026-10-21T16:38:30.000Z
-modified: 2026-11-02T14:19:42.687Z
-published: 2026-11-02T14:19:42.687Z
+modified: 2026-11-02T18:04:41.206Z
+published: 2026-11-02T18:04:41.206Z
 aliases:
   - Orissa
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[India]]"
+image: Attachments/Places/Odisha.svg
 ---
 
 # Odisha

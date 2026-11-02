@@ -2,8 +2,8 @@
 publish: true
 title: Noatak River
 created: 2026-10-21T19:40:17.000Z
-modified: 2026-11-02T14:19:56.755Z
-published: 2026-11-02T14:19:56.755Z
+modified: 2026-11-02T17:59:22.727Z
+published: 2026-11-02T17:59:22.727Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Alaska]]"
+image: Attachments/Places/Noatak River.svg
 ---
 
 # Noatak River

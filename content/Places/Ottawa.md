@@ -2,8 +2,8 @@
 publish: true
 title: Ottawa
 created: 2026-10-21T04:46:10.000Z
-modified: 2026-11-02T14:19:33.498Z
-published: 2026-11-02T14:19:33.498Z
+modified: 2026-11-02T18:09:58.778Z
+published: 2026-11-02T18:09:58.778Z
 aliases: []
 books:
   - "[[Breakneck]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Ontario]]"
+image: Attachments/Places/Ottawa.svg
 ---
 
 # Ottawa

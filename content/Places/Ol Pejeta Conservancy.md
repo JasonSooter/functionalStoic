@@ -2,8 +2,8 @@
 publish: true
 title: Ol Pejeta Conservancy
 created: 2026-10-21T10:49:15.000Z
-modified: 2026-11-02T14:19:48.555Z
-published: 2026-11-02T14:19:48.555Z
+modified: 2026-11-02T18:04:41.254Z
+published: 2026-11-02T18:04:41.254Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Kenya]]"
+image: Attachments/Places/Ol Pejeta Conservancy.svg
 ---
 
 # Ol Pejeta Conservancy

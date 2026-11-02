@@ -2,8 +2,8 @@
 publish: true
 title: Piazza del Campo
 created: 2026-10-21T13:56:07.000Z
-modified: 2026-11-02T14:18:29.797Z
-published: 2026-11-02T14:18:29.797Z
+modified: 2026-11-02T18:25:15.891Z
+published: 2026-11-02T18:25:15.891Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Italy]]"
+image: Attachments/Places/Piazza del Campo.svg
 ---
 
 # Piazza del Campo

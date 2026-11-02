@@ -2,8 +2,8 @@
 publish: true
 title: Patowmack Canal
 created: 2026-10-23T07:47:51.000Z
-modified: 2026-11-02T14:20:22.107Z
-published: 2026-11-02T14:20:22.107Z
+modified: 2026-11-02T18:19:59.572Z
+published: 2026-11-02T18:19:59.572Z
 aliases:
   - Great Falls (Potomac)
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Virginia]]"
+image: Attachments/Places/Patowmack Canal.svg
 ---
 
 # Patowmack Canal

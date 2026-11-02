@@ -2,8 +2,8 @@
 publish: true
 title: Pennock Pass
 created: 2026-10-20T10:42:54.000Z
-modified: 2026-11-02T14:20:31.347Z
-published: 2026-11-02T14:20:31.347Z
+modified: 2026-11-02T18:19:59.696Z
+published: 2026-11-02T18:19:59.696Z
 aliases: []
 books:
   - It snowed a bit
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Colorado]]"
+image: Attachments/Places/Pennock Pass.svg
 ---
 
 # Pennock Pass

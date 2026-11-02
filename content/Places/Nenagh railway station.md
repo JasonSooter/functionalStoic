@@ -2,8 +2,8 @@
 publish: true
 title: Nenagh railway station
 created: 2026-10-23T11:14:40.000Z
-modified: 2026-11-02T14:18:00.496Z
-published: 2026-11-02T14:18:00.496Z
+modified: 2026-11-02T17:48:49.457Z
+published: 2026-11-02T17:48:49.457Z
 aliases:
   - Nenagh station
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[County Tipperary]]"
+image: Attachments/Places/Nenagh railway station.svg
 ---
 
 # Nenagh railway station

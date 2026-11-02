@@ -2,8 +2,8 @@
 publish: true
 title: Orlando
 created: 2026-10-22T10:26:39.000Z
-modified: 2026-11-02T14:19:59.955Z
-published: 2026-11-02T14:19:59.955Z
+modified: 2026-11-02T18:09:58.702Z
+published: 2026-11-02T18:09:58.702Z
 aliases:
   - Orlando, Florida
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Florida]]"
+image: Attachments/Places/Orlando.svg
 ---
 
 # Orlando

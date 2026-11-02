@@ -2,8 +2,8 @@
 publish: true
 title: Petrified Forest National Park
 created: 2026-10-21T13:55:46.000Z
-modified: 2026-11-02T14:20:02.647Z
-published: 2026-11-02T14:20:02.647Z
+modified: 2026-11-02T18:19:59.812Z
+published: 2026-11-02T18:19:59.812Z
 aliases:
   - Petrified Forest
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Arizona]]"
+image: Attachments/Places/Petrified Forest National Park.svg
 ---
 
 # Petrified Forest National Park

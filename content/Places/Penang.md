@@ -2,8 +2,8 @@
 publish: true
 title: Penang
 created: 2026-10-20T10:42:37.000Z
-modified: 2026-11-02T14:20:25.183Z
-published: 2026-11-02T14:20:25.183Z
+modified: 2026-11-02T18:19:59.680Z
+published: 2026-11-02T18:19:59.680Z
 aliases:
   - George Town
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Malaysia]]"
+image: Attachments/Places/Penang.svg
 ---
 
 # Penang

@@ -2,8 +2,8 @@
 publish: true
 title: Park Lane Hospital for the Dying (Brave New World)
 created: 2026-10-23T07:48:02.000Z
-modified: 2026-11-02T14:20:13.459Z
-published: 2026-11-02T14:20:13.459Z
+modified: 2026-11-02T18:19:59.496Z
+published: 2026-11-02T18:19:59.496Z
 aliases:
   - Park Lane Hospital for the Dying
 books:
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[London]]"
+image: Attachments/Places/Park Lane Hospital for the Dying (Brave New World).svg
 ---
 
 # Park Lane Hospital for the Dying (Brave New World)

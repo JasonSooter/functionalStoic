@@ -2,8 +2,8 @@
 publish: true
 title: Port of Rotterdam
 created: 2026-10-22T01:44:38.000Z
-modified: 2026-11-02T14:20:35.687Z
-published: 2026-11-02T14:20:35.687Z
+modified: 2026-11-02T18:30:31.908Z
+published: 2026-11-02T18:30:31.908Z
 aliases:
   - Maasvlakte 2
   - Rotterdam World Gateway
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Rotterdam]]"
+image: Attachments/Places/Port of Rotterdam.svg
 ---
 
 # Port of Rotterdam

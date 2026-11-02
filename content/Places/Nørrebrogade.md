@@ -2,8 +2,8 @@
 publish: true
 title: Nørrebrogade
 created: 2026-10-20T13:46:31.000Z
-modified: 2026-11-02T14:19:54.723Z
-published: 2026-11-02T14:19:54.723Z
+modified: 2026-11-02T18:04:41.074Z
+published: 2026-11-02T18:04:41.074Z
 aliases: []
 books:
   - "[[‘It’s the Best Feeling’ - How Copenhagen Gave Cyclists a Green Wave]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Copenhagen]]"
+image: Attachments/Places/Nørrebrogade.svg
 ---
 
 # Nørrebrogade

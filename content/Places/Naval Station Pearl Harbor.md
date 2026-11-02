@@ -2,8 +2,8 @@
 publish: true
 title: Naval Station Pearl Harbor
 created: 2026-10-22T22:36:58.000Z
-modified: 2026-11-02T14:19:30.058Z
-published: 2026-11-02T14:19:30.058Z
+modified: 2026-11-02T17:48:49.405Z
+published: 2026-11-02T17:48:49.405Z
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Hawaii]]"
+image: Attachments/Places/Naval Station Pearl Harbor.svg
 ---
 
 # Naval Station Pearl Harbor

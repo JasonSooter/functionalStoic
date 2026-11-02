@@ -2,8 +2,8 @@
 publish: true
 title: Old Pasadena
 created: 2026-10-21T13:55:55.000Z
-modified: 2026-11-02T14:19:46.427Z
-published: 2026-11-02T14:19:46.427Z
+modified: 2026-11-02T18:04:41.298Z
+published: 2026-11-02T18:04:41.298Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Old Pasadena.svg
 ---
 
 # Old Pasadena

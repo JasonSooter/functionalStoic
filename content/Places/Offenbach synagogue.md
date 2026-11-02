@@ -2,8 +2,8 @@
 publish: true
 title: Offenbach synagogue
 created: 2026-10-23T11:14:47.000Z
-modified: 2026-11-02T14:19:54.415Z
-published: 2026-11-02T14:19:54.415Z
+modified: 2026-11-02T18:04:41.222Z
+published: 2026-11-02T18:04:41.222Z
 aliases:
   - Capitol (Offenbach)
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Hesse]]"
+image: Attachments/Places/Offenbach synagogue.svg
 ---
 
 # Offenbach synagogue

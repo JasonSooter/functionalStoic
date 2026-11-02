@@ -2,8 +2,8 @@
 publish: true
 title: New Orleans
 created: 2026-10-20T02:11:53.000Z
-modified: 2026-11-02T14:19:46.167Z
-published: 2026-11-02T14:19:46.167Z
+modified: 2026-11-02T17:54:06.160Z
+published: 2026-11-02T17:54:06.160Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -28,6 +28,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/New Orleans.svg
 ---
 
 # New Orleans

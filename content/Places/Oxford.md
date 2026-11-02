@@ -2,8 +2,8 @@
 publish: true
 title: Oxford
 created: 2026-10-22T01:44:56.000Z
-modified: 2026-11-02T14:19:58.831Z
-published: 2026-11-02T14:19:58.831Z
+modified: 2026-11-02T18:09:58.842Z
+published: 2026-11-02T18:09:58.842Z
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Oxfordshire]]"
+image: Attachments/Places/Oxford.svg
 ---
 
 # Oxford

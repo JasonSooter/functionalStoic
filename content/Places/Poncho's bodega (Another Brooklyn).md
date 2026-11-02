@@ -2,8 +2,8 @@
 publish: true
 title: Poncho's bodega (Another Brooklyn)
 created: 2026-10-21T04:46:14.000Z
-modified: 2026-11-02T14:20:54.144Z
-published: 2026-11-02T14:20:54.144Z
+modified: 2026-11-02T18:30:31.768Z
+published: 2026-11-02T18:30:31.768Z
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Bushwick]]"
+image: Attachments/Places/Poncho's bodega (Another Brooklyn).svg
 ---
 
 # Poncho's bodega (Another Brooklyn)

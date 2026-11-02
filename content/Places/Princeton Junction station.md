@@ -2,8 +2,8 @@
 publish: true
 title: Princeton Junction station
 created: 2026-10-21T02:07:46.000Z
-modified: 2026-11-02T14:20:24.703Z
-published: 2026-11-02T14:20:24.703Z
+modified: 2026-11-02T18:35:42.550Z
+published: 2026-11-02T18:35:42.550Z
 aliases: []
 books:
   - It was worth getting drenched on a bike ride to this new Persian bakery in New
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Princeton Junction station.svg
 ---
 
 # Princeton Junction station

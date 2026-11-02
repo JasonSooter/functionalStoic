@@ -2,8 +2,8 @@
 publish: true
 title: New Belgium Brewing
 created: 2026-10-20T19:35:14.000Z
-modified: 2026-11-02T14:19:43.207Z
-published: 2026-11-02T14:19:43.207Z
+modified: 2026-11-02T17:54:06.068Z
+published: 2026-11-02T17:54:06.068Z
 aliases: []
 books:
   - MyCycle Donations Open, Bike Prom Recap, Tour de Farms Date Announce, and More!
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Fort Collins]]"
+image: Attachments/Places/New Belgium Brewing.svg
 ---
 
 # New Belgium Brewing

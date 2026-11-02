@@ -2,8 +2,8 @@
 publish: true
 title: Nissan (river)
 created: 2026-10-23T04:41:17.000Z
-modified: 2026-11-02T14:19:43.155Z
-published: 2026-11-02T14:19:43.155Z
+modified: 2026-11-02T17:59:22.691Z
+published: 2026-11-02T17:59:22.691Z
 aliases:
   - Nissan River
 books:
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Sweden]]"
+image: Attachments/Places/Nissan (river).svg
 ---
 
 # Nissan (river)

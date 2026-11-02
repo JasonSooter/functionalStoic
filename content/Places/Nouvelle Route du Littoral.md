@@ -2,8 +2,8 @@
 publish: true
 title: Nouvelle Route du Littoral
 created: 2026-10-20T13:42:02.000Z
-modified: 2026-11-02T14:18:08.528Z
-published: 2026-11-02T14:18:08.528Z
+modified: 2026-11-02T17:59:22.939Z
+published: 2026-11-02T17:59:22.939Z
 aliases:
   - NRL
 books:
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Réunion]]"
+image: Attachments/Places/Nouvelle Route du Littoral.svg
 ---
 
 # Nouvelle Route du Littoral

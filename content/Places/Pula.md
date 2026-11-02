@@ -2,8 +2,8 @@
 publish: true
 title: Pula
 created: 2026-10-20T07:53:00.000Z
-modified: 2026-11-02T14:20:26.523Z
-published: 2026-11-02T14:20:26.523Z
+modified: 2026-11-02T18:40:58.368Z
+published: 2026-11-02T18:40:58.368Z
 aliases:
   - Pola
 books:
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Croatia]]"
+image: Attachments/Places/Pula.svg
 ---
 
 # Pula

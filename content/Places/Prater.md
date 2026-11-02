@@ -2,8 +2,8 @@
 publish: true
 title: Prater
 created: 2026-10-20T01:28:12.000Z
-modified: 2026-11-02T14:20:12.903Z
-published: 2026-11-02T14:20:12.903Z
+modified: 2026-11-02T18:35:42.470Z
+published: 2026-11-02T18:35:42.470Z
 aliases:
   - Wiener Prater
   - Hauptallee
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Vienna]]"
+image: Attachments/Places/Prater.svg
 ---
 
 # Prater

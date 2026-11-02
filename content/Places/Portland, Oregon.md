@@ -2,8 +2,8 @@
 publish: true
 title: Portland, Oregon
 created: 2026-10-20T04:33:34.000Z
-modified: 2026-11-02T14:18:16.060Z
-published: 2026-11-02T14:18:16.060Z
+modified: 2026-11-02T18:30:31.956Z
+published: 2026-11-02T18:30:31.956Z
 aliases:
   - Portland
 books:
@@ -30,6 +30,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Oregon]]"
+image: Attachments/Places/Portland, Oregon.svg
 ---
 
 # Portland, Oregon

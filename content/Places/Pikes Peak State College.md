@@ -2,8 +2,8 @@
 publish: true
 title: Pikes Peak State College
 created: 2026-10-23T02:23:49.000Z
-modified: 2026-11-02T14:20:21.531Z
-published: 2026-11-02T14:20:21.531Z
+modified: 2026-11-02T18:25:15.987Z
+published: 2026-11-02T18:25:15.987Z
 aliases: []
 books:
   - Free college in Colorado? It’s covered if you’re interested in teaching, firefighting,
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Colorado Springs]]"
+image: Attachments/Places/Pikes Peak State College.svg
 ---
 
 # Pikes Peak State College

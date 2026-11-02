@@ -2,8 +2,8 @@
 publish: true
 title: Palo Alto
 created: 2026-10-21T13:56:22.000Z
-modified: 2026-11-02T14:20:22.811Z
-published: 2026-11-02T14:20:22.811Z
+modified: 2026-11-02T18:15:25.086Z
+published: 2026-11-02T18:15:25.086Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Palo Alto.svg
 ---
 
 # Palo Alto

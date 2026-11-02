@@ -2,8 +2,8 @@
 publish: true
 title: Philadelphia Museum of Art
 created: 2026-10-23T02:23:48.000Z
-modified: 2026-11-02T14:20:13.431Z
-published: 2026-11-02T14:20:13.431Z
+modified: 2026-11-02T18:25:15.831Z
+published: 2026-11-02T18:25:15.831Z
 aliases: []
 books:
   - Brandon Stosuy on “Cultivating an Art of Noticing” in the Age of Scrolling
@@ -21,6 +21,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Philadelphia]]"
+image: Attachments/Places/Philadelphia Museum of Art.svg
 ---
 
 # Philadelphia Museum of Art

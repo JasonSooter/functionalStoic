@@ -2,8 +2,8 @@
 publish: true
 title: Plaça de Sant Felip Neri
 created: 2026-10-22T23:16:58.000Z
-modified: 2026-11-02T14:20:20.675Z
-published: 2026-11-02T14:20:20.675Z
+modified: 2026-11-02T18:30:31.624Z
+published: 2026-11-02T18:30:31.624Z
 aliases: []
 books:
   - Why Cities and Walking Go Hand in Hand
@@ -23,6 +23,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Barcelona]]"
+image: Attachments/Places/Plaça de Sant Felip Neri.svg
 ---
 
 # Plaça de Sant Felip Neri

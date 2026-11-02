@@ -2,8 +2,8 @@
 publish: true
 title: Pwlldu Inn
 created: 2026-10-21T13:55:32.000Z
-modified: 2026-11-02T14:20:12.647Z
-published: 2026-11-02T14:20:12.647Z
+modified: 2026-11-02T18:40:41.499Z
+published: 2026-11-02T18:40:41.499Z
 aliases:
   - Pwll Du Inn
 books:
@@ -24,6 +24,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Wales]]"
+image: Attachments/Places/Pwlldu Inn.svg
 ---
 
 # Pwlldu Inn

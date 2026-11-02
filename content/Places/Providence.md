@@ -2,8 +2,8 @@
 publish: true
 title: Providence
 created: 2026-10-21T19:59:54.000Z
-modified: 2026-11-02T14:20:20.399Z
-published: 2026-11-02T14:20:20.399Z
+modified: 2026-11-02T18:35:42.610Z
+published: 2026-11-02T18:35:42.610Z
 aliases:
   - Providence, Rhode Island
 books:
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Rhode Island]]"
+image: Attachments/Places/Providence.svg
 ---
 
 # Providence

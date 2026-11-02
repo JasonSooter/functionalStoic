@@ -2,8 +2,8 @@
 publish: true
 title: Namthip Nursing Home (Pattaya)
 created: 2026-10-22T20:37:45.000Z
-modified: 2026-11-02T14:19:55.947Z
-published: 2026-11-02T14:19:55.947Z
+modified: 2026-11-02T17:48:49.177Z
+published: 2026-11-02T17:48:49.177Z
 aliases: []
 books:
   - Long-term Care Options for Early Retirees
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Thailand]]"
+image: Attachments/Places/Namthip Nursing Home (Pattaya).svg
 ---
 
 # Namthip Nursing Home (Pattaya)

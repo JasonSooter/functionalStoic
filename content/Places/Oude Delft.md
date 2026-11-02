@@ -2,8 +2,8 @@
 publish: true
 title: Oude Delft
 created: 2026-10-23T02:02:31.000Z
-modified: 2026-11-02T14:19:57.347Z
-published: 2026-11-02T14:19:57.347Z
+modified: 2026-11-02T18:09:58.794Z
+published: 2026-11-02T18:09:58.794Z
 aliases: []
 books:
   - How I Learned to Cycle Like a Dutchman – The New Yorker
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Delft]]"
+image: Attachments/Places/Oude Delft.svg
 ---
 
 # Oude Delft
