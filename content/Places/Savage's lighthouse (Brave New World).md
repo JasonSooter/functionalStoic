@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Puttenham lighthouse
 title: Savage's lighthouse (Brave New World)
 created: 2026-10-23T07:50:28.000Z
-modified: 2026-11-02T14:20:53.000Z
-published: 2026-11-02T14:20:53.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T21:10:48.321Z
+published: 2026-11-02T21:10:48.321Z
+aliases:
+  - Puttenham lighthouse
 books:
   - "[[Brave New World]]"
 categories:
@@ -17,13 +13,19 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 51.222,-0.664
-geo_note: "inferred: fictional lighthouse between Puttenham and Elstead; pinned at Puttenham"
+geo_note: "inferred: fictional lighthouse between Puttenham and Elstead; pinned at\
+  \ Puttenham"
 geo_source: Wikipedia (en) Puttenham, Surrey
 icon: book
 location:
   - 51.222
   - -0.664
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Surrey]]"
+image: Attachments/Places/Savage's lighthouse (Brave New World).svg
 ---
 
 # Savage's lighthouse (Brave New World)
@@ -31,13 +33,11 @@ within: "[[Surrey]]"
 The disused air-lighthouse on the hill between Puttenham and Elstead in Surrey where John the Savage ends _Brave New World_, pinned at Puttenham.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | setting | The Savage's hermitage: penance, sightseers by helicopter, and the final scene. |
 
 ## Brave New World — Aldous Huxley (1932)
-
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvat4end5fpjkxbygkeq68)
 
 > The Savage had chosen as his hermitage the old lighthouse which stood on the crest of the hill between Puttenham and Elstead.

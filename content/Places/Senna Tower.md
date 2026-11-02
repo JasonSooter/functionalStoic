@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Senna Tower, Balneário Camboriú
 title: Senna Tower
 created: 2026-10-20T22:52:53.000Z
-modified: 2026-11-02T14:21:15.000Z
-published: 2026-11-02T14:21:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T21:15:26.049Z
+published: 2026-11-02T21:15:26.049Z
+aliases:
+  - Senna Tower, Balneário Camboriú
 books:
   - Brazil is Taking America’s Skyscraper Crown
 categories:
@@ -22,7 +18,12 @@ icon: video
 location:
   - -27.0048
   - -48.6168
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Balneário Camboriú]]"
+image: Attachments/Places/Senna Tower.svg
 ---
 
 # Senna Tower
@@ -30,13 +31,11 @@ within: "[[Balneário Camboriú]]"
 Proposed 550 m supertall residential tower in [[Balneário Camboriú]], Brazil, and the central subject of The B1M's video on Brazil's skyscraper race.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brazil Is Taking America’s Skyscraper Crown\|Brazil is Taking America’s Skyscraper Crown]] | The B1M | subject | Planned 550 m reinforced-concrete residential tower honouring Ayrton Senna, on a tiny waterfront plot. |
 
 ## Brazil is Taking America’s Skyscraper Crown — The B1M (2025)
-
 Source: [Original](https://www.youtube.com/watch?v=xpwGBR19D2U) · [Readwise highlight](https://read.readwise.io/read/01m5dqttt7t62z2xj6y46ybzhn)
 
 > Senna Tower is a prime example - just look at how small the plot of land is for what will be a 550 metre tall tower. Developers are trying to get as much floor space as possible onto this tiny site.

@@ -2,12 +2,8 @@
 publish: true
 title: Sonning
 created: 2026-10-22T01:44:54.000Z
-modified: 2026-11-02T14:21:31.000Z
-published: 2026-11-02T14:21:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T21:25:15.072Z
+published: 2026-11-02T21:25:15.072Z
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 51.473
   - -0.911
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berkshire]]"
+image: Attachments/Places/Sonning.svg
 ---
 
 # Sonning
@@ -28,13 +29,11 @@ within: "[[Berkshire]]"
 Village on the Thames below Reading in [[Berkshire]]. Three Men in a Boat calls it 'the most fairy-like little nook on the whole river'.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | setting | A walk round rose-covered cottages; the narrator recommends the Bull behind the church. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
-
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkyja5qyzkgk376488xncm)
 
 > We got out at Sonning, and went for a walk round the village. It is the most fairy-like little nook on the whole river.

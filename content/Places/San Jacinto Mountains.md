@@ -2,12 +2,8 @@
 publish: true
 title: San Jacinto Mountains
 created: 2026-10-21T04:44:52.000Z
-modified: 2026-11-02T14:21:21.000Z
-published: 2026-11-02T14:21:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T21:01:59.413Z
+published: 2026-11-02T21:01:59.413Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -21,7 +17,12 @@ icon: book
 location:
   - 33.8144
   - -116.6792
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/San Jacinto Mountains.svg
 ---
 
 # San Jacinto Mountains
@@ -29,13 +30,11 @@ within: "[[California]]"
 Mountain range in Palm Springs, [[California]], whose pull on Jenny Odell in How to Do Nothing prompts her reflection on animate landscapes.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | subject | The mountains rise straight up, purple at sunset, and she cannot stop wanting to look at them. |
 
 ## How to Do Nothing — Jenny Odell (2019)
-
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebv9rbynnan65p66txzefj)
 
 > where I was privately tortured by the allure of the San Jacinto Mountains.

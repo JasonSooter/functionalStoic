@@ -2,12 +2,8 @@
 publish: true
 title: Siilitie school (Helsinki)
 created: 2026-10-23T02:26:32.000Z
-modified: 2026-11-02T14:21:37.000Z
-published: 2026-11-02T14:21:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T21:24:33.332Z
+published: 2026-11-02T21:24:33.332Z
 aliases: []
 books:
   - Why Are Finland’s Schools Successful?
@@ -15,13 +11,19 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 60.2086,25.039
-geo_note: approximate (Siilitie street, Länsi-Herttoniemi; specific school unidentified; Wikipedia en Siilitie metro station is 60.2053,25.0436)
+geo_note: approximate (Siilitie street, Länsi-Herttoniemi; specific school unidentified;
+  Wikipedia en Siilitie metro station is 60.2053,25.0436)
 geo_source: OSM way 112892718
 icon: newspaper
 location:
   - 60.2086
   - 25.039
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Helsinki]]"
+image: Attachments/Places/Siilitie school (Helsinki).svg
 ---
 
 # Siilitie school (Helsinki)
@@ -29,13 +31,11 @@ within: "[[Helsinki]]"
 School in the low-income Siilitie neighbourhood of east Helsinki. A Smithsonian piece on Finnish schools visits it as a second test.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Are Finland’s Schools Successful? | LynNell Hancock | setting | The author visits this school in a low-income Helsinki neighborhood, where half the students have learning disabilities, to test whether… |
 
 ## Why Are Finland’s Schools Successful? — LynNell Hancock (2011)
-
 Source: [Original](https://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/) · [Readwise highlight](https://read.readwise.io/read/01m5k8y94g426d9h76cbpp7b9e)
 
 > To get a second sampling, I headed east from Espoo to Helsinki and a rough neighborhood called Siilitie, Finnish for “Hedgehog Road” and known for having the oldest low-income housing project in Finland.

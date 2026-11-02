@@ -2,12 +2,8 @@
 publish: true
 title: Saitama
 created: 2026-10-23T01:32:47.000Z
-modified: 2026-11-02T14:21:15.000Z
-published: 2026-11-02T14:21:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T21:24:50.588Z
+published: 2026-11-02T21:24:50.588Z
 aliases: []
 books:
   - The chilling stories behind Japan’s ‘evaporating people’
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 35.8614
   - 139.6456
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Japan]]"
+image: Attachments/Places/Saitama.svg
 ---
 
 # Saitama
@@ -28,13 +29,11 @@ within: "[[Japan]]"
 City just north of Tokyo. A New York Post piece on Japan's 'evaporated people' opens with a couple who lived there before they vanished.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The chilling stories behind Japan’s ‘evaporating people’ | Maureen Callahan | setting | The opening anecdote places martial arts master Ichiro and his wife in prosperous Saitama, where they owned a house and took a loan for… |
 
 ## The chilling stories behind Japan’s ‘evaporating people’ — Maureen Callahan (2016)
-
 Source: [Original](https://nypost.com/2016/12/10/the-chilling-stories-behind-japans-evaporating-people/) · [Readwise highlight](https://read.readwise.io/read/01m5k5sfscwkmq3rvq0k8e2rqh)
 
 > He and his wife, Tomoko, lived among the cherry blossoms in Saitama, a prosperous city just outside of Tokyo.

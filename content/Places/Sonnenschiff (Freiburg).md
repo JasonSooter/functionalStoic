@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Sonnenschiff
 title: Sonnenschiff (Freiburg)
 created: 2026-10-31T11:13:00.000Z
-modified: 2026-11-02T14:19:17.000Z
-published: 2026-11-02T14:19:17.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T21:25:15.056Z
+published: 2026-11-02T21:25:15.056Z
+aliases:
+  - Sonnenschiff
 books:
   - LastenVelo 13 – EWS
 categories:
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 47.9754
   - 7.829
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vauban]]"
+image: Attachments/Places/Sonnenschiff (Freiburg).svg
 ---
 
 # Sonnenschiff (Freiburg)
@@ -29,13 +30,11 @@ within: "[[Vauban]]"
 Solar office and shop building on Merzhauser Straße in [[Vauban]], Freiburg. A LastenVelo Freiburg post names it as the new station of cargo bike no. 13, hosted by the architecture office of Rolf Disch.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | LastenVelo 13 – EWS | Robert | setting | Cargo bike no. 13, funded by the Elektrizitätswerke Schönau, is stationed at Rolf Disch's office in the Sonnenschiff. |
 
 ## LastenVelo 13 – EWS — Robert
-
 Source: [Original](https://www.lastenvelofreiburg.de/lastenvelo13/) · [Readwise highlight](https://read.readwise.io/read/01m68tjzz6fjp95ymbxmzr9pvw)
 
 > Dank dem Architekturbüro Rolf Disch im Sonnenschiff in der Vauban steht nun dort

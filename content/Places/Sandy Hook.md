@@ -2,12 +2,8 @@
 publish: true
 title: Sandy Hook
 created: 2026-10-23T07:46:24.000Z
-modified: 2026-11-02T14:20:42.000Z
-published: 2026-11-02T14:20:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T21:01:59.597Z
+published: 2026-11-02T21:01:59.597Z
 aliases: []
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 40.453
   - -73.995
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Sandy Hook.svg
 ---
 
 # Sandy Hook
@@ -28,13 +29,11 @@ within: "[[New Jersey]]"
 Barrier spit at the mouth of New York Harbor in New Jersey. In _Wedding of the Waters_ it is where De Witt Clinton pours Lake Erie water into the Atlantic.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | turning point | The Wedding of the Waters: Clinton empties a keg of Lake Erie water into the Atlantic, 4 November 1825. |
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
-
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kve0ajzaqbhxpg6hf86sq6)
 
 > and then, in calm seas and brilliant sunshine, sailed on out to Sandy Hook, at the very southern end of New York harbor.
