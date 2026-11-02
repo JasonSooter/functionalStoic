@@ -2,8 +2,8 @@
 publish: true
 title: Paris
 created: 2026-07-17T14:36:02.899Z
-modified: 2026-11-01T20:26:45.726Z
-published: 2026-11-01T20:26:45.726Z
+modified: 2026-11-01T23:30:23.666Z
+published: 2026-11-01T23:30:23.666Z
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
@@ -25,6 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 reading_icon: book
+image: Attachments/Places/Paris.svg
 ---
 
 # Paris

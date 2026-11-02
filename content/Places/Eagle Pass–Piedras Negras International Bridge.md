@@ -2,12 +2,8 @@
 publish: true
 title: Eagle Pass–Piedras Negras International Bridge
 created: 2026-10-23T02:24:37.000Z
-modified: 2026-10-23T02:24:37.000Z
-published: 2026-10-23T02:24:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-02T00:01:05.232Z
+published: 2026-11-02T00:01:05.232Z
 aliases: []
 books:
   - Like Water for Chocolate
@@ -20,7 +16,12 @@ icon: book
 location:
   - 28.7056
   - -100.5119
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Piedras Negras]]"
+image: Attachments/Places/Eagle Pass–Piedras Negras International Bridge.svg
 ---
 
 # Eagle Pass–Piedras Negras International Bridge
@@ -28,13 +29,11 @@ within: "[[Piedras Negras]]"
 Bridge over the Rio Grande between Eagle Pass, Texas, and Piedras Negras, Coahuila. In Like Water for Chocolate Chencha paces it rehearsing a lie for Mama Elena.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Like Water for Chocolate | Laura Esquivel | journey waypoint | After Tita refuses to return to the ranch, Chencha walks back and forth over the international bridge between Eagle Pass and Piedras… |
 
 ## Like Water for Chocolate — Laura Esquivel (1989)
-
 Source: [Original](https://openlibrary.org/works/OL953162W) · [Readwise highlight](https://read.readwise.io/read/01m5k8z2jpcdc421bccgwfszkr)
 
 > Chencha crossed the bridge between Eagle Pass and Piedras Negras for the hundredth time, without even realizing it, as she tried to think of the best way to break the news to Mama Elena.

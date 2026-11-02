@@ -2,8 +2,8 @@
 publish: true
 title: Sweden
 created: 2024-10-05T01:15:15.417Z
-modified: 2026-11-01T20:26:48.186Z
-published: 2026-11-01T20:26:48.186Z
+modified: 2026-11-02T00:01:38.628Z
+published: 2026-11-02T00:01:38.628Z
 aliases:
   - Malmo
   - Stockholm
@@ -39,6 +39,7 @@ tags:
   - place/literary
   - source/ai/claude
 reading_icon: newspaper
+image: Attachments/Places/Sweden.svg
 ---
 
 # Sweden

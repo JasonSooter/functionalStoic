@@ -2,8 +2,8 @@
 publish: true
 title: Netherlands
 created: 2026-09-26T05:01:00.000Z
-modified: 2026-11-01T20:26:47.086Z
-published: 2026-11-01T20:26:47.086Z
+modified: 2026-11-02T00:01:38.644Z
+published: 2026-11-02T00:01:38.644Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
@@ -38,6 +38,7 @@ tags:
   - source/ai/claude
   - place/literary
 reading_icon: book
+image: Attachments/Places/Netherlands.svg
 ---
 
 # Netherlands

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Cadiz
 title: Cádiz
 created: 2026-10-23T11:13:09.000Z
-modified: 2026-10-23T11:13:09.000Z
-published: 2026-10-23T11:13:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T23:42:15.384Z
+published: 2026-11-01T23:42:15.384Z
+aliases:
+  - Cadiz
 books:
   - "[[Candide]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 36.535
   - -6.2975
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Spain]]"
+image: Attachments/Places/Cádiz.svg
 ---
 
 # Cádiz
@@ -29,13 +30,11 @@ within: "[[Spain]]"
 Cádiz is an ancient port city on the Atlantic coast of Andalusia, south-western Spain. In _Candide_ it is where the fugitives from Lisbon join a fleet sailing to fight the Jesuits of Paraguay.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | journey waypoint | Fleeing Lisbon, Candide drills the Spanish troops, is made a captain and sails from Cadiz for Paraguay with Cunegonde and the old woman |
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m759ftdgcdfb3hs7h9nkem)
 
 > Candide, Cunegonde, and the old woman, having passed through Lucena, Chillas, and Lebrixa, arrived at length at Cadiz. A fleet was there getting ready, and troops assembling

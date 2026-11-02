@@ -2,8 +2,8 @@
 publish: true
 title: Finland
 created: 2024-01-04T20:21:47.000Z
-modified: 2026-11-01T20:26:49.758Z
-published: 2026-11-01T20:26:49.758Z
+modified: 2026-11-02T00:01:38.612Z
+published: 2026-11-02T00:01:38.612Z
 aliases:
   - Helsinki, Finland
   - Helsinki
@@ -39,6 +39,7 @@ tags:
   - place/literary
   - source/ai/claude
 reading_icon: newspaper
+image: Attachments/Places/Finland.svg
 ---
 
 # Finland

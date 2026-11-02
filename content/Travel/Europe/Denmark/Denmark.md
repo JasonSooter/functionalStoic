@@ -2,8 +2,8 @@
 publish: true
 title: Denmark
 created: 2024-10-05T01:12:37.477Z
-modified: 2026-11-01T20:26:51.869Z
-published: 2026-11-01T20:26:51.869Z
+modified: 2026-11-02T00:01:38.592Z
+published: 2026-11-02T00:01:38.592Z
 aliases:
 books:
   - Will mushrooms go mainstream in Denmark?
@@ -32,6 +32,7 @@ tags:
   - place/literary
   - source/ai/claude
 reading_icon: newspaper
+image: Attachments/Places/Denmark.svg
 ---
 
 # Denmark

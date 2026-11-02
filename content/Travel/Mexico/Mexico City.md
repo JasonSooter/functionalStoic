@@ -2,8 +2,8 @@
 publish: true
 title: Mexico City
 created: 2024-12-22T21:32:36.142Z
-modified: 2026-11-01T20:26:53.541Z
-published: 2026-11-01T20:26:53.541Z
+modified: 2026-11-01T23:30:23.654Z
+published: 2026-11-01T23:30:23.654Z
 books:
   - Retiring Abroad – Could We Do It?
   - Eating Our Way Across Mexico
@@ -25,6 +25,7 @@ tags:
   - source/ai/claude
 within: "[[Mexico]]"
 reading_icon: newspaper
+image: Attachments/Places/Mexico City.svg
 ---
 
 # [[Mexico City]]

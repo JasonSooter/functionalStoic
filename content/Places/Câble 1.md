@@ -2,12 +2,8 @@
 publish: true
 title: Câble 1
 created: 2026-10-21T02:06:34.000Z
-modified: 2026-10-21T13:28:39.000Z
-published: 2026-10-21T13:28:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-01T23:42:15.400Z
+published: 2026-11-01T23:42:15.400Z
 aliases: []
 books:
   - The Surprising Success of Gondola Transit Systems
@@ -15,13 +11,19 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 48.7689,2.4647
-geo_note: approximate (Pointe du Lac station, Metro Line 8 terminus / cable car's start)
+geo_note: approximate (Pointe du Lac station, Metro Line 8 terminus / cable car's
+  start)
 geo_source: Wikipedia (en)
 icon: video
 location:
   - 48.7689
   - 2.4647
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Paris]]"
+image: Attachments/Places/Câble 1.svg
 ---
 
 # Câble 1
@@ -29,14 +31,12 @@ within: "[[Paris]]"
 Planned cable car in [[Paris|Paris]], France, extending Metro Line 8 over a highway and rail yard; it features in Wendover's video on gondola transit.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Surprising Success of Gondola Transit Systems]] | Wendover Productions | backdrop | The forthcoming cable car extends Metro Line 8 over a highway and rail yard, with projected ridership of 11,000 a day. |
 
 ## The Surprising Success of Gondola Transit Systems — Wendover Productions (2025)
-
-Source: [Original](https://youtube.com/watch?v=a5126u88E7E\&si=1gWTN5lb3hW199bC) · [Readwise highlight](https://read.readwise.io/read/01m5e312aq3ak6731qgyq458z8)
+Source: [Original](https://youtube.com/watch?v=a5126u88E7E&si=1gWTN5lb3hW199bC) · [Readwise highlight](https://read.readwise.io/read/01m5e312aq3ak6731qgyq458z8)
 
 > Paris Metro Line 8
 

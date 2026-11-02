@@ -2,8 +2,8 @@
 publish: true
 title: Lisbon
 created: 2026-07-17T14:36:22.287Z
-modified: 2026-11-01T20:26:44.430Z
-published: 2026-11-01T20:26:44.430Z
+modified: 2026-11-01T23:30:23.682Z
+published: 2026-11-01T23:30:23.682Z
 books:
   - "[[Candide]]"
   - Robinson Crusoe
@@ -22,6 +22,7 @@ tags:
   - source/ai/claude
   - place/literary
 reading_icon: book
+image: Attachments/Places/Lisbon.svg
 ---
 
 # Lisbon
