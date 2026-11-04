@@ -2,12 +2,8 @@
 publish: true
 title: Sulphur Bay
 created: 2026-10-22T13:40:48.000Z
-modified: 2026-11-02T14:22:12.000Z
-published: 2026-11-02T14:22:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-04T01:23:29.705Z
+published: 2026-11-04T01:23:29.705Z
 aliases: []
 books:
   - Life on Air
@@ -20,7 +16,12 @@ icon: book
 location:
   - -19.511
   - 169.465
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tanna]]"
+image: Attachments/Places/Sulphur Bay.svg
 ---
 
 # Sulphur Bay
@@ -28,13 +29,11 @@ within: "[[Tanna]]"
 Village on the east coast of Tanna, Vanuatu, centre of the John Frum movement; in _Life on Air_ Attenborough meets the prophet Nambas there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | turning point | Attenborough meets the prophet Nambas there. |
 
 ## Life on Air — David Attenborough (2002)
-
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1pzn6f1fe8qgmn8qsva6)
 
 > The Friday after we arrived, we went down to the village of Sulphur Bay, the centre of the cult and the home of Nambas, its current leader and prophet and the man who had led John Frum's Army when it had made its march round the island.

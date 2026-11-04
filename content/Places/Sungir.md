@@ -2,12 +2,8 @@
 publish: true
 title: Sungir
 created: 2026-10-23T11:15:59.000Z
-modified: 2026-11-02T14:19:33.000Z
-published: 2026-11-02T14:19:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-04T01:23:29.781Z
+published: 2026-11-04T01:23:29.781Z
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 56.1761
   - 40.5025
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Russia]]"
+image: Attachments/Places/Sungir.svg
 ---
 
 # Sungir
@@ -28,7 +29,6 @@ within: "[[Russia]]"
 Sungir is an Upper Palaeolithic site near Vladimir in western Russia. _Sapiens_ uses its richly decorated graves as evidence of social hierarchy among ancient foragers.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | 30,000-year-old graves heaped with ivory beads, read as proof of hierarchy among mammoth hunters. |
