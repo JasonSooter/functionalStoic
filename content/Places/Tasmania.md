@@ -2,12 +2,8 @@
 publish: true
 title: Tasmania
 created: 2026-10-23T11:16:16.000Z
-modified: 2026-11-02T14:22:07.000Z
-published: 2026-11-02T14:22:07.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-05T01:22:25.421Z
+published: 2026-11-05T01:22:25.421Z
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -21,7 +17,12 @@ icon: book
 location:
   - -42
   - 147
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Australia]]"
+image: Attachments/Places/Tasmania.svg
 ---
 
 # Tasmania
@@ -29,13 +30,11 @@ within: "[[Australia]]"
 Tasmania is an island state of Australia south of the mainland. _Sapiens_ uses it first as a world sealed off for 12,000 years and then as the scene of the destruction of its native people.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Island cut off for 12,000 years whose native people were then destroyed within a century of Cook. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m758gr1cfrbgmc892bw9ng)
 
 > Consider Tasmania, a medium-sized island south of Australia.

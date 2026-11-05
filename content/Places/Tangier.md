@@ -2,12 +2,8 @@
 publish: true
 title: Tangier
 created: 2026-10-22T13:40:10.000Z
-modified: 2026-11-02T14:22:17.000Z
-published: 2026-11-02T14:22:17.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-05T01:22:58.285Z
+published: 2026-11-05T01:22:58.285Z
 aliases: []
 books:
   - Life on Air
@@ -20,7 +16,12 @@ icon: book
 location:
   - 35.7767
   - -5.8039
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Morocco]]"
+image: Attachments/Places/Tangier.svg
 ---
 
 # Tangier
@@ -28,13 +29,11 @@ within: "[[Morocco]]"
 Port city on the Strait of Gibraltar in northern Morocco; Attenborough's first night outside Europe in _Life on Air_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | Attenborough's first night outside Europe. |
 
 ## Life on Air — David Attenborough (2002)
-
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1q9by9eqq78thv0axps1)
 
 > The first night we spent in Tangier. I had not been out of Europe before and I wandered wide-eyed with the other three through the casbah.
