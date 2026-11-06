@@ -2,12 +2,8 @@
 publish: true
 title: Tianyuan Cave
 created: 2026-10-21T10:49:33.000Z
-modified: 2026-11-02T14:21:42.000Z
-published: 2026-11-02T14:21:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T08:21:46.165Z
+published: 2026-11-06T08:21:46.165Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 39.6578
   - 115.8714
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Beijing]]"
+image: Attachments/Places/Tianyuan Cave.svg
 ---
 
 # Tianyuan Cave
@@ -28,13 +29,11 @@ within: "[[Beijing]]"
 Cave near Zhoukoudian, south-west of Beijing, where bones of an early modern human were found. Not the End of the World uses it in the history of fishing.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | subject | Bones of 'Tianyuan man' show early humans ate freshwater fish 40,000 years ago. |
 
 ## Not the End of the World — Hannah Ritchie (2024)
-
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5f0qy7e6f50wcg68s9mwzhq)
 
 > Bone fragments of the ‘Tianyuan man’ were found in the Tianyuan Cave near Beijing, and suggest that he was alive around 40,000 years ago.

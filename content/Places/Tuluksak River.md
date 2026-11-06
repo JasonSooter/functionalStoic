@@ -2,12 +2,8 @@
 publish: true
 title: Tuluksak River
 created: 2026-10-21T19:24:01.000Z
-modified: 2026-11-02T14:22:20.000Z
-published: 2026-11-02T14:22:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T08:26:12.751Z
+published: 2026-11-06T08:26:12.751Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -21,7 +17,12 @@ icon: book
 location:
   - 60.9688
   - -160.3899
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Alaska]]"
+image: Attachments/Places/Tuluksak River.svg
 ---
 
 # Tuluksak River
@@ -29,13 +30,11 @@ within: "[[Alaska]]"
 River in the Yukon–Kuskokwim delta of southwest Alaska. In The Comfort Crisis (Michael Easter) it is where Donnie Vincent spent months alone counting salmon.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | backdrop | Donnie Vincent's months alone counting salmon for the Fish and Wildlife Service. |
 
 ## The Comfort Crisis — Michael Easter (2021)
-
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fyd6nad99mqdt8z4aywq6j)
 
 > He’d spend six months at a time surveying salmon counts on Alaska’s Tuluksak River.

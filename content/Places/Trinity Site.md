@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Trinity test site
 title: Trinity Site
 created: 2026-10-23T04:25:11.000Z
-modified: 2026-11-02T14:22:30.000Z
-published: 2026-11-02T14:22:30.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T08:26:12.603Z
+published: 2026-11-06T08:26:12.603Z
+aliases:
+  - Trinity test site
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
   - "Sapiens: A Brief History of Humankind"
@@ -22,7 +18,12 @@ icon: book
 location:
   - 33.6773
   - -106.4754
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Mexico]]"
+image: Attachments/Places/Trinity Site.svg
 ---
 
 # Trinity Site
@@ -37,7 +38,6 @@ Site in the Jornada del Muerto desert, New Mexico, of the first nuclear explosio
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | First atomic test, 16 July 1945: for Harari the defining moment of the past 500 years. |
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
-
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfq98v07safxd64z0tetrv)
 
 > I flew back, and I arrived just when the buses were leaving, so I went straight out to the site and we waited out there, twenty miles away.
@@ -47,7 +47,6 @@ Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlig
 - **Why it matters:** It is the climax of the Los Alamos chapters and the moment the work becomes real.
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m765rfe0v361a3tb0e03y4)
 
 > But the single most remarkable and defining moment of the past 500 years came at 05:29:45 on 16 July 1945. At that precise second, American scientists detonated the first atomic bomb at Alamogordo, New Mexico.

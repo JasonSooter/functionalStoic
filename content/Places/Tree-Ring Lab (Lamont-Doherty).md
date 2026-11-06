@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Tree-Ring Lab (Lamont-Doherty)
+created: 2026-10-20T22:52:08.000Z
+modified: 2026-11-06T08:26:12.567Z
+published: 2026-11-06T08:26:12.567Z
 aliases:
   - Lamont-Doherty Earth Observatory
   - Lamont-Doherty Tree Ring Laboratory
-title: Tree-Ring Lab (Lamont-Doherty)
-created: 2026-10-20T22:52:08.000Z
-modified: 2026-11-02T14:22:01.000Z
-published: 2026-11-02T14:22:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - The vanishing groves
 categories:
@@ -23,7 +19,12 @@ icon: newspaper
 location:
   - 41.004
   - -73.907
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
+image: Attachments/Places/Tree-Ring Lab (Lamont-Doherty).svg
 ---
 
 # Tree-Ring Lab (Lamont-Doherty)
@@ -31,13 +32,11 @@ within: "[[New York State]]"
 Columbia University's tree-ring laboratory at the Lamont-Doherty Earth Observatory in Palisades, [[New York State]]. It is where Ross Andersen interviews Ed Cook in an essay on ancient trees and what their rings reveal.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The vanishing groves | Ross Andersen | setting | In April the author interviews Ed Cook at the Columbia tree-ring lab, which Cook helped found in 1975. |
 
 ## The vanishing groves — Ross Andersen (2013)
-
 Source: [Original](https://aeon.co/essays/trees-of-deep-time-are-a-portal-to-the-past-and-the-future) · [Readwise highlight](https://read.readwise.io/read/01m5dqte0c6bzfxeknqykpdaq5)
 
 > This April, I visited Ed Cook, a dendrochronologist at Columbia University’s Tree-Ring Lab, just north of Manhattan.
