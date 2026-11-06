@@ -2,12 +2,8 @@
 publish: true
 title: Via dei Cerchi
 created: 2026-10-21T05:07:19.000Z
-modified: 2026-11-02T14:22:46.000Z
-published: 2026-11-02T14:22:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T14:27:36.411Z
+published: 2026-11-06T14:27:36.411Z
 aliases: []
 books:
   - The Lost Towers of the Guelph-Ghibelline Wars
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 43.7712
   - 11.2561
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Florence]]"
+image: Attachments/Places/Via dei Cerchi.svg
 ---
 
 # Via dei Cerchi
@@ -29,13 +30,11 @@ within: "[[Florence]]"
 Street and medieval tower stub in [[Florence]], Italy, which appears in exurbe's article on the lost towers of the Guelph-Ghibelline wars as the tower where the author lived on the top floor for a year.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Lost Towers of the Guelph-Ghibelline Wars | exurbe | setting | The author's favorite lopped-off tower stub; she lived on its top floor for a year as a grad student, up 111 steps. |
 
 ## The Lost Towers of the Guelph-Ghibelline Wars — exurbe (2025)
-
 Source: [Original](https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/) · [Readwise highlight](https://read.readwise.io/read/01m5edeegshv29k1rx4rc55rkc)
 
 > My favorite tower stub is this one, in Via dei Cerchi. I lived on the top floor for a year as a grad student, up 111 steps!

@@ -2,12 +2,8 @@
 publish: true
 title: Villa of Pliny at Laurentum
 created: 2026-10-23T02:23:54.000Z
-modified: 2026-11-02T14:23:14.000Z
-published: 2026-11-02T14:23:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T14:27:47.631Z
+published: 2026-11-06T14:27:47.631Z
 aliases: []
 books:
   - Pliny the Younger on Happy and Honorable Seclusion
@@ -15,13 +11,19 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 41.7111,12.3469
-geo_note: approximate (ancient city of Laurentum, near Tor Paterno; Pliny's villa site itself is not precisely located)
+geo_note: approximate (ancient city of Laurentum, near Tor Paterno; Pliny's villa
+  site itself is not precisely located)
 geo_source: Wikipedia (en) Laurentum; Wikidata Q1718159 agrees
 icon: newspaper
 location:
   - 41.7111
   - 12.3469
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rome]]"
+image: Attachments/Places/Villa of Pliny at Laurentum.svg
 ---
 
 # Villa of Pliny at Laurentum
@@ -29,13 +31,11 @@ within: "[[Rome]]"
 Site of Pliny the Younger's seaside villa near ancient Laurentum, southwest of Rome. Cal Newport uses Pliny's letter about it to praise seclusion.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Pliny the Younger on Happy and Honorable Seclusion | calnewport.com | setting | Pliny's letter praises Laurentum as a place free of gossip and distraction where he reads, writes and exercises. |
 
 ## Pliny the Younger on Happy and Honorable Seclusion — calnewport.com (2023)
-
 Source: [Original](https://www.calnewport.com/blog/2023/02/12/pliny-the-younger-on-happy-and-honorable-seclusion/) · [Readwise highlight](https://read.readwise.io/read/01m5k8vwfb54ssrq70h4knhx71)
 
 > It turns out that Pliny maintained a rambling villa on the sea, southwest of Rome.

@@ -1,17 +1,13 @@
 ---
 publish: true
+title: Vercors
+created: 2026-10-20T19:36:11.000Z
+modified: 2026-11-06T14:23:13.419Z
+published: 2026-11-06T14:23:13.419Z
 aliases:
   - Vercors Massif
   - Forêt d'Herbouilly
   - Autrans
-title: Vercors
-created: 2026-10-20T19:36:11.000Z
-modified: 2026-11-02T14:22:39.000Z
-published: 2026-11-02T14:22:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - Vercors
   - La Forêt d'Herbouilly
@@ -26,7 +22,12 @@ icon: newspaper
 location:
   - 44.967
   - 5.417
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[France]]"
+image: Attachments/Places/Vercors.svg
 ---
 
 # Vercors
@@ -34,7 +35,6 @@ within: "[[France]]"
 Limestone massif of the French Prealps between Grenoble and Valence, [[France]], which appears in three Mostly Bikes x Me posts about a few days of riding its gorges and quiet roads from a base at Autrans.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Vercors | Mostly Bikes x Me | subject | A few days of riding the gorges from a base at Autrans. |
@@ -46,7 +46,6 @@ Limestone massif of the French Prealps between Grenoble and Valence, [[France]],
 - [[La Molière (Vercors post)]]
 
 ## Vercors — Mostly Bikes x Me (2025)
-
 Source: [Original](https://funkadelic.net/pages/15345310494.html) · [Readwise highlight](https://read.readwise.io/read/01m5dcket8dxawa6pw19a402tj)
 
 > rode up to Autrans for a few days in the gorges of Vercors
@@ -56,7 +55,6 @@ Source: [Original](https://funkadelic.net/pages/15345310494.html) · [Readwise h
 - **Why it matters:** The destination of the trip; the text itself says almost nothing more.
 
 ## La Forêt d'Herbouilly — Mostly Bikes x Me (2025)
-
 Source: [Original](https://funkadelic.net/pages/15356864186.html) · [Readwise highlight](https://read.readwise.io/read/01m5dckg7a3x65fmwc8j5vtbre)
 
 > Up through the forest, hunting the quieter roads in Vercors.
@@ -66,7 +64,6 @@ Source: [Original](https://funkadelic.net/pages/15356864186.html) · [Readwise h
 - **Why it matters:** The forest is the post's subject, but the text gives only this line, so it is recorded under the massif.
 
 ## La Molière — Mostly Bikes x Me (2025)
-
 Source: [Original](https://funkadelic.net/pages/15364972296.html) · [Readwise highlight](https://read.readwise.io/read/01m5dckd106wkj5mt7q7n3x233)
 
 > Last day in Vercors. Side quests to collect a few passes. The best part of this ride is the very quiet ~9mi logging road.

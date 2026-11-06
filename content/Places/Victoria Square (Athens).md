@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Plateia Viktorias
 title: Victoria Square (Athens)
 created: 2026-10-23T04:41:51.000Z
-modified: 2026-11-02T14:22:43.000Z
-published: 2026-11-02T14:22:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T14:27:36.447Z
+published: 2026-11-06T14:27:36.447Z
+aliases:
+  - Plateia Viktorias
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 37.9931
   - 23.7296
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Athens]]"
+image: Attachments/Places/Victoria Square (Athens).svg
 ---
 
 # Victoria Square (Athens)
@@ -29,13 +30,11 @@ within: "[[Athens]]"
 Square in central Athens, Greece, a well-known gathering point for refugees. In _The Beekeeper of Aleppo_ Nuri finds a Kurdish go-between there who leads him to a smuggler.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | setting | The refugee meeting point where Nuri meets Baram, who arranges a smuggler, and finds the Hope Centre for Afra. |
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
-
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgrh0nrmpz7rg3tbdj4pvj)
 
 > That was when a man advised them to head to Victoria Square, a well-known meeting point for refugees.

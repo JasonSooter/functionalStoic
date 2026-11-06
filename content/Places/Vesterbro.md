@@ -2,12 +2,8 @@
 publish: true
 title: Vesterbro
 created: 2026-10-23T02:24:17.000Z
-modified: 2026-11-02T14:20:05.000Z
-published: 2026-11-02T14:20:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T14:27:36.331Z
+published: 2026-11-06T14:27:36.331Z
 aliases: []
 books:
   - The Copenhagen neighbourhood guide
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 55.6672
   - 12.555
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Copenhagen]]"
+image: Attachments/Places/Vesterbro.svg
 ---
 
 # Vesterbro
@@ -28,13 +29,11 @@ within: "[[Copenhagen]]"
 District west of Copenhagen's centre, once the red-light quarter. VisitCopenhagen's neighbourhood guide presents it as the city's cool, authentic side.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Copenhagen neighbourhood guide | VisitCopenhagen | subject | The guide presents Vesterbro as a former red-light district that is now cool and authentic, mixing family living with hip nightlife,… |
 
 ## The Copenhagen neighbourhood guide — VisitCopenhagen
-
 Source: [Original](https://www.visitcopenhagen.com/copenhagen/neighbourhoods/guides) · [Readwise highlight](https://read.readwise.io/read/01m5k8xd00w349fw7dvybv88v2)
 
 > Once a notorious red light district, Vesterbro of today is equally cool and authentic and has a vibrant nightlife.
