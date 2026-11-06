@@ -2,12 +2,8 @@
 publish: true
 title: The Jockey Club race course (The Awakening)
 created: 2026-10-21T04:45:56.000Z
-modified: 2026-11-02T14:19:49.000Z
-published: 2026-11-02T14:19:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T01:28:57.057Z
+published: 2026-11-06T01:28:57.057Z
 aliases: []
 books:
   - "[[The Awakening]]"
@@ -16,13 +12,19 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 29.9831,-90.0813
-geo_note: "inferred: the Jockey Club race course pinned at Fair Grounds Race Course, New Orleans; see Where is it?"
+geo_note: "inferred: the Jockey Club race course pinned at Fair Grounds Race Course,\
+  \ New Orleans; see Where is it?"
 geo_source: Wikipedia (en) Fair Grounds Race Course
 icon: book
 location:
   - 29.9831
   - -90.0813
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Orleans]]"
+image: Attachments/Places/The Jockey Club race course (The Awakening).svg
 ---
 
 # The Jockey Club race course (The Awakening)
@@ -30,13 +32,11 @@ within: "[[New Orleans]]"
 The Jockey Club race course is the New Orleans track where Edna watches the turf event of the season in _The Awakening_, pinned as an inference at the Fair Grounds in [[New Orleans]]. The novel names only the Jockey Club and the race course.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Awakening]] | Kate Chopin | setting | Alcée Arobin and Mrs. Highcamp take Edna to the Jockey Club for the turf event of the season. |
 
 ## The Awakening — Kate Chopin (1899)
-
 Source: [[The Awakening]] · [Original](https://openlibrary.org/works/OL65430W) · [Readwise highlight](https://read.readwise.io/read/01m5ebwnpcwddnn1yd5knwf35j)
 
 > It was at his instigation that Mrs. Highcamp called to ask her to go with them to the Jockey Club to witness the turf event of the season.

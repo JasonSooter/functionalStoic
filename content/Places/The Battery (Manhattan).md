@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - The Battery
 title: The Battery (Manhattan)
 created: 2026-10-23T11:15:49.000Z
-modified: 2026-11-02T14:22:13.000Z
-published: 2026-11-02T14:22:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T01:28:56.821Z
+published: 2026-11-06T01:28:56.821Z
+aliases:
+  - The Battery
 books:
   - "[[Exploration of Moby Dick]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 40.7036
   - -74.0161
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Manhattan]]"
+image: Attachments/Places/The Battery (Manhattan).svg
 ---
 
 # The Battery (Manhattan)
@@ -29,13 +30,11 @@ within: "[[Manhattan]]"
 The Battery is the park and seawall at the southern tip of Manhattan in New York City. In _Moby-Dick_ it is where Ishmael opens his case that everyone is drawn to the sea, pointing at the crowds of water-gazers on the waterfront.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | subject | Ishmael's opening image: crowds of landsmen at the Battery and along the Manhattan wharves, all gazing out to sea. |
 
 ## Moby-Dick — Herman Melville (1851)
-
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m76ne5tvf1eyk163q8v1s8)
 
 > Its extreme downtown is the battery, where that noble mole is washed by waves, and cooled by breezes, which a few hours previous were out of sight of land.

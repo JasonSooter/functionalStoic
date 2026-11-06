@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - The Big Town
 title: The Big Town (The Year of Living Danishly)
 created: 2026-10-21T11:07:49.000Z
-modified: 2026-11-02T14:22:14.000Z
-published: 2026-11-02T14:22:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T01:28:56.841Z
+published: 2026-11-06T01:28:56.841Z
+aliases:
+  - The Big Town
 books:
   - The Year of Living Danishly
 categories:
@@ -17,13 +13,19 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 55.7167,9.5333
-geo_note: "best-guess: the nearest large town to the inferred home village (Brejning); Russell thanks 'Team Vejle' in the acknowledgements and later moved to Vejle"
+geo_note: "best-guess: the nearest large town to the inferred home village (Brejning);\
+  \ Russell thanks 'Team Vejle' in the acknowledgements and later moved to Vejle"
 geo_source: Wikipedia (en) Vejle
 icon: book
 location:
   - 55.7167
   - 9.5333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vejle]]"
+image: Attachments/Places/The Big Town (The Year of Living Danishly).svg
 ---
 
 # The Big Town (The Year of Living Danishly)
@@ -31,13 +33,11 @@ within: "[[Vejle]]"
 The Big Town is Helen Russell's name for the market town near her Jutland village, best guessed as [[Vejle]]. It appears in her memoir as the public stage for the year's Danish rituals.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Year of Living Danishly | Helen Russell | setting | The nearby market town: J-Day, Santa's arrival, the old town hall, New Year fireworks. |
 
 ## The Year of Living Danishly — Helen Russell (2015)
-
 Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highlight](https://read.readwise.io/read/01m5f1vgtpd58qmcze9hmcb73r)
 
 > Lego Man and I are just finishing off a quiet dinner in The Big Town when an almighty roar starts up from the street.
