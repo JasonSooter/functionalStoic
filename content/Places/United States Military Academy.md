@@ -2,12 +2,8 @@
 publish: true
 title: United States Military Academy
 created: 2026-10-22T20:38:25.000Z
-modified: 2026-11-02T14:22:26.000Z
-published: 2026-11-02T14:22:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T11:22:55.789Z
+published: 2026-11-06T11:22:55.789Z
 aliases: []
 books:
   - "[[Range]]"
@@ -21,7 +17,12 @@ icon: book
 location:
   - 41.3925
   - -73.9575
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York]]"
+image: Attachments/Places/United States Military Academy.svg
 ---
 
 # United States Military Academy
@@ -36,7 +37,6 @@ US Army academy at West Point, New York. A subject in David Epstein's _Range_: W
 | Podcast #210: Got Grit? | Brett McKay | subject | Duckworth explains that West Point's first-summer training, Beast Barracks, is where many highly rated, rigorously selected cadets drop… |
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
-
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jkzjgsv17qkhz85d2arzsg)
 
 > Six and a half weeks of physical and emotional rigors are designed to transition young men and women from teenagers on summer break to officers-in-training.
@@ -46,7 +46,6 @@ Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/
 - **Why it matters:** The academy is the test case for the chapter's argument that quitting can be a sensible match-quality decision rather than a lack of grit. Set elsewhere, the grit-versus-switching argument would lose its natural experiment.
 
 ## Podcast #210: Got Grit? — Brett McKay (2016)
-
 Source: [Original](http://www.artofmanliness.com/2016/06/16/podcast-210-got-grit/) · [Readwise highlight](https://read.readwise.io/read/01m5jvrbe60scj371gj3wy1048)
 
 > For example, the first summer of training at West Point is called Beast Barracks.

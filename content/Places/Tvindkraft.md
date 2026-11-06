@@ -2,12 +2,8 @@
 publish: true
 title: Tvindkraft
 created: 2026-10-21T10:30:00.000Z
-modified: 2026-11-02T14:22:32.000Z
-published: 2026-11-02T14:22:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T11:22:55.549Z
+published: 2026-11-06T11:22:55.549Z
 aliases: []
 books:
   - The shadow of the windmill cult
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 56.256
   - 8.278
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Denmark]]"
+image: Attachments/Places/Tvindkraft.svg
 ---
 
 # Tvindkraft
@@ -29,13 +30,11 @@ within: "[[Denmark]]"
 Wind turbine and school site in Jutland, part of [[Denmark]]. In Helen Russell's article on the Tvind movement, its windmill is the idealistic achievement set against the cult-like shadow of the title.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The shadow of the windmill cult | Helen Russell | subject | The article traces Tvind, the alternative school movement founded in Jutland by Mogens Amdi Petersen. |
 
 ## The shadow of the windmill cult — Helen Russell (2025)
-
 Source: [Original](https://mshelenrussell.substack.com/p/the-shadow-of-the-windmill-cult) · [Readwise highlight](https://read.readwise.io/read/01m5eddzcebpss34gm365rehzb)
 
 > with one of Tvind’s most legendary achievements being its windmill, built between 1975 and 1978.

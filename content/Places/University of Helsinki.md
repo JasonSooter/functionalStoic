@@ -2,12 +2,8 @@
 publish: true
 title: University of Helsinki
 created: 2026-10-23T05:34:07.000Z
-modified: 2026-11-02T14:23:10.000Z
-published: 2026-11-02T14:23:10.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T11:22:55.877Z
+published: 2026-11-06T11:22:55.877Z
 aliases: []
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 60.1694
   - 24.9486
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Helsinki]]"
+image: Attachments/Places/University of Helsinki.svg
 ---
 
 # University of Helsinki
@@ -28,16 +29,14 @@ within: "[[Helsinki]]"
 Finland's largest university, in central Helsinki. In _Just for Fun_ it is where Linus Torvalds first meets Unix and later launches Linux 1.0.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | Linus takes the new C and Unix course on the MicroVAX, then in 1994 releases Linux 1.0 in a department auditorium. |
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
-
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrm2rz8ckvr5jspyevc59)
 
-> The academic year that began in the fall of 1990 was to be the first time that the University of Helsinki would have Unix, the powerful operating system that had been bred in AT\&T’s Bell Labs in the late 1960s but had grown up elsewhere.
+> The academic year that began in the fall of 1990 was to be the first time that the University of Helsinki would have Unix, the powerful operating system that had been bred in AT&T’s Bell Labs in the late 1960s but had grown up elsewhere.
 
 - **Role:** setting
 - **In the book:** Linus studies here for eight years, joins the Swedish-speaking science club Spektrum with Lars Wirzenius, and takes the university's first Unix course on its MicroVAX. He dials in from home and uploads Linux 0.01 to the university's ftp site.
