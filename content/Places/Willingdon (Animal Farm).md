@@ -2,12 +2,8 @@
 publish: true
 title: Willingdon (Animal Farm)
 created: 2026-10-22T23:16:33.000Z
-modified: 2026-11-02T14:22:27.000Z
-published: 2026-11-02T14:22:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T20:29:02.036Z
+published: 2026-11-06T20:29:02.036Z
 aliases: []
 books:
   - "[[Animal Farm]]"
@@ -22,7 +18,12 @@ icon: book
 location:
   - 50.8
   - 0.26
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[East Sussex]]"
+image: Attachments/Places/Willingdon (Animal Farm).svg
 ---
 
 # Willingdon (Animal Farm)
@@ -30,17 +31,14 @@ within: "[[East Sussex]]"
 Market town nearest the farm in Animal Farm, pinned as a best guess at Willingdon, East Sussex. Jones drinks at its Red Lion and Boxer's fate is sealed by a Willingdon knacker.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Animal Farm]] | George Orwell | journey waypoint | Willingdon is the human world's nearest town: Jones drinks at the Red Lion and later complains there; Mollie is seen outside a… |
 
 ## Sub-places
-
 _None yet._
 
 ## Animal Farm — George Orwell (1945)
-
 Source: [[Animal Farm]] · [Original](https://www.penguin.co.uk/books/56486/animal-farm)
 
 > Mr. Jones went into Willingdon and got so drunk at the Red Lion that he did not come back till midday on Sunday.

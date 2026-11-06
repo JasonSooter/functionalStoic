@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Western Wall
+created: 2026-10-22T16:49:40.000Z
+modified: 2026-11-06T20:29:06.405Z
+published: 2026-11-06T20:29:06.405Z
 aliases:
   - Kotel
   - Wailing Wall
-title: Western Wall
-created: 2026-10-22T16:49:40.000Z
-modified: 2026-11-02T14:22:48.000Z
-published: 2026-11-02T14:22:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Apeirogon]]"
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 31.7767
   - 35.2345
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Old City of Jerusalem]]"
+image: Attachments/Places/Western Wall.svg
 ---
 
 # Western Wall
@@ -30,13 +31,11 @@ within: "[[Old City of Jerusalem]]"
 Retaining wall of the Temple Mount in Jerusalem's Old City. Swifts nest in it in _Apeirogon_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | Swifts nesting in the stones catch prayer slips in mid-air. |
 
 ## Apeirogon — Colum McCann (2020)
-
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7x743dr3ra4jvm7981yaf)
 
 > At the Western Wall in Jerusalem’s Old City, flocks of swifts migrating from South Africa arrive back in January or February of each year.
