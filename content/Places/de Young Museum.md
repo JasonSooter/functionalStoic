@@ -2,12 +2,8 @@
 publish: true
 title: de Young Museum
 created: 2026-10-21T02:09:20.000Z
-modified: 2026-11-02T14:22:56.000Z
-published: 2026-11-02T14:22:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T23:32:04.984Z
+published: 2026-11-06T23:32:04.984Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 37.7715
   - -122.4691
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
+image: Attachments/Places/de Young Museum.svg
 ---
 
 # de Young Museum
@@ -28,13 +29,11 @@ within: "[[San Francisco]]"
 Building in [[San Francisco]], United States.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion]] | Jenny Odell | setting | The author lectures docents while the museum shows Hockney's Seven Yorkshire Landscapes; docents report that visitors then saw the nearby San Francisco Botanical Garden anew, in slow, broken-up textur |
 
 ## How to Do Nothing — Jenny Odell (2019)
-
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Readwise highlight](https://read.readwise.io/read/01m5e31wpchc9v1sac01088c72)
 
 > I was asked to give a lecture on David Hockney to docents at the de Young Museum in San Francisco.
