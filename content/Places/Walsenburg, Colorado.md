@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Walsenburg
 title: Walsenburg, Colorado
 created: 2026-10-22T13:40:18.000Z
-modified: 2026-11-02T14:22:47.000Z
-published: 2026-11-02T14:22:47.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T17:27:50.738Z
+published: 2026-11-06T17:27:50.738Z
+aliases:
+  - Walsenburg
 books:
   - If You Let Them Build It, They Are Much More Likely to Come
 categories:
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 37.6267
   - -104.7789
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado]]"
+image: Attachments/Places/Walsenburg, Colorado.svg
 ---
 
 # Walsenburg, Colorado
@@ -29,13 +30,11 @@ within: "[[Colorado]]"
 Former coal-mining town in Huerfano County, southern Colorado; LifeEdited follows its plan for a legal tiny-house subdivision.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | If You Let Them Build It, They Are Much More Likely to Come | David Friedlander | subject | LifeEdited follows its plan for a legal tiny-house subdivision. |
 
 ## If You Let Them Build It, They Are Much More Likely to Come — David Friedlander (2015)
-
 Source: [Original](https://lifeedited.com/if-you-let-them-build-it-they-are-much-more-likely-to-come/) · [Readwise highlight](https://read.readwise.io/read/01m5hx20xr10b9xghn746fvxcv)
 
 > Walsenburg is a former coal mining town of 3K that has seen better days. The tiny house subdivision is meant as a way of providing affordable housing and revitalizing the economy.

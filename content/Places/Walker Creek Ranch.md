@@ -2,12 +2,8 @@
 publish: true
 title: Walker Creek Ranch
 created: 2026-10-21T22:26:42.000Z
-modified: 2026-11-02T14:23:03.000Z
-published: 2026-11-02T14:23:03.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T17:27:49.422Z
+published: 2026-11-06T17:27:49.422Z
 aliases: []
 books:
   - "[[Quiet]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 38.1737
   - -122.8141
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Walker Creek Ranch.svg
 ---
 
 # Walker Creek Ranch
@@ -28,13 +29,11 @@ within: "[[California]]"
 Outdoor education centre on 1,741 acres in Marin County, [[California]]. In Quiet (Susan Cain) she attends a gathering of highly sensitive people there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | subject | A weekend of 'highly sensitive' people: quiet, deep talk and a rare inversion of the Extrovert Ideal. |
 
 ## Quiet — Susan Cain (2012)
-
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wm2ddzv9f57y9pybt240)
 
 > Walker Creek Ranch sits on 1,741 acres of unspoiled Northern California wilderness.

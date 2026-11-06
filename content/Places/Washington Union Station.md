@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Union Station (Washington)
 title: Washington Union Station
 created: 2026-10-20T10:42:29.000Z
-modified: 2026-11-02T14:23:01.000Z
-published: 2026-11-02T14:23:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T17:31:50.175Z
+published: 2026-11-06T17:31:50.175Z
+aliases:
+  - Union Station (Washington)
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
 categories:
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 38.8973
   - -77.0063
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington DC]]"
+image: Attachments/Places/Washington Union Station.svg
 ---
 
 # Washington Union Station
@@ -29,13 +30,11 @@ within: "[[Washington DC]]"
 Main railway station of [[Washington DC]], USA, which shows up in the reading as the first stop of Kyla Scanlon's nine-city trip, where she sees tanks parked in front of its marble columns.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go\|30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?]] | Kyla Scanlon | setting | Tanks in front of marble columns: power as performance. |
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
-
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce59586ckw1sagnezr6grg)
 
 > When I landed in DC, the first thing I saw was the National Guard by Union Station, with their tanks parked in front of marble columns, while a man in a clown costume filmed them.

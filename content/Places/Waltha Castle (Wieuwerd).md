@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Waltha Castle (Wieuwerd)
+created: 2026-10-23T04:41:40.000Z
+modified: 2026-11-06T17:27:50.758Z
+published: 2026-11-06T17:27:50.758Z
 aliases:
   - Waltha State
   - Walthastate
-title: Waltha Castle (Wieuwerd)
-created: 2026-10-23T04:41:40.000Z
-modified: 2026-11-02T14:23:02.000Z
-published: 2026-11-02T14:23:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[The Girl Who Drew Butterflies]]"
 categories:
@@ -23,7 +19,12 @@ icon: book
 location:
   - 53.1089
   - 5.69
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Netherlands]]"
+image: Attachments/Places/Waltha Castle (Wieuwerd).svg
 ---
 
 # Waltha Castle (Wieuwerd)
@@ -31,13 +32,11 @@ within: "[[Netherlands]]"
 Former manor house at Wieuwerd in Friesland, the Netherlands, home of the Labadist community. In _The Girl Who Drew Butterflies_ Maria Merian takes refuge there with her daughters and mother.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Girl Who Drew Butterflies]] | Joyce Sidman | setting | Maria joins the Labadists, compiles her insect studies and first hears of Surinam. |
 
 ## The Girl Who Drew Butterflies — Joyce Sidman (2018)
-
 Source: [[The Girl Who Drew Butterflies]] · [Original](https://openlibrary.org/works/OL19731743W) · [Readwise highlight](https://read.readwise.io/read/01m5kgrvt3yb7vef524sx54fq7)
 
 > Windswept and secluded, Waltha Castle stood on flat lowlands surrounded by a moat and a stately grove of trees.

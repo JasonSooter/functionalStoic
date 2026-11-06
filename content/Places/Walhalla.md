@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Walhalla memorial
 title: Walhalla
 created: 2026-10-23T11:15:58.000Z
-modified: 2026-11-02T14:23:18.000Z
-published: 2026-11-02T14:23:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T17:27:49.386Z
+published: 2026-11-06T17:27:49.386Z
+aliases:
+  - Walhalla memorial
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 49.0315
   - 12.2241
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bavaria]]"
+image: Attachments/Places/Walhalla.svg
 ---
 
 # Walhalla
@@ -29,13 +30,11 @@ within: "[[Bavaria]]"
 Neo-classical hall of fame on a hill above the Danube at Donaustauf near Regensburg, built for Ludwig I of Bavaria. _Germany: Memories of a Nation_ reads German identity through its busts.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Ludwig I's Parthenon above the Danube, a hall of busts where the Bavarian parliament still decides who counts as a great German. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
-
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75m26ye8f4y215h3ybwda)
 
 > On a hill rising 300 feet above a secluded stretch of the Danube, facing south, the king and Klenze constructed not a Gothic evocation of the Gods of the ancient north, but a version of the Parthenon.

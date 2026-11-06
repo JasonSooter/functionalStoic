@@ -2,12 +2,8 @@
 publish: true
 title: Walikale
 created: 2026-10-22T16:52:15.000Z
-modified: 2026-11-02T14:23:02.000Z
-published: 2026-11-02T14:23:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-06T17:31:51.099Z
+published: 2026-11-06T17:31:51.099Z
 aliases: []
 books:
   - "Your Phone Was Made By Slaves: A Primer on the Secret Economy"
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - -1.4261
   - 28.07
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Democratic Republic of the Congo]]"
+image: Attachments/Places/Walikale.svg
 ---
 
 # Walikale
@@ -28,7 +29,6 @@ within: "[[Democratic Republic of the Congo]]"
 Town in North Kivu, eastern DR Congo, near the region's tin and coltan mines. In Kevin Bales's excerpt on slavery in phone supply chains it is an isolated, besieged outpost.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Your Phone Was Made By Slaves: A Primer on the Secret Economy | Kevin Bales | setting | A besieged jungle outpost reached by UN helicopter, short of a rebel-held coltan mine. |
