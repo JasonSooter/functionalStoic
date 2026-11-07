@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Judengasse (Frankfurt)
+created: 2026-10-23
+modified: 2026-11-07T06:20:51.550Z
+published: 2026-11-07T06:20:51.550Z
 aliases:
   - Frankfurter Judengasse
   - Frankfurt Ghetto
-title: Judengasse (Frankfurt)
-created: 2026-10-23
-modified: 2026-11-02T14:17:55.000Z
-published: 2026-11-02T14:17:55.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Judengasse (Frankfurt).svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 50.1136
   - 8.6869
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Frankfurt]]"
 image: Attachments/Places/Judengasse (Frankfurt).svg
 ---
@@ -32,13 +31,11 @@ image: Attachments/Places/Judengasse (Frankfurt).svg
 The former walled Jewish quarter of Frankfurt am Main, now remembered at the Museum Judengasse. In _Germany: Memories of a Nation_ it represents the confined world of German Jews before emancipation.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Frankfurt's walled Jewish lane, overcrowded and locked at curfew, where the Rothschilds' bank began. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
-
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76y26fs2hvjmmqcxjrnys)
 
 > And then there was the Frankfurt Ghetto, the major ghetto in Germany, where the

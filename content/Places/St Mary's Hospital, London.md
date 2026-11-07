@@ -1,17 +1,12 @@
 ---
 publish: true
+title: St Mary's Hospital, London
+created: 2026-10-23
+modified: 2026-11-07T06:21:19.211Z
+published: 2026-11-07T06:21:19.211Z
 aliases:
   - Alexander Fleming Laboratory Museum
   - Fleming's laboratory
-title: St Mary's Hospital, London
-created: 2026-10-23
-modified: 2026-11-03T01:20:02.000Z
-published: 2026-11-03T01:20:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/St Mary's Hospital, London.svg
 books:
   - Abundance
 categories:
@@ -19,11 +14,16 @@ categories:
 color: purple
 confidence: documented
 coordinates: 51.5172,-0.1731
-geo_source: Wikipedia (en) St Mary's Hospital, London (via Alexander Fleming Laboratory Museum)
+geo_source: Wikipedia (en) St Mary's Hospital, London (via Alexander Fleming Laboratory
+  Museum)
 icon: book
 location:
   - 51.5172
   - -0.1731
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/St Mary's Hospital, London.svg
 ---
@@ -33,13 +33,11 @@ image: Attachments/Places/St Mary's Hospital, London.svg
 St Mary's Hospital in Paddington, London, is where Alexander Fleming had his laboratory, now the Alexander Fleming Laboratory Museum. _Abundance_ opens its chapter on deployment with his discovery of penicillin there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | setting | Fleming returns from holiday in 1928 to find mold killing his bacteria: the 'eureka' that opens the chapter 'Deploy'. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
-
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m757e22z20r85ehz089wxq)
 
 > IN THE FALL OF 1928, the Scottish scientist Alexander Fleming returned from a long holiday to his lab in London.

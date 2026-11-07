@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Tahanan (833 Bryant Street)
+created: 2026-10-23
+modified: 2026-11-07T06:21:20.927Z
+published: 2026-11-07T06:21:20.927Z
 aliases:
   - Tahanan
   - 833 Bryant Street
-title: Tahanan (833 Bryant Street)
-created: 2026-10-23
-modified: 2026-11-05T01:22:25.000Z
-published: 2026-11-05T01:22:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Tahanan (833 Bryant Street).svg
 books:
   - Abundance
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 37.7753
   - -122.4032
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Tahanan (833 Bryant Street).svg
 ---
@@ -32,13 +31,11 @@ image: Attachments/Places/Tahanan (833 Bryant Street).svg
 Tahanan is a 145-unit supportive housing building for the chronically homeless at 833 Bryant Street in San Francisco's SoMa neighborhood, completed in 2021. _Abundance_ opens its chapter on government with it as a model of fast, cheap affordable housing.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Abundance | Ezra Klein & Derek Thompson | setting | A SoMa supportive-housing block built in three years for under \$400,000 a unit, the opening case of the chapter 'Govern'. |
+| Abundance | Ezra Klein & Derek Thompson | setting | A SoMa supportive-housing block built in three years for under $400,000 a unit, the opening case of the chapter 'Govern'. |
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
-
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m77jg3bm43prv8pf1295vb)
 
 > Tahanan was built on the former site of a parking lot and temporary bail bond office.

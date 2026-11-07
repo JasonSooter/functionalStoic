@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Wartburg Castle
 title: Wartburg
 created: 2026-05-16
-modified: 2026-11-06T17:27:51.000Z
-published: 2026-11-06T17:27:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Wartburg.svg
+modified: 2026-11-07T06:21:00.314Z
+published: 2026-11-07T06:21:00.314Z
+aliases:
+  - Wartburg Castle
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
   - "[[Germany - Memories of a Nation]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 50.9661
   - 10.3064
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Thuringia]]"
 image: Attachments/Places/Wartburg.svg
 ---
@@ -38,7 +37,6 @@ Castle above Eisenach in [[Thuringia]], where Luther hid and translated the New 
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | turning point | Luther's hiding place after Worms, where he translated the New Testament into the German that united German speakers. |
 
 ## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
-
 Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Original](https://www.youtube.com/watch?v=9AbxJrqpPqQ) · [Readwise highlight](https://read.readwise.io/read/01m5brfpk9fv0kcb1cvrwq1ag0)
 
 > Wartburg Castle provided refuge
@@ -48,7 +46,6 @@ Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Original](http
 - **Why it matters:** The castle is the reason the town is on the list.
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
-
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75cjb2jvcz87k1ccy3mvb)
 
 > The Elector of Saxony spirited Luther away from Worms to safety in the Wartburg Castle in Eisenach.

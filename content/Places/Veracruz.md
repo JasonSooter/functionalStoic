@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Vera Cruz
 title: Veracruz
 created: 2026-10-23
-modified: 2026-11-06T14:27:48.000Z
-published: 2026-11-06T14:27:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Veracruz.svg
+modified: 2026-11-07T06:21:45.833Z
+published: 2026-11-07T06:21:45.833Z
+aliases:
+  - Vera Cruz
 books:
   - "Sapiens: A Brief History of Humankind"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 19.1903
   - -96.1533
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mexico]]"
 image: Attachments/Places/Veracruz.svg
 ---
@@ -31,7 +30,6 @@ image: Attachments/Places/Veracruz.svg
 Veracruz is a port city on the Gulf coast of Mexico, near where Cortés landed in 1519. _Sapiens_ uses the landing as the Aztecs' first encounter with an unknown people.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | Beach where Cortés landed in 1519: the Aztecs' first meeting with a wholly unknown people. |

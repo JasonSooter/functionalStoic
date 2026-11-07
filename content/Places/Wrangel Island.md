@@ -2,13 +2,8 @@
 publish: true
 title: Wrangel Island
 created: 2026-10-23
-modified: 2026-11-06T20:29:02.000Z
-published: 2026-11-06T20:29:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Wrangel Island.svg
+modified: 2026-11-07T06:21:52.237Z
+published: 2026-11-07T06:21:52.237Z
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 71.2333
   - -179.4167
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Wrangel Island.svg
 ---
@@ -31,13 +30,11 @@ image: Attachments/Places/Wrangel Island.svg
 Wrangel Island is an island in the Arctic Ocean off north-east Siberia. In _Sapiens_ it is where the last mammoths survived until humans arrived.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Last refuge of the mammoths, which died out about 4,000 years ago just as humans arrived. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m755wd8bxctbg39m1t74bh)
 
 > A similar fate befell the mammoth population of Wrangel Island in the Arctic Ocean (200 kilometres north of the Siberian coast).

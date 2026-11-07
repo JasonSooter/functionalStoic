@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - The Shannon lake
 title: Lough Derg (Shannon)
 created: 2026-10-23
-modified: 2026-11-02T14:18:37.000Z
-published: 2026-11-02T14:18:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Lough Derg (Shannon).svg
+modified: 2026-11-07T06:21:07.043Z
+published: 2026-11-07T06:21:07.043Z
+aliases:
+  - The Shannon lake
 books:
   - The Country Girls Trilogy
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 52.9833
   - -8.3167
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ireland]]"
 image: Attachments/Places/Lough Derg (Shannon).svg
 ---
@@ -32,13 +31,11 @@ image: Attachments/Places/Lough Derg (Shannon).svg
 The largest lake on the River Shannon, bordered by Clare, Galway and Tipperary. In _The Country Girls Trilogy_ it is the 'great Shannon lake' where Caithleen's mother drowns.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | turning point | The 'great Shannon lake' where Caithleen's mother drowns and is never found, leaving no grave. |
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
-
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m75paf3px42tddevfg5x00)
 
 > they had dragged the great Shannon lake but they hadn’t found them

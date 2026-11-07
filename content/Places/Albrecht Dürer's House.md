@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Albrecht Dürer's House
+created: 2026-10-23
+modified: 2026-11-07T06:20:58.930Z
+published: 2026-11-07T06:20:58.930Z
 aliases:
   - Dürer House
   - Albrecht-Dürer-Haus
-title: Albrecht Dürer's House
-created: 2026-10-23
-modified: 2026-11-02T14:14:09.000Z
-published: 2026-11-02T14:14:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Albrecht Dürer's House.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 49.4572
   - 11.0739
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nuremberg]]"
 image: Attachments/Places/Albrecht Dürer's House.svg
 ---
@@ -32,13 +31,11 @@ image: Attachments/Places/Albrecht Dürer's House.svg
 Late-medieval house below the castle in Nuremberg where Albrecht Dürer lived and worked, now a museum. In _Germany: Memories of a Nation_ it is the base of the first artist to sell prints across Europe.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | setting | Dürer's home and print workshop for twenty years, a memorial museum since 1828 as he became a national hero. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
-
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m764hyfzmck5m6jxyksq5c)
 
 > The Dürer house in Nuremberg was opened to the public as a memorial museum in 1828.

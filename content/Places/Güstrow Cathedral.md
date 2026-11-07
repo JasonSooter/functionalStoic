@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Güstrow Cathedral
+created: 2026-10-23
+modified: 2026-11-07T06:20:55.750Z
+published: 2026-11-07T06:20:55.750Z
 aliases:
   - Güstrow Dom
   - Güstrow
-title: Güstrow Cathedral
-created: 2026-10-23
-modified: 2026-11-02T14:17:08.000Z
-published: 2026-11-02T14:17:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Güstrow Cathedral.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 53.791
   - 12.1734
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mecklenburg-Vorpommern]]"
 image: Attachments/Places/Güstrow Cathedral.svg
 ---
@@ -32,13 +31,11 @@ image: Attachments/Places/Güstrow Cathedral.svg
 Gothic Protestant cathedral of Güstrow in Mecklenburg, north of Berlin, where Ernst Barlach's Hovering Angel hangs. In _Germany: Memories of a Nation_ it is Germany's answer to how to remember the First World War.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Home of Barlach's Hovering Angel, melted down by the Nazis, recast, and visited by Schmidt and Honecker in 1981. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
-
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m770z2wnrhq9w4e44fwyka)
 
 > In the Protestant cathedral in Güstrow, a small town just over 100 miles to the north of Berlin, is one answer.

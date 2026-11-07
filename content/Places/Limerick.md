@@ -2,13 +2,8 @@
 publish: true
 title: Limerick
 created: 2026-10-23
-modified: 2026-11-02T14:18:17.000Z
-published: 2026-11-02T14:18:17.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Limerick.svg
+modified: 2026-11-07T06:21:09.503Z
+published: 2026-11-07T06:21:09.503Z
 aliases: []
 books:
   - The Country Girls Trilogy
@@ -21,6 +16,10 @@ icon: book
 location:
   - 52.6653
   - -8.6238
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ireland]]"
 image: Attachments/Places/Limerick.svg
 ---
@@ -30,13 +29,11 @@ image: Attachments/Places/Limerick.svg
 City on the River Shannon in the west of Ireland. In _The Country Girls Trilogy_ it is the nearest big city to Caithleen's village, where Mr. Gentleman takes her to buy her convent uniform.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | journey waypoint | The city where Mr. Gentleman drives Caithleen to buy her uniform, feeds her lunch and first hints at what he wants. |
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
-
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m75n9xe4dq4emmy9fr2z29)
 
 > I said that I was going to Limerick and he said to sit in.

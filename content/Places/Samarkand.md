@@ -2,13 +2,8 @@
 publish: true
 title: Samarkand
 created: 2026-10-23
-modified: 2026-11-02T21:01:59.000Z
-published: 2026-11-02T21:01:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Samarkand.svg
+modified: 2026-11-07T06:21:33.940Z
+published: 2026-11-07T06:21:33.940Z
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 39.6547
   - 66.9758
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Uzbekistan]]"
 image: Attachments/Places/Samarkand.svg
 ---
@@ -30,13 +29,11 @@ image: Attachments/Places/Samarkand.svg
 Samarkand is an ancient Silk Road city in Uzbekistan. _Sapiens_ opens its chapter on religion in its medieval market as a picture of a unifying world.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | backdrop | Medieval oasis market where goods, coins and peoples from everywhere mixed: unification as daily life. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75t30yz91q69p7tvy1nxw)
 
 > IN THE MEDIEVAL MARKET IN SAMARKAND, a city built on a Central Asian oasis, Syrian merchants ran their hands over fine Chinese silks, fierce tribesmen from the steppes displayed the latest batch of straw-haired slaves from the far west, and shopkeepers pocketed shiny gold coins imprinted with exotic scripts and the profiles of unfamiliar kings.

@@ -2,13 +2,8 @@
 publish: true
 title: Dresden
 created: 2026-10-23
-modified: 2026-11-02T14:16:15.000Z
-published: 2026-11-02T14:16:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Dresden.svg
+modified: 2026-11-07T06:20:37.649Z
+published: 2026-11-07T06:20:37.649Z
 aliases: []
 books:
   - "[[Germany - Memories of a Nation]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 51.05
   - 13.74
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Saxony]]"
 image: Attachments/Places/Dresden.svg
 ---
@@ -30,13 +29,11 @@ image: Attachments/Places/Dresden.svg
 Capital of Saxony on the Elbe, a baroque court city largely destroyed in February 1945. In _Germany: Memories of a Nation_ it appears both as the home of Saxon porcelain and as the emblem of post-war ruin.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Augustus's porcelain capital and, in 1945, the image of total ruin from which post-war Germany rebuilt. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
-
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m766z7wyrpxvhg613xzfsk)
 
 > In the centre of Dresden, for example, the destruction was almost total: two and a half square miles of one of the most beautiful cities in the world had simply vanished.
