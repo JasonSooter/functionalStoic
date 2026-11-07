@@ -2,12 +2,8 @@
 publish: true
 title: Pinar del Río
 created: 2026-10-21T02:07:40.000Z
-modified: 2026-11-02T14:20:51.000Z
-published: 2026-11-02T14:20:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T02:25:54.120Z
+published: 2026-11-07T02:25:54.120Z
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -21,7 +17,12 @@ icon: book
 location:
   - 22.4122
   - -83.6719
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Cuba]]"
+image: Attachments/Places/Pinar del Río.svg
 ---
 
 # Pinar del Río
@@ -29,13 +30,11 @@ within: "[[Cuba]]"
 Tobacco-growing province in western [[Cuba]], the heartland of the epidemic that Hans Rosling investigates in _How I Learned to Understand the World_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | subject | The epidemic's heartland, where Rosling's team interviews farmers and village women and finds small private farms had few cases. |
 
 ## How I Learned to Understand the World — Hans Rosling
-
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5e32amqw1y49g145njq1bxc)
 
 > Most of the cases had been found in Pinar del Río, a tobacco-growing province.

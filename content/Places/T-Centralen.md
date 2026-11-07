@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - T-Centralen metro station
 title: T-Centralen
 created: 2026-10-20T07:38:47.000Z
-modified: 2026-11-02T14:22:45.000Z
-published: 2026-11-02T14:22:45.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T02:25:54.140Z
+published: 2026-11-07T02:25:54.140Z
+aliases:
+  - T-Centralen metro station
 books:
   - Every Metro System Should be this Beautiful
 categories:
@@ -20,7 +16,12 @@ icon: video
 location:
   - 59.3317
   - 18.0608
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Stockholm]]"
+image: Attachments/Places/T-Centralen.svg
 ---
 
 # T-Centralen
@@ -28,13 +29,11 @@ within: "[[Stockholm]]"
 Central interchange of the Stockholm metro, next to Stockholm Central Station. See [[Stockholm]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Every Metro System Should be this Beautiful | Not Just Bikes | subject | A disappointing first platform, then the famous blue-and-white blue-line hall. |
 
 ## Every Metro System Should be this Beautiful — Not Just Bikes (2026)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c3pfmkvag44805b4vtr6xn)
 
 > got to T-Centralen station,

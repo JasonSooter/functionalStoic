@@ -2,12 +2,8 @@
 publish: true
 title: Tōhoku region
 created: 2026-10-22T23:17:18.000Z
-modified: 2026-11-02T14:22:15.000Z
-published: 2026-11-02T14:22:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T02:25:54.176Z
+published: 2026-11-07T02:25:54.176Z
 aliases: []
 books:
   - "‘Call me a racist, but don’t say I’m a Buddhist’: meet America's alt right"
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 38.9
   - 140.67
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Japan]]"
+image: Attachments/Places/Tōhoku region.svg
 ---
 
 # Tōhoku region
@@ -29,17 +30,14 @@ within: "[[Japan]]"
 North-eastern region of Honshu, Japan. A Mormon mission there turned the Guardian's alt-right subject.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | ‘Call me a racist, but don’t say I’m a Buddhist’: meet America's alt right | Sanjiv Bhattacharya | turning point | Johnson's Mormon mission going door to door in Tohoku, where locals praised white America and treated missionaries like celebrities… |
 
 ## Sub-places
-
 _None yet._
 
 ## ‘Call me a racist, but don’t say I’m a Buddhist’: meet America's alt right — Sanjiv Bhattacharya (2016)
-
 Source: [Original](https://www.theguardian.com/world/2016/oct/09/call-me-a-racist-but-dont-say-im-a-buddhist-meet-the-alt-right) · [Readwise highlight](https://read.readwise.io/read/01m5jy9903ka9e4wssjpn1xv95)
 
 > But it was his two-year mission to Tohoku, Japan, that turned him.

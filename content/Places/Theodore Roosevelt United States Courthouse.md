@@ -2,12 +2,8 @@
 publish: true
 title: Theodore Roosevelt United States Courthouse
 created: 2026-10-23T05:12:53.000Z
-modified: 2026-11-02T14:22:10.000Z
-published: 2026-11-02T14:22:10.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T02:29:43.836Z
+published: 2026-11-07T02:29:43.836Z
 aliases: []
 books:
   - "[[The Nordic Theory of Everything]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 40.6969
   - -73.9894
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Brooklyn]]"
+image: Attachments/Places/Theodore Roosevelt United States Courthouse.svg
 ---
 
 # Theodore Roosevelt United States Courthouse
@@ -28,13 +29,11 @@ within: "[[Brooklyn]]"
 Federal courthouse in downtown Brooklyn, home of the US District Court for the Eastern District of New York. In _The Nordic Theory of Everything_ it is the setting of the book's closing scene.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Nordic Theory of Everything]] | Anu Partanen | turning point | The closing scene: in a wood-panelled courtroom full of immigrants, the author takes the oath of allegiance. |
 
 ## The Nordic Theory of Everything — Anu Partanen (2016)
-
 Source: [[The Nordic Theory of Everything]] · [Original](https://openlibrary.org/works/OL20028831W) · [Readwise highlight](https://read.readwise.io/read/01m5kjfza5ksrgq4be5xf5n618)
 
 > On Wednesday, November 6, 2013, I entered the U.S. District Court for the Eastern District of New York, in downtown Brooklyn, with my American husband, Trevor, and my Finnish friend Alli in tow.
