@@ -2,13 +2,8 @@
 publish: true
 title: Sand Island Campground
 created: 2023-07-30
-modified: 2026-11-02T21:02:00.000Z
-published: 2026-11-02T21:02:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Sand Island Campground.svg
+modified: 2026-11-07T06:52:00.248Z
+published: 2026-11-07T06:52:00.248Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 37.2942
   - -109.5512
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Utah]]"
 image: Attachments/Places/Sand Island Campground.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Sand Island Campground.svg
 Remote campground on the San Juan River near Bluff, Utah. In The Comfort Crisis (Michael Easter) it is where students camping without phones showed the 'three-day effect'.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | backdrop | Remote campground where a study found the 'three-day effect' of time in nature. |
 
-## The Comfort Crisis — Michael Easter (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.2942&mlon=-109.5512#map=10/37.2942/-109.5512) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.2942,-109.5512)
 
+## The Comfort Crisis — Michael Easter (2021)
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fzdar106zw804xehkck4sw)
 
 > the two would take the students camping for four days into one of the most remote spots in the Lower 48: Sand Island Campground outside Bluff, Utah.

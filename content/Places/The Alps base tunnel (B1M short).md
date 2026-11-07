@@ -2,13 +2,8 @@
 publish: true
 title: The Alps base tunnel (B1M short)
 created: 2026-01-14
-modified: 2026-11-06T01:28:57.000Z
-published: 2026-11-06T01:28:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The Alps base tunnel (B1M short).svg
+modified: 2026-11-07T07:02:58.163Z
+published: 2026-11-07T07:02:58.163Z
 aliases: []
 books:
   - The $29BN Tunnel Under a MOUNTAIN
@@ -23,6 +18,10 @@ icon: video
 location:
   - 45.2729
   - 6.3484
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mont Cenis Base Tunnel]]"
 image: Attachments/Places/The Alps base tunnel (B1M short).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/The Alps base tunnel (B1M short).svg
 A long rail tunnel deep beneath the Alps, pinned at the Mont Cenis Base Tunnel as an inference. It appears in a short B1M video where the presenter stands inside it to see how a railway is built through a mountain range.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The \$29BN Tunnel Under a MOUNTAIN | The B1M | setting | The presenter stands in a long rail tunnel under the Alps, due to be the longest single rail tunnel in the world and halve journey times between two countries. |
+| The $29BN Tunnel Under a MOUNTAIN | The B1M | setting | The presenter stands in a long rail tunnel under the Alps, due to be the longest single rail tunnel in the world and halve journey times between two countries. |
 
-## The \$29BN Tunnel Under a MOUNTAIN — The B1M (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.2729&mlon=6.3484#map=16/45.2729/6.3484) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.2729,6.3484)
 
+## The $29BN Tunnel Under a MOUNTAIN — The B1M (2025)
 Source: [Original](https://www.youtube.com/shorts/uuaiB2CEyYI) · [Readwise highlight](https://read.readwise.io/read/01m5e32ytgr7ntce57a3tw23cn)
 
 > I'm currently standing in a massive tunnel deep beneath the Alps.

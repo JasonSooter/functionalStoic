@@ -2,13 +2,8 @@
 publish: true
 title: Holt Street Baptist Church
 created: 2025-10-25
-modified: 2026-11-02T14:17:23.000Z
-published: 2026-11-02T14:17:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Holt Street Baptist Church.svg
+modified: 2026-11-07T06:51:31.154Z
+published: 2026-11-07T06:51:31.154Z
 aliases: []
 books:
   - "[[Quiet]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 32.3647
   - -86.3203
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Alabama]]"
 image: Attachments/Places/Holt Street Baptist Church.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Holt Street Baptist Church.svg
 Church in Montgomery, Alabama, where the bus boycott was launched in 1955. In Quiet (Susan Cain) it opens the book's case for quiet strength.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | setting | Rally where the Montgomery bus boycott begins, Cain's opening example of quiet strength. |
 
-## Quiet — Susan Cain (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.3647&mlon=-86.3203#map=16/32.3647/-86.3203) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.3647,-86.3203)
 
+## Quiet — Susan Cain (2012)
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g0f9fncgt0c5qqvdq6ax22)
 
 > On the afternoon of her trial and conviction for disorderly conduct, the Montgomery Improvement Association holds a rally for Parks at the Holt Street Baptist Church, in the poorest section of town.

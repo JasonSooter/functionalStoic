@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Gorges du Verdon
 title: Verdon Gorge
 created: 2026-04-07
-modified: 2026-11-06T14:27:36.000Z
-published: 2026-11-06T14:27:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Verdon Gorge.svg
+modified: 2026-11-07T06:57:01.974Z
+published: 2026-11-07T06:57:01.974Z
+aliases:
+  - Gorges du Verdon
 books:
   - Trace Velocio 2026. Le Thoronet to Sault
 categories:
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 43.7378
   - 6.3639
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Verdon Gorge.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Verdon Gorge.svg
 River canyon of the Verdon in Alpes-de-Haute-Provence and Var, in [[Provence]], which appears in a Mostly Bikes x Me ride report where a landslide pushed the route onto the busy north traverse of the gorge.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Trace Velocio 2026. Le Thoronet to Sault | Mostly Bikes x Me | journey waypoint | A landslide forces the ride onto the busy north traverse of the gorge. |
 
-## Trace Velocio 2026. Le Thoronet to Sault — Mostly Bikes x Me (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.7378&mlon=6.3639#map=16/43.7378/6.3639) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.7378,6.3639)
 
+## Trace Velocio 2026. Le Thoronet to Sault — Mostly Bikes x Me (2026)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bs6jmmhychy3jghj9fqs35)
 
 > Our planned route was closed by a landslide, but the north traverse of the gorge was open, and busy.

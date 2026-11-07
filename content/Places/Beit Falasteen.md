@@ -2,13 +2,8 @@
 publish: true
 title: Beit Falasteen
 created: 2024-12-21
-modified: 2026-11-02T14:14:39.000Z
-published: 2026-11-02T14:14:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Beit Falasteen.svg
+modified: 2026-11-07T06:58:36.120Z
+published: 2026-11-07T06:58:36.120Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 32.2009
   - 35.2733
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nablus]]"
 image: Attachments/Places/Beit Falasteen.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Beit Falasteen.svg
 Mansion of the businessman Munib al-Masri on Mount Gerizim above Nablus, in the West Bank. A subject in Colum McCann's _Apeirogon_: Munib al-Masri's hilltop mansion above Nablus, built as a mosaic and metaphor of Palestine; sees Balata and Assira.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | Munib al-Masri's hilltop mansion above Nablus, built as a mosaic and metaphor of Palestine; sees Balata and Assira. |
 
-## Apeirogon — Colum McCann (2020)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.2009&mlon=35.2733#map=10/32.2009/35.2733) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.2009,35.2733)
 
+## Apeirogon — Colum McCann (2020)
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjptpm689rrm6298wtj30k)
 
 > Al-Masri—a chronic insomniac—built the mansion as a riddle, a mosaic, a metaphor for his country: he called it Beit Falasteen, the House of Palestine.

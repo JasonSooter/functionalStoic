@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Flight of Five
 title: Lockport Locks
 created: 2017-02-05
-modified: 2026-11-02T14:18:42.000Z
-published: 2026-11-02T14:18:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Lockport Locks.svg
+modified: 2026-11-07T07:04:25.549Z
+published: 2026-11-07T07:04:25.549Z
+aliases:
+  - Flight of Five
 books:
   - Erie Canal
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
@@ -23,6 +18,10 @@ icon: book
 location:
   - 43.1752
   - -78.6873
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Lockport Locks.svg
 ---
@@ -38,8 +37,9 @@ The Erie Canal's flight of locks up the Niagara Escarpment at Lockport, New York
 | Erie Canal | wikipedia.org | turning point | In 1823 the canal reached the 80-foot dolomitic limestone wall of the Niagara Escarpment. |
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | subject | Nathan Roberts's double flight of five locks climbs the Niagara escarpment; a seven-mile Deep Cut follows. |
 
-## Erie Canal — wikipedia.org (2001)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.1752&mlon=-78.6873#map=16/43.1752/-78.6873) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.1752,-78.6873)
 
+## Erie Canal — wikipedia.org (2001)
 Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise highlight](https://read.readwise.io/read/01m5k5scbq1kp2d1wkrjctvckk)
 
 > The route followed the channel of a creek that had cut a ravine steeply down the escarpment. The construction and operation of two sets of five locks along a 3-mile (4.8 km) corridor soon gave rise to the community of
@@ -49,7 +49,6 @@ Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise high
 - **Why it matters:** The steepest climb of the route, which created the town of Lockport.
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
-
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvdyjj89vxt8ngev9fee5w)
 
 > Soon to be appropriately named Lockport, the town had increased to 337 families by January 1823, when the contracts had been let and the first digging had begun.

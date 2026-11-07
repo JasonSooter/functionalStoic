@@ -2,13 +2,8 @@
 publish: true
 title: Davos
 created: 2024-05-09
-modified: 2026-11-02T14:16:11.000Z
-published: 2026-11-02T14:16:11.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Davos.svg
+modified: 2026-11-07T07:01:47.563Z
+published: 2026-11-07T07:01:47.563Z
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 46.8
   - 9.8333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Switzerland]]"
 image: Attachments/Places/Davos.svg
 ---
@@ -30,14 +29,14 @@ image: Attachments/Places/Davos.svg
 Alpine town in [[Switzerland]], setting for two meetings in Hans Rosling's memoir: a 2007 climate gathering and his closing 2015 talk to the assembled elite.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | setting | At a small climate-change meeting in January 2007, an EU minister blames China and India for emissions. |
 | [[How I Learned to Understand the World]] | Hans Rosling | setting | In January 2015 Rosling quizzes the assembled elite with response devices on poverty, measles and child numbers. |
 
-## How I Learned to Understand the World — Hans Rosling
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.8&mlon=9.8333#map=16/46.8/9.8333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.8,9.8333)
 
+## How I Learned to Understand the World — Hans Rosling
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5e32f4118ay6bkk4hz5n3b2)
 
 > Davos is an ordinary-looking Alpine town with a modest railway station. It had snowed that morning and as Agneta and I pulled our wheeled suitcases along I slipped and slithered on the steep, icy street.
@@ -47,7 +46,6 @@ Source: [[How I Learned to Understand the World]] · [Original](https://openlibr
 - **Why it matters:** The meeting room scene is the point; the town is a short description.
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
-
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5ebtj4zv6pq251844xt65jv)
 
 > I was booked to speak in front of a thousand-strong audience in the plenary hall.

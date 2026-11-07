@@ -1,18 +1,13 @@
 ---
 publish: true
-aliases:
-  - Worcester, England
 title: Worcester
 created: 2026-10-29
-modified: 2026-11-06T20:36:44.000Z
-published: 2026-11-06T20:36:44.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Worcester.svg
+modified: 2026-11-07T07:01:27.284Z
+published: 2026-11-07T07:01:27.284Z
+aliases:
+  - Worcester, England
 books:
-  - "#098 Riding in an actual bicycle race"
+  - '#098 Riding in an actual bicycle race'
 categories:
   - "[[Places]]"
 color: purple
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 52.1911
   - -2.2206
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Worcestershire]]"
 image: Attachments/Places/Worcester.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Worcester.svg
 Cathedral city on the River Severn in [[Worcestershire]], England. It is where the Diagram Club author joined Bike Worcester's Glow Ride, a night ride for safer streets.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #098 Riding in an actual bicycle race | Diagram Club | setting | Invited on the spot, the author joins Bike Worcester's Glow Ride in the rain and meets Cycling UK's CEO. |
 
-## #098 Riding in an actual bicycle race — Diagram Club (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.1911&mlon=-2.2206#map=16/52.1911/-2.2206) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.1911,-2.2206)
 
+## #098 Riding in an actual bicycle race — Diagram Club (2026)
 Source: [Original](https://diagramclub.substack.com/p/098-riding-in-an-actual-bicycle-race) · [Readwise highlight](https://read.readwise.io/read/01m64mq91ye00myg37mhzb7jga)
 
 > So here I am, in the rain, at the Worcester Glow Ride.

@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Waldorf-Astoria
 title: Waldorf Astoria New York
 created: 2025-03-24
-modified: 2026-11-06T17:27:49.000Z
-published: 2026-11-06T17:27:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Waldorf Astoria New York.svg
+modified: 2026-11-07T06:58:16.095Z
+published: 2026-11-07T06:58:16.095Z
+aliases:
+  - Waldorf-Astoria
 books:
   - "[[Uncommon Type]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 40.7564
   - -73.9742
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Waldorf Astoria New York.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Waldorf Astoria New York.svg
 Art Deco hotel on Park Avenue, Manhattan. In Tom Hanks's 'A Junket in the City of Light' the New York leg of the press tour opens in its ballroom.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Uncommon Type]] | Tom Hanks | setting | The New York leg opens with a press conference where Willa talks for thirty minutes before Rory gets a question. |
 
-## Uncommon Type — Tom Hanks (2017)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7564&mlon=-73.9742#map=16/40.7564/-73.9742) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7564,-73.9742)
 
+## Uncommon Type — Tom Hanks (2017)
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5v6z9twhtaswheg17qsa9)
 
 > Four days of junket were held in New York City, starting with a press conference staged in the ballroom of the Waldorf Astoria, attended by 152 media outlets.

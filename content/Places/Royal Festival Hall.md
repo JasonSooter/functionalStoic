@@ -2,12 +2,8 @@
 publish: true
 title: Royal Festival Hall
 created: 2026-10-22T13:41:36.000Z
-modified: 2026-11-02T20:45:37.000Z
-published: 2026-11-02T20:45:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:01:46.711Z
+published: 2026-11-07T07:01:46.711Z
 aliases: []
 books:
   - Life on Air
@@ -20,7 +16,12 @@ icon: book
 location:
   - 51.5058
   - -0.1168
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
+image: Attachments/Places/Royal Festival Hall.svg
 ---
 
 # Royal Festival Hall
@@ -28,13 +29,13 @@ within: "[[London]]"
 Concert hall on London's South Bank; in _Life on Air_ the scene of a lighting mishap at Stravinsky's farewell concert.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The scene of a lighting mishap at Stravinsky's farewell concert. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5058&mlon=-0.1168#map=16/51.5058/-0.1168) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5058,-0.1168)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3182zd5d0c1jrr87hva5)
 
 > The farewell tour of one of the great composers of the century was clearly an event of real importance and I determined that BBC2 viewers should be there to share the occasion. I was disappointed to discover that the promoters were strongly opposed to the idea.

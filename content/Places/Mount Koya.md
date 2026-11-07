@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Mount Koya
+created: 2026-10-21T14:12:02.000Z
+modified: 2026-11-07T06:58:32.724Z
+published: 2026-11-07T06:58:32.724Z
 aliases:
   - Koyasan
   - Mount Kōya
-title: Mount Koya
-created: 2026-10-21T14:12:02.000Z
-modified: 2026-11-02T15:54:26.000Z
-published: 2026-11-02T15:54:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Four Thousand Weeks]]"
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - 34.2125
   - 135.5864
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Japan]]"
+image: Attachments/Places/Mount Koya.svg
 ---
 
 # Mount Koya
@@ -30,13 +31,13 @@ within: "[[Japan]]"
 Mount Koya is a mountain monastery complex in Wakayama Prefecture, Japan. It turns up in Four Thousand Weeks (Oliver Burkeman): The monastery and its Kii Mountains setting supply the ordeal that teaches the chapter's lesson about distraction and flight from discomfort.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Four Thousand Weeks]] | Oliver Burkeman | setting | Steve (later Shinzen) Young trains here as a Shingon Buddhist monk in 1969, first refused entry by the abbot, then doing menial tasks,… |
 
-## Four Thousand Weeks — Oliver Burkeman (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.2125&mlon=135.5864#map=16/34.2125/135.5864) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.2125,135.5864)
 
+## Four Thousand Weeks — Oliver Burkeman (2021)
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcq7gtagnzeza3fzxvn08c)
 
 > First, the abbot of the Mount Koya monastery had refused to let him in the door.

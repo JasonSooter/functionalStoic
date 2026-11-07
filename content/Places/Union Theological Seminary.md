@@ -2,13 +2,8 @@
 publish: true
 title: Union Theological Seminary
 created: 2024-05-18
-modified: 2026-11-06T11:22:56.000Z
-published: 2026-11-06T11:22:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Union Theological Seminary.svg
+modified: 2026-11-07T06:55:11.415Z
+published: 2026-11-07T06:55:11.415Z
 aliases: []
 books:
   - How to Be an Antiracist
@@ -21,6 +16,10 @@ icon: book
 location:
   - 40.8114
   - -73.9642
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Union Theological Seminary.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Union Theological Seminary.svg
 Theological seminary on Broadway in Morningside Heights, Manhattan. It turns up in How to Be an Antiracist (Ibram X. Kendi): seminary where Cone defined a Christian as one striving for liberation, a revelation for Kendi's father.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | turning point | Seminary where Cone defined a Christian as one striving for liberation, a revelation for Kendi's father. |
 
-## How to Be an Antiracist — Ibram X. Kendi (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.8114&mlon=-73.9642#map=16/40.8114/-73.9642) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.8114,-73.9642)
 
+## How to Be an Antiracist — Ibram X. Kendi (2019)
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fmrx2r071pteyb8gf9ntvv)
 
 > One day in the spring of 1971, Dad struck up the nerve to go up to Harlem and attend Cone’s class at Union Theological Seminary.

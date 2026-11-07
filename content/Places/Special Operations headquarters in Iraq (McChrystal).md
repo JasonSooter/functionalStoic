@@ -2,13 +2,8 @@
 publish: true
 title: Special Operations headquarters in Iraq (McChrystal)
 created: 2015-11-28
-modified: 2026-11-02T21:34:24.000Z
-published: 2026-11-02T21:34:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Special Operations headquarters in Iraq (McChrystal).svg
+modified: 2026-11-07T06:57:14.120Z
+published: 2026-11-07T06:57:14.120Z
 aliases: []
 books:
   - Why Every Organization Needs a Chief of Staff Like This One
@@ -17,12 +12,17 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 33.9333,44.3667
-geo_note: "best-guess: unnamed HQ with a runway, a helicopter ride from Baghdad; Balad is the commonly reported site"
+geo_note: "best-guess: unnamed HQ with a runway, a helicopter ride from Baghdad; Balad\
+  \ is the commonly reported site"
 geo_source: Wikipedia
 icon: newspaper
 location:
   - 33.9333
   - 44.3667
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Balad Air Base]]"
 image: Attachments/Places/Special Operations headquarters in Iraq (McChrystal).svg
 ---
@@ -32,13 +32,13 @@ image: Attachments/Places/Special Operations headquarters in Iraq (McChrystal).s
 Unnamed Special Operations headquarters in Iraq, beside a runway, where Stan McChrystal's chief-of-staff essay opens. The pin is a best guess at Balad Air Base north of Baghdad.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Every Organization Needs a Chief of Staff Like This One | Stan McChrystal | setting | A haboob grounds all aircraft beside the compound and wrecks the day; his aide has already rebuilt the schedule. |
 
-## Why Every Organization Needs a Chief of Staff Like This One — Stan McChrystal (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.9333&mlon=44.3667#map=16/33.9333/44.3667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.9333,44.3667)
 
+## Why Every Organization Needs a Chief of Staff Like This One — Stan McChrystal (2015)
 Source: [Original](https://www.linkedin.com/pulse/productivity-hacks-why-every-organization-needs-chief-stan-mcchrystal?trk=eml-mktg-inf-m-prodhacks-1008-p6) · [Readwise highlight](https://read.readwise.io/read/01m5gm1569kj3j0f5rey8ats76)
 
 > I wiped the dust off my uniform as I entered our Special Operations headquarters in Iraq.

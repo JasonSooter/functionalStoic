@@ -2,13 +2,8 @@
 publish: true
 title: Deus Ex Machina (Venice, California)
 created: 2017-03-16
-modified: 2026-11-02T14:15:39.000Z
-published: 2026-11-02T14:15:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Deus Ex Machina (Venice, California).svg
+modified: 2026-11-07T07:02:45.792Z
+published: 2026-11-07T07:02:45.792Z
 aliases: []
 books:
   - What are people working on in coffee shops?
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 33.9944
   - -118.4529
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Deus Ex Machina (Venice, California).svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Deus Ex Machina (Venice, California).svg
 Motorcycle shop and café in Venice, Los Angeles. Tristan de Montebello stages his coffee-shop survey here, asking every laptop worker what they are working on.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What are people working on in coffee shops? | Tristan de Montebello | setting | The author and a friend walk around the coffee shop at lunchtime interviewing every working customer about what they are doing |
 
-## What are people working on in coffee shops? — Tristan de Montebello (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.9944&mlon=-118.4529#map=16/33.9944/-118.4529) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.9944,-118.4529)
 
+## What are people working on in coffee shops? — Tristan de Montebello (2016)
 Source: [Original](https://medium.com/@montebello/what-are-people-working-on-in-coffee-shops-cdf351e28b6) · [Readwise highlight](https://read.readwise.io/read/01m5jvmez25xw2jebngtkbrs9f)
 
 > Almost every day I sit down in a coffee shop in Venice, California, to work on

@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Beijing West railway station
+created: 2026-11-01
+modified: 2026-11-07T06:58:34.096Z
+published: 2026-11-07T06:58:34.096Z
 aliases:
   - Beijing West
   - Beijingxi
-title: Beijing West railway station
-created: 2026-11-01
-modified: 2026-11-02T14:14:33.000Z
-published: 2026-11-02T14:14:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Beijing West railway station.svg
 books:
   - 2,000 km Overnight on China’s Bullet Train with Beds
 categories:
@@ -23,6 +18,10 @@ icon: video
 location:
   - 39.8949
   - 116.3221
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Beijing]]"
 image: Attachments/Places/Beijing West railway station.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Beijing West railway station.svg
 One of Beijing's main railway terminals, opened in 1996 and among the largest stations in Asia. It is where Simply Railway's overnight high-speed sleeper from Shenzhen arrives.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 2,000 km Overnight on China’s Bullet Train with Beds | Simply Railway | setting | Arrival around 06:30 after about 12 hours and 2,424 km; he says goodbye to his "capsule train" and would do it again. |
 
-## 2,000 km Overnight on China’s Bullet Train with Beds — Simply Railway
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.8949&mlon=116.3221#map=16/39.8949/116.3221) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.8949,116.3221)
 
+## 2,000 km Overnight on China’s Bullet Train with Beds — Simply Railway
 Source: [Original](https://www.youtube.com/watch?v=XD79kv_CanM) · [Readwise highlight](https://read.readwise.io/read/01m6cg5h8bjqyma0qpbpff9g49)
 
 > Beijing West is right ahead. And here we are:

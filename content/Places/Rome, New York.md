@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Lynchville
 title: Rome, New York
 created: 2026-10-23T07:48:26.000Z
-modified: 2026-11-02T20:38:32.000Z
-published: 2026-11-02T20:38:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:01:05.739Z
+published: 2026-11-07T07:01:05.739Z
+aliases:
+  - Lynchville
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 43.2194
   - -75.4633
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
+image: Attachments/Places/Rome, New York.svg
 ---
 
 # Rome, New York
@@ -29,13 +30,13 @@ within: "[[New York State]]"
 City in Oneida County, New York, at the old portage between the Mohawk and Wood Creek. In _Wedding of the Waters_ the canal's first earth is turned just outside it on 4 July 1817.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | turning point | Groundbreaking: on 4 July 1817 Judge Richardson's ox-plough makes the canal's first cut outside Rome. |
 
-## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.2194&mlon=-75.4633#map=16/43.2194/-75.4633) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.2194,-75.4633)
 
+## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvd9znn8a6qqgaw62v50ks)
 
 > Construction began at sunrise on July 4, 1817, just outside of Rome, where a large crowd had gathered along an unremarkable stretch of grass and trees.

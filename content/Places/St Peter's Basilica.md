@@ -1,17 +1,12 @@
 ---
 publish: true
+title: St. Peter's Basilica
+created: 2026-08-26
+modified: 2026-11-07T06:57:54.126Z
+published: 2026-11-07T06:57:54.126Z
 aliases:
   - Basilica di San Pietro
   - St Peter's Basilica
-title: St. Peter's Basilica
-created: 2026-08-26
-modified: 2026-11-03T01:20:02.000Z
-published: 2026-11-03T01:20:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/St Peter's Basilica.svg
 books:
   - Neither Here Nor There
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 41.9022
   - 12.4533
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rome]]"
 image: Attachments/Places/St Peter's Basilica.svg
 ---
@@ -31,10 +30,11 @@ image: Attachments/Places/St Peter's Basilica.svg
 The papal basilica in Vatican City, on the west bank of the Tiber in [[Rome]]. It appears in the reading as the emotional peak of Bill Bryson's Rome chapter, the one building that nearly brings him to his knees.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | The one building that brings Bryson close to his knees. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.9022&mlon=12.4533#map=16/41.9022/12.4533) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.9022,12.4533)
 
 ## Neither Here Nor There — Bill Bryson (1991)
 

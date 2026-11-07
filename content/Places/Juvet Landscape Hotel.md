@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Juvet Landskapshotell
 title: Juvet Landscape Hotel
 created: 2024-05-22
-modified: 2026-11-02T14:18:05.000Z
-published: 2026-11-02T14:18:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Juvet Landscape Hotel.svg
+modified: 2026-11-07T06:56:39.987Z
+published: 2026-11-07T06:56:39.987Z
+aliases:
+  - Juvet Landskapshotell
 books:
   - How we planned our Norwegian team offsite as a remote startup
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 62.333
   - 7.4705
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Norway]]"
 image: Attachments/Places/Juvet Landscape Hotel.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Juvet Landscape Hotel.svg
 Juvet Landscape Hotel is a hotel in the Valldal valley in western Norway. It turns up in How we planned our Norwegian team offsite as a remote startup (Daniel Doyon): The entire case-study of the article is set here, and it defines the venue criteria the company adopts.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How we planned our Norwegian team offsite as a remote startup | Daniel Doyon | setting | Readwise's sixth team offsite was held here in the fjords of Norway, in late April 2024. |
 
-## How we planned our Norwegian team offsite as a remote startup — Daniel Doyon (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=62.333&mlon=7.4705#map=16/62.333/7.4705) · [Google Maps](https://www.google.com/maps/search/?api=1&query=62.333,7.4705)
 
+## How we planned our Norwegian team offsite as a remote startup — Daniel Doyon (2024)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5fcp9jknn1gfw454g6vzhpa)
 
 > But lo and behold, the team overwhelmingly voted for Juvet Landscape Hotel.

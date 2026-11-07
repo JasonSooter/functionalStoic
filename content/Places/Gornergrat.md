@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Gornergrat
+created: 2026-01-20
+modified: 2026-11-07T06:58:25.964Z
+published: 2026-11-07T06:58:25.964Z
 aliases:
   - Gornergrat Bahn
   - Kulmhotel Gornergrat
-title: Gornergrat
-created: 2026-01-20
-modified: 2026-11-02T14:17:00.000Z
-published: 2026-11-02T14:17:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Gornergrat.svg
 books:
   - The Best 30-Minute Train Ride in Switzerland
   - The Alpine Hotel You Can't Get to by Car
@@ -23,6 +18,10 @@ icon: video
 location:
   - 45.9833
   - 7.7847
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Zermatt]]"
 image: Attachments/Places/Gornergrat.svg
 ---
@@ -32,14 +31,14 @@ image: Attachments/Places/Gornergrat.svg
 Rocky ridge above [[Zermatt]], Valais, Switzerland, at the top of the Gornergrat rack railway. It features in two videos as the destination of the train ride and as home to the highest hotel in Switzerland.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Best 30-Minute Train Ride in Switzerland]] | Simply Railway | journey waypoint | The end of the line at 3,089 metres: 29 four-thousanders, an observatory hotel and a gold-plated locomotive. |
 | [[The Alpine Hotel You Can't Get to by Car]] | Not Just Bikes | setting | A night in Switzerland's highest hotel, reachable only by train. |
 
-## The Best 30-Minute Train Ride in Switzerland — Simply Railway (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.9833&mlon=7.7847#map=16/45.9833/7.7847) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.9833,7.7847)
 
+## The Best 30-Minute Train Ride in Switzerland — Simply Railway (2026)
 Source: [Original](https://www.youtube.com/watch?v=-2dv2wwUp6w) · [Readwise highlight](https://read.readwise.io/read/01m5beyddq1rn30b90hyqyc4f7)
 
 > Welcome to Gornergrat — 3,089 meters, the end of the line.
@@ -49,7 +48,6 @@ Source: [Original](https://www.youtube.com/watch?v=-2dv2wwUp6w) · [Readwise hig
 - **Why it matters:** The summit is the ride's destination and the video's payoff.
 
 ## The Alpine Hotel You Can't Get to by Car — Not Just Bikes (2025)
-
 Source: [Original](https://www.youtube.com/watch?v=Q1du2Z-cF2c) · [Readwise highlight](https://read.readwise.io/read/01m5ce3nmxsrncqk3gs7bbrf54)
 
 > This is Gornergrat, and it has the highest hotel in Switzerland. The only way to get here is by train, and that’s my kind of destination.

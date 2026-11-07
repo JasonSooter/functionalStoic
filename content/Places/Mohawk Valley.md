@@ -2,12 +2,8 @@
 publish: true
 title: Mohawk Valley
 created: 2026-10-23T01:32:32.000Z
-modified: 2026-11-02T16:04:49.000Z
-published: 2026-11-02T16:04:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:56:54.520Z
+published: 2026-11-07T06:56:54.520Z
 aliases: []
 books:
   - Erie Canal
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 42.7609
   - -73.6871
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
+image: Attachments/Places/Mohawk Valley.svg
 ---
 
 # Mohawk Valley
@@ -29,13 +30,13 @@ within: "[[New York State]]"
 Valley of the Mohawk River in upstate New York, the only low gap through the Appalachians north of Alabama. The Wikipedia article on the Erie Canal makes it the route's geographic premise.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Erie Canal | wikipedia.org | subject | The article explains that the Mohawk and Hudson valleys form the only cut across the Appalachians north of Alabama, running between the… |
 
-## Erie Canal — wikipedia.org (2001)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.7609&mlon=-73.6871#map=10/42.7609/-73.6871) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.7609,-73.6871)
 
+## Erie Canal — wikipedia.org (2001)
 Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise highlight](https://read.readwise.io/read/01m5k5s91cc3n1zm0sqgtnmtvg)
 
 > A navigable canal through the Mohawk Valley would allow an almost complete water route from New York City in the south to Lake Ontario and Lake Erie in the west.

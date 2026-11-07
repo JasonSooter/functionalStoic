@@ -2,12 +2,8 @@
 publish: true
 title: Point Breeze, Philadelphia
 created: 2026-10-22T19:57:28.000Z
-modified: 2026-11-02T18:30:32.000Z
-published: 2026-11-02T18:30:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:55:49.898Z
+published: 2026-11-07T06:55:49.898Z
 aliases: []
 books:
   - The Benefits and Challenges of Student-Designed Learning
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 39.9348
   - -75.1815
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Philadelphia]]"
+image: Attachments/Places/Point Breeze, Philadelphia.svg
 ---
 
 # Point Breeze, Philadelphia
@@ -28,13 +29,13 @@ within: "[[Philadelphia]]"
 Neighbourhood of South Philadelphia. A subject in Katrina Schwartz's “The Benefits and Challenges of Student-Designed Learning”: Neighbourhood subject of students' gentrification radio piece.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Benefits and Challenges of Student-Designed Learning | Katrina Schwartz | subject | Neighbourhood subject of students' gentrification radio piece. |
 
-## The Benefits and Challenges of Student-Designed Learning — Katrina Schwartz (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9348&mlon=-75.1815#map=16/39.9348/-75.1815) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9348,-75.1815)
 
+## The Benefits and Challenges of Student-Designed Learning — Katrina Schwartz (2016)
 Source: [Original](https://ww2.kqed.org/mindshift/2016/03/25/the-benefits-and-challenges-of-student-designed-learning/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqyvx0es3c5qrnzyynv1n)
 
 > The students interviewed residents about their experiences of change in the neighborhood, pairing those personal viewpoints with research on gentrification.

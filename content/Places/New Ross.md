@@ -1,16 +1,12 @@
 ---
 publish: true
+title: New Ross
+created: 2026-10-19T14:06:31.000Z
+modified: 2026-11-07T07:02:01.295Z
+published: 2026-11-07T07:02:01.295Z
 aliases:
   - New Ross, County Wexford
   - Ros Mhic Thriúin
-title: New Ross
-created: 2026-10-19T14:06:31.000Z
-modified: 2026-11-02T17:54:06.000Z
-published: 2026-11-02T17:54:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Small Things Like These]]"
 categories:
@@ -20,8 +16,13 @@ icon: book
 location:
   - 52.396
   - -6.945
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ireland]]"
 coordinates: 52.396,-6.945
+image: Attachments/Places/New Ross.svg
 ---
 
 # New Ross
@@ -29,17 +30,17 @@ coordinates: 52.396,-6.945
 Port town on the River Barrow in south-west County Wexford, [[Ireland]], and the setting of Claire Keegan's Small Things Like These, where the whole novella takes place.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Small Things Like These]] | Claire Keegan | setting | Bill Furlong's coal-yard town in Christmas 1985, with the convent laundry on the hill across the Barrow. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.396&mlon=-6.945#map=11/52.396/-6.945) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.396,-6.945)
 
 ## Sub-places
 
 _None yet._
 
 ## Small Things Like These — Claire Keegan (2021)
-
 Source: [[Small Things Like These]] · [Original](https://openlibrary.org/works/OL23020966W) · [Readwise highlight](https://read.readwise.io/read/01m5a7prqg55r7gt7sg309xa5f)
 
 > In the town of New Ross, chimneys threw out smoke which fell away and drifted off in hairy, drawn-out strings before dispersing along the quays, and soon the River Barrow, dark as stout, swelled up with rain.

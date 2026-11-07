@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Forty-Mile Creek
 title: Fortymile River
 created: 2026-10-23
-modified: 2026-11-02T14:16:20.000Z
-published: 2026-11-02T14:16:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Fortymile River.svg
+modified: 2026-11-07T06:55:07.687Z
+published: 2026-11-07T06:55:07.687Z
+aliases:
+  - Forty-Mile Creek
 books:
   - The Call of the Wild
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 64.4264
   - -140.5333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Yukon]]"
 image: Attachments/Places/Fortymile River.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Fortymile River.svg
 River flowing from Alaska into the Yukon River below Dawson. In _The Call of the Wild_ Buck pulls Thornton from its rapids.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Call of the Wild | Jack London | turning point | Buck pulls Thornton out of its rapids. |
 
-## The Call of the Wild — Jack London (1903)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=64.4264&mlon=-140.5333#map=10/64.4264/-140.5333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=64.4264,-140.5333)
 
+## The Call of the Wild — Jack London (1903)
 Source: [Original](https://openlibrary.org/works/OL14942956W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5r5r89z013ecdhq4z9bb)
 
 > The three partners were lining a long and narrow poling-boat down a bad stretch of rapids on the Forty-Mile Creek. Hans and Pete moved along the bank, snubbing with a thin Manila rope from tree to tree,

@@ -2,13 +2,8 @@
 publish: true
 title: Florida
 created: 2025-11-26
-modified: 2026-11-02T14:16:37.000Z
-published: 2026-11-02T14:16:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Florida.svg
+modified: 2026-11-07T06:54:28.619Z
+published: 2026-11-07T06:54:28.619Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 28.7505
   - -82.5001
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Florida.svg
 ---
 
@@ -30,10 +29,11 @@ image: Attachments/Places/Florida.svg
 State in the south-eastern [[United States]], appearing in the reading as one stop on Kyla Scanlon's road trip asking where American prosperity went.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go\|30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?]] | Kyla Scanlon | journey waypoint | A state ageing and aspiring at once. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.7505&mlon=-82.5001#map=11/28.7505/-82.5001) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.7505,-82.5001)
 
 ## Sub-places
 
@@ -58,7 +58,6 @@ State in the south-eastern [[United States]], appearing in the reading as one st
 - [[Tallahassee]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
-
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5eqy53q64qvkj0sd98gs)
 
 > I drove from Fort Lauderdale to Marco Island to West Palm Beach, and the whole state felt like it was aging and aspiring at the same time.

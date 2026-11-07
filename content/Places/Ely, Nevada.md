@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Ely
 title: Ely, Nevada
 created: 2023-07-30
-modified: 2026-11-02T14:15:37.000Z
-published: 2026-11-02T14:15:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Ely, Nevada.svg
+modified: 2026-11-07T06:52:01.400Z
+published: 2026-11-07T06:52:01.400Z
+aliases:
+  - Ely
 books:
   - "[[The Comfort Crisis]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 39.2533
   - -114.8772
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nevada]]"
 image: Attachments/Places/Ely, Nevada.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Ely, Nevada.svg
 Small high-desert town in White Pine County, eastern Nevada. In The Comfort Crisis (Michael Easter) it is the start of an elk hunt in the White Pine Mountains, Easter's first taste of chosen discomfort.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | setting | Gateway town to a cold, hard elk hunt in the White Pine Mountains with Donnie Vincent. |
 
-## The Comfort Crisis — Michael Easter (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.2533&mlon=-114.8772#map=16/39.2533/-114.8772) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.2533,-114.8772)
 
+## The Comfort Crisis — Michael Easter (2021)
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fycyj8xtnrkjbs6ee9pqxg)
 
 > I wound up in Ely, Nevada, a town whose elevation number is bigger than its population.

@@ -2,13 +2,8 @@
 publish: true
 title: Scuba Club Cozumel
 created: 2024-07-03
-modified: 2026-11-02T21:15:26.000Z
-published: 2026-11-02T21:15:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Scuba Club Cozumel.svg
+modified: 2026-11-07T06:53:53.481Z
+published: 2026-11-07T06:53:53.481Z
 aliases: []
 books:
   - "[[The Soul of an Octopus]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 20.4998
   - -86.9611
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Cozumel]]"
 image: Attachments/Places/Scuba Club Cozumel.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Scuba Club Cozumel.svg
 Dive resort on the west shore of Cozumel, Mexico. In The Soul of an Octopus (Sy Montgomery) it is the base for her first ocean dives.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Soul of an Octopus]] | Sy Montgomery | setting | Base for the Cozumel dive trip and her shaky checkout dive. |
 
-## The Soul of an Octopus — Sy Montgomery (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=20.4998&mlon=-86.9611#map=16/20.4998/-86.9611) · [Google Maps](https://www.google.com/maps/search/?api=1&query=20.4998,-86.9611)
 
+## The Soul of an Octopus — Sy Montgomery (2015)
 Source: [[The Soul of an Octopus]] · [Original](https://openlibrary.org/books/OL27182716M/The_Soul_of_an_Octopus) · [Readwise highlight](https://read.readwise.io/read/01m5fzcpyafcdwdbpj2qt2s05q)
 
 > when we nally arrive at Scuba Club Cozumel to get ready for our checkout dive

@@ -2,13 +2,8 @@
 publish: true
 title: 10 Downing Street
 created: 2024-10-04
-modified: 2026-11-02T14:13:54.000Z
-published: 2026-11-02T14:13:54.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/10 Downing Street.svg
+modified: 2026-11-07T07:05:31.658Z
+published: 2026-11-07T07:05:31.658Z
 aliases: []
 books:
   - Life on Air
@@ -24,6 +19,10 @@ image: Attachments/Places/10 Downing Street.svg
 location:
   - 51.5033
   - -0.1275
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -36,6 +35,8 @@ Official residence of the British prime minister in Westminster, London; in _Lif
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough produces Eden's Suez broadcast there. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5033&mlon=-0.1275#map=16/51.5033/-0.1275) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5033,-0.1275)
 
 ## Life on Air — David Attenborough (2002)
 

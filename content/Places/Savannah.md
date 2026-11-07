@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Savannah, Georgia
 title: Savannah
 created: 2024-05-18
-modified: 2026-11-02T21:10:48.000Z
-published: 2026-11-02T21:10:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Savannah.svg
+modified: 2026-11-07T06:53:16.734Z
+published: 2026-11-07T06:53:16.734Z
+aliases:
+  - Savannah, Georgia
 books:
   - How to Be an Antiracist
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 32.0811
   - -81.0911
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Georgia (U.S. state)]]"
 image: Attachments/Places/Savannah.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Savannah.svg
 Historic port city in coastal Georgia. In How to Be an Antiracist (Ibram X. Kendi) it is where General Sherman met Black leaders in 1865.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | subject | Where Sherman met twenty Black leaders before Field Order No. 15. |
 
-## How to Be an Antiracist — Ibram X. Kendi (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.0811&mlon=-81.0911#map=16/32.0811/-81.0911) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.0811,-81.0911)
 
+## How to Be an Antiracist — Ibram X. Kendi (2019)
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fzd2w55e3q07nefmt0v7hr)
 
 > On January 12, 1865, in the midst of the Civil War, General William T. Sherman and U.S. secretary of war Edwin M. Stanton met with twenty Black leaders in Savannah, Georgia.

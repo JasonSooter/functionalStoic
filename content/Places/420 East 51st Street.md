@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - 420 Beekman Hill
 title: 420 East 51st Street
 created: 2025-09-29
-modified: 2026-11-02T14:14:16.000Z
-published: 2026-11-02T14:14:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/420 East 51st Street.svg
+modified: 2026-11-07T06:51:40.059Z
+published: 2026-11-07T06:51:40.059Z
+aliases:
+  - 420 Beekman Hill
 books:
   - The Manhattan Apartment Building That Went All-In on All-Electric
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 40.754
   - -73.9652
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/420 East 51st Street.svg
 ---
@@ -31,17 +30,17 @@ image: Attachments/Places/420 East 51st Street.svg
 1960s co-op apartment building in Midtown East, [[New York City]], that appears as a case study in electrifying older city housing with rooftop heat pumps.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Manhattan Apartment Building That Went All-in on All-Electric\|The Manhattan Apartment Building That Went All-In on All-Electric]] | Marlowe Starling | subject | A 110-unit co-op that swapped gas steam for rooftop heat pumps. |
 
-## The Manhattan Apartment Building That Went All-In on All-Electric — Marlowe Starling (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.754&mlon=-73.9652#map=16/40.754/-73.9652) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.754,-73.9652)
 
+## The Manhattan Apartment Building That Went All-In on All-Electric — Marlowe Starling (2025)
 Source: [Original](https://reasonstobecheerful.world/new-york-electric-co-op-apartment-building-bright-future/) · [Readwise highlight](https://read.readwise.io/read/01m5d209znyddv8bvvfwm0s3px)
 
 > As one of the first co-ops in Manhattan to fully electrify its heating and cooling systems with heat pumps, it serves as a model for cities looking to make older housing stock more sustainable.
 
 - **Role:** subject
-- **In the article:** The 13-storey, white-brick co-op replaced its gas-fired steam heating and cooling with ten rooftop heat pumps, craned into place. The $3.8 million project was partly paid for by state and utility grants; the building met the city's Local Law 97 emissions target early and cut summer energy bills from about $20,000 to about \$12,000 a month.
+- **In the article:** The 13-storey, white-brick co-op replaced its gas-fired steam heating and cooling with ten rooftop heat pumps, craned into place. The $3.8 million project was partly paid for by state and utility grants; the building met the city's Local Law 97 emissions target early and cut summer energy bills from about $20,000 to about $12,000 a month.
 - **Why it matters:** The building is the article's case study for electrifying older city housing.

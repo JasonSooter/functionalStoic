@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Ireland
+created: 2024-05-18
+modified: 2026-11-07T06:54:24.435Z
+published: 2026-11-07T06:54:24.435Z
 aliases:
   - Republic of Ireland
   - Éire
-title: Ireland
-created: 2024-05-18
-modified: 2026-11-02T14:17:41.000Z
-published: 2026-11-02T14:17:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Ireland.svg
 books:
   - The Simple Path to Wealth
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
@@ -25,6 +20,10 @@ icon: book
 location:
   - 53
   - -8
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Ireland.svg
 ---
 
@@ -39,6 +38,8 @@ Island country in north-west Europe. It shows up in the reading in JL Collins's 
 | The Simple Path to Wealth | JL Collins | journey waypoint | Six-week cycling trip funded by his first F-You Money. |
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | backdrop | The potato famine of 1845–46 tips Britain toward Corn Law repeal and American grain. |
 
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53&mlon=-8#map=11/53/-8) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53,-8)
+
 ## Sub-places
 
 - [[Cobh]]
@@ -49,7 +50,6 @@ Island country in north-west Europe. It shows up in the reading in JL Collins's 
 - [[River Barrow]]
 
 ## The Simple Path to Wealth — JL Collins (2016)
-
 Source: [Original](https://openlibrary.org/works/OL20916711W) · [Readwise highlight](https://read.readwise.io/read/01m5fmt9ahxn2f0wd0gc82eh2j)
 
 > we agreed on a six-week leave which I spent riding my bicycle around Ireland and Wales.
@@ -59,7 +59,6 @@ Source: [Original](https://openlibrary.org/works/OL20916711W) · [Readwise highl
 - **Why it matters:** The trip proves F-You Money buys negotiating power. It could have been anywhere in Europe; the point is the leave.
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
-
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kve87zzwmb3yedx96ffmn9)
 
 > The most dramatic tragedy occurred in Ireland, where a blight of the potato crop left almost the entire land covered with black rot.

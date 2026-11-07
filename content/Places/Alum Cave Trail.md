@@ -2,13 +2,8 @@
 publish: true
 title: Alum Cave Trail
 created: 2015-12-23
-modified: 2026-11-02T14:14:12.000Z
-published: 2026-11-02T14:14:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Alum Cave Trail.svg
+modified: 2026-11-07T06:53:53.057Z
+published: 2026-11-07T06:53:53.057Z
 aliases: []
 books:
   - Hiking Tennessee’s Mount LeConte
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 35.6385
   - -83.4462
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Great Smoky Mountains National Park]]"
 image: Attachments/Places/Alum Cave Trail.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Alum Cave Trail.svg
 Hiking trail up Mount Le Conte in Great Smoky Mountains National Park, Tennessee; it is the route of Bob Doucette's winter hike in Proactive Outside.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Hiking Tennessee’s Mount LeConte | Bob Doucette | subject | The route of Bob Doucette's winter hike in Proactive Outside. |
 
-## Hiking Tennessee’s Mount LeConte — Bob Doucette (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.6385&mlon=-83.4462#map=16/35.6385/-83.4462) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6385,-83.4462)
 
+## Hiking Tennessee’s Mount LeConte — Bob Doucette (2015)
 Source: [Original](https://proactiveoutside.wordpress.com/2015/12/08/hiking-tennessees-mount-leconte/) · [Readwise highlight](https://read.readwise.io/read/01m5hx1j1e92t0njk1jb5mffq9)
 
 > That 11-miler is also the steepest, and just so happens to be the route we picked – the Alum Cave Trail.

@@ -2,16 +2,11 @@
 publish: true
 title: Southwark Cathedral
 created: 2024-10-10
-modified: 2026-11-02T21:34:24.000Z
-published: 2026-11-02T21:34:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Southwark Cathedral.svg
+modified: 2026-11-07T06:57:08.280Z
+published: 2026-11-07T06:57:08.280Z
 aliases: []
 books:
-  - "#011 How to find the thing you've lost"
+  - '#011 How to find the thing you''ve lost'
 categories:
   - "[[Places]]"
 color: purple
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 51.5061
   - -0.0897
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Southwark Cathedral.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Southwark Cathedral.svg
 Anglican cathedral on the south bank of the Thames by London Bridge. It appears in the reading as the backdrop to a farewell event described in Dave Walker's Diagram Club newsletter.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #011 How to find the thing you've lost | Dave Walker | setting | Farewell event for the Church Times editor, with friends and former newsroom colleagues. |
 
-## #011 How to find the thing you've lost — Dave Walker (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5061&mlon=-0.0897#map=16/51.5061/-0.0897) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5061,-0.0897)
 
+## #011 How to find the thing you've lost — Dave Walker (2024)
 Source: [Original](https://diagramclub.substack.com/p/011-how-to-find-the-thing-youve-lost) · [Readwise highlight](https://read.readwise.io/read/01m5f0pav3a3q3k69vdqevpcrf)
 
 > Last night we had a farewell event at Southwark Cathedral, and it was great to be there with friends, contributors to the paper and journalist / publishing colleagues from the time I worked in the newsroom as the website editor for the paper.

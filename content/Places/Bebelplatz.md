@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Bebelplatz
+created: 2026-01-04
+modified: 2026-11-07T06:58:29.200Z
+published: 2026-11-07T06:58:29.200Z
 aliases:
   - Forum Fridericianum
   - Opernplatz
-title: Bebelplatz
-created: 2026-01-04
-modified: 2026-11-07T06:20:40.000Z
-published: 2026-11-07T06:20:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bebelplatz.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 52.5167
   - 13.3939
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Bebelplatz.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Bebelplatz.svg
 Square on Unter den Linden in Berlin, laid out under Frederick the Great as the Forum Fridericianum. In _Germany: Memories of a Nation_ it is the site of the 1933 book burning and its memorial.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | turning point | Frederick the Great's square of learning, where Nazi students burned books in 1933; an empty underground library marks it now. |
 
-## Germany: Memories of a Nation — Neil MacGregor (2014)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.5167&mlon=13.3939#map=16/52.5167/13.3939) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.5167,13.3939)
 
+## Germany: Memories of a Nation — Neil MacGregor (2014)
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76qmh7kj0hjt02rnqs0c7)
 
 > The bonfire was held on what is now Bebelplatz, a square in the centre of Berlin, and in the middle of Bebelplatz there is now a memorial: a large glass plate set in the cobbles.

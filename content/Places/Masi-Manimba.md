@@ -2,13 +2,8 @@
 publish: true
 title: Masi-Manimba
 created: 2024-05-09
-modified: 2026-11-02T15:29:00.000Z
-published: 2026-11-02T15:29:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Masi-Manimba.svg
+modified: 2026-11-07T06:54:55.482Z
+published: 2026-11-07T06:54:55.482Z
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - -4.779
   - 17.9077
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Democratic Republic of the Congo]]"
 image: Attachments/Places/Masi-Manimba.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Masi-Manimba.svg
 Town in the highlands of the [[Democratic Republic of the Congo]]. In Hans Rosling's memoir it is a waypoint whose Kikongo name, 'the place where people sleep', explains why villagers distrust blood sampling.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | journey waypoint | The team reaches the town at sunset; its Kikongo name, 'the place where people sleep', is tied to sleeping sickness and colonial blood sampling. |
 
-## How I Learned to Understand the World — Hans Rosling
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-4.779&mlon=17.9077#map=16/-4.779/17.9077) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-4.779,17.9077)
 
+## How I Learned to Understand the World — Hans Rosling
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5e325tyh0mehdfmm1yvj1qv)
 
 > Just before sunset, we reached Masi-Manimba, a small town in the highlands, around six hundred meters above sea level.

@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Reichsburg Cochem
+created: 2026-10-20T04:21:20.000Z
+modified: 2026-11-07T06:59:41.964Z
+published: 2026-11-07T06:59:41.964Z
 aliases:
   - Cochem Imperial Castle
   - Cochem Castle
-title: Reichsburg Cochem
-created: 2026-10-20T04:21:20.000Z
-modified: 2026-11-02T20:29:12.000Z
-published: 2026-11-02T20:29:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
 categories:
@@ -21,7 +17,12 @@ icon: video
 location:
   - 50.1422
   - 7.1669
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rhineland-Palatinate]]"
+image: Attachments/Places/Reichsburg Cochem.svg
 ---
 
 # Reichsburg Cochem
@@ -29,13 +30,13 @@ within: "[[Rhineland-Palatinate]]"
 Castle above the Moselle at Cochem, in [[Rhineland-Palatinate]], featured in DW Travel's video on lesser-known German cities.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | The castle that once collected tolls from Moselle boats dominates the town. |
 
-## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.1422&mlon=7.1669#map=16/50.1422/7.1669) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.1422,7.1669)
 
+## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
 Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Original](https://www.youtube.com/watch?v=9AbxJrqpPqQ) · [Readwise highlight](https://read.readwise.io/read/01m5brfqqndbkjmgtg8essdr45)
 
 > Its picturesque setting is dominated by Cochem Imperial Castle

@@ -2,12 +2,8 @@
 publish: true
 title: Mount Greylock
 created: 2026-10-21T13:55:55.000Z
-modified: 2026-11-02T15:54:26.000Z
-published: 2026-11-02T15:54:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:58:25.952Z
+published: 2026-11-07T06:58:25.952Z
 aliases: []
 books:
   - "[[Dispatch From Herman Melville’s Farm]]"
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 42.6373
   - -73.166
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
+image: Attachments/Places/Mount Greylock.svg
 ---
 
 # Mount Greylock
@@ -28,13 +29,13 @@ within: "[[Massachusetts]]"
 Mount Greylock is the highest peak in Massachusetts. It turns up in Dispatch from Herman Melville’s Farm (Cal Newport): The view is a recurring element of the writing setup, but the mountain is described only from the window.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Dispatch From Herman Melville’s Farm\|Dispatch from Herman Melville’s Farm]] | Cal Newport | backdrop | Melville positioned his writing table at a window facing Mount Greylock. |
 
-## Dispatch from Herman Melville’s Farm — Cal Newport (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.6373&mlon=-73.166#map=16/42.6373/-73.166) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.6373,-73.166)
 
+## Dispatch from Herman Melville’s Farm — Cal Newport (2024)
 Source: [[Dispatch From Herman Melville’s Farm]] · [Original](https://calnewport.com/dispatch-from-herman-melvilles-farm/) · [Readwise highlight](https://read.readwise.io/read/01m5fbgsytjb7qk6446mwwn0es)
 
 > He pushed the table against a window offering a direct view of the hump-backed Mount Greylock in the distance:

@@ -2,13 +2,8 @@
 publish: true
 title: Chisago County, Minnesota
 created: 2025-06-21
-modified: 2026-11-02T14:15:19.000Z
-published: 2026-11-02T14:15:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Chisago County, Minnesota.svg
+modified: 2026-11-07T06:55:41.554Z
+published: 2026-11-07T06:55:41.554Z
 aliases: []
 books:
   - "[[The Nordic Theory of Everything]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 45.5025
   - -92.9083
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Minnesota]]"
 image: Attachments/Places/Chisago County, Minnesota.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Chisago County, Minnesota.svg
 County north-east of Minneapolis–Saint Paul, Minnesota. In _The Nordic Theory of Everything_ its residents are the example of Americans who resent the government help they depend on.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Nordic Theory of Everything]] | Anu Partanen | subject | Residents relying on Medicare and school lunches resent government spending on the "undeserving". |
 
-## The Nordic Theory of Everything — Anu Partanen (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.5025&mlon=-92.9083#map=16/45.5025/-92.9083) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5025,-92.9083)
 
+## The Nordic Theory of Everything — Anu Partanen (2016)
 Source: [[The Nordic Theory of Everything]] · [Original](https://openlibrary.org/works/OL20028831W) · [Readwise highlight](https://read.readwise.io/read/01m5kjfsp26jr4we6nesjeybef)
 
 > When the reporters interviewed low-income residents of Chisago County in Minnesota, many interviewees said they were angry.

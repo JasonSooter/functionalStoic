@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Lenexa, Kansas
 title: EPA Region 7 Headquarters (Lenexa)
 created: 2024-05-18
-modified: 2026-11-02T14:16:28.000Z
-published: 2026-11-02T14:16:28.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/EPA Region 7 Headquarters (Lenexa).svg
+modified: 2026-11-07T07:04:31.767Z
+published: 2026-11-07T07:04:31.767Z
+aliases:
+  - Lenexa, Kansas
 books:
   - "[[Walkable City]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 38.9661
   - -94.7339
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Kansas]]"
 image: Attachments/Places/EPA Region 7 Headquarters (Lenexa).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/EPA Region 7 Headquarters (Lenexa).svg
 EPA Region 7 Headquarters is the U.S. Environmental Protection Agency's regional office in the suburb of Lenexa, Kansas. It turns up in Walkable City (Jeff Speck): It is the book's showcase of 'LEED Brain': a green building in the wrong place.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | The EPA publishes a study showing location trumps building design, then moves 672 employees from downtown Kansas City twenty miles out to… |
 
-## Walkable City — Jeff Speck (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9661&mlon=-94.7339#map=10/38.9661/-94.7339) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9661,-94.7339)
 
+## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjjz8csxqtyhyht7772zc)
 
 > A mere month after releasing the above study, the agency announced that it was relocating its 672-employee Region 7 Headquarters from downtown Kansas City to the new far-flung suburb of Lenexa, Kansas (Walk Score 28).

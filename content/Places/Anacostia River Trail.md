@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Anacostia Riverwalk Trail
 title: Anacostia River Trail
 created: 2025-11-11
-modified: 2026-11-02T14:14:08.000Z
-published: 2026-11-02T14:14:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Anacostia River Trail.svg
+modified: 2026-11-07T06:54:06.458Z
+published: 2026-11-07T06:54:06.458Z
+aliases:
+  - Anacostia Riverwalk Trail
 books:
   - "[[17 Responses to “Year in Review - 2024”]]"
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 38.8782
   - -76.9691
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington DC]]"
 image: Attachments/Places/Anacostia River Trail.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Anacostia River Trail.svg
 Riverside walking and cycling trail along the Anacostia in [[Washington DC|Washington, D.C.]], the ride that marks a return to normal in a Chasing Mailboxes year-in-review.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[17 Responses to “Year in Review - 2024”\|Year in Review: 2024]] | MG (Chasing Mailboxes) | subject | "One of my favorite places in the world", ridden again after her husband's recovery. |
 
-## Year in Review: 2024 — MG (Chasing Mailboxes) (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8782&mlon=-76.9691#map=10/38.8782/-76.9691) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8782,-76.9691)
 
+## Year in Review: 2024 — MG (Chasing Mailboxes) (2024)
 Source: [[17 Responses to “Year in Review - 2024”]] · [Original](https://chasingmailboxes.com/2024/12/30/year-in-review-2024/) · [Readwise highlight](https://read.readwise.io/read/01m5d20ndreqp3g2m77sfjx85c)
 
 > AND we also went meandering along the Anacostia River Trail, one of my favorite places in the world.

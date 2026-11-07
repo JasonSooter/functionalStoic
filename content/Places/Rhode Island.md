@@ -2,12 +2,8 @@
 publish: true
 title: Rhode Island
 created: 2026-10-20T10:42:27.000Z
-modified: 2026-11-02T20:29:12.000Z
-published: 2026-11-02T20:29:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:00:07.634Z
+published: 2026-11-07T07:00:07.634Z
 aliases: []
 books:
   - What if everyone on Earth was in the same place and jumped at the same time?
@@ -21,6 +17,11 @@ icon: video
 location:
   - 41.7504
   - -71.4998
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+image: Attachments/Places/Rhode Island.svg
 ---
 
 # Rhode Island
@@ -28,10 +29,11 @@ location:
 Smallest US state, in New England, used as the packed-crowd setting of an xkcd What If? video on everyone on Earth jumping at once.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[What if Everyone on Earth Was in the Same Place and Jumped at the Same Time\|What if everyone on Earth was in the same place and jumped at the same time?]] | xkcd's What If? | setting | Everyone on Earth packed into one small state. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7504&mlon=-71.4998#map=11/41.7504/-71.4998) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.7504,-71.4998)
 
 ## Sub-places
 
@@ -42,7 +44,6 @@ Smallest US state, in New England, used as the packed-crowd setting of an xkcd W
 - [[Washington Bridge (Providence)]]
 
 ## What if everyone on Earth was in the same place and jumped at the same time? — xkcd's What If? (2025)
-
 Source: [Original](https://www.youtube.com/shorts/Ny9m2l6h478) · [Readwise highlight](https://read.readwise.io/read/01m5ce4phpcth4m2v8qezr89qn)
 
 > This crowd takes up an area the size of Rhode Island.

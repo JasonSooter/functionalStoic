@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Kinshasa, Zaire
 title: Kinshasa
 created: 2024-05-09
-modified: 2026-11-02T14:18:00.000Z
-published: 2026-11-02T14:18:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Kinshasa.svg
+modified: 2026-11-07T06:58:26.516Z
+published: 2026-11-07T06:58:26.516Z
+aliases:
+  - Kinshasa, Zaire
 books:
   - "[[How I Learned to Understand the World]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - -4.3219
   - 15.3119
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Democratic Republic of the Congo]]"
 image: Attachments/Places/Kinshasa.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Kinshasa.svg
 Capital of the [[Democratic Republic of the Congo]], the starting point of Hans Rosling's konzo fieldwork in How I Learned to Understand the World.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | journey waypoint | Rosling and a team spend their first night in the capital before driving east to study konzo in Bandundu. |
 
-## How I Learned to Understand the World — Hans Rosling (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-4.3219&mlon=15.3119#map=16/-4.3219/15.3119) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-4.3219,15.3119)
 
+## How I Learned to Understand the World — Hans Rosling (2019)
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5dqzkday83pwkp9v9dvamkt)
 
 > As we drove through the outskirts of Kinshasa, a city with several million inhabitants, the communities looked more and more impoverished.

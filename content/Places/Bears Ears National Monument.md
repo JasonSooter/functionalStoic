@@ -2,13 +2,8 @@
 publish: true
 title: Bears Ears National Monument
 created: 2024-12-25
-modified: 2026-11-02T14:14:24.000Z
-published: 2026-11-02T14:14:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bears Ears National Monument.svg
+modified: 2026-11-07T06:58:02.275Z
+published: 2026-11-07T06:58:02.275Z
 aliases: []
 books:
   - "[[The Serviceberry]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 37.6296
   - -109.8676
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Utah]]"
 image: Attachments/Places/Bears Ears National Monument.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Bears Ears National Monument.svg
 National monument in south-east Utah. The Serviceberry cites its intertribal protection as Indigenous economics in practice.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Serviceberry]] | Robin Wall Kimmerer | subject | Used as an example of Indigenous economics: five tribes built relationships with the federal government to protect the land as a… |
 
-## The Serviceberry — Robin Wall Kimmerer (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.6296&mlon=-109.8676#map=16/37.6296/-109.8676) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.6296,-109.8676)
 
+## The Serviceberry — Robin Wall Kimmerer (2024)
 Source: [[The Serviceberry]] · [Original](https://www.simonandschuster.com/books/The-Serviceberry/Robin-Wall-Kimmerer/9781668072257) · [Readwise highlight](https://read.readwise.io/read/01m5jy9r1hcgqepym0cn31n6dx)
 
 > Trosper tells the story of how making relationships led to the historic intertribal agreements with the U.S. government to protect the cultural landscape of the Bears Ears as the first tribally focused national monument.

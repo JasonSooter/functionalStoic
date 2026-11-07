@@ -2,13 +2,8 @@
 publish: true
 title: Legoland California
 created: 2015-11-28
-modified: 2026-11-02T14:18:39.000Z
-published: 2026-11-02T14:18:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Legoland California.svg
+modified: 2026-11-07T07:03:18.601Z
+published: 2026-11-07T07:03:18.601Z
 aliases: []
 books:
   - A Tale of Two Vacations
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 33.1267
   - -117.3111
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Legoland California.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Legoland California.svg
 Lego theme park in Carlsbad, [[California]]. In a Retire by 40 post it is the expensive half of a comparison of two family trips.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Tale of Two Vacations | retirebyforty | subject | A hot, pricey day of rides at Legoland, set against the free cave trip. |
 
-## A Tale of Two Vacations — retirebyforty (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.1267&mlon=-117.3111#map=16/33.1267/-117.3111) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.1267,-117.3111)
 
+## A Tale of Two Vacations — retirebyforty (2015)
 Source: [Original](https://retireby40.org/a-tale-of-two-vacations/) · [Readwise highlight](https://read.readwise.io/read/01m5ga1bdmm3r5kwab5nsddrbq)
 
 > We decided to visit Legoland because Mrs. RB40 has been hankering to go to an amusement park for a while now.

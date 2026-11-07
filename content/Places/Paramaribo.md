@@ -2,12 +2,8 @@
 publish: true
 title: Paramaribo
 created: 2026-10-23T04:41:24.000Z
-modified: 2026-11-02T18:19:59.000Z
-published: 2026-11-02T18:19:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:53:47.804Z
+published: 2026-11-07T06:53:47.804Z
 aliases: []
 books:
   - "[[The Girl Who Drew Butterflies]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 5.8522
   - -55.2039
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Suriname]]"
+image: Attachments/Places/Paramaribo.svg
 ---
 
 # Paramaribo
@@ -28,13 +29,13 @@ within: "[[Suriname]]"
 Capital of Suriname, then the Dutch colony of Surinam. In _The Girl Who Drew Butterflies_ Maria Merian lives there for nearly two years studying tropical insects.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Girl Who Drew Butterflies]] | Joyce Sidman | setting | Maria's base in Surinam: a garden of caterpillars in a colony built on slavery, until fever sends her home. |
 
-## The Girl Who Drew Butterflies — Joyce Sidman (2018)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=5.8522&mlon=-55.2039#map=16/5.8522/-55.2039) · [Google Maps](https://www.google.com/maps/search/?api=1&query=5.8522,-55.2039)
 
+## The Girl Who Drew Butterflies — Joyce Sidman (2018)
 Source: [[The Girl Who Drew Butterflies]] · [Original](https://openlibrary.org/works/OL19731743W) · [Readwise highlight](https://read.readwise.io/read/01m5kgryx0ddd1dxacnm6hd13n)
 
 > The white wooden houses of Paramaribo stood in orderly Dutch fashion along streets paved with crushed seashells. But the docks echoed with the cries of enslaved Africans bought, sold, and branded in the burning sun.

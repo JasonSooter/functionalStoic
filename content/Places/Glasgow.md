@@ -2,13 +2,8 @@
 publish: true
 title: Glasgow
 created: 2024-11-19
-modified: 2026-11-02T14:16:35.000Z
-published: 2026-11-02T14:16:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Glasgow.svg
+modified: 2026-11-07T06:57:49.859Z
+published: 2026-11-07T06:57:49.859Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 55.8611
   - -4.25
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Scotland]]"
 image: Attachments/Places/Glasgow.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Glasgow.svg
 City in [[Scotland]], UK, host of the COP26 climate conference where Brazil pledged to end deforestation, a pledge Hannah Ritchie's Not the End of the World weighs against reality.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | turning point | Brazil's pledge at Glasgow raised hopes that deforestation could be ended globally, since most forest loss occurs in Brazil. |
 
-## Not the End of the World — Hannah Ritchie (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.8611&mlon=-4.25#map=16/55.8611/-4.25) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.8611,-4.25)
 
+## Not the End of the World — Hannah Ritchie (2024)
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5ebvkwkn049wr7psb23bn6a)
 
 > At the 2021 international climate conference in Glasgow – COP26 – the Bolsonaro government pledged to end illegal deforestation by 2028, two years earlier than previously agreed.

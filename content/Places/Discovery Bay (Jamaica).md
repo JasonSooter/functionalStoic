@@ -2,13 +2,8 @@
 publish: true
 title: Discovery Bay (Jamaica)
 created: 2024-11-19
-modified: 2026-11-02T14:15:19.000Z
-published: 2026-11-02T14:15:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Discovery Bay (Jamaica).svg
+modified: 2026-11-07T07:03:18.641Z
+published: 2026-11-07T07:03:18.641Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -16,12 +11,17 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 18.4667,-77.4
-geo_note: town of Discovery Bay, St Ann Parish (Wikipedia coord 18 28N 77 24W); Marine Laboratory not separately checked
+geo_note: town of Discovery Bay, St Ann Parish (Wikipedia coord 18 28N 77 24W); Marine
+  Laboratory not separately checked
 geo_source: Wikipedia (en) Discovery Bay, Jamaica
 icon: book
 location:
   - 18.4667
   - -77.4
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Jamaica]]"
 image: Attachments/Places/Discovery Bay (Jamaica).svg
 ---
@@ -31,13 +31,13 @@ image: Attachments/Places/Discovery Bay (Jamaica).svg
 Bay and town on Jamaica's north coast, site of a marine laboratory. Hannah Ritchie recalls diving on its bleached reefs as a student.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | setting | Ritchie dives on bleached reefs: rubble, algae, no fish, only urchins. |
 
-## Not the End of the World — Hannah Ritchie (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=18.4667&mlon=-77.4#map=16/18.4667/-77.4) · [Google Maps](https://www.google.com/maps/search/?api=1&query=18.4667,-77.4)
 
+## Not the End of the World — Hannah Ritchie (2024)
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5f0qvhrj7yf2qjwmdg35x7h)
 
 > In between the beach parties and trips to the rainforest, we were diving in the waters of Discovery Bay on the north coast.

@@ -2,13 +2,8 @@
 publish: true
 title: 1971 San Francisco Bay oil spill
 created: 2016-07-29
-modified: 2026-11-02T14:13:53.000Z
-published: 2026-11-02T14:13:53.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/1971 San Francisco Bay oil spill.svg
+modified: 2026-11-07T06:51:20.170Z
+published: 2026-11-07T06:51:20.170Z
 aliases: []
 books:
   - "17 Years of Silence and One Long Walk: John Francis’s Quest"
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 37.7594
   - -122.3419
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/1971 San Francisco Bay oil spill.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/1971 San Francisco Bay oil spill.svg
 Site of the 1971 tanker collision near the Golden Gate Bridge, San Francisco Bay. Witnessing it set John Francis on his 22-year walk and 17-year vow of silence.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 17 Years of Silence and One Long Walk: John Francis’s Quest | Chris Guillebeau | turning point | John Francis witnessed an oil spill near the Golden Gate Bridge in San Francisco Bay (named in the earlier paragraph) |
 
-## 17 Years of Silence and One Long Walk: John Francis’s Quest — Chris Guillebeau
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7594&mlon=-122.3419#map=10/37.7594/-122.3419) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7594,-122.3419)
 
+## 17 Years of Silence and One Long Walk: John Francis’s Quest — Chris Guillebeau
 Source: [Original](http://chrisguillebeau.com/john-francis-planetwalker/) · [Readwise highlight](https://read.readwise.io/read/01m5jvp2nqnwgknn38gpkqkf2g)
 
 > After seeing the oil spill I wanted to make a difference in marine pollution and raise my own environmental consciousness. Then a friend died unexpectedly, and I realized that no one is promised tomorrow—so I acted on my dream.

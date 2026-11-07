@@ -1,19 +1,14 @@
 ---
 publish: true
+title: Berlin Palace
+created: 2026-01-04
+modified: 2026-11-07T06:58:51.764Z
+published: 2026-11-07T06:58:51.764Z
 aliases:
   - Stadtschloss
   - Berlin Stadtschloss
   - Humboldt Forum
   - Palast der Republik
-title: Berlin Palace
-created: 2026-01-04
-modified: 2026-11-07T06:20:33.000Z
-published: 2026-11-07T06:20:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Berlin Palace.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -25,6 +20,10 @@ icon: book
 location:
   - 52.5175
   - 13.4028
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Berlin Palace.svg
 ---
@@ -34,13 +33,13 @@ image: Attachments/Places/Berlin Palace.svg
 Royal palace of the Hohenzollerns at the end of Unter den Linden in Berlin, demolished in 1950 and rebuilt as the Humboldt Forum. In _Germany: Memories of a Nation_ it bookends the account of Berlin's layered memories.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | The Hohenzollern Schloss: demolished by the GDR, replaced by the Palast der Republik, now rebuilt as a museum of world cultures. |
 
-## Germany: Memories of a Nation — Neil MacGregor (2014)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.5175&mlon=13.4028#map=16/52.5175/13.4028) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.5175,13.4028)
 
+## Germany: Memories of a Nation — Neil MacGregor (2014)
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m750q0kwp8g82rfx0ma948)
 
 > Here stood the Stadtschloss, residence of the Hohenzollern kings and Kaisers, demolished by the GDR in the 1950s.

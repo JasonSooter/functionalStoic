@@ -2,13 +2,8 @@
 publish: true
 title: ATLAS laser facility (CSU Foothills Campus)
 created: 2024-11-03
-modified: 2026-11-02T14:14:05.000Z
-published: 2026-11-02T14:14:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/ATLAS laser facility (CSU Foothills Campus).svg
+modified: 2026-11-07T06:51:44.619Z
+published: 2026-11-07T06:51:44.619Z
 aliases: []
 books:
   - Supporting New Technological & Infrastructure Growth
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 40.582
   - -105.1471
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado State University]]"
 image: Attachments/Places/ATLAS laser facility (CSU Foothills Campus).svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/ATLAS laser facility (CSU Foothills Campus).svg
 Laser research facility being built on Colorado State University's Foothills Campus in Fort Collins. Neguse attended its groundbreaking.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Supporting New Technological & Infrastructure Growth | Congressman Joe Neguse | setting | Groundbreaking of a 71,000-square-foot laser facility aimed at fusion energy. |
 
-## Supporting New Technological & Infrastructure Growth — Congressman Joe Neguse (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.582&mlon=-105.1471#map=10/40.582/-105.1471) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.582,-105.1471)
 
+## Supporting New Technological & Infrastructure Growth — Congressman Joe Neguse (2024)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5f0p9zsv2ta5s0tbwmsm56x)
 
 > The Advanced Technology for Laser Applications and Science (ATLAS), part of CSU's Foothills Campus, will focus on converting laser-driven fusion energy into safe, clean energy.

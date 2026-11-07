@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Boston Logan
 title: Logan International Airport
 created: 2024-07-03
-modified: 2026-11-07T05:11:19.000Z
-published: 2026-11-07T05:11:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Logan International Airport.svg
+modified: 2026-11-07T07:04:26.573Z
+published: 2026-11-07T07:04:26.573Z
+aliases:
+  - Boston Logan
 books:
   - "[[The Soul of an Octopus]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 42.3631
   - -71.0064
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Boston]]"
 image: Attachments/Places/Logan International Airport.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Logan International Airport.svg
 Boston's international airport. In The Soul of an Octopus (Sy Montgomery) it is where the aquarium team collects a new octopus shipped by air.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Soul of an Octopus]] | Sy Montgomery | setting | FedEx bay where the aquarium team collects the new octopus Karma. |
 
-## The Soul of an Octopus — Sy Montgomery (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3631&mlon=-71.0064#map=16/42.3631/-71.0064) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3631,-71.0064)
 
+## The Soul of an Octopus — Sy Montgomery (2015)
 Source: [[The Soul of an Octopus]] · [Original](https://openlibrary.org/books/OL27182716M/The_Soul_of_an_Octopus) · [Readwise highlight](https://read.readwise.io/read/01m5g0enh2mkpcb6z73zq0mywe)
 
 > Jackie pulls up to the airport’s rst FedEx bay, and Dave goes inside to inquire after our cargo.

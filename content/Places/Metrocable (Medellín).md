@@ -2,13 +2,8 @@
 publish: true
 title: Metrocable (Medellín)
 created: 2025-04-10
-modified: 2026-11-02T15:35:02.000Z
-published: 2026-11-02T15:35:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Metrocable (Medellín).svg
+modified: 2026-11-07T06:56:04.692Z
+published: 2026-11-07T06:56:04.692Z
 aliases: []
 books:
   - The Surprising Success of Gondola Transit Systems
@@ -22,6 +17,10 @@ icon: video
 location:
   - 6.3003
   - -75.5585
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Medellín]]"
 image: Attachments/Places/Metrocable (Medellín).svg
 ---
@@ -31,14 +30,14 @@ image: Attachments/Places/Metrocable (Medellín).svg
 Cable-car system in [[Medellín]], Colombia. Wendover's video on gondola transit credits it with starting the urban cable-car phenomenon in 2004.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Surprising Success of Gondola Transit Systems]] | Wendover Productions | backdrop | Medellín is credited with starting urban cable cars in 2004 to connect lower-income hillside areas to a valley-floor metro. |
 
-## The Surprising Success of Gondola Transit Systems — Wendover Productions (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=6.3003&mlon=-75.5585#map=10/6.3003/-75.5585) · [Google Maps](https://www.google.com/maps/search/?api=1&query=6.3003,-75.5585)
 
-Source: [Original](https://youtube.com/watch?v=a5126u88E7E\&si=1gWTN5lb3hW199bC) · [Readwise highlight](https://read.readwise.io/read/01m5e30y9e5my1y95jkaamb2xx)
+## The Surprising Success of Gondola Transit Systems — Wendover Productions (2025)
+Source: [Original](https://youtube.com/watch?v=a5126u88E7E&si=1gWTN5lb3hW199bC) · [Readwise highlight](https://read.readwise.io/read/01m5e30y9e5my1y95jkaamb2xx)
 
 > Medellín, Colombia, started the phenomenon
 

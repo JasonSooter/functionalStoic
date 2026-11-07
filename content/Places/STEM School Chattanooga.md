@@ -2,13 +2,8 @@
 publish: true
 title: STEM School Chattanooga
 created: 2016-10-09
-modified: 2026-11-02T20:54:40.000Z
-published: 2026-11-02T20:54:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/STEM School Chattanooga.svg
+modified: 2026-11-07T07:02:34.837Z
+published: 2026-11-07T07:02:34.837Z
 aliases: []
 books:
   - How Failure and Solving Real Problems Help This School Thrive
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 35.1006
   - -85.2431
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tennessee]]"
 image: Attachments/Places/STEM School Chattanooga.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/STEM School Chattanooga.svg
 Public high school in Chattanooga, Tennessee. KQED profiles its project-based learning with local businesses.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Failure and Solving Real Problems Help This School Thrive | Katrina Schwartz | subject | The article profiles the school's project-based model: failure-friendly grading, a Fab Lab, and coaching of students and teachers |
 
-## How Failure and Solving Real Problems Help This School Thrive — Katrina Schwartz (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.1006&mlon=-85.2431#map=16/35.1006/-85.2431) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.1006,-85.2431)
 
+## How Failure and Solving Real Problems Help This School Thrive — Katrina Schwartz (2016)
 Source: [Original](https://ww2.kqed.org/mindshift/2016/09/06/how-failure-and-solving-real-problems-helps-this-school-thrive/) · [Readwise highlight](https://read.readwise.io/read/01m5jy8h6hz2y4t2k5vwxtrcds)
 
 > His job was to find partners in the Chattanooga business community who had real problems they needed solved and to coach students as they worked together designing solutions.

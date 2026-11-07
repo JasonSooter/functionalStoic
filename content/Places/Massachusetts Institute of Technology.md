@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - MIT
 title: Massachusetts Institute of Technology
 created: 2024-09-17
-modified: 2026-11-02T15:29:00.000Z
-published: 2026-11-02T15:29:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Massachusetts Institute of Technology.svg
+modified: 2026-11-07T06:54:57.890Z
+published: 2026-11-07T06:54:57.890Z
+aliases:
+  - MIT
 books:
   - Has cosmology run into a creative crisis?
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
@@ -24,6 +19,10 @@ icon: book
 location:
   - 42.3597
   - -71.0919
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/Massachusetts Institute of Technology.svg
 ---
@@ -40,8 +39,9 @@ University in Cambridge, Massachusetts. In an Aeon essay on cosmology it is wher
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | setting | Undergraduate years: Phi Beta Delta fraternity pranks, including hiding a door behind the basement oil tank. |
 | [[Co-Intelligence]] | Ethan Mollick | backdrop | Where ELIZA was built in 1966, and where Noy and Zhang show ChatGPT cuts writing time by 37 percent. |
 
-## Has cosmology run into a creative crisis? — Ross Andersen (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3597&mlon=-71.0919#map=16/42.3597/-71.0919) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3597,-71.0919)
 
+## Has cosmology run into a creative crisis? — Ross Andersen (2015)
 Source: [Original](http://aeon.co/magazine/science/has-cosmology-run-into-a-creative-crisis) · [Readwise highlight](https://read.readwise.io/read/01m5g0e68syj3yrt5tn5qv89xs)
 
 > Guth told Kovac to take the back steps up to his office, to avoid being seen.
@@ -51,7 +51,6 @@ Source: [Original](http://aeon.co/magazine/science/has-cosmology-run-into-a-crea
 - **Why it matters:** The quiet check by inflation's founder is the essay's turning point before the result goes public.
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
-
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfpwqn3bb4ztr61r9x7dbz)
 
 > I often liked to play tricks on people when I was at MIT.
@@ -61,7 +60,6 @@ Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlig
 - **Why it matters:** MIT is the backdrop of his student years and the fraternity stories; he later contrasts its polished cyclotron with Princeton's messy, hands-on one.
 
 ## Co-Intelligence — Ethan Mollick (2024)
-
 Source: [[Co-Intelligence]] · [Original](https://openlibrary.org/works/OL37565105W) · [Readwise highlight](https://read.readwise.io/read/01m5m76zqxhdzxyxqwbvvrq3dd)
 
 > One of the earliest and most influential examples was ELIZA, a computer program created by Joseph Weizenbaum at MIT in 1966.

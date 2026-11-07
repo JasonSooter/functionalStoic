@@ -2,12 +2,8 @@
 publish: true
 title: Nova Gorica
 created: 2026-10-22T16:25:54.000Z
-modified: 2026-11-02T17:59:23.000Z
-published: 2026-11-02T17:59:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:03:26.021Z
+published: 2026-11-07T07:03:26.021Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 45.9558
   - 13.6433
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Slovenia]]"
+image: Attachments/Places/Nova Gorica.svg
 ---
 
 # Nova Gorica
@@ -28,13 +29,13 @@ within: "[[Slovenia]]"
 Slovenian border town facing Gorizia, Italy. Dervla Murphy's entry point into Yugoslavia in _Full Tilt_ (1963).
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | Night frontier crossing into Yugoslavia, then shelter with the typist Romana. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.9558&mlon=13.6433#map=16/45.9558/13.6433) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.9558,13.6433)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kexq3m9d169stexmramb)
 
 > The formidable female took one quick look at my intricately laden bicycle, my knapsack with its protruding loaf of bread and my scruffy self. Then she burst into good-humoured laughter – of which one would not have believed her capable – slapped me on the back and waved me towards the frontier.

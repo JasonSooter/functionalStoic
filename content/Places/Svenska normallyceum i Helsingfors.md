@@ -1,18 +1,13 @@
 ---
 publish: true
+title: Svenska normallyceum i Helsingfors
+created: 2025-08-31
+modified: 2026-11-07T07:01:16.568Z
+published: 2026-11-07T07:01:16.568Z
 aliases:
   - Norssen
   - Norsen
   - Svenska normallyceum
-title: Svenska normallyceum i Helsingfors
-created: 2025-08-31
-modified: 2026-11-04T01:29:14.000Z
-published: 2026-11-04T01:29:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Svenska normallyceum i Helsingfors.svg
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -24,6 +19,10 @@ icon: book
 location:
   - 60.1633
   - 24.9512
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Helsinki]]"
 image: Attachments/Places/Svenska normallyceum i Helsingfors.svg
 ---
@@ -33,13 +32,13 @@ image: Attachments/Places/Svenska normallyceum i Helsingfors.svg
 Swedish-language secondary school in central Helsinki, known as "Norsen". In _Just for Fun_ it is Norssen High, where Linus is the "Math Guy".
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | Linus's high school, where he excels at maths and physics and skips gym for a nearby coffee shop. |
 
-## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.1633&mlon=24.9512#map=16/60.1633/24.9512) · [Google Maps](https://www.google.com/maps/search/?api=1&query=60.1633,24.9512)
 
+## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrn9ak0ndr3h78rj4hfrm)
 
 > Okay, there was school: Norssen High, the most central of Helsinki’s five Swedish-language high schools, and the one nearest my home.

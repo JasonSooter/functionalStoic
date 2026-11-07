@@ -2,13 +2,8 @@
 publish: true
 title: Veliko Tarnovo
 created: 2016-02-18
-modified: 2026-11-06T14:23:13.000Z
-published: 2026-11-06T14:23:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Veliko Tarnovo.svg
+modified: 2026-11-07T06:56:35.406Z
+published: 2026-11-07T06:56:35.406Z
 aliases: []
 books:
   - "The Global Yogi: Long-Term Travel through Five Continents"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 43.0778
   - 25.6167
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bulgaria]]"
 image: Attachments/Places/Veliko Tarnovo.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Veliko Tarnovo.svg
 Old hill town on the Yantra river in north-central Bulgaria. A traveller's overnight stop where she met a Japanese student of Bulgarian folk music.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Global Yogi: Long-Term Travel through Five Continents | Chris Guillebeau | setting | Overnight hostel stop where she met a Japanese man studying Bulgarian folk music on the gaida. |
 
-## The Global Yogi: Long-Term Travel through Five Continents — Chris Guillebeau (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.0778&mlon=25.6167#map=16/43.0778/25.6167) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0778,25.6167)
 
+## The Global Yogi: Long-Term Travel through Five Continents — Chris Guillebeau (2015)
 Source: [Original](http://chrisguillebeau.com/the-global-yogi/) · [Readwise highlight](https://read.readwise.io/read/01m5j6k51qg44y4dxr7qmky1gr)
 
 > We stopped in the charming and picturesque mountain town of Veliko Tarnovo to spend the night at a hostel.

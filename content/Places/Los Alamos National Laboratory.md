@@ -2,13 +2,8 @@
 publish: true
 title: Los Alamos National Laboratory
 created: 2025-04-17
-modified: 2026-11-02T14:18:34.000Z
-published: 2026-11-02T14:18:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Los Alamos National Laboratory.svg
+modified: 2026-11-07T07:05:01.653Z
+published: 2026-11-07T07:05:01.653Z
 aliases: []
 books:
   - When Kitty Litter Caused a Nuclear Catastrophe
@@ -22,6 +17,10 @@ icon: book
 location:
   - 35.8756
   - -106.3242
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Mexico]]"
 image: Attachments/Places/Los Alamos National Laboratory.svg
 ---
@@ -31,14 +30,14 @@ image: Attachments/Places/Los Alamos National Laboratory.svg
 Laboratory site in [[New Mexico]], United States, where the repackaging error behind a kitty-litter nuclear accident originated, as told by Practical Engineering.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[When Kitty Litter Caused a Nuclear Catastrophe]] | Wesley Crump | setting | Los Alamos recovered the plutonium, stored the drum from 1985 and wrote the 2012-13 repackaging procedure that swapped in organic cat litter. |
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | setting | Feynman's Manhattan Project years on the mesa: dormitory, censorship, picked locks and the IBM computing group. |
 
-## When Kitty Litter Caused a Nuclear Catastrophe — Wesley Crump (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.8756&mlon=-106.3242#map=16/35.8756/-106.3242) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.8756,-106.3242)
 
+## When Kitty Litter Caused a Nuclear Catastrophe — Wesley Crump (2025)
 Source: [Original](https://practical.engineering/blog/2025/4/15/when-kitty-litter-caused-a-nuclear-catastrophe) · [Readwise highlight](https://read.readwise.io/read/01m5e2y634jrxne30tyn6pa6y3)
 
 > It all started at the Los Alamos National Laboratory, one of the labs created as part of the 1940s Manhattan Project that first developed atomic bombs in the desert of New Mexico.
@@ -48,7 +47,6 @@ Source: [Original](https://practical.engineering/blog/2025/4/15/when-kitty-litte
 - **Why it matters:** The error that caused the disaster originated here; the wildfire threat in 2011 prompted shipping the waste.
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
-
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfq6gyp96yn0jn10fmk73v)
 
 > You’d come up from below and be very surprised to see this high mesa. The most impressive thing to me was that, as I was going up, I said that maybe there had been Indians living here

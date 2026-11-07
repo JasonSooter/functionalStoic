@@ -2,15 +2,12 @@
 publish: true
 title: Princeton Junction station
 created: 2026-10-21T02:07:46.000Z
-modified: 2026-11-02T18:35:43.000Z
-published: 2026-11-02T18:35:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:57:01.926Z
+published: 2026-11-07T06:57:01.926Z
 aliases: []
 books:
-  - It was worth getting drenched on a bike ride to this new Persian bakery in New Jersey
+  - It was worth getting drenched on a bike ride to this new Persian bakery in New
+    Jersey
 categories:
   - "[[Places]]"
 color: purple
@@ -20,7 +17,12 @@ icon: newspaper
 location:
   - 40.3167
   - -74.6233
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Princeton Junction station.svg
 ---
 
 # Princeton Junction station
@@ -28,13 +30,13 @@ within: "[[New Jersey]]"
 Rail station in [[New Jersey]], United States, which is the start of a bike blogger's five-mile route to a new Persian bakery.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | It was worth getting drenched on a bike ride to this new Persian bakery in New Jersey | alliumstozinnias | journey waypoint | Start of a five-mile route to the bakery via Wallace Road and Village Road West, with a bus link back to the station. |
 
-## It was worth getting drenched on a bike ride to this new Persian bakery in New Jersey — alliumstozinnias (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.3167&mlon=-74.6233#map=16/40.3167/-74.6233) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.3167,-74.6233)
 
+## It was worth getting drenched on a bike ride to this new Persian bakery in New Jersey — alliumstozinnias (2025)
 Source: [Original](https://exploringbybike.com/2025/05/16/it-was-worth-getting-drenched-on-a-bike-ride-to-this-new-persian-bakery/) · [Readwise highlight](https://read.readwise.io/read/01m5e2z0bpafbbev4en83xv8nz)
 
 > New Jersey Transit’s 612 bus stops in the middle of the neighborhood and goes to the Princeton Junction station.

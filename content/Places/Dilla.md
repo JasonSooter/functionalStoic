@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Dila
 title: Dilla
 created: 2026-10-04
-modified: 2026-11-02T14:15:55.000Z
-published: 2026-11-02T14:15:55.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Dilla.svg
+modified: 2026-11-07T07:03:05.310Z
+published: 2026-11-07T07:03:05.310Z
+aliases:
+  - Dila
 books:
   - "[[Peace Corps - The Great Adventure]]"
 categories:
@@ -21,6 +16,10 @@ icon: book
 location:
   - 6.4106
   - 38.3103
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ethiopia]]"
 image: Attachments/Places/Dilla.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Dilla.svg
 Town in southern Ethiopia, the subject of a 1960s Peace Corps volunteer's story about teaching there in _Peace Corps: The Great Adventure_. See [[Ethiopia]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | A 1960s volunteer's portrait of the town where she taught. |
 
-## Peace Corps: The Great Adventure — Peace Corps (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=6.4106&mlon=38.3103#map=16/6.4106/38.3103) · [Google Maps](https://www.google.com/maps/search/?api=1&query=6.4106,38.3103)
 
+## Peace Corps: The Great Adventure — Peace Corps (2002)
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5bs7ntbm0de3pbz0zbbc1hw)
 
 > There is a point where the whole town looks like a map

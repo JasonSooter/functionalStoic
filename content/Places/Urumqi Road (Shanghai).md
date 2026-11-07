@@ -2,13 +2,8 @@
 publish: true
 title: Urumqi Road (Shanghai)
 created: 2025-11-29
-modified: 2026-11-06T11:26:33.000Z
-published: 2026-11-06T11:26:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Urumqi Road (Shanghai).svg
+modified: 2026-11-07T06:55:47.434Z
+published: 2026-11-07T06:55:47.434Z
 aliases: []
 books:
   - Breakneck
@@ -22,6 +17,10 @@ icon: book
 location:
   - 31.2168
   - 121.4403
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Shanghai]]"
 image: Attachments/Places/Urumqi Road (Shanghai).svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Urumqi Road (Shanghai).svg
 Street in the bar district of [[Shanghai]], China, where many foreigners live; in Dan Wang's Breakneck it is where a November vigil turned into a protest against the Communist Party.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | turning point | A vigil for the Urumqi fire victims turns after midnight into a protest chanting against the Communist Party and Xi. |
 
-## Breakneck — Dan Wang (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.2168&mlon=121.4403#map=10/31.2168/121.4403) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.2168,121.4403)
 
+## Breakneck — Dan Wang (2025)
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5e30ce8jbmfjpm36wnngtxc)
 
 > One day in November, people held a vigil on Urumqi Road, the center of Shanghai’s bar district where many foreigners live.

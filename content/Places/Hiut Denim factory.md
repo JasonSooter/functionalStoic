@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Hiut Denim
 title: Hiut Denim factory
 created: 2015-11-28
-modified: 2026-11-02T14:17:20.000Z
-published: 2026-11-02T14:17:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hiut Denim factory.svg
+modified: 2026-11-07T06:51:14.785Z
+published: 2026-11-07T06:51:14.785Z
+aliases:
+  - Hiut Denim
 books:
   - david hieatt
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 52.0873
   - -4.6599
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Wales]]"
 image: Attachments/Places/Hiut Denim factory.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Hiut Denim factory.svg
 Jeans factory in Cardigan, West Wales. In a David Hieatt blog post it is where tracks requested on Twitter are played to the makers.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | david hieatt | David Hieatt | backdrop | Factory where tracks requested on Twitter are played. |
 
-## david hieatt — David Hieatt (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.0873&mlon=-4.6599#map=16/52.0873/-4.6599) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.0873,-4.6599)
 
+## david hieatt — David Hieatt (2015)
 Source: [Original](http://davidhieatt.typepad.com/doonethingwell/2015/05/want-interes-ting-things-to-happen-do-interes-ting-things.html) · [Readwise highlight](https://read.readwise.io/read/01m5fzcc5whytjvs7k3yqyn2qt)
 
 > Then it plays that track at the Hiut Denim Factory.

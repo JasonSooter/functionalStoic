@@ -2,13 +2,8 @@
 publish: true
 title: Bradford
 created: 2024-12-21
-modified: 2026-11-02T14:14:48.000Z
-published: 2026-11-02T14:14:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bradford.svg
+modified: 2026-11-07T07:02:02.226Z
+published: 2026-11-07T07:02:02.226Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 53.7944
   - -1.7519
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
 image: Attachments/Places/Bradford.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Bradford.svg
 City in West Yorkshire, England. In _Apeirogon_ Bassam studies Peace Studies here and finds a way back home.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | journey waypoint | Bassam's master's year: Holocaust studies, night walks, and readiness to return to Anata. |
 
-## Apeirogon — Colum McCann (2020)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.7944&mlon=-1.7519#map=16/53.7944/-1.7519) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.7944,-1.7519)
 
+## Apeirogon — Colum McCann (2020)
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7wtk4px3xge8q1dmpjfks)
 
 > Later he would meet Englishmen who rolled their eyes when he mentioned Bradford and he could almost see their disdain, nothing like Oxford, nothing like Cambridge, nothing like Edinburgh, nothing like Manchester, but he and Salwa loved it, the openness of the town, the space, the green park, the clean path along the river, the rows of low redbrick houses, the chimneys

@@ -2,13 +2,8 @@
 publish: true
 title: Statue of Liberty
 created: 2016-10-10
-modified: 2026-11-03T01:24:26.000Z
-published: 2026-11-03T01:24:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Statue of Liberty.svg
+modified: 2026-11-07T06:58:30.208Z
+published: 2026-11-07T06:58:30.208Z
 aliases: []
 books:
   - The Road Ahead
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.6892
   - -74.0444
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Statue of Liberty.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Statue of Liberty.svg
 Statue on Liberty Island in New York Harbor. Kirk Douglas recalls what its inscription meant to his immigrant parents.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Road Ahead | Kirk Douglas | subject | Douglas's immigrant parents arrived believing in a land paved with gold, then discovered that the inscription's welcome did not apply… |
 
-## The Road Ahead — Kirk Douglas (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.6892&mlon=-74.0444#map=16/40.6892/-74.0444) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.6892,-74.0444)
 
+## The Road Ahead — Kirk Douglas (2016)
 Source: [Original](http://m.huffpost.com/us/entry/us_57e03be4e4b08cb1409749f2/amp) · [Readwise highlight](https://read.readwise.io/read/01m5jy8d86v39gsedn8fq2j6sj)
 
 > What they did not realize until after they arrived was that those beautiful words carved into the Statute of Liberty in New York Harbor:

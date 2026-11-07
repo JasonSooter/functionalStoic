@@ -2,13 +2,8 @@
 publish: true
 title: The Drake Hotel (Toronto)
 created: 2016-10-30
-modified: 2026-11-06T01:28:57.000Z
-published: 2026-11-06T01:28:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The Drake Hotel (Toronto).svg
+modified: 2026-11-07T07:03:23.085Z
+published: 2026-11-07T07:03:23.085Z
 aliases: []
 books:
   - A Fun Way to Stop Buying Things You Don’t Really Need
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 43.6432
   - -79.4247
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Toronto]]"
 image: Attachments/Places/The Drake Hotel (Toronto).svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/The Drake Hotel (Toronto).svg
 Boutique hotel on Queen Street West, Toronto. An artist ran a "covet counseling" painting session there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Fun Way to Stop Buying Things You Don’t Really Need | YES! Magazine | setting | Lazarovic ran a 'covet counseling' session at The Drake, painting items people wanted; restaurant servers asked for paintings, mostly food |
 
-## A Fun Way to Stop Buying Things You Don’t Really Need — YES! Magazine (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.6432&mlon=-79.4247#map=16/43.6432/-79.4247) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.6432,-79.4247)
 
+## A Fun Way to Stop Buying Things You Don’t Really Need — YES! Magazine (2016)
 Source: [Original](http://www.yesmagazine.org/happiness/a-fun-way-to-stop-buying-things-you-dont-really-need-20160908) · [Readwise highlight](https://read.readwise.io/read/01m5jy9fh3wy677pg6kat3nsyt)
 
 > I did it at a boutique hotel here in Toronto called The Drake, and whenever it slowed down for a bit, servers from the restaurant would come over and ask me to paint stuff.

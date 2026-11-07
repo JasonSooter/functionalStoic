@@ -2,13 +2,8 @@
 publish: true
 title: Madagascar
 created: 2024-10-04
-modified: 2026-11-02T15:17:21.000Z
-published: 2026-11-02T15:17:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Madagascar.svg
+modified: 2026-11-07T06:52:34.391Z
+published: 2026-11-07T06:52:34.391Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +17,10 @@ icon: book
 location:
   - -20
   - 47
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Madagascar.svg
 ---
 
@@ -30,19 +29,18 @@ image: Attachments/Places/Madagascar.svg
 Island country off south-east Africa; in _Life on Air_ Attenborough chooses it for a Zoo Quest because of its unique lemurs and chameleons.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | subject | Attenborough chooses it for a Zoo Quest because of its unique lemurs and chameleons. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-20&mlon=47#map=11/-20/47) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-20,47)
 
+## Sub-places
 - [[Andasibe]]
 - [[Antananarivo]]
 - [[Spiny forests of Madagascar]]
 
 ## Life on Air — David Attenborough (2002)
-
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1vpcveet7mtynpbd2qeh)
 
 > Leafing through an atlas with this question in mind, my eye lit on Madagascar.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Rotenboden
 title: Riffelsee
 created: 2026-10-20T01:38:03.000Z
-modified: 2026-11-02T20:29:12.000Z
-published: 2026-11-02T20:29:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:00:28.405Z
+published: 2026-11-07T07:00:28.405Z
+aliases:
+  - Rotenboden
 books:
   - The Best 30-Minute Train Ride in Switzerland
 categories:
@@ -20,7 +16,12 @@ icon: video
 location:
   - 45.993
   - 7.755
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Zermatt]]"
+image: Attachments/Places/Riffelsee.svg
 ---
 
 # Riffelsee
@@ -28,13 +29,13 @@ within: "[[Zermatt]]"
 Small mountain lake near Rotenboden station on the Gornergrat railway above [[Zermatt]], Switzerland, a stop in Simply Railway's video of the Gornergrat train ride.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Best 30-Minute Train Ride in Switzerland]] | Simply Railway | journey waypoint | The lake hikers get off for, famous for mirroring the Matterhorn. |
 
-## The Best 30-Minute Train Ride in Switzerland — Simply Railway (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.993&mlon=7.755#map=16/45.993/7.755) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.993,7.755)
 
+## The Best 30-Minute Train Ride in Switzerland — Simply Railway (2026)
 Source: [Original](https://www.youtube.com/watch?v=-2dv2wwUp6w) · [Readwise highlight](https://read.readwise.io/read/01m5beyfwj1m00twvg6kzfh4yz)
 
 > We're now at Rotenboden — the last stop before Gornergrat.

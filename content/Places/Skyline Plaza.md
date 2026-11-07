@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Skyline Plaza collapse
 title: Skyline Plaza
 created: 2025-12-28
-modified: 2026-11-02T21:25:15.000Z
-published: 2026-11-02T21:25:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Skyline Plaza.svg
+modified: 2026-11-07T06:55:44.838Z
+published: 2026-11-07T06:55:44.838Z
+aliases:
+  - Skyline Plaza collapse
 books:
   - Concrete’s Greatest Weakness
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 38.8442
   - -77.1207
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Virginia]]"
 image: Attachments/Places/Skyline Plaza.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Skyline Plaza.svg
 Tower complex at Bailey's Crossroads, Fairfax County, [[Virginia]], whose 1973 collapse opens Wesley Crump's article on concrete curing.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Concrete’s Greatest Weakness]] | Wesley Crump | setting | 1973 collapse from under-cured concrete. |
 
-## Concrete’s Greatest Weakness — Wesley Crump (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8442&mlon=-77.1207#map=16/38.8442/-77.1207) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8442,-77.1207)
 
+## Concrete’s Greatest Weakness — Wesley Crump (2025)
 Source: [Original](https://practical.engineering/blog/2025/11/4/concretes-greatest-weakness) · [Readwise highlight](https://read.readwise.io/read/01m5cre07cs62q6vafgk9xftc6)
 
 > On March 2, 1973, the Skyline Plaza tower was under construction in a suburb of Washington, DC.

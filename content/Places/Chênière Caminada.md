@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Chênière Caminada
+created: 2025-12-02
+modified: 2026-11-07T06:56:16.525Z
+published: 2026-11-07T06:56:16.525Z
 aliases:
   - Cheniere Caminada
   - the Chénière
-title: Chênière Caminada
-created: 2025-12-02
-modified: 2026-11-02T14:15:24.000Z
-published: 2026-11-02T14:15:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Chênière Caminada.svg
 books:
   - "[[The Awakening]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 29.2108
   - -90.0504
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Louisiana]]"
 image: Attachments/Places/Chênière Caminada.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Chênière Caminada.svg
 Former fishing settlement west of [[Grand Isle]], [[Louisiana]], where Edna and Robert spend their first day alone together in The Awakening.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Awakening]] | Kate Chopin | turning point | Edna and Robert's first day alone together. |
 
-## The Awakening — Kate Chopin (1899)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.2108&mlon=-90.0504#map=16/29.2108/-90.0504) · [Google Maps](https://www.google.com/maps/search/?api=1&query=29.2108,-90.0504)
 
+## The Awakening — Kate Chopin (1899)
 Source: [[The Awakening]] · [Original](https://openlibrary.org/works/OL65430W) · [Readwise highlight](https://read.readwise.io/read/01m5crcqpdzmnt7brjbffzf0qf)
 
 > The long line of little gray, weather-beaten houses nestled peacefully among the orange trees. It must always have been God’s day on that low, drowsy island, Edna thought.

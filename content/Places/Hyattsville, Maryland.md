@@ -2,13 +2,8 @@
 publish: true
 title: Hyattsville, Maryland
 created: 2017-07-09
-modified: 2026-11-02T14:17:20.000Z
-published: 2026-11-02T14:17:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hyattsville, Maryland.svg
+modified: 2026-11-07T06:52:39.011Z
+published: 2026-11-07T06:52:39.011Z
 aliases: []
 books:
   - Rod Dreher’s Monastic Vision – The New Yorker
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 38.9569
   - -76.9514
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Maryland]]"
 image: Attachments/Places/Hyattsville, Maryland.svg
 ---
@@ -30,10 +29,11 @@ image: Attachments/Places/Hyattsville, Maryland.svg
 Small suburb of Washington, D.C. The New Yorker visits its Catholic community as a working example of Rod Dreher's Benedict Option.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Rod Dreher’s Monastic Vision – The New Yorker | Joshua Rothman | subject | An intentional Catholic community of about two hundred families in modest brick homes with porches, held up in the book as an ark. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9569&mlon=-76.9514#map=11/38.9569/-76.9514) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9569,-76.9514)
 
 ## Sub-places
 
@@ -41,7 +41,6 @@ Small suburb of Washington, D.C. The New Yorker visits its Catholic community as
 - [[Vigilante Coffee (Hyattsville)]]
 
 ## Rod Dreher’s Monastic Vision – The New Yorker — Joshua Rothman (2017)
-
 Source: [Original](https://www.newyorker.com/magazine/2017/05/01/rod-drehers-monastic-vision) · [Readwise highlight](https://read.readwise.io/read/01m5k7fxgszktyj1g62agz034q)
 
 > One is in Hyattsville, Maryland, a small suburb of Washington, D.C.

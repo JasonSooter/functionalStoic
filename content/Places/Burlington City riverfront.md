@@ -2,13 +2,8 @@
 publish: true
 title: Burlington City riverfront
 created: 2024-11-16
-modified: 2026-11-02T14:14:49.000Z
-published: 2026-11-02T14:14:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Burlington City riverfront.svg
+modified: 2026-11-07T07:03:21.457Z
+published: 2026-11-07T07:03:21.457Z
 aliases: []
 books:
   - "My second Troll Trek: 7 trolls and 1 slice of pie"
@@ -16,12 +11,17 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.0783,-74.8533
-geo_note: approximate (Burlington City centre; troll Visser is on the Delaware riverfront near the southern end of the city)
+geo_note: approximate (Burlington City centre; troll Visser is on the Delaware riverfront
+  near the southern end of the city)
 geo_source: Wikipedia (en) Burlington, New Jersey
 icon: newspaper
 location:
   - 40.0783
   - -74.8533
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Burlington City riverfront.svg
 ---
@@ -31,13 +31,13 @@ image: Attachments/Places/Burlington City riverfront.svg
 Delaware River waterfront at the southern end of Burlington City, New Jersey. The troll Visser, a Dutch fisherman, stands there on a troll-hunting ride.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | My second Troll Trek: 7 trolls and 1 slice of pie | alliumstozinnias | journey waypoint | Visser the Dutch fisherman troll on the Delaware, the author's favourite. |
 
-## My second Troll Trek: 7 trolls and 1 slice of pie — alliumstozinnias (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.0783&mlon=-74.8533#map=10/40.0783/-74.8533) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.0783,-74.8533)
 
+## My second Troll Trek: 7 trolls and 1 slice of pie — alliumstozinnias (2024)
 Source: [Original](https://exploringbybike.com/2024/11/08/my-second-troll-trek-7-trolls-and-1-slice-of-pie/) · [Readwise highlight](https://read.readwise.io/read/01m5f0pgzqprfpr29dkxnrvn1b)
 
 > Visser was our first troll, hanging out along the Delaware River near the southern end of the city.

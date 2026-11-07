@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Broad Street Aqueduct
 title: Genesee River Aqueduct (Broad Street Bridge)
 created: 2017-02-05
-modified: 2026-11-02T14:16:59.000Z
-published: 2026-11-02T14:16:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Genesee River Aqueduct (Broad Street Bridge).svg
+modified: 2026-11-07T06:57:10.135Z
+published: 2026-11-07T06:57:10.135Z
+aliases:
+  - Broad Street Aqueduct
 books:
   - Erie Canal
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
@@ -24,6 +19,10 @@ icon: book
 location:
   - 43.1546
   - -77.61
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Genesee River Aqueduct (Broad Street Bridge).svg
 ---
@@ -39,8 +38,9 @@ Stone aqueduct that carried the Erie Canal over the Genesee River in Rochester, 
 | Erie Canal | wikipedia.org | journey waypoint | The canal crossed the Genesee River near Rochester on a stone aqueduct of 11 arches. |
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | subject | The largest aqueduct on the canal, finished eleven months late in 1823; Rochester becomes the Flour City. |
 
-## Erie Canal — wikipedia.org (2001)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.1546&mlon=-77.61#map=10/43.1546/-77.61) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.1546,-77.61)
 
+## Erie Canal — wikipedia.org (2001)
 Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise highlight](https://read.readwise.io/read/01m5k5sbmg2r0knf34pxhmg2mt)
 
 > The canal crossed the river on a stone aqueduct, 802 feet (244 m) long and 17 feet (5.2 m) wide, supported by 11 arches.
@@ -50,7 +50,6 @@ Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise high
 - **Why it matters:** A major crossing point and engineering feat in Rochester.
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
-
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvdx48wcpgmp0kyxpeh6g2)
 
 > At Rochester, the canal had to cross over the Genesee River at a point where the current is unusually swift—the Genesee Falls are right next to the canal route. The Genesee was so wide that the aqueduct carrying the canal across it was more than three city blocks in length, supported by nine Roman-style stone arches, each fifty feet across, and one smaller arch at each end.

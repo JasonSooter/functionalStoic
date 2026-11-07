@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Col de Manrella
 title: Coll de Manrella
 created: 2026-02-06
-modified: 2026-11-02T14:15:21.000Z
-published: 2026-11-02T14:15:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Coll de Manrella.svg
+modified: 2026-11-07T06:57:32.724Z
+published: 2026-11-07T06:57:32.724Z
+aliases:
+  - Col de Manrella
 books:
   - Banyoles to Perpignan
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 42.4217
   - 2.8008
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Catalonia]]"
 image: Attachments/Places/Coll de Manrella.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Coll de Manrella.svg
 Mountain pass (708 m) on the Spanish–French border north of Girona in [[Catalonia]], the muddy crossing on a cycling ride home from Banyoles to France.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Banyoles to Perpignan]] | Mostly Bikes x Me | journey waypoint | The muddy border crossing on the ride home to France. |
 
-## Banyoles to Perpignan — Mostly Bikes x Me (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.4217&mlon=2.8008#map=16/42.4217/2.8008) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.4217,2.8008)
 
+## Banyoles to Perpignan — Mostly Bikes x Me (2026)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5crbkm64rrx932g9pj2f991)
 
 > One more time over the Coll de Manrella. Headed home into France. Lots of snow in the mountains, but the pass is clear, if muddy.

@@ -2,13 +2,8 @@
 publish: true
 title: Schwetzinger Relaishaus
 created: 2026-03-08
-modified: 2026-11-02T21:15:26.000Z
-published: 2026-11-02T21:15:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Schwetzinger Relaishaus.svg
+modified: 2026-11-07T06:53:35.815Z
+published: 2026-11-07T06:53:35.815Z
 aliases: []
 books:
   - "[[It's All About the Bike]]"
@@ -17,12 +12,17 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 49.4338,8.5274
-geo_note: approximate (Rheinau district of Mannheim; the inn's exact site is not printed in a standard source)
+geo_note: approximate (Rheinau district of Mannheim; the inn's exact site is not printed
+  in a standard source)
 geo_source: GeoNames 2847668
 icon: book
 location:
   - 49.4338
   - 8.5274
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mannheim]]"
 image: Attachments/Places/Schwetzinger Relaishaus.svg
 ---
@@ -36,6 +36,8 @@ Former coaching inn in Rheinau, today a district of [[Mannheim]], Germany, and t
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike\|It's All About the Bike: In Pursuit of Happiness on Two Wheels]] | Robert Penn | journey waypoint | Turn-point of Drais's first ride in 1817. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=49.4338&mlon=8.5274#map=10/49.4338/8.5274) · [Google Maps](https://www.google.com/maps/search/?api=1&query=49.4338,8.5274)
 
 ## It's All About the Bike: In Pursuit of Happiness on Two Wheels — Robert Penn (2010)
 

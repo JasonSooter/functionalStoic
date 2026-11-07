@@ -2,13 +2,8 @@
 publish: true
 title: Iraq
 created: 2015-11-15
-modified: 2026-11-02T14:17:31.000Z
-published: 2026-11-02T14:17:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Iraq.svg
+modified: 2026-11-07T06:54:13.174Z
+published: 2026-11-07T06:54:13.174Z
 aliases: []
 books:
   - The Price of Civilization
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 33
   - 43
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Iraq.svg
 ---
 
@@ -30,10 +29,11 @@ image: Attachments/Places/Iraq.svg
 Country in the Middle East, which Jim Wright's The Price of Civilization names as one of the abandoned wars behind the 2015 Paris attacks.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Price of Civilization | Jim Wright | turning point | The US won the war with no plan to govern or rebuild, then walked away from the chaos. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33&mlon=43#map=11/33/43) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33,43)
 
 ## Sub-places
 
@@ -46,7 +46,6 @@ Country in the Middle East, which Jim Wright's The Price of Civilization names a
 - [[Sumer]]
 
 ## The Price of Civilization — Jim Wright (2015)
-
 Source: [Original](https://www.stonekettle.com/2015/11/the-price-of-civilization.html) · [Readwise highlight](https://read.readwise.io/read/01m5hk5188c2wsd2e894cjch5g)
 
 > And we reduced Iraq to lawless ruin.

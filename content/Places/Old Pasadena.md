@@ -2,12 +2,8 @@
 publish: true
 title: Old Pasadena
 created: 2026-10-21T13:55:55.000Z
-modified: 2026-11-02T18:04:41.000Z
-published: 2026-11-02T18:04:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:52:20.506Z
+published: 2026-11-07T06:52:20.506Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 34.1458
   - -118.1505
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
+image: Attachments/Places/Old Pasadena.svg
 ---
 
 # Old Pasadena
@@ -28,13 +29,13 @@ within: "[[California]]"
 Old Pasadena is the historic downtown district of Pasadena, California. It turns up in Walkable City (Jeff Speck): Old Pasadena is the success half of Shoup's parking comparison and the origin of the parking benefit district idea.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Old Pasadena installed 690 new meters, allowed in-lieu fees and spent meter revenue locally. |
 
-## Walkable City — Jeff Speck (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.1458&mlon=-118.1505#map=16/34.1458/-118.1505) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.1458,-118.1505)
 
+## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbk5w8xdbfcfab04x2e6mw)
 
 > As if we weren’t convinced, Shoup has a final morality lesson to teach, and that is the story of the two Southern California shopping districts of Old Pasadena and Westwood Village.

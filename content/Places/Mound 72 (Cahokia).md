@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Mound 72
 title: Mound 72 (Cahokia)
 created: 2026-10-23T01:32:25.000Z
-modified: 2026-11-02T15:54:26.000Z
-published: 2026-11-02T15:54:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:58:08.277Z
+published: 2026-11-07T06:58:08.277Z
+aliases:
+  - Mound 72
 books:
   - Finding North America’s lost medieval city
 categories:
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 38.6506
   - -90.0634
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Cahokia Mounds]]"
+image: Attachments/Places/Mound 72 (Cahokia).svg
 ---
 
 # Mound 72 (Cahokia)
@@ -29,13 +30,13 @@ within: "[[Cahokia Mounds]]"
 Ridge-top burial mound at Cahokia Mounds, Illinois, famous for its mass burials. Ars Technica uses the remains found there to argue that Cahokia's elites staged spiritual theatre.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Finding North America’s lost medieval city | Annalee Newitz | subject | Melvin Fowler's 1960s excavation of Mound 72 found over 250 bodies, including 52 young women and the beaded burial. |
 
-## Finding North America’s lost medieval city — Annalee Newitz (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6506&mlon=-90.0634#map=16/38.6506/-90.0634) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6506,-90.0634)
 
+## Finding North America’s lost medieval city — Annalee Newitz (2016)
 Source: [Original](http://arstechnica.com/features/2016/12/theres-a-1000-year-old-lost-city-beneath-the-st-louis-suburbs/) · [Readwise highlight](https://read.readwise.io/read/01m5k5rg3tb38acwpyy6w5azed)
 
 > Mound 72 is one of the city’s few “ridge top mounds,” meaning its rectangular body was constructed with a peaked top like a roof.

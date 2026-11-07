@@ -2,13 +2,8 @@
 publish: true
 title: Dunedin
 created: 2025-02-27
-modified: 2026-11-02T14:16:26.000Z
-published: 2026-11-02T14:16:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Dunedin.svg
+modified: 2026-11-07T07:04:01.058Z
+published: 2026-11-07T07:04:01.058Z
 aliases: []
 books:
   - "[[Range]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - -45.8742
   - 170.5036
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Zealand]]"
 image: Attachments/Places/Dunedin.svg
 ---
@@ -30,17 +29,16 @@ image: Attachments/Places/Dunedin.svg
 City in Otago on New Zealand's South Island. A setting in David Epstein's _Range_: Town where James Flynn, from his hillside house, interprets the rise in IQ scores.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | setting | Town where James Flynn, from his hillside house, interprets the rise in IQ scores. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-45.8742&mlon=170.5036#map=11/-45.8742/170.5036) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-45.8742,170.5036)
 
+## Sub-places
 - [[University of Otago]]
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
-
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jjs3kava38j148n0pjcfs4)
 
 > His house on a hill in Dunedin looks out over a gently rolling green farmscape.

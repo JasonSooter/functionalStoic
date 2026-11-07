@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Warszawa
 title: Warsaw
 created: 2025-11-09
-modified: 2026-11-06T17:27:51.000Z
-published: 2026-11-06T17:27:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Warsaw.svg
+modified: 2026-11-07T06:59:06.519Z
+published: 2026-11-07T06:59:06.519Z
+aliases:
+  - Warszawa
 books:
   - The Light That Never Goes Out
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 52.23
   - 21.0111
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Poland]]"
 image: Attachments/Places/Warsaw.svg
 ---
@@ -31,17 +30,16 @@ image: Attachments/Places/Warsaw.svg
 Capital of [[Poland]], which shows up in the reading as the destination of Helen Russell's All Saints' trip for the Polish edition of her book.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Light That Never Goes Out | Helen Russell | journey waypoint | All Saints' trip: 'We already know how to be sad.' |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.23&mlon=21.0111#map=11/52.23/21.0111) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.23,21.0111)
 
+## Sub-places
 - [[Warsaw Chopin Airport]]
 
 ## The Light That Never Goes Out — Helen Russell (2025)
-
 Source: [Original](https://mshelenrussell.substack.com/p/the-light-that-never-goes-out-on) · [Readwise highlight](https://read.readwise.io/read/01m5cre70axpr79rhzhmpzwwp8)
 
 > A Polish journalist told me on my last visit to Warsaw: “We already know how to be sad.”

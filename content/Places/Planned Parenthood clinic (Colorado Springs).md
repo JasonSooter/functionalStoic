@@ -2,12 +2,8 @@
 publish: true
 title: Planned Parenthood clinic (Colorado Springs)
 created: 2026-10-22T10:44:09.000Z
-modified: 2026-11-02T18:25:16.000Z
-published: 2026-11-02T18:25:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:55:39.894Z
+published: 2026-11-07T06:55:39.894Z
 aliases: []
 books:
   - Unknown Unknowns
@@ -16,13 +12,19 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 38.8807,-104.8489
-geo_note: "inferred: the text names only a Colorado clinic; reference works place the 2015 attack in Colorado Springs"
+geo_note: "inferred: the text names only a Colorado clinic; reference works place\
+  \ the 2015 attack in Colorado Springs"
 geo_source: Wikipedia (en) Colorado Springs Planned Parenthood shooting
 icon: newspaper
 location:
   - 38.8807
   - -104.8489
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado Springs]]"
+image: Attachments/Places/Planned Parenthood clinic (Colorado Springs).svg
 ---
 
 # Planned Parenthood clinic (Colorado Springs)
@@ -30,13 +32,13 @@ within: "[[Colorado Springs]]"
 Clinic in [[Colorado Springs]] where a gunman held out for hours in November 2015, the event behind Jim Wright's essay Unknown Unknowns.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Unknown Unknowns | Jim Wright | subject | A gunman barricades himself in a clinic; Wright argues how little is yet known about him. |
 
-## Unknown Unknowns — Jim Wright (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8807&mlon=-104.8489#map=16/38.8807/-104.8489) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8807,-104.8489)
 
+## Unknown Unknowns — Jim Wright (2015)
 Source: [Original](http://www.stonekettle.com/2015/11/unknown-unknowns.html) · [Readwise highlight](https://read.readwise.io/read/01m5hk5hfp40tb132ns6ezc4nj)
 
 > It's now been a bit more than a day since a nut with a gun barricaded himself inside a Colorado Planned Parenthood clinic and started shooting people.

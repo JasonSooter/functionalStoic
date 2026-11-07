@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Tar Creek Superfund site (Picher)
+created: 2016-12-15
+modified: 2026-11-07T07:02:13.370Z
+published: 2026-11-07T07:02:13.370Z
 aliases:
   - Tar Creek
   - Picher
-title: Tar Creek Superfund site (Picher)
-created: 2016-12-15
-modified: 2026-11-05T01:22:26.000Z
-published: 2026-11-05T01:22:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Tar Creek Superfund site (Picher).svg
 books:
   - Scott Pruitt, the EPA and the looming legacy of Tom Joad
 categories:
@@ -24,6 +19,10 @@ icon: newspaper
 location:
   - 36.9756
   - -94.8381
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oklahoma]]"
 image: Attachments/Places/Tar Creek Superfund site (Picher).svg
 ---
@@ -33,13 +32,13 @@ image: Attachments/Places/Tar Creek Superfund site (Picher).svg
 Lead and zinc mining Superfund site around the ghost towns of Picher and Cardin, northeastern Oklahoma. A blog post on Scott Pruitt calls it Oklahoma's biggest environmental catastrophe.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Scott Pruitt, the EPA and the looming legacy of Tom Joad | proactiveoutside1 | subject | Lead and zinc mining left contaminated chat piles that poisoned groundwater and creeks and caused lead poisoning in children. |
 
-## Scott Pruitt, the EPA and the looming legacy of Tom Joad — proactiveoutside1 (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.9756&mlon=-94.8381#map=10/36.9756/-94.8381) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.9756,-94.8381)
 
+## Scott Pruitt, the EPA and the looming legacy of Tom Joad — proactiveoutside1 (2016)
 Source: [Original](https://proactiveoutside.wordpress.com/2016/12/13/scott-pruitt-the-epa-and-the-looming-legacy-of-tom-joad/) · [Readwise highlight](https://read.readwise.io/read/01m5k5t7edpfjep07jj4b6cxgs)
 
 > So in the towns of Picher and Cardin, massive chat piles of mine tailings rose around and within the community like small mountains.

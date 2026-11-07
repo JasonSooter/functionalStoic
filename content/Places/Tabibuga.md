@@ -2,13 +2,8 @@
 publish: true
 title: Tabibuga
 created: 2024-10-04
-modified: 2026-11-05T01:22:25.000Z
-published: 2026-11-05T01:22:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Tabibuga.svg
+modified: 2026-11-07T07:01:37.359Z
+published: 2026-11-07T07:01:37.359Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +16,10 @@ icon: book
 location:
   - -5.6
   - 144.68
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Papua New Guinea]]"
 image: Attachments/Places/Tabibuga.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Tabibuga.svg
 Remote patrol station in the Jimi Valley, Papua New Guinea; in _Life on Air_ the base of Attenborough's 1957 trek into uncontrolled territory.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The base of Attenborough's 1957 trek into uncontrolled territory. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-5.6&mlon=144.68#map=16/-5.6/144.68) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-5.6,144.68)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx34rajsjqnc1dvz754nb8)
 
 > The path ahead broadened and opened out into the red-earthed open arena I had seen from the forest above. At least a thousand people were there awaiting us.

@@ -2,12 +2,8 @@
 publish: true
 title: Paraguay
 created: 2026-10-22T13:41:38.000Z
-modified: 2026-11-02T18:41:23.000Z
-published: 2026-11-02T18:41:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:53:46.640Z
+published: 2026-11-07T06:53:46.640Z
 aliases: []
 books:
   - "[[Candide]]"
@@ -21,6 +17,11 @@ icon: book
 location:
   - -23
   - -58
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+image: Attachments/Places/Paraguay.svg
 ---
 
 # Paraguay
@@ -28,18 +29,17 @@ location:
 Paraguay is a landlocked country in central South America. In Voltaire's _Candide_ it is the Jesuit kingdom where Candide kills Cunegonde's brother.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | turning point | The Jesuit kingdom, where the Father Commandant turns out to be Cunegonde's brother and Candide runs him through |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-23&mlon=-58#map=11/-23/-58) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-23,-58)
 
+## Sub-places
 - [[Gran Chaco]]
 - [[Jejuí River]]
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75gdcmz5tw7hkz0jx2e5j)
 
 > I was servant in the College of the Assumption, and am acquainted with the government of the good Fathers as well as I am with the streets of Cadiz. It is an admirable government.

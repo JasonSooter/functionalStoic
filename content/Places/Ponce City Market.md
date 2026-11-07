@@ -2,15 +2,12 @@
 publish: true
 title: Ponce City Market
 created: 2026-10-22T23:17:11.000Z
-modified: 2026-11-02T18:30:32.000Z
-published: 2026-11-02T18:30:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:56:06.864Z
+published: 2026-11-07T06:56:06.864Z
 aliases: []
 books:
-  - MailChimp and the Un-Silicon Valley Way to Make It as a Start-Up - The New York Times
+  - MailChimp and the Un-Silicon Valley Way to Make It as a Start-Up - The New York
+    Times
 categories:
   - "[[Places]]"
 color: purple
@@ -20,7 +17,12 @@ icon: newspaper
 location:
   - 33.7729
   - -84.3657
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Atlanta]]"
+image: Attachments/Places/Ponce City Market.svg
 ---
 
 # Ponce City Market
@@ -28,13 +30,13 @@ within: "[[Atlanta]]"
 Former Sears warehouse in Atlanta's Old Fourth Ward. The New York Times visits MailChimp's offices there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | MailChimp and the Un-Silicon Valley Way to Make It as a Start-Up - The New York Times | Farhad Manjoo | setting | The reporter visits MailChimp's offices, two floors of a former Sears Roebuck warehouse, and describes the start-up decor and the… |
 
-## MailChimp and the Un-Silicon Valley Way to Make It as a Start-Up - The New York Times — Farhad Manjoo (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.7729&mlon=-84.3657#map=16/33.7729/-84.3657) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.7729,-84.3657)
 
+## MailChimp and the Un-Silicon Valley Way to Make It as a Start-Up - The New York Times — Farhad Manjoo (2016)
 Source: [Original](https://www.nytimes.com/2016/10/06/technology/mailchimp-and-the-un-silicon-valley-way-to-make-it-as-a-start-up.html) · [Readwise highlight](https://read.readwise.io/read/01m5jy92decpjztjbfh621ja2d)
 
 > MailChimp is run out of two sprawling floors in the Ponce City Market, a massive complex in Atlanta’s Old Fourth Ward neighborhood that was originally built as a Sears Roebuck warehouse.

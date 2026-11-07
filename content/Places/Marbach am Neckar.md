@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Marbach
 title: Marbach am Neckar
 created: 2026-05-16
-modified: 2026-11-02T15:21:50.000Z
-published: 2026-11-02T15:21:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Marbach am Neckar.svg
+modified: 2026-11-07T06:54:04.513Z
+published: 2026-11-07T06:54:04.513Z
+aliases:
+  - Marbach
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
 categories:
@@ -21,6 +16,10 @@ icon: video
 location:
   - 48.9333
   - 9.25
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Baden-Württemberg]]"
 image: Attachments/Places/Marbach am Neckar.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Marbach am Neckar.svg
 Town on the Neckar north of Stuttgart in [[Baden-Württemberg]], Schiller's birthplace. It shows up in DW Travel's list of lesser-known German cities as a literary pilgrimage stop.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | Schiller's birthplace and home of the Schiller National Museum. |
 
-## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.9333&mlon=9.25#map=16/48.9333/9.25) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.9333,9.25)
 
+## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
 Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Original](https://www.youtube.com/watch?v=9AbxJrqpPqQ) · [Readwise highlight](https://read.readwise.io/read/01m5brfv4jdeg7776ygrt2tcrf)
 
 > In 1759, a famous poet was born here

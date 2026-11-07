@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Green Mount Cemetery, Montpelier
 title: Green Mount Cemetery (Montpelier)
 created: 2025-05-25
-modified: 2026-11-02T14:17:02.000Z
-published: 2026-11-02T14:17:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Green Mount Cemetery (Montpelier).svg
+modified: 2026-11-07T07:00:30.345Z
+published: 2026-11-07T07:00:30.345Z
+aliases:
+  - Green Mount Cemetery, Montpelier
 books:
   - On Stones
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 44.2582
   - -72.5974
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vermont]]"
 image: Attachments/Places/Green Mount Cemetery (Montpelier).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Green Mount Cemetery (Montpelier).svg
 Cemetery in Montpelier, [[Vermont]]. It is the emotional centre of an article on a Vermont granite carver, where she shows the footstone she carved for her friend's grave.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On Stones]] | Ellyn Gaydos | turning point | Over a Veterans Day long weekend Heather takes the author to her friend Tiki's grave under a hydrangea. |
 
-## On Stones — Ellyn Gaydos (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.2582&mlon=-72.5974#map=16/44.2582/-72.5974) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.2582,-72.5974)
 
+## On Stones — Ellyn Gaydos (2024)
 Source: [Original](https://harpers.org/archive/2024/08/on-stones-ellyn-gaydos-vermont-granite/) · [Readwise highlight](https://read.readwise.io/read/01m5dqv2ahnc7t0pjtv902j6r9)
 
 > Heather took me in her red Jeep to Green Mount Cemetery in Montpelier.

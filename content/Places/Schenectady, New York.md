@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Schenectady
 title: Schenectady, New York
 created: 2025-12-28
-modified: 2026-11-02T21:15:26.000Z
-published: 2026-11-02T21:15:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Schenectady, New York.svg
+modified: 2026-11-07T06:53:31.343Z
+published: 2026-11-07T06:53:31.343Z
+aliases:
+  - Schenectady
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 42.8142
   - -73.9372
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Schenectady, New York.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Schenectady, New York.svg
 City on the Mohawk River north-west of Albany, the old 'door' to the Mohawk country. In _Wedding of the Waters_ it is a stop the canal's backers scorned.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | journey waypoint | The 1810 commissioners are stuck there on 4 July; in 1825 the town gives Clinton a cold welcome. |
 
-## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.8142&mlon=-73.9372#map=16/42.8142/-73.9372) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.8142,-73.9372)
 
+## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvd6pdayvdm2dqhqkastkm)
 
 > Poor Schenectady—S’coun-ho-ha! The Dutch had settled the town, the first of them exclaiming on his arrival in 1642 that this was “the finest land the eyes of man had ever rested upon.”

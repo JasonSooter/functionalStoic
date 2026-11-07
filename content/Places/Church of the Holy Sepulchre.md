@@ -2,13 +2,8 @@
 publish: true
 title: Church of the Holy Sepulchre
 created: 2024-12-21
-modified: 2026-11-02T14:15:21.000Z
-published: 2026-11-02T14:15:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Church of the Holy Sepulchre.svg
+modified: 2026-11-07T06:56:13.344Z
+published: 2026-11-07T06:56:13.344Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 31.7783
   - 35.2297
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Old City of Jerusalem]]"
 image: Attachments/Places/Church of the Holy Sepulchre.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Church of the Holy Sepulchre.svg
 Church in Jerusalem's Christian Quarter on the traditional site of Christ's tomb. The Holy Fire ceremony in _Apeirogon_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | The Holy Saturday fire carried from the tomb through the crowd and the Old City. |
 
-## Apeirogon — Colum McCann (2020)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7783&mlon=35.2297#map=16/31.7783/35.2297) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7783,35.2297)
 
+## Apeirogon — Colum McCann (2020)
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7x5dz52hnc9j0gp9cax73)
 
 > Every year in the Church of the Holy Sepulchre in Jerusalem—where Christ was crucified, entombed and then believed by Christians to have risen from the dead—a holy fire is said to erupt spontaneously, lighting candles which eventually spread a flame that is carried around the world.

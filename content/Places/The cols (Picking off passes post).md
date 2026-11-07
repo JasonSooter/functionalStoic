@@ -2,13 +2,8 @@
 publish: true
 title: The cols (Picking off passes post)
 created: 2025-08-26
-modified: 2026-11-06T01:28:58.000Z
-published: 2026-11-06T01:28:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The cols (Picking off passes post).svg
+modified: 2026-11-07T06:52:03.568Z
+published: 2026-11-07T06:52:03.568Z
 aliases: []
 books:
   - Picking off passes
@@ -17,12 +12,17 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 44.1056,3.8869
-geo_note: "inferred: Two firm matches, both Gard Cévennes; same trip as 'Passes Part Deux'."
+geo_note: "inferred: Two firm matches, both Gard Cévennes; same trip as 'Passes Part\
+  \ Deux'."
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 44.1056
   - 3.8869
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Cévennes]]"
 image: Attachments/Places/The cols (Picking off passes post).svg
 ---
@@ -32,13 +32,13 @@ image: Attachments/Places/The cols (Picking off passes post).svg
 The cols are a string of small passes crossed in a day in the Gard part of the [[Cévennes]], pinned inferred around Saint-Jean-du-Gard and Mialet. They appear in a Mostly Bikes x Me post that lists them as the day's route, and share a trip with its companion post "Passes Part Deux".
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Picking off passes | Mostly Bikes x Me | journey waypoint | Seven named cols and 'yet another Le Collet' crossed in a day in the Cévennes; only Lamira was a side quest. |
 
-## Picking off passes — Mostly Bikes x Me (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1056&mlon=3.8869#map=16/44.1056/3.8869) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1056,3.8869)
 
+## Picking off passes — Mostly Bikes x Me (2025)
 Source: [Original](https://funkadelic.net/pages/15583830523.html) · [Readwise highlight](https://read.readwise.io/read/01m5e33bgq1gra1gmwsm02gqex)
 
 > Col de Charnavas, Col de la Banlève, Col de Canteperdrix, Col de la Bégude, Col de la Baraque, Col d'Uglas, Col de Lamira and yet another “Le Collet”.

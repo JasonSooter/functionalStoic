@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - KU
 title: University of Kansas
 created: 2016-01-28
-modified: 2026-11-06T11:22:56.000Z
-published: 2026-11-06T11:22:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/University of Kansas.svg
+modified: 2026-11-07T06:55:21.784Z
+published: 2026-11-07T06:55:21.784Z
+aliases:
+  - KU
 books:
   - Before We Were Mr. and Mrs. Frugalwoods
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 38.9584
   - -95.2478
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Kansas]]"
 image: Attachments/Places/University of Kansas.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/University of Kansas.svg
 Public university in Lawrence, Kansas. The Frugalwoods met in a class here and he proposed in the same lecture hall.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Before We Were Mr. and Mrs. Frugalwoods | Mrs. Frugalwoods | turning point | The couple met in a KU class; he proposed in the same lecture hall, no ring bought. |
 
-## Before We Were Mr. and Mrs. Frugalwoods — Mrs. Frugalwoods (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9584&mlon=-95.2478#map=16/38.9584/-95.2478) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9584,-95.2478)
 
+## Before We Were Mr. and Mrs. Frugalwoods — Mrs. Frugalwoods (2016)
 Source: [Original](https://www.frugalwoods.com/2016/01/28/before-we-were-mr-and-mrs-frugalwoods/) · [Readwise highlight](https://read.readwise.io/read/01m5j6jsr4c710hhjbz6aa4n3a)
 
 > After our first year post-college, Mr. FW asked me to marry him in the lecture hall auditorium at the University of Kansas where we’d met in a class our freshman year.

@@ -2,13 +2,8 @@
 publish: true
 title: Vaison-la-Romaine
 created: 2025-04-16
-modified: 2026-11-06T14:23:13.000Z
-published: 2026-11-06T14:23:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Vaison-la-Romaine.svg
+modified: 2026-11-07T06:56:10.396Z
+published: 2026-11-07T06:56:10.396Z
 aliases: []
 books:
   - Errands & Rally King
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 44.2422
   - 5.0724
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Vaison-la-Romaine.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Vaison-la-Romaine.svg
 Town in [[Provence]], France, which appears in a Mostly Bikes ride entry titled for Vaison-la-Romaine and Gigondas, a ride over the hills for lunch and back for wine.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Errands & Rally King | Mostly Bikes x Me | journey waypoint | The entry is titled for Vaison-la-Romaine and Gigondas; the rider goes over the hills for lunch and returns to buy wine. |
 
-## Errands & Rally King — Mostly Bikes x Me (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.2422&mlon=5.0724#map=16/44.2422/5.0724) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.2422,5.0724)
 
+## Errands & Rally King — Mostly Bikes x Me (2025)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5e2xcr7501wqgs3hq7t51yb)
 
 > Over the hills for lunch, and back around for bottles of wine

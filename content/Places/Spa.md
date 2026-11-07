@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Spa, Belgium
 title: Spa
 created: 2026-08-26
-modified: 2026-11-02T21:34:24.000Z
-published: 2026-11-02T21:34:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Spa.svg
+modified: 2026-11-07T06:57:10.662Z
+published: 2026-11-07T06:57:10.662Z
+aliases:
+  - Spa, Belgium
 books:
   - Neither Here Nor There
 categories:
@@ -20,6 +15,10 @@ icon: book
 location:
   - 50.4925
   - 5.8642
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Belgium]]"
 coordinates: 50.4925,5.8642
 image: Attachments/Places/Spa.svg
@@ -30,13 +29,13 @@ image: Attachments/Places/Spa.svg
 Spa town in the Ardennes hills of Liège province, [[Belgium]], which gave its name to all the others. It appears in the reading as a minor, faded-grandeur stop on Bill Bryson's trip through Belgium.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | journey waypoint | An off-season former royal resort, with brochures for alarming cures. |
 
-## Neither Here Nor There — Bill Bryson (1991)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.4925&mlon=5.8642#map=16/50.4925/5.8642) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.4925,5.8642)
 
+## Neither Here Nor There — Bill Bryson (1991)
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5a839e0dv5rhwannk09rq6a)
 
 > Spa is the original spa town, from which all the others take their name, and for two hundred years it was the haunt of Europe’s royalty.

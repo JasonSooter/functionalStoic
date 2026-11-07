@@ -2,13 +2,8 @@
 publish: true
 title: Uzbekistan
 created: 2025-02-27
-modified: 2026-11-06T11:26:39.000Z
-published: 2026-11-06T11:26:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Uzbekistan.svg
+modified: 2026-11-07T06:56:05.584Z
+published: 2026-11-07T06:56:05.584Z
 aliases: []
 books:
   - "[[Range]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 42
   - 64
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Uzbekistan.svg
 ---
 
@@ -30,10 +29,11 @@ image: Attachments/Places/Uzbekistan.svg
 Country in Central Asia. A subject in David Epstein's _Range_: Remote villages where Luria in 1931 tested how modern work reshaped abstract thinking.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | subject | Remote villages where Luria in 1931 tested how modern work reshaped abstract thinking. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42&mlon=64#map=11/42/64) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42,64)
 
 ## Sub-places
 
@@ -41,7 +41,6 @@ Country in Central Asia. A subject in David Epstein's _Range_: Remote villages w
 - [[Samarkand]]
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
-
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jjsd9sa49egx3pfrv0t6x3)
 
 > Individual farmers in isolated areas of what is now Uzbekistan had long survived by cultivating small gardens for food, and cotton for everything else.

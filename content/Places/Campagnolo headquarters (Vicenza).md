@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Campagnolo factory
 title: Campagnolo headquarters (Vicenza)
 created: 2026-03-08
-modified: 2026-11-02T14:15:06.000Z
-published: 2026-11-02T14:15:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Campagnolo headquarters (Vicenza).svg
+modified: 2026-11-07T06:52:17.837Z
+published: 2026-11-07T06:52:17.837Z
+aliases:
+  - Campagnolo factory
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -24,6 +19,10 @@ icon: book
 location:
   - 45.5467
   - 11.5475
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vicenza]]"
 image: Attachments/Places/Campagnolo headquarters (Vicenza).svg
 ---
@@ -37,6 +36,8 @@ Head office and factory of the component maker Campagnolo in [[Vicenza]], Italy;
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike\|It's All About the Bike: In Pursuit of Happiness on Two Wheels]] | Robert Penn | setting | Boardroom interview after a refused factory tour. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.5467&mlon=11.5475#map=10/45.5467/11.5475) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5467,11.5475)
 
 ## It's All About the Bike: In Pursuit of Happiness on Two Wheels — Robert Penn (2010)
 

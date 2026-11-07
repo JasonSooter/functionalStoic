@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Seoul Skygarden
 title: Seoullo 7017
 created: 2019-04-17
-modified: 2026-11-02T21:15:26.000Z
-published: 2026-11-02T21:15:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Seoullo 7017.svg
+modified: 2026-11-07T06:54:24.995Z
+published: 2026-11-07T06:54:24.995Z
+aliases:
+  - Seoul Skygarden
 books:
   - These 8 cities are taking bold steps to get rid of cars
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 37.557
   - 126.9748
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Seoul]]"
 image: Attachments/Places/Seoullo 7017.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Seoullo 7017.svg
 Former highway overpass in central Seoul turned into a pedestrian walkway in 2017. Fast Company counts it among eight bold moves against cars.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | These 8 cities are taking bold steps to get rid of cars | Adele Peters | subject | A highway overpass was converted in 2017 into a High Line-like pedestrian pathway. |
 
-## These 8 cities are taking bold steps to get rid of cars — Adele Peters (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.557&mlon=126.9748#map=16/37.557/126.9748) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.557,126.9748)
 
+## These 8 cities are taking bold steps to get rid of cars — Adele Peters (2019)
 Source: [Original](https://www.fastcompany.com/90321627/these-8-cities-are-taking-bold-steps-to-get-rid-of-cars) · [Readwise highlight](https://read.readwise.io/read/01m5k7e9m11vt4mp2vfkn0w83f)
 
 > 10 million people used the path and business improved in the area, with sales increasing 42%.

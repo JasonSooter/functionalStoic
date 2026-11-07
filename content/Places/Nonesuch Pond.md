@@ -2,12 +2,8 @@
 publish: true
 title: Nonesuch Pond
 created: 2026-10-23T07:47:47.000Z
-modified: 2026-11-02T17:59:23.000Z
-published: 2026-11-02T17:59:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:02:50.867Z
+published: 2026-11-07T07:02:50.867Z
 aliases: []
 books:
   - "[[North Woods]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 42.3251
   - -71.3289
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
+image: Attachments/Places/Nonesuch Pond.svg
 ---
 
 # Nonesuch Pond
@@ -28,13 +29,13 @@ within: "[[Massachusetts]]"
 Pond on the Natick–Weston line west of Boston. In _North Woods_ the Girl Scout camp on its north shore is where the elm blight's journey to the yellow house begins.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[North Woods]] | Daniel Mason | turning point | Dead elms from the Scout camp, cut for the Turnpike, carry the elm beetle to the house in the woods. |
 
-## North Woods — Daniel Mason (2023)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3251&mlon=-71.3289#map=16/42.3251/-71.3289) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3251,-71.3289)
 
+## North Woods — Daniel Mason (2023)
 Source: [[North Woods]] · [Original](https://openlibrary.org/works/OL34028309W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcbv0jfja4ckqwdy2jfxn)
 
 > Many years ago, on the boundary of Natick and Weston, on the north shore of Nonesuch Pond, was a property belonging to the Scouts, a pleasant, quiet country area

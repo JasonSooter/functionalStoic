@@ -2,13 +2,8 @@
 publish: true
 title: Jamaica
 created: 2016-06-24
-modified: 2026-11-02T14:17:57.000Z
-published: 2026-11-02T14:17:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Jamaica.svg
+modified: 2026-11-07T06:55:08.691Z
+published: 2026-11-07T06:55:08.691Z
 aliases: []
 books:
   - Former Jamaican ‘Gangster’ Says Literacy May Be the Best Way to Fight Crime
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 18.18
   - -77.4
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Jamaica.svg
 ---
 
@@ -30,10 +29,11 @@ image: Attachments/Places/Jamaica.svg
 Island country in the Caribbean. A subject in Rebekah Kebede's “Former Jamaican ‘Gangster’ Says Literacy May Be the Best Way to Fight Crime”: Island nation whose high murder rate and illiteracy are the article's central case.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Former Jamaican ‘Gangster’ Says Literacy May Be the Best Way to Fight Crime | Rebekah Kebede | subject | Island nation whose high murder rate and illiteracy are the article's central case |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=18.18&mlon=-77.4#map=11/18.18/-77.4) · [Google Maps](https://www.google.com/maps/search/?api=1&query=18.18,-77.4)
 
 ## Sub-places
 
@@ -41,7 +41,6 @@ Island country in the Caribbean. A subject in Rebekah Kebede's “Former Jamaica
 - [[Trench Town]]
 
 ## Former Jamaican ‘Gangster’ Says Literacy May Be the Best Way to Fight Crime — Rebekah Kebede (2016)
-
 Source: [Original](http://www.good.is/posts/jamaican-badman-violence-and-illiteracy) · [Readwise highlight](https://read.readwise.io/read/01m5jjqv0rfvg19hj08wceye32)
 
 > Jamaica also has one of the highest murder rates in the world.

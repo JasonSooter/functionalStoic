@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - World Trade Center Boston
 title: Seaport World Trade Center
 created: 2024-07-09
-modified: 2026-11-02T21:15:26.000Z
-published: 2026-11-02T21:15:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Seaport World Trade Center.svg
+modified: 2026-11-07T06:53:56.965Z
+published: 2026-11-07T06:53:56.965Z
+aliases:
+  - World Trade Center Boston
 books:
   - "[[All My Thoughts After 40 Hours in the Vision Pro]]"
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 42.3518
   - -71.0403
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Boston]]"
 image: Attachments/Places/Seaport World Trade Center.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Seaport World Trade Center.svg
 Seaport World Trade Center is a convention and office building in Boston's Seaport district. It turns up in All My Thoughts After 40 Hours in the Vision Pro (Tim Urban): It is the origin point of the article's VR through-line, but the text gives only the building name and city; the place itself is incidental to the story.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[All My Thoughts After 40 Hours in the Vision Pro]] | Tim Urban | turning point | Urban traces his VR obsession to a 1990 virtual reality exhibit at the Seaport World Trade Center, where he stood on a pedestal with a… |
 
-## All My Thoughts After 40 Hours in the Vision Pro — Tim Urban (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3518&mlon=-71.0403#map=16/42.3518/-71.0403) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3518,-71.0403)
 
+## All My Thoughts After 40 Hours in the Vision Pro — Tim Urban (2024)
 Source: [[All My Thoughts After 40 Hours in the Vision Pro]] · [Original](https://waitbutwhy.com/2024/02/vision-pro.html) · [Readwise highlight](https://read.readwise.io/read/01m5fbg8xtx8yxjc93vg6y5b2y)
 
 > when my parents brought me to something called a “virtual reality exhibit” at the Seaport World Trade Center in Boston.

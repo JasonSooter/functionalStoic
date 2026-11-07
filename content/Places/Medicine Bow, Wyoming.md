@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Medicine Bow
 title: Medicine Bow, Wyoming
 created: 2026-10-23
-modified: 2026-11-02T15:35:01.000Z
-published: 2026-11-02T15:35:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Medicine Bow, Wyoming.svg
+modified: 2026-11-07T06:55:23.384Z
+published: 2026-11-07T06:55:23.384Z
+aliases:
+  - Medicine Bow
 books:
   - Around the World in Eighty Days
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 41.8994
   - -106.2019
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Wyoming]]"
 image: Attachments/Places/Medicine Bow, Wyoming.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Medicine Bow, Wyoming.svg
 Small town on the Union Pacific line in Carbon County, Wyoming. In _Around the World in Eighty Days_ the train leaps its ruined suspension bridge at full speed.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | turning point | The train leaps the ruined bridge at full speed. |
 
-## Around the World in Eighty Days — Jules Verne (1872)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.8994&mlon=-106.2019#map=16/41.8994/-106.2019) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.8994,-106.2019)
 
+## Around the World in Eighty Days — Jules Verne (1872)
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3vsr365kxg6d32b1ak6j)
 
 > This was a suspension-bridge thrown over some rapids, about a mile from the place where they now were. According to the signal-man, it was in a ruinous condition, several of the iron wires being broken; and it was impossible to risk the passage.

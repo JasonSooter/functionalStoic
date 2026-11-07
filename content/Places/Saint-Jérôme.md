@@ -2,13 +2,8 @@
 publish: true
 title: Saint-Jérôme
 created: 2024-10-11
-modified: 2026-11-02T20:54:40.000Z
-published: 2026-11-02T20:54:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Saint-Jérôme.svg
+modified: 2026-11-07T07:03:01.927Z
+published: 2026-11-07T07:03:01.927Z
 aliases: []
 books:
   - "P’tit Train du Nord day 3: A 9-mile(!) hill"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 45.7833
   - -74
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Quebec]]"
 image: Attachments/Places/Saint-Jérôme.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Saint-Jérôme.svg
 City north of Montreal, Quebec, at the southern end of the P'tit Train du Nord trail. A three-day bike trip starts and ends there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | P’tit Train du Nord day 3: A 9-mile(!) hill | alliumstozinnias | journey waypoint | Start and finish of the trip; a train runs south from here. |
 
-## P’tit Train du Nord day 3: A 9-mile(!) hill — alliumstozinnias (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.7833&mlon=-74#map=16/45.7833/-74) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.7833,-74)
 
+## P’tit Train du Nord day 3: A 9-mile(!) hill — alliumstozinnias (2024)
 Source: [Original](https://exploringbybike.com/2024/09/24/ptit-train-du-nord-day-3-a-9-mile-hill/) · [Readwise highlight](https://read.readwise.io/read/01m5f1vw42f6kf4ebrrkbna9bm)
 
 > Ah, it’s just under 50 km (30 miles) to St. Jerome. Keep going.

@@ -1,18 +1,13 @@
 ---
 publish: true
+title: The yellow house (North Woods)
+created: 2025-11-29
+modified: 2026-11-07T06:52:38.159Z
+published: 2026-11-07T06:52:38.159Z
 aliases:
   - Osgood house
   - Catamount Acres
   - Oakfield (North Woods)
-title: The yellow house (North Woods)
-created: 2025-11-29
-modified: 2026-11-06T08:21:46.000Z
-published: 2026-11-06T08:21:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The yellow house (North Woods).svg
 books:
   - "[[North Woods]]"
 categories:
@@ -20,12 +15,17 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 42.1668,-73.1496
-geo_note: "best-guess: fictional house in western Massachusetts; Berkshires representative point"
+geo_note: "best-guess: fictional house in western Massachusetts; Berkshires representative\
+  \ point"
 geo_source: Wikipedia (en) Berkshires
 icon: book
 location:
   - 42.1668
   - -73.1496
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/The yellow house (North Woods).svg
 ---
@@ -35,13 +35,13 @@ image: Attachments/Places/The yellow house (North Woods).svg
 The house in the woods of western Massachusetts whose owners, from colonial runaways to a dying scientist, _North Woods_ follows across four centuries. Pinned as a best guess in the Berkshires.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[North Woods]] | Daniel Mason | setting | The book's one place: cabin, Osgood orchard, Teale's yellow house, Catamount Lodge and Catamount Acres. |
 
-## North Woods — Daniel Mason (2023)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.1668&mlon=-73.1496#map=16/42.1668/-73.1496) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.1668,-73.1496)
 
+## North Woods — Daniel Mason (2023)
 Source: [[North Woods]] · [Original](https://openlibrary.org/works/OL34028309W) · [Readwise highlight](https://read.readwise.io/read/01m5kvc8mvgcfs9jrh6vcnh7n7)
 
 > They reached the valley on the seventh day. Above them, a mountain. Deer track led through a meadow that rose and narrowed northly, crossed through the dark remnants of a recent fire.

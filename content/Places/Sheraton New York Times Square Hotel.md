@@ -2,13 +2,8 @@
 publish: true
 title: Sheraton New York Times Square Hotel
 created: 2025-06-21
-modified: 2026-11-02T21:24:33.000Z
-published: 2026-11-02T21:24:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Sheraton New York Times Square Hotel.svg
+modified: 2026-11-07T06:55:00.530Z
+published: 2026-11-07T06:55:00.530Z
 aliases: []
 books:
   - "[[The Nordic Theory of Everything]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 40.7625
   - -73.9817
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Sheraton New York Times Square Hotel.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Sheraton New York Times Square Hotel.svg
 Large hotel on Seventh Avenue in Midtown Manhattan. In _The Nordic Theory of Everything_ it hosts the 2010 Clinton Global Initiative session that opens the book.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Nordic Theory of Everything]] | Anu Partanen | setting | Bill Clinton quizzes Finland's president on stage, showing Finland's sudden world prestige. |
 
-## The Nordic Theory of Everything — Anu Partanen (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7625&mlon=-73.9817#map=16/40.7625/-73.9817) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7625,-73.9817)
 
+## The Nordic Theory of Everything — Anu Partanen (2016)
 Source: [[The Nordic Theory of Everything]] · [Original](https://openlibrary.org/works/OL20028831W) · [Readwise highlight](https://read.readwise.io/read/01m5kjfk2rxnbq7gq3cf03nh3r)
 
 > It was a Tuesday morning at the Times Square Sheraton Hotel in New York City, where the Clinton Global Initiative Conference was under way.

@@ -2,13 +2,8 @@
 publish: true
 title: U.S. District Court for the Western District of Washington (Project Hail Mary)
 created: 2026-06-13
-modified: 2026-11-06T11:22:56.000Z
-published: 2026-11-06T11:22:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/U.S. District Court for the Western District of Washington (Project Hail Mary).svg
+modified: 2026-11-07T06:54:48.485Z
+published: 2026-11-07T06:54:48.485Z
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -23,8 +18,13 @@ icon: book
 location:
   - 47.6151
   - -122.3366
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Seattle]]"
-image: Attachments/Places/U.S. District Court for the Western District of Washington (Project Hail Mary).svg
+image: Attachments/Places/U.S. District Court for the Western District of Washington
+  (Project Hail Mary).svg
 ---
 
 # U.S. District Court for the Western District of Washington (Project Hail Mary)
@@ -32,13 +32,13 @@ image: Attachments/Places/U.S. District Court for the Western District of Washin
 Federal court for western Washington state, placed here at its Seattle courthouse as a best guess. In Project Hail Mary Stratt brushes off a copyright suit there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | Stratt appears as sole defendant in Intellectual Property Alliance v |
 
-## Project Hail Mary — Andy Weir (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.6151&mlon=-122.3366#map=16/47.6151/-122.3366) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.6151,-122.3366)
 
+## Project Hail Mary — Andy Weir (2021)
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvsqhv9hjrvt71dn7pkb7d)
 
 > “All rise,” said the bailiff, “the United States District Court for the Western District of Washington is now in session.

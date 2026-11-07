@@ -2,12 +2,8 @@
 publish: true
 title: Noho'ana Farm
 created: 2026-10-22T19:58:00.000Z
-modified: 2026-11-02T17:59:23.000Z
-published: 2026-11-02T17:59:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:02:46.344Z
+published: 2026-11-07T07:02:46.344Z
 aliases: []
 books:
   - The Fall of the Sugar Goliath in Hawaii Makes Way for the Return of Kalo
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 20.8528
   - -156.51
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Maui]]"
+image: Attachments/Places/Noho'ana Farm.svg
 ---
 
 # Noho'ana Farm
@@ -29,13 +30,13 @@ within: "[[Maui]]"
 Family taro farm in Waikapū, Maui. A setting in Nick Pachelli's “The Fall of the Sugar Goliath in Hawaii Makes Way for the Return of Kalo”: Family kalo farm in Waikapū, Maui, restoring lo'i as sugar water returns.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Fall of the Sugar Goliath in Hawaii Makes Way for the Return of Kalo | Nick Pachelli | setting | Family kalo farm in Waikapū, Maui, restoring lo'i as sugar water returns |
 
-## The Fall of the Sugar Goliath in Hawaii Makes Way for the Return of Kalo — Nick Pachelli (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=20.8528&mlon=-156.51#map=10/20.8528/-156.51) · [Google Maps](https://www.google.com/maps/search/?api=1&query=20.8528,-156.51)
 
+## The Fall of the Sugar Goliath in Hawaii Makes Way for the Return of Kalo — Nick Pachelli (2016)
 Source: [Original](http://www.good.is/posts/kalo-farming) · [Readwise highlight](https://read.readwise.io/read/01m5jjr8349rsgq7xbhfyathvs)
 
 > Noho'ana Farm, the one with the little sign out front, is devoted exclusively to growing kalo, and it sits on a plot that’s been in Hōkūao Pellegrino’s family since the Great Māhele of the 1850s.

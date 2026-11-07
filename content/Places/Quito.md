@@ -2,12 +2,8 @@
 publish: true
 title: Quito
 created: 2026-10-23T11:15:32.000Z
-modified: 2026-11-02T20:23:19.000Z
-published: 2026-11-02T20:23:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:58:15.554Z
+published: 2026-11-07T06:58:15.554Z
 aliases: []
 books:
   - "[[Exploration of Moby Dick]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - -0.22
   - -78.5125
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ecuador]]"
+image: Attachments/Places/Quito.svg
 ---
 
 # Quito
@@ -28,13 +29,13 @@ within: "[[Ecuador]]"
 Quito is the capital of Ecuador, high in the Andes near the equator. In _Moby-Dick_ it is the mint of the gold doubloon Ahab nails to the mainmast.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | subject | The Quito doubloon on the mainmast, stamped with three Andes peaks, which each of the crew reads in his own way. |
 
-## Moby-Dick — Herman Melville (1851)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-0.22&mlon=-78.5125#map=16/-0.22/-78.5125) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-0.22,-78.5125)
 
+## Moby-Dick — Herman Melville (1851)
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m77e16rrda0jbkcwg2nb7w)
 
 > On its round border it bore the letters, REPUBLICA DEL ECUADOR: QUITO.

@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Shahr-e Gholghola
+created: 2025-03-08
+modified: 2026-11-07T06:54:40.228Z
+published: 2026-11-07T06:54:40.228Z
 aliases:
   - City of Sighs
   - Shahr-i Gholghola
-title: Shahr-e Gholghola
-created: 2025-03-08
-modified: 2026-11-02T21:24:33.000Z
-published: 2026-11-02T21:24:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Shahr-e Gholghola.svg
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 34.8188
   - 67.839
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bamyan]]"
 image: Attachments/Places/Shahr-e Gholghola.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Shahr-e Gholghola.svg
 Ruined citadel above the [[Bamyan]] valley, Afghanistan. Dervla Murphy's ghost-haunted sunset view in _Full Tilt_ (as 'the City of Sighs').
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Sunset climb over ruined houses locals shun for ghosts; soldiers escort her back. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.8188&mlon=67.839#map=16/34.8188/67.839) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.8188,67.839)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6m8k55q7fx8k0rp8wrp4d)
 
 > After this I went off to explore the ruins of ‘The City of Sighs’, where the King of Bamian was successfully besieged by Genghis Khan in 1222. It stands on a hill isolated in the centre of the valley and the climb is so sheer that I was completely breathless by the time I got to the top, with its remains of two watch towers.

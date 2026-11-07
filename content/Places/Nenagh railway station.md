@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Nenagh station
 title: Nenagh railway station
 created: 2026-06-17
-modified: 2026-11-07T06:21:13.000Z
-published: 2026-11-07T06:21:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Nenagh railway station.svg
+modified: 2026-11-07T07:01:34.575Z
+published: 2026-11-07T07:01:34.575Z
+aliases:
+  - Nenagh station
 books:
   - The Country Girls Trilogy
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 52.8611
   - -8.1933
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[County Tipperary]]"
 image: Attachments/Places/Nenagh railway station.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Nenagh railway station.svg
 The railway station of Nenagh, a market town in County Tipperary near Lough Derg. In _The Country Girls Trilogy_ it is where Kate's father brings her home from Dublin and where she escapes by the morning train.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | journey waypoint | The station Kate is dragged home to by her drunken father, and later escapes from on the eleven o'clock train to Dublin. |
 
-## The Country Girls Trilogy — Edna O'Brien (1986)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.8611&mlon=-8.1933#map=16/52.8611/-8.1933) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.8611,-8.1933)
 
+## The Country Girls Trilogy — Edna O'Brien (1986)
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m75qhfbk4hahsh09hzzxxk)
 
 > “I want to go to Nenagh to catch the eleven o’clock train,” I said, and wondered if Jack had told him the whole story.

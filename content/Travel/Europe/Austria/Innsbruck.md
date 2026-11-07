@@ -2,14 +2,8 @@
 publish: true
 title: Innsbruck
 created: 2026-09-25T13:39:03.000Z
-modified: 2026-11-01T23:30:24.000Z
-published: 2026-11-01T23:30:24.000Z
-tags:
-  - travel/europe/austria/innsbruck
-  - places
-  - people/authors/carlo-rovelli
-  - source/ai/claude
-  - place/literary
+modified: 2026-11-07T07:06:05.206Z
+published: 2026-11-07T07:06:05.206Z
 books:
   - Neither Here Nor There
 categories:
@@ -21,7 +15,14 @@ icon: book
 location:
   - 47.2683
   - 11.3933
+tags:
+  - travel/europe/austria/innsbruck
+  - places
+  - people/authors/carlo-rovelli
+  - source/ai/claude
+  - place/literary
 within: "[[Austria]]"
+image: Attachments/Places/Innsbruck.svg
 ---
 
 # Innsbruck
@@ -54,13 +55,13 @@ The idea behind his work is the one in [[Concepts/Statistical Literacy|Statistic
 - [[Concepts/Statistical Literacy|Statistical Literacy]] · [[Travel/Trip Ideas|Trip Ideas]]
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | An unchanged station buffet and a golden evening walk give Bryson his first real sense of being in Europe. |
 
-## Neither Here Nor There — Bill Bryson (1991)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.2683&mlon=11.3933#map=13/47.2683/11.3933) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.2683,11.3933)
 
+## Neither Here Nor There — Bill Bryson (1991)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bejymvrsa36tx491hjk0p4)
 
 > I walked through the station at Innsbruck with an almost eerie sense of familiarity

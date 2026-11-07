@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Deutsches Nationaltheater (Weimar)
+created: 2026-01-04
+modified: 2026-11-07T07:02:47.004Z
+published: 2026-11-07T07:02:47.004Z
 aliases:
   - German National Theatre
   - Deutsches Nationaltheater
-title: Deutsches Nationaltheater (Weimar)
-created: 2026-01-04
-modified: 2026-11-07T06:20:52.000Z
-published: 2026-11-07T06:20:52.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Deutsches Nationaltheater (Weimar).svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 50.9794
   - 11.3247
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Weimar]]"
 image: Attachments/Places/Deutsches Nationaltheater (Weimar).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Deutsches Nationaltheater (Weimar).svg
 Court and national theatre on the Theaterplatz in Weimar, where the National Assembly met in 1919. In _Germany: Memories of a Nation_ it introduces the Weimar Republic and the Bauhaus.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | setting | The Weimar theatre where the 1919 National Assembly gave Germany its first democratic constitution. |
 
-## Germany: Memories of a Nation — Neil MacGregor (2014)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.9794&mlon=11.3247#map=16/50.9794/11.3247) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.9794,11.3247)
 
+## Germany: Memories of a Nation — Neil MacGregor (2014)
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76b05ferfxh37h5bz10zq)
 
 > On the wall of the German National Theatre in Weimar today a bronze plaque records that ‘In this house the German people, through their National Assembly, gave themselves the Weimar constitution of 11 August 1919.’

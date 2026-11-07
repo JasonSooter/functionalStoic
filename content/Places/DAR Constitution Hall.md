@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Constitution Hall
 title: DAR Constitution Hall
 created: 2025-10-25
-modified: 2026-11-02T14:16:12.000Z
-published: 2026-11-02T14:16:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/DAR Constitution Hall.svg
+modified: 2026-11-07T07:01:07.951Z
+published: 2026-11-07T07:01:07.951Z
+aliases:
+  - Constitution Hall
 books:
   - "[[Quiet]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 38.8939
   - -77.0411
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington DC]]"
 image: Attachments/Places/DAR Constitution Hall.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/DAR Constitution Hall.svg
 Concert hall of the Daughters of the American Revolution in [[Washington DC|Washington, D.C.]]. In Quiet (Susan Cain) its refusal to host Marian Anderson in 1939 sets off the chapter's opening story.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | turning point | The hall's owners refuse Marian Anderson because of her race, sparking a national outcry. |
 
-## Quiet — Susan Cain (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8939&mlon=-77.0411#map=16/38.8939/-77.0411) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8939,-77.0411)
 
+## Quiet — Susan Cain (2012)
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wfbrzyg3px6kgrst3j51)
 
 > Earlier that year, Anderson had planned to sing at Constitution Hall in Washington, D.C., but the Daughters of the American Revolution, who owned the hall, rejected her because of her race.

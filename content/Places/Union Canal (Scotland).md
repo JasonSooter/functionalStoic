@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Union Canal
 title: Union Canal (Scotland)
 created: 2025-11-29
-modified: 2026-11-06T11:22:56.000Z
-published: 2026-11-06T11:22:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Union Canal (Scotland).svg
+modified: 2026-11-07T06:54:55.510Z
+published: 2026-11-07T06:54:55.510Z
+aliases:
+  - Union Canal
 books:
   - "[[The Hidden Engineering Behind the Falkirk Wheel]]"
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 55.9667
   - -3.1333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Scotland]]"
 image: Attachments/Places/Union Canal (Scotland).svg
 ---
@@ -32,10 +31,11 @@ image: Attachments/Places/Union Canal (Scotland).svg
 Contour canal from Falkirk to Edinburgh in [[Scotland]], which appears in Wesley Crump's article on the Falkirk Wheel as the upper canal, about 115 feet above the Forth and Clyde Canal.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hidden Engineering Behind the Falkirk Wheel]] | Wesley Crump | backdrop | The upper canal, 115 ft above. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.9667&mlon=-3.1333#map=10/55.9667/-3.1333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.9667,-3.1333)
 
 ## The Hidden Engineering Behind the Falkirk Wheel — Wesley Crump (2025)
 

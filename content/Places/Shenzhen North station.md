@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Shenzhen North station
+created: 2026-11-01
+modified: 2026-11-07T06:54:48.365Z
+published: 2026-11-07T06:54:48.365Z
 aliases:
   - Shenzhen North railway station
   - Shenzhenbei
-title: Shenzhen North station
-created: 2026-11-01
-modified: 2026-11-02T14:21:29.000Z
-published: 2026-11-02T14:21:29.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Shenzhen North station.svg
 books:
   - 2,000 km Overnight on China’s Bullet Train with Beds
 categories:
@@ -23,6 +18,10 @@ icon: video
 location:
   - 22.6119
   - 114.0239
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Shenzhen]]"
 image: Attachments/Places/Shenzhen North station.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Shenzhen North station.svg
 High-speed rail hub in the northern part of [[Shenzhen]], Guangdong, opened in 2011. It is where Simply Railway's overnight high-speed sleeper to Beijing begins.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 2,000 km Overnight on China’s Bullet Train with Beds | Simply Railway | setting | Start of the overnight D902 sleeper to Beijing West: ID-linked tickets, security, an airport-like waiting hall, platform 16 at 18:25. |
 
-## 2,000 km Overnight on China’s Bullet Train with Beds — Simply Railway
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=22.6119&mlon=114.0239#map=16/22.6119/114.0239) · [Google Maps](https://www.google.com/maps/search/?api=1&query=22.6119,114.0239)
 
+## 2,000 km Overnight on China’s Bullet Train with Beds — Simply Railway
 Source: [Original](https://www.youtube.com/watch?v=XD79kv_CanM) · [Readwise highlight](https://read.readwise.io/read/01m6cg5e8byjt9nry09bbdwp76)
 
 > Today I'm in Shenzhen, in southern China,

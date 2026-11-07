@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Nuku'alofa
 title: Nukuʻalofa
 created: 2026-10-22T13:40:52.000Z
-modified: 2026-11-02T17:59:23.000Z
-published: 2026-11-02T17:59:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:51:14.909Z
+published: 2026-11-07T06:51:14.909Z
+aliases:
+  - Nuku'alofa
 books:
   - Life on Air
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - -21.1333
   - -175.2
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tonga]]"
+image: Attachments/Places/Nukuʻalofa.svg
 ---
 
 # Nukuʻalofa
@@ -29,17 +30,16 @@ within: "[[Tonga]]"
 Capital of Tonga on Tongatapu; in _Life on Air_ the BBC team's base for filming the royal kava ceremony.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The BBC team's base for filming the royal kava ceremony. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-21.1333&mlon=-175.2#map=11/-21.1333/-175.2) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-21.1333,-175.2)
 
+## Sub-places
 - [[Royal Palace (Nukuʻalofa)]]
 
 ## Life on Air — David Attenborough (2002)
-
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3cw0yx2aazw96h8hvnbt)
 
 > When we moored alongside the quay at Nuku'alofa, the island's capital, Jim Spillius was there to meet us.

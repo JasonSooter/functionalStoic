@@ -2,13 +2,8 @@
 publish: true
 title: Yonge Street
 created: 2026-08-16
-modified: 2026-11-06T23:32:05.000Z
-published: 2026-11-06T23:32:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Yonge Street.svg
+modified: 2026-11-07T07:02:22.097Z
+published: 2026-11-07T07:02:22.097Z
 aliases: []
 books:
   - Checking the Distance. Working with Measuring Tools
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 43.6707
   - -79.3869
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Toronto]]"
 image: Attachments/Places/Yonge Street.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Yonge Street.svg
 Long north–south street from Lake Ontario through [[Toronto]], Canada, which appears in the reading as the 56-km yardstick in an OsmAnd tutorial on measuring tools.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Checking the Distance. Working with Measuring Tools | OsmAnd Blog | backdrop | A 56-km street as the yardstick for measuring tools. |
 
-## Checking the Distance. Working with Measuring Tools — OsmAnd Blog (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.6707&mlon=-79.3869#map=16/43.6707/-79.3869) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.6707,-79.3869)
 
+## Checking the Distance. Working with Measuring Tools — OsmAnd Blog (2026)
 Source: [Original](https://osmand.net/blog/measuring-tools) · [Readwise highlight](https://read.readwise.io/read/01m5ce804vc2ntjem9800g9q4a)
 
 > Yonge Street is 56 kilometres long. The longest street in the world, according to Guinness. It starts at Lake Ontario and runs straight north through Toronto until it quietly disappears near Holland Landing.

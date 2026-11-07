@@ -2,13 +2,8 @@
 publish: true
 title: Santa Monica
 created: 2016-06-09
-modified: 2026-11-02T21:10:48.000Z
-published: 2026-11-02T21:10:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Santa Monica.svg
+modified: 2026-11-07T06:52:48.568Z
+published: 2026-11-07T06:52:48.568Z
 aliases: []
 books:
   - 6 Ways Hillary Can Win Over Bernie’s Base
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 34.0219
   - -118.4814
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Santa Monica.svg
 ---
@@ -30,17 +29,16 @@ image: Attachments/Places/Santa Monica.svg
 Coastal city in Los Angeles County, California. A GOOD article opens with Bernie Sanders's rally there after he lost the California primary.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 6 Ways Hillary Can Win Over Bernie’s Base | Carter Maness | setting | Sanders speaks at a rally in Santa Monica after losing the California primary, declining to concede and being booed when he mentions… |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0219&mlon=-118.4814#map=11/34.0219/-118.4814) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0219,-118.4814)
 
+## Sub-places
 _None yet._
 
 ## 6 Ways Hillary Can Win Over Bernie’s Base — Carter Maness (2016)
-
 Source: [Original](https://www.good.is/articles/how-hillary-can-win-over-the-bernie-bros) · [Readwise highlight](https://read.readwise.io/read/01m5jvr9fsqehtxdkp3hwhc52y)
 
 > Last night, he commanded the stage in Santa Monica after losing the California primary, declaring his campaign’s revolution was “more than Bernie” and vowed to continue fighting.

@@ -2,13 +2,8 @@
 publish: true
 title: Shupanga
 created: 2024-10-04
-modified: 2026-11-02T21:24:33.000Z
-published: 2026-11-02T21:24:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Shupanga.svg
+modified: 2026-11-07T06:55:09.471Z
+published: 2026-11-07T06:55:09.471Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +16,10 @@ icon: book
 location:
   - -18.0394
   - 35.6106
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mozambique]]"
 image: Attachments/Places/Shupanga.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Shupanga.svg
 Village on the lower Zambezi in Mozambique; in _Life on Air_ Attenborough finds Mary Livingstone's grave there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | Attenborough finds Mary Livingstone's grave there. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-18.0394&mlon=35.6106#map=16/-18.0394/35.6106) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-18.0394,35.6106)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2y927veqess4d6j514zh)
 
 > There, in the little settlement of Shupanga we sought out the grave of Livingstone's wife Mary who had accompanied him on his expedition to the lower reaches of the Zambezi and there had died from malaria.

@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Alcazaba
 title: Alhambra
 created: 2026-02-11
-modified: 2026-11-02T14:14:12.000Z
-published: 2026-11-02T14:14:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Alhambra.svg
+modified: 2026-11-07T06:53:14.270Z
+published: 2026-11-07T06:53:14.270Z
+aliases:
+  - Alcazaba
 books:
   - Recreating an Ancient Pump (with no moving parts)
 categories:
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 37.1775
   - -3.59
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Granada]]"
 image: Attachments/Places/Alhambra.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Alhambra.svg
 Medieval palace and fortress complex on a hill above [[Granada]], Spain, which opens Practical Engineering's article on recreating an ancient pump with no moving parts.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Recreating an Ancient Pump\|Recreating an Ancient Pump (with no moving parts)]] | Practical Engineering | subject | A hilltop fortress that needed a pump with no moving parts. |
 
-## Recreating an Ancient Pump (with no moving parts) — Practical Engineering (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.1775&mlon=-3.59#map=16/37.1775/-3.59) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.1775,-3.59)
 
+## Recreating an Ancient Pump (with no moving parts) — Practical Engineering (2026)
 Source: [Original](https://practical.engineering/blog/2026/1/6/recreating-an-ancient-pump-with-no-moving-parts) · [Readwise highlight](https://read.readwise.io/read/01m5c4qc2yg3f897fgaz1r3nr9)
 
 > On the hill above Granada, Spain, sits the Alhambra: a medieval palace and fortress complex of the historic Islamic world.

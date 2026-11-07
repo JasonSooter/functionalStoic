@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Rogfast
+created: 2026-10-20T04:22:09.000Z
+modified: 2026-11-07T07:01:00.431Z
+published: 2026-11-07T07:01:00.431Z
 aliases:
   - Kvitsøy interchange
   - Rogfast tunnel
-title: Rogfast
-created: 2026-10-20T04:22:09.000Z
-modified: 2026-11-02T20:38:32.000Z
-published: 2026-11-02T20:38:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - The MASSIVE Ventilation Shafts Under Norway
   - Inside the World’s Deepest Road Tunnel
@@ -18,12 +14,18 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 59.0739,5.4553
-geo_note: article coordinate for the Rogfast tunnel (English Wikipedia); the interchange lies under the island of Kvitsøy
+geo_note: article coordinate for the Rogfast tunnel (English Wikipedia); the interchange
+  lies under the island of Kvitsøy
 icon: video
 location:
   - 59.0739
   - 5.4553
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Norway]]"
+image: Attachments/Places/Rogfast.svg
 ---
 
 # Rogfast
@@ -31,14 +33,14 @@ within: "[[Norway]]"
 Undersea road tunnel under the Boknafjord in Rogaland, [[Norway]], with an underground interchange beneath the island of Kvitsøy; the subject of two B1M videos.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The MASSIVE Ventilation Shafts Under Norway]] | The B1M | subject | Two roundabouts 250 metres under a small island. |
 | [[Inside the World’s Deepest Road Tunnel]] | The B1M | subject | A walk 6.5 km into the tunnel face, 390 m below sea level at its deepest. |
 
-## The MASSIVE Ventilation Shafts Under Norway — The B1M (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.0739&mlon=5.4553#map=16/59.0739/5.4553) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.0739,5.4553)
 
+## The MASSIVE Ventilation Shafts Under Norway — The B1M (2026)
 Source: [Original](https://www.youtube.com/shorts/01P7B1Q5suU) · [Readwise highlight](https://read.readwise.io/read/01m5bfxrvp4a7e1v880paqcbj9)
 
 > There's a freaking underground roundabout here.
@@ -48,7 +50,6 @@ Source: [Original](https://www.youtube.com/shorts/01P7B1Q5suU) · [Readwise high
 - **Why it matters:** The interchange is the video's subject. The text's spellings ("Rockfast", "Kavitzoy") are transcription errors for Rogfast and Kvitsøy.
 
 ## Inside the World’s Deepest Road Tunnel — The B1M (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=Ho2luOd8JH4) · [Readwise highlight](https://read.readwise.io/read/01m5brfjn4mg6rf6f0xwk9w815)
 
 > a twin bore tunnel running 27-kilometres across the mighty Boknafjord.

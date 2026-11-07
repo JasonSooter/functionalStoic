@@ -2,12 +2,8 @@
 publish: true
 title: Outer Banks
 created: 2026-10-22T23:16:40.000Z
-modified: 2026-11-02T18:41:22.000Z
-published: 2026-11-02T18:41:22.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:53:14.590Z
+published: 2026-11-07T06:53:14.590Z
 aliases: []
 books:
   - Why Community Matters to me – Learn coding concepts
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 35.2333
   - -75.5303
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[North Carolina]]"
+image: Attachments/Places/Outer Banks.svg
 ---
 
 # Outer Banks
@@ -29,17 +30,16 @@ within: "[[North Carolina]]"
 Barrier islands off North Carolina. A community post plans its Spacecamp 2.0 retreat in a rented Outer Banks mansion.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Community Matters to me – Learn coding concepts | Josh Owens | setting | The author describes the mansion chosen for Spacecamp 2.0: private suites, bunk rooms, game room, wrap-around deck and commercial… |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.2333&mlon=-75.5303#map=11/35.2333/-75.5303) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.2333,-75.5303)
 
+## Sub-places
 _None yet._
 
 ## Why Community Matters to me – Learn coding concepts — Josh Owens (2016)
-
 Source: [Original](https://thoughts.spacedojo.com/why-community-matters-to-me-167f0f6c9c02) · [Readwise highlight](https://read.readwise.io/read/01m5jy7c9asjpr14egfr9sntwv)
 
 > We have managed to secure a luxury mansion in the Outer Banks, NC area, just a mile from the beach.

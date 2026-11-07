@@ -1,18 +1,14 @@
 ---
 publish: true
-aliases:
-  - Centre Avenue area
 title: Centre Avenue (Fort Collins)
 created: 2024-06-09
-modified: 2026-11-02T14:15:36.000Z
-published: 2026-11-02T14:15:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Centre Avenue (Fort Collins).svg
+modified: 2026-11-07T06:53:51.692Z
+published: 2026-11-07T06:53:51.692Z
+aliases:
+  - Centre Avenue area
 books:
-  - "Reminder: Bike Prom, Colorado Bike Month, Centre Ave. Area Transportation Improvements and More"
+  - "Reminder: Bike Prom, Colorado Bike Month, Centre Ave. Area Transportation Improvements\
+    \ and More"
 categories:
   - "[[Places]]"
 color: purple
@@ -23,6 +19,10 @@ icon: newspaper
 location:
   - 40.561
   - -105.0845
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Fort Collins]]"
 image: Attachments/Places/Centre Avenue (Fort Collins).svg
 ---
@@ -32,13 +32,13 @@ image: Attachments/Places/Centre Avenue (Fort Collins).svg
 Centre Avenue is a street in Fort Collins. It turns up in Reminder: Bike Prom, Colorado Bike Month, Centre Ave. Area Transportation Improvements and More (Bike Fort Collins): A subject of a short advocacy item rather than a scene; the area is only identified by the street name, so the coordinate is a representative point.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Reminder: Bike Prom, Colorado Bike Month, Centre Ave. Area Transportation Improvements and More | Bike Fort Collins | subject | The City plans transportation improvements around Centre Avenue alongside roadway resurfacing, tied to Vision Zero and Active Modes goals. |
 
-## Reminder: Bike Prom, Colorado Bike Month, Centre Ave. Area Transportation Improvements and More — Bike Fort Collins (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.561&mlon=-105.0845#map=10/40.561/-105.0845) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.561,-105.0845)
 
+## Reminder: Bike Prom, Colorado Bike Month, Centre Ave. Area Transportation Improvements and More — Bike Fort Collins (2024)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5fbhwfzfbva4e75brczthn2)
 
 > In conjunction with upcoming roadway resurfacing, the City is planning several improvements in the Centre Avenue area that are aligned with the City’s Vision Zero Action Plan and Active Modes Plan

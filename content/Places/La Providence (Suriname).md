@@ -2,13 +2,8 @@
 publish: true
 title: La Providence (Suriname)
 created: 2025-06-08
-modified: 2026-11-02T14:18:16.000Z
-published: 2026-11-02T14:18:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/La Providence (Suriname).svg
+modified: 2026-11-07T07:00:55.043Z
+published: 2026-11-07T07:00:55.043Z
 aliases: []
 books:
   - "[[The Girl Who Drew Butterflies]]"
@@ -16,12 +11,17 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 5.2709,-55.0645
-geo_note: "approximate: ⚠️ GeoNames populated place La Providence on the upper Suriname River, taken as the site of the Labadist plantation"
+geo_note: "approximate: ⚠️ GeoNames populated place La Providence on the upper Suriname\
+  \ River, taken as the site of the Labadist plantation"
 geo_source: GeoNames 3383730
 icon: book
 location:
   - 5.2709
   - -55.0645
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Suriname]]"
 image: Attachments/Places/La Providence (Suriname).svg
 ---
@@ -31,13 +31,13 @@ image: Attachments/Places/La Providence (Suriname).svg
 Former Labadist plantation on the upper Suriname River. In _The Girl Who Drew Butterflies_ Maria Merian travels upstream to it and finds it nearly deserted.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Girl Who Drew Butterflies]] | Joyce Sidman | journey waypoint | Maria travels upstream to the Labadists' old outpost and finds it eerily quiet. |
 
-## The Girl Who Drew Butterflies — Joyce Sidman (2018)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=5.2709&mlon=-55.0645#map=10/5.2709/-55.0645) · [Google Maps](https://www.google.com/maps/search/?api=1&query=5.2709,-55.0645)
 
+## The Girl Who Drew Butterflies — Joyce Sidman (2018)
 Source: [[The Girl Who Drew Butterflies]] · [Original](https://openlibrary.org/works/OL19731743W) · [Readwise highlight](https://read.readwise.io/read/01m5kgs0jyfr243268qhpb3t3k)
 
 > She and Dorothea journeyed far upstream to La Providence, the former Labadist outpost where Cornelis van Sommelsdijk had collected the specimens Maria had seen at Waltha Castle.

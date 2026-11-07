@@ -2,13 +2,8 @@
 publish: true
 title: Emerald Mound and Village Site
 created: 2016-12-16
-modified: 2026-11-02T14:16:13.000Z
-published: 2026-11-02T14:16:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Emerald Mound and Village Site.svg
+modified: 2026-11-07T06:52:04.777Z
+published: 2026-11-07T06:52:04.777Z
 aliases: []
 books:
   - Finding North America’s lost medieval city
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 38.6306
   - -89.7858
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Illinois]]"
 image: Attachments/Places/Emerald Mound and Village Site.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Emerald Mound and Village Site.svg
 Mississippian ritual site in St. Clair County, Illinois, east of Cahokia. An Ars Technica feature presents it as a possible birthplace of Cahokian spirituality.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Finding North America’s lost medieval city | Annalee Newitz | subject | Susan Alt is excavating this ritual site, which may be where Cahokian spirituality began before people moved to Cahokia. |
 
-## Finding North America’s lost medieval city — Annalee Newitz (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6306&mlon=-89.7858#map=16/38.6306/-89.7858) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6306,-89.7858)
 
+## Finding North America’s lost medieval city — Annalee Newitz (2016)
 Source: [Original](http://arstechnica.com/features/2016/12/theres-a-1000-year-old-lost-city-beneath-the-st-louis-suburbs/) · [Readwise highlight](https://read.readwise.io/read/01m5k5rh846b9vzjjakcepx33c)
 
 > Located in St. Clair County, Illinois, Emerald might even be the birthplace of Cahokian spirituality—it's full of Mississippian artifacts but pre-dates Cahokia's population explosion.

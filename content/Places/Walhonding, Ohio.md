@@ -2,13 +2,8 @@
 publish: true
 title: Walhonding, Ohio
 created: 2017-09-09
-modified: 2026-11-06T17:27:49.000Z
-published: 2026-11-06T17:27:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Walhonding, Ohio.svg
+modified: 2026-11-07T06:58:21.683Z
+published: 2026-11-07T06:58:21.683Z
 aliases: []
 books:
   - Rural America Is Building Its Own Internet Because No One Else Will
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.3595
   - -82.1468
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ohio]]"
 image: Attachments/Places/Walhonding, Ohio.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Walhonding, Ohio.svg
 Village in a hollow in Coshocton County, Ohio. Motherboard tells how locals got it online with a backyard tower.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Rural America Is Building Its Own Internet Because No One Else Will | Vice | subject | The hollow blocked the signal from the nearest state tower. |
 
-## Rural America Is Building Its Own Internet Because No One Else Will — Vice (2017)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.3595&mlon=-82.1468#map=16/40.3595/-82.1468) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.3595,-82.1468)
 
+## Rural America Is Building Its Own Internet Because No One Else Will — Vice (2017)
 Source: [Original](https://motherboard.vice.com/en_us/article/paax9n/rural-america-is-building-its-own-internet-because-no-one-else-will) · [Readwise highlight](https://read.readwise.io/read/01m5k7ftsezr0js9gdhp0tg0z2)
 
 > The village of Walhonding, for example, is located in a hollow that blocked the signal from the closest MARCS tower in Newcastle, just three miles away.

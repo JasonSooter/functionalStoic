@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Stuttgart Hauptbahnhof
+created: 2026-01-19
+modified: 2026-11-07T06:59:56.426Z
+published: 2026-11-07T06:59:56.426Z
 aliases:
   - Stuttgart Hbf
   - Stuttgart 21
-title: Stuttgart Hauptbahnhof
-created: 2026-01-19
-modified: 2026-11-04T01:23:30.000Z
-published: 2026-11-04T01:23:30.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Stuttgart Hauptbahnhof.svg
 books:
   - The 10 Biggest Construction Fails of 2025
   - "8 Hours on DB's New ICE3 Neo: Inside Germany's Latest Flagship High-Speed Train!"
@@ -23,6 +18,10 @@ icon: video
 location:
   - 48.7839
   - 9.1817
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Stuttgart]]"
 image: Attachments/Places/Stuttgart Hauptbahnhof.svg
 ---
@@ -32,14 +31,14 @@ image: Attachments/Places/Stuttgart Hauptbahnhof.svg
 Stuttgart's main station, a terminus being rebuilt underground as a through station (Stuttgart 21); see [[Stuttgart]]. It appears in a B1M video on troubled megaprojects and in Simply Railway's ride on the ICE3 Neo, which reverses there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The 10 Biggest Construction Fails of 2025 | The B1M | subject | Stuttgart 21's steep tunnels and cancelled opening. |
 | 8 Hours on DB's New ICE3 Neo: Inside Germany's Latest Flagship High-Speed Train! | Simply Railway | journey waypoint | The dead-end station where the ICE reverses and the delays begin. |
 
-## The 10 Biggest Construction Fails of 2025 — The B1M (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.7839&mlon=9.1817#map=16/48.7839/9.1817) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.7839,9.1817)
 
+## The 10 Biggest Construction Fails of 2025 — The B1M (2025)
 Source: [Original](https://www.youtube.com/watch?v=QvHBvm9JIcc) · [Readwise highlight](https://read.readwise.io/read/01m5c4qfwwraygcwhmt87twe3d)
 
 > One major problem has been the gradient of the tracks in the tunnels.
@@ -49,7 +48,6 @@ Source: [Original](https://www.youtube.com/watch?v=QvHBvm9JIcc) · [Readwise hig
 - **Why it matters:** It is the video's German entry among the year's troubled megaprojects. ⚠️ The transcript speaks of the city's main terminus; the station's name is supplied here.
 
 ## 8 Hours on DB's New ICE3 Neo: Inside Germany's Latest Flagship High-Speed Train! — Simply Railway (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=5b1BLf4H4Dg) · [Readwise highlight](https://read.readwise.io/read/01m5c4qeqzmqqazwq9t6m63bfw)
 
 > We’re arriving at Stuttgart Hbf. Since it’s a dead-end station, we have to reverse direction before continuing north.

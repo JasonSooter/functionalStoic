@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Babusar Top
 title: Babusar Pass
 created: 2025-03-08
-modified: 2026-11-02T14:14:23.000Z
-published: 2026-11-02T14:14:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Babusar Pass.svg
+modified: 2026-11-07T06:56:55.746Z
+published: 2026-11-07T06:56:55.746Z
+aliases:
+  - Babusar Top
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 35.1462
   - 74.0482
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pakistan]]"
 image: Attachments/Places/Babusar Pass.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Babusar Pass.svg
 High pass between the Indus valley at Chilas and the Kagan Valley, Pakistan. The climactic crossing of _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | turning point | Glaciers, a vanished bridge and a bicycle carried on her neck over the pass. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.1462&mlon=74.0482#map=16/35.1462/74.0482) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.1462,74.0482)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6n6v5nxfkkjs6gs550j7z)
 
 > Sitting where I had subsided beyond the rocks, and still clutching Roz, I slowly assimilated the unlikely fact that we were on Babusar Top.

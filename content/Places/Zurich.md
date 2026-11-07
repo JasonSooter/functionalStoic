@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Zürich
 title: Zurich
 created: 2017-02-02
-modified: 2026-11-06T23:32:05.000Z
-published: 2026-11-06T23:32:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Zurich.svg
+modified: 2026-11-07T07:03:14.670Z
+published: 2026-11-07T07:03:14.670Z
+aliases:
+  - Zürich
 books:
   - Zurich’s Insane Plan To End Traffic
   - Living in Switzerland ruined me for America and its lousy work culture
@@ -22,6 +17,10 @@ icon: video
 location:
   - 47.3744
   - 8.5411
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Switzerland]]"
 image: Attachments/Places/Zurich.svg
 ---
@@ -37,12 +36,12 @@ Switzerland's largest city, at the north end of Lake Zurich (see [[Switzerland]]
 | Zurich’s Insane Plan To End Traffic | OBF | subject | How votes against burying the trams turned Zurich into a tram-first, car-light city. |
 | Living in Switzerland ruined me for America and its lousy work culture | Chantal Panozzo | turning point | After being scolded for eating a sandwich at her desk at a Zurich ad agency, the author is taken by colleague Tom on a funicular to a… |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.3744&mlon=8.5411#map=11/47.3744/8.5411) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.3744,8.5411)
 
+## Sub-places
 - [[Zürich Hauptbahnhof]]
 
 ## Zurich’s Insane Plan To End Traffic — OBF (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=kew0EIR5oxk) · [Readwise highlight](https://read.readwise.io/read/01m5bez9mchz56x1h0p44p7nmz)
 
 > At peak times, up to 17,000 people an hour converge on the square in front of the main station.
@@ -52,7 +51,6 @@ Source: [Original](https://www.youtube.com/watch?v=kew0EIR5oxk) · [Readwise hig
 - **Why it matters:** The whole city is the case study: its direct-democracy votes are the turning points, and the station square is where the problem began.
 
 ## Living in Switzerland ruined me for America and its lousy work culture — Chantal Panozzo (2015)
-
 Source: [Original](https://www.vox.com/2015/7/21/8974435/switzerland-work-life-balance) · [Readwise highlight](https://read.readwise.io/read/01m5k5qgfjptmj6b61d1g3mw7f)
 
 > The next day, exactly at noon, we rode the funicular to a restaurant where we dined al fresco above Zurich.

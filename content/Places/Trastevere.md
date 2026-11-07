@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Rione XIII Trastevere
 title: Trastevere
 created: 2024-05-18
-modified: 2026-11-06T08:26:13.000Z
-published: 2026-11-06T08:26:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Trastevere.svg
+modified: 2026-11-07T06:53:39.191Z
+published: 2026-11-07T06:53:39.191Z
+aliases:
+  - Rione XIII Trastevere
 books:
   - "[[Walkable City]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 41.8872
   - 12.4656
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rome]]"
 image: Attachments/Places/Trastevere.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Trastevere.svg
 Trastevere is a district of Rome on the west bank of the Tiber. It turns up in Walkable City (Jeff Speck): Rome and Trastevere serve as the counter-example to Lowell: technically hostile but wonderfully walkable.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | setting | Writing from Rome with a baby in a sling and a toddler in a stroller, Speck describes a city with missing sidewalks, no crosswalks, rutted… |
 
-## Walkable City — Jeff Speck (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.8872&mlon=12.4656#map=16/41.8872/12.4656) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.8872,12.4656)
 
+## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjethpjb79p8r4w3xbwhy)
 
 > Yet here we are among so many other pedestrians—tourists and locals alike—making our way around Trastevere … on our toes, yes, but enjoying every minute of it.

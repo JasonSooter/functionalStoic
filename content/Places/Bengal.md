@@ -2,13 +2,8 @@
 publish: true
 title: Bengal
 created: 2024-05-18
-modified: 2026-11-07T06:21:39.000Z
-published: 2026-11-07T06:21:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bengal.svg
+modified: 2026-11-07T06:58:43.064Z
+published: 2026-11-07T06:58:43.064Z
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 23.9888
   - 88.7311
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Bengal.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Bengal.svg
 Bengal is the region of the Ganges delta now divided between India and Bangladesh. _Sapiens_ cites its famine under early British rule as a cost of empire.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Richest province of India, where British misrule caused the famine of 1769–73 that killed 10 million. |
 
-## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=23.9888&mlon=88.7311#map=10/23.9888/88.7311) · [Google Maps](https://www.google.com/maps/search/?api=1&query=23.9888,88.7311)
 
+## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m7742efz0xtwxps8rzs3nr)
 
 > The British conquered Bengal, the richest province of India, in 1764.

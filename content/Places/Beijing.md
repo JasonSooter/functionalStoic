@@ -2,13 +2,8 @@
 publish: true
 title: Beijing
 created: 2024-11-11
-modified: 2026-11-02T14:14:40.000Z
-published: 2026-11-02T14:14:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Beijing.svg
+modified: 2026-11-07T06:58:34.920Z
+published: 2026-11-07T06:58:34.920Z
 aliases: []
 books:
   - Breakneck
@@ -23,6 +18,10 @@ icon: book
 location:
   - 39.9075
   - 116.3972
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[China]]"
 image: Attachments/Places/Beijing.svg
 ---
@@ -39,6 +38,8 @@ Capital of [[China]], which appears in the reading as Dan Wang's dreary, control
 | [[Not the End of the World]] | Hannah Ritchie | subject | The chapter opens on Beijing's 'airpocalypse'. |
 | [[The Martian]] | Andy Weir | setting | Teddy and Venkat land at Terminal 3 to negotiate the Chinese booster. |
 
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9075&mlon=116.3972#map=11/39.9075/116.3972) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9075,116.3972)
+
 ## Sub-places
 
 - [[Beijing West railway station]]
@@ -49,7 +50,6 @@ Capital of [[China]], which appears in the reading as Dan Wang's dreary, control
 - [[Zhoukoudian]]
 
 ## Breakneck — Dan Wang (2025)
-
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dcn8d6hjkkfgjjap36cs3s)
 
 > Beijing enthralls not because it is nice but because it isn’t. By most measures, life in Beijing is dreary.
@@ -59,7 +59,6 @@ Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highl
 - **Why it matters:** It sets up the book's picture of the engineering state and its urge to control the future.
 
 ## Not the End of the World — Hannah Ritchie (2024)
-
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5e31k77fd3f8z7r566sw52x)
 
 > For years, Beijing was near the top of the list for ‘most polluted city in the world’. It had become the poster child for global air pollution, especially in the Western media.
@@ -69,7 +68,6 @@ Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works
 - **Why it matters:** Beijing is the chapter's opening case study of how a citizenry can force rapid air-quality improvement; the author returns to it at the chapter's end. Another city would change the specifics but the lesson would stand.
 
 ## The Martian — Andy Weir (2011)
-
 Source: [[The Martian]] · [Original](https://openlibrary.org/works/OL17091839W) · [Readwise highlight](https://read.readwise.io/read/01m5j7vapx4jwtv3nqpntvndmz)
 
 > Beijing Capital International Airport’s Terminal 3 echoed with the cacophony common to huge air terminals.

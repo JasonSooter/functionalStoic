@@ -2,13 +2,8 @@
 publish: true
 title: Malabar Hill
 created: 2026-10-23
-modified: 2026-11-02T15:21:50.000Z
-published: 2026-11-02T15:21:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Malabar Hill.svg
+modified: 2026-11-07T06:53:20.354Z
+published: 2026-11-07T06:53:20.354Z
 books:
   - Around the World in Eighty Days
 categories:
@@ -20,6 +15,10 @@ icon: book
 location:
   - 18.95
   - 72.795
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mumbai]]"
 image: Attachments/Places/Malabar Hill.svg
 ---
@@ -29,13 +28,13 @@ image: Attachments/Places/Malabar Hill.svg
 Hill neighbourhood in south Mumbai. In _Around the World in Eighty Days_ Passepartout walks into its pagoda in his shoes, giving Fix a charge to pursue.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | turning point | Passepartout enters its pagoda in his shoes, handing Fix a charge. |
 
-## Around the World in Eighty Days — Jules Verne (1872)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=18.95&mlon=72.795#map=16/18.95/72.795) · [Google Maps](https://www.google.com/maps/search/?api=1&query=18.95,72.795)
 
+## Around the World in Eighty Days — Jules Verne (1872)
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3e96j44cjsk5rdhja11v)
 
 > Passepartout, however, thinking no harm, went in like a simple tourist, and was soon lost in admiration of the splendid Brahmin ornamentation which everywhere met his eyes, when of a sudden he found himself sprawling on the sacred flagging.

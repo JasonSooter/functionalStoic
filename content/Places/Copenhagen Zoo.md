@@ -2,13 +2,8 @@
 publish: true
 title: Copenhagen Zoo
 created: 2024-06-05
-modified: 2026-11-02T14:14:59.000Z
-published: 2026-11-02T14:14:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Copenhagen Zoo.svg
+modified: 2026-11-07T06:58:30.580Z
+published: 2026-11-07T06:58:30.580Z
 aliases: []
 books:
   - The Year of Living Danishly
@@ -21,6 +16,10 @@ icon: book
 location:
   - 55.6728
   - 12.5214
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Copenhagen]]"
 image: Attachments/Places/Copenhagen Zoo.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Copenhagen Zoo.svg
 Zoo in Frederiksberg, Copenhagen. In The Year of Living Danishly, the 2014 killing of Marius the giraffe opens a discussion of Danes and animals.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Year of Living Danishly | Helen Russell | subject | Marius the giraffe, killed and fed to lions in 2014, opens the April chapter. |
 
-## The Year of Living Danishly — Helen Russell (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.6728&mlon=12.5214#map=16/55.6728/12.5214) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.6728,12.5214)
 
+## The Year of Living Danishly — Helen Russell (2015)
 Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highlight](https://read.readwise.io/read/01m5f0r53jmkawqh42yahss9em)
 
 > Marius was an eighteen-month-old giraffe living in Copenhagen Zoo.

@@ -2,13 +2,8 @@
 publish: true
 title: Knoxville, Tennessee
 created: 2016-07-13
-modified: 2026-11-02T14:18:21.000Z
-published: 2026-11-02T14:18:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Knoxville, Tennessee.svg
+modified: 2026-11-07T06:58:48.608Z
+published: 2026-11-07T06:58:48.608Z
 aliases: []
 books:
   - How Mentors and Scholarships Help Community College Students Succeed
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 35.9617
   - -83.9232
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tennessee]]"
 image: Attachments/Places/Knoxville, Tennessee.svg
 ---
@@ -31,17 +30,16 @@ image: Attachments/Places/Knoxville, Tennessee.svg
 City in East Tennessee. KQED traces the Tennessee Promise scholarship back to Knoxville's KnoxAchieves programme.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Mentors and Scholarships Help Community College Students Succeed | Holly Korbey | turning point | The Tennessee Promise last-dollar scholarship began in Knoxville, as KnoxAchieves, launched in 2009 by the mayor and local businessmen… |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.9617&mlon=-83.9232#map=11/35.9617/-83.9232) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.9617,-83.9232)
 
+## Sub-places
 _None yet._
 
 ## How Mentors and Scholarships Help Community College Students Succeed — Holly Korbey (2016)
-
 Source: [Original](https://ww2.kqed.org/mindshift/2016/06/28/how-mentors-and-scholarships-help-community-college-students-succeed/) · [Readwise highlight](https://read.readwise.io/read/01m5jx5rk142qvs4j4bw7h8qsv)
 
 > We knew that one-third of students were graduating from the Knox County school system and not pursuing any kind of post-secondary education directly following high school,

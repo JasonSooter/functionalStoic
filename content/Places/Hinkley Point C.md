@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Hinkley Point C nuclear power station
 title: Hinkley Point C
 created: 2026-01-28
-modified: 2026-11-02T14:16:24.000Z
-published: 2026-11-02T14:16:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hinkley Point C.svg
+modified: 2026-11-07T07:03:17.873Z
+published: 2026-11-07T07:03:17.873Z
+aliases:
+  - Hinkley Point C nuclear power station
 books:
   - The 10 Biggest Construction Fails of 2025
 categories:
@@ -21,6 +16,10 @@ icon: video
 location:
   - 51.2059
   - -3.1429
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Somerset]]"
 image: Attachments/Places/Hinkley Point C.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Hinkley Point C.svg
 Nuclear power station under construction on the coast of [[Somerset]], [[England]]. It is The B1M's example of cost overrun at national scale.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The 10 Biggest Construction Fails of 2025]] | The B1M | subject | £48BN and a £700M fish deterrent. |
 
-## The 10 Biggest Construction Fails of 2025 — The B1M (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.2059&mlon=-3.1429#map=16/51.2059/-3.1429) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.2059,-3.1429)
 
+## The 10 Biggest Construction Fails of 2025 — The B1M (2025)
 Source: [Original](https://www.youtube.com/watch?v=QvHBvm9JIcc) · [Readwise highlight](https://read.readwise.io/read/01m5c4qjm1cvw242n7btzy9jcb)
 
 > In November, a government report discovered the plans for the site included a 700 million pound acoustic deterrent aimed at protecting local marine life.

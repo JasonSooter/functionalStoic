@@ -2,13 +2,8 @@
 publish: true
 title: Iowa State Capitol
 created: 2025-06-03
-modified: 2026-11-02T14:17:35.000Z
-published: 2026-11-02T14:17:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Iowa State Capitol.svg
+modified: 2026-11-07T06:54:10.874Z
+published: 2026-11-07T06:54:10.874Z
 aliases: []
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 41.5912
   - -93.6038
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Des Moines]]"
 image: Attachments/Places/Iowa State Capitol.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Iowa State Capitol.svg
 Seat of Iowa's government in Des Moines, with the state's Civil War monument on its grounds. In _The Life and Times of the Thunderbolt Kid_ the boys cycle there to gaze at the statue called Iowa.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Life and Times of the Thunderbolt Kid]] | Bill Bryson | backdrop | Saturday bike rides to stare at the bare-breasted statue Iowa on the Civil War monument: "Erected in 1890". |
 
-## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.5912&mlon=-93.6038#map=16/41.5912/-93.6038) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.5912,-93.6038)
 
+## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
 Source: [[The Life and Times of the Thunderbolt Kid]] · [Original](https://openlibrary.org/works/OL4620956W) · [Readwise highlight](https://read.readwise.io/read/01m5khtvzmbyxn91bk17x5npyy)
 
 > It was part of the state’s large Civil War monument on the capitol grounds.

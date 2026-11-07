@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Tensta station
 title: Tensta metro station
 created: 2026-03-18
-modified: 2026-11-05T01:22:25.000Z
-published: 2026-11-05T01:22:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Tensta metro station.svg
+modified: 2026-11-07T07:02:52.603Z
+published: 2026-11-07T07:02:52.603Z
+aliases:
+  - Tensta station
 books:
   - Every Metro System Should be this Beautiful
 categories:
@@ -21,6 +16,10 @@ icon: video
 location:
   - 59.3939
   - 17.9019
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Stockholm]]"
 image: Attachments/Places/Tensta metro station.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Tensta metro station.svg
 Tensta metro station is a blue-line station in the north-western suburb of Tensta, [[Stockholm]]. It appears in Not Just Bikes' video on beautiful metro systems as proof that art and good exits reach the suburbs.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Every Metro System Should be this Beautiful | Not Just Bikes | subject | A suburban cave station that opens straight onto a pedestrian square. |
 
-## Every Metro System Should be this Beautiful — Not Just Bikes (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.3939&mlon=17.9019#map=16/59.3939/17.9019) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3939,17.9019)
 
+## Every Metro System Should be this Beautiful — Not Just Bikes (2026)
 Source: [Original](https://www.youtube.com/watch?v=WJCCDYbK0Gc) · [Readwise highlight](https://read.readwise.io/read/01m5c3pkas6fx179009jyracsr)
 
 > such as here at Tensta.

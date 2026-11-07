@@ -2,13 +2,8 @@
 publish: true
 title: Launch Complex 39A
 created: 2016-10-28
-modified: 2026-11-02T14:16:56.000Z
-published: 2026-11-02T14:16:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Launch Complex 39A.svg
+modified: 2026-11-07T07:02:39.836Z
+published: 2026-11-07T07:02:39.836Z
 aliases: []
 books:
   - SpaceX’s Big Fucking Rocket – The Full Story
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 28.6083
   - -80.6044
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Kennedy Space Center]]"
 image: Attachments/Places/Launch Complex 39A.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Launch Complex 39A.svg
 Launch pad at Kennedy Space Center, Florida, used by Apollo and SpaceX. Wait But Why starts its imagined Mars trip there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | SpaceX’s Big Fucking Rocket – The Full Story | Tim Urban | setting | Step one of the imagined journey: passengers arrive at pad 39A, head up the tower and cross the bridge into the spaceship before liftoff |
 
-## SpaceX’s Big Fucking Rocket – The Full Story — Tim Urban (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.6083&mlon=-80.6044#map=16/28.6083/-80.6044) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.6083,-80.6044)
 
+## SpaceX’s Big Fucking Rocket – The Full Story — Tim Urban (2016)
 Source: [Original](https://waitbutwhy.com/2016/09/spacexs-big-fking-rocket-the-full-story.html) · [Readwise highlight](https://read.readwise.io/read/01m5jy9e6pgnkvq72294cvrwb4)
 
 > The BFR will be taking off from pad 39A at Cape Canaveral, Florida—the same pad that the Apollo astronauts left from.

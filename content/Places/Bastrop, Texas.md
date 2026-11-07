@@ -2,13 +2,8 @@
 publish: true
 title: Bastrop, Texas
 created: 2025-12-01
-modified: 2026-11-02T14:14:14.000Z
-published: 2026-11-02T14:14:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bastrop, Texas.svg
+modified: 2026-11-07T06:57:50.707Z
+published: 2026-11-07T06:57:50.707Z
 aliases: []
 books:
   - The (Very) Best Books I Read In 2023
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 30.1117
   - -97.3178
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Texas]]"
 image: Attachments/Places/Bastrop, Texas.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Bastrop, Texas.svg
 Small city on the Colorado River east of Austin, Texas. Ryan Holiday learns that Philipp Meyer's The Son is largely set in his home town.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The (Very) Best Books I Read In 2023 | here | backdrop | Holiday found The Son by chance in a Florida Barnes and Noble, then learned it was largely set in Bastrop, his home and the site of his… |
 
-## The (Very) Best Books I Read In 2023 — here (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.1117&mlon=-97.3178#map=16/30.1117/-97.3178) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.1117,-97.3178)
 
+## The (Very) Best Books I Read In 2023 — here (2024)
 Source: [Original](https://ryanholiday.net/the-very-best-books-i-read-in-2023/) · [Readwise highlight](https://read.readwise.io/read/01m5k8xagz7tt92489qveps8rw)
 
 > How could I have known that this epic Western–one of the greatest I’ve ever read–was largely based in Bastrop, where I live and where my bookstore,

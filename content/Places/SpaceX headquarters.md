@@ -1,17 +1,12 @@
 ---
 publish: true
+title: SpaceX headquarters
+created: 2015-08-05
+modified: 2026-11-07T06:57:11.725Z
+published: 2026-11-07T06:57:11.725Z
 aliases:
   - SpaceX factory
   - Hawthorne
-title: SpaceX headquarters
-created: 2015-08-05
-modified: 2026-11-02T21:34:24.000Z
-published: 2026-11-02T21:34:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/SpaceX headquarters.svg
 books:
   - "Elon Musk Series: Introduction"
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 33.9205
   - -118.3279
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/SpaceX headquarters.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/SpaceX headquarters.svg
 SpaceX's headquarters and rocket factory in Hawthorne, California. In Tim Urban's Wait But Why series he visits it the day after Tesla.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Elon Musk Series: Introduction | Tim Urban | setting | Rocket factory Urban tours but may not photograph. |
 
-## Elon Musk Series: Introduction — Tim Urban (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.9205&mlon=-118.3279#map=16/33.9205/-118.3279) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.9205,-118.3279)
 
+## Elon Musk Series: Introduction — Tim Urban (2015)
 Source: [Original](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html) · [Readwise highlight](https://read.readwise.io/read/01m5g16bmf15gktctqc0jqpyzt)
 
 > The next day was the SpaceX factory, which might be even cooler, but the building contains advanced rocket technology

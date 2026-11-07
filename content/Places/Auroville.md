@@ -2,16 +2,12 @@
 publish: true
 title: Auroville
 created: 2016-10-10
-modified: 2026-11-02T14:14:10.000Z
-published: 2026-11-02T14:14:10.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Auroville.svg
+modified: 2026-11-07T06:56:15.533Z
+published: 2026-11-07T06:56:15.533Z
 aliases: []
 books:
-  - This experimental utopian "city of the future" in rural India may hold a dark secret.
+  - This experimental utopian "city of the future" in rural India may hold a dark
+    secret.
 categories:
   - "[[Places]]"
 color: purple
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 12.0069
   - 79.8106
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Auroville.svg
 ---
@@ -30,17 +30,16 @@ image: Attachments/Places/Auroville.svg
 Experimental township near Puducherry, India. An article examines the "city of the future" founded in 1968.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This experimental utopian "city of the future" in rural India may hold a dark secret. | Atlas Obscura | subject | The article describes the community founded in 1968 by Mirra Alfassa as a universal township with communal property and no politics or… |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=12.0069&mlon=79.8106#map=11/12.0069/79.8106) · [Google Maps](https://www.google.com/maps/search/?api=1&query=12.0069,79.8106)
 
+## Sub-places
 - [[Matrimandir]]
 
 ## This experimental utopian "city of the future" in rural India may hold a dark secret. — Atlas Obscura (2016)
-
 Source: [Original](https://www.atlasobscura.com/places/auroville) · [Readwise highlight](https://read.readwise.io/read/01m5jy8ejmf712b11xhyhbb6wr)
 
 > Welcome to Auroville, the self-proclaimed “city of the future” and the “city of dawn.” Despite being in a rural region of India, this experimental community was started by a Westerner.

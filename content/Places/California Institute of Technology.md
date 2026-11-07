@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Caltech
 title: California Institute of Technology
 created: 2025-10-25
-modified: 2026-11-02T14:15:12.000Z
-published: 2026-11-02T14:15:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/California Institute of Technology.svg
+modified: 2026-11-07T06:52:00.800Z
+published: 2026-11-07T06:52:00.800Z
+aliases:
+  - Caltech
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 34.1375
   - -118.125
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pasadena]]"
 image: Attachments/Places/California Institute of Technology.svg
 ---
@@ -31,17 +30,16 @@ image: Attachments/Places/California Institute of Technology.svg
 Research university in Pasadena, California. In _Surely You're Joking, Mr. Feynman!_ it is where Feynman decides, on a walk across campus, to stay for the rest of his career.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | turning point | On a walk across campus, news from Baade and Meselson convinces Feynman that Caltech is where he belongs. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.1375&mlon=-118.125#map=11/34.1375/-118.125) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.1375,-118.125)
 
+## Sub-places
 - [[Athenaeum (Caltech)]]
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
-
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfqp8dcqdq6bgtvqr6srms)
 
 > I didn’t even make it across the campus to get to my office, when another guy came up—Matt Meselson, a biologist who had minored in physics.

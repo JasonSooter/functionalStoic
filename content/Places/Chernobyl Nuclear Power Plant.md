@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Chernobyl Nuclear Power Plant
+created: 2024-11-19
+modified: 2026-11-07T06:55:00.366Z
+published: 2026-11-07T06:55:00.366Z
 aliases:
   - Chernobyl
   - Chornobyl
-title: Chernobyl Nuclear Power Plant
-created: 2024-11-19
-modified: 2026-11-02T14:15:23.000Z
-published: 2026-11-02T14:15:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Chernobyl Nuclear Power Plant.svg
 books:
   - The 10 Biggest Construction Fails of 2025
   - "[[Not the End of the World]]"
@@ -24,6 +19,10 @@ icon: book
 location:
   - 51.3892
   - 30.0994
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Ukraine]]"
 image: Attachments/Places/Chernobyl Nuclear Power Plant.svg
 ---
@@ -40,8 +39,9 @@ Decommissioned nuclear plant in northern [[Ukraine]], site of the 1986 disaster,
 | [[Not the End of the World]] | Hannah Ritchie | subject | Likely caused up to 400 deaths, far fewer than most people guess, blamed on old reactor design and Soviet secrecy. |
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | subject | A robot sent into the still-contaminated Chernobyl site returned with black mold that had colonized the abandoned reactor |
 
-## The 10 Biggest Construction Fails of 2025 — The B1M (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.3892&mlon=30.0994#map=16/51.3892/30.0994) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3892,30.0994)
 
+## The 10 Biggest Construction Fails of 2025 — The B1M (2025)
 Source: [Original](https://www.youtube.com/watch?v=QvHBvm9JIcc) · [Readwise highlight](https://read.readwise.io/read/01m5c4qh80hkypvhaw5npba5gv)
 
 > The attack blasted a 6 m wide hole in the hermetically sealed shelter covering the infamous reactor 4.
@@ -51,7 +51,6 @@ Source: [Original](https://www.youtube.com/watch?v=QvHBvm9JIcc) · [Readwise hig
 - **Why it matters:** The segment is about damage to one of the world's most important containment structures.
 
 ## Not the End of the World — Hannah Ritchie (2024)
-
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5e31f7drznpje1mq7r0r47e)
 
 > Over the last 60 years there have been only two major nuclear accidents: Chernobyl in Ukraine in 1986, and Fukushima in Japan in 2011.
@@ -61,7 +60,6 @@ Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works
 - **Why it matters:** Used to argue nuclear power is among the safest energy sources.
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
-
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jvv2rj8xdg0n59c14tj0d5)
 
 > One of Casadevall’s projects was born from a news article he read about a robot sent into the Chernobyl nuclear accident site, still highly contaminated thirty years post-disaster. The article happened to mention that the robot returned with some black mold, a kind that resembled a grotty shower curtain and that had colonized the abandoned reactor.

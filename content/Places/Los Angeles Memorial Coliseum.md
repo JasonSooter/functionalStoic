@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - LA Coliseum
 title: Los Angeles Memorial Coliseum
 created: 2026-04-29
-modified: 2026-11-02T14:18:26.000Z
-published: 2026-11-02T14:18:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Los Angeles Memorial Coliseum.svg
+modified: 2026-11-07T06:51:22.202Z
+published: 2026-11-07T06:51:22.202Z
+aliases:
+  - LA Coliseum
 books:
   - LA’s ‘No-Car’ Olympics Plan Explained
 categories:
@@ -21,6 +16,10 @@ icon: video
 location:
   - 34.0142
   - -118.2878
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Los Angeles Memorial Coliseum.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Los Angeles Memorial Coliseum.svg
 Olympic stadium (1932 and 1984) in Exposition Park, [[Los Angeles]], featured in a B1M video on reusing old venues for the 2028 Games.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[LA’s ‘No-Car’ Olympics Plan Explained]] | The B1M | subject | A raised temporary deck will bring athletics back to a stadium that lost its track. |
 
-## LA’s ‘No-Car’ Olympics Plan Explained — The B1M (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0142&mlon=-118.2878#map=16/34.0142/-118.2878) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0142,-118.2878)
 
+## LA’s ‘No-Car’ Olympics Plan Explained — The B1M (2026)
 Source: [Original](https://www.youtube.com/watch?v=TT1WO8zWk7o) · [Readwise highlight](https://read.readwise.io/read/01m5bretxb33b4qffqfbt9r52w)
 
 > What they intend to do is build a temporary deck on the floor of the bowl, propped up on supports.

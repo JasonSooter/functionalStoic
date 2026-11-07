@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Chelsea Hotel
 title: Hotel Chelsea
 created: 2025-11-23
-modified: 2026-11-02T14:17:33.000Z
-published: 2026-11-02T14:17:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hotel Chelsea.svg
+modified: 2026-11-07T06:52:03.916Z
+published: 2026-11-07T06:52:03.916Z
+aliases:
+  - Chelsea Hotel
 books:
   - "[[Another Brooklyn]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 40.7444
   - -73.9969
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Hotel Chelsea.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Hotel Chelsea.svg
 Historic hotel on West 23rd Street, Manhattan, [[New York City]], where the cast party in Jacqueline Woodson's Another Brooklyn is held and where Gigi's death is implied.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | turning point | After the drama club's Jesus Christ Superstar, the cast party is held on the eleventh floor of the Chelsea Hotel. |
 
-## Another Brooklyn — Jacqueline Woodson (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7444&mlon=-73.9969#map=16/40.7444/-73.9969) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7444,-73.9969)
 
+## Another Brooklyn — Jacqueline Woodson (2016)
 Source: [[Another Brooklyn]] · [Original](https://www.jacquelinewoodson.com/product/another-brooklyn/) · [Readwise highlight](https://read.readwise.io/read/01m5dqyqx8bqdhs5d4z8x8mcfq)
 
 > Someone’s friend knew someone who lived at the Chelsea Hotel. The cast party was on the eleventh floor.

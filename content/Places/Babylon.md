@@ -2,13 +2,8 @@
 publish: true
 title: Babylon
 created: 2020-02-12
-modified: 2026-11-02T14:14:27.000Z
-published: 2026-11-02T14:14:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Babylon.svg
+modified: 2026-11-07T06:56:56.745Z
+published: 2026-11-07T06:56:56.745Z
 aliases: []
 books:
   - "The Code of Hammurabi: The Best Rule To Manage Risk"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 32.5425
   - 44.4211
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Iraq]]"
 image: Attachments/Places/Babylon.svg
 ---
@@ -37,8 +36,9 @@ Ancient Mesopotamian capital on the Euphrates in present-day Iraq. A Farnam Stre
 | The Code of Hammurabi: The Best Rule To Manage Risk | Farnam Street | subject | Hammurabi ruled Babylon from 1792 BC for 43 years, expanding a modest kingdom by conquest and then settling down to rule. |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Hammurabi's capital, whose Code is one of the book's two model 'imagined orders'. |
 
-## The Code of Hammurabi: The Best Rule To Manage Risk — Farnam Street (2017)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.5425&mlon=44.4211#map=16/32.5425/44.4211) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.5425,44.4211)
 
+## The Code of Hammurabi: The Best Rule To Manage Risk — Farnam Street (2017)
 Source: [Original](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) · [Readwise highlight](https://read.readwise.io/read/01m5k7bqccncm3ezx7d6fpjjyf)
 
 > Almost 4,000 years ago, King Hammurabi of Babylon, Mesopotamia, laid out one of the first sets of laws.
@@ -48,7 +48,6 @@ Source: [Original](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) ·
 - **Why it matters:** The ancient city-state and its laws are the subject of the whole argument about incentives and risk.
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75mess3s8m29k66zd839v)
 
 > In 1776 BC Babylon was the world’s biggest city.

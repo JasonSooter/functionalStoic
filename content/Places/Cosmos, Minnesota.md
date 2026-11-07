@@ -2,13 +2,8 @@
 publish: true
 title: Cosmos, Minnesota
 created: 2015-11-28
-modified: 2026-11-02T14:15:40.000Z
-published: 2026-11-02T14:15:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Cosmos, Minnesota.svg
+modified: 2026-11-07T06:58:53.500Z
+published: 2026-11-07T06:58:53.500Z
 aliases: []
 books:
   - The 2nd Annual Midwest Corn Alps Paragliding Competition – Cosmos, MN
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 44.9361
   - -94.6956
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Minnesota]]"
 image: Attachments/Places/Cosmos, Minnesota.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Cosmos, Minnesota.svg
 Small town in central [[Minnesota]]. A Currently Wandering post visits a paragliding competition there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The 2nd Annual Midwest Corn Alps Paragliding Competition – Cosmos, MN | Jess | setting | Paragliders towed aloft by truck over flat farmland at the 'Corn Alps' competition. |
 
-## The 2nd Annual Midwest Corn Alps Paragliding Competition – Cosmos, MN — Jess (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.9361&mlon=-94.6956#map=16/44.9361/-94.6956) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.9361,-94.6956)
 
+## The 2nd Annual Midwest Corn Alps Paragliding Competition – Cosmos, MN — Jess (2015)
 Source: [Original](http://currentlywandering.com/2015/08/13/the-2nd-annual-midwest-corn-alps-paragliding-competition-cosmos-mn/) · [Readwise highlight](https://read.readwise.io/read/01m5ganksrjn6bye85x2mvj852)
 
 > We recently had the opportunity to attend the 2nd Annual Midwest Corn Alps Paragliding Competition out in Cosmos, MN.

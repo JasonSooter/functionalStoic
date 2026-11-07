@@ -2,13 +2,8 @@
 publish: true
 title: Bolivia
 created: 2015-12-21
-modified: 2026-11-02T14:14:41.000Z
-published: 2026-11-02T14:14:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bolivia.svg
+modified: 2026-11-07T07:01:10.908Z
+published: 2026-11-07T07:01:10.908Z
 aliases: []
 books:
   - 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - -17.0569
   - -64.9912
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Bolivia.svg
 ---
 
@@ -30,10 +29,11 @@ image: Attachments/Places/Bolivia.svg
 Landlocked country in central South America, where the cycling family of LifeEdited's 1 Couple + 2 Bikes story camps out to wait for their baby.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow | David Friedlander | turning point | Seven months pregnant on the road, Alice and the family camp in Bolivia until the baby can ride in the trailer. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-17.0569&mlon=-64.9912#map=11/-17.0569/-64.9912) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-17.0569,-64.9912)
 
 ## Sub-places
 
@@ -41,7 +41,6 @@ Landlocked country in central South America, where the cycling family of LifeEdi
 - [[Tsimané territory (Bolivia)]]
 
 ## 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow — David Friedlander (2015)
-
 Source: [Original](https://lifeedited.com/1-couple-2-bikes-2-kids-5-continents-7-years-wow/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5s9702wm58ae1ry9f134)
 
 > When she was seven months pregnant, they camped out in Bolivia until the baby was big enough to stash in a hammock in the trailer.

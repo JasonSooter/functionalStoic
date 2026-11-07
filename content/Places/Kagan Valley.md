@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Kaghan Valley
 title: Kagan Valley
 created: 2025-03-08
-modified: 2026-11-02T14:18:02.000Z
-published: 2026-11-02T14:18:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Kagan Valley.svg
+modified: 2026-11-07T06:56:45.755Z
+published: 2026-11-07T06:56:45.755Z
+aliases:
+  - Kaghan Valley
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 34.8333
   - 73.5167
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pakistan]]"
 image: Attachments/Places/Kagan Valley.svg
 ---
@@ -32,19 +31,18 @@ image: Attachments/Places/Kagan Valley.svg
 Valley of the Kunhar river in Khyber Pakhtunkhwa, Pakistan. Dervla Murphy follows its river down from the Babusar in _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | backdrop | Following the young river past glaciers, nomads' herds and wild flowers down to Naran. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.8333&mlon=73.5167#map=11/34.8333/73.5167) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.8333,73.5167)
 
+## Sub-places
 - [[Batakundi]]
 - [[Lake Saiful Muluk]]
 - [[Naran]]
 
 ## Full Tilt — Dervla Murphy (1965)
-
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6n7z6cg1231hv2f1x6ps5)
 
 > The Kagan Valley is so beautiful that one has to stop every hundred yards to sit and look.

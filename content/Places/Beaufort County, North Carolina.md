@@ -2,13 +2,8 @@
 publish: true
 title: Beaufort County, North Carolina
 created: 2025-03-28
-modified: 2026-11-02T14:14:40.000Z
-published: 2026-11-02T14:14:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Beaufort County, North Carolina.svg
+modified: 2026-11-07T06:58:04.524Z
+published: 2026-11-07T06:58:04.524Z
 aliases: []
 books:
   - "[[The Road Not Taken Is Guaranteed Minimum Income]]"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 35.48
   - -76.84
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[North Carolina]]"
 image: Attachments/Places/Beaufort County, North Carolina.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Beaufort County, North Carolina.svg
 County in [[North Carolina]], USA, which appears in Jeff Atwood's essay on guaranteed minimum income as his mother's birthplace and the second planned study county.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Road Not Taken Is Guaranteed Minimum Income]] | Jeff Atwood | subject | It is the mother's birthplace and the second planned study county, hit by lost farming and factory jobs. |
 
-## The Road Not Taken is Guaranteed Minimum Income — Jeff Atwood (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.48&mlon=-76.84#map=16/35.48/-76.84) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.48,-76.84)
 
+## The Road Not Taken is Guaranteed Minimum Income — Jeff Atwood (2025)
 Source: [[The Road Not Taken Is Guaranteed Minimum Income]] · [Original](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqb93jcx9g24jx4w5ycee)
 
 > North Carolina, has been hit just as hard, with farming and factory jobs disappearing and families left wondering what’s next.

@@ -2,13 +2,8 @@
 publish: true
 title: Sweden, Maine
 created: 2024-12-19
-modified: 2026-11-04T01:29:14.000Z
-published: 2026-11-04T01:29:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Sweden, Maine.svg
+modified: 2026-11-07T07:01:21.776Z
+published: 2026-11-07T07:01:21.776Z
 aliases: []
 books:
   - Sweden wants to trademark its name - and honestly, I get it
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 44.1211
   - -70.8122
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Maine]]"
 image: Attachments/Places/Sweden, Maine.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Sweden, Maine.svg
 Small town in Oxford County, Maine, USA. It appears in Helen Russell's Substack post as the comic counterpoint to Sweden's attempt to trademark its name.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sweden wants to trademark its name - and honestly, I get it | Helen Russell | subject | The tiny US Sweden that tourists seeking cinnamon buns might reach by mistake. |
 
-## Sweden wants to trademark its name - and honestly, I get it — Helen Russell (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1211&mlon=-70.8122#map=16/44.1211/-70.8122) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1211,-70.8122)
 
+## Sweden wants to trademark its name - and honestly, I get it — Helen Russell (2024)
 Source: [Original](https://mshelenrussell.substack.com/p/sweden-wants-to-trademark-its-nameand) · [Readwise highlight](https://read.readwise.io/read/01m5f0q2k4v60rpaa5scmnawaj)
 
 > The reason? To safeguard their brand and ensure tourists seeking Swedish cinnamon buns don’t wind up in Sweden, Maine (population: 391).

@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Kingdom Tower
 title: Jeddah Tower
 created: 2026-07-14
-modified: 2026-11-02T14:18:02.000Z
-published: 2026-11-02T14:18:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Jeddah Tower.svg
+modified: 2026-11-07T06:55:13.211Z
+published: 2026-11-07T06:55:13.211Z
+aliases:
+  - Kingdom Tower
 books:
   - Why the Jeddah Tower Won’t be as Tall as You Think
 categories:
@@ -21,6 +16,10 @@ icon: video
 location:
   - 21.734
   - 39.0829
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Jeddah]]"
 image: Attachments/Places/Jeddah Tower.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Jeddah Tower.svg
 Supertall skyscraper under construction in northern [[Jeddah]], Saudi Arabia, featured in a B1M video on how much of its height is spire.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why the Jeddah Tower Won’t Be as Tall as You Think\|Why the Jeddah Tower Won’t be as Tall as You Think]] | The B1M | subject | A kilometre-high tower whose spire could make up a huge share of its height. |
 
-## Why the Jeddah Tower Won’t be as Tall as You Think — The B1M (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.734&mlon=39.0829#map=16/21.734/39.0829) · [Google Maps](https://www.google.com/maps/search/?api=1&query=21.734,39.0829)
 
+## Why the Jeddah Tower Won’t be as Tall as You Think — The B1M (2026)
 Source: [Original](https://www.youtube.com/watch?v=vVfEs9wrW98) · [Readwise highlight](https://read.readwise.io/read/01m5breh6aaa6p2pyr75yeh3ze)
 
 > work for the Jeddah Tower began in 2008,   a year before the neighbouring Burj Khalifa opened for business.

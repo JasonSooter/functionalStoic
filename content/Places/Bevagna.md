@@ -2,13 +2,8 @@
 publish: true
 title: Bevagna
 created: 2024-11-04
-modified: 2026-11-02T14:14:17.000Z
-published: 2026-11-02T14:14:17.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bevagna.svg
+modified: 2026-11-07T07:00:05.569Z
+published: 2026-11-07T07:00:05.569Z
 aliases: []
 books:
   - A one-day bike ride from Spoleto to Assisi in central Italy
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 42.9339
   - 12.6091
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Umbria]]"
 image: Attachments/Places/Bevagna.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Bevagna.svg
 Walled medieval village in Umbria, Italy, on the cycle route between Spoleto and Assisi. The rider stops there after about 18 miles.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A one-day bike ride from Spoleto to Assisi in central Italy | alliumstozinnias | journey waypoint | Walled village 18 miles in: easy to lose the route; an olive-oil festival tip. |
 
-## A one-day bike ride from Spoleto to Assisi in central Italy — alliumstozinnias (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.9339&mlon=12.6091#map=16/42.9339/12.6091) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.9339,12.6091)
 
+## A one-day bike ride from Spoleto to Assisi in central Italy — alliumstozinnias (2024)
 Source: [Original](https://exploringbybike.com/2024/10/13/a-one-day-bike-ride-from-spoleto-to-assisi-in-central-italy/) · [Readwise highlight](https://read.readwise.io/read/01m5f0pxba1fspyhv2dx2j8nr1)
 
 > Tip: it’s easy to lose the route in Bevagna. Just skirt the walls.

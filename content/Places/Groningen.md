@@ -2,13 +2,8 @@
 publish: true
 title: Groningen
 created: 2025-12-13
-modified: 2026-11-02T14:16:02.000Z
-published: 2026-11-02T14:16:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Groningen.svg
+modified: 2026-11-07T07:00:42.482Z
+published: 2026-11-07T07:00:42.482Z
 aliases: []
 books:
   - The Absolute Best Transportation for Cities (trams)
@@ -21,6 +16,10 @@ icon: video
 location:
   - 53.2189
   - 6.5675
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Netherlands]]"
 image: Attachments/Places/Groningen.svg
 ---
@@ -30,17 +29,16 @@ image: Attachments/Places/Groningen.svg
 City in the north of the [[Netherlands]]. It appears in a Not Just Bikes video on trams as the example of what removing buses did to a pedestrian square.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Absolute Best Transportation for Cities\|The Absolute Best Transportation for Cities (trams)]] | Not Just Bikes | backdrop | What a bus does to a pedestrian square, and what a tram wouldn't. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.2189&mlon=6.5675#map=11/53.2189/6.5675) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.2189,6.5675)
 
+## Sub-places
 _None yet._
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)
-
 Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise highlight](https://read.readwise.io/read/01m5ce56jt29ejt6anc40081vt)
 
 > Now compare that to the centre of Groningen.

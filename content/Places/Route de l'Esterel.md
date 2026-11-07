@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Route de l'Esterel
+created: 2026-10-20T16:28:01.000Z
+modified: 2026-11-07T07:01:29.912Z
+published: 2026-11-07T07:01:29.912Z
 aliases:
   - Esterel
   - Massif de l'Esterel
-title: Route de l'Esterel
-created: 2026-10-20T16:28:01.000Z
-modified: 2026-11-02T20:45:36.000Z
-published: 2026-11-02T20:45:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Bonjour Tristesse]]"
 categories:
@@ -23,7 +19,12 @@ icon: book
 location:
   - 43.5114
   - 6.77
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[French Riviera]]"
+image: Attachments/Places/Route de l'Esterel.svg
 ---
 
 # Route de l'Esterel
@@ -31,13 +32,13 @@ within: "[[French Riviera]]"
 Road through the Esterel hills between Saint-Raphaël and Cannes on the [[French Riviera]], where Anne's fatal car crash happens in Bonjour Tristesse.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bonjour Tristesse]] | Françoise Sagan | turning point | Where Anne's car goes over the edge. |
 
-## Bonjour Tristesse — Françoise Sagan (1954)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.5114&mlon=6.77#map=10/43.5114/6.77) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.5114,6.77)
 
+## Bonjour Tristesse — Françoise Sagan (1954)
 Source: [[Bonjour Tristesse]] · [Original](https://openlibrary.org/works/OL584333W) · [Readwise highlight](https://read.readwise.io/read/01m5d21hkmnwc079zsahj2y9s5)
 
 > ‘She has had an accident,’ he said. ‘It happened on the Route de l’Esterel.

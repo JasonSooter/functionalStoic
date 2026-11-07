@@ -2,13 +2,8 @@
 publish: true
 title: China
 created: 2016-05-10
-modified: 2026-11-02T14:15:24.000Z
-published: 2026-11-02T14:15:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/China.svg
+modified: 2026-11-07T06:55:39.533Z
+published: 2026-11-07T06:55:39.533Z
 aliases: []
 books:
   - The coming debt bust
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 35
   - 103
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/China.svg
 ---
 
@@ -36,6 +35,8 @@ Country in East Asia. A subject in “The coming debt bust”: Subject of the Ec
 |---|---|---|---|
 | The coming debt bust | The Economist | subject | Subject of the Economist's 2016 warning about China's debt-to-GDP surge and shadow banking |
 | How the West (and the Rest) Got Rich | Deirdre N. McCloskey | subject | McCloskey uses China as the counterexample: with canals, free-trade area and rule of law far bigger than Europe's, it still did not… |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35&mlon=103#map=11/35/103) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35,103)
 
 ## Sub-places
 
@@ -66,7 +67,6 @@ Country in East Asia. A subject in “The coming debt bust”: Subject of the Ec
 - [[Zhiren Cave]]
 
 ## The coming debt bust — The Economist (2016)
-
 Source: [Original](https://www.economist.com/news/leaders/21698240-it-question-when-not-if-real-trouble-will-hit-china-coming-debt-bust) · [Readwise highlight](https://read.readwise.io/read/01m5jkz538xpj5gjx8wzcgzxhd)
 
 > China is the world’s second-biggest economy; its banking sector is the biggest, with assets equivalent to 40% of global GDP.
@@ -76,7 +76,6 @@ Source: [Original](https://www.economist.com/news/leaders/21698240-it-question-w
 - **Why it matters:** China is the whole subject of the argument, treated as a national economy rather than a physical place.
 
 ## How the West (and the Rest) Got Rich — Deirdre N. McCloskey (2016)
-
 Source: [Original](http://www.wsj.com/articles/why-the-west-and-the-rest-got-rich-1463754427) · [Readwise highlight](https://read.readwise.io/read/01m5jvp0x7cfcz9m743hpcyezc)
 
 > Until 1500, and in many ways until 1700, China was the most technologically advanced country.

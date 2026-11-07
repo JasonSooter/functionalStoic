@@ -2,13 +2,8 @@
 publish: true
 title: The German city (Apeirogon)
 created: 2024-12-21
-modified: 2026-11-06T01:28:57.000Z
-published: 2026-11-06T01:28:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The German city (Apeirogon).svg
+modified: 2026-11-07T07:03:30.304Z
+published: 2026-11-07T07:03:30.304Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -23,6 +18,10 @@ icon: book
 location:
   - 50.1106
   - 8.6822
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Frankfurt]]"
 image: Attachments/Places/The German city (Apeirogon).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/The German city (Apeirogon).svg
 Unnamed German city in _Apeirogon_, inferred to be Frankfurt am Main. A journey waypoint in Colum McCann's _Apeirogon_: First stop of the German tour; Rami expects darkness and finds glass towers, the Main river and attentive audiences.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | journey waypoint | First stop of the German tour; Rami expects darkness and finds glass towers, the Main river and attentive audiences. |
 
-## Apeirogon — Colum McCann (2020)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.1106&mlon=8.6822#map=16/50.1106/8.6822) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.1106,8.6822)
 
+## Apeirogon — Colum McCann (2020)
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqkxf3ayr35p1z66v2ffr)
 
 > He walked by the Main river. The height of the skyline surprised him.

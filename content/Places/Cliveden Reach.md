@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Cliveden
 title: Cliveden Reach
 created: 2025-04-19
-modified: 2026-11-02T14:15:41.000Z
-published: 2026-11-02T14:15:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Cliveden Reach.svg
+modified: 2026-11-07T06:57:00.707Z
+published: 2026-11-07T06:57:00.707Z
+aliases:
+  - Cliveden
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 51.5585
   - -0.6882
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Buckinghamshire]]"
 image: Attachments/Places/Cliveden Reach.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Cliveden Reach.svg
 Wooded stretch of the Thames below Cliveden, between Boulter's Lock and Cookham. Three Men in a Boat calls it perhaps the sweetest stretch of the river.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | The Cliveden woods in spring make this 'perhaps the sweetest stretch of all the river'. |
 
-## Three Men in a Boat — Jerome K. Jerome (1889)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5585&mlon=-0.6882#map=10/51.5585/-0.6882) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5585,-0.6882)
 
+## Three Men in a Boat — Jerome K. Jerome (1889)
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkycw5sf0ad98jx7az2t3v)
 
 > Cliveden Woods still wore their dainty dress of spring, and rose up, from the water’s edge, in one long harmony of blended shades of fairy green.

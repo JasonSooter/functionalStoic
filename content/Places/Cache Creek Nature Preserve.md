@@ -2,13 +2,8 @@
 publish: true
 title: Cache Creek Nature Preserve
 created: 2025-04-21
-modified: 2026-11-02T14:15:09.000Z
-published: 2026-11-02T14:15:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Cache Creek Nature Preserve.svg
+modified: 2026-11-07T06:51:26.906Z
+published: 2026-11-07T06:51:26.906Z
 aliases: []
 books:
   - Bringing ‘Good Fire’ Back to the Land
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 38.6896
   - -121.872
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Cache Creek Nature Preserve.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Cache Creek Nature Preserve.svg
 Nature preserve in Northern [[California]], United States; in Michaela Haas's article it is where the Yocha Dehe Wintun Nation revives cultural burns.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bringing ‘Good Fire’ Back to the Land]] | Michaela Haas | setting | The Yocha Dehe Wintun Nation revives cultural burns on its tribal lands in the preserve during autumn 'good fire' days. |
 
-## Bringing ‘Good Fire’ Back to the Land — Michaela Haas (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6896&mlon=-121.872#map=16/38.6896/-121.872) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6896,-121.872)
 
+## Bringing ‘Good Fire’ Back to the Land — Michaela Haas (2025)
 Source: [Original](https://reasonstobecheerful.world/bringing-good-fire-back-to-the-land/) · [Readwise highlight](https://read.readwise.io/read/01m5e2z4pn3wgervhazvccax2z)
 
 > days, which means “good fire,” on Yocha Dehe tribal lands in the Cache Creek Nature Preserve in Northern California.

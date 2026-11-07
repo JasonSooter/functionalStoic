@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Trinity test site
 title: Trinity Site
 created: 2024-05-18
-modified: 2026-11-07T06:21:53.000Z
-published: 2026-11-07T06:21:53.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Trinity Site.svg
+modified: 2026-11-07T06:54:00.773Z
+published: 2026-11-07T06:54:00.773Z
+aliases:
+  - Trinity test site
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
   - "Sapiens: A Brief History of Humankind"
@@ -23,6 +18,10 @@ icon: book
 location:
   - 33.6773
   - -106.4754
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Mexico]]"
 image: Attachments/Places/Trinity Site.svg
 ---
@@ -38,8 +37,9 @@ Site in the Jornada del Muerto desert, New Mexico, of the first nuclear explosio
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | turning point | Feynman watches the first atomic bomb test from twenty miles away, behind a truck windshield. |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | First atomic test, 16 July 1945: for Harari the defining moment of the past 500 years. |
 
-## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.6773&mlon=-106.4754#map=16/33.6773/-106.4754) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.6773,-106.4754)
 
+## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfq98v07safxd64z0tetrv)
 
 > I flew back, and I arrived just when the buses were leaving, so I went straight out to the site and we waited out there, twenty miles away.
@@ -49,7 +49,6 @@ Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlig
 - **Why it matters:** It is the climax of the Los Alamos chapters and the moment the work becomes real.
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m765rfe0v361a3tb0e03y4)
 
 > But the single most remarkable and defining moment of the past 500 years came at 05:29:45 on 16 July 1945. At that precise second, American scientists detonated the first atomic bomb at Alamogordo, New Mexico.

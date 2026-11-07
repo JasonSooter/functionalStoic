@@ -2,12 +2,8 @@
 publish: true
 title: Rotterdam
 created: 2026-10-20T10:42:32.000Z
-modified: 2026-11-02T20:45:36.000Z
-published: 2026-11-02T20:45:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:01:28.860Z
+published: 2026-11-07T07:01:28.860Z
 aliases: []
 books:
   - ‘Cargo-Bike Moms’ Are Gentrifying the Netherlands
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 51.92
   - 4.48
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Netherlands]]"
+image: Attachments/Places/Rotterdam.svg
 ---
 
 # Rotterdam
@@ -28,10 +29,11 @@ within: "[[Netherlands]]"
 Port city in South Holland, the Netherlands. A Bloomberg piece makes it the case study of 'cargo-bike moms' and planned gentrification.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | ‘Cargo-Bike Moms’ Are Gentrifying the Netherlands | Olga Mecking  | subject | Rotterdam is the case study for the article. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.92&mlon=4.48#map=11/51.92/4.48) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.92,4.48)
 
 ## Sub-places
 
@@ -42,7 +44,6 @@ Port city in South Holland, the Netherlands. A Bloomberg piece makes it the case
 - [[Stormvloedkering Hollandse IJssel]]
 
 ## ‘Cargo-Bike Moms’ Are Gentrifying the Netherlands — Olga Mecking  (2018)
-
 Source: [Original](https://www.theatlantic.com/technology/archive/2018/06/cargo-bike-moms-are-gentrifying-the-netherlands/562475/) · [Readwise highlight](https://read.readwise.io/read/01m5k8vrq9gz0fexa4wz52znwd)
 
 > But Rotterdam has welcomed gentrification in a desperate attempt to leave its harbor-city image behind. It is now actively trying to reinvent itself as a city of opportunity and culture.

@@ -2,13 +2,8 @@
 publish: true
 title: Gloster, Mississippi
 created: 2025-01-20
-modified: 2026-11-02T14:16:39.000Z
-published: 2026-11-02T14:16:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Gloster, Mississippi.svg
+modified: 2026-11-07T06:57:52.106Z
+published: 2026-11-07T06:57:52.106Z
 aliases: []
 books:
   - The Curative Power of Quieter Cities
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 31.1969
   - -91.0192
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mississippi]]"
 image: Attachments/Places/Gloster, Mississippi.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Gloster, Mississippi.svg
 Town of almost 900 in southwest [[Mississippi]], USA, the lead case study in an article on how noise from a wood pellet plant harms residents' health.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Curative Power of Quieter Cities | Elizabeth Hewitt | setting | Residents of this town of almost 900 live beside a wood pellet plant. |
 
-## The Curative Power of Quieter Cities — Elizabeth Hewitt (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.1969&mlon=-91.0192#map=16/31.1969/-91.0192) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.1969,-91.0192)
 
+## The Curative Power of Quieter Cities — Elizabeth Hewitt (2025)
 Source: [Original](https://reasonstobecheerful.world/noise-pollution-quieter-cities/) · [Readwise highlight](https://read.readwise.io/read/01m5edfmgbdddpjqh7nwn5d5am)
 
 > Loud 18-wheeler trucks drive along the country roads every couple minutes. Machinery and loudspeakers echo out from the plant across the two-mile-wide town.

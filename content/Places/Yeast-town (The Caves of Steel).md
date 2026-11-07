@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Yeast-town
 title: Yeast-town (The Caves of Steel)
 created: 2024-08-06
-modified: 2026-11-06T23:23:56.000Z
-published: 2026-11-06T23:23:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Yeast-town (The Caves of Steel).svg
+modified: 2026-11-07T07:02:16.182Z
+published: 2026-11-07T07:02:16.182Z
+aliases:
+  - Yeast-town
 books:
   - The Caves of Steel
 categories:
@@ -24,6 +19,10 @@ icon: book
 location:
   - 40.7356
   - -74.1722
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Yeast-town (The Caves of Steel).svg
 ---
@@ -33,13 +32,13 @@ image: Attachments/Places/Yeast-town (The Caves of Steel).svg
 The yeast-farming belt of a future New York City in Isaac Asimov's The Caves of Steel, stretching across what was once [[New Jersey]]. Pinned at Newark.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Caves of Steel | Isaac Asimov | setting | The yeast-farm boroughs of Newark, New Brunswick and Trenton; Baley questions and arrests Clousarr there. |
 
-## The Caves of Steel — Isaac Asimov (1954)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7356&mlon=-74.1722#map=16/40.7356/-74.1722) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7356,-74.1722)
 
+## The Caves of Steel — Isaac Asimov (1954)
 Source: [Original](https://openlibrary.org/works/OL46401W) · [Readwise highlight](https://read.readwise.io/read/01m5hj3jmnfj5ppx4kb966rq29)
 
 > What was called Yeast-town in popular speech was, to the Post Office, merely the boroughs of Newark, New Brunswick, and Trenton.

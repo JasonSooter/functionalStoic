@@ -2,13 +2,8 @@
 publish: true
 title: Grafton Street
 created: 2026-06-17
-modified: 2026-11-07T06:21:18.000Z
-published: 2026-11-07T06:21:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Grafton Street.svg
+modified: 2026-11-07T06:58:54.052Z
+published: 2026-11-07T06:58:54.052Z
 aliases: []
 books:
   - The Country Girls Trilogy
@@ -21,6 +16,10 @@ icon: book
 location:
   - 53.3414
   - -6.2603
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Dublin]]"
 image: Attachments/Places/Grafton Street.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Grafton Street.svg
 Dublin's main shopping street, running from College Green to St Stephen's Green. In _The Country Girls Trilogy_ the girls window-shop and dine there, and Eugene buys Kate a ring.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | setting | Dublin's shopping street, scene of Mr. Gentleman's candlelit dinner and of Eugene buying Kate a gold ring. |
 
-## The Country Girls Trilogy — Edna O'Brien (1986)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.3414&mlon=-6.2603#map=16/53.3414/-6.2603) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.3414,-6.2603)
 
+## The Country Girls Trilogy — Edna O'Brien (1986)
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m75t7th4edsy6f80dyx5ps)
 
 > Next day, walking down Grafton Street in a bitter wind, I felt as if people were going to accuse me of my sin in public.

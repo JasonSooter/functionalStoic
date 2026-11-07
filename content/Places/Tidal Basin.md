@@ -2,13 +2,8 @@
 publish: true
 title: Tidal Basin
 created: 2025-11-11
-modified: 2026-11-06T08:21:46.000Z
-published: 2026-11-06T08:21:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Tidal Basin.svg
+modified: 2026-11-07T06:53:05.461Z
+published: 2026-11-07T06:53:05.461Z
 aliases: []
 books:
   - "[[17 Responses to “Year in Review - 2024”]]"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 38.8842
   - -77.0392
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington DC]]"
 image: Attachments/Places/Tidal Basin.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Tidal Basin.svg
 Reservoir beside the Potomac in [[Washington DC|Washington, D.C.]], ringed by cherry trees. It appears in a 2024 year-in-review post where the writer photographs the same view every month on her walks to pickleball.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[17 Responses to “Year in Review - 2024”\|Year in Review: 2024]] | MG (Chasing Mailboxes) | backdrop | The view she photographed every month on her walks to pickleball. |
 
-## Year in Review: 2024 — MG (Chasing Mailboxes) (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8842&mlon=-77.0392#map=16/38.8842/-77.0392) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8842,-77.0392)
 
+## Year in Review: 2024 — MG (Chasing Mailboxes) (2024)
 Source: [[17 Responses to “Year in Review - 2024”]] · [Original](https://chasingmailboxes.com/2024/12/30/year-in-review-2024/) · [Readwise highlight](https://read.readwise.io/read/01m5d20m2c6mqvn58yvxrhm9ws)
 
 > The best part of my walks to pickleball was the stroll by the Tidal Basin.

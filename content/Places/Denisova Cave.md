@@ -2,13 +2,8 @@
 publish: true
 title: Denisova Cave
 created: 2024-05-18
-modified: 2026-11-07T06:21:47.000Z
-published: 2026-11-07T06:21:47.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Denisova Cave.svg
+modified: 2026-11-07T07:02:40.040Z
+published: 2026-11-07T07:02:40.040Z
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 51.3975
   - 84.6761
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Denisova Cave.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Denisova Cave.svg
 Denisova Cave is a cave in the Altai Mountains of Siberia. In _Sapiens_ it is where a single finger bone revealed a previously unknown human species.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | A fossil finger bone found here in 2010 revealed a lost human species, Homo denisova. |
 
-## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.3975&mlon=84.6761#map=16/51.3975/84.6761) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3975,84.6761)
 
+## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m77a3scpk1k2xpfpwea4n2)
 
 > In 2010 another lost sibling was rescued from oblivion, when scientists excavating the Denisova Cave in Siberia discovered a fossilised finger bone.

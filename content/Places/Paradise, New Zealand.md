@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Paradise (Glenorchy)
 title: Paradise, New Zealand
 created: 2026-10-23T11:14:52.000Z
-modified: 2026-11-02T18:15:25.000Z
-published: 2026-11-02T18:15:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:53:45.552Z
+published: 2026-11-07T06:53:45.552Z
+aliases:
+  - Paradise (Glenorchy)
 books:
   - "[[The Hobbit]]"
 categories:
@@ -22,7 +18,12 @@ icon: book
 location:
   - -44.7333
   - 168.3667
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Zealand]]"
+image: Attachments/Places/Paradise, New Zealand.svg
 ---
 
 # Paradise, New Zealand
@@ -30,13 +31,13 @@ within: "[[New Zealand]]"
 Paradise is a rural locality near Glenorchy at the head of Lake Wakatipu in Otago, New Zealand. It is pinned for _The Hobbit_ because Peter Jackson's Hobbit films shot Beorn's house there; it is not a place in the book.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | setting | Otago locality where Jackson's films shot Beorn's house; not a place in the book. |
 
-## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-44.7333&mlon=168.3667#map=16/-44.7333/168.3667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.7333,168.3667)
 
+## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m77d4v7s1bche9hyej67xq)
 
 > He lives in an oak-wood and has a great wooden house; and as a man he keeps cattle and horses which are nearly as marvellous as himself.

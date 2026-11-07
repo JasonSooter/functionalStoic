@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Santa Fe, New Mexico
+created: 2026-04-02
+modified: 2026-11-07T06:52:46.347Z
+published: 2026-11-07T06:52:46.347Z
 aliases:
   - Santa Fé
   - Santa Fe
-title: Santa Fe, New Mexico
-created: 2026-04-02
-modified: 2026-11-02T21:10:48.000Z
-published: 2026-11-02T21:10:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Santa Fe, New Mexico.svg
 books:
   - "[[Brave New World]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 35.6875
   - -105.9386
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Mexico]]"
 image: Attachments/Places/Santa Fe, New Mexico.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Santa Fe, New Mexico.svg
 Capital of New Mexico. In _Brave New World_ it is the civilised base for the Reservation, where Bernard phones London and wins permission to bring John and Linda back.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | turning point | Bernard lands on the Post Office roof, calls Mustapha Mond and gets the order to bring John and Linda to London. |
 
-## Brave New World — Aldous Huxley (1932)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.6875&mlon=-105.9386#map=16/35.6875/-105.9386) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6875,-105.9386)
 
+## Brave New World — Aldous Huxley (1932)
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvam5snn2hh795kv6dwpc5)
 
 > At ten thirty-four they landed on the roof of the Santa Fé Post Office; at ten thirty-seven Bernard had got through to the World Controller’s Office in Whitehall;

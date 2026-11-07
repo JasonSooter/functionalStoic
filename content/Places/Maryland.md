@@ -2,13 +2,8 @@
 publish: true
 title: Maryland
 created: 2015-12-14
-modified: 2026-11-02T15:29:00.000Z
-published: 2026-11-02T15:29:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Maryland.svg
+modified: 2026-11-07T06:54:38.416Z
+published: 2026-11-07T06:54:38.416Z
 aliases: []
 books:
   - What Happens After Calls for New Gun Restrictions? Sales Go Up
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 39
   - -77
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Maryland.svg
 ---
 
@@ -30,10 +29,11 @@ image: Attachments/Places/Maryland.svg
 US state on the Chesapeake Bay; a 2013 gun-control law there is one of the New York Times' case studies of sales spikes after calls for restrictions.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What Happens After Calls for New Gun Restrictions? Sales Go Up | Gregor Aisch and Josh Keller | subject | A 2013 gun-control law there is one of the New York Times' case studies of sales spikes after calls for restrictions. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39&mlon=-77#map=11/39/-77) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39,-77)
 
 ## Sub-places
 
@@ -49,7 +49,6 @@ US state on the Chesapeake Bay; a 2013 gun-control law there is one of the New Y
 - [[United States Naval Academy]]
 
 ## What Happens After Calls for New Gun Restrictions? Sales Go Up — Gregor Aisch and Josh Keller (2015)
-
 Source: [Original](https://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html) · [Readwise highlight](https://read.readwise.io/read/01m5hx1x7xph532jfv5fekvfhd)
 
 > in May 2013, gun sales jumped as buyers tried to beat the October deadline specified in the measure, which banned most semiautomatic rifles.

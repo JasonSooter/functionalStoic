@@ -1,30 +1,30 @@
 ---
 publish: true
+title: VAG depot (Haid)
+created: 2026-11-06
+modified: 2026-11-07T06:56:06.804Z
+published: 2026-11-07T06:56:06.804Z
 aliases:
   - VAG workshop
   - VAG-Zentrum
   - Freiburger Verkehrs AG depot
-title: VAG depot (Haid)
-created: 2026-11-06
-modified: 2026-11-06T17:31:50.000Z
-published: 2026-11-06T17:31:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/VAG depot (Haid).svg
 books:
   - "From servicing to repairs: The tasks of the VAG workshop are diverse"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 47.9922,7.7972
-geo_note: approximate (VAG site at Besançonallee 99, St. Georgen Nord, in the Haid industrial area)
+geo_note: approximate (VAG site at Besançonallee 99, St. Georgen Nord, in the Haid
+  industrial area)
 geo_source: OSM relation 1410156
 icon: newspaper
 location:
   - 47.9922
   - 7.7972
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Freiburg]]"
 image: Attachments/Places/VAG depot (Haid).svg
 ---
@@ -34,13 +34,13 @@ image: Attachments/Places/VAG depot (Haid).svg
 The Freiburger Verkehrs AG's depot and workshops in the Haid industrial area on Freiburg's western edge. A VAG blog post goes inside its two workshop halls, where the city's buses and trams are repaired and serviced.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | From servicing to repairs: The tasks of the VAG workshop are diverse | VAG Freiburg | setting | Inside the depot's two workshop halls, where buses and trams are repaired, serviced and inspected every day. |
 
-## From servicing to repairs: The tasks of the VAG workshop are diverse — VAG Freiburg (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.9922&mlon=7.7972#map=10/47.9922/7.7972) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.9922,7.7972)
 
+## From servicing to repairs: The tasks of the VAG workshop are diverse — VAG Freiburg (2026)
 Source: [Original](https://blog.vag-freiburg.de/von-wartungen-bis-reparaturen-so-vielfaeltig-sind-die-aufgaben-der-vag-werkstatt/) · [Readwise highlight](https://read.readwise.io/read/01m6rxkg0x9xqdtpqa2thfnbm4)
 
 > Work like this is routine at VAG: in the two large workshop halls at the depot on the Haid, many buses and trams are repaired, serviced and maintained at the same time every day.

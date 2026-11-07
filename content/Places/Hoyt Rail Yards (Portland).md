@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Pearl District
 title: Hoyt Rail Yards (Portland)
 created: 2024-05-18
-modified: 2026-11-02T14:17:19.000Z
-published: 2026-11-02T14:17:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hoyt Rail Yards (Portland).svg
+modified: 2026-11-07T06:52:20.714Z
+published: 2026-11-07T06:52:20.714Z
+aliases:
+  - Pearl District
 books:
   - "[[Walkable City]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 45.5301
   - -122.6814
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Portland, Oregon]]"
 image: Attachments/Places/Hoyt Rail Yards (Portland).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Hoyt Rail Yards (Portland).svg
 Hoyt Rail Yards is a former rail yard north of downtown Portland, Oregon, redeveloped as part of the Pearl District. It turns up in Walkable City (Jeff Speck): It is Speck's model of a streetcar justified as a land-development tool rather than a way to create pedestrians.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Portland identified the Hoyt Rail Yards, vacant land beyond walking distance of downtown, for a combined streetcar and neighborhood plan,… |
 
-## Walkable City — Jeff Speck (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.5301&mlon=-122.6814#map=10/45.5301/-122.6814) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5301,-122.6814)
 
+## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbm34nrc3yspmcwxqwqzqd)
 
 > In Portland, both the city and the development community identified the Hoyt Rail Yards, north of downtown, as just such an area.

@@ -2,13 +2,8 @@
 publish: true
 title: South Station
 created: 2025-02-17
-modified: 2026-11-02T21:34:24.000Z
-published: 2026-11-02T21:34:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/South Station.svg
+modified: 2026-11-07T06:56:50.787Z
+published: 2026-11-07T06:56:50.787Z
 aliases: []
 books:
   - While Riding on a Train Going West
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 42.3519
   - -71.0553
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/South Station.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/South Station.svg
 Railway station in Boston, Massachusetts, USA, part of [[Massachusetts]]. It appears in the reading as the departure point of a three-day train trip west to Chicago.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | While Riding on a Train Going West | Linnesby-Maria | journey waypoint | The diary opens with departure from South Station on the Chicago-bound train. |
 
-## While Riding on a Train Going West — Linnesby-Maria (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3519&mlon=-71.0553#map=16/42.3519/-71.0553) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3519,-71.0553)
 
+## While Riding on a Train Going West — Linnesby-Maria (2024)
 Source: [Original](https://notesfromlinnesby.substack.com/p/while-riding-on-a-train-going-west) · [Readwise highlight](https://read.readwise.io/read/01m5ede3k5vg2xmj2a5jp5wds7)
 
 > It's Friday noon and I am off on the Chicago-bound train from South Station, Boston.

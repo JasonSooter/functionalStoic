@@ -1,16 +1,12 @@
 ---
 publish: true
+title: Rue du Faubourg Saint-Honoré
+created: 2026-10-23T11:15:47.000Z
+modified: 2026-11-07T07:01:56.047Z
+published: 2026-11-07T07:01:56.047Z
 aliases:
   - Faubourg Saint-Honoré
   - Faubourg St Honoré
-title: Rue du Faubourg Saint-Honoré
-created: 2026-10-23T11:15:47.000Z
-modified: 2026-11-02T20:45:37.000Z
-published: 2026-11-02T20:45:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Candide]]"
 categories:
@@ -23,7 +19,12 @@ icon: book
 location:
   - 48.873
   - 2.3104
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Paris]]"
+image: Attachments/Places/Rue du Faubourg Saint-Honoré.svg
 ---
 
 # Rue du Faubourg Saint-Honoré
@@ -31,13 +32,13 @@ within: "[[Paris]]"
 The Rue du Faubourg Saint-Honoré is a long street in Paris's 8th arrondissement, home to grand houses and the Élysée Palace. In _Candide_ it is where a marchioness's card party strips Candide of his money and his diamonds.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | setting | At the Marchioness of Parolignac's faro party, Candide loses fifty thousand francs and, in her bed, two diamonds |
 
-## Candide — Voltaire (1759)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.873&mlon=2.3104#map=10/48.873/2.3104) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.873,2.3104)
 
+## Candide — Voltaire (1759)
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75kr6vrd5ytf8pn3qc3ds)
 
 > Candide, who was naturally curious, let himself be taken to this lady's house, at the end of the Faubourg St. Honoré. The company was occupied in playing faro;

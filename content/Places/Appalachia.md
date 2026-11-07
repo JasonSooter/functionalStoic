@@ -2,13 +2,8 @@
 publish: true
 title: Appalachia
 created: 2016-07-13
-modified: 2026-11-02T14:13:48.000Z
-published: 2026-11-02T14:13:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Appalachia.svg
+modified: 2026-11-07T06:54:48.889Z
+published: 2026-11-07T06:54:48.889Z
 aliases: []
 books:
   - Opinion – A New Map for America - The New York Times
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 38.8
   - -81
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Appalachia.svg
 ---
 
@@ -37,12 +36,12 @@ Mountain region of the eastern United States, from New York to Alabama. Parag Kh
 | Opinion – A New Map for America - The New York Times | Parag Khanna | subject | Described as isolated and stagnant, to be lifted by better corridors between New York, Washington and Atlanta |
 | The Emerging Democratized Economy | Alexander Dukes | subject | The essay opens with these towns as the example of communities with a single point of failure: when their dominant employer is hurt by… |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8&mlon=-81#map=11/38.8/-81) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8,-81)
 
+## Sub-places
 _None yet._
 
 ## Opinion – A New Map for America - The New York Times — Parag Khanna (2016)
-
 Source: [Original](https://www.nytimes.com/2016/04/17/opinion/sunday/a-new-map-for-america.html) · [Readwise highlight](https://read.readwise.io/read/01m5jvn1gqwc3gecq2cvb50xh2)
 
 > Such networks would just as easily help poor and rural areas, like Appalachia. Upgraded transportation corridors between New York, Washington and Atlanta could finally lift Appalachia’s isolated and stagnant towns stretching from New York to Alabama by facilitating investment in farms and vineyards, food processing and eco-tourism.
@@ -52,7 +51,6 @@ Source: [Original](https://www.nytimes.com/2016/04/17/opinion/sunday/a-new-map-f
 - **Why it matters:** Counterpoint: the plan also serves poor rural regions.
 
 ## The Emerging Democratized Economy — Alexander Dukes (2016)
-
 Source: [Original](https://www.strongtowns.org/journal/2016/6/27/the-emerging-democratized-economy) · [Readwise highlight](https://read.readwise.io/read/01m5jx5v8n576wmhn42ntgndw5)
 
 > Appalachian coal mining towns are becoming the latest victim of this phenomenon due to the decreasing cost of renewable energy.

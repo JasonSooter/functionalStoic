@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Ogwen Valley
 title: Helyg
 created: 2024-10-04
-modified: 2026-11-02T14:17:31.000Z
-published: 2026-11-02T14:17:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Helyg.svg
+modified: 2026-11-07T07:03:11.182Z
+published: 2026-11-07T07:03:11.182Z
+aliases:
+  - Ogwen Valley
 books:
   - Life on Air
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 53.1226
   - -3.9567
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Wales]]"
 image: Attachments/Places/Helyg.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Helyg.svg
 Climbers' Club hut beside the A5 near Capel Curig in Snowdonia, Wales; in _Life on Air_ Attenborough climbs there as a wartime schoolboy.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough climbs there as a wartime schoolboy. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.1226&mlon=-3.9567#map=16/53.1226/-3.9567) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.1226,-3.9567)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2b86b07chnhz71kyter3)
 
 > Usually we went there by the erratic war-time trains, taking bicycles with us and pedalling up the Nant Ffrancon Pass from Bangor to stay at Helyg, the Climbers Club Hut in the Ogwen Valley.

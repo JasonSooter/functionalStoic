@@ -1,18 +1,13 @@
 ---
 publish: true
+title: Grand-Place
+created: 2026-08-26
+modified: 2026-11-07T07:00:01.414Z
+published: 2026-11-07T07:00:01.414Z
 aliases:
   - Grand' Place
   - Grote Markt (Brussels)
   - Grand Place
-title: Grand-Place
-created: 2026-08-26
-modified: 2026-11-02T14:16:58.000Z
-published: 2026-11-02T14:16:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Grand-Place.svg
 books:
   - Neither Here Nor There
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 50.8467
   - 4.3525
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Brussels]]"
 coordinates: 50.8467,4.3525
 image: Attachments/Places/Grand-Place.svg
@@ -32,13 +31,13 @@ image: Attachments/Places/Grand-Place.svg
 Brussels' central market square, ringed by the Hôtel de Ville, the Maison du Roi and the guildhalls, in [[Brussels]]. It is Bill Bryson's base for killing time in Neither Here Nor There, the one beautiful set piece in a city he finds grey.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | Bryson's base for killing time in Brussels: circuits of the square and coffee at De Gulden Boot. |
 
-## Neither Here Nor There — Bill Bryson (1991)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.8467&mlon=4.3525#map=16/50.8467/4.3525) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.8467,4.3525)
 
+## Neither Here Nor There — Bill Bryson (1991)
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5a836gffkbm8jrczy0vfq6s)
 
 > I settled instead for another circuit of the Grand’ Place. It is fetching, no doubt about it.

@@ -2,13 +2,8 @@
 publish: true
 title: Amsterdam
 created: 2024-05-18
-modified: 2026-11-02T14:14:07.000Z
-published: 2026-11-02T14:14:07.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Amsterdam.svg
+modified: 2026-11-07T06:54:04.153Z
+published: 2026-11-07T06:54:04.153Z
 aliases: []
 books:
   - The Absolute Best Transportation for Cities (trams)
@@ -23,6 +18,10 @@ icon: book
 location:
   - 52.3728
   - 4.8936
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Amsterdam.svg
 ---
 
@@ -38,6 +37,8 @@ Capital of the [[Netherlands]], whose tram network is the model in a Not Just Bi
 | [[Walkable City]] | Jeff Speck | subject | The Netherlands discussion centers on Amsterdam, with its chief planner crediting Jane Jacobs for turning from car-friendliness in the… |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Europe's 17th-century financial capital, where reliable courts and repaid loans drew investors. |
 
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.3728&mlon=4.8936#map=11/52.3728/4.8936) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.3728,4.8936)
+
 ## Sub-places
 
 - [[Amsterdam Centraal]]
@@ -49,7 +50,6 @@ Capital of the [[Netherlands]], whose tram network is the model in a Not Just Bi
 - [[Vijzelstraat]]
 
 ## The Absolute Best Transportation for Cities (trams) — Not Just Bikes (2025)
-
 Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise highlight](https://read.readwise.io/read/01m5ce4c0gce6ey5182hv2c750)
 
 > The tram network here in Amsterdam is pretty great.
@@ -59,7 +59,6 @@ Source: [Original](https://www.youtube.com/watch?v=bNTg9EX7MLw) · [Readwise hig
 - **Why it matters:** The city is the baseline the whole video measures other places against.
 
 ## Walkable City — Jeff Speck (2012)
-
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbnew5cs7pqav2kdech21t)
 
 > In Amsterdam, a city of 783,000, about 400,000 people are out riding their bikes on any given day.
@@ -69,7 +68,6 @@ Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695
 - **Why it matters:** Model of the cycling revolution and a reminder that it was not always so.
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m76c9h2aktdh62a7eb9rt4)
 
 > Amsterdam was fast becoming not only one of the most important ports of Europe, but also the continent’s financial Mecca.

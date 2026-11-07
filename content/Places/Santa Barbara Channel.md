@@ -2,13 +2,8 @@
 publish: true
 title: Santa Barbara Channel
 created: 2023-07-30
-modified: 2026-11-02T21:10:48.000Z
-published: 2026-11-02T21:10:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Santa Barbara Channel.svg
+modified: 2026-11-07T06:52:27.366Z
+published: 2026-11-07T06:52:27.366Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 34.2419
   - -119.89
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Santa Barbara Channel.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Santa Barbara Channel.svg
 Strait between the Southern California mainland and the northern Channel Islands. In The Comfort Crisis (Michael Easter) Marcus Elliott's group crosses it on paddleboards as one of their misogis.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | subject | Elliott's group paddleboards 25 miles across it as a misogi. |
 
-## The Comfort Crisis — Michael Easter (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.2419&mlon=-119.89#map=16/34.2419/-119.89) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.2419,-119.89)
 
+## The Comfort Crisis — Michael Easter (2021)
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fyd2m7g8wpntvkw76d36qw)
 
 > “Another year we stand-up paddleboarded twenty-five miles across the Santa Barbara Channel,” said Elliott.

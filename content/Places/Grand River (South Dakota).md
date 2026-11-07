@@ -2,13 +2,8 @@
 publish: true
 title: Grand River (South Dakota)
 created: 2016-01-10
-modified: 2026-11-02T14:16:51.000Z
-published: 2026-11-02T14:16:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Grand River (South Dakota).svg
+modified: 2026-11-07T06:59:59.070Z
+published: 2026-11-07T06:59:59.070Z
 aliases: []
 books:
   - The True Story Behind The Revenant, as Told in 1939
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 45.5769
   - -102.4715
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[South Dakota]]"
 image: Attachments/Places/Grand River (South Dakota).svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Grand River (South Dakota).svg
 Tributary of the Missouri in South Dakota; Hugh Glass is mauled by a grizzly on Andrew Henry's 1823 expedition up it.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The True Story Behind The Revenant, as Told in 1939 | TIME | setting | Hugh Glass is mauled by a grizzly on Andrew Henry's 1823 expedition up it. |
 
-## The True Story Behind The Revenant, as Told in 1939 — TIME (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.5769&mlon=-102.4715#map=10/45.5769/-102.4715) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5769,-102.4715)
 
+## The True Story Behind The Revenant, as Told in 1939 — TIME (2016)
 Source: [Original](https://time.com/4171001/revenant-1939-true-story/) · [Readwise highlight](https://read.readwise.io/read/01m5hy6wxkfn1gg6dk4na15qvk)
 
 > In 1823, Glass joined a team led by Andrew Henry that traveled up the Missouri River and the Grand River in modern-day South Dakota.

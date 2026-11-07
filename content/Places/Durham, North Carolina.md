@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Durham
 title: Durham, North Carolina
 created: 2025-08-31
-modified: 2026-11-02T14:16:08.000Z
-published: 2026-11-02T14:16:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Durham, North Carolina.svg
+modified: 2026-11-07T07:04:17.192Z
+published: 2026-11-07T07:04:17.192Z
+aliases:
+  - Durham
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 35.9886
   - -78.9072
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[North Carolina]]"
 image: Attachments/Places/Durham, North Carolina.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Durham, North Carolina.svg
 City in North Carolina's Research Triangle, then home to Red Hat. In _Just for Fun_ it is where Linus jokes "I am your God".
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | turning point | At a packed Red Hat users meeting Linus jokes "I am your God", and newsgroups argue about it within hours. |
 
-## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.9886&mlon=-78.9072#map=16/35.9886/-78.9072) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.9886,-78.9072)
 
+## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kks43trnmv2tsbhgvdrgbn)
 
 > I had been invited to speak at a meeting of Linux users hosted by Red Hat, which is based in Durham.

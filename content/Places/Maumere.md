@@ -2,13 +2,8 @@
 publish: true
 title: Maumere
 created: 2024-10-04
-modified: 2026-11-02T15:35:01.000Z
-published: 2026-11-02T15:35:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Maumere.svg
+modified: 2026-11-07T06:55:15.171Z
+published: 2026-11-07T06:55:15.171Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +16,10 @@ icon: book
 location:
   - -8.6222
   - 122.2122
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Indonesia]]"
 image: Attachments/Places/Maumere.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Maumere.svg
 Town on the north coast of Flores, Indonesia; in _Life on Air_ the Zoo Quest team is stranded there on the way to Komodo.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | The Zoo Quest team is stranded there on the way to Komodo. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-8.6222&mlon=122.2122#map=16/-8.6222/122.2122) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-8.6222,122.2122)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2pe4b0rb9ph55mv3mt8g)
 
 > As its wheels touched Maumere's grassy strip, water spurted from the turf on either side.

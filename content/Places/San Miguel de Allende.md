@@ -2,13 +2,8 @@
 publish: true
 title: San Miguel de Allende
 created: 2015-11-28
-modified: 2026-11-02T21:01:59.000Z
-published: 2026-11-02T21:01:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/San Miguel de Allende.svg
+modified: 2026-11-07T06:51:56.856Z
+published: 2026-11-07T06:51:56.856Z
 aliases: []
 books:
   - The Start Of Our Adventures in Mexico
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 20.9142
   - -100.7436
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mexico]]"
 image: Attachments/Places/San Miguel de Allende.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/San Miguel de Allende.svg
 Colonial city in central Mexico. In a Root of Good post it is where an early-retired family settles into slow travel.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Start Of Our Adventures in Mexico | JustinRoG | setting | Rented house where the family settles into cheap, slow travel. |
 
-## The Start Of Our Adventures in Mexico — JustinRoG (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=20.9142&mlon=-100.7436#map=16/20.9142/-100.7436) · [Google Maps](https://www.google.com/maps/search/?api=1&query=20.9142,-100.7436)
 
+## The Start Of Our Adventures in Mexico — JustinRoG (2015)
 Source: [Original](http://rootofgood.com/adventures-in-mexico/) · [Readwise highlight](https://read.readwise.io/read/01m5g16sthr9xg2g8c7cjj0cyz)
 
 > As I’m writing this at our house in San Miguel de Allende, Mexico, the house maid laboriously scrubs all horizontal and vertical surfaces in the kitchen and just finished washing the dishes.

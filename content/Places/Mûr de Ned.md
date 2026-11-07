@@ -1,18 +1,14 @@
 ---
 publish: true
+title: Mûr de Ned
+created: 2026-10-29T20:14:18.000Z
+modified: 2026-11-07T07:00:26.913Z
+published: 2026-11-07T07:00:26.913Z
 aliases:
   - Mur de Ned
   - Whitepost Lane
-title: Mûr de Ned
-created: 2026-10-29T20:14:18.000Z
-modified: 2026-11-02T16:01:52.000Z
-published: 2026-11-02T16:01:52.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
-  - "#098 Riding in an actual bicycle race"
+  - '#098 Riding in an actual bicycle race'
 categories:
   - "[[Places]]"
 color: purple
@@ -23,7 +19,12 @@ icon: newspaper
 location:
   - 51.4636
   - -0.0239
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
+image: Attachments/Places/Mûr de Ned.svg
 ---
 
 # Mûr de Ned
@@ -31,13 +32,13 @@ within: "[[London]]"
 Short cobbled climb on Whitepost Lane in Lewisham, south-east [[London]]. It is where the Diagram Club author unexpectedly rode his first bike race in years, Ned Boulting's community hill climb.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #098 Riding in an actual bicycle race | Diagram Club | setting | The author is drafted into Ned Boulting's run-walk-or-ride hill climb and rides it in 11.16 seconds. |
 
-## #098 Riding in an actual bicycle race — Diagram Club (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.4636&mlon=-0.0239#map=16/51.4636/-0.0239) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4636,-0.0239)
 
+## #098 Riding in an actual bicycle race — Diagram Club (2026)
 Source: [Original](https://diagramclub.substack.com/p/098-riding-in-an-actual-bicycle-race) · [Readwise highlight](https://read.readwise.io/read/01m64mq7sh2qhek9v9xqa31rw6)
 
 > The Mûr de Ned is a short cobbled hill in Lewisham SE13 7UA.

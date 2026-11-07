@@ -1,18 +1,13 @@
 ---
 publish: true
+title: La Valenciana (Guanajuato)
+created: 2015-11-28
+modified: 2026-11-07T07:01:01.399Z
+published: 2026-11-07T07:01:01.399Z
 aliases:
   - Valenciana
   - Templo de San Cayetano
   - Bocamina de San Ramón
-title: La Valenciana (Guanajuato)
-created: 2015-11-28
-modified: 2026-11-02T14:18:12.000Z
-published: 2026-11-02T14:18:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/La Valenciana (Guanajuato).svg
 books:
   - Exploring Guanajuato, Mexico
 categories:
@@ -25,6 +20,10 @@ icon: newspaper
 location:
   - 21.0416
   - -101.2576
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Guanajuato]]"
 image: Attachments/Places/La Valenciana (Guanajuato).svg
 ---
@@ -34,13 +33,13 @@ image: Attachments/Places/La Valenciana (Guanajuato).svg
 Silver-mining district a few miles north of [[Guanajuato]], with the San Ramón mine shaft and the ornate Valenciana church. A Root of Good post ends its day trip there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Exploring Guanajuato, Mexico | JustinRoG | journey waypoint | Silver-mine district: down the 400-year-old San Ramón shaft, then the church built by the silver barons. |
 
-## Exploring Guanajuato, Mexico — JustinRoG (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.0416&mlon=-101.2576#map=10/21.0416/-101.2576) · [Google Maps](https://www.google.com/maps/search/?api=1&query=21.0416,-101.2576)
 
+## Exploring Guanajuato, Mexico — JustinRoG (2015)
 Source: [Original](http://rootofgood.com/guanajuato-mexico/) · [Readwise highlight](https://read.readwise.io/read/01m5g8v887a6wstn9g5hzyebsg)
 
 > After visiting the market, we jumped in another taxi and headed a few miles north of town to the Valenciana area of Guanajuato. This area is silver mine central.

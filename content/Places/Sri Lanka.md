@@ -2,13 +2,8 @@
 publish: true
 title: Sri Lanka
 created: 2024-11-19
-modified: 2026-11-03T01:27:04.000Z
-published: 2026-11-03T01:27:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Sri Lanka.svg
+modified: 2026-11-07T06:57:31.420Z
+published: 2026-11-07T06:57:31.420Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 7
   - 81
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Sri Lanka.svg
 ---
 
@@ -29,18 +28,17 @@ image: Attachments/Places/Sri Lanka.svg
 Island country in South Asia. It appears in the reading as Hannah Ritchie's real-world example of an overnight switch to organic farming after the 2021 fertiliser import ban.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | subject | Ritchie uses Sri Lanka's 2021 ban on fertiliser imports, an attempt to go organic overnight, as a real-world experiment. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=7&mlon=81#map=11/7/81) · [Google Maps](https://www.google.com/maps/search/?api=1&query=7,81)
 
+## Sub-places
 - [[Unawatuna]]
 - [[Weligama]]
 
 ## Not the End of the World — Hannah Ritchie (2024)
-
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5edgt8qkcqcpyh067w7b8vf)
 
 > As I write this, it’s creating havoc for farmers across Sri Lanka.

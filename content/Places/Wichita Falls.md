@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Wichita Falls, Texas
 title: Wichita Falls
 created: 2025-07-01
-modified: 2026-11-06T20:29:02.000Z
-published: 2026-11-06T20:29:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Wichita Falls.svg
+modified: 2026-11-07T07:01:00.011Z
+published: 2026-11-07T07:01:00.011Z
+aliases:
+  - Wichita Falls, Texas
 books:
   - How Sewage Recycling Works
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 33.9122
   - -98.4948
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Texas]]"
 image: Attachments/Places/Wichita Falls.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Wichita Falls.svg
 City in north [[Texas]], USA, which appears in the reading as the article's central case study of the first city-scale direct potable reuse of sewage in the US.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Sewage Recycling Works | Wesley Crump | subject | In the 2011-2012 drought the city piped its sewage plant's effluent directly into its drinking water purification plant. |
 
-## How Sewage Recycling Works — Wesley Crump (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.9122&mlon=-98.4948#map=16/33.9122/-98.4948) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.9122,-98.4948)
 
+## How Sewage Recycling Works — Wesley Crump (2025)
 Source: [Original](https://practical.engineering/blog/2025/6/17/how-sewage-recycling-works) · [Readwise highlight](https://read.readwise.io/read/01m5dqyhva7r5nvr1a5x9mzjq8)
 
 > Wichita Falls, Texas, went through the worst drought in its history in 2011 and 2012.

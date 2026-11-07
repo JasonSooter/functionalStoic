@@ -2,12 +2,8 @@
 publish: true
 title: Pune
 created: 2026-10-22T22:58:30.000Z
-modified: 2026-11-02T18:40:58.000Z
-published: 2026-11-02T18:40:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:57:29.777Z
+published: 2026-11-07T06:57:29.777Z
 aliases: []
 books:
   - On the Rebound from Epic Failure
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 18.5211
   - 73.8553
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[India]]"
+image: Attachments/Places/Pune.svg
 ---
 
 # Pune
@@ -28,17 +29,16 @@ within: "[[India]]"
 City in Maharashtra, India. Jason Goldberg flies there hours after selling Hem to start his next company.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | On the Rebound from Epic Failure | Jason Goldberg | journey waypoint | Hours after signing the sale of Hem he flies to Pune to start Pepo with his long-time engineering co-founder |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=18.5211&mlon=73.8553#map=11/18.5211/73.8553) · [Google Maps](https://www.google.com/maps/search/?api=1&query=18.5211,73.8553)
 
+## Sub-places
 _None yet._
 
 ## On the Rebound from Epic Failure — Jason Goldberg (2019)
-
 Source: [Original](https://medium.com/@betashop/on-the-rebound-from-epic-failure-88e77d2b39af) · [Readwise highlight](https://read.readwise.io/read/01m5jx5e4jrfc9mtqbpmp052jk)
 
 > On February 2, 2016 at 4pm, Just hours after we signed the final documents to sell Hem, I boarded a plane to Pune, India, where the best engineering team in the world resides, and where I’ve been living temporarily ever since.

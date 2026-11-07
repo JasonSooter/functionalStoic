@@ -1,18 +1,13 @@
 ---
 publish: true
+title: Geatland
+created: 2026-10-23
+modified: 2026-11-07T06:57:05.618Z
+published: 2026-11-07T06:57:05.618Z
 aliases:
   - Hygelac's hall
   - Hronesness
   - Earnaness
-title: Geatland
-created: 2026-10-23
-modified: 2026-11-02T14:16:46.000Z
-published: 2026-11-02T14:16:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Geatland (Beowulf).svg
 books:
   - Beowulf
 categories:
@@ -20,12 +15,17 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 57.728,12.7
-geo_note: "best-guess: the Geats are usually identified with the Götar of southern Sweden; pinned at Västergötland"
+geo_note: "best-guess: the Geats are usually identified with the Götar of southern\
+  \ Sweden; pinned at Västergötland"
 geo_source: Wikipedia (en), Västergötland
 icon: book
 location:
   - 57.728
   - 12.7
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Sweden]]"
 image: Attachments/Places/Geatland (Beowulf).svg
 ---
@@ -35,13 +35,13 @@ image: Attachments/Places/Geatland (Beowulf).svg
 Beowulf's homeland of the Geats, pinned at a best guess on Västergötland in southern Sweden. Hygelac's cliff-top hall, the dragon's barrow and Beowulf's own barrow at Hronesness are all on its coast.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Beowulf | Seamus Heaney | setting | Hygelac's cliff hall, the dragon's barrow and Beowulf's barrow at Hronesness. |
 
-## Beowulf — Seamus Heaney (1999)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=57.728&mlon=12.7#map=16/57.728/12.7) · [Google Maps](https://www.google.com/maps/search/?api=1&query=57.728,12.7)
 
+## Beowulf — Seamus Heaney (1999)
 Source: [Original](https://openlibrary.org/works/OL1810107W) · [Readwise highlight](https://read.readwise.io/read/01m5ne605f1wm013r7f9vdb1pd)
 
 > Hygelac the gold-giver, makes his home

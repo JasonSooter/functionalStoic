@@ -2,12 +2,8 @@
 publish: true
 title: Panama
 created: 2026-10-21T04:45:11.000Z
-modified: 2026-11-02T18:41:23.000Z
-published: 2026-11-02T18:41:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:53:38.503Z
+published: 2026-11-07T06:53:38.503Z
 aliases: []
 books:
   - Panama Papers Prove World Leaders Are Funneling Money Into Tax Shelters
@@ -21,6 +17,11 @@ icon: newspaper
 location:
   - 9
   - -80
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+image: Attachments/Places/Panama.svg
 ---
 
 # Panama
@@ -28,17 +29,16 @@ location:
 Country in Central America. A subject in Bridey Heing's “Panama Papers Prove World Leaders Are Funneling Money Into Tax Shelters”: Home of the law firm Mossack Fonseca, source of the leaked Panama Papers.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Panama Papers Prove World Leaders Are Funneling Money Into Tax Shelters | Bridey Heing | subject | Home of the law firm Mossack Fonseca, source of the leaked Panama Papers |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=9&mlon=-80#map=11/9/-80) · [Google Maps](https://www.google.com/maps/search/?api=1&query=9,-80)
 
+## Sub-places
 - [[Panama Canal]]
 
 ## Panama Papers Prove World Leaders Are Funneling Money Into Tax Shelters — Bridey Heing (2016)
-
 Source: [Original](http://www.good.is/posts/panama-papers) · [Readwise highlight](https://read.readwise.io/read/01m5jjr38nsvcd0p4qjb648v1n)
 
 > The data cache, called the Panama Papers, comes from the Panamanian law firm Mossack Fonseca, an international company that has been helping clients set up offshore accounts and manage their wealth … by hiding it in tax havens.

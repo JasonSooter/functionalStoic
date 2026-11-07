@@ -2,13 +2,8 @@
 publish: true
 title: Walaja checkpoint
 created: 2024-12-21
-modified: 2026-11-06T17:27:49.000Z
-published: 2026-11-06T17:27:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Walaja checkpoint.svg
+modified: 2026-11-07T06:58:14.890Z
+published: 2026-11-07T06:58:14.890Z
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 31.7373
   - 35.1511
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[West Bank]]"
 image: Attachments/Places/Walaja checkpoint.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Walaja checkpoint.svg
 Israeli checkpoint beside the village of al-Walaja, south-west of Jerusalem. A setting in Colum McCann's _Apeirogon_: Prefab checkpoint hut where Bassam is stripped and made to wait on his way to a Parents Circle meeting.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Prefab checkpoint hut where Bassam is stripped and made to wait on his way to a Parents Circle meeting. |
 
-## Apeirogon — Colum McCann (2020)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7373&mlon=35.1511#map=10/31.7373/35.1511) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7373,35.1511)
 
+## Apeirogon — Colum McCann (2020)
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqsdqpxdsca9jr16bx3pw)
 
 > On the morning of his third meeting with the Parents Circle—twelve days after the death of Abir—Bassam was stopped at a checkpoint in the Walaja valley.

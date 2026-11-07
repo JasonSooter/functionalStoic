@@ -2,13 +2,8 @@
 publish: true
 title: City Hall Park
 created: 2025-12-28
-modified: 2026-11-02T14:15:53.000Z
-published: 2026-11-02T14:15:53.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/City Hall Park.svg
+modified: 2026-11-07T06:56:43.563Z
+published: 2026-11-07T06:56:43.563Z
 aliases: []
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 40.7122
   - -74.0072
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/City Hall Park.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/City Hall Park.svg
 Park around New York City Hall in Lower Manhattan. In _Wedding of the Waters_ ten thousand people rally there for De Witt Clinton in 1824.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | setting | Ten thousand New Yorkers hold an 'indignation meeting' after Clinton is removed from the canal board. |
 
-## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7122&mlon=-74.0072#map=16/40.7122/-74.0072) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7122,-74.0072)
 
+## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kve1whv63sejqs3br77zjr)
 
 > The ten thousand protesters finally gathered for their “indignation meeting” in City Hall Park, not far from the headquarters of Tammany Hall; one participant thirty years later recalled the assembly as “tens of thousands.”

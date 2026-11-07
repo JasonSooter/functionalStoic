@@ -2,13 +2,8 @@
 publish: true
 title: Costco Sunset Park
 created: 2026-10-21T11:07:16.000Z
-modified: 2026-10-31T21:09:14.000Z
-published: 2026-10-31T21:09:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Costco Sunset Park.svg
+modified: 2026-11-07T06:58:56.736Z
+published: 2026-11-07T06:58:56.736Z
 aliases: []
 books:
   - How Costco Hacked the American Shopping Psyche - The New York Times
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.6557
   - -74.0092
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Sunset Park]]"
 image: Attachments/Places/Costco Sunset Park.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Costco Sunset Park.svg
 Costco Warehouse No. 318 in Sunset Park, Brooklyn, by the waterfront and the Gowanus Expressway. A New York Times piece uses it to explain the warehouse style.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Costco Hacked the American Shopping Psyche - The New York Times | Ben Ryder Howe | setting | The no-frills Brooklyn warehouse and its treasure-hunt psychology. |
 
-## How Costco Hacked the American Shopping Psyche - The New York Times — Ben Ryder Howe (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.6557&mlon=-74.0092#map=16/40.6557/-74.0092) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.6557,-74.0092)
 
+## How Costco Hacked the American Shopping Psyche - The New York Times — Ben Ryder Howe (2024)
 Source: [Original](https://www.nytimes.com/2024/08/20/dining/costco.html/) · [Readwise highlight](https://read.readwise.io/read/01m5f1wajztx068mdzz0xv757h)
 
 > Situated between a defunct strip club, Brooklyn’s industrial waterfront and a raucous, sludge-oozing elevated expressway, Costco Warehouse No. 318 is low on sparkle but hums with manic energy.

@@ -2,15 +2,11 @@
 publish: true
 title: Robin Hood's Bay
 created: 2026-10-21T11:07:53.000Z
-modified: 2026-11-02T20:38:32.000Z
-published: 2026-11-02T20:38:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:00:56.439Z
+published: 2026-11-07T07:00:56.439Z
 aliases: []
 books:
-  - "#006 Hopeful news about cycling"
+  - '#006 Hopeful news about cycling'
 categories:
   - "[[Places]]"
 color: purple
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 54.4336
   - -0.5344
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
+image: Attachments/Places/Robin Hood's Bay.svg
 ---
 
 # Robin Hood's Bay
@@ -29,13 +30,13 @@ within: "[[England]]"
 Coastal village in North Yorkshire, England. Dave Walker films a weasel on the cliff path nearby.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #006 Hopeful news about cycling | Dave Walker | setting | A weasel filmed on the cliff path. |
 
-## #006 Hopeful news about cycling — Dave Walker (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=54.4336&mlon=-0.5344#map=10/54.4336/-0.5344) · [Google Maps](https://www.google.com/maps/search/?api=1&query=54.4336,-0.5344)
 
+## #006 Hopeful news about cycling — Dave Walker (2024)
 Source: [Original](https://diagramclub.substack.com/p/006-hopeful-news-about-cycling) · [Readwise highlight](https://read.readwise.io/read/01m5f1wdybnm8f21m1g6mmbq72)
 
 > This was taken on the cliff path near Robin Hood’s Bay, Yorkshire.

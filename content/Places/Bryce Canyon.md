@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Bryce Canyon National Park
 title: Bryce Canyon
 created: 2025-12-01
-modified: 2026-11-02T14:14:59.000Z
-published: 2026-11-02T14:14:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bryce Canyon.svg
+modified: 2026-11-07T07:02:59.139Z
+published: 2026-11-07T07:02:59.139Z
+aliases:
+  - Bryce Canyon National Park
 books:
   - The vanishing groves
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 37.64
   - -112.17
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Utah]]"
 image: Attachments/Places/Bryce Canyon.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Bryce Canyon.svg
 Canyon of eroded hoodoos in southern [[Utah]]; in The vanishing groves it is where Schulman began his search for the oldest trees.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The vanishing groves]] | Ross Andersen | journey waypoint | In 1939 Schulman began his search for the oldest trees in Bryce Canyon, where he found an 860-year-old ponderosa pine at 2,000 metres. |
 
-## The vanishing groves — Ross Andersen (2013)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.64&mlon=-112.17#map=16/37.64/-112.17) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.64,-112.17)
 
+## The vanishing groves — Ross Andersen (2013)
 Source: [Original](https://aeon.co/essays/trees-of-deep-time-are-a-portal-to-the-past-and-the-future) · [Readwise highlight](https://read.readwise.io/read/01m5dqtcf563sevtd6b9egcvx0)
 
 > Schulman began his hunt in Bryce Canyon, a dry, desert wilderness in Southern Utah, known for its spectacular geology.

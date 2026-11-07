@@ -2,13 +2,8 @@
 publish: true
 title: Croydon
 created: 2025-05-01
-modified: 2026-11-02T14:15:51.000Z
-published: 2026-11-02T14:15:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Croydon.svg
+modified: 2026-11-07T07:00:21.996Z
+published: 2026-11-07T07:00:21.996Z
 aliases: []
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 51.3714
   - -0.1038
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Croydon.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Croydon.svg
 Town in south London, home of the Home Office's immigration offices. In _The Beekeeper of Aleppo_ Nuri and Afra travel there for their asylum interviews.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | turning point | The asylum interview: Nuri is questioned by two officers and hides what happened in Athens. |
 
-## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.3714&mlon=-0.1038#map=16/51.3714/-0.1038) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3714,-0.1038)
 
+## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgrm72152saphmvgb4s60h)
 
 > Eventually we arrive in a place called Croydon. Lucy Fisher meets us at the station and takes us to the centre.

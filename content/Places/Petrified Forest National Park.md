@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Petrified Forest
 title: Petrified Forest National Park
 created: 2026-10-21T13:55:46.000Z
-modified: 2026-11-02T18:20:00.000Z
-published: 2026-11-02T18:20:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:54:49.469Z
+published: 2026-11-07T06:54:49.469Z
+aliases:
+  - Petrified Forest
 books:
   - I MADE A BAD MISTAKE
   - 30+ Proven Ways to Use Social Proof to Increase Your Conversions (Updated)
@@ -22,7 +18,12 @@ icon: newspaper
 location:
   - 35.0881
   - -109.8064
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Arizona]]"
+image: Attachments/Places/Petrified Forest National Park.svg
 ---
 
 # Petrified Forest National Park
@@ -36,8 +37,9 @@ Petrified Forest National Park is a national park in Arizona. It turns up in I M
 | I MADE A BAD MISTAKE | Shaun Usher | subject | The whole piece is about the park's 'conscience letters': visitors pocket petrified wood, suffer bad luck, and mail the rocks back with… |
 | 30+ Proven Ways to Use Social Proof to Increase Your Conversions (Updated) | Jacinda Santora | subject | Signs against stealing petrified wood are the article's warning about negative social proof. |
 
-## I MADE A BAD MISTAKE — Shaun Usher (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.0881&mlon=-109.8064#map=16/35.0881/-109.8064) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.0881,-109.8064)
 
+## I MADE A BAD MISTAKE — Shaun Usher (2024)
 Source: [Original](https://news.lettersofnote.com/p/i-made-a-bad-mistake) · [Readwise highlight](https://read.readwise.io/read/01m5fbgq9z5fdr35jqw0mgj9c6)
 
 > Each year, countless visitors to Arizona’s Petrified Forest National Park ignore the stark warnings at its boundaries, spiriting away roughly 12 tons of its ancient, fossilised wood and stones—invaluable fragments of prehistory that rarely reappear.
@@ -47,7 +49,6 @@ Source: [Original](https://news.lettersofnote.com/p/i-made-a-bad-mistake) · [Re
 - **Why it matters:** The park is the engine of the piece; the odd custom of returning stolen rocks exists because of this specific place and its removal rules. Set elsewhere the curse-of-the-relics story would not work.
 
 ## 30+ Proven Ways to Use Social Proof to Increase Your Conversions (Updated) — Jacinda Santora (2016)
-
 Source: [Original](https://optinmonster.com/11-ways-to-use-social-proof-to-increase-your-conversions/) · [Readwise highlight](https://read.readwise.io/read/01m5hy6yjm1hem5h901nnfg0m2)
 
 > The psychologists tested 3 different signs posted in the Arizona Petrified Forest to prevent theft of the petrified wood in the park.

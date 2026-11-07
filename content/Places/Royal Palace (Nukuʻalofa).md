@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Royal Palace of Tonga
 title: Royal Palace (Nukuʻalofa)
 created: 2026-10-22T13:40:59.000Z
-modified: 2026-11-02T20:45:37.000Z
-published: 2026-11-02T20:45:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:01:51.459Z
+published: 2026-11-07T07:01:51.459Z
+aliases:
+  - Royal Palace of Tonga
 books:
   - Life on Air
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - -21.1314
   - -175.2006
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nukuʻalofa]]"
+image: Attachments/Places/Royal Palace (Nukuʻalofa).svg
 ---
 
 # Royal Palace (Nukuʻalofa)
@@ -29,13 +30,13 @@ within: "[[Nukuʻalofa]]"
 Royal Palace of Tonga on the waterfront of Nukuʻalofa; in _Life on Air_ the setting of the sacred taumafa kava filmed for Queen Sālote.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The setting of the sacred taumafa kava filmed for Queen Sālote. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-21.1314&mlon=-175.2006#map=16/-21.1314/-175.2006) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-21.1314,-175.2006)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3ec0y24a9cw37pt0tr4d)
 
 > The Palace overlooked Tonga's lagoon. It was a two-storeyed white-painted gabled building made of wooden clapboard with a red corrugated iron roof that had been put up in the late nineteenth century by New Zealand builders.

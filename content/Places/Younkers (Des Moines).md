@@ -1,28 +1,28 @@
 ---
 publish: true
-aliases:
-  - Younker Brothers
 title: Younkers (Des Moines)
 created: 2025-06-03
-modified: 2026-11-06T23:32:05.000Z
-published: 2026-11-06T23:32:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Younkers (Des Moines).svg
+modified: 2026-11-07T07:02:25.641Z
+published: 2026-11-07T07:02:25.641Z
+aliases:
+  - Younker Brothers
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 41.5858,-93.6268
-geo_note: "approximate: ⚠️ the Wilkins Building, assumed to be the store's main building on Walnut Street"
+geo_note: "approximate: ⚠️ the Wilkins Building, assumed to be the store's main building\
+  \ on Walnut Street"
 geo_source: OSM way 103489541 (Wilkins Building)
 icon: book
 location:
   - 41.5858
   - -93.6268
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Des Moines]]"
 image: Attachments/Places/Younkers (Des Moines).svg
 ---
@@ -32,13 +32,13 @@ image: Attachments/Places/Younkers (Des Moines).svg
 Former flagship of the Younkers department store on Walnut Street in downtown Des Moines. In _The Life and Times of the Thunderbolt Kid_ it is the city's grandest store, with the Tea Room where the Thunderbolt Kid first strikes.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Life and Times of the Thunderbolt Kid]] | Bill Bryson | setting | The great downtown department store, and its elegant Tea Room, scene of the Thunderbolt Kid's first revenge. |
 
-## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.5858&mlon=-93.6268#map=10/41.5858/-93.6268) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.5858,-93.6268)
 
+## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
 Source: [[The Life and Times of the Thunderbolt Kid]] · [Original](https://openlibrary.org/works/OL4620956W) · [Readwise highlight](https://read.readwise.io/read/01m5khthfnx5h6eryp5ejje79x)
 
 > Des Moines’ greatest commercial institution was Younker Brothers, the principal department store downtown. Younkers was enormous.

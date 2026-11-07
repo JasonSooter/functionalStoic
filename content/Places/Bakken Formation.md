@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Bakken
 title: Bakken Formation
 created: 2016-04-18
-modified: 2026-11-02T14:14:25.000Z
-published: 2026-11-02T14:14:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bakken Formation.svg
+modified: 2026-11-07T06:57:08.000Z
+published: 2026-11-07T06:57:08.000Z
+aliases:
+  - Bakken
 books:
   - 5 things I learned about managing my money from covering the oil bust
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 48.3929
   - -102.9399
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[North Dakota]]"
 image: Attachments/Places/Bakken Formation.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Bakken Formation.svg
 Oil-bearing shale formation in western North Dakota; Emily Guerin draws money lessons from covering its oil bust.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 5 things I learned about managing my money from covering the oil bust | Emily Guerin | subject | Emily Guerin draws money lessons from covering its oil bust. |
 
-## 5 things I learned about managing my money from covering the oil bust — Emily Guerin (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.3929&mlon=-102.9399#map=10/48.3929/-102.9399) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.3929,-102.9399)
 
+## 5 things I learned about managing my money from covering the oil bust — Emily Guerin (2016)
 Source: [Original](https://www.hcn.org/articles/5-things-i-learned-about-managing-my-money-from-covering-the-oil-bust) · [Readwise highlight](https://read.readwise.io/read/01m5hy74gd4t0kt046pf0cgg4p)
 
 > A lot of people in the Bakken did not start out as oilfield workers.

@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Split old town
 title: Diocletian's Palace
 created: 2026-08-26
-modified: 2026-11-02T14:16:22.000Z
-published: 2026-11-02T14:16:22.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Diocletian's Palace.svg
+modified: 2026-11-07T07:03:17.425Z
+published: 2026-11-07T07:03:17.425Z
+aliases:
+  - Split old town
 books:
   - Neither Here Nor There
 categories:
@@ -21,6 +16,10 @@ icon: book
 location:
   - 43.5083
   - 16.44
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Split]]"
 image: Attachments/Places/Diocletian's Palace.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Diocletian's Palace.svg
 The Roman emperor's palace whose walls hold the old town of [[Split]], Croatia, which Bill Bryson praises in _Neither Here Nor There_ as a palace turned into a town by squatters.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | A Roman palace turned into a town by squatters: "no place else in Europe quite like it". |
 
-## Neither Here Nor There — Bill Bryson (1991)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.5083&mlon=16.44#map=16/43.5083/16.44) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.5083,16.44)
 
+## Neither Here Nor There — Bill Bryson (1991)
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5beke5xm03fqhjj4qy442g6)
 
 > I wandered along the quayside looking at the sailboats, then ventured into the sun-warmed lanes and courtyards that form the heart of Split.

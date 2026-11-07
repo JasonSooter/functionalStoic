@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Theresienstadt
+created: 2024-05-18
+modified: 2026-11-07T06:52:41.375Z
+published: 2026-11-07T06:52:41.375Z
 aliases:
   - Terezin
   - Terezín
-title: Theresienstadt
-created: 2024-05-18
-modified: 2026-11-07T02:29:44.000Z
-published: 2026-11-07T02:29:44.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Theresienstadt.svg
 books:
   - "[[Four Thousand Weeks]]"
   - "[[Apeirogon]]"
@@ -24,6 +19,10 @@ icon: book
 location:
   - 50.5133
   - 14.1669
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Czech Republic]]"
 image: Attachments/Places/Theresienstadt.svg
 ---
@@ -39,8 +38,9 @@ Theresienstadt is a former garrison town in Bohemia that the Nazis turned into a
 | [[Four Thousand Weeks]] | Oliver Burkeman | backdrop | Burkeman's great-great-grandmother failed to leave Germany and later died in the concentration camp at Theresienstadt. |
 | [[Apeirogon]] | Colum McCann | subject | Operation Embellishment: the fake town staged for the Red Cross. |
 
-## Four Thousand Weeks — Oliver Burkeman (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.5133&mlon=14.1669#map=16/50.5133/14.1669) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.5133,14.1669)
 
+## Four Thousand Weeks — Oliver Burkeman (2021)
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcqehapx5rbgnrw1j6k3vy)
 
 > never made it out, and later died in the concentration camp at Theresienstadt.
@@ -50,7 +50,6 @@ Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22
 - **Why it matters:** It is the grim consequence that explains the family's anxiety about timing and departure. It is mentioned briefly but carries real weight.
 
 ## Apeirogon — Colum McCann (2020)
-
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7ww79bhaxmn4v1e60mm2b)
 
 > On June 23, 1944, the Nazis allowed representatives of the International Committee of the Red Cross to visit Theresienstadt in order to counter rumors of death camps.

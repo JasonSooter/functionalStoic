@@ -2,12 +2,8 @@
 publish: true
 title: Museum of the Rockies
 created: 2026-10-22T14:40:24.000Z
-modified: 2026-11-02T16:01:52.000Z
-published: 2026-11-02T16:01:52.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:00:22.144Z
+published: 2026-11-07T07:00:22.144Z
 aliases: []
 books:
   - Life on Air
@@ -20,7 +16,12 @@ icon: book
 location:
   - 45.6588
   - -111.0456
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Montana]]"
+image: Attachments/Places/Museum of the Rockies.svg
 ---
 
 # Museum of the Rockies
@@ -28,13 +29,13 @@ within: "[[Montana]]"
 Museum in Bozeman, Montana; in _Life on Air_ Jack Horner takes Attenborough to a dinosaur nesting colony.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Jack Horner takes Attenborough to a dinosaur nesting colony. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.6588&mlon=-111.0456#map=16/45.6588/-111.0456) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.6588,-111.0456)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8k22ahfm3j1cp5g9tv82)
 
 > Most exciting of all, we went to the Museum of the Rockies in Boseman, Montana to visit Jack Horner, another great dinosaur expert.

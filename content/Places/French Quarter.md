@@ -2,13 +2,8 @@
 publish: true
 title: French Quarter
 created: 2016-06-27
-modified: 2026-11-02T14:16:25.000Z
-published: 2026-11-02T14:16:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/French Quarter.svg
+modified: 2026-11-07T06:55:40.426Z
+published: 2026-11-07T06:55:40.426Z
 aliases: []
 books:
   - Raising My Baby…With Three Dads
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 29.9586
   - -90.065
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Orleans]]"
 image: Attachments/Places/French Quarter.svg
 ---
@@ -30,17 +29,16 @@ image: Attachments/Places/French Quarter.svg
 Historic core of New Orleans, Louisiana. In a piece on raising a baby with three dads, one father's French Quarter bar is the child's second home.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Raising My Baby…With Three Dads | Lori Tipton | setting | Andy, one of Wilder's three dads, owns a neighborhood bar and restaurant in the French Quarter and brings Wilder to hang out there |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.9586&mlon=-90.065#map=11/29.9586/-90.065) · [Google Maps](https://www.google.com/maps/search/?api=1&query=29.9586,-90.065)
 
+## Sub-places
 - [[Bourbon Street]]
 
 ## Raising My Baby…With Three Dads — Lori Tipton (2016)
-
 Source: [Original](https://primemind.com/raising-my-baby-with-three-dads-a5016136197d) · [Readwise highlight](https://read.readwise.io/read/01m5jx58k1tc9s766s3gvrj917)
 
 > In his first year of life, Wilder spent just as much time at Andy’s place in the French Quarter as he did at home.

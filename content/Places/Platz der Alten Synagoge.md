@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Square of the Old Synagogue
 title: Platz der Alten Synagoge
 created: 2026-10-24T07:12:31.000Z
-modified: 2026-11-02T18:25:16.000Z
-published: 2026-11-02T18:25:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:55:43.134Z
+published: 2026-11-07T06:55:43.134Z
+aliases:
+  - Square of the Old Synagogue
 books:
   - "A Demo Saturday at the Control Centre: Prepared for Anything"
 categories:
@@ -21,7 +17,12 @@ icon: newspaper
 location:
   - 47.9949
   - 7.8462
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Freiburg]]"
+image: Attachments/Places/Platz der Alten Synagoge.svg
 ---
 
 # Platz der Alten Synagoge
@@ -29,13 +30,13 @@ within: "[[Freiburg]]"
 Square on the western edge of [[Freiburg]]'s old town, by the university buildings and a tram stop. It shows up as the start and end point of a city-centre demonstration that VAG's control centre plans its tram diversions around.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Demo Saturday at the Control Centre: Prepared for Anything | VAG Freiburg | setting | Where VAG and the police meet the organisers of a cannabis march that draws 30 people instead of 300. |
 
-## A Demo Saturday at the Control Centre: Prepared for Anything — VAG Freiburg (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.9949&mlon=7.8462#map=16/47.9949/7.8462) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.9949,7.8462)
 
+## A Demo Saturday at the Control Centre: Prepared for Anything — VAG Freiburg (2026)
 Source: [Original](https://blog.vag-freiburg.de/auf-alles-vorbereitet-leitstelle-im-demo-modus/) · [Readwise highlight](https://read.readwise.io/read/01m5pc1nwryy4t2a5s1fw5tkbp)
 
 > Time for a change of location: with traffic supervisor Matthias, we head into the city centre in the E6, the red VAG response vehicle, to Platz der Alten Synagoge. This too is part of every demonstration: direct coordination with the police.

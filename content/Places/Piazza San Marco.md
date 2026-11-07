@@ -1,18 +1,14 @@
 ---
 publish: true
+title: Piazza San Marco
+created: 2026-10-20T07:53:19.000Z
+modified: 2026-11-07T06:54:58.678Z
+published: 2026-11-07T06:54:58.678Z
 aliases:
   - St Mark's Square
   - San Marco
   - St Mark's Basilica
   - Piazzetta San Marco
-title: Piazza San Marco
-created: 2026-10-20T07:53:19.000Z
-modified: 2026-11-02T18:25:16.000Z
-published: 2026-11-02T18:25:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books:
   - "[[Death in Venice]]"
   - "[[Candide]]"
@@ -24,7 +20,12 @@ icon: book
 location:
   - 45.4339
   - 12.3381
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Venice]]"
+image: Attachments/Places/Piazza San Marco.svg
 ---
 
 # Piazza San Marco
@@ -38,8 +39,9 @@ Venice's principal square, in front of St Mark's Basilica in [[Venice]], where A
 | [[Death in Venice]] | Thomas Mann | turning point | Where Aschenbach first smells the disinfectant and later resolves to say nothing. |
 | [[Candide]] | Voltaire | setting | Candide sees Friar Giroflée and Paquette arm in arm here, invites them to dine and learns how miserable they are |
 
-## Death in Venice — Thomas Mann (1912)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.4339&mlon=12.3381#map=16/45.4339/12.3381) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.4339,12.3381)
 
+## Death in Venice — Thomas Mann (1912)
 Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5c4pv4knkcja4jkva6mfcvy)
 
 > He did not find his idol at San Marco. However, while taking tea at his little round wrought-iron table on the shady side of the square, he suddenly whiffed an unusual aroma in the air, an aroma he now felt he had been inhaling for days without being conscious of it, a cloying medicinal smell redolent of squalor and sores and dubious hygiene.
@@ -49,7 +51,6 @@ Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL162460
 - **Why it matters:** The square is where the hidden epidemic and Aschenbach's moral surrender meet, staged among unsuspecting tourists. The basilica adds the incense-and-sickness atmosphere of the pursuit scenes.
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75nsabxj874ajzb6g3xs5)
 
 > While they were disputing on this important subject and waiting for Cunegonde, Candide saw a young Theatin friar in St. Mark's Piazza, holding a girl on his arm.

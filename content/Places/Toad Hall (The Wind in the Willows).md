@@ -2,13 +2,8 @@
 publish: true
 title: Toad Hall
 created: 2026-10-23
-modified: 2026-11-06T08:21:46.000Z
-published: 2026-11-06T08:21:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Toad Hall (The Wind in the Willows).svg
+modified: 2026-11-07T06:53:29.887Z
+published: 2026-11-07T06:53:29.887Z
 books:
   - The Wind in the Willows
 categories:
@@ -16,12 +11,17 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 51.4848,-1.0355
-geo_note: "best-guess: several Thames-side houses are proposed as the model; pinned at Mapledurham House"
+geo_note: "best-guess: several Thames-side houses are proposed as the model; pinned\
+  \ at Mapledurham House"
 geo_source: Wikipedia (en), Mapledurham House
 icon: book
 location:
   - 51.4848
   - -1.0355
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oxfordshire]]"
 image: Attachments/Places/Toad Hall (The Wind in the Willows).svg
 ---
@@ -31,13 +31,13 @@ image: Attachments/Places/Toad Hall (The Wind in the Willows).svg
 Toad's riverside mansion in _The Wind in the Willows_, pinned at a best guess on Mapledurham House by the Thames. It is the home Toad squanders and the stoats and weasels seize, and the four friends retake in the book's last battle.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Wind in the Willows | Kenneth Grahame | setting | Toad's mansion, lost to the weasels and retaken through the secret passage. |
 
-## The Wind in the Willows — Kenneth Grahame (1908)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.4848&mlon=-1.0355#map=16/51.4848/-1.0355) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4848,-1.0355)
 
+## The Wind in the Willows — Kenneth Grahame (1908)
 Source: [Original](https://openlibrary.org/works/OL28570037W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2gjxvn84zf4w6b5sd9ha)
 
 > There’s Toad Hall,” said the Rat; “and that creek on the left, where the notice-board says, ‘Private. No landing allowed,’ leads to his boat-house, where we’ll leave the boat.

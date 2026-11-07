@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Cuprija
 title: Ćuprija
 created: 2025-03-08
-modified: 2026-11-06T23:32:05.000Z
-published: 2026-11-06T23:32:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Ćuprija.svg
+modified: 2026-11-07T07:03:20.377Z
+published: 2026-11-07T07:03:20.377Z
+aliases:
+  - Cuprija
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 43.9333
   - 21.3667
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Serbia]]"
 image: Attachments/Places/Ćuprija.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Ćuprija.svg
 Town on the Great Morava river in central Serbia. A flood scene in Dervla Murphy's _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | A flood wave sweeps her off her bicycle; she wades to the bridge and a cheering crowd. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.9333&mlon=21.3667#map=16/43.9333/21.3667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.9333,21.3667)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kg2ga2nkwyrgtsz7gt0d)
 
 > It was awe-inspiring to see the wide, angry Morava swiftly sweeping its tremendous burden of ice and snow-chunks through the vast wilderness of sullen, brown flood-waters, and my awe was soon justified when a massive wave came crashing across the road, swept me off Roz and rolled me over and over

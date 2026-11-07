@@ -2,13 +2,8 @@
 publish: true
 title: Little Falls, New York
 created: 2017-02-05
-modified: 2026-11-02T14:18:51.000Z
-published: 2026-11-02T14:18:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Little Falls, New York.svg
+modified: 2026-11-07T07:04:04.893Z
+published: 2026-11-07T07:04:04.893Z
 aliases: []
 books:
   - Erie Canal
@@ -22,6 +17,10 @@ icon: book
 location:
   - 43.0433
   - -74.8597
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Little Falls, New York.svg
 ---
@@ -37,8 +36,9 @@ Mohawk Valley town in Herkimer County, New York. The Erie Canal article describe
 | Erie Canal | wikipedia.org | backdrop | Little Falls was a popular tourist stop on the canal because of its stone aqueduct over cascades. |
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | subject | The gorge where the Mohawk cuts the Appalachians, the valley's gateway to the West. |
 
-## Erie Canal — wikipedia.org (2001)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.0433&mlon=-74.8597#map=16/43.0433/-74.8597) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0433,-74.8597)
 
+## Erie Canal — wikipedia.org (2001)
 Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise highlight](https://read.readwise.io/read/01m5k5seg5s01hp55qcg8pg0w4)
 
 > Consisting of a massive stone aqueduct that carried boats over incredible cascades, Little Falls was one of the most popular stops for American and foreign tourists.
@@ -48,7 +48,6 @@ Source: [Original](https://en.m.wikipedia.org/wiki/Erie_Canal) · [Readwise high
 - **Why it matters:** Scenic stop where canal and nature combined for travelers.
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
-
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvd3j0b36prgkds8jxmvcq)
 
 > The distinguishing feature of the Mohawk valley is a deep gorge rising five hundred feet above the water and squeezing the river down to its narrowest point as it carves its way through a preglacial divide in the mountains.

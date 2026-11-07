@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Santa Maria delle Grazie
+created: 2026-08-26
+modified: 2026-11-07T06:52:47.352Z
+published: 2026-11-07T06:52:47.352Z
 aliases:
   - The Last Supper refectory
   - Cenacolo Vinciano
-title: Santa Maria delle Grazie
-created: 2026-08-26
-modified: 2026-11-02T21:10:48.000Z
-published: 2026-11-02T21:10:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Santa Maria delle Grazie.svg
 books:
   - Neither Here Nor There
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 45.4658
   - 9.1711
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Milan]]"
 image: Attachments/Places/Santa Maria delle Grazie.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Santa Maria delle Grazie.svg
 Church and convent in [[Milan]], Italy, whose refectory holds Leonardo's _Last Supper_, which Bill Bryson finds disappointingly faded in Neither Here Nor There.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | A long walk across Milan to see a fresco so faded it is "like a ghost image". |
 
-## Neither Here Nor There — Bill Bryson (1991)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.4658&mlon=9.1711#map=16/45.4658/9.1711) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.4658,9.1711)
 
+## Neither Here Nor There — Bill Bryson (1991)
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejn8aqd21ynt8zcjsdg0k)
 
 > Afterward I walked a long way across the city to see Leonardo’s “Last Supper” in the refectory beside the church of Santa Maria delle Grazie.

@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Sticksville-on-Sea
 title: Sticksville-on-Sea (The Year of Living Danishly)
 created: 2024-06-05
-modified: 2026-11-03T01:24:26.000Z
-published: 2026-11-03T01:24:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Sticksville-on-Sea (The Year of Living Danishly).svg
+modified: 2026-11-07T06:58:38.020Z
+published: 2026-11-07T06:58:38.020Z
+aliases:
+  - Sticksville-on-Sea
 books:
   - The Year of Living Danishly
 categories:
@@ -18,12 +13,18 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 55.6653,9.6725
-geo_note: "inferred: the text's 1920s red-brick institutions founded by Christian Keller, whose statue stands on the hill, match Keller's institution at Brejning on Vejle Fjord"
+geo_note: "inferred: the text's 1920s red-brick institutions founded by Christian\
+  \ Keller, whose statue stands on the hill, match Keller's institution at Brejning\
+  \ on Vejle Fjord"
 geo_source: Wikipedia (en) Brejning
 icon: book
 location:
   - 55.6653
   - 9.6725
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Brejning]]"
 image: Attachments/Places/Sticksville-on-Sea (The Year of Living Danishly).svg
 ---
@@ -33,13 +34,13 @@ image: Attachments/Places/Sticksville-on-Sea (The Year of Living Danishly).svg
 Helen Russell's nickname for her unnamed beachside home village in Jutland, Denmark, which is the base for her year-long experiment in _The Year of Living Danishly_. The likeliest real place is Brejning on Vejle Fjord, site of Christian Keller's institutions.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Year of Living Danishly | Helen Russell | setting | Russell's unnamed home village: beach, Midsummer bonfire, red-brick former institutions. |
 
-## The Year of Living Danishly — Helen Russell (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.6653&mlon=9.6725#map=16/55.6653/9.6725) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.6653,9.6725)
 
+## The Year of Living Danishly — Helen Russell (2015)
 Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highlight](https://read.readwise.io/read/01m5f0r1ar7p20ds2tcx42461r)
 
 > Our quiet beachside village is now bustling with barbecuers, swimmers, canoeists and sailors fitting in a second shift of leisure after a not-so-hard day at the office.

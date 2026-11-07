@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Dyea
 title: Dyea, Alaska
 created: 2026-10-23
-modified: 2026-11-02T14:15:48.000Z
-published: 2026-11-02T14:15:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Dyea, Alaska.svg
+modified: 2026-11-07T07:04:30.730Z
+published: 2026-11-07T07:04:30.730Z
+aliases:
+  - Dyea
 books:
   - The Call of the Wild
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 59.5044
   - -135.36
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Alaska]]"
 image: Attachments/Places/Dyea, Alaska.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Dyea, Alaska.svg
 Ghost town at the head of Taiya Inlet, Alaska, the Klondike gold-rush landing for the Chilkoot Trail. Buck's first day in the North, on its beach, opens his education in _The Call of the Wild_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Call of the Wild | Jack London | setting | Buck's first day in the North: Curly is killed and he is harnessed. |
 
-## The Call of the Wild — Jack London (1903)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.5044&mlon=-135.36#map=16/59.5044/-135.36) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.5044,-135.36)
 
+## The Call of the Wild — Jack London (1903)
 Source: [Original](https://openlibrary.org/works/OL14942956W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5jqtghs6m130jvxb9cy0)
 
 > Buck’s first day on the Dyea beach was like a nightmare. Every hour was filled with shock and surprise.

@@ -1,20 +1,17 @@
 ---
 publish: true
+title: Frauen-Werk-Stadt
+created: 2024-08-09
+modified: 2026-11-07T06:55:37.269Z
+published: 2026-11-07T06:55:37.269Z
 aliases:
   - Women-Work-City
   - Frauen-Werk-Stadt I
   - Margarete-Schütte-Lihotzky-Hof
-title: Frauen-Werk-Stadt
-created: 2024-08-09
-modified: 2026-11-02T14:16:31.000Z
-published: 2026-11-02T14:16:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Frauen-Werk-Stadt.svg
 books:
-  - "[[Bookshelf/Highlights & Notes/Articles/Can Urban Design Have a Gender In This Vienna District, the Answer Is Yes. - The New York Times.md|Can Urban Design Have a Gender?]]"
+  - "[[Bookshelf/Highlights & Notes/Articles/Can Urban Design Have a Gender In This\
+    \ Vienna District, the Answer Is Yes. - The New York Times.md|Can Urban Design\
+    \ Have a Gender?]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -25,6 +22,10 @@ icon: newspaper
 location:
   - 48.2546
   - 16.4205
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vienna]]"
 image: Attachments/Places/Frauen-Werk-Stadt.svg
 ---
@@ -34,13 +35,13 @@ image: Attachments/Places/Frauen-Werk-Stadt.svg
 Frauen-Werk-Stadt is a housing estate in Floridsdorf, Vienna. It turns up in Can Urban Design Have a Gender? In This Vienna District, the Answer Is Yes. - The New York Times (Valeriya Safronova): It is the prototype that led to the later approach realized in Seestadt.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Can Urban Design Have a Gender In This Vienna District, the Answer Is Yes. - The New York Times.md\|Can Urban Design Have a Gender? In This Vienna District, the Answer Is Yes. - The New York Times]] | Valeriya Safronova | turning point | Kail's first big experiment: an apartment complex designed by four female architects. |
 
-## Can Urban Design Have a Gender? In This Vienna District, the Answer Is Yes. - The New York Times — Valeriya Safronova (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2546&mlon=16.4205#map=10/48.2546/16.4205) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.2546,16.4205)
 
+## Can Urban Design Have a Gender? In This Vienna District, the Answer Is Yes. - The New York Times — Valeriya Safronova (2024)
 Source: [[Bookshelf/Highlights & Notes/Articles/Can Urban Design Have a Gender In This Vienna District, the Answer Is Yes. - The New York Times.md|Can Urban Design Have a Gender?]] · [Original](https://www.nytimes.com/2024/07/17/realestate/vienna-aspern-seestadt-gender.html) · [Readwise highlight](https://read.readwise.io/read/01m5fbj4bs3ff2yp47w51g9qw5)
 
 > In 1997, she unveiled Frauen-Werk-Stadt (Women-Work-City), a 357-unit apartment complex designed by four female architects to address what they felt were the needs of women at the time.

@@ -2,13 +2,8 @@
 publish: true
 title: Ape Cave
 created: 2015-11-28
-modified: 2026-11-02T14:13:57.000Z
-published: 2026-11-02T14:13:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Ape Cave.svg
+modified: 2026-11-07T06:54:45.465Z
+published: 2026-11-07T06:54:45.465Z
 aliases: []
 books:
   - A Tale of Two Vacations
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 46.1138
   - -122.214
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington (state)]]"
 image: Attachments/Places/Ape Cave.svg
 ---
@@ -37,8 +36,9 @@ Lava tube on the south flank of Mount St. Helens in [[Washington (state)|Washing
 | A Tale of Two Vacations | retirebyforty | subject | Father and son scramble through the cold, dark lava tube: the cheap half of a two-vacation comparison. |
 | My Summer of George | retirebyforty | journey waypoint | Another trip through the 1.5-mile lava tube, where the boy gets cold without gloves. |
 
-## A Tale of Two Vacations — retirebyforty (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.1138&mlon=-122.214#map=16/46.1138/-122.214) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.1138,-122.214)
 
+## A Tale of Two Vacations — retirebyforty (2015)
 Source: [Original](https://retireby40.org/a-tale-of-two-vacations/) · [Readwise highlight](https://read.readwise.io/read/01m5ga1a6k426tb8zavgh28569)
 
 > So I decided to show him the Ape Cave at the foothill of Mount St. Helens, the longest known lava tube in North America.
@@ -48,7 +48,6 @@ Source: [Original](https://retireby40.org/a-tale-of-two-vacations/) · [Readwise
 - **Why it matters:** One of the two trips the post compares; the cave's character drives the account and the boy's verdict.
 
 ## My Summer of George — retirebyforty (2015)
-
 Source: [Original](https://retireby40.org/my-summer-of-george/) · [Readwise highlight](https://read.readwise.io/read/01m5gby7ykdejrjwsya7cv0srk)
 
 > We hike/climbed the Ape Cave, a 1.5 miles lava tube on Mt. St. Helens, southern flank.

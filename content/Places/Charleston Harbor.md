@@ -2,16 +2,12 @@
 publish: true
 title: Charleston Harbor
 created: 2016-08-03
-modified: 2026-11-02T14:15:23.000Z
-published: 2026-11-02T14:15:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Charleston Harbor.svg
+modified: 2026-11-07T06:54:28.723Z
+published: 2026-11-07T06:54:28.723Z
 aliases: []
 books:
-  - The incredible story of a slave who stole a boat, sailed to freedom, and became a hero.
+  - The incredible story of a slave who stole a boat, sailed to freedom, and became
+    a hero.
 categories:
   - "[[Places]]"
 color: purple
@@ -21,6 +17,10 @@ icon: newspaper
 location:
   - 32.8186
   - -79.9279
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Charleston, South Carolina]]"
 image: Attachments/Places/Charleston Harbor.svg
 ---
@@ -30,13 +30,13 @@ image: Attachments/Places/Charleston Harbor.svg
 Harbor of Charleston, South Carolina. Robert Smalls's 1862 escape begins here, when he takes the Confederate steamer Planter while its officers are ashore.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The incredible story of a slave who stole a boat, sailed to freedom, and became a hero. | Erin Canty | setting | The CSS Planter lies docked overnight, loaded with supplies and weapons |
 
-## The incredible story of a slave who stole a boat, sailed to freedom, and became a hero. — Erin Canty (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.8186&mlon=-79.9279#map=16/32.8186/-79.9279) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.8186,-79.9279)
 
+## The incredible story of a slave who stole a boat, sailed to freedom, and became a hero. — Erin Canty (2016)
 Source: [Original](http://www.upworthy.com/the-incredible-story-of-a-slave-who-stole-a-boat-sailed-to-freedom-and-became-a-hero?c=ufb1) · [Readwise highlight](https://read.readwise.io/read/01m5jvnxzmy49yhdcbvz4fhncg)
 
 > Smalls worked on the CSS Planter, a steamer warship. The Planter was docked for the night in the Charleston Harbor.

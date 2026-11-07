@@ -2,13 +2,8 @@
 publish: true
 title: Oslo
 created: 2019-04-17
-modified: 2026-11-05T01:12:48.000Z
-published: 2026-11-05T01:12:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Oslo.svg
+modified: 2026-11-07T06:53:09.905Z
+published: 2026-11-07T06:53:09.905Z
 aliases: []
 books:
   - These 8 cities are taking bold steps to get rid of cars
@@ -23,6 +18,10 @@ image: Attachments/Places/Oslo.svg
 location:
   - 59.9133
   - 10.7389
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Norway]]"
 ---
 
@@ -31,14 +30,14 @@ within: "[[Norway]]"
 Capital of Norway. Fast Company lists its city-centre parking removal among eight bold moves to get rid of cars, and Visit Oslo's tongue-in-cheek winter ad pokes fun at how cosy the city gets in the snow.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | These 8 cities are taking bold steps to get rid of cars | Adele Peters | subject | The city removed 700 parking spaces and added charging stations and disabled parking while improving transit and cycling. |
 | It's totally even a city! | Visit OSLO | subject | A grumpy resident hates Oslo's jolly, snowy "fairy tale" winter; a musical parody tourism ad. |
 
-## These 8 cities are taking bold steps to get rid of cars — Adele Peters (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.9133&mlon=10.7389#map=16/59.9133/10.7389) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.9133,10.7389)
 
+## These 8 cities are taking bold steps to get rid of cars — Adele Peters (2019)
 Source: [Original](https://www.fastcompany.com/90321627/these-8-cities-are-taking-bold-steps-to-get-rid-of-cars) · [Readwise highlight](https://read.readwise.io/read/01m5k7e7mtwny3rr8anqr6yryx)
 
 > In the city center of Oslo, former parking spaces on the street have been transformed into bike lanes, benches, and tiny parks.
@@ -48,7 +47,6 @@ Source: [Original](https://www.fastcompany.com/90321627/these-8-cities-are-takin
 - **Why it matters:** Section of the article devoted to this place's car-reduction effort.
 
 ## It's totally even a city! — Visit OSLO (2026)
-
 Source: [Original](https://www.youtube.com/watch?v=P6sGqYclxr0) · [Readwise highlight](https://read.readwise.io/read/01m6mm79668rynp83e64k382cw)
 
 > I hate the winter in Oslo.

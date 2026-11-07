@@ -2,13 +2,8 @@
 publish: true
 title: The Time Traveller's house (The Time Machine)
 created: 2024-12-29
-modified: 2026-11-06T01:28:58.000Z
-published: 2026-11-06T01:28:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The Time Traveller's house (The Time Machine).svg
+modified: 2026-11-07T06:51:36.191Z
+published: 2026-11-07T06:51:36.191Z
 aliases: []
 books:
   - The Time Machine
@@ -23,6 +18,10 @@ icon: book
 location:
   - 51.4528
   - -0.2992
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Richmond, London]]"
 image: Attachments/Places/The Time Traveller's house (The Time Machine).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/The Time Traveller's house (The Time Machine).svg
 The Time Traveller's fictional house in Richmond, Surrey (now London), pinned at Richmond Hill. The story is told at his dinners there, and in 802,701 AD the White Sphinx stands on the same spot.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Time Machine | H. G. Wells | setting | The narrator travels to Richmond each Thursday for the Time Traveller's dinners |
 
-## The Time Machine — H. G. Wells (1895)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.4528&mlon=-0.2992#map=16/51.4528/-0.2992) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4528,-0.2992)
 
+## The Time Machine — H. G. Wells (1895)
 Source: [Original](https://www.penguin.co.uk/books/55966/the-time-machine) · [Readwise highlight](https://read.readwise.io/read/01m5jy9snx2nscs8dxecctqcc7)
 
 > The next Thursday I went again to Richmond—I suppose I was one of the Time Traveller’s most constant guests—and, arriving late, found four or five men already assembled in his drawing-room.

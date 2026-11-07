@@ -2,13 +2,8 @@
 publish: true
 title: University of Edinburgh
 created: 2015-08-30
-modified: 2026-11-06T11:22:56.000Z
-published: 2026-11-06T11:22:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/University of Edinburgh.svg
+modified: 2026-11-07T06:55:18.696Z
+published: 2026-11-07T06:55:18.696Z
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -23,6 +18,10 @@ icon: book
 location:
   - 55.95
   - -3.1833
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Edinburgh]]"
 image: Attachments/Places/University of Edinburgh.svg
 ---
@@ -32,15 +31,15 @@ image: Attachments/Places/University of Edinburgh.svg
 University in [[Edinburgh]], United Kingdom, where Hannah Ritchie studied Environmental Geoscience and later gave her first lecture, both recounted in her book Not the End of the World. Its medical school also anchors Nathan Kontny's essay Poison, about the toxicologist Robert Christison.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | turning point | Ritchie studied Environmental Geoscience here from 2010 and describes each day as a reminder of humanity ravaging the planet. |
 | [[Not the End of the World]] | Hannah Ritchie | setting | Ritchie recalls her first lecture, to about 100 undergraduates, where she asks them to guess how many calories per person the world's food could provide if split equally. |
 | Poison | Nathan Kontny | setting | Medical school where Christison taught and tested poisons on himself to learn their symptoms. |
 
-## Not the End of the World — Hannah Ritchie (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.95&mlon=-3.1833#map=10/55.95/-3.1833) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.95,-3.1833)
 
+## Not the End of the World — Hannah Ritchie (2024)
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5e319hbymqyxskw81zpy1j5)
 
 > In 2010 I started my degree in Environmental Geoscience at the University of Edinburgh. I showed up as a fresh-faced 16-year-old, ready to learn how we were going to fix some of the world’s biggest challenges. Four years later, I left with no solutions.
@@ -50,7 +49,6 @@ Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works
 - **Why it matters:** It is the source of her despair and misconceptions that motivates the book; the setting is the university generally, not a specific building.
 
 ## Not the End of the World — Hannah Ritchie (2024)
-
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5edgp0arpj2r2kedeph00en)
 
 > I was just 21 years old and giving my first lecture to a room of undergraduates at the University of Edinburgh. I was bricking it.
@@ -60,7 +58,6 @@ Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works
 - **Why it matters:** The room anchors the chapter's opening anecdote and her personal point that she herself would have guessed wrong as a student. The same story could have happened at any university; the place makes it concrete and personal.
 
 ## Poison — Nathan Kontny (2015)
-
 Source: [Original](https://signalvnoise.com/posts/3874-poison) · [Readwise highlight](https://read.readwise.io/read/01m5fzbzxfr5h9gxkm3784wyh1)
 
 > The University of Edinburgh Medical School, one of the best medical schools in the United Kingdom, was created in 1726, also making it one of the oldest medical schools in the English speaking world.

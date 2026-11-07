@@ -2,13 +2,8 @@
 publish: true
 title: Type Ashton's village (Black Forest)
 created: 2026-07-06
-modified: 2026-11-06T11:22:56.000Z
-published: 2026-11-06T11:22:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Type Ashton's village (Black Forest).svg
+modified: 2026-11-07T06:54:31.236Z
+published: 2026-11-07T06:54:31.236Z
 aliases: []
 books:
   - What the U.S. Gets Wrong About Fitness (And Europe Gets Right)
@@ -23,6 +18,10 @@ icon: book
 location:
   - 48.25
   - 8.05
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Black Forest]]"
 image: Attachments/Places/Type Ashton's village (Black Forest).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Type Ashton's village (Black Forest).svg
 A village somewhere in Germany's Black Forest, never named in the source. Type Ashton mentions it in a video on fitness, describing the older adults there who cycle and walk to the shops.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What the U.S. Gets Wrong About Fitness (And Europe Gets Right) | Type Ashton | setting | She says that walking around her village in the Black Forest she sees many adults over 65 and 80 cycling and walking to the shops. |
 
-## What the U.S. Gets Wrong About Fitness (And Europe Gets Right) — Type Ashton (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.25&mlon=8.05#map=16/48.25/8.05) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.25,8.05)
 
+## What the U.S. Gets Wrong About Fitness (And Europe Gets Right) — Type Ashton (2026)
 Source: [Original](https://www.youtube.com/watch?v=9-6ZvJL-dH0) · [Readwise highlight](https://read.readwise.io/read/01m5e33qxc2572d99bgrmeqnbz)
 
 > in the Black Forest

@@ -2,13 +2,8 @@
 publish: true
 title: Kii Peninsula
 created: 2024-09-01
-modified: 2026-11-02T14:18:20.000Z
-published: 2026-11-02T14:18:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Kii Peninsula.svg
+modified: 2026-11-07T06:58:06.504Z
+published: 2026-11-07T06:58:06.504Z
 aliases: []
 books:
   - "[RODEN] Cover Reveal — TBOT Random House"
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 34.3028
   - 135.955
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Japan]]"
 image: Attachments/Places/Kii Peninsula.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Kii Peninsula.svg
 Peninsula in Kansai, Japan, home to the Kumano pilgrimage routes. Craig Mod's book about walking it gets its cover.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| \[RODEN] Cover Reveal — TBOT Random House | Craig Mod | subject | Years of walking and photographing the peninsula behind his book. |
+| [RODEN] Cover Reveal — TBOT Random House | Craig Mod | subject | Years of walking and photographing the peninsula behind his book. |
 
-## \[RODEN] Cover Reveal — TBOT Random House — Craig Mod (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.3028&mlon=135.955#map=10/34.3028/135.955) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.3028,135.955)
 
+## [RODEN] Cover Reveal — TBOT Random House — Craig Mod (2024)
 Source: [Original](https://craigmod.com/roden/093/) · [Readwise highlight](https://read.readwise.io/read/01m5f1wv0xrh53qn4fd3stnkw7)
 
 > of all my Kii Peninsula walking and photographing,

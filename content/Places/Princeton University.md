@@ -2,12 +2,8 @@
 publish: true
 title: Princeton University
 created: 2026-10-21T19:59:50.000Z
-modified: 2026-11-02T18:35:43.000Z
-published: 2026-11-02T18:35:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:57:04.340Z
+published: 2026-11-07T06:57:04.340Z
 aliases: []
 books:
   - Has cosmology run into a creative crisis?
@@ -22,7 +18,12 @@ icon: book
 location:
   - 40.3453
   - -74.6561
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Princeton University.svg
 ---
 
 # Princeton University
@@ -37,12 +38,12 @@ University in Princeton, New Jersey. In an Aeon essay on cosmology it is the hom
 | Schools Must Resist Destructive Anti-racist Demands | John McWhorter | subject | The essay's central case: 350 faculty signed an anti-racist manifesto with nearly 50 demands describing the school as founded on an… |
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | setting | The chaotic basement cyclotron room shows the new graduate student why Princeton suits him. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.3453&mlon=-74.6561#map=11/40.3453/-74.6561) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.3453,-74.6561)
 
+## Sub-places
 - [[Princeton University Graduate College]]
 
 ## Has cosmology run into a creative crisis? — Ross Andersen (2015)
-
 Source: [Original](http://aeon.co/magazine/science/has-cosmology-run-into-a-creative-crisis) · [Readwise highlight](https://read.readwise.io/read/01m5g0e7gxv09vc7jkxn9xkard)
 
 > Steinhardt is fully tenured, a lion of Princeton’s storied physics department. He walks the same leafy streets that Albert Einstein walked.
@@ -52,7 +53,6 @@ Source: [Original](http://aeon.co/magazine/science/has-cosmology-run-into-a-crea
 - **Why it matters:** The setting frames the counter-argument that closes the essay.
 
 ## Schools Must Resist Destructive Anti-racist Demands — John McWhorter (2021)
-
 Source: [Original](https://www.theatlantic.com/ideas/archive/2021/01/when-antiracist-manifestos-become-antiracist-wrecking-balls/617841/) · [Readwise highlight](https://read.readwise.io/read/01m5k8y66tv5hfh2tjcnjdjngv)
 
 > Although racism surely exists at Princeton, as it does throughout American society, Princeton is not the utter sinkhole of bigotry and insensitivity that the letter implies.

@@ -2,13 +2,8 @@
 publish: true
 title: Birmingham, Alabama
 created: 2016-06-24
-modified: 2026-11-02T14:14:21.000Z
-published: 2026-11-02T14:14:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Birmingham, Alabama.svg
+modified: 2026-11-07T07:00:53.603Z
+published: 2026-11-07T07:00:53.603Z
 aliases: []
 books:
   - Major New Study Finds Geography Can Affect Life Span as Much as Income
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 33.5175
   - -86.8094
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Alabama]]"
 image: Attachments/Places/Birmingham, Alabama.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Birmingham, Alabama.svg
 City in Alabama, USA. A subject in Eric Pfeiffer's “Major New Study Finds Geography Can Affect Life Span as Much as Income”: Birmingham: poor residents' life expectancy comparable to the rich, a surprising result.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Major New Study Finds Geography Can Affect Life Span as Much as Income | Eric Pfeiffer | subject | Birmingham: poor residents' life expectancy comparable to the rich, a surprising result |
 
-## Major New Study Finds Geography Can Affect Life Span as Much as Income — Eric Pfeiffer (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.5175&mlon=-86.8094#map=16/33.5175/-86.8094) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.5175,-86.8094)
 
+## Major New Study Finds Geography Can Affect Life Span as Much as Income — Eric Pfeiffer (2016)
 Source: [Original](http://www.good.is/posts/health-tied-to-geography) · [Readwise highlight](https://read.readwise.io/read/01m5jjqfmtcedwzxpc0j220pfa)
 
 > For example, poorer people in Birmingham, Alabama enjoyed higher life expectancy levels comparable to higher-income folks.

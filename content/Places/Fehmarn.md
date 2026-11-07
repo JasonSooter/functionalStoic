@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Fehmarn island
 title: Fehmarn
 created: 2025-06-03
-modified: 2026-11-02T14:16:42.000Z
-published: 2026-11-02T14:16:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Fehmarn.svg
+modified: 2026-11-07T06:53:47.056Z
+published: 2026-11-07T06:53:47.056Z
+aliases:
+  - Fehmarn island
 books:
   - The Insane Scale of Europe’s New Mega-Tunnel
 categories:
@@ -22,6 +17,10 @@ icon: video
 location:
   - 54.4454
   - 11.1702
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Schleswig-Holstein]]"
 image: Attachments/Places/Fehmarn.svg
 ---
@@ -31,17 +30,16 @@ image: Attachments/Places/Fehmarn.svg
 German Baltic island in [[Schleswig-Holstein]], on the Fehmarn Belt. It is the German side of a B1M video on the Fehmarn Belt tunnel, where campaigners fear for tourism and ecology.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Insane Scale of Europe’s New Mega-Tunnel | The B1M | setting | The video opens on the quiet German holiday island of Fehmarn, which gives the Belt its name. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=54.4454&mlon=11.1702#map=11/54.4454/11.1702) · [Google Maps](https://www.google.com/maps/search/?api=1&query=54.4454,11.1702)
 
+## Sub-places
 - [[Puttgarden]]
 
 ## The Insane Scale of Europe’s New Mega-Tunnel — The B1M (2025)
-
 Source: [Original](https://www.youtube.com/watch?v=QiYvXKQksgI) · [Readwise highlight](https://read.readwise.io/read/01m5dqw8e3s03x0xn4bkcsv2h8)
 
 > the quiet German island of Fehmarn

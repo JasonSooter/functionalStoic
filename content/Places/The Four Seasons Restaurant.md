@@ -2,13 +2,8 @@
 publish: true
 title: The Four Seasons Restaurant
 created: 2016-07-16
-modified: 2026-11-06T01:28:57.000Z
-published: 2026-11-06T01:28:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The Four Seasons Restaurant.svg
+modified: 2026-11-07T07:03:25.441Z
+published: 2026-11-07T07:03:25.441Z
 aliases: []
 books:
   - Everything we love to eat is a scam
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.7581
   - -73.9721
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/The Four Seasons Restaurant.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/The Four Seasons Restaurant.svg
 Restaurant in the Seagram Building, Midtown Manhattan, open 1959–2016. A New York Post piece calls it the most important restaurant in the city's history.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Everything we love to eat is a scam | Maureen Callahan | subject | A long appended piece traces the restaurant from its 1959 opening through the 1970s-90s as a Grill Room power-lunch nexus and symbol of… |
 
-## Everything we love to eat is a scam — Maureen Callahan (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7581&mlon=-73.9721#map=16/40.7581/-73.9721) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7581,-73.9721)
 
+## Everything we love to eat is a scam — Maureen Callahan (2016)
 Source: [Original](https://nypost.com/2016/07/10/the-truth-behind-how-were-scammed-into-eating-phony-food/) · [Readwise highlight](https://read.readwise.io/read/01m5jx71z0d7e5ga8ey6cwj1n5)
 
 > The Four Seasons, which will serve its last meal on July 16 after 57 years in the Seagram Building, is the most important restaurant in the history of New York City.

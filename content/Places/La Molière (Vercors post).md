@@ -2,13 +2,8 @@
 publish: true
 title: La Molière (Vercors post)
 created: 2025-08-07
-modified: 2026-11-02T14:18:33.000Z
-published: 2026-11-02T14:18:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/La Molière (Vercors post).svg
+modified: 2026-11-07T07:00:38.862Z
+published: 2026-11-07T07:00:38.862Z
 aliases: []
 books:
   - "[[La Molière]]"
@@ -17,12 +12,17 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 45.1979,5.5918
-geo_note: "inferred: La Molière pinned at La Molière, Autrans-Méaudre en Vercors, Isère (plateau/forest-road summit, Vercors); see Where is it?"
+geo_note: "inferred: La Molière pinned at La Molière, Autrans-Méaudre en Vercors,\
+  \ Isère (plateau/forest-road summit, Vercors); see Where is it?"
 geo_source: OSM node 512562881 (La Molière, Autrans)
 icon: newspaper
 location:
   - 45.1979
   - 5.5918
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Vercors]]"
 image: Attachments/Places/La Molière (Vercors post).svg
 ---
@@ -32,13 +32,13 @@ image: Attachments/Places/La Molière (Vercors post).svg
 Likely the real pass and forest road above Autrans in the [[Places/Vercors|Vercors]] behind a Mostly Bikes post about a last day of riding.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[La Molière]] | Mostly Bikes x Me | journey waypoint | The author rides on the last day in the Vercors, collecting a few passes as side quests. |
 
-## La Molière — Mostly Bikes x Me (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.1979&mlon=5.5918#map=16/45.1979/5.5918) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.1979,5.5918)
 
+## La Molière — Mostly Bikes x Me (2025)
 Source: [[La Molière]] · [Original](https://funkadelic.net/pages/15364972296.html) · [Readwise highlight](https://read.readwise.io/read/01m5ebwwyxett1b57vfahqw2b5)
 
 > Last day in Vercors. Side quests to collect a few passes. The best part of this ride is the very quiet ~9mi logging road.

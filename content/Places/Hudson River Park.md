@@ -2,13 +2,8 @@
 publish: true
 title: Hudson River Park
 created: 2016-04-07
-modified: 2026-11-02T14:17:35.000Z
-published: 2026-11-02T14:17:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hudson River Park.svg
+modified: 2026-11-07T06:52:24.182Z
+published: 2026-11-07T06:52:24.182Z
 aliases: []
 books:
   - Humans of New York
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.735
   - -74.0106
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Hudson River Park.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Hudson River Park.svg
 Riverside park along the Hudson on Manhattan's West Side. A subject in “Humans of New York”: Riverside where a former jogger now picks up trash and finally sees the place she used to run past.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Humans of New York | Humans of New York | subject | Riverside where a former jogger now picks up trash and finally sees the place she used to run past. |
 
-## Humans of New York — Humans of New York (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.735&mlon=-74.0106#map=16/40.735/-74.0106) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.735,-74.0106)
 
+## Humans of New York — Humans of New York (2016)
 Source: [Original](http://www.humansofnewyork.com/post/142356414341) · [Readwise highlight](https://read.readwise.io/read/01m5jjrwtzd66aknz5jfj9hnq6)
 
 > That first day they tried to send me to pick up trash along the Hudson. I said: ‘No, no, no. Anywhere but there.’ I used to jog along the Hudson; I was afraid some of my old friends would see me.

@@ -2,13 +2,8 @@
 publish: true
 title: Christmas Island
 created: 2024-10-04
-modified: 2026-11-02T14:15:21.000Z
-published: 2026-11-02T14:15:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Christmas Island.svg
+modified: 2026-11-07T06:55:58.919Z
+published: 2026-11-07T06:55:58.919Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +17,10 @@ icon: book
 location:
   - -10.49
   - 105.6275
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Christmas Island.svg
 ---
 
@@ -30,13 +29,13 @@ image: Attachments/Places/Christmas Island.svg
 Australian island in the Indian Ocean south of Java; in _Life on Air_ the red-crab migration opens The Trials of Life.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The red-crab migration opens The Trials of Life. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-10.49&mlon=105.6275#map=10/-10.49/105.6275) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-10.49,105.6275)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8pc865xfcw86nty6z7w9)
 
 > The one the crabs inhabit lies a couple of hundred miles south of Java.

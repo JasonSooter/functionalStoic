@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Everest Hotel
 title: Everest Hotel (Beit Jala)
 created: 2024-12-21
-modified: 2026-11-02T14:16:26.000Z
-published: 2026-11-02T14:16:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Everest Hotel (Beit Jala).svg
+modified: 2026-11-07T06:52:45.291Z
+published: 2026-11-07T06:52:45.291Z
+aliases:
+  - Everest Hotel
 books:
   - "[[Apeirogon]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 31.7182
   - 35.176
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Beit Jala]]"
 image: Attachments/Places/Everest Hotel (Beit Jala).svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Everest Hotel (Beit Jala).svg
 Hilltop hotel in [[Beit Jala]], West Bank. In _Apeirogon_ Combatants for Peace first meets here.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | turning point | Wary first meetings of Israeli and Palestinian ex-fighters, who name themselves Combatants for Peace. |
 
-## Apeirogon — Colum McCann (2020)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7182&mlon=35.176#map=16/31.7182/35.176) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7182,35.176)
 
+## Apeirogon — Colum McCann (2020)
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7w6brx15sjbm4nct2smw5)
 
 > The original meetings of Combatants for Peace took place amid the pine trees of the Everest Hotel in Beit Jala, in Area B, just across the hill from the bird-ringing station.

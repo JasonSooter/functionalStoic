@@ -2,16 +2,12 @@
 publish: true
 title: Big Rusty
 created: 2024-11-03
-modified: 2026-11-02T14:14:39.000Z
-published: 2026-11-02T14:14:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Big Rusty.svg
+modified: 2026-11-07T07:00:12.227Z
+published: 2026-11-07T07:00:12.227Z
 aliases: []
 books:
-  - Yet another bike ride to find Burlington County’s trolls — and some of its best pizza
+  - Yet another bike ride to find Burlington County’s trolls — and some of its best
+    pizza
   - I went troll-hunting in Burlington County!
 categories:
   - "[[Places]]"
@@ -22,6 +18,10 @@ icon: newspaper
 location:
   - 39.9762
   - -74.8263
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Big Rusty.svg
 ---
@@ -31,14 +31,14 @@ image: Attachments/Places/Big Rusty.svg
 Public art site in Hainesport, Burlington County, [[New Jersey]], home to Thomas Dambo's original troll. It is the destination everyone was most excited about on a bike ride to find the county's trolls.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Yet another bike ride to find Burlington County’s trolls — and some of its best pizza | alliumstozinnias | subject | Big Rusty is Thomas Dambo's original troll, living down an unpaved road in Hainesport since June 2023. |
 | I went troll-hunting in Burlington County! | alliumstozinnias | journey waypoint | The biggest, permanent troll by Route 38 in Hainesport dwarfs the author's bike. |
 
-## Yet another bike ride to find Burlington County’s trolls — and some of its best pizza — alliumstozinnias (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9762&mlon=-74.8263#map=16/39.9762/-74.8263) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9762,-74.8263)
 
+## Yet another bike ride to find Burlington County’s trolls — and some of its best pizza — alliumstozinnias (2024)
 Source: [Original](https://exploringbybike.com/2024/12/18/yet-another-bike-ride-to-find-burlington-countys-trolls-and-some-of-its-best-pizza/) · [Readwise highlight](https://read.readwise.io/read/01m5edgeqdtr3fy8p8tg0dx98j)
 
 > Turn right by the law office sign and keep going all the way back — and there is Big Rusty!
@@ -48,7 +48,6 @@ Source: [Original](https://exploringbybike.com/2024/12/18/yet-another-bike-ride-
 - **Why it matters:** He is the destination everyone was most excited about; the trek is a local riff on this work.
 
 ## I went troll-hunting in Burlington County! — alliumstozinnias (2024)
-
 Source: [Original](https://exploringbybike.com/2024/10/23/i-went-troll-hunting-in-burlington-county/) · [Readwise highlight](https://read.readwise.io/read/01m5f0rk2g6svfdh5a0nt0cb0v)
 
 > He lives next to an abandoned ceramics factory down an unmarked dirt road next to Pandora’s Diner (Pandora 4 on Google Maps) on Route 38 in Hainesport.

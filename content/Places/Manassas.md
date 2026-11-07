@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Manassas
+created: 2024-05-18
+modified: 2026-11-07T06:53:37.347Z
+published: 2026-11-07T06:53:37.347Z
 aliases:
   - Manassas, Virginia
   - Manassas National Battlefield Park
-title: Manassas
-created: 2024-05-18
-modified: 2026-11-02T15:21:50.000Z
-published: 2026-11-02T15:21:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Manassas.svg
 books:
   - How to Be an Antiracist
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 38.7514
   - -77.4764
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Virginia]]"
 image: Attachments/Places/Manassas.svg
 ---
@@ -32,17 +31,17 @@ image: Attachments/Places/Manassas.svg
 Independent city in Northern Virginia site of the Bull Run battles. It turns up in How to Be an Antiracist (Ibram X. Kendi): Confederate-memorial town where Kendi's family lived; irony of representing Stonewall Jackson High.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | backdrop | Confederate-memorial town where Kendi's family lived; irony of representing Stonewall Jackson High. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.7514&mlon=-77.4764#map=11/38.7514/-77.4764) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.7514,-77.4764)
 
 ## Sub-places
 
 - [[Stonewall Jackson High School (Manassas)]]
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
-
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fmrp35fp5patysqfkjy8hs)
 
 > I would have learned about all those Confederate memorials surrounding me in Manassas, Virginia, like Robert E. Lee’s dead army.

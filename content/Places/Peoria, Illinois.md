@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Peoria
 title: Peoria, Illinois
 created: 2025-05-14
-modified: 2026-11-07T06:21:24.000Z
-published: 2026-11-07T06:21:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Peoria, Illinois.svg
+modified: 2026-11-07T06:54:31.664Z
+published: 2026-11-07T06:54:31.664Z
+aliases:
+  - Peoria
 books:
   - Abundance
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 40.6928
   - -89.5906
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Illinois]]"
 image: Attachments/Places/Peoria, Illinois.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Peoria, Illinois.svg
 Peoria is a city on the Illinois River in central Illinois. In _Abundance_ it is where wartime scientists found how to mass-produce penicillin.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | turning point | Wartime scientists here found that 'corn steep' boosted penicillin yields tenfold, a key step in mass production. |
 
-## Abundance — Ezra Klein & Derek Thompson (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.6928&mlon=-89.5906#map=16/40.6928/-89.5906) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.6928,-89.5906)
 
+## Abundance — Ezra Klein & Derek Thompson (2025)
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m75933xjnc755drtm3rj6e)
 
 > With OSRD’s encouragement, scientists in Peoria, Illinois, discovered that adding “corn steep”—water soaked with corn—could increase penicillin production tenfold.

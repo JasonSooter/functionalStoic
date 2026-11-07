@@ -2,17 +2,14 @@
 publish: true
 title: Saddle Horn Drive and River Pass Road (Timnath)
 created: 2025-01-12
-modified: 2026-11-02T20:54:40.000Z
-published: 2026-11-02T20:54:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Saddle Horn Drive and River Pass Road (Timnath).svg
+modified: 2026-11-07T07:02:40.736Z
+published: 2026-11-07T07:02:40.736Z
 aliases: []
 books:
-  - National Bike Summit, Hughes Stadium, Intersection / Facility Focus Input, Winter Bike from Work Bash, and More!
-  - Colorado Hands-Free Law, Ollie Stratton Trial, Scheels Giving Campaign, Winter Bike from Work Bash, and More!
+  - National Bike Summit, Hughes Stadium, Intersection / Facility Focus Input, Winter
+    Bike from Work Bash, and More!
+  - Colorado Hands-Free Law, Ollie Stratton Trial, Scheels Giving Campaign, Winter
+    Bike from Work Bash, and More!
 categories:
   - "[[Places]]"
 color: purple
@@ -22,6 +19,10 @@ icon: newspaper
 location:
   - 40.5086
   - -104.9583
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Saddle Horn Drive and River Pass Road (Timnath).svg
 ---
@@ -31,14 +32,14 @@ image: Attachments/Places/Saddle Horn Drive and River Pass Road (Timnath).svg
 Intersection in Timnath, [[Colorado]], where 10-year-old Ollie Stratton was killed in 2023; it appears in two Bike Fort Collins newsletters on the trial and bike safety.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | National Bike Summit, Hughes Stadium, Intersection / Facility Focus Input, Winter Bike from Work Bash, and More! | Bike Fort Collins | setting | A jury found a driver guilty of careless driving causing the death of 10-year-old Ollie Stratton at this crossing in 2023. |
 | Colorado Hands-Free Law, Ollie Stratton Trial, Scheels Giving Campaign, Winter Bike from Work Bash, and More! | Bike Fort Collins | subject | A news item reports a jury verdict in the death of 10-year-old Ollie Stratton, struck on his bicycle while crossing River Pass Road. |
 
-## National Bike Summit, Hughes Stadium, Intersection / Facility Focus Input, Winter Bike from Work Bash, and More! — Bike Fort Collins (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5086&mlon=-104.9583#map=16/40.5086/-104.9583) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.5086,-104.9583)
 
+## National Bike Summit, Hughes Stadium, Intersection / Facility Focus Input, Winter Bike from Work Bash, and More! — Bike Fort Collins (2025)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5eddskdm4939pschyb0g36z)
 
 > The tragic incident occurred on the evening of August 2, 2023, in Timnath, Colorado, when Ollie was riding his bicycle south on Saddle Horn Drive and crossing River Pass Road.
@@ -48,7 +49,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5eddskdm4939pschyb
 - **Why it matters:** The crash site is the scene of the sobering news item, tied to the group's bike-safety advocacy.
 
 ## Colorado Hands-Free Law, Ollie Stratton Trial, Scheels Giving Campaign, Winter Bike from Work Bash, and More! — Bike Fort Collins (2024)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5eddvvrsebam2t80kkk8m9d)
 
 > The tragic incident occurred on the evening of August 2, 2023, in Timnath, Colorado, when Ollie was riding his bicycle south on Saddle Horn Drive and crossing River Pass Road.

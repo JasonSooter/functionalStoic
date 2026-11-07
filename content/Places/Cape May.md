@@ -2,13 +2,8 @@
 publish: true
 title: Cape May
 created: 2024-10-04
-modified: 2026-11-02T14:15:13.000Z
-published: 2026-11-02T14:15:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Cape May.svg
+modified: 2026-11-07T06:52:51.720Z
+published: 2026-11-07T06:52:51.720Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +16,10 @@ icon: book
 location:
   - 38.9333
   - -74.9214
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Cape May.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Cape May.svg
 Seaside city at the southern tip of New Jersey; in _Life on Air_ Attenborough watches a million horseshoe crabs spawn on its beach.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough watches a million horseshoe crabs spawn on its beach. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9333&mlon=-74.9214#map=16/38.9333/-74.9214) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9333,-74.9214)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7jtn6kspjzwvgb1cq99d)
 
 > We arrived on Cape May in the late afternoori.

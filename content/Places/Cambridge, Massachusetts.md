@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Cambridge, MA
 title: Cambridge, Massachusetts
 created: 2015-11-28
-modified: 2026-11-02T14:15:05.000Z
-published: 2026-11-02T14:15:05.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Cambridge, Massachusetts.svg
+modified: 2026-11-07T06:52:05.253Z
+published: 2026-11-07T06:52:05.253Z
+aliases:
+  - Cambridge, MA
 books:
   - The Ultimate Guide To Frugal Boston Living
   - Before We Were Mr. and Mrs. Frugalwoods
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 42.3736
   - -71.1106
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/Cambridge, Massachusetts.svg
 ---
@@ -38,8 +37,9 @@ City across the Charles River from Boston in [[Massachusetts]]. Frugalwoods' gui
 | The Ultimate Guide To Frugal Boston Living | Mrs. Frugalwoods | subject | The authors' walkable home base, their case that dense Cambridge and Boston make frugality easy. |
 | Before We Were Mr. and Mrs. Frugalwoods | Mrs. Frugalwoods | setting | The cheap, dank basement flat that let the couple save for a house. |
 
-## The Ultimate Guide To Frugal Boston Living — Mrs. Frugalwoods (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3736&mlon=-71.1106#map=11/42.3736/-71.1106) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3736,-71.1106)
 
+## The Ultimate Guide To Frugal Boston Living — Mrs. Frugalwoods (2015)
 Source: [Original](https://www.frugalwoods.com/2015/08/28/the-ultimate-guide-to-frugal-boston-living/) · [Readwise highlight](https://read.readwise.io/read/01m5gbxz2240r5rzgz2f98dd4q)
 
 > The ability to walk out our front door and essentially get anywhere we need to go is a phenomenal luxury of living in Cambridge.
@@ -49,7 +49,6 @@ Source: [Original](https://www.frugalwoods.com/2015/08/28/the-ultimate-guide-to-
 - **Why it matters:** The city is the subject of the guide.
 
 ## Before We Were Mr. and Mrs. Frugalwoods — Mrs. Frugalwoods (2016)
-
 Source: [Original](https://www.frugalwoods.com/2016/01/28/before-we-were-mr-and-mrs-frugalwoods/) · [Readwise highlight](https://read.readwise.io/read/01m5j6jtm5vz64s6z02taavysd)
 
 > Our housing costs plummeted when I moved into Mr. FW’s weird/gross one-bedroom basement apartment in Cambridge.
@@ -59,5 +58,4 @@ Source: [Original](https://www.frugalwoods.com/2016/01/28/before-we-were-mr-and-
 - **Why it matters:** The decision not to scale up housing let them save the down payment for their Cambridge house.
 
 ## Sub-places
-
 - [[MIT wiring closet (Aaron Swartz)]]

@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Arrowhead (Pittsfield)
+created: 2024-08-21
+modified: 2026-11-07T06:55:27.100Z
+published: 2026-11-07T06:55:27.100Z
 aliases:
   - Arrowhead
   - Herman Melville House
-title: Arrowhead (Pittsfield)
-created: 2024-08-21
-modified: 2026-11-02T14:13:52.000Z
-published: 2026-11-02T14:13:52.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Arrowhead (Pittsfield).svg
 books:
   - "[[Dispatch From Herman Melville’s Farm]]"
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 42.4154
   - -73.2488
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pittsfield]]"
 image: Attachments/Places/Arrowhead (Pittsfield).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Arrowhead (Pittsfield).svg
 Arrowhead is Herman Melville's farmhouse in Pittsfield, Massachusetts. It turns up in Dispatch from Herman Melville’s Farm (Cal Newport): The essay is about how this specific place shaped Melville's writing life; it is the whole subject.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Dispatch From Herman Melville’s Farm\|Dispatch from Herman Melville’s Farm]] | Cal Newport | subject | Newport visits Arrowhead, the 160-acre farm Melville bought in 1850 next to his uncle's plot near Pittsfield. |
 
-## Dispatch from Herman Melville’s Farm — Cal Newport (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.4154&mlon=-73.2488#map=16/42.4154/-73.2488) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.4154,-73.2488)
 
+## Dispatch from Herman Melville’s Farm — Cal Newport (2024)
 Source: [[Dispatch From Herman Melville’s Farm]] · [Original](https://calnewport.com/dispatch-from-herman-melvilles-farm/) · [Readwise highlight](https://read.readwise.io/read/01m5fbgrr0twtacy2pfwn9751z)
 
 > A few days ago, I travelled down to Arrowhead, now preserved by the Berkshire Historical Society, to better understand the writing-centered life that Melville constructed.

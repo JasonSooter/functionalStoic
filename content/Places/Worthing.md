@@ -2,13 +2,8 @@
 publish: true
 title: Worthing
 created: 2026-10-23
-modified: 2026-11-06T20:36:44.000Z
-published: 2026-11-06T20:36:44.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Worthing.svg
+modified: 2026-11-07T07:01:47.179Z
+published: 2026-11-07T07:01:47.179Z
 aliases: []
 books:
   - "[[The Importance of Being Earnest]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 50.8147
   - -0.3714
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[West Sussex]]"
 image: Attachments/Places/Worthing.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Worthing.svg
 Worthing is a seaside town on the Sussex coast of southern England. Jack in _The Importance of Being Earnest_ takes his surname from a first-class ticket to it; Wilde began writing the play while staying there in 1894.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Importance of Being Earnest]] | Oscar Wilde | subject | Jack's surname comes from the first-class ticket for Worthing in Mr. Cardew's pocket when he found the baby |
 
-## The Importance of Being Earnest — Oscar Wilde (1895)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.8147&mlon=-0.3714#map=16/50.8147/-0.3714) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.8147,-0.3714)
 
+## The Importance of Being Earnest — Oscar Wilde (1895)
 Source: [[The Importance of Being Earnest]] · [Original](https://openlibrary.org/works/OL27776452W) · [Readwise highlight](https://read.readwise.io/read/01m5m76cdw5zgp6fqv6j8adcyc)
 
 > Worthing is a place in Sussex. It is a seaside resort.

@@ -2,13 +2,8 @@
 publish: true
 title: Merrimack Street (Lowell)
 created: 2024-05-18
-modified: 2026-11-02T15:35:02.000Z
-published: 2026-11-02T15:35:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Merrimack Street (Lowell).svg
+modified: 2026-11-07T06:55:48.702Z
+published: 2026-11-07T06:55:48.702Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 42.6479
   - -71.3181
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Lowell, Massachusetts]]"
 image: Attachments/Places/Merrimack Street (Lowell).svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Merrimack Street (Lowell).svg
 Merrimack Street is the main street of downtown Lowell, Massachusetts. It turns up in Walkable City (Jeff Speck): The near-miss is the book's opening personal anecdote of a street engineered for traffic failing pedestrians.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | setting | Speck, planning Lowell's downtown, dines on Merrimack Street with friends, a toddler in a stroller and his pregnant wife. |
 
-## Walkable City — Jeff Speck (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.6479&mlon=-71.3181#map=10/42.6479/-71.3181) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.6479,-71.3181)
 
+## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjdmcwcwrejxrn89znqg2)
 
 > A couple of years ago, while I was working on a plan for Lowell, Massachusetts, some old high-school friends joined us for dinner on Merrimack Street, the heart of a lovely nineteenth-century downtown.

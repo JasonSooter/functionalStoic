@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Disney Hall
 title: Walt Disney Concert Hall
 created: 2015-11-28
-modified: 2026-11-06T17:31:50.000Z
-published: 2026-11-06T17:31:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Walt Disney Concert Hall.svg
+modified: 2026-11-07T06:58:43.992Z
+published: 2026-11-07T06:58:43.992Z
+aliases:
+  - Disney Hall
 books:
   - "[[Walkable City]]"
   - The Software Behind Frank Gehry’s Geometrically Complex Architecture
@@ -23,6 +18,10 @@ icon: book
 location:
   - 34.0553
   - -118.25
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Walt Disney Concert Hall.svg
 ---
@@ -32,14 +31,14 @@ image: Attachments/Places/Walt Disney Concert Hall.svg
 Walt Disney Concert Hall is a building in Los Angeles. It turns up in Walkable City (Jeff Speck): A second example in the 'slippery edges' argument.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Speck uses Gehry's Disney Hall as an example of a building whose perimeter is mostly blank wall. |
 | The Software Behind Frank Gehry’s Geometrically Complex Architecture | Priceonomics | subject | Over-budget bids nearly sank the hall until Gehry's CATIA methods got it built, opening in 2003. |
 
-## Walkable City — Jeff Speck (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0553&mlon=-118.25#map=16/34.0553/-118.25) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0553,-118.25)
 
+## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbp37fkt48a0z1qpzfc19c)
 
 > His Disney Hall, in Los Angeles, has about fifteen hundred feet of perimeter, perhaps one thousand feet of which is blank wall of the most slippery sort.
@@ -49,7 +48,6 @@ Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695
 - **Why it matters:** A second example in the 'slippery edges' argument. It is brief and minor next to Bilbao.
 
 ## The Software Behind Frank Gehry’s Geometrically Complex Architecture — Priceonomics (2015)
-
 Source: [Original](http://priceonomics.com/the-software-behind-frank-gehrys-geometrically/) · [Readwise highlight](https://read.readwise.io/read/01m5g0dy35tp2159y8z5c3s9x3)
 
 > Meanwhile, Gehry had been struggling with a larger project: the Walt Disney Concert Hall in Los Angeles.

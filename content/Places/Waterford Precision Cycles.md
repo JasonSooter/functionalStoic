@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Waterford Bicycle Factory
 title: Waterford Precision Cycles
 created: 2025-12-19
-modified: 2026-11-06T20:29:06.000Z
-published: 2026-11-06T20:29:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Waterford Precision Cycles.svg
+modified: 2026-11-07T07:00:05.197Z
+published: 2026-11-07T07:00:05.197Z
+aliases:
+  - Waterford Bicycle Factory
 books:
   - "Closure: Final Days of the Waterford Bicycle Factory"
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 42.7997
   - -88.2358
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Wisconsin]]"
 image: Attachments/Places/Waterford Precision Cycles.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Waterford Precision Cycles.svg
 Bicycle frame factory in Waterford, [[Wisconsin]], USA, home of Waterford and Gunnar frames, which closed in 2023 and appears in the reading as the subject of a photo essay on its final days.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Closure: Final Days of the Waterford Bicycle Factory | The Radavist | subject | A photo book on the last days of an American frame factory. |
 
-## Closure: Final Days of the Waterford Bicycle Factory — The Radavist (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.7997&mlon=-88.2358#map=10/42.7997/-88.2358) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.7997,-88.2358)
 
+## Closure: Final Days of the Waterford Bicycle Factory — The Radavist (2025)
 Source: [Original](https://theradavist.com/closure-final-days-of-the-waterford-bicycle-factory) · [Readwise highlight](https://read.readwise.io/read/01m5ce3cvrctymspn6v55y40w1)
 
 > This is a three-part photo essay that tells the closing story of the 2023 Waterford Bicycle Factory in Waterford, Wisconsin, an iconic American bicycle manufacturer.

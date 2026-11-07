@@ -2,13 +2,8 @@
 publish: true
 title: University of Washington
 created: 2016-08-25
-modified: 2026-11-06T11:25:20.000Z
-published: 2026-11-06T11:25:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/University of Washington.svg
+modified: 2026-11-07T06:55:41.562Z
+published: 2026-11-07T06:55:41.562Z
 aliases: []
 books:
   - Science says lasting relationships come down to 2 basic traits
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 47.6542
   - -122.3081
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Seattle]]"
 image: Attachments/Places/University of Washington.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/University of Washington.svg
 Public university in Seattle. Business Insider describes John Gottman's 1990 "love lab" on its campus.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Science says lasting relationships come down to 2 basic traits | Emily Esfahani Smith | setting | Gottman built a lab on the University of Washington campus dressed as a bed and breakfast and invited 130 newlywed couples to spend the… |
 
-## Science says lasting relationships come down to 2 basic traits — Emily Esfahani Smith (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.6542&mlon=-122.3081#map=10/47.6542/-122.3081) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.6542,-122.3081)
 
+## Science says lasting relationships come down to 2 basic traits — Emily Esfahani Smith (2015)
 Source: [Original](http://www.businessinsider.com/lasting-relationships-rely-on-traits-2015-11) · [Readwise highlight](https://read.readwise.io/read/01m5jy7b0nxkfkhxqv6bwwa9ye)
 
 > In a follow-up study in 1990, he designed a lab on the University of Washington campus to look like a beautiful bed and breakfast retreat.

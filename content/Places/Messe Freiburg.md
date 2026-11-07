@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Messe Freiburg
+created: 2026-04-21
+modified: 2026-11-07T06:56:02.496Z
+published: 2026-11-07T06:56:02.496Z
 aliases:
   - Neue Messe Freiburg
   - Messegelände Freiburg
-title: Messe Freiburg
-created: 2026-04-21
-modified: 2026-11-02T15:35:02.000Z
-published: 2026-11-02T15:35:02.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Messe Freiburg.svg
 books:
   - Stadt Freiburg lädt zum Empfang für SC Freiburg nach Europa-League-Finale
   - "Lauf in den Frühling: Freiburg-Marathon lockt 18.500 Läufer"
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 48.0158
   - 7.8404
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Freiburg]]"
 image: Attachments/Places/Messe Freiburg.svg
 ---
@@ -32,14 +31,14 @@ image: Attachments/Places/Messe Freiburg.svg
 Freiburg's exhibition grounds (the "Neue Messe") in the north-west of [[Freiburg|Freiburg]]. They are where the city hosts crowds, from the SC Freiburg Europa League reception to the spring marathon's start and finish.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Stadt Freiburg Lädt Zum Empfang Für SC Freiburg Nach Europa-League-Finale – Anmeldung Erforderlich\|Stadt Freiburg lädt zum Empfang für SC Freiburg nach Europa-League-Finale]] | Matthias Joers | setting | Venue of the city's reception for SC Freiburg after the Europa League final. |
 | [[Lauf in Den Frühling - Freiburg-Marathon Lockt 18.500 Läufer\|Lauf in den Frühling: Freiburg-Marathon lockt 18.500 Läufer]] | Matthias Joers | setting | Start, finish and expo of the spring marathon. |
 
-## Stadt Freiburg lädt zum Empfang für SC Freiburg nach Europa-League-Finale — Matthias Joers (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.0158&mlon=7.8404#map=16/48.0158/7.8404) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0158,7.8404)
 
+## Stadt Freiburg lädt zum Empfang für SC Freiburg nach Europa-League-Finale — Matthias Joers (2026)
 Source: [Original](https://www.freiburger-wochenbericht.de/stadt-freiburg-laedt-zum-empfang-fuer-sc-freiburg-nach-europa-league-finale-anmeldung-erforderlich/) · [Readwise highlight](https://read.readwise.io/read/01m5bre9h8fxzh04m8jakftkfq)
 
 > Der SC Freiburg wird am Donnerstag, 21. Mai, mit einem großen Empfang an der Neuen Messe in Freiburg für seinen Einzug ins Europa-League-Finale gewürdigt.
@@ -49,7 +48,6 @@ Source: [Original](https://www.freiburger-wochenbericht.de/stadt-freiburg-laedt-
 - **Why it matters:** It is where the city celebrates the club's biggest success; the venue was chosen for capacity, so the place itself carries little meaning beyond that.
 
 ## Lauf in den Frühling: Freiburg-Marathon lockt 18.500 Läufer — Matthias Joers (2026)
-
 Source: [Original](https://www.freiburger-wochenbericht.de/lauf-in-den-fruehling-freiburg-marathon-lockt-18-500-laeufer/) · [Readwise highlight](https://read.readwise.io/read/01m5bs6fwfvaswrw2bk95p54fb)
 
 > Der Start- und Zielbereich ist wie üblich auf dem Messegelände.

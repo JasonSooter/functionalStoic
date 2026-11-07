@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Changsha South station
+created: 2026-11-01
+modified: 2026-11-07T06:54:13.226Z
+published: 2026-11-07T06:54:13.226Z
 aliases:
   - Changsha South railway station
   - Changshanan
-title: Changsha South station
-created: 2026-11-01
-modified: 2026-11-02T14:15:25.000Z
-published: 2026-11-02T14:15:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Changsha South station.svg
 books:
   - 2,000 km Overnight on China’s Bullet Train with Beds
 categories:
@@ -23,6 +18,10 @@ icon: video
 location:
   - 28.1503
   - 113.0589
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Changsha]]"
 image: Attachments/Places/Changsha South station.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Changsha South station.svg
 Major high-speed station in Changsha, Hunan, where the Beijing–Guangzhou and Shanghai–Kunming lines meet. Simply Railway's overnight sleeper rolls through it late at night.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 2,000 km Overnight on China’s Bullet Train with Beds | Simply Railway | journey waypoint | At 22:50 the sleeper rolls slowly through; the narrator explains the crossroads of two high-speed lines, then goes to sleep. |
 
-## 2,000 km Overnight on China’s Bullet Train with Beds — Simply Railway
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.1503&mlon=113.0589#map=16/28.1503/113.0589) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.1503,113.0589)
 
+## 2,000 km Overnight on China’s Bullet Train with Beds — Simply Railway
 Source: [Original](https://www.youtube.com/watch?v=XD79kv_CanM) · [Readwise highlight](https://read.readwise.io/read/01m6cg5fsj01e99ykb5a6yngct)
 
 > 22:50. We're rolling slowly

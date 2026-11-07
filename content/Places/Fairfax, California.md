@@ -1,18 +1,13 @@
 ---
 publish: true
+title: Fairfax, California
+created: 2026-03-08
+modified: 2026-11-07T06:53:08.981Z
+published: 2026-11-07T06:53:08.981Z
 aliases:
   - Fairfax
   - Repack
   - Fairfax Cyclery
-title: Fairfax, California
-created: 2026-03-08
-modified: 2026-11-02T14:16:35.000Z
-published: 2026-11-02T14:16:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Fairfax, California.svg
 books:
   - "[[It's All About the Bike]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 37.9872
   - -122.5889
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Fairfax, California.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Fairfax, California.svg
 Small town in Marin County at the foot of Mount Tamalpais, north of San Francisco, in [[California]]. It is the setting of the wheel-building chapter of Robert Penn's _It's All About the Bike_, including the Repack ride that links to the birth of the mountain bike.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike]] | Robert Penn | setting | Gravy's wheel workshop at the Fairfax Cyclery, and the Repack descent above town. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.9872&mlon=-122.5889#map=11/37.9872/-122.5889) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.9872,-122.5889)
 
+## Sub-places
 - [[Fairfax Cyclery]]
 - [[Repack]]
 

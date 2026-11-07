@@ -2,13 +2,8 @@
 publish: true
 title: Chartres Street
 created: 2025-12-02
-modified: 2026-11-02T14:15:13.000Z
-published: 2026-11-02T14:15:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Chartres Street.svg
+modified: 2026-11-07T06:54:30.940Z
+published: 2026-11-07T06:54:30.940Z
 aliases: []
 books:
   - "[[The Awakening]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 29.9586
   - -90.065
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Orleans]]"
 image: Attachments/Places/Chartres Street.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Chartres Street.svg
 Street in the French Quarter of [[New Orleans]], where Kate Chopin places the Lebruns' house in The Awakening.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Awakening]] | Kate Chopin | setting | The prison-like Lebrun house where Edna hears Robert's letters read. |
 
-## The Awakening — Kate Chopin (1899)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.9586&mlon=-90.065#map=10/29.9586/-90.065) · [Google Maps](https://www.google.com/maps/search/?api=1&query=29.9586,-90.065)
 
+## The Awakening — Kate Chopin (1899)
 Source: [[The Awakening]] · [Original](https://openlibrary.org/works/OL65430W) · [Readwise highlight](https://read.readwise.io/read/01m5d21kd05rsh8fqb6029sfs6)
 
 > And she also knew where the Lebruns lived, on Chartres Street.

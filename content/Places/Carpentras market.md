@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Carpentras
 title: Carpentras market
 created: 2025-07-27
-modified: 2026-11-02T14:15:06.000Z
-published: 2026-11-02T14:15:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Carpentras market.svg
+modified: 2026-11-07T06:53:13.922Z
+published: 2026-11-07T06:53:13.922Z
+aliases:
+  - Carpentras
 books:
   - Where randonneuring medals go
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 44.0554
   - 5.0488
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Carpentras market.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Carpentras market.svg
 Weekly market in Carpentras, Vaucluse, [[Provence]], where a vendor's pile of a former cyclist's randonneuring medals prompts a Mostly Bikes x Me post.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Where Randonneuring Medals Go]] | Mostly Bikes x Me | setting | A vendor's heap of a former cyclist's (M. Richard, 1965-1985) audax medals and Paris-Brest-Paris brevet cards. |
 
-## Where randonneuring medals go — Mostly Bikes x Me (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.0554&mlon=5.0488#map=10/44.0554/5.0488) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.0554,5.0488)
 
+## Where randonneuring medals go — Mostly Bikes x Me (2025)
 Source: [Original](https://funkadelic.net/pages/15252330354.html) · [Readwise highlight](https://read.readwise.io/read/01m5dqwy6z1qf90vzp3bf3j2gt)
 
 > Piled in the corner of a folding table at the Carpentras Sunday market: a lifetime of randonneuring accomplishments.

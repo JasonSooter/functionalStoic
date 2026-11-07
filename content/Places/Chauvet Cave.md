@@ -2,13 +2,8 @@
 publish: true
 title: Chauvet Cave
 created: 2016-10-20
-modified: 2026-11-02T14:15:20.000Z
-published: 2026-11-02T14:15:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Chauvet Cave.svg
+modified: 2026-11-07T06:54:32.152Z
+published: 2026-11-07T06:54:32.152Z
 aliases: []
 books:
   - 25 Documentaries Everybody Should Watch Pt. 2
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 44.3875
   - 4.4142
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[France]]"
 image: Attachments/Places/Chauvet Cave.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Chauvet Cave.svg
 Cave in the Ardèche, southern France, with some of the oldest known cave paintings. A subject in Martijn Schirp's “25 Documentaries Everybody Should Watch Pt. 2”: Closed French cave with 32,000-year-old paintings, subject of the film Cave of Forgotten Dreams.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 25 Documentaries Everybody Should Watch Pt. 2 | Martijn Schirp | subject | Closed French cave with 32,000-year-old paintings, subject of the film Cave of Forgotten Dreams |
 
-## 25 Documentaries Everybody Should Watch Pt. 2 — Martijn Schirp (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.3875&mlon=4.4142#map=16/44.3875/4.4142) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.3875,4.4142)
 
+## 25 Documentaries Everybody Should Watch Pt. 2 — Martijn Schirp (2016)
 Source: [Original](https://highexistence.com/25-documentaries-everybody-watch-part-ii/) · [Readwise highlight](https://read.readwise.io/read/01m5jkz64fpaqrec78n7e1p7x2)
 
 > In a fully preserved cave in France, in which the general public is barred from entering, paintings by our very own ancestors show a world long forgotten.

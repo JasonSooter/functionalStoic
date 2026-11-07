@@ -2,13 +2,8 @@
 publish: true
 title: Surabaya
 created: 2024-10-04
-modified: 2026-11-04T01:29:14.000Z
-published: 2026-11-04T01:29:14.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Surabaya.svg
+modified: 2026-11-07T07:00:55.831Z
+published: 2026-11-07T07:00:55.831Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +16,10 @@ icon: book
 location:
   - -7.2458
   - 112.7378
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Indonesia]]"
 image: Attachments/Places/Surabaya.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Surabaya.svg
 Port city in East Java, Indonesia; the base of Attenborough's 1956 Zoo Quest for the Komodo dragon in _Life on Air_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | The base of Attenborough's 1956 Zoo Quest for the Komodo dragon. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-7.2458&mlon=112.7378#map=16/-7.2458/112.7378) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-7.2458,112.7378)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2fxdz0d7yb19ngs48j3k)
 
 > Surabaya is the second biggest city in Java.

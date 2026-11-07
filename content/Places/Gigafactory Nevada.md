@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Gigafactory Nevada
+created: 2015-11-28
+modified: 2026-11-07T06:57:38.794Z
+published: 2026-11-07T06:57:38.794Z
 aliases:
   - Giga Nevada
   - Gigafactory 1
-title: Gigafactory Nevada
-created: 2015-11-28
-modified: 2026-11-02T14:16:51.000Z
-published: 2026-11-02T14:16:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Gigafactory Nevada.svg
 books:
   - How Tesla Will Change The World
   - We are now witnessing Elon Musk’s slow-motion disruption of the global auto industry
@@ -24,6 +19,10 @@ icon: newspaper
 location:
   - 39.538
   - -119.44
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nevada]]"
 image: Attachments/Places/Gigafactory Nevada.svg
 ---
@@ -33,24 +32,23 @@ image: Attachments/Places/Gigafactory Nevada.svg
 Tesla's battery factory east of Reno, Nevada. In a Wait But Why post it is Tesla's answer to the cost of batteries.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Tesla Will Change The World | Tim Urban | subject | The battery factory meant to make electric cars affordable. |
 | We are now witnessing Elon Musk’s slow-motion disruption of the global auto industry | Steve LeVine | subject | Tesla's lithium-ion battery plant outside Reno, yet to make a single cell. |
 
-## How Tesla Will Change The World — Tim Urban (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.538&mlon=-119.44#map=16/39.538/-119.44) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.538,-119.44)
 
+## How Tesla Will Change The World — Tim Urban (2015)
 Source: [Original](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) · [Readwise highlight](https://read.readwise.io/read/01m5g16g874nhp4g6fp0h80rqn)
 
-> It’s a \$5 billion lithium-ion battery factory, currently being built in Nevada.
+> It’s a $5 billion lithium-ion battery factory, currently being built in Nevada.
 
 - **Role:** subject
 - **In the article:** Urban describes the factory then under construction: it will more than double the world's lithium-ion battery output, employ thousands and run on on-site renewable power.
 - **Why it matters:** It is the article's case for how electric cars will become cheap.
 
 ## We are now witnessing Elon Musk’s slow-motion disruption of the global auto industry — Steve LeVine (2016)
-
 Source: [Original](https://qz.com/656443/we-are-now-witnessing-elon-musks-slow-motion-disruption-of-the-global-auto-industry/) · [Readwise highlight](https://read.readwise.io/read/01m5jjrwptw7ar64pd4y8er5sx)
 
 > The place where it will be made–Musk’s vaunted Gigafactory, the gigantic lithium-ion battery plant he is building outside Reno, Nevada–“has yet to make a single cell,” Posawatz says.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Great Falls (Potomac)
 title: Patowmack Canal
 created: 2026-10-23T07:47:51.000Z
-modified: 2026-11-02T18:20:00.000Z
-published: 2026-11-02T18:20:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:54:06.866Z
+published: 2026-11-07T06:54:06.866Z
+aliases:
+  - Great Falls (Potomac)
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 38.9894
   - -77.2486
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Virginia]]"
+image: Attachments/Places/Patowmack Canal.svg
 ---
 
 # Patowmack Canal
@@ -29,13 +30,13 @@ within: "[[Virginia]]"
 Washington's skirting canals around the Great Falls and Little Falls of the Potomac, completed 1802. _Wedding of the Waters_ presents it as the failed rival to the Erie.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | subject | Washington's Potomac company fights floods and falls; traffic stays trifling and 'the Potomac won out'. |
 
-## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9894&mlon=-77.2486#map=16/38.9894/-77.2486) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9894,-77.2486)
 
+## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvdfvm7a0dd98m4y0e11d3)
 
 > The five locks at Great Falls were an even more herculean task that dragged on for another seven years.

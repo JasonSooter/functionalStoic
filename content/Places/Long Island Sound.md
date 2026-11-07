@@ -2,16 +2,12 @@
 publish: true
 title: Long Island Sound
 created: 2016-03-29
-modified: 2026-11-02T14:17:16.000Z
-published: 2026-11-02T14:17:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Long Island Sound.svg
+modified: 2026-11-07T07:04:54.796Z
+published: 2026-11-07T07:04:54.796Z
 aliases: []
 books:
-  - "The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic Revolution"
+  - "The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic\
+    \ Revolution"
 categories:
   - "[[Places]]"
 color: purple
@@ -22,6 +18,10 @@ icon: newspaper
 location:
   - 41.0967
   - -72.8811
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Long Island Sound.svg
 ---
 
@@ -30,13 +30,13 @@ image: Attachments/Places/Long Island Sound.svg
 Tidal estuary between Connecticut and Long Island, New York. A turning point in Bren Smith's “The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic Revolution”: Where he became an oysterman, lost his farm to Irene and Sandy, and developed 3D ocean farming.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic Revolution | Bren Smith | turning point | Where he became an oysterman, lost his farm to Irene and Sandy, and developed 3D ocean farming |
 
-## The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic Revolution — Bren Smith (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.0967&mlon=-72.8811#map=10/41.0967/-72.8811) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.0967,-72.8811)
 
+## The Seas Will Save Us: How an Army of Ocean Farmers are Starting an Economic Revolution — Bren Smith (2016)
 Source: [Original](https://medium.com/@bren_7821/an-army-of-ocean-farmers-on-the-frontlines-of-the-blue-green-economic-revolution-d5ae171285a3) · [Readwise highlight](https://read.readwise.io/read/01m5jjr644w3q4asj57sbdpsjb)
 
 > So I kept searching and ended up on Long Island Sound, where there was a program to attract young fishermen back into the industry by opening up shell-fishing grounds for the first time in 150 years.

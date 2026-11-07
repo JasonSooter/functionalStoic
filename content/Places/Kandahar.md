@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Khandahar
 title: Kandahar
 created: 2025-03-08
-modified: 2026-11-02T14:18:06.000Z
-published: 2026-11-02T14:18:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Kandahar.svg
+modified: 2026-11-07T06:57:06.625Z
+published: 2026-11-07T06:57:06.625Z
+aliases:
+  - Khandahar
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 31.62
   - 65.7158
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Afghanistan]]"
 image: Attachments/Places/Kandahar.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Kandahar.svg
 City in southern Afghanistan. A stop on the convoy route in Dervla Murphy's _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | Arrives after a 22-hour convoy-bus ride; one key for twenty rooms leaves her with strangers. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.62&mlon=65.7158#map=16/31.62/65.7158) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.62,65.7158)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kzfggg18tz3wz7exgapp)
 
 > I came straight to the hotel, got my sore bones into bed and slept till 2 p.m. This hotel is a filthy building, but again my bed is clean and the only furniture in the room, apart from bed and chair, is a fine solid writing desk which compensates for a lot.

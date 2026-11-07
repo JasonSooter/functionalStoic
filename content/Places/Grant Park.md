@@ -2,13 +2,8 @@
 publish: true
 title: Grant Park
 created: 2025-02-27
-modified: 2026-11-02T14:17:11.000Z
-published: 2026-11-02T14:17:11.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Grant Park.svg
+modified: 2026-11-07T07:00:02.953Z
+published: 2026-11-07T07:00:02.953Z
 aliases: []
 books:
   - "[[Range]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 41.8758
   - -87.6189
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Chicago]]"
 image: Attachments/Places/Grant Park.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Grant Park.svg
 Large park on the lakefront of downtown Chicago. A turning point in David Epstein's _Range_: Chicago park where self-taught guitarist Jack Cecchini soloed in a Vivaldi concerto.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | turning point | Chicago park where self-taught guitarist Jack Cecchini soloed in a Vivaldi concerto. |
 
-## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.8758&mlon=-87.6189#map=16/41.8758/-87.6189) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.8758,-87.6189)
 
+## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jjsnb7c0t9k0vpd2k3qrbf)
 
 > by thirty-one was so adept that he was chosen as the soloist to play a concerto by none other than Vivaldi accompanied by an orchestra for a crowd in Chicago’s Grant Park.

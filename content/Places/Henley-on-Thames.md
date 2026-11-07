@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Henley
 title: Henley-on-Thames
 created: 2025-04-19
-modified: 2026-11-02T14:17:27.000Z
-published: 2026-11-02T14:17:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Henley-on-Thames.svg
+modified: 2026-11-07T07:03:12.070Z
+published: 2026-11-07T07:03:12.070Z
+aliases:
+  - Henley
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 51.5357
   - -0.903
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oxfordshire]]"
 image: Attachments/Places/Henley-on-Thames.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Henley-on-Thames.svg
 Thames town in [[Oxfordshire]], home of the Henley Royal Regatta. In Three Men in a Boat it is busy with regatta preparations when George and the narrator walk in to meet friends.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | 'Getting ready for the regatta, and full of bustle'; the start of the rainy late walk back to the boat. |
 
-## Three Men in a Boat — Jerome K. Jerome (1889)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5357&mlon=-0.903#map=16/51.5357/-0.903) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5357,-0.903)
 
+## Three Men in a Boat — Jerome K. Jerome (1889)
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkymqd1bew1v48qq46r6pb)
 
 > Henley was getting ready for the regatta, and was full of bustle.

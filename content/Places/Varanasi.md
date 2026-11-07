@@ -2,13 +2,8 @@
 publish: true
 title: Varanasi
 created: 2025-09-24
-modified: 2026-11-06T14:23:13.000Z
-published: 2026-11-06T14:23:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Varanasi.svg
+modified: 2026-11-07T06:56:32.242Z
+published: 2026-11-07T06:56:32.242Z
 aliases: []
 books:
   - "[[On the Hippie Trail]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 25.3189
   - 83.0128
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Varanasi.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Varanasi.svg
 Holy Hindu city on the Ganges in Uttar Pradesh, India. In _On the Hippie Trail_ Rick joins pilgrims on the river at dawn and sees the burning ghats.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | turning point | Dawn on the Ganges: bathers, pilgrims and cremations on the burning ghat. |
 
-## On the Hippie Trail — Rick Steves (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=25.3189&mlon=83.0128#map=16/25.3189/83.0128) · [Google Maps](https://www.google.com/maps/search/?api=1&query=25.3189,83.0128)
 
+## On the Hippie Trail — Rick Steves (2025)
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjf3t2862evjr0bw21vev8)
 
 > Today we were up at 4:30 a.m. joining the other pilgrims to visit the Ganges River.

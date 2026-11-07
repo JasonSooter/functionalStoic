@@ -1,28 +1,28 @@
 ---
 publish: true
-aliases:
-  - Delmar Divide
 title: Delmar Boulevard
 created: 2025-11-25
-modified: 2026-11-02T14:16:10.000Z
-published: 2026-11-02T14:16:10.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Delmar Boulevard.svg
+modified: 2026-11-07T07:02:24.993Z
+published: 2026-11-07T07:02:24.993Z
+aliases:
+  - Delmar Divide
 books:
   - Why Cities Feel so Lonely Now.
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 38.6371,-90.2150
-geo_note: approximate (Scott Joplin House, 2658 Delmar Boulevard; no point is printed for the street itself)
+geo_note: approximate (Scott Joplin House, 2658 Delmar Boulevard; no point is printed
+  for the street itself)
 geo_source: Wikipedia (en)
 icon: video
 location:
   - 38.6371
   - -90.215
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[St Louis]]"
 image: Attachments/Places/Delmar Boulevard.svg
 ---
@@ -32,10 +32,11 @@ image: Attachments/Places/Delmar Boulevard.svg
 East–west boulevard across [[St Louis|St. Louis]], Missouri, cited in a video on urban loneliness as the line of the "Delmar Divide" between rich and poor.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Why Cities Feel So Lonely Now..md\|Why Cities Feel so Lonely Now.]] | Type Ashton | subject | The 'Delmar Divide' between rich and poor. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6371&mlon=-90.215#map=10/38.6371/-90.215) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6371,-90.215)
 
 ## Why Cities Feel so Lonely Now. — Type Ashton (2025)
 

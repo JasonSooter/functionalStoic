@@ -2,13 +2,8 @@
 publish: true
 title: Everett Middle School
 created: 2016-07-11
-modified: 2026-11-02T14:16:04.000Z
-published: 2026-11-02T14:16:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Everett Middle School.svg
+modified: 2026-11-07T06:52:46.563Z
+published: 2026-11-07T06:52:46.563Z
 aliases: []
 books:
   - "Beyond Data: Building Empathy in Adults Through Student Shadow Days"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 37.7635
   - -122.4294
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Mission District]]"
 image: Attachments/Places/Everett Middle School.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Everett Middle School.svg
 Public middle school in San Francisco's [[Mission District]]. Its principal makes shadowing students a regular practice in a KQED piece.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Beyond Data: Building Empathy in Adults Through Student Shadow Days | Katrina Schwartz | setting | Shadowing students becomes routine, used to probe survey data on belonging. |
 
-## Beyond Data: Building Empathy in Adults Through Student Shadow Days — Katrina Schwartz (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7635&mlon=-122.4294#map=16/37.7635/-122.4294) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7635,-122.4294)
 
+## Beyond Data: Building Empathy in Adults Through Student Shadow Days — Katrina Schwartz (2016)
 Source: [Original](https://ww2.kqed.org/mindshift/2016/03/22/beyond-data-building-empathy-in-adults-with-student-shadow-days/) · [Readwise highlight](https://read.readwise.io/read/01m5j7v2v5jytgvsfqxtnz3g7d)
 
 > That’s what Principal Lena Van Haren has done at Everett Middle School in San Francisco's Mission District.

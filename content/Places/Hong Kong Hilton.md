@@ -2,13 +2,8 @@
 publish: true
 title: Hong Kong Hilton
 created: 2015-11-28
-modified: 2026-11-02T14:17:29.000Z
-published: 2026-11-02T14:17:29.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hong Kong Hilton.svg
+modified: 2026-11-07T06:51:46.547Z
+published: 2026-11-07T06:51:46.547Z
 aliases: []
 books:
   - The Rise and Fall of the Hotel Mini-Bar
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 22.2798
   - 114.1605
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Hong Kong]]"
 image: Attachments/Places/Hong Kong Hilton.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Hong Kong Hilton.svg
 Former Hilton hotel in Central, Hong Kong, demolished in the 1990s. In a Priceonomics history of the hotel mini-bar it is where the in-room mini-bar was first rolled out.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Rise and Fall of the Hotel Mini-Bar | Priceonomics | turning point | First hotel to put a liquor-stocked mini-bar in every room, in 1974. |
 
-## The Rise and Fall of the Hotel Mini-Bar — Priceonomics (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=22.2798&mlon=114.1605#map=10/22.2798/114.1605) · [Google Maps](https://www.google.com/maps/search/?api=1&query=22.2798,114.1605)
 
+## The Rise and Fall of the Hotel Mini-Bar — Priceonomics (2015)
 Source: [Original](http://priceonomics.com/the-rise-and-fall-of-the-hotel-mini-bar/) · [Readwise highlight](https://read.readwise.io/read/01m5fzbsrc28hdf9tr686na168)
 
 > the Hong Kong Hilton became the first hotel to include a “liquor-stocked” mini-bar in each of its 840 rooms

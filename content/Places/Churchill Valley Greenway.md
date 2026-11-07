@@ -2,13 +2,8 @@
 publish: true
 title: Churchill Valley Greenway
 created: 2025-03-27
-modified: 2026-11-02T14:15:18.000Z
-published: 2026-11-02T14:15:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Churchill Valley Greenway.svg
+modified: 2026-11-07T06:56:14.297Z
+published: 2026-11-07T06:56:14.297Z
 aliases: []
 books:
   - Former Golf Courses Are Going Wild
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.4466
   - -79.8396
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pittsburgh]]"
 image: Attachments/Places/Churchill Valley Greenway.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Churchill Valley Greenway.svg
 Nature preserve in Churchill and Penn Hills, near [[Pittsburgh]], Pennsylvania, USA, a former golf course being rewilded in an article on former golf courses going wild.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Former Golf Courses Are Going Wild | Jennifer Cole | subject | Residents who had walked the abandoned course's cart paths resisted housing or industrial plans. |
 
-## Former Golf Courses Are Going Wild — Jennifer Cole (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4466&mlon=-79.8396#map=16/40.4466/-79.8396) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4466,-79.8396)
 
+## Former Golf Courses Are Going Wild — Jennifer Cole (2025)
 Source: [Original](https://reasonstobecheerful.world/rewilding-golf-courses/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqky7dw3bg9ttf6cph4f0)
 
 > “When the Churchill Valley Golf Club closed in 2013, it was bought by a private developer,”

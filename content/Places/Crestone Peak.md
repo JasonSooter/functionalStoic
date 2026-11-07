@@ -2,13 +2,8 @@
 publish: true
 title: Crestone Peak
 created: 2016-10-30
-modified: 2026-11-02T14:15:54.000Z
-published: 2026-11-02T14:15:54.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Crestone Peak.svg
+modified: 2026-11-07T06:59:24.274Z
+published: 2026-11-07T06:59:24.274Z
 aliases: []
 books:
   - "When adventure happens: Things don’t go as planned on Crestone Peak"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 37.9667
   - -105.5853
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Crestone Peak.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Crestone Peak.svg
 Fourteener in Colorado's Sangre de Cristo Range. A trip report turns back halfway up its Red Gully.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | When adventure happens: Things don’t go as planned on Crestone Peak | proactiveoutside1 | turning point | Slick rock and David's poor boot traction, plus building storm clouds, make them abandon the climb halfway up the gully |
 
-## When adventure happens: Things don’t go as planned on Crestone Peak — proactiveoutside1 (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.9667&mlon=-105.5853#map=16/37.9667/-105.5853) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.9667,-105.5853)
 
+## When adventure happens: Things don’t go as planned on Crestone Peak — proactiveoutside1 (2016)
 Source: [Original](https://proactiveoutside.wordpress.com/2016/08/16/when-adventure-happens-things-dont-go-as-planned-on-crestone-peak/) · [Readwise highlight](https://read.readwise.io/read/01m5jy7mxn2tbwxnd1jkr1nggj)
 
 > Some steeper hiking led to a signature feature in the middle of the mountain, the Red Gully, a water-worn strip of red rock that splits the center of the mountain’s south face.

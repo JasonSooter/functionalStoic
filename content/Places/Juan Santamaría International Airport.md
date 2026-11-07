@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Juan Santamaría International Airport
+created: 2015-11-28
+modified: 2026-11-07T06:56:19.269Z
+published: 2026-11-07T06:56:19.269Z
 aliases:
   - SJO
   - Aeropuerto Internacional Juan Santamaría
-title: Juan Santamaría International Airport
-created: 2015-11-28
-modified: 2026-11-02T14:17:49.000Z
-published: 2026-11-02T14:17:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Juan Santamaría International Airport.svg
 books:
   - Our 2 Week Costa Rica Vacation
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 9.9939
   - -84.2089
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Costa Rica]]"
 image: Attachments/Places/Juan Santamaría International Airport.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Juan Santamaría International Airport.svg
 Costa Rica's main international airport near Alajuela, outside San José. Retire by 40's trip ends there with a long, bizarre evening of waiting.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Our 2 Week Costa Rica Vacation | retirebyforty | turning point | Six hours early for a 1 am flight: a closed counter, a hunt for a pen and an immigration check because of their child. |
 
-## Our 2 Week Costa Rica Vacation — retirebyforty (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=9.9939&mlon=-84.2089#map=16/9.9939/-84.2089) · [Google Maps](https://www.google.com/maps/search/?api=1&query=9.9939,-84.2089)
 
+## Our 2 Week Costa Rica Vacation — retirebyforty (2015)
 Source: [Original](https://retireby40.org/our-2-week-costa-rica-vacation/) · [Readwise highlight](https://read.readwise.io/read/01m5gm1rfwr3yqp44kxg6h4mqa)
 
 > The Juan Santamaria airport is pretty small and there were only a few United Airline flights scheduled.

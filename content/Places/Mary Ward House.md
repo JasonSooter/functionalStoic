@@ -2,13 +2,8 @@
 publish: true
 title: Mary Ward House
 created: 2017-04-19
-modified: 2026-11-02T15:29:00.000Z
-published: 2026-11-02T15:29:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Mary Ward House.svg
+modified: 2026-11-07T06:54:36.392Z
+published: 2026-11-07T06:54:36.392Z
 aliases: []
 books:
   - Can Harvard’s most popular professor (and Confucius) radically change your life?
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 51.5252
   - -0.1274
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bloomsbury]]"
 image: Attachments/Places/Mary Ward House.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Mary Ward House.svg
 Edwardian building in Bloomsbury, London. A Guardian profile of Harvard's Michael Puett opens at a School of Life Sunday sermon held there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Can Harvard’s most popular professor (and Confucius) radically change your life? | Tim Dowling | setting | The piece opens at a School of Life Sunday sermon, where a secular congregation sings and then hears Michael Puett lecture on Chinese… |
 
-## Can Harvard’s most popular professor (and Confucius) radically change your life? — Tim Dowling (2017)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5252&mlon=-0.1274#map=16/51.5252/-0.1274) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5252,-0.1274)
 
+## Can Harvard’s most popular professor (and Confucius) radically change your life? — Tim Dowling (2017)
 Source: [Original](https://www.theguardian.com/world/2017/mar/26/can-harvards-most-popular-professor-and-confucius-radically-change-your-life) · [Readwise highlight](https://read.readwise.io/read/01m5k5qm7kn6n4azvwh4kye7z1)
 
 > They sing secular songs before and after the sermon (when I arrive, the large congregation at Mary Ward House in London is on the second verse of A Spoonful of Sugar)

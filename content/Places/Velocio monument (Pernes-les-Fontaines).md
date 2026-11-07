@@ -1,29 +1,29 @@
 ---
 publish: true
+title: Velocio monument (Pernes-les-Fontaines)
+created: 2025-09-28
+modified: 2026-11-07T06:56:36.659Z
+published: 2026-11-07T06:56:36.659Z
 aliases:
   - Pernes-les-Fontaines
   - Monument à Velocio
-title: Velocio monument (Pernes-les-Fontaines)
-created: 2025-09-28
-modified: 2026-11-06T14:23:13.000Z
-published: 2026-11-06T14:23:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Velocio monument (Pernes-les-Fontaines).svg
 books:
   - Monument a Velocio.
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 43.9986,5.0597
-geo_note: approximate (Pernes-les-Fontaines town point; the statue has no standard-source point)
+geo_note: approximate (Pernes-les-Fontaines town point; the statue has no standard-source
+  point)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 43.9986
   - 5.0597
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Velocio monument (Pernes-les-Fontaines).svg
 ---
@@ -33,13 +33,13 @@ image: Attachments/Places/Velocio monument (Pernes-les-Fontaines).svg
 Statue of Paul de Vivie ("Velocio") in Pernes-les-Fontaines, Vaucluse, in [[Provence]], which is the subject of a Mostly Bikes post on the apostle of French cycletourism.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Monument a Velocio. | Mostly Bikes x Me | subject | The statue of cycletourism's "apostle" above a terse plaque. |
 
-## Monument a Velocio. — Mostly Bikes x Me (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.9986&mlon=5.0597#map=10/43.9986/5.0597) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.9986,5.0597)
 
+## Monument a Velocio. — Mostly Bikes x Me (2025)
 Source: [Original](https://funkadelic.net/pages/15953373113.html) · [Readwise highlight](https://read.readwise.io/read/01m5d202mh4qrvz7hg7wp0whs0)
 
 > A statue of the man, given name Paul de Vivie, stands in Pernes Les Fontaines above a plaque providing rather abbreviated context.

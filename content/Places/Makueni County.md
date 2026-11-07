@@ -2,13 +2,8 @@
 publish: true
 title: Makueni County
 created: 2024-05-11
-modified: 2026-11-02T16:04:35.000Z
-published: 2026-11-02T16:04:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Makueni County.svg
+modified: 2026-11-07T06:53:19.134Z
+published: 2026-11-07T06:53:19.134Z
 aliases: []
 books:
   - "[[Amazing Stories I Wish Everyone Knew]]"
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - -1.8
   - 37.6167
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Kenya]]"
 image: Attachments/Places/Makueni County.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Makueni County.svg
 Makueni County is a county in southeastern Kenya. It turns up in Amazing stories I wish everyone knew – Bill Gates (Bill Gates): It is the one place where the article's story happens, but the county is named once and not described.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Amazing Stories I Wish Everyone Knew\|Amazing stories I wish everyone knew – Bill Gates]] | Bill Gates | setting | Gates meets farmer Josephine Kimonyi in Makueni County. |
 
-## Amazing stories I wish everyone knew – Bill Gates — Bill Gates (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-1.8&mlon=37.6167#map=10/-1.8/37.6167) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-1.8,37.6167)
 
+## Amazing stories I wish everyone knew – Bill Gates — Bill Gates (2024)
 Source: [[Amazing Stories I Wish Everyone Knew]] · [Original](https://www.gatesnotes.com/Amazing-stories-I-wish-everyone-knew) · [Readwise highlight](https://read.readwise.io/read/01m5fcndht9tsrmdeaa0kkz7xg)
 
 > In Makueni County, Kenya, I met a farmer named

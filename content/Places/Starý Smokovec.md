@@ -2,13 +2,8 @@
 publish: true
 title: Starý Smokovec
 created: 2026-05-17
-modified: 2026-11-03T01:24:26.000Z
-published: 2026-11-03T01:24:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Starý Smokovec.svg
+modified: 2026-11-07T06:58:29.020Z
+published: 2026-11-07T06:58:29.020Z
 aliases: []
 books:
   - Crossing 3 Countries in 15 Hours to Reach the Tatras Mountains
@@ -20,6 +15,10 @@ icon: video
 location:
   - 49.1417
   - 20.225
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[High Tatras]]"
 image: Attachments/Places/Starý Smokovec.svg
 ---
@@ -29,13 +28,13 @@ image: Attachments/Places/Starý Smokovec.svg
 Mountain resort in the High Tatras, Slovakia (see [[High Tatras]]). It appears in Simply Railway's video as the first big resort on the Tatra Electric Railway, where most passengers get off.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Crossing 3 Countries in 15 Hours to Reach the Tatras Mountains | Simply Railway | journey waypoint | First big resort on the Tatra Electric Railway, where most passengers get off. |
 
-## Crossing 3 Countries in 15 Hours to Reach the Tatras Mountains — Simply Railway (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=49.1417&mlon=20.225#map=16/49.1417/20.225) · [Google Maps](https://www.google.com/maps/search/?api=1&query=49.1417,20.225)
 
+## Crossing 3 Countries in 15 Hours to Reach the Tatras Mountains — Simply Railway (2026)
 Source: [Original](https://www.youtube.com/watch?v=dTFkFN-qVLI) · [Readwise highlight](https://read.readwise.io/read/01m5bs7845y4sst36c6dehgmp3)
 
 > Starý Smokovec — first major stop on the route and first big resort.

@@ -2,13 +2,8 @@
 publish: true
 title: Legoland Hotel
 created: 2024-06-05
-modified: 2026-11-02T14:18:27.000Z
-published: 2026-11-02T14:18:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Legoland Hotel.svg
+modified: 2026-11-07T07:03:20.097Z
+published: 2026-11-07T07:03:20.097Z
 aliases: []
 books:
   - The Year of Living Danishly
@@ -21,6 +16,10 @@ icon: book
 location:
   - 55.7334
   - 9.1276
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Billund]]"
 image: Attachments/Places/Legoland Hotel.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Legoland Hotel.svg
 Themed hotel in [[Billund]], Jutland, [[Denmark]], where Helen Russell and her husband spend their first night in The Year of Living Danishly.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Year of Living Danishly | Helen Russell | setting | After a snowy night arrival the couple check into the themed hotel at Legoland. |
 
-## The Year of Living Danishly — Helen Russell (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.7334&mlon=9.1276#map=16/55.7334/9.1276) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.7334,9.1276)
 
+## The Year of Living Danishly — Helen Russell (2015)
 Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highlight](https://read.readwise.io/read/01m5edhmkcht1e052aerwph8k0)
 
 > ‘Welcome to the Legoland Hotel!’ the tall, broad, blond-haired receptionist beams as we check in.

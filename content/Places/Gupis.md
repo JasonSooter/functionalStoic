@@ -2,13 +2,8 @@
 publish: true
 title: Gupis
 created: 2025-03-08
-modified: 2026-11-02T14:16:56.000Z
-published: 2026-11-02T14:16:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Gupis.svg
+modified: 2026-11-07T07:01:17.072Z
+published: 2026-11-07T07:01:17.072Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 36.2288
   - 73.4478
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pakistan]]"
 image: Attachments/Places/Gupis.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Gupis.svg
 Town in the Ghizer valley, Gilgit-Baltistan, Pakistan. The end of a donkey-caravan stage in _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | A football match played beside a 200-foot ravine at the end of her donkey-caravan stage. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.2288&mlon=73.4478#map=16/36.2288/73.4478) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2288,73.4478)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6n1yh9hrwv4axv929ra0e)
 
 > I forgot to tell you about the pseudo-soccer match I saw in Gupis.

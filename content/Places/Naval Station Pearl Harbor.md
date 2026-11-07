@@ -2,12 +2,8 @@
 publish: true
 title: Naval Station Pearl Harbor
 created: 2026-10-22T22:36:58.000Z
-modified: 2026-11-02T17:48:49.000Z
-published: 2026-11-02T17:48:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:01:19.176Z
+published: 2026-11-07T07:01:19.176Z
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 21.3493
   - -157.944
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Hawaii]]"
+image: Attachments/Places/Naval Station Pearl Harbor.svg
 ---
 
 # Naval Station Pearl Harbor
@@ -28,13 +29,13 @@ within: "[[Hawaii]]"
 US Navy base on Oahu, Hawaii. In Project Hail Mary Grace is switched to a second jet there on his way to Stratt's carrier.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | journey waypoint | Grace wakes in the dark as the jet lands, learns he is in Hawaii, and is immediately moved to a second jet flown by a navy pilot |
 
-## Project Hail Mary — Andy Weir (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.3493&mlon=-157.944#map=16/21.3493/-157.944) · [Google Maps](https://www.google.com/maps/search/?api=1&query=21.3493,-157.944)
 
+## Project Hail Mary — Andy Weir (2021)
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvsh4x22vmnr8wq434khc2)
 
 > “Naval Station Pearl Harbor,” said the officer. “But not for long. Please follow me.”

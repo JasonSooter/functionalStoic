@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Außenalster
+created: 2026-08-26
+modified: 2026-11-07T06:56:20.009Z
+published: 2026-11-07T06:56:20.009Z
 aliases:
   - Outer Alster
   - Aussenalster
-title: Außenalster
-created: 2026-08-26
-modified: 2026-11-02T14:14:06.000Z
-published: 2026-11-02T14:14:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Außenalster.svg
 books:
   - Neither Here Nor There
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 53.565
   - 10.01
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Hamburg]]"
 image: Attachments/Places/Außenalster.svg
 ---
@@ -32,10 +31,11 @@ image: Attachments/Places/Außenalster.svg
 The larger of the two Alster lakes in central [[Hamburg]], the lakeside walk that wins Bill Bryson over to the city in Neither Here Nor There.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | The lakeside afternoon that wins Bryson over to Hamburg. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.565&mlon=10.01#map=10/53.565/10.01) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.565,10.01)
 
 ## Neither Here Nor There — Bill Bryson (1991)
 

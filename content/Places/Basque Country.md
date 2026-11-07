@@ -2,13 +2,8 @@
 publish: true
 title: Basque Country
 created: 2025-08-29
-modified: 2026-11-02T14:14:19.000Z
-published: 2026-11-02T14:14:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Basque Country.svg
+modified: 2026-11-07T06:57:48.491Z
+published: 2026-11-07T06:57:48.491Z
 aliases: []
 books:
   - "[[Cod]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 42.8819
   - -1.9169
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Spain]]"
 image: Attachments/Places/Basque Country.svg
 ---
@@ -31,17 +30,16 @@ image: Attachments/Places/Basque Country.svg
 Region around the western Pyrenees and the Bay of Biscay, in Spain and France. In _Cod_ the Basques are the first great cod traders.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | backdrop | The seafaring Basques salt whale and then cod, and keep the source of their cod a secret. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.8819&mlon=-1.9169#map=11/42.8819/-1.9169) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.8819,-1.9169)
 
+## Sub-places
 - [[Arrigorriaga]]
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
-
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kksgh8e22hegbw18cc4n18)
 
 > They have lived in what is now the northwest corner of Spain and a nick of the French southwest for longer than history records

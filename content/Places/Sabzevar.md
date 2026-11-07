@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Sabzevar
+created: 2025-03-08
+modified: 2026-11-07T07:02:38.384Z
+published: 2026-11-07T07:02:38.384Z
 aliases:
   - Salzevar
   - Sabzawar
-title: Sabzevar
-created: 2025-03-08
-modified: 2026-11-02T20:54:40.000Z
-published: 2026-11-02T20:54:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Sabzevar.svg
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 36.2125
   - 57.6764
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Iran]]"
 image: Attachments/Places/Sabzevar.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Sabzevar.svg
 City in Razavi Khorasan, northeast Iran. In _Full Tilt_ Dervla Murphy (who spells it 'Salzevar') is stoned by youths here.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | turning point | Youths stone her and cut her arm, so she leaves for the next village's gendarmerie. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.2125&mlon=57.6764#map=16/36.2125/57.6764) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2125,57.6764)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kqz3pdktyj9vbdtyd7qf)
 
 > This seemed an interesting place but was full of Mullahs and turbaned youths who stoned me and cut my sunburned arm five minutes after I’d arrived, so I departed hastily before a riot started.

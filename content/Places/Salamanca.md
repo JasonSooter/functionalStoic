@@ -2,13 +2,8 @@
 publish: true
 title: Salamanca
 created: 2016-01-28
-modified: 2026-11-02T20:54:40.000Z
-published: 2026-11-02T20:54:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Salamanca.svg
+modified: 2026-11-07T07:03:06.654Z
+published: 2026-11-07T07:03:06.654Z
 aliases: []
 books:
   - "Mini-Retirement: How to Retire Before You’re Ready"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.965
   - -5.6642
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Spain]]"
 image: Attachments/Places/Salamanca.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Salamanca.svg
 Old university city in Castile and León, western Spain. In Chad Carson's mini-retirement essay it is where the couple's four-month break began, with a host family and Spanish lessons.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Mini-Retirement: How to Retire Before You’re Ready | Chad Carson | journey waypoint | First stop of the mini-retirement: a host family, Spanish lessons and stone streets glowing at sunset. |
 
-## Mini-Retirement: How to Retire Before You’re Ready — Chad Carson
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.965&mlon=-5.6642#map=16/40.965/-5.6642) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.965,-5.6642)
 
+## Mini-Retirement: How to Retire Before You’re Ready — Chad Carson
 Source: [Original](https://www.coachcarson.com/mini-retirement-retire-before-ready/) · [Readwise highlight](https://read.readwise.io/read/01m5j6jq3bnrse50nfev2yns0p)
 
 > In Spain we first stayed with a local family and studied Spanish in the old university city of Salamanca, where Kari had first studied abroad in college over 10 years before. The beautiful stones of the cobblestone streets, cathedrals, and ancient buildings literally glowed at sunset.

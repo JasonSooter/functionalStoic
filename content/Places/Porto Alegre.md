@@ -2,12 +2,8 @@
 publish: true
 title: Porto Alegre
 created: 2026-10-23T01:32:13.000Z
-modified: 2026-11-02T18:30:32.000Z
-published: 2026-11-02T18:30:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:56:35.414Z
+published: 2026-11-07T06:56:35.414Z
 aliases: []
 books:
   - "Here comes everybody: participatory budgeting, explained"
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - -30.0331
   - -51.23
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Brazil]]"
+image: Attachments/Places/Porto Alegre.svg
 ---
 
 # Porto Alegre
@@ -28,13 +29,13 @@ within: "[[Brazil]]"
 Capital of Rio Grande do Sul in southern Brazil. It appears in Jason's reading as the birthplace of participatory budgeting, the model later copied by cities such as Paris.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Here comes everybody: participatory budgeting, explained | The Long and Short | subject | The article names Porto Alegre as the first city to fully implement participatory budgeting in the 1980s, from which the model spread… |
 
-## Here comes everybody: participatory budgeting, explained — The Long and Short (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-30.0331&mlon=-51.23#map=16/-30.0331/-51.23) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-30.0331,-51.23)
 
+## Here comes everybody: participatory budgeting, explained — The Long and Short (2016)
 Source: [Original](http://thelongandshort.org/society/participatory-budgeting-explained) · [Readwise highlight](https://read.readwise.io/read/01m5k5qdahj0jkpnaxakzsz4v3)
 
 > Many of the major programmes in Europe are too new for us to confidently say what impact those projects will have on people's quality of life; but if we look back to Brazil, where it all started,

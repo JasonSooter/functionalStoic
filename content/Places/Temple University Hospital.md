@@ -2,13 +2,8 @@
 publish: true
 title: Temple University Hospital
 created: 2017-07-09
-modified: 2026-11-05T01:22:26.000Z
-published: 2026-11-05T01:22:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Temple University Hospital.svg
+modified: 2026-11-07T07:02:42.528Z
+published: 2026-11-07T07:02:42.528Z
 aliases: []
 books:
   - What Bullets Do to Bodies
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.0053
   - -75.1508
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Philadelphia]]"
 image: Attachments/Places/Temple University Hospital.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Temple University Hospital.svg
 Teaching hospital on North Broad Street, North Philadelphia. Jason Fagone's Highline piece spends 24 hours with its trauma team to show what bullets do to bodies.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What Bullets Do to Bodies | Jason Fagone | subject | The whole piece is set in and around Temple's nine-story main building on North Broad Street, which treats more gunshot victims than any… |
 
-## What Bullets Do to Bodies — Jason Fagone (2017)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.0053&mlon=-75.1508#map=16/40.0053/-75.1508) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.0053,-75.1508)
 
+## What Bullets Do to Bodies — Jason Fagone (2017)
 Source: [Original](https://highline.huffingtonpost.com/articles/en/gun-violence/) · [Readwise highlight](https://read.readwise.io/read/01m5k7df4cq04ptnf6eh4faj1v)
 
 > If you think of Broad as the city’s spinal column, the hospital is about level with the heart. Stand on the sidewalk outside the hospital and look south on a clear day and you can see the pale marble and granite of City Hall, about 4 miles away, near Philly’s pelvis.

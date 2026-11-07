@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - The Custom House
 title: Custom House, Dublin
 created: 2026-06-17
-modified: 2026-11-07T06:21:08.000Z
-published: 2026-11-07T06:21:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Custom House, Dublin.svg
+modified: 2026-11-07T07:00:52.463Z
+published: 2026-11-07T07:00:52.463Z
+aliases:
+  - The Custom House
 books:
   - The Country Girls Trilogy
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 53.3485
   - -6.2531
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Dublin]]"
 image: Attachments/Places/Custom House, Dublin.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Custom House, Dublin.svg
 Eighteenth-century neoclassical building on the north quays of the River Liffey in Dublin. In _The Country Girls Trilogy_ it is where Eugene first kisses Kate.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | backdrop | On the Liffey quays by the Customs House, Eugene first kisses Kate, and she loves 'that part of Dublin' ever after. |
 
-## The Country Girls Trilogy — Edna O'Brien (1986)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.3485&mlon=-6.2531#map=16/53.3485/-6.2531) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.3485,-6.2531)
 
+## The Country Girls Trilogy — Edna O'Brien (1986)
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m7670gchp3arnm751n9hw2)
 
 > Suddenly one rainy night as we walked down by the side of the Liffey toward the Customs House to the city, he said, “Have I ever kissed you?” and he kissed me quite abruptly, just as people flocked out of a cinema.

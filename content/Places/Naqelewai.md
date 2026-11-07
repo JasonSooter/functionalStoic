@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Nagelewai
 title: Naqelewai
 created: 2026-10-20T13:43:19.000Z
-modified: 2026-11-02T17:48:49.000Z
-published: 2026-11-02T17:48:49.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:01:09.856Z
+published: 2026-11-07T07:01:09.856Z
+aliases:
+  - Nagelewai
 books:
   - "[[Peace Corps - The Great Adventure]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - -17.7119
   - 178.0826
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Fiji]]"
+image: Attachments/Places/Naqelewai.svg
 ---
 
 # Naqelewai
@@ -29,13 +30,13 @@ within: "[[Fiji]]"
 Remote village in [[Fiji]] where Peace Corps volunteer Donna Gessell lived for two years, the setting for an essay on reading versus talk.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | Reading in a village without books. |
 
-## Peace Corps: The Great Adventure — Peace Corps (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-17.7119&mlon=178.0826#map=16/-17.7119/178.0826) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-17.7119,178.0826)
 
+## Peace Corps: The Great Adventure — Peace Corps (2002)
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5crcfzz1csaedjv5qrp6pn5)
 
 > On Fiji, books were scarce in our village, Naqelewai. All material possessions were scarce because of the village's remote location.

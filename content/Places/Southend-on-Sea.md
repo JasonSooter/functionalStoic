@@ -2,13 +2,8 @@
 publish: true
 title: Southend-on-Sea
 created: 2026-10-23
-modified: 2026-11-02T21:34:24.000Z
-published: 2026-11-02T21:34:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Southend-on-Sea.svg
+modified: 2026-11-07T06:56:55.383Z
+published: 2026-11-07T06:56:55.383Z
 books:
   - The Hitchhiker's Guide to the Galaxy
 categories:
@@ -20,6 +15,10 @@ icon: book
 location:
   - 51.55
   - 0.71
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Essex]]"
 image: Attachments/Places/Southend-on-Sea.svg
 ---
@@ -29,13 +28,13 @@ image: Attachments/Places/Southend-on-Sea.svg
 Seaside resort on the Thames Estuary in Essex. In _The Hitchhiker's Guide to the Galaxy_ the Infinite Improbability Drive turns deep space into a hallucinated version of its sea front.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | subject | The Improbability Drive turns space into a melting version of Southend's sea front. |
 
-## The Hitchhiker's Guide to the Galaxy — Douglas Adams (1979)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.55&mlon=0.71#map=16/51.55/0.71) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.55,0.71)
 
+## The Hitchhiker's Guide to the Galaxy — Douglas Adams (1979)
 Source: [Original](https://openlibrary.org/works/OL2163649W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2aqnf3vz0b0530sfexpt)
 
 > ‘Good God,’ said Arthur, ‘it looks just like the sea front at Southend.’

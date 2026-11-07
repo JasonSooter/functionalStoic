@@ -1,17 +1,12 @@
 ---
 publish: true
+title: United States Naval Academy
+created: 2025-07-01
+modified: 2026-11-07T06:55:15.035Z
+published: 2026-11-07T06:55:15.035Z
 aliases:
   - Annapolis
   - Naval Academy
-title: United States Naval Academy
-created: 2025-07-01
-modified: 2026-11-06T11:22:56.000Z
-published: 2026-11-06T11:22:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/United States Naval Academy.svg
 books:
   - Read Everything
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 38.9828
   - -76.4851
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Maryland]]"
 image: Attachments/Places/United States Naval Academy.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/United States Naval Academy.svg
 Naval academy in Annapolis, [[Maryland]], which appears in Brad Feld's essay "Read Everything" as the venue of Ryan Holiday's cancelled lecture on wisdom.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Read Everything | Brad Feld | turning point | Holiday's cancelled lecture on wisdom prompted Feld's reflection on censorship; Holiday had spoken there in 2023 and 2024. |
 
-## Read Everything — Brad Feld (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9828&mlon=-76.4851#map=16/38.9828/-76.4851) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9828,-76.4851)
 
+## Read Everything — Brad Feld (2025)
 Source: [Original](https://feld.com/archives/2025/04/read-everything/) · [Readwise highlight](https://read.readwise.io/read/01m5dqxtejmk0dtq3m3ht651xj)
 
 > Ryan described a story about James Stockdale, which he would have discussed in his canceled Naval Academy talk on Wisdom.

@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Palace at Oodeypore
 title: City Palace, Udaipur
 created: 2026-10-23
-modified: 2026-11-02T14:15:39.000Z
-published: 2026-11-02T14:15:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/City Palace, Udaipur.svg
+modified: 2026-11-07T06:56:44.743Z
+published: 2026-11-07T06:56:44.743Z
+aliases:
+  - Palace at Oodeypore
 books:
   - The Jungle Book
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 24.576
   - 73.683
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/City Palace, Udaipur.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/City Palace, Udaipur.svg
 Palace complex of the Maharanas of Mewar in Udaipur, Rajasthan. In _The Jungle Book_ Bagheera tells Mowgli he was born in the cages of the King's palace at Oodeypore.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Jungle Book | Rudyard Kipling | backdrop | Bagheera was born in the cages of the king's palace at Oodeypore. |
 
-## The Jungle Book — Rudyard Kipling (1894)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=24.576&mlon=73.683#map=16/24.576/73.683) · [Google Maps](https://www.google.com/maps/search/?api=1&query=24.576,73.683)
 
+## The Jungle Book — Rudyard Kipling (1894)
 Source: [Original](https://openlibrary.org/works/OL19870W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2srx25n0e9qs9psw840d)
 
 > “There is no one in the jungle that knows that I, Bagheera, carry that mark—the mark of the collar; and yet, Little Brother, I was born among men, and it was among men that my mother died—in the cages of the king’s palace at Oodeypore.

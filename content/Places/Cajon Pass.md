@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Brightline West
 title: Cajon Pass
 created: 2025-10-04
-modified: 2026-11-02T14:15:07.000Z
-published: 2026-11-02T14:15:07.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Cajon Pass.svg
+modified: 2026-11-07T06:51:42.023Z
+published: 2026-11-07T06:51:42.023Z
+aliases:
+  - Brightline West
 books:
   - The $140BN Race to Build America's First High-Speed Railway
 categories:
@@ -22,6 +17,10 @@ icon: video
 location:
   - 34.3258
   - -117.4283
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Cajon Pass.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Cajon Pass.svg
 Mountain pass between the San Bernardino and San Gabriel ranges, southern [[California]]; the B1M video names it the steep crux of the Brightline West high-speed line.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The $140BN Race to Build America's First High-Speed Railway]] | The B1M | turning point | The steep crux of the Las Vegas–Rancho Cucamonga high-speed line. |
 
-## The \$140BN Race to Build America's First High-Speed Railway — The B1M (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.3258&mlon=-117.4283#map=16/34.3258/-117.4283) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.3258,-117.4283)
 
+## The $140BN Race to Build America's First High-Speed Railway — The B1M (2024)
 Source: [Original](https://www.youtube.com/watch?v=GEFjL5KEE3c) · [Readwise highlight](https://read.readwise.io/read/01m5d21er9fs3sw6df5h0d8grp)
 
 > there’s one part of the route that’s likely to be especially challenging — the Cajon Pass.

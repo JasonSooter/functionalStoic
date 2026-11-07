@@ -2,13 +2,8 @@
 publish: true
 title: Bucks County
 created: 2025-11-29
-modified: 2026-11-02T14:14:50.000Z
-published: 2026-11-02T14:14:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bucks County.svg
+modified: 2026-11-07T07:03:04.798Z
+published: 2026-11-07T07:03:04.798Z
 aliases: []
 books:
   - "[[Breakneck]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 40.34
   - -75.11
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pennsylvania]]"
 image: Attachments/Places/Bucks County.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Bucks County.svg
 Suburban county in [[Pennsylvania]], USA; in Dan Wang's Breakneck it stands for the car-dependent suburb of his childhood.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | setting | The family moved after the father found a software job. |
 
-## Breakneck — Dan Wang (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.34&mlon=-75.11#map=16/40.34/-75.11) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.34,-75.11)
 
+## Breakneck — Dan Wang (2025)
 Source: [[Breakneck]] · [Original](https://wwnorton.com/books/9781324106036) · [Readwise highlight](https://read.readwise.io/read/01m5ebtaat7ha7av9nr782bftv)
 
 > And I went to high school in Bucks County, which is the sort of place that people describe as bucolic.

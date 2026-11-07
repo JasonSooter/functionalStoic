@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Memorial to the Murdered Jews of Europe
+created: 2026-01-04
+modified: 2026-11-07T06:55:39.233Z
+published: 2026-11-07T06:55:39.233Z
 aliases:
   - Holocaust Memorial
   - Holocaust-Mahnmal
-title: Memorial to the Murdered Jews of Europe
-created: 2026-01-04
-modified: 2026-11-07T06:20:42.000Z
-published: 2026-11-07T06:20:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Memorial to the Murdered Jews of Europe.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 52.5139
   - 13.3786
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Memorial to the Murdered Jews of Europe.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Memorial to the Murdered Jews of Europe.svg
 Holocaust memorial of concrete stelae by Peter Eisenman, south of the Brandenburg Gate in Berlin, opened in 2005. In _Germany: Memories of a Nation_ it frames the Reichstag chapter's theme of remembering.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Eisenman's field of stelae one block from the Reichstag, placed with three smaller memorials beside parliament by design. |
 
-## Germany: Memories of a Nation — Neil MacGregor (2014)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.5139&mlon=13.3786#map=16/52.5139/13.3786) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.5139,13.3786)
 
+## Germany: Memories of a Nation — Neil MacGregor (2014)
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m777vv2eeedse9a0ywyqzf)
 
 > Clearly visible, just one block to the south, is the Holocaust Memorial to the Murdered Jews of Europe

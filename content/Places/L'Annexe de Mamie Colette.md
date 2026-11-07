@@ -2,13 +2,8 @@
 publish: true
 title: L'Annexe de Mamie Colette
 created: 2024-12-20
-modified: 2026-11-02T14:18:51.000Z
-published: 2026-11-02T14:18:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/L'Annexe de Mamie Colette.svg
+modified: 2026-11-07T07:00:33.334Z
+published: 2026-11-07T07:00:33.334Z
 aliases: []
 books:
   - A hilly bicycle ride to a French bakery in New Jersey
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 40.3095
   - -74.8822
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/L'Annexe de Mamie Colette.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/L'Annexe de Mamie Colette.svg
 French bakery on River Road along the Delaware River in Titusville, New Jersey. It is the destination of a hilly group bike ride.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| A hilly bicycle ride to a French bakery in New Jersey | alliumstozinnias | turning point | The ride's destination: a new French bakery by the Delaware; mango tart, \$7–8 pastries. |
+| A hilly bicycle ride to a French bakery in New Jersey | alliumstozinnias | turning point | The ride's destination: a new French bakery by the Delaware; mango tart, $7–8 pastries. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.3095&mlon=-74.8822#map=16/40.3095/-74.8822) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.3095,-74.8822)
 
 ## A hilly bicycle ride to a French bakery in New Jersey — alliumstozinnias (2024)
-
 Source: [Original](https://exploringbybike.com/2024/11/29/a-hilly-bicycle-ride-to-a-french-bakery-in-new-jersey/) · [Readwise highlight](https://read.readwise.io/read/01m5f0pvmdtj663zrdwq90qqfd)
 
 > We reached the bakery about halfway through our ride.

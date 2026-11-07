@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - The River Bank (The Wind in the Willows)
 title: The River
 created: 2026-10-23
-modified: 2026-11-06T01:28:57.000Z
-published: 2026-11-06T01:28:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The River (The Wind in the Willows).svg
+modified: 2026-11-07T06:51:32.730Z
+published: 2026-11-07T06:51:32.730Z
+aliases:
+  - The River Bank (The Wind in the Willows)
 books:
   - The Wind in the Willows
 categories:
@@ -18,12 +13,17 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 51.56,-0.7083
-geo_note: "inferred: the unnamed river is the Thames; pinned at Cookham, centre of the Marlow–Pangbourne reach Grahame knew"
+geo_note: "inferred: the unnamed river is the Thames; pinned at Cookham, centre of\
+  \ the Marlow–Pangbourne reach Grahame knew"
 geo_source: Wikipedia (en), Cookham
 icon: book
 location:
   - 51.56
   - -0.7083
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Berkshire]]"
 image: Attachments/Places/The River (The Wind in the Willows).svg
 ---
@@ -33,13 +33,13 @@ image: Attachments/Places/The River (The Wind in the Willows).svg
 The unnamed river of _The Wind in the Willows_, read as the Thames around Cookham and pinned there as an inference. Rat's home reach, the weir island of 'The Piper at the Gates of Dawn' and the ford of Otter's vigil all lie on it.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Wind in the Willows | Kenneth Grahame | setting | Rat's home reach, where Mole learns boating and the weir island where they meet Pan. |
 
-## The Wind in the Willows — Kenneth Grahame (1908)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.56&mlon=-0.7083#map=16/51.56/-0.7083) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.56,-0.7083)
 
+## The Wind in the Willows — Kenneth Grahame (1908)
 Source: [Original](https://openlibrary.org/works/OL28570037W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2f8cayehzx4q1z42efkt)
 
 > Never in his life had he seen a river before—this sleek, sinuous, full-bodied animal, chasing and chuckling, gripping things with a gurgle and leaving them with a laugh, to fling itself on fresh playmates that shook themselves free, and were caught and held again.

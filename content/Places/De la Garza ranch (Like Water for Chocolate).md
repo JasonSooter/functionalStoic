@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Mama Elena's ranch
 title: De la Garza ranch (Like Water for Chocolate)
 created: 2025-01-06
-modified: 2026-11-02T14:16:12.000Z
-published: 2026-11-02T14:16:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/De la Garza ranch (Like Water for Chocolate).svg
+modified: 2026-11-07T07:02:04.582Z
+published: 2026-11-07T07:02:04.582Z
+aliases:
+  - Mama Elena's ranch
 books:
   - Like Water for Chocolate
 categories:
@@ -24,6 +19,10 @@ icon: book
 location:
   - 28.7
   - -100.5231
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Piedras Negras]]"
 image: Attachments/Places/De la Garza ranch (Like Water for Chocolate).svg
 ---
@@ -33,13 +32,13 @@ image: Attachments/Places/De la Garza ranch (Like Water for Chocolate).svg
 The fictional border ranch of Mama Elena and her daughters in Like Water for Chocolate, near Piedras Negras, Coahuila. Pinned at Piedras Negras as an inferred location.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Like Water for Chocolate | Laura Esquivel | setting | The ranch is the novel's whole world: Tita is born on its kitchen table, grows up bound to Mama Elena's rule, cooks there for every… |
 
-## Like Water for Chocolate — Laura Esquivel (1989)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.7&mlon=-100.5231#map=16/28.7/-100.5231) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.7,-100.5231)
 
+## Like Water for Chocolate — Laura Esquivel (1989)
 Source: [Original](https://openlibrary.org/works/OL953162W) · [Readwise highlight](https://read.readwise.io/read/01m5k8z0358ak0pdhh0tqwpd49)
 
 > On Mama Elena’s ranch, sausage making was a real ritual.

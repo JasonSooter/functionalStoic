@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Brenner Pass
+created: 2026-07-23
+modified: 2026-11-07T07:02:09.518Z
+published: 2026-11-07T07:02:09.518Z
 aliases:
   - Brennero
   - Brennerpass
-title: Brenner Pass
-created: 2026-07-23
-modified: 2026-11-02T14:14:54.000Z
-published: 2026-11-02T14:14:54.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Brenner Pass.svg
 books:
   - Austria, Alps, Italy
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 47.0033
   - 11.5075
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[South Tyrol]]"
 image: Attachments/Places/Brenner Pass.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Brenner Pass.svg
 Alpine pass on the Austria–Italy border, with the border town of Brennero, in [[South Tyrol]]. It is where a day's cycling out of [[Innsbruck|Innsbruck]] ends and a Mostly Bikes tour crosses from Austria into Italy.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Austria, Alps, Italy]] | Mostly Bikes x Me | journey waypoint | The top of a 20-mile climb out of Innsbruck. |
 
-## Austria, Alps, Italy — Mostly Bikes x Me (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.0033&mlon=11.5075#map=16/47.0033/11.5075) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.0033,11.5075)
 
+## Austria, Alps, Italy — Mostly Bikes x Me (2026)
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bfwvazgaj9fqpw79zsxwc1)
 
 > We wrapped up the day on a 20mi climb with a corking ascent out of Innsbruck, finishing upon the top of Brenner Pass in the border town of Brennero.

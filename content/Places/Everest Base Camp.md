@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - South Base Camp
 title: Everest Base Camp
 created: 2023-07-30
-modified: 2026-11-02T14:15:57.000Z
-published: 2026-11-02T14:15:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Everest Base Camp.svg
+modified: 2026-11-07T06:52:44.219Z
+published: 2026-11-07T06:52:44.219Z
+aliases:
+  - South Base Camp
 books:
   - "[[The Comfort Crisis]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 28.0072
   - 86.8594
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nepal]]"
 image: Attachments/Places/Everest Base Camp.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Everest Base Camp.svg
 Climbers' camp at 17,600 feet below Mount Everest in [[Nepal]]. In The Comfort Crisis (Michael Easter) it is the site of an altitude study comparing Sherpas and lowlanders.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | subject | Site of a study in which Sherpas' muscles coped with altitude better than lowlanders'. |
 
-## The Comfort Crisis — Michael Easter (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.0072&mlon=86.8594#map=16/28.0072/86.8594) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.0072,86.8594)
 
+## The Comfort Crisis — Michael Easter (2021)
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5g8w7a6qt29805nyf8yjeeg)
 
 > Once they arrived at the 17,600-foot camp, the scientists took the same biological measurements.

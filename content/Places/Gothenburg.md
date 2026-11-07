@@ -2,13 +2,8 @@
 publish: true
 title: Gothenburg
 created: 2016-04-04
-modified: 2026-11-02T14:17:12.000Z
-published: 2026-11-02T14:17:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Gothenburg.svg
+modified: 2026-11-07T06:58:45.780Z
+published: 2026-11-07T06:58:45.780Z
 aliases: []
 books:
   - Sweden’s Nature Pill for City Dwellers
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 57.7075
   - 11.9675
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Sweden]]"
 image: Attachments/Places/Gothenburg.svg
 ---
@@ -31,10 +30,11 @@ image: Attachments/Places/Gothenburg.svg
 Sweden's second city, on the west coast. A subject in David Friedlander's “Sweden’s Nature Pill for City Dwellers”: Unnamed allotment colony between Gothenburg freeways, a nature remedy for city living.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sweden’s Nature Pill for City Dwellers | David Friedlander | subject | Unnamed allotment colony between Gothenburg freeways, a nature remedy for city living |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=57.7075&mlon=11.9675#map=11/57.7075/11.9675) · [Google Maps](https://www.google.com/maps/search/?api=1&query=57.7075,11.9675)
 
 ## Sub-places
 
@@ -42,7 +42,6 @@ Sweden's second city, on the west coast. A subject in David Friedlander's “Swe
 - [[Slottsskogskolonin]]
 
 ## Sweden’s Nature Pill for City Dwellers — David Friedlander (2016)
-
 Source: [Original](https://lifeedited.com/swedens-nature-pill-for-city-dwellers/) · [Readwise highlight](https://read.readwise.io/read/01m5jjr9s9yj9bqyrfa0pzw9tc)
 
 > The particular kolonistuga in this Faircompanies video is located between a bunch of freeways in Gothenburg, Sweden’s second largest city.

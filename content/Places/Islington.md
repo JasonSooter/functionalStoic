@@ -2,13 +2,8 @@
 publish: true
 title: Islington
 created: 2026-10-23
-modified: 2026-11-02T14:17:48.000Z
-published: 2026-11-02T14:17:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Islington.svg
+modified: 2026-11-07T06:54:32.200Z
+published: 2026-11-07T06:54:32.200Z
 books:
   - The Hitchhiker's Guide to the Galaxy
 categories:
@@ -20,6 +15,10 @@ icon: book
 location:
   - 51.544
   - -0.1027
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Islington.svg
 ---
@@ -29,13 +28,13 @@ image: Attachments/Places/Islington.svg
 District of north London. In _The Hitchhiker's Guide to the Galaxy_ an Islington party is where Arthur first met Trillian and lost her to Zaphod.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | subject | The party where Arthur met Trillian, who left with the gatecrasher Zaphod. |
 
-## The Hitchhiker's Guide to the Galaxy — Douglas Adams (1979)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.544&mlon=-0.1027#map=16/51.544/-0.1027) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.544,-0.1027)
 
+## The Hitchhiker's Guide to the Galaxy — Douglas Adams (1979)
 Source: [Original](https://openlibrary.org/works/OL2163649W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2caw6xrwwp5g5rfjgvj1)
 
 > telephone number of an Islington ﬂat where Arthur once went to a very good party and met a very nice girl whom he totally failed to get off with – she went off with a gatecrasher.

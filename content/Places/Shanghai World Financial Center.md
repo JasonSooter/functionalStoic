@@ -1,18 +1,13 @@
 ---
 publish: true
+title: Shanghai World Financial Center
+created: 2025-06-30
+modified: 2026-11-07T06:54:44.909Z
+published: 2026-11-07T06:54:44.909Z
 aliases:
   - Bottle Opener
   - SWFC
   - 上海环球金融中心
-title: Shanghai World Financial Center
-created: 2025-06-30
-modified: 2026-11-02T21:24:33.000Z
-published: 2026-11-02T21:24:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Shanghai World Financial Center.svg
 books:
   - The Skyscraper That Divided China
 categories:
@@ -24,6 +19,10 @@ icon: video
 location:
   - 31.2366
   - 121.503
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Shanghai]]"
 image: Attachments/Places/Shanghai World Financial Center.svg
 ---
@@ -33,13 +32,13 @@ image: Attachments/Places/Shanghai World Financial Center.svg
 Supertall skyscraper in Pudong, [[Shanghai]], nicknamed the bottle opener, and the subject of The B1M's video on the tower that divided China.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Skyscraper That Divided China]] | The B1M | subject | Architect William Pedersen of KPF designed it for developer Minoru Mori with a circular void symbolising the heavens. |
 
-## The Skyscraper That Divided China — The B1M (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.2366&mlon=121.503#map=16/31.2366/121.503) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.2366,121.503)
 
+## The Skyscraper That Divided China — The B1M (2025)
 Source: [Original](https://www.youtube.com/watch?v=8eKzeUbiy7E) · [Readwise highlight](https://read.readwise.io/read/01m5dqy3dw2bkp2aeqwwb2dxqk)
 
 > This is the Shanghai World Financial Center. Almost the world's tallest

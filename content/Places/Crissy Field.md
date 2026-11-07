@@ -2,13 +2,8 @@
 publish: true
 title: Crissy Field
 created: 2015-11-28
-modified: 2026-11-02T14:15:37.000Z
-published: 2026-11-02T14:15:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Crissy Field.svg
+modified: 2026-11-07T06:59:26.530Z
+published: 2026-11-07T06:59:26.530Z
 aliases: []
 books:
   - "Scott Dinsmore: A Tribute"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 37.8042
   - -122.4597
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Crissy Field.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Crissy Field.svg
 Former airfield turned shoreline park in the Presidio of San Francisco, facing the Golden Gate. In James Clear's tribute to Scott Dinsmore it is the 'world's greatest gym'.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Scott Dinsmore: A Tribute | James Clear | setting | Instead of a gym, Scott drives Clear to the bay shore for a run, burpees and kettlebell swings by the Golden Gate. |
 
-## Scott Dinsmore: A Tribute — James Clear (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.8042&mlon=-122.4597#map=16/37.8042/-122.4597) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8042,-122.4597)
 
+## Scott Dinsmore: A Tribute — James Clear (2015)
 Source: [Original](https://jamesclear.com/scott-dinsmore) · [Readwise highlight](https://read.readwise.io/read/01m5gm0j7c9xf2zdsfa39w3dqp)
 
 > We drove down by the marina and parked along the bay near Chrissy Field Marsh. The early morning fog had burned off and the sun was warming the Golden Gate Bridge.

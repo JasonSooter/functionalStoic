@@ -2,13 +2,8 @@
 publish: true
 title: Weirton
 created: 2024-02-08
-modified: 2026-11-06T20:29:06.000Z
-published: 2026-11-06T20:29:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Weirton.svg
+modified: 2026-11-07T07:00:06.317Z
+published: 2026-11-07T07:00:06.317Z
 aliases: []
 books:
   - How iron-air batteries could fill gaps in renewable energy
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.4189
   - -80.5894
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[West Virginia]]"
 image: Attachments/Places/Weirton.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Weirton.svg
 City in the northern panhandle of West Virginia on the Ohio River. It turns up in How iron-air batteries could fill gaps in renewable energy (Alissa Greenberg): former steel town chosen for Form Energy's iron-air battery factory.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How iron-air batteries could fill gaps in renewable energy | Alissa Greenberg | setting | Former steel town chosen for Form Energy's iron-air battery factory. |
 
-## How iron-air batteries could fill gaps in renewable energy — Alissa Greenberg
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4189&mlon=-80.5894#map=16/40.4189/-80.5894) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4189,-80.5894)
 
+## How iron-air batteries could fill gaps in renewable energy — Alissa Greenberg
 Source: [Original](https://www.pbs.org/wgbh/nova/article/iron-air-battery-renewable-grid/) · [Readwise highlight](https://read.readwise.io/read/01m5fmq0agv29aq99f049nhgeb)
 
 > Weirton, West Virginia has iron in its blood. The town got its first iron furnace back in 1790.

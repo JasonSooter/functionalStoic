@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Doshi
 title: Dushi
 created: 2025-03-08
-modified: 2026-11-02T14:16:21.000Z
-published: 2026-11-02T14:16:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Dushi.svg
+modified: 2026-11-07T07:04:18.240Z
+published: 2026-11-07T07:04:18.240Z
+aliases:
+  - Doshi
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 35.6086
   - 68.6859
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Afghanistan]]"
 image: Attachments/Places/Dushi.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Dushi.svg
 Town in Baghlan Province, northern Afghanistan. A night with the Governor in _Full Tilt_ (as 'Doshi').
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | After ninety miles by truck, a night and a banquet at the Governor's house. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.6086&mlon=68.6859#map=16/35.6086/68.6859) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6086,68.6859)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6m9hqsh24z9388sqw4qhy)
 
 > Tonight I’m again staying with a Provincial Governor, one who spent seven years in an American university and speaks perfect English.

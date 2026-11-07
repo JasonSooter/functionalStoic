@@ -2,13 +2,8 @@
 publish: true
 title: Samuel J. Green Charter School
 created: 2016-06-24
-modified: 2026-11-02T21:01:59.000Z
-published: 2026-11-02T21:01:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Samuel J. Green Charter School.svg
+modified: 2026-11-07T06:51:26.094Z
+published: 2026-11-07T06:51:26.094Z
 aliases: []
 books:
   - Why Teaching Kids To Cook Is the Key To A Better Future
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 29.9336
   - -90.1059
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Orleans]]"
 image: Attachments/Places/Samuel J. Green Charter School.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Samuel J. Green Charter School.svg
 Charter school in New Orleans. Its post-Katrina school garden is the turning point of the Edible Schoolyard's New Orleans story.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Teaching Kids To Cook Is the Key To A Better Future | Valentina Valentini | turning point | The first New Orleans school garden, built as a healing space for children after Hurricane Katrina; later students from Green Charter… |
 
-## Why Teaching Kids To Cook Is the Key To A Better Future — Valentina Valentini (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.9336&mlon=-90.1059#map=16/29.9336/-90.1059) · [Google Maps](https://www.google.com/maps/search/?api=1&query=29.9336,-90.1059)
 
+## Why Teaching Kids To Cook Is the Key To A Better Future — Valentina Valentini (2016)
 Source: [Original](https://www.good.is/articles/edible-schoolyards-new-orleans-lice-waters-chez-panisse-foundation) · [Readwise highlight](https://read.readwise.io/read/01m5jx5k9g8bj14h19k2spqvkj)
 
 > We started with building a garden in the one school that we were able to reopen in 2006 post-flood, Samuel J. Green Charter.

@@ -1,18 +1,13 @@
 ---
 publish: true
+title: Lake Fryken
+created: 2024-05-18
+modified: 2026-11-07T07:01:43.227Z
+published: 2026-11-07T07:01:43.227Z
 aliases:
   - Fryken
   - Fryksände
   - Frykstad
-title: Lake Fryken
-created: 2024-05-18
-modified: 2026-11-02T14:18:25.000Z
-published: 2026-11-02T14:18:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Lake Fryken.svg
 books:
   - Nordic Tales
 categories:
@@ -25,6 +20,10 @@ icon: book
 location:
   - 59.7447
   - 13.1699
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Sweden]]"
 image: Attachments/Places/Lake Fryken.svg
 ---
@@ -34,13 +33,13 @@ image: Attachments/Places/Lake Fryken.svg
 Chain of long lakes (Fryken) in Värmland, western Sweden. It turns up in Nordic Tales (Chronicle Books): Long Värmland lake whose two ends (Frykstad, Fryksend) frame the twin-sister race against the Devil.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Nordic Tales | Chronicle Books | setting | Long Värmland lake whose two ends (Frykstad, Fryksend) frame the twin-sister race against the Devil. |
 
-## Nordic Tales — Chronicle Books (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.7447&mlon=13.1699#map=10/59.7447/13.1699) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.7447,13.1699)
 
+## Nordic Tales — Chronicle Books (2019)
 Source: [Original](https://chroniclebooks.com/products/nordic-tales) · [Readwise highlight](https://read.readwise.io/read/01m5fmt19syzffm5cksv7wa5bq)
 
 > So they agreed to race to the end of Lake Fryken and back, one on each side of the lake, which, as you know, is a very long one indeed.

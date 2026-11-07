@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Hamburg, New York
 title: Village of Hamburg, New York
 created: 2024-05-18
-modified: 2026-11-06T14:27:37.000Z
-published: 2026-11-06T14:27:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Village of Hamburg, New York.svg
+modified: 2026-11-07T06:57:30.456Z
+published: 2026-11-07T06:57:30.456Z
+aliases:
+  - Hamburg, New York
 books:
   - "[[Walkable City]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 42.7228
   - -78.8339
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Village of Hamburg, New York.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Village of Hamburg, New York.svg
 Village of Hamburg, New York is a village in Erie County, New York. It turns up in Walkable City (Jeff Speck): It is Speck's model of a small town beating the state DOT through leadership.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | turning point | Mayor John Thomas, working with pedestrian advocate Dan Burden, refused the state DOT's road widenings until a new design with public… |
 
-## Walkable City — Jeff Speck (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.7228&mlon=-78.8339#map=16/42.7228/-78.8339) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.7228,-78.8339)
 
+## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjxhfck05qrnxynayweqa)
 
 > This is what happened in the Village of Hamburg, New York (population roughly ten thousand), where Mayor John Thomas was being told by NYDOT to accept three major road widenings that would have removed parallel parking, increased travel speeds, and generally trashed his town center.

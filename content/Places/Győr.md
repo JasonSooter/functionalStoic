@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Gyor
 title: Győr
 created: 2024-12-21
-modified: 2026-11-02T14:17:04.000Z
-published: 2026-11-02T14:17:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Győr.svg
+modified: 2026-11-07T07:01:18.028Z
+published: 2026-11-07T07:01:18.028Z
+aliases:
+  - Gyor
 books:
   - "[[Apeirogon]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 47.6835
   - 17.6343
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Hungary]]"
 image: Attachments/Places/Győr.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Győr.svg
 City in northwest Hungary. In _Apeirogon_ Smadar's grandfather runs errands here before the Gestapo seize him.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Yitzak's boyhood errands and cinema arrest, retold for Smadar's school project. |
 
-## Apeirogon — Colum McCann (2020)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.6835&mlon=17.6343#map=16/47.6835/17.6343) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.6835,17.6343)
 
+## Apeirogon — Colum McCann (2020)
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7wxr4m2srjs6yftwhrg8f)
 
 > At the age of fourteen, Yitzak was assigned to work as a runner for the rabbi in Gyor, smuggling gold down to the market.

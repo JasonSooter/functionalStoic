@@ -2,13 +2,8 @@
 publish: true
 title: Goma
 created: 2016-03-15
-modified: 2026-11-02T14:17:04.000Z
-published: 2026-11-02T14:17:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Goma.svg
+modified: 2026-11-07T06:58:20.459Z
+published: 2026-11-07T06:58:20.459Z
 aliases: []
 books:
   - "Your Phone Was Made By Slaves: A Primer on the Secret Economy"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - -1.6794
   - 29.2336
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Democratic Republic of the Congo]]"
 image: Attachments/Places/Goma.svg
 ---
@@ -30,10 +29,11 @@ image: Attachments/Places/Goma.svg
 City in eastern DR Congo on Lake Kivu, below the Nyiragongo volcano. Kevin Bales's starting point for understanding the conflict-mineral economy.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Your Phone Was Made By Slaves: A Primer on the Secret Economy | Kevin Bales | journey waypoint | Aid-dependent border city and UN hub, under the volcano and its lava fields. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-1.6794&mlon=29.2336#map=16/-1.6794/29.2336) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-1.6794,29.2336)
 
 ## Your Phone Was Made By Slaves: A Primer on the Secret Economy — Kevin Bales (2016)
 

@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Hambledon Lock
 title: Hambleden Lock
 created: 2025-04-19
-modified: 2026-11-02T14:17:31.000Z
-published: 2026-11-02T14:17:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hambleden Lock.svg
+modified: 2026-11-07T07:02:07.806Z
+published: 2026-11-07T07:02:07.806Z
+aliases:
+  - Hambledon Lock
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 51.5603
   - -0.8733
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Buckinghamshire]]"
 image: Attachments/Places/Hambleden Lock.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Hambleden Lock.svg
 Lock and weir on the Thames below Henley. In Three Men in a Boat the friends beg drinking water from the lock-keeper, who tells them to take it from the river.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | setting | Short of water, George asks the lock-keeper for some and is told to drink the river, as he has for fifteen years. |
 
-## Three Men in a Boat — Jerome K. Jerome (1889)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5603&mlon=-0.8733#map=16/51.5603/-0.8733) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5603,-0.8733)
 
+## Three Men in a Boat — Jerome K. Jerome (1889)
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkyggezcwb8g1n2aw4drzb)
 
 > We found ourselves short of water at Hambledon lock; so we took our jar and went up to the lock-keeper’s house to beg for some.

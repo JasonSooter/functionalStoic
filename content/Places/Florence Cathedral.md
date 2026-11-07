@@ -1,18 +1,13 @@
 ---
 publish: true
+title: Florence Cathedral
+created: 2026-08-26
+modified: 2026-11-07T06:54:22.951Z
+published: 2026-11-07T06:54:22.951Z
 aliases:
   - Duomo di Firenze
   - Santa Maria del Fiore
   - the Duomo
-title: Florence Cathedral
-created: 2026-08-26
-modified: 2026-11-02T14:16:43.000Z
-published: 2026-11-02T14:16:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Florence Cathedral.svg
 books:
   - Neither Here Nor There
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 43.7731
   - 11.2569
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Florence]]"
 image: Attachments/Places/Florence Cathedral.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Florence Cathedral.svg
 Santa Maria del Fiore, the Duomo, on the cathedral piazza in the centre of [[Florence]], Italy; Bill Bryson visits it in Neither Here Nor There as one of Europe's great sights, swamped by tourists.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | One of Europe's great sights, swamped by April crowds. |
 
-## Neither Here Nor There — Bill Bryson (1991)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.7731&mlon=11.2569#map=16/43.7731/11.2569) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.7731,11.2569)
 
+## Neither Here Nor There — Bill Bryson (1991)
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejetp2p0mtdmgpkd9hnwq)
 
 > I went first to the cathedral, or Duomo, the centerpiece of the town.

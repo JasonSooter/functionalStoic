@@ -2,13 +2,8 @@
 publish: true
 title: Vanderbilt University
 created: 2016-09-16
-modified: 2026-11-06T14:23:13.000Z
-published: 2026-11-06T14:23:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Vanderbilt University.svg
+modified: 2026-11-07T06:56:31.094Z
+published: 2026-11-07T06:56:31.094Z
 aliases: []
 books:
   - "How to Raise a Genius: Lessons from a 45-Year Study of Supersmart Children"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 36.1475
   - -86.8025
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tennessee]]"
 image: Attachments/Places/Vanderbilt University.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Vanderbilt University.svg
 University in Nashville, Tennessee, home of the Study of Mathematically Precocious Youth. Nature's piece on gifted children opens on its quad.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Raise a Genius: Lessons from a 45-Year Study of Supersmart Children | Tom Clynes | setting | The reporter walks the quadrangle with Benbow and Lubinski as they recount SMPY's origins, passing the 1915 psychology laboratory, the… |
 
-## How to Raise a Genius: Lessons from a 45-Year Study of Supersmart Children — Tom Clynes (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.1475&mlon=-86.8025#map=16/36.1475/-86.8025) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.1475,-86.8025)
 
+## How to Raise a Genius: Lessons from a 45-Year Study of Supersmart Children — Tom Clynes (2016)
 Source: [Original](https://www.scientificamerican.com/article/how-to-raise-a-genius-lessons-from-a-45-year-study-of-supersmart-children/) · [Readwise highlight](https://read.readwise.io/read/01m5jy7qmccpnbc6hefrs9t2t1)
 
 > On a muggy August day, Benbow and her husband, psychologist David Lubinski, describe the origins of SMPY as they walk across the quadrangle at Vanderbilt University.

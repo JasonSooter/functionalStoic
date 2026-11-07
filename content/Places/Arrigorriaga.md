@@ -2,13 +2,8 @@
 publish: true
 title: Arrigorriaga
 created: 2025-08-29
-modified: 2026-11-02T14:14:09.000Z
-published: 2026-11-02T14:14:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Arrigorriaga.svg
+modified: 2026-11-07T06:55:25.968Z
+published: 2026-11-07T06:55:25.968Z
 aliases: []
 books:
   - "[[Cod]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 43.2078
   - -2.8861
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Basque Country]]"
 image: Attachments/Places/Arrigorriaga.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Arrigorriaga.svg
 Town on the Nerbioi (Nervión) River just upstream from Bilbao. In _Cod_ it is home to the salt cod importer Baisfa.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | setting | Baisfa's director, behind window grilles shaped like salt cod, explains how Basques went from catching cod to importing it. |
 
-## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.2078&mlon=-2.8861#map=16/43.2078/-2.8861) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.2078,-2.8861)
 
+## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kkstthbqhxekvcqng0hqrn)
 
 > A few miles up the Nerbioi River from Bilbao, in the town of Arrigorriaga, Adolfo Eguino’s office overlooked the steep green Basque mountains.

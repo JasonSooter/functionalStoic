@@ -2,13 +2,8 @@
 publish: true
 title: Lealui
 created: 2024-10-04
-modified: 2026-11-02T14:18:30.000Z
-published: 2026-11-02T14:18:30.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Lealui.svg
+modified: 2026-11-07T07:02:58.963Z
+published: 2026-11-07T07:02:58.963Z
 aliases: []
 books:
   - Life on Air
@@ -21,6 +16,10 @@ icon: book
 location:
   - -15.2167
   - 23.0167
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Zambia]]"
 image: Attachments/Places/Lealui.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Lealui.svg
 Dry-season royal residence of the Lozi king on the Barotse floodplain, western Zambia; in _Life on Air_ the end of the royal barge procession.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | The end of the royal barge procession. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-15.2167&mlon=23.0167#map=16/-15.2167/23.0167) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-15.2167,23.0167)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2sh9apjaah1z4wh0y86z)
 
 > The voyage took over four hours and it was too dark to film by the time we arrived at Lealui.

@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Grindavik
 title: Grindavík
 created: 2025-08-29
-modified: 2026-11-02T14:16:50.000Z
-published: 2026-11-02T14:16:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Grindavík.svg
+modified: 2026-11-07T07:00:41.398Z
+published: 2026-11-07T07:00:41.398Z
+aliases:
+  - Grindavik
 books:
   - "[[Cod]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 63.8433
   - -22.4361
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Iceland]]"
 image: Attachments/Places/Grindavík.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Grindavík.svg
 Fishing town on Iceland's Reykjanes peninsula. In _Cod_ it is the site of the killing that set off the first "Cod War" and of a harbour dug by hand.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | setting | Fishermen drag boats over lava until Tómas Thorvaldsson and friends dig a harbour from a tidal pond with shovels. |
 
-## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=63.8433&mlon=-22.4361#map=16/63.8433/-22.4361) · [Google Maps](https://www.google.com/maps/search/?api=1&query=63.8433,-22.4361)
 
+## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kksfen36cer1tf5yhn5heg)
 
 > Grindavik is a seaward strip of land, chosen as a fishing station in 910 because it was close to the cod grounds.

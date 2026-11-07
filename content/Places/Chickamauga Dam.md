@@ -2,13 +2,8 @@
 publish: true
 title: Chickamauga Dam
 created: 2026-01-21
-modified: 2026-11-02T14:15:27.000Z
-published: 2026-11-02T14:15:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Chickamauga Dam.svg
+modified: 2026-11-07T06:55:21.052Z
+published: 2026-11-07T06:55:21.052Z
 aliases: []
 books:
   - Sawing a Dam in Half (on Purpose)
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 35.1039
   - -85.2294
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tennessee]]"
 image: Attachments/Places/Chickamauga Dam.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Chickamauga Dam.svg
 TVA dam on the Tennessee River near Chattanooga, [[Tennessee]], USA, where a second slot was cut through the dam, as told in Practical Engineering's piece on sawing a dam in half.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Sawing a Dam in Half\|Sawing a Dam in Half (on Purpose)]] | Practical Engineering | subject | A second slot cut, done without a cofferdam. |
 
-## Sawing a Dam in Half (on Purpose) — Practical Engineering (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.1039&mlon=-85.2294#map=16/35.1039/-85.2294) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.1039,-85.2294)
 
+## Sawing a Dam in Half (on Purpose) — Practical Engineering (2025)
 Source: [Original](https://practical.engineering/blog/2025/12/16/sawing-a-dam-in-half-on-purpose) · [Readwise highlight](https://read.readwise.io/read/01m5ce3k5amky4b1gh8sdwktt2)
 
 > At Chickamauga Dam, the geometry made a cofferdam less feasible.

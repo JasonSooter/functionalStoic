@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Hōshi Ryokan
+created: 2015-11-28
+modified: 2026-11-07T06:53:00.273Z
+published: 2026-11-07T06:53:00.273Z
 aliases:
   - Hoshi
   - Hoshi Ryokan
-title: Hōshi Ryokan
-created: 2015-11-28
-modified: 2026-11-02T14:17:46.000Z
-published: 2026-11-02T14:17:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Hōshi Ryokan.svg
 books:
   - Why Are so Many of the World's Oldest Businesses in Japan?
 categories:
@@ -23,6 +18,10 @@ icon: newspaper
 location:
   - 36.3317
   - 136.4481
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Japan]]"
 image: Attachments/Places/Hōshi Ryokan.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Hōshi Ryokan.svg
 Hot-spring inn in Komatsu, [[Japan]], said to date from 718. Priceonomics ends its piece on Japan's very old family businesses with it.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Are so Many of the World's Oldest Businesses in Japan? | Priceonomics | subject | Inn said to be founded in 718 and run by one family for 46 generations, often through adopted heirs. |
 
-## Why Are so Many of the World's Oldest Businesses in Japan? — Priceonomics (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.3317&mlon=136.4481#map=16/36.3317/136.4481) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.3317,136.4481)
 
+## Why Are so Many of the World's Oldest Businesses in Japan? — Priceonomics (2015)
 Source: [Original](http://priceonomics.com/why-are-so-many-of-the-worlds-oldest-businesses-in/) · [Readwise highlight](https://read.readwise.io/read/01m5g8vb7pe8921ced92q6d2cn)
 
 > Perhaps the greatest example of this is the backstory of Hoshi, a Japanese inn founded in Komatsu in 718.

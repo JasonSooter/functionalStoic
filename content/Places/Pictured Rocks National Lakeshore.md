@@ -2,12 +2,8 @@
 publish: true
 title: Pictured Rocks National Lakeshore
 created: 2026-10-21T22:57:30.000Z
-modified: 2026-11-02T18:25:16.000Z
-published: 2026-11-02T18:25:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:55:02.314Z
+published: 2026-11-07T06:55:02.314Z
 aliases: []
 books:
   - Michigan’s Upper Peninsula Wrap-Up
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 46.5622
   - -86.3125
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Michigan]]"
+image: Attachments/Places/Pictured Rocks National Lakeshore.svg
 ---
 
 # Pictured Rocks National Lakeshore
@@ -28,13 +29,13 @@ within: "[[Michigan]]"
 Lakeshore park on Lake Superior in [[Michigan]]'s Upper Peninsula. A Currently Wandering post spends a few days there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Michigan’s Upper Peninsula Wrap-Up | Jess | journey waypoint | A few days exploring the crowded lakeshore, with a first pasty in Munising. |
 
-## Michigan’s Upper Peninsula Wrap-Up — Jess (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.5622&mlon=-86.3125#map=16/46.5622/-86.3125) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5622,-86.3125)
 
+## Michigan’s Upper Peninsula Wrap-Up — Jess (2015)
 Source: [Original](http://currentlywandering.com/2015/08/18/michigans-upper-peninsula-wrap-up/) · [Readwise highlight](https://read.readwise.io/read/01m5gany31ahf9hggjt3d2hzn5)
 
 > Bright and early Monday morning we headed farther to Pictured Rocks National Lakeshore.

@@ -2,13 +2,8 @@
 publish: true
 title: Walton-on-Thames
 created: 2025-04-19
-modified: 2026-11-06T17:27:51.000Z
-published: 2026-11-06T17:27:51.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Walton-on-Thames.svg
+modified: 2026-11-07T06:58:46.264Z
+published: 2026-11-07T06:58:46.264Z
 aliases: []
 books:
   - Three Men in a Boat
@@ -21,6 +16,10 @@ icon: book
 location:
   - 51.3868
   - -0.4133
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
 image: Attachments/Places/Walton-on-Thames.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Walton-on-Thames.svg
 Riverside town in Surrey ([[England]]). In Three Men in a Boat (Jerome K. Jerome) the party sculls past it.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Three Men in a Boat | Jerome K. Jerome | journey waypoint | A big town that hides from the river; the church's iron scold's bridle and Oatlands Park. |
 
-## Three Men in a Boat — Jerome K. Jerome (1889)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.3868&mlon=-0.4133#map=16/51.3868/-0.4133) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3868,-0.4133)
 
+## Three Men in a Boat — Jerome K. Jerome (1889)
 Source: [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gbyes2f4n39av9gvfzhx16)
 
 > We sculled up to Walton, a rather large place for a riverside town.

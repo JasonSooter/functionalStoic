@@ -2,12 +2,8 @@
 publish: true
 title: Rosenbad
 created: 2026-10-21T04:46:35.000Z
-modified: 2026-11-02T20:45:36.000Z
-published: 2026-11-02T20:45:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:01:26.432Z
+published: 2026-11-07T07:01:26.432Z
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 59.3283
   - 18.0656
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Stockholm]]"
+image: Attachments/Places/Rosenbad.svg
 ---
 
 # Rosenbad
@@ -28,13 +29,13 @@ within: "[[Stockholm]]"
 Government building in [[Stockholm]], Sweden, where in Hans Rosling's memoir a meeting on the ebola response leads him to decide to go to Liberia.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | turning point | After a meeting on Sweden's ebola contribution, MSF's Eugene Bushayija tells Rosling that nobody knows what is happening in Monrovia. |
 
-## How I Learned to Understand the World — Hans Rosling (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.3283&mlon=18.0656#map=16/59.3283/18.0656) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3283,18.0656)
 
+## How I Learned to Understand the World — Hans Rosling (2019)
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5ebtgwvhqt91gj7atvabvv7)
 
 > It was October 10. We were in the government building in Stockholm.

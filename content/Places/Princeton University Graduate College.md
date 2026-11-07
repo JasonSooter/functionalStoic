@@ -2,12 +2,8 @@
 publish: true
 title: Princeton University Graduate College
 created: 2026-10-23T04:24:51.000Z
-modified: 2026-11-02T18:35:43.000Z
-published: 2026-11-02T18:35:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:57:03.097Z
+published: 2026-11-07T06:57:03.097Z
 aliases: []
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 40.3406
   - -74.6646
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Princeton University]]"
+image: Attachments/Places/Princeton University Graduate College.svg
 ---
 
 # Princeton University Graduate College
@@ -28,13 +29,13 @@ within: "[[Princeton University]]"
 Residential college for graduate students at Princeton University, New Jersey. In _Surely You're Joking, Mr. Feynman!_ it is the mock-Oxford college of Dean Eisenhart's tea, the scene that gives the book its title.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | setting | Feynman's mock-Oxford residence at Princeton, where Mrs. Eisenhart's "Surely you're joking" at tea gives the book its title. |
 
-## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.3406&mlon=-74.6646#map=16/40.3406/-74.6646) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.3406,-74.6646)
 
+## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfq1cxkm84dmj0kkrv1t3q)
 
 > That was my introduction to the graduate “College” at Princeton, where all the students lived. It was like an imitation Oxford or Cambridge—complete with accents (the master of residences was a professor of “French littrachaw”).

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Theodore Roosevelt High School (Des Moines)
 title: Roosevelt High School (Des Moines)
 created: 2026-10-23T04:59:50.000Z
-modified: 2026-11-02T20:38:32.000Z
-published: 2026-11-02T20:38:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:01:24.072Z
+published: 2026-11-07T07:01:24.072Z
+aliases:
+  - Theodore Roosevelt High School (Des Moines)
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 41.5927
   - -93.6782
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Des Moines]]"
+image: Attachments/Places/Roosevelt High School (Des Moines).svg
 ---
 
 # Roosevelt High School (Des Moines)
@@ -29,13 +30,13 @@ within: "[[Des Moines]]"
 Theodore Roosevelt High School on the west side of Des Moines. In _The Life and Times of the Thunderbolt Kid_ the teenage Bryson is called to its principal's office when a forgery scheme comes to light.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Life and Times of the Thunderbolt Kid]] | Bill Bryson | turning point | Summoned to the principal's office over a forged licence, Bryson invents a story and his friend Katz takes the blame. |
 
-## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.5927&mlon=-93.6782#map=16/41.5927/-93.6782) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.5927,-93.6782)
 
+## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
 Source: [[The Life and Times of the Thunderbolt Kid]] · [Original](https://openlibrary.org/works/OL4620956W) · [Readwise highlight](https://read.readwise.io/read/01m5khtpyva5nmkz7s58fyahyd)
 
 > The first time this occurred to me was about 9:30 on a weekday morning when I was summoned to the office of the Roosevelt principal.

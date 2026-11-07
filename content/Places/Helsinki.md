@@ -2,13 +2,8 @@
 publish: true
 title: Helsinki
 created: 2023-02-19
-modified: 2026-11-02T14:17:35.000Z
-published: 2026-11-02T14:17:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Helsinki.svg
+modified: 2026-11-07T07:03:09.810Z
+published: 2026-11-07T07:03:09.810Z
 aliases: []
 books:
   - How the Finnish survive without small talk
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 60.1708
   - 24.9375
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Finland]]"
 image: Attachments/Places/Helsinki.svg
 ---
@@ -34,6 +33,8 @@ Capital of Finland on the Gulf of Finland. A BBC Travel piece on Finnish silence
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How the Finnish survive without small talk | Laura Studarus | setting | The author met her friend Hanna on a coffee date during her first visit to Helsinki. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.1708&mlon=24.9375#map=11/60.1708/24.9375) · [Google Maps](https://www.google.com/maps/search/?api=1&query=60.1708,24.9375)
 
 ## Sub-places
 
@@ -51,7 +52,6 @@ Capital of Finland on the Gulf of Finland. A BBC Travel piece on Finnish silence
 - [[University of Helsinki]]
 
 ## How the Finnish survive without small talk — Laura Studarus (2018)
-
 Source: [Original](https://www.bbc.com/travel/story/20181016-how-the-finnish-survive-without-small-talk) · [Readwise highlight](https://read.readwise.io/read/01m5k7bwxbmn3n1m6bs1btv7dn)
 
 > I met my now best friend Hanna a few years ago during my first visit to Helsinki, on a coffee date set up out of desperation.

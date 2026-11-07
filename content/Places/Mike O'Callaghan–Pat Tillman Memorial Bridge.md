@@ -2,13 +2,8 @@
 publish: true
 title: Mike O'Callaghan–Pat Tillman Memorial Bridge
 created: 2025-03-16
-modified: 2026-11-02T15:41:41.000Z
-published: 2026-11-02T15:41:41.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Mike O'Callaghan–Pat Tillman Memorial Bridge.svg
+modified: 2026-11-07T06:56:27.058Z
+published: 2026-11-07T06:56:27.058Z
 aliases: []
 books:
   - A Love Letter to Cable-Stayed Bridges
@@ -22,6 +17,10 @@ icon: video
 location:
   - 36.0125
   - -114.7414
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nevada]]"
 image: Attachments/Places/Mike O'Callaghan–Pat Tillman Memorial Bridge.svg
 ---
@@ -31,14 +30,14 @@ image: Attachments/Places/Mike O'Callaghan–Pat Tillman Memorial Bridge.svg
 Arch bridge over the Colorado River below Hoover Dam, on the Nevada/Arizona line in [[Nevada]]. It appears in two Practical Engineering pieces on cable-stayed bridges as a timelapse example of stays holding an arch up during construction.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Love Letter to Cable-Stayed Bridges | Practical Engineering | subject | Shown as an example of cable stays used as temporary support during construction. |
 | An Engineer’s Love Letter to Cable-Stayed Bridges | Practical Engineering | backdrop | Timelapse of the arch held up by temporary cable stays, illustrating the constructability advantage of stays. |
 
-## A Love Letter to Cable-Stayed Bridges — Practical Engineering (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.0125&mlon=-114.7414#map=16/36.0125/-114.7414) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.0125,-114.7414)
 
+## A Love Letter to Cable-Stayed Bridges — Practical Engineering (2025)
 Source: [Original](https://www.youtube.com/watch?v=YSQhtlyfPtU) · [Readwise highlight](https://read.readwise.io/read/01m5ebsv5ed5m6tf0vv43znkpr)
 
 > Check out this timelapse of the construction of the I-11 bridge over the Colorado River downstream of the Hoover Dam. If you look carefully, you can see that before the arch is complete, it is supported by cable stays!
@@ -48,7 +47,6 @@ Source: [Original](https://www.youtube.com/watch?v=YSQhtlyfPtU) · [Readwise hig
 - **Why it matters:** A concrete illustration of constructability; the bridge itself is not the topic.
 
 ## An Engineer’s Love Letter to Cable-Stayed Bridges — Practical Engineering (2025)
-
 Source: [Original](https://practical.engineering/blog/2025/2/14/an-engineers-love-letter-to-cable-stayed-bridges) · [Readwise highlight](https://read.readwise.io/read/01m5ebsw3t666r00tamgqcjdvq)
 
 > Check out this timelapse of the construction of the I-11 bridge over the Colorado River downstream of the Hoover Dam.

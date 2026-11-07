@@ -2,12 +2,8 @@
 publish: true
 title: Noatak River
 created: 2026-10-21T19:40:17.000Z
-modified: 2026-11-02T17:59:23.000Z
-published: 2026-11-02T17:59:23.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:02:45.152Z
+published: 2026-11-07T07:02:45.152Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -21,7 +17,12 @@ icon: book
 location:
   - 68
   - -159.5
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Alaska]]"
+image: Attachments/Places/Noatak River.svg
 ---
 
 # Noatak River
@@ -29,13 +30,13 @@ within: "[[Alaska]]"
 Wild river in northwest Alaska, protected in the Noatak National Preserve. In The Comfort Crisis (Michael Easter) it is the base camp of his Arctic caribou hunt.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | setting | Base camp of the Arctic caribou hunt and the book's main wilderness setting. |
 
-## The Comfort Crisis — Michael Easter (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=68&mlon=-159.5#map=10/68/-159.5) · [Google Maps](https://www.google.com/maps/search/?api=1&query=68,-159.5)
 
+## The Comfort Crisis — Michael Easter (2021)
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fzd5vzqdq1s2197gjtzh9r)
 
 > The Noatak River system, which we’re smack in the middle of, is believed to be America’s last remaining river system unaltered by humans.

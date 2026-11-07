@@ -2,13 +2,8 @@
 publish: true
 title: Carnegie Mellon University
 created: 2016-04-25
-modified: 2026-11-02T14:15:03.000Z
-published: 2026-11-02T14:15:03.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Carnegie Mellon University.svg
+modified: 2026-11-07T06:53:11.765Z
+published: 2026-11-07T06:53:11.765Z
 aliases: []
 books:
   - Not All Practice Makes Perfect
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.4425
   - -79.9433
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pittsburgh]]"
 image: Attachments/Places/Carnegie Mellon University.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Carnegie Mellon University.svg
 University in Pittsburgh, Pennsylvania. A setting in Anders Ericsson & Robert Pool's “Not All Practice Makes Perfect”: Campus where Ericsson ran the digit-memory experiment with Steve Faloon.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Not All Practice Makes Perfect | Anders Ericsson & Robert Pool | setting | Campus where Ericsson ran the digit-memory experiment with Steve Faloon |
 
-## Not All Practice Makes Perfect — Anders Ericsson & Robert Pool (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4425&mlon=-79.9433#map=16/40.4425/-79.9433) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4425,-79.9433)
 
+## Not All Practice Makes Perfect — Anders Ericsson & Robert Pool (2016)
 Source: [Original](http://nautil.us/issue/35/boundaries/not-all-practice-makes-perfect) · [Readwise highlight](https://read.readwise.io/read/01m5jjqjjjy3q2y0zyg7y7a88v)
 
 > Steve, an undergraduate at Carnegie Mellon University, where I was teaching at the time, had been hired to come in several times a week and work on a simple task: memorizing strings of numbers.

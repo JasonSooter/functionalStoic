@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Ozeaneum Stralsund
 title: Ozeaneum
 created: 2026-10-20T04:21:31.000Z
-modified: 2026-11-02T18:15:34.000Z
-published: 2026-11-02T18:15:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:53:20.434Z
+published: 2026-11-07T06:53:20.434Z
+aliases:
+  - Ozeaneum Stralsund
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
 categories:
@@ -20,7 +16,12 @@ icon: video
 location:
   - 54.3156
   - 13.0969
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Stralsund]]"
+image: Attachments/Places/Ozeaneum.svg
 ---
 
 # Ozeaneum
@@ -28,13 +29,13 @@ within: "[[Stralsund]]"
 Aquarium of the northern seas on the harbour of [[Stralsund]], singled out as the landmark of the Stralsund stop in a DW Travel video on lesser-known German cities.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | The modern aquarium that stands out in a red-brick Baltic port. |
 
-## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=54.3156&mlon=13.0969#map=16/54.3156/13.0969) · [Google Maps](https://www.google.com/maps/search/?api=1&query=54.3156,13.0969)
 
+## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
 Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Original](https://www.youtube.com/watch?v=9AbxJrqpPqQ) · [Readwise highlight](https://read.readwise.io/read/01m5brfawghdvmxcjahrrtcwfv)
 
 > However, the most striking building is the Ozeaneum aquarium.

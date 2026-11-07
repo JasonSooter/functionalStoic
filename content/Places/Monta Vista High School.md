@@ -2,12 +2,8 @@
 publish: true
 title: Monta Vista High School
 created: 2026-10-21T22:26:48.000Z
-modified: 2026-11-02T15:48:01.000Z
-published: 2026-11-02T15:48:01.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:57:23.851Z
+published: 2026-11-07T06:57:23.851Z
 aliases: []
 books:
   - "[[Quiet]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 37.3145
   - -122.0567
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Cupertino]]"
+image: Attachments/Places/Monta Vista High School.svg
 ---
 
 # Monta Vista High School
@@ -28,13 +29,13 @@ within: "[[Cupertino]]"
 Public high school in [[Cupertino]], California. In Quiet (Susan Cain) it shows a school where studious, quiet students set the tone.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | setting | School where quiet, studious kids are respected and football carries little status. |
 
-## Quiet — Susan Cain (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3145&mlon=-122.0567#map=16/37.3145/-122.0567) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.3145,-122.0567)
 
+## Quiet — Susan Cain (2012)
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wqk1g0s3mrb1q99zbng3)
 
 > Of the 615 students in the graduating class of 2010 at Cupertino’s Monta Vista High School

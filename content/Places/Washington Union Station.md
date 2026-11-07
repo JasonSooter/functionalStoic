@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Union Station (Washington)
 title: Washington Union Station
 created: 2025-11-26
-modified: 2026-11-06T17:31:50.000Z
-published: 2026-11-06T17:31:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Washington Union Station.svg
+modified: 2026-11-07T06:59:13.471Z
+published: 2026-11-07T06:59:13.471Z
+aliases:
+  - Union Station (Washington)
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 38.8973
   - -77.0063
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington DC]]"
 image: Attachments/Places/Washington Union Station.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Washington Union Station.svg
 Main railway station of [[Washington DC]], USA, which shows up in the reading as the first stop of Kyla Scanlon's nine-city trip, where she sees tanks parked in front of its marble columns.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go\|30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?]] | Kyla Scanlon | setting | Tanks in front of marble columns: power as performance. |
 
-## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8973&mlon=-77.0063#map=16/38.8973/-77.0063) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8973,-77.0063)
 
+## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce59586ckw1sagnezr6grg)
 
 > When I landed in DC, the first thing I saw was the National Guard by Union Station, with their tanks parked in front of marble columns, while a man in a clown costume filmed them.

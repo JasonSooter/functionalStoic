@@ -2,13 +2,8 @@
 publish: true
 title: Khyber Pass
 created: 2025-03-08
-modified: 2026-11-02T14:17:59.000Z
-published: 2026-11-02T14:17:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Khyber Pass.svg
+modified: 2026-11-07T06:58:01.031Z
+published: 2026-11-07T06:58:01.031Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 34.0757
   - 71.2039
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pakistan]]"
 image: Attachments/Places/Khyber Pass.svg
 ---
@@ -31,14 +30,14 @@ image: Attachments/Places/Khyber Pass.svg
 Mountain pass between Afghanistan and Pakistan. In _Full Tilt_ Dervla Murphy rides down the old tribal road.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | backdrop | Riding down the tribal road past forts and the steep railway, talking with armed Pathans. |
 | [[On the Hippie Trail]] | Rick Steves | turning point | A lifelong dream: the bus climbs the pass past fortresses and Pashtun tribesmen into Pakistan. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0757&mlon=71.2039#map=16/34.0757/71.2039) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0757,71.2039)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6mmmtwwam6xgy7v6z6bnd)
 
 > The Khyber Pass is very fine, but, after the Hindu Kush, something of an anticlimax. Its fame is based on history rather than on scenery, and one has both in Afghanistan, though British travellers find the Khyber uniquely significant, with all its sad little graveyards on the mountainsides and the regimental plaques on the cliff-faces.
@@ -48,7 +47,6 @@ Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://op
 - **Why it matters:** Historic gateway into the subcontinent; its tribal law and armed culture introduce the Pathan world she grows to love.
 
 ## On the Hippie Trail — Rick Steves (2025)
-
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjekjdysyz6m6ey61thw7b)
 
 > The Khyber Pass! I had dreamed of crossing this romantically wild and historically dangerous cultural divide for years.

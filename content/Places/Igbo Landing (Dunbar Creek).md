@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Igbo Landing
 title: Igbo Landing (Dunbar Creek)
 created: 2020-01-27
-modified: 2026-11-02T14:17:40.000Z
-published: 2026-11-02T14:17:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Igbo Landing (Dunbar Creek).svg
+modified: 2026-11-07T06:53:29.983Z
+published: 2026-11-07T06:53:29.983Z
+aliases:
+  - Igbo Landing
 books:
   - The Black Art of Escape
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 31.1872
   - -81.3872
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Georgia (U.S. state)]]"
 image: Attachments/Places/Igbo Landing (Dunbar Creek).svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Igbo Landing (Dunbar Creek).svg
 Site on Dunbar Creek, St. Simons Island, Georgia, where captive Igbo walked into the water in 1803. Casey Gerald cites it as a precedent for escape.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Black Art of Escape | Casey Gerald | subject | Cited episode of the captured Igbo who walked into the water chanting that the Sea would bring them home, offered as a precedent for flight. |
 
-## The Black Art of Escape — Casey Gerald (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.1872&mlon=-81.3872#map=16/31.1872/-81.3872) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.1872,-81.3872)
 
+## The Black Art of Escape — Casey Gerald (2019)
 Source: [Original](https://nymag.com/intelligencer/2019/08/the-black-art-of-escape.html) · [Readwise highlight](https://read.readwise.io/read/01m5k7ght2nmse1a8r06se9msy)
 
 > In 1803, a group of captured Igbo rebelled at Dunbar Creek, Georgia.

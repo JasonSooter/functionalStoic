@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Theresienwiese
+created: 2026-01-04
+modified: 2026-11-07T06:50:26.995Z
+published: 2026-11-07T06:50:26.995Z
 aliases:
   - Oktoberfest
   - Wiesn
-title: Theresienwiese
-created: 2026-01-04
-modified: 2026-11-07T06:20:20.000Z
-published: 2026-11-07T06:20:20.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Theresienwiese.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 48.1333
   - 11.55
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Munich]]"
 image: Attachments/Places/Theresienwiese.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Theresienwiese.svg
 Open fairground in Munich named after Princess Therese, where the Oktoberfest is held each year. In _Germany: Memories of a Nation_ the festival stands for regional, convivial German identity.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Home of the Oktoberfest, first held for Ludwig's wedding in 1810 and now a symbol of a relaxed, hospitable new Germany. |
 
-## Germany: Memories of a Nation — Neil MacGregor (2014)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.1333&mlon=11.55#map=16/48.1333/11.55) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.1333,11.55)
 
+## Germany: Memories of a Nation — Neil MacGregor (2014)
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75nad2z1qaxyz7872w9bv)
 
 > On 12 October 1810, to celebrate his wedding, the first Oktoberfest was held in his capital city of Munich.

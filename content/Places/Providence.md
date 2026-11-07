@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Providence, Rhode Island
 title: Providence
 created: 2026-10-21T19:59:54.000Z
-modified: 2026-11-02T18:35:43.000Z
-published: 2026-11-02T18:35:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:57:18.885Z
+published: 2026-11-07T06:57:18.885Z
+aliases:
+  - Providence, Rhode Island
 books:
   - How to Be an Antiracist
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 41.8236
   - -71.4222
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Rhode Island]]"
+image: Attachments/Places/Providence.svg
 ---
 
 # Providence
@@ -29,17 +30,17 @@ within: "[[Rhode Island]]"
 Capital of Rhode Island. In How to Be an Antiracist (Ibram X. Kendi) it is where he and Sadiqa learn she has breast cancer.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | turning point | New home where Kendi and Sadiqa learn of her breast cancer. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.8236&mlon=-71.4222#map=11/41.8236/-71.4222) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.8236,-71.4222)
 
 ## Sub-places
 
 - [[Rhode Island School of Design]]
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
-
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5g0f0e5g478vzsjf99gw4g1)
 
 > SADIQA AND I rarely sat on the rounded cream sofa in our new home in Providence.

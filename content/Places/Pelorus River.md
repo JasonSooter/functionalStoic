@@ -2,12 +2,8 @@
 publish: true
 title: Pelorus River
 created: 2026-10-23T11:15:24.000Z
-modified: 2026-11-02T18:20:00.000Z
-published: 2026-11-02T18:20:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:54:25.975Z
+published: 2026-11-07T06:54:25.975Z
 aliases: []
 books:
   - "[[The Hobbit]]"
@@ -22,7 +18,12 @@ icon: book
 location:
   - -41.2667
   - 173.75
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Zealand]]"
+image: Attachments/Places/Pelorus River.svg
 ---
 
 # Pelorus River
@@ -30,13 +31,13 @@ within: "[[New Zealand]]"
 The Pelorus River is a river in the Marlborough region of New Zealand's South Island, reaching the sea at Havelock. It is pinned for _The Hobbit_ because Peter Jackson's Hobbit films shot the Forest River barrel escape there; it is not a place in the book.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | journey waypoint | River where Jackson's films shot the barrel escape down the Forest River; not a place in the book. |
 
-## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-41.2667&mlon=173.75#map=10/-41.2667/173.75) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-41.2667,173.75)
 
+## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m778rvv79r3hs7mfz5vvc1)
 
 > Out they went under the overhanging branches of the trees on either bank.

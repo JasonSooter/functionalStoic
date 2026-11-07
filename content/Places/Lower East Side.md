@@ -2,13 +2,8 @@
 publish: true
 title: Lower East Side
 created: 2024-05-18
-modified: 2026-11-02T14:17:07.000Z
-published: 2026-11-02T14:17:07.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Lower East Side.svg
+modified: 2026-11-07T06:51:41.687Z
+published: 2026-11-07T06:51:41.687Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -22,6 +17,10 @@ icon: book
 location:
   - 40.715
   - -73.985
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Lower East Side.svg
 ---
@@ -37,8 +36,9 @@ Lower East Side is a historically Jewish neighborhood in Manhattan. It turns up 
 | [[Four Thousand Weeks]] | Oliver Burkeman | backdrop | Friends of the author live in a building here with a Shabbat elevator that stops at every floor from Friday evening to Saturday night, so… |
 | [[Quiet]] | Susan Cain | turning point | Eleanor Roosevelt shows young Franklin the poverty she sees at a settlement house here. |
 
-## Four Thousand Weeks — Oliver Burkeman (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.715&mlon=-73.985#map=16/40.715/-73.985) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.715,-73.985)
 
+## Four Thousand Weeks — Oliver Burkeman (2021)
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcqky32gk5b569xkdg3x3r)
 
 > Friends of mine live in an apartment building on the historically Jewish Lower East Side
@@ -48,7 +48,6 @@ Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22
 - **Why it matters:** A minor illustration of how religious rules make rest happen. Little depends on the location beyond its Jewish heritage.
 
 ## Quiet — Susan Cain (2012)
-
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wjjwqef3detjqsgcz6k9)
 
 > As a volunteer at a settlement house on Manhattan’s impoverished Lower East Side, she had met children who were forced to sew artificial flowers in windowless factories to the point of exhaustion.

@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Menlo Park laboratory
+created: 2025-05-14
+modified: 2026-11-07T06:55:41.710Z
+published: 2026-11-07T06:55:41.710Z
 aliases:
   - Thomas Edison Center at Menlo Park
   - Edison's Menlo Park lab
-title: Menlo Park laboratory
-created: 2025-05-14
-modified: 2026-11-07T06:21:25.000Z
-published: 2026-11-07T06:21:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Menlo Park laboratory.svg
 books:
   - Abundance
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 40.5636
   - -74.3393
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Menlo Park laboratory.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Menlo Park laboratory.svg
 Thomas Edison's laboratory stood in Menlo Park, in what is now Edison Township, New Jersey; the site is now the Thomas Edison Center at Menlo Park. In _Abundance_ it is the model of the team-based research lab.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | subject | Edison's two-story shed and its team of 'muckers': the first corporate research lab, and a lesson in implementation. |
 
-## Abundance — Ezra Klein & Derek Thompson (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5636&mlon=-74.3393#map=16/40.5636/-74.3393) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.5636,-74.3393)
 
+## Abundance — Ezra Klein & Derek Thompson (2025)
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m750ytaxhnnwrds0ty5d0h)
 
 > Inside the two-story shed he built in Menlo Park, New Jersey, Edison oversaw a team of “muckers”—his term for professional experimenters—who fleshed out his sketches and helped him invent, among other things, the incandescent lightbulb and the first instruments for recording sound and video.

@@ -2,13 +2,8 @@
 publish: true
 title: Ediacara Hills
 created: 2024-10-04
-modified: 2026-11-02T14:16:10.000Z
-published: 2026-11-02T14:16:10.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Ediacara Hills.svg
+modified: 2026-11-07T07:05:03.394Z
+published: 2026-11-07T07:05:03.394Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +17,10 @@ icon: book
 location:
   - -30.8167
   - 138.1333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[South Australia]]"
 image: Attachments/Places/Ediacara Hills.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Ediacara Hills.svg
 Low range in the Flinders Ranges, South Australia, with Precambrian fossils; in _Life on Air_ Attenborough films the earliest animal imprints there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough films the earliest animal imprints there. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-30.8167&mlon=138.1333#map=10/-30.8167/138.1333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-30.8167,138.1333)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8bz1jzcbk24cypytpdv7)
 
 > In the first programme that dealt with the very earliest life forms, we filmed at an extraordinary site in the Ediacra Hills in South Australia.

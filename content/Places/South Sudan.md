@@ -1,18 +1,14 @@
 ---
 publish: true
-aliases:
-  - Southern Sudan
 title: South Sudan
 created: 2024-02-11
-modified: 2026-11-02T21:34:24.000Z
-published: 2026-11-02T21:34:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/South Sudan.svg
+modified: 2026-11-07T06:56:51.953Z
+published: 2026-11-07T06:56:51.953Z
+aliases:
+  - Southern Sudan
 books:
-  - Makoy Samuel Yibi won’t stop until the world eradicates its next disease – Bill Gates
+  - Makoy Samuel Yibi won’t stop until the world eradicates its next disease – Bill
+    Gates
 categories:
   - "[[Places]]"
 color: purple
@@ -23,6 +19,10 @@ icon: newspaper
 location:
   - 8
   - 30
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/South Sudan.svg
 ---
 
@@ -31,17 +31,16 @@ image: Attachments/Places/South Sudan.svg
 Landlocked country in east-central Africa, independent since 2011. It turns up in Makoy Samuel Yibi won’t stop until the world eradicates its next disease – Bill Gates (Bill Gates): country where Makoy leads Guinea worm eradication despite war, no roads and many languages.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Makoy Samuel Yibi won’t stop until the world eradicates its next disease – Bill Gates | Bill Gates | setting | Country where Makoy leads Guinea worm eradication despite war, no roads and many languages. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=8&mlon=30#map=11/8/30) · [Google Maps](https://www.google.com/maps/search/?api=1&query=8,30)
 
+## Sub-places
 - [[Terekeka County]]
 
 ## Makoy Samuel Yibi won’t stop until the world eradicates its next disease – Bill Gates — Bill Gates (2024)
-
 Source: [Original](https://www.gatesnotes.com/Heroes-in-the-Field-Makoy-Samuel-Yibi) · [Readwise highlight](https://read.readwise.io/read/01m5fmrdhdncc9g1pya9yz7pv3)
 
 > As the national director of the South Sudan Ministry of Health’s Guinea Worm Eradication Program, Makoy helped reduce the number of cases in his country last year to just two.

@@ -2,13 +2,8 @@
 publish: true
 title: Vigilante Coffee (Hyattsville)
 created: 2017-07-09
-modified: 2026-11-06T14:27:36.000Z
-published: 2026-11-06T14:27:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Vigilante Coffee (Hyattsville).svg
+modified: 2026-11-07T06:57:26.174Z
+published: 2026-11-07T06:57:26.174Z
 aliases: []
 books:
   - Rod Dreher’s Monastic Vision – The New Yorker
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 38.9524
   - -76.9411
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Hyattsville, Maryland]]"
 image: Attachments/Places/Vigilante Coffee (Hyattsville).svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Vigilante Coffee (Hyattsville).svg
 Coffee roaster in Hyattsville, Maryland. In a New Yorker profile it is where members of the local Catholic community meet before dawn.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Rod Dreher’s Monastic Vision – The New Yorker | Joshua Rothman | setting | Pre-dawn meeting spot in an industrial space with indie rock and painted skateboards. |
 
-## Rod Dreher’s Monastic Vision – The New Yorker — Joshua Rothman (2017)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9524&mlon=-76.9411#map=16/38.9524/-76.9411) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9524,-76.9411)
 
+## Rod Dreher’s Monastic Vision – The New Yorker — Joshua Rothman (2017)
 Source: [Original](https://www.newyorker.com/magazine/2017/05/01/rod-drehers-monastic-vision) · [Readwise highlight](https://read.readwise.io/read/01m5k7fy3haxny1gdc0ypwy4gr)
 
 > Hyattsville’s relative affordability is especially appealing to large Catholic families, and the café was in an industrial space that might once have belonged to a body shop.

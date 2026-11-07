@@ -2,13 +2,8 @@
 publish: true
 title: Topos Too
 created: 2024-09-09
-modified: 2026-11-06T08:26:12.000Z
-published: 2026-11-06T08:26:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Topos Too.svg
+modified: 2026-11-07T06:53:34.695Z
+published: 2026-11-07T06:53:34.695Z
 aliases: []
 books:
   - "[[Print Will Save You]]"
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.7004
   - -73.8989
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Topos Too.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Topos Too.svg
 Bookshop and café in Ridgewood, Queens, New York. In Sarah M. Chappell's essay, a shop copy there starts her return to print.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Print Will Save You]] | Sarah M. Chappell | setting | A shop copy of the New York Review of Books at the coffee bar sparks a print revival. |
 
-## Print Will Save You — Sarah M. Chappell (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7004&mlon=-73.8989#map=16/40.7004/-73.8989) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7004,-73.8989)
 
+## Print Will Save You — Sarah M. Chappell (2024)
 Source: [[Print Will Save You]] · [Original](https://sarahmchappell.substack.com/p/print-will-save-you) · [Readwise highlight](https://read.readwise.io/read/01m5f1w812nzz8rphbcmv2gbxe)
 
 > at the coffee bar in the back of the shop, there was a shop copy. A shop copy! Of a publication! Just out there for anyone to read.

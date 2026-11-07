@@ -1,18 +1,13 @@
 ---
 publish: true
+title: Steelyard
+created: 2026-01-04
+modified: 2026-11-07T06:58:33.564Z
+published: 2026-11-07T06:58:33.564Z
 aliases:
   - Stalhof
   - Stahlhof
   - London Steelyard
-title: Steelyard
-created: 2026-01-04
-modified: 2026-11-07T06:20:39.000Z
-published: 2026-11-07T06:20:39.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Steelyard.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -24,6 +19,10 @@ icon: book
 location:
   - 51.5114
   - -0.0906
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[City of London]]"
 image: Attachments/Places/Steelyard.svg
 ---
@@ -33,13 +32,13 @@ image: Attachments/Places/Steelyard.svg
 Site of the Hanseatic League's London trading base on the Thames, now under Cannon Street Station. _Germany: Memories of a Nation_ opens its Hansa chapter there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | setting | The Hansa's walled German enclave in London, now under Cannon Street Station, where Holbein painted its merchants. |
 
-## Germany: Memories of a Nation — Neil MacGregor (2014)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5114&mlon=-0.0906#map=16/51.5114/-0.0906) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5114,-0.0906)
 
+## Germany: Memories of a Nation — Neil MacGregor (2014)
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75zcka4qjav76mw2rqvz6)
 
 > It was unveiled in 2005, and it marks the location of the Steelyard, a thriving commercial trading post founded at the end of the thirteenth century, now completely obliterated by Cannon Street Station.

@@ -2,13 +2,8 @@
 publish: true
 title: Tulsa
 created: 2016-06-24
-modified: 2026-11-06T08:26:13.000Z
-published: 2026-11-06T08:26:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Tulsa.svg
+modified: 2026-11-07T06:54:22.991Z
+published: 2026-11-07T06:54:22.991Z
 aliases: []
 books:
   - Major New Study Finds Geography Can Affect Life Span as Much as Income
@@ -24,6 +19,10 @@ icon: newspaper
 location:
   - 36.1314
   - -95.9372
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oklahoma]]"
 image: Attachments/Places/Tulsa.svg
 ---
@@ -41,6 +40,8 @@ City in north-east Oklahoma. A subject in Eric Pfeiffer's “Major New Study Fin
 | The Magic of Tree-Lined Streets | Sarah Kobos | subject | The author bikes errands in 96-degree Tulsa heat, comfortable under mature neighborhood trees and miserable on a treeless asphalt arterial |
 | Where Every Citizen's Heart Can Sing | Sarah Kobos | subject | The author uses her home city as the case study for her argument about beauty and the public realm |
 
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.1314&mlon=-95.9372#map=11/36.1314/-95.9372) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.1314,-95.9372)
+
 ## Sub-places
 
 - [[Downtown Tulsa]]
@@ -48,7 +49,6 @@ City in north-east Oklahoma. A subject in Eric Pfeiffer's “Major New Study Fin
 - [[Turkey Mountain Urban Wilderness Area]]
 
 ## Major New Study Finds Geography Can Affect Life Span as Much as Income — Eric Pfeiffer (2016)
-
 Source: [Original](http://www.good.is/posts/health-tied-to-geography) · [Readwise highlight](https://read.readwise.io/read/01m5jjqt722r1yfdpgeq2yq4fm)
 
 > Meanwhile, lower-income people in places like Detroit and Tulsa, Oklahoma (the two poorest performing cities in the study) are seeing their life expectancy levels drop, in a widening gap between the rich and poor.
@@ -58,7 +58,6 @@ Source: [Original](http://www.good.is/posts/health-tied-to-geography) · [Readwi
 - **Why it matters:** Named as the local case that makes the article's point that geography matters.
 
 ## The Next Baby Boom: Affordable Urban Lifestyles for Millennials with Children — Jennifer Griffin (2016)
-
 Source: [Original](https://www.strongtowns.org/journal/2016/6/29/the-next-baby-boom-affordable-urban-lifestyles-for-millennials-with-children) · [Readwise highlight](https://read.readwise.io/read/01m5jx6t4set92dtexhgdgc4fr)
 
 > These “collar” neighborhoods are a 20-minute walk or a 5-minute bike ride to the downtown and are compact, walkable, mixed-use, and green.
@@ -68,7 +67,6 @@ Source: [Original](https://www.strongtowns.org/journal/2016/6/29/the-next-baby-b
 - **Why it matters:** Central to the argument that millennial families will seek affordable walkable neighborhoods in 2nd- and 3rd-tier cities.
 
 ## The Magic of Tree-Lined Streets — Sarah Kobos (2016)
-
 Source: [Original](https://www.strongtowns.org/journal/2016/6/26/the-magic-of-tree-lined-streets-1) · [Readwise highlight](https://read.readwise.io/read/01m5jx6tqfjzzt50925bvp3bra)
 
 > Unfortunately, here in Tulsa, our urban forest has suffered in recent decades.
@@ -78,7 +76,6 @@ Source: [Original](https://www.strongtowns.org/journal/2016/6/26/the-magic-of-tr
 - **Why it matters:** Tulsa's heat and tree-poor streets anchor the argument that canopy trees are essential to walkability.
 
 ## Where Every Citizen's Heart Can Sing — Sarah Kobos (2016)
-
 Source: [Original](https://www.strongtowns.org/journal/2016/8/18/where-every-citizens-heart-can-sing) · [Readwise highlight](https://read.readwise.io/read/01m5jx9j8g1hemyqew69hw1vtm)
 
 > Tulsa, OK, like many cities, has its gorgeous neighborhoods and grand destinations.

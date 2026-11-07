@@ -2,13 +2,8 @@
 publish: true
 title: Southeast Kentucky
 created: 2016-06-28
-modified: 2026-11-02T21:34:24.000Z
-published: 2026-11-02T21:34:24.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Southeast Kentucky.svg
+modified: 2026-11-07T06:56:54.097Z
+published: 2026-11-07T06:56:54.097Z
 aliases: []
 books:
   - Real Change Starts from the Ground Up
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 37.2486
   - -83.195
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Kentucky]]"
 image: Attachments/Places/Southeast Kentucky.svg
 ---
@@ -31,17 +30,16 @@ image: Attachments/Places/Southeast Kentucky.svg
 Appalachian south-eastern Kentucky. In Barack Obama's Promise Zone essay a high school there raises its graduation rate from 67 to 99 percent.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Real Change Starts from the Ground Up | Barack Obama | subject | Offered as a Promise Zone success story: a high school's graduation rate rises from 67 to 99 percent through community leadership and… |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.2486&mlon=-83.195#map=11/37.2486/-83.195) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.2486,-83.195)
 
+## Sub-places
 _None yet._
 
 ## Real Change Starts from the Ground Up — Barack Obama (2016)
-
 Source: [Original](https://medium.com/the-white-house/real-change-starts-from-the-ground-up-9a1e74f585b3) · [Readwise highlight](https://read.readwise.io/read/01m5jvr86eezpcyyyfy7zet36x)
 
 > In Southeast Kentucky, one high school saw its graduation rate soar from 67 to 99 percent, thanks to ongoing community efforts and leadership, a new education plan, and support from AmeriCorps VISTA service members.

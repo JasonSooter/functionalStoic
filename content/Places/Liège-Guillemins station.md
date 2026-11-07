@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Liège-Guillemins
 title: Liège-Guillemins station
 created: 2026-06-23
-modified: 2026-11-02T14:18:48.000Z
-published: 2026-11-02T14:18:48.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Liège-Guillemins station.svg
+modified: 2026-11-07T07:04:23.132Z
+published: 2026-11-07T07:04:23.132Z
+aliases:
+  - Liège-Guillemins
 books:
   - I Rode Germany's Most Insane High-Speed Train
 categories:
@@ -21,6 +16,10 @@ icon: video
 location:
   - 50.6247
   - 5.5669
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Liège]]"
 image: Attachments/Places/Liège-Guillemins station.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Liège-Guillemins station.svg
 Liège's main railway station, rebuilt to a design by Santiago Calatrava, singled out as a waypoint in a Simply Railway high-speed train video. See [[Liège]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[I Rode Germany's Most Insane High-Speed Train]] | Simply Railway | journey waypoint | The architectural highlight of the high-speed ride from Brussels to Cologne. |
 
-## I Rode Germany's Most Insane High-Speed Train — Simply Railway (2026)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.6247&mlon=5.5669#map=16/50.6247/5.5669) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.6247,5.5669)
 
+## I Rode Germany's Most Insane High-Speed Train — Simply Railway (2026)
 Source: [Original](https://www.youtube.com/watch?v=jPEgRQaYDQc) · [Readwise highlight](https://read.readwise.io/read/01m5brewjdjwg9j9qb66a5562m)
 
 > We’re now arriving in Liège — eastern Belgium, not far from the German border, and home to one of the most architecturally impressive railway stations in Europe, redesigned by world-famous architect Santiago Calatrava.

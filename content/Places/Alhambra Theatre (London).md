@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Alhambra Theatre (London)
+created: 2025-04-19
+modified: 2026-11-07T06:53:13.085Z
+published: 2026-11-07T06:53:13.085Z
 aliases:
   - Alhambra Theatre
   - Alhambra Music Hall
-title: Alhambra Theatre (London)
-created: 2025-04-19
-modified: 2026-11-02T14:14:08.000Z
-published: 2026-11-02T14:14:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Alhambra Theatre (London).svg
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 51.5105
   - -0.1291
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Alhambra Theatre (London).svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Alhambra Theatre (London).svg
 Music hall on the east side of Leicester Square, London, demolished in 1936. Three Men in a Boat ends with the three friends turning up there in filthy boating flannels.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | turning point | Having fled the rain by train, the three go to the Alhambra in boating clothes and are taken for contortionists. |
 
-## Three Men in a Boat — Jerome K. Jerome (1889)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5105&mlon=-0.1291#map=16/51.5105/-0.1291) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5105,-0.1291)
 
+## Three Men in a Boat — Jerome K. Jerome (1889)
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkzh33yg60zb7agvrz517v)
 
 > We attracted a good deal of attention at the Alhambra.

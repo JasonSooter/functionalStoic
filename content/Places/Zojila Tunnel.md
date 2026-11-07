@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Zoji La Tunnel
 title: Zojila Tunnel
 created: 2025-12-20
-modified: 2026-11-06T23:23:57.000Z
-published: 2026-11-06T23:23:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Zojila Tunnel.svg
+modified: 2026-11-07T07:03:12.606Z
+published: 2026-11-07T07:03:12.606Z
+aliases:
+  - Zoji La Tunnel
 books:
   - The World's Most Dangerous Tunnel
 categories:
@@ -22,6 +17,10 @@ icon: video
 location:
   - 34.2789
   - 75.4719
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Zojila Tunnel.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Zojila Tunnel.svg
 Road tunnel under construction beneath the Zoji La pass between Kashmir and [[Ladakh]], India. It is the subject of a B1M video on India's longest road tunnel.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The World's Most Dangerous Tunnel | The B1M | subject | India's longest road tunnel, at almost 12,000 feet. |
 
-## The World's Most Dangerous Tunnel — The B1M (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.2789&mlon=75.4719#map=16/34.2789/75.4719) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.2789,75.4719)
 
+## The World's Most Dangerous Tunnel — The B1M (2025)
 Source: [Original](https://www.youtube.com/watch?v=CI7qaAP3huo) · [Readwise highlight](https://read.readwise.io/read/01m5ce459qqngbpy4cf7van396)
 
 > this — the Zojila Tunnel.

@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Palazzo Medici
 title: Palazzo Medici Riccardi
 created: 2026-10-21T13:56:10.000Z
-modified: 2026-11-02T18:15:25.000Z
-published: 2026-11-02T18:15:25.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:03:45.283Z
+published: 2026-11-07T07:03:45.283Z
+aliases:
+  - Palazzo Medici
 books:
   - "[[Walkable City]]"
 categories:
@@ -21,7 +17,12 @@ icon: book
 location:
   - 43.7753
   - 11.256
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Florence]]"
+image: Attachments/Places/Palazzo Medici Riccardi.svg
 ---
 
 # Palazzo Medici Riccardi
@@ -29,13 +30,13 @@ within: "[[Florence]]"
 Palazzo Medici Riccardi is a Renaissance palace in Florence. It turns up in Walkable City (Jeff Speck): A passing historical example of a deep, thick facade.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | backdrop | Speck recalls the palazzo's stone bench around its whole perimeter as evidence that even a fortress-like Renaissance building invited… |
 
-## Walkable City — Jeff Speck (2012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.7753&mlon=11.256#map=16/43.7753/11.256) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.7753,11.256)
 
+## Walkable City — Jeff Speck (2012)
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbnxn1xwxbdgb17b171gcz)
 
 > As an art history student, I was always impressed that the Palazzo Medici in Florence was constructed with a stone bench surrounding its entire perimeter.

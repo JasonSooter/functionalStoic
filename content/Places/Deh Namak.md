@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Deh-Namak
 title: Deh Namak
 created: 2025-03-08
-modified: 2026-11-02T14:15:27.000Z
-published: 2026-11-02T14:15:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Deh Namak.svg
+modified: 2026-11-07T07:02:08.266Z
+published: 2026-11-07T07:02:08.266Z
+aliases:
+  - Deh-Namak
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 35.2539
   - 52.7333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Iran]]"
 image: Attachments/Places/Deh Namak.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Deh Namak.svg
 Village on the old Tehran–Mashhad road at the edge of Iran's salt desert. Dervla Murphy's first night east of Tehran in _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | First night on the road east: land-reform villages and a bed in the gendarmerie fort. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.2539&mlon=52.7333#map=16/35.2539/52.7333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.2539,52.7333)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kq2kn3w1n5mzdg9v8tvn)
 
 > This barrack where I’m staying the night is a huge old fort, built entirely of mud but very impressively proportioned.

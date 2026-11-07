@@ -1,18 +1,13 @@
 ---
 publish: true
+title: Seoni
+created: 2026-10-23
+modified: 2026-11-07T06:54:23.899Z
+published: 2026-11-07T06:54:23.899Z
 aliases:
   - Seeonee
   - Seeonee hills
   - Council Rock (The Jungle Book)
-title: Seoni
-created: 2026-10-23
-modified: 2026-11-02T21:15:26.000Z
-published: 2026-11-02T21:15:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Seoni.svg
 books:
   - The Jungle Book
 categories:
@@ -25,6 +20,10 @@ icon: book
 location:
   - 22.08
   - 79.53
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Seoni.svg
 ---
@@ -34,13 +33,13 @@ image: Attachments/Places/Seoni.svg
 Town and district in Madhya Pradesh, central India, the 'Seeonee' of Kipling's Mowgli stories. The wolf cave, the Council Rock and Messua's village of _The Jungle Book_ all lie in its hills.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Jungle Book | Rudyard Kipling | setting | The Seeonee hills: the wolf cave, the Council Rock and Mowgli's exile. |
 
-## The Jungle Book — Rudyard Kipling (1894)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=22.08&mlon=79.53#map=16/22.08/79.53) · [Google Maps](https://www.google.com/maps/search/?api=1&query=22.08,79.53)
 
+## The Jungle Book — Rudyard Kipling (1894)
 Source: [Original](https://openlibrary.org/works/OL19870W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2q49z8s1zj5v2ksf0mx1)
 
 > It was seven o’clock of a very warm evening in the Seeonee hills when Father Wolf woke up from his day’s rest, scratched himself, yawned, and spread out his paws one after the other to get rid of the sleepy feeling in their tips. Mother Wolf lay with her big gray nose dropped across her four tumbling, squealing cubs, and the moon shone into the mouth of the cave where they all lived.

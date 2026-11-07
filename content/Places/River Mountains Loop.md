@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - River Mountains Loop Trail
 title: River Mountains Loop
 created: 2026-10-22T16:25:46.000Z
-modified: 2026-11-02T20:38:32.000Z
-published: 2026-11-02T20:38:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:00:34.202Z
+published: 2026-11-07T07:00:34.202Z
+aliases:
+  - River Mountains Loop Trail
 books:
   - A Month At Lake Mead National Recreation Area — Live Small – Ride Free
 categories:
@@ -22,7 +18,12 @@ icon: newspaper
 location:
   - 36.0466
   - -114.9333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Nevada]]"
+image: Attachments/Places/River Mountains Loop.svg
 ---
 
 # River Mountains Loop
@@ -30,13 +31,13 @@ within: "[[Nevada]]"
 Paved 34-mile trail looping Lake Mead, Boulder City and Henderson in Nevada. A van-life couple rode it towing their dog trailer.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A Month At Lake Mead National Recreation Area — Live Small – Ride Free | Ching | setting | 34-mile car-free paved loop they rode towing the dog trailer, with views of Las Vegas. |
 
-## A Month At Lake Mead National Recreation Area — Live Small – Ride Free — Ching (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.0466&mlon=-114.9333#map=10/36.0466/-114.9333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.0466,-114.9333)
 
+## A Month At Lake Mead National Recreation Area — Live Small – Ride Free — Ching (2016)
 Source: [Original](http://www.livesmallridefree.com/blog/a-month-at-lake-mead-national-recreation-area) · [Readwise highlight](https://read.readwise.io/read/01m5j6kcs7gpv1j1acm9rsx90k)
 
 > which is a 34 mile paved path that connects Lake Mead, Boulder City and Henderson.

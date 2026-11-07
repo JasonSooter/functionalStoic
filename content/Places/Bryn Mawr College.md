@@ -2,13 +2,8 @@
 publish: true
 title: Bryn Mawr College
 created: 2021-01-30
-modified: 2026-11-02T14:14:54.000Z
-published: 2026-11-02T14:14:54.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bryn Mawr College.svg
+modified: 2026-11-07T07:03:00.211Z
+published: 2026-11-07T07:03:00.211Z
 aliases: []
 books:
   - Schools Must Resist Destructive Anti-racist Demands
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 40.0264
   - -75.3136
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pennsylvania]]"
 image: Attachments/Places/Bryn Mawr College.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Bryn Mawr College.svg
 Women's liberal-arts college near Philadelphia. John McWhorter cites its student strike in an essay on anti-racist demands.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Schools Must Resist Destructive Anti-racist Demands | John McWhorter | subject | Student 'strikers' effectively shut the school down last semester with demands for funding, grade forgiveness and payment for protest work. |
 
-## Schools Must Resist Destructive Anti-racist Demands — John McWhorter (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.0264&mlon=-75.3136#map=16/40.0264/-75.3136) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.0264,-75.3136)
 
+## Schools Must Resist Destructive Anti-racist Demands — John McWhorter (2021)
 Source: [Original](https://www.theatlantic.com/ideas/archive/2021/01/when-antiracist-manifestos-become-antiracist-wrecking-balls/617841/) · [Readwise highlight](https://read.readwise.io/read/01m5k8y6sb0jw4adka7bxvb24p)
 
 > At Bryn Mawr, as at pretty much all small, elite liberal-arts colleges in the 21st century, “woke” ideals are deeply inculcated and largely unquestioned

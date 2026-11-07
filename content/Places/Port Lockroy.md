@@ -2,12 +2,8 @@
 publish: true
 title: Port Lockroy
 created: 2026-10-23T01:33:33.000Z
-modified: 2026-11-02T18:30:32.000Z
-published: 2026-11-02T18:30:32.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:56:14.961Z
+published: 2026-11-07T06:56:14.961Z
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - -64.8253
   - -63.4944
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Antarctica]]"
+image: Attachments/Places/Port Lockroy.svg
 ---
 
 # Port Lockroy
@@ -28,13 +29,13 @@ within: "[[Antarctica]]"
 Old British research station on Goudier Island off the Antarctic Peninsula. In Tom Hanks's story 'Three Exhausting Weeks' it is the first stop of the friends' Antarctic trip.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Uncommon Type]] | Tom Hanks | journey waypoint | In 'Three Exhausting Weeks' Anna plans an Antarctic trip to see iceberg B15K. |
 
-## Uncommon Type — Tom Hanks (2017)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-64.8253&mlon=-63.4944#map=16/-64.8253/-63.4944) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-64.8253,-63.4944)
 
+## Uncommon Type — Tom Hanks (2017)
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5td35xk0tcqbcs8mnjpra)
 
 > We’ll fly to Lima, Peru, then change planes for Punta Arenas, Chile, where we’ll board a boat to make the crossing from South America to the old science station at Port Lockroy, our first stop.

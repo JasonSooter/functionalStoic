@@ -2,13 +2,8 @@
 publish: true
 title: Grand Lake Theatre
 created: 2020-01-19
-modified: 2026-11-02T14:16:55.000Z
-published: 2026-11-02T14:16:55.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Grand Lake Theatre.svg
+modified: 2026-11-07T06:59:58.006Z
+published: 2026-11-07T06:59:58.006Z
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 37.8116
   - -122.2473
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oakland]]"
 image: Attachments/Places/Grand Lake Theatre.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Grand Lake Theatre.svg
 Cinema in the Grand Lake neighbourhood of [[Oakland]], California. It is where Jenny Odell saw the film Blindspotting, which shapes her argument about attention in How to Do Nothing.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | backdrop | Odell sees Blindspotting at an old theater in Grand Lake the day before reading Vivrekar's thesis. |
 
-## How to Do Nothing — Jenny Odell (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.8116&mlon=-122.2473#map=16/37.8116/-122.2473) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8116,-122.2473)
 
+## How to Do Nothing — Jenny Odell (2019)
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebv1ap64qj0bqb3vjd0v1q)
 
 > at an old Oakland theater in Grand Lake.

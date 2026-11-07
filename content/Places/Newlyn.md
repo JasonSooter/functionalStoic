@@ -2,12 +2,8 @@
 publish: true
 title: Newlyn
 created: 2026-10-23T05:33:21.000Z
-modified: 2026-11-02T17:54:06.000Z
-published: 2026-11-02T17:54:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:02:20.997Z
+published: 2026-11-07T07:02:20.997Z
 aliases: []
 books:
   - "[[Cod]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 50.101
   - -5.553
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Cornwall]]"
+image: Attachments/Places/Newlyn.svg
 ---
 
 # Newlyn
@@ -28,13 +29,13 @@ within: "[[Cornwall]]"
 Fishing port beside Penzance in Cornwall, England. In _Cod_ it is the British example of a fishing town in decline.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | setting | Trawlers decommissioned at the piers; locals blame the Spanish and fly the Canadian flag when the Estai is seized. |
 
-## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.101&mlon=-5.553#map=16/50.101/-5.553) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.101,-5.553)
 
+## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kksswqvakbeftj11ec8z1b)
 
 > But Newlyn is a fishing town—or, increasingly, an out-of-work fishing town.

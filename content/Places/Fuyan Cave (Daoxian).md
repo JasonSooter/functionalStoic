@@ -2,13 +2,8 @@
 publish: true
 title: Fuyan Cave (Daoxian)
 created: 2016-07-16
-modified: 2026-11-02T14:16:34.000Z
-published: 2026-11-02T14:16:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Fuyan Cave (Daoxian).svg
+modified: 2026-11-07T06:56:11.092Z
+published: 2026-11-07T06:56:11.092Z
 aliases: []
 books:
   - How China is rewriting the book on human origins
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 25.6507
   - 111.4803
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[China]]"
 image: Attachments/Places/Fuyan Cave (Daoxian).svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Fuyan Cave (Daoxian).svg
 Cave in Dao County, Hunan, China. Nature's piece cites its modern-human teeth as evidence of an early arrival in China.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How China is rewriting the book on human origins | Nature | subject | 47 modern-looking teeth at least 80,000 years old suggest early modern humans reached China |
 
-## How China is rewriting the book on human origins — Nature (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=25.6507&mlon=111.4803#map=16/25.6507/111.4803) · [Google Maps](https://www.google.com/maps/search/?api=1&query=25.6507,111.4803)
 
+## How China is rewriting the book on human origins — Nature (2016)
 Source: [Original](http://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231) · [Readwise highlight](https://read.readwise.io/read/01m5jx75mb9hmy4ahfsqra2mb5)
 
 > Dozens of teeth from a cave in Daoxian, China, have been attributed to modern humans and date to 120,000–80,000 years ago.

@@ -2,16 +2,11 @@
 publish: true
 title: Fowey
 created: 2025-09-07
-modified: 2026-11-02T14:16:31.000Z
-published: 2026-11-02T14:16:31.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Fowey.svg
+modified: 2026-11-07T06:55:26.640Z
+published: 2026-11-07T06:55:26.640Z
 aliases: []
 books:
-  - "#050 Is that a kayaking nun?"
+  - '#050 Is that a kayaking nun?'
 categories:
   - "[[Places]]"
 color: purple
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 50.3363
   - -4.6386
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Cornwall]]"
 image: Attachments/Places/Fowey.svg
 ---
@@ -30,17 +29,16 @@ image: Attachments/Places/Fowey.svg
 Harbour town on the Fowey estuary in [[Cornwall]], England; it is the setting of the holiday described in Diagram Club's issue #050.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[050 Is That a Kayaking Nun\|#050 Is that a kayaking nun?]] | Diagram Club | setting | A nautical holiday of ferries, boats and river-watching. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.3363&mlon=-4.6386#map=11/50.3363/-4.6386) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.3363,-4.6386)
 
+## Sub-places
 - [[Bodinnick Ferry]]
 
 ## #050 Is that a kayaking nun? — Diagram Club (2025)
-
 Source: [Original](https://diagramclub.substack.com/p/050-is-that-a-kayaking-nun) · [Readwise highlight](https://read.readwise.io/read/01m5dcmkj8emdn8n9yfh61npsc)
 
 > Time away was spent in Fowey, Cornwall. It’s a nautical kind of a place, so a reasonable amount of time was spent catching ferries and boats, and looking at the river and commenting on the activities thereon.

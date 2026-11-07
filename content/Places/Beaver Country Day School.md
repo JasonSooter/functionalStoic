@@ -2,13 +2,8 @@
 publish: true
 title: Beaver Country Day School
 created: 2016-06-24
-modified: 2026-11-02T14:14:36.000Z
-published: 2026-11-02T14:14:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Beaver Country Day School.svg
+modified: 2026-11-07T06:58:28.188Z
+published: 2026-11-07T06:58:28.188Z
 aliases: []
 books:
   - Want To Keep More Kids In School? Design A Smarter Classroom
@@ -21,6 +16,10 @@ icon: newspaper
 location:
   - 42.3184
   - -71.1644
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/Beaver Country Day School.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Beaver Country Day School.svg
 Independent school in Chestnut Hill, Massachusetts. A GOOD piece on school design uses its flexible classrooms as an example.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Want To Keep More Kids In School? Design A Smarter Classroom | Susan Johnston Taylor | subject | Beaver uses wheeled furniture, writable surfaces and collaboration nooks so classrooms adapt to discussion and presentation, and plans a… |
 
-## Want To Keep More Kids In School? Design A Smarter Classroom — Susan Johnston Taylor (2016)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3184&mlon=-71.1644#map=16/42.3184/-71.1644) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3184,-71.1644)
 
+## Want To Keep More Kids In School? Design A Smarter Classroom — Susan Johnston Taylor (2016)
 Source: [Original](https://www.good.is/articles/quitting-school) · [Readwise highlight](https://read.readwise.io/read/01m5jvs66gz17q33qwhq0gvf97)
 
 > chairs and tables on wheels allow for a more flexible classroom space that can be easily adapted for various modes of learning including discussion, collaboration, and presentation.

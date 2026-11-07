@@ -2,13 +2,8 @@
 publish: true
 title: Kafue Flats
 created: 2024-10-04
-modified: 2026-11-02T14:18:06.000Z
-published: 2026-11-02T14:18:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Kafue Flats.svg
+modified: 2026-11-07T06:56:44.667Z
+published: 2026-11-07T06:56:44.667Z
 aliases: []
 books:
   - Life on Air
@@ -22,6 +17,10 @@ icon: book
 location:
   - -15.6333
   - 27.0667
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Zambia]]"
 image: Attachments/Places/Kafue Flats.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Kafue Flats.svg
 Floodplain of the Kafue River in central Zambia; in _Life on Air_ Attenborough films the red lechwe there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough films the red lechwe there. |
 
-## Life on Air — David Attenborough (2002)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-15.6333&mlon=27.0667#map=10/-15.6333/27.0667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-15.6333,27.0667)
 
+## Life on Air — David Attenborough (2002)
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2ptnzptxn67e0c8qa7vg)
 
 > Herds of them, tens of thousands strong, lived on the flooded plains around the Kafue River, a tributary of the Zambezi that joins it from the north.

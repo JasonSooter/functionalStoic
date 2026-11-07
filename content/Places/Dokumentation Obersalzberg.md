@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Dokumentation Obersalzberg
+created: 2026-05-16
+modified: 2026-11-07T07:03:23.313Z
+published: 2026-11-07T07:03:23.313Z
 aliases:
   - Obersalzberg Documentation Center
   - Obersalzberg
-title: Dokumentation Obersalzberg
-created: 2026-05-16
-modified: 2026-11-02T14:15:18.000Z
-published: 2026-11-02T14:15:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Dokumentation Obersalzberg.svg
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
 categories:
@@ -22,6 +17,10 @@ icon: video
 location:
   - 47.6317
   - 13.0403
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Bavaria]]"
 image: Attachments/Places/Dokumentation Obersalzberg.svg
 ---
@@ -31,10 +30,11 @@ image: Attachments/Places/Dokumentation Obersalzberg.svg
 Documentation centre on the Obersalzberg above Berchtesgaden, on the Nazi-era use of the mountain; a DW Travel video on lesser-known German cities uses it as the historical counterweight to its scenic stops. See [[Bavaria]].
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | Where Berchtesgaden confronts the Obersalzberg's Nazi past. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.6317&mlon=13.0403#map=16/47.6317/13.0403) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.6317,13.0403)
 
 ## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
 

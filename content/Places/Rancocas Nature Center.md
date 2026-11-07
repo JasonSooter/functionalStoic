@@ -2,12 +2,8 @@
 publish: true
 title: Rancocas Nature Center
 created: 2026-10-21T10:49:14.000Z
-modified: 2026-11-02T20:23:19.000Z
-published: 2026-11-02T20:23:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:58:37.220Z
+published: 2026-11-07T06:58:37.220Z
 aliases: []
 books:
   - "My second Troll Trek: 7 trolls and 1 slice of pie"
@@ -20,7 +16,12 @@ icon: newspaper
 location:
   - 40.0034
   - -74.8207
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New Jersey]]"
+image: Attachments/Places/Rancocas Nature Center.svg
 ---
 
 # Rancocas Nature Center
@@ -28,13 +29,13 @@ within: "[[New Jersey]]"
 Nature centre in Rancocas State Park, Westampton, New Jersey. On a troll-hunting ride, the troll Woody hides in its woods.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | My second Troll Trek: 7 trolls and 1 slice of pie | alliumstozinnias | journey waypoint | The troll Woody hides in the woods of the nature centre. |
 
-## My second Troll Trek: 7 trolls and 1 slice of pie — alliumstozinnias (2024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.0034&mlon=-74.8207#map=16/40.0034/-74.8207) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.0034,-74.8207)
 
+## My second Troll Trek: 7 trolls and 1 slice of pie — alliumstozinnias (2024)
 Source: [Original](https://exploringbybike.com/2024/11/08/my-second-troll-trek-7-trolls-and-1-slice-of-pie/) · [Readwise highlight](https://read.readwise.io/read/01m5f0ps0a5yw2ecpbgcs91keh)
 
 > After cutting through a neighborhood, we discovered Woody, hiding in the woods of the Rancocas Nature Center.

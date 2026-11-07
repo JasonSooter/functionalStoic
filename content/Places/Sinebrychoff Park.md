@@ -1,17 +1,12 @@
 ---
 publish: true
+title: Sinebrychoff Park
+created: 2025-08-31
+modified: 2026-11-07T06:55:38.409Z
+published: 2026-11-07T06:55:38.409Z
 aliases:
   - Sinebrychoffsparken
   - Sinebrychoffin puisto
-title: Sinebrychoff Park
-created: 2025-08-31
-modified: 2026-11-02T21:25:15.000Z
-published: 2026-11-02T21:25:15.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Sinebrychoff Park.svg
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -23,6 +18,10 @@ icon: book
 location:
   - 60.1625
   - 24.9325
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Helsinki]]"
 image: Attachments/Places/Sinebrychoff Park.svg
 ---
@@ -32,13 +31,13 @@ image: Attachments/Places/Sinebrychoff Park.svg
 Hilltop park in Helsinki's Punavuori, named after the Sinebrychoff brewing family. In _Just for Fun_ it is the "Catpark" of Linus Torvalds's childhood.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | The sledding hill near his childhood home on Stora Robertsgatan, which the family calls the "Catpark". |
 
-## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.1625&mlon=24.9325#map=16/60.1625/24.9325) · [Google Maps](https://www.google.com/maps/search/?api=1&query=60.1625,24.9325)
 
+## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01k2a3013caz3yc8xyp0t9qsh0)
 
 > There’s a small park nearby, named after the Sinebrychoff family, which owns a local brewery.

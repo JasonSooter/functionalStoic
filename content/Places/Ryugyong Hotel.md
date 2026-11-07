@@ -1,15 +1,11 @@
 ---
 publish: true
-aliases:
-  - Ryugyong
 title: Ryugyong Hotel
 created: 2026-10-20T16:26:18.000Z
-modified: 2026-11-02T20:45:37.000Z
-published: 2026-11-02T20:45:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:02:17.626Z
+published: 2026-11-07T07:02:17.626Z
+aliases:
+  - Ryugyong
 books:
   - Inside North Korea’s Abandoned Hotel of Doom
 categories:
@@ -21,7 +17,12 @@ icon: video
 location:
   - 39.0367
   - 125.7308
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pyongyang]]"
+image: Attachments/Places/Ryugyong Hotel.svg
 ---
 
 # Ryugyong Hotel
@@ -29,13 +30,13 @@ within: "[[Pyongyang]]"
 Unfinished 330 m pyramid tower in [[Pyongyang]], North Korea, the subject of a B1M video on the hotel that has never had a guest.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Inside North Korea’s Abandoned Hotel of Doom]] | The B1M | subject | The hotel that has never had a guest, seen from its 99th floor. |
 
-## Inside North Korea’s Abandoned Hotel of Doom — The B1M (2025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.0367&mlon=125.7308#map=16/39.0367/125.7308) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0367,125.7308)
 
+## Inside North Korea’s Abandoned Hotel of Doom — The B1M (2025)
 Source: [Original](https://www.youtube.com/watch?v=kJPK1rb5GRs) · [Readwise highlight](https://read.readwise.io/read/01m5d208h80qh0qav1g634mbmd)
 
 > This is Ryugyong. It’s loomed over the city of Pyongyang for decades

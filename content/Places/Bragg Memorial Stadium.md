@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Bragg Stadium
 title: Bragg Memorial Stadium
 created: 2024-05-18
-modified: 2026-11-02T14:14:53.000Z
-published: 2026-11-02T14:14:53.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Bragg Memorial Stadium.svg
+modified: 2026-11-07T07:02:03.486Z
+published: 2026-11-07T07:02:03.486Z
+aliases:
+  - Bragg Stadium
 books:
   - How to Be an Antiracist
 categories:
@@ -22,22 +17,26 @@ icon: book
 location:
   - 30.4261
   - -84.2917
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tallahassee]]"
 image: Attachments/Places/Bragg Memorial Stadium.svg
 ---
 
 # Bragg Memorial Stadium
 
-Football stadium of Florida A\&M University in Tallahassee. In How to Be an Antiracist (Ibram X. Kendi) it is where the chapter on colour opens, at a Marching 100 halftime show.
+Football stadium of Florida A&M University in Tallahassee. In How to Be an Antiracist (Ibram X. Kendi) it is where the chapter on colour opens, at a Marching 100 halftime show.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | setting | Opening scene of the chapter on colourism, at a FAMU halftime show. |
 
-## How to Be an Antiracist — Ibram X. Kendi (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.4261&mlon=-84.2917#map=16/30.4261/-84.2917) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.4261,-84.2917)
 
+## How to Be an Antiracist — Ibram X. Kendi (2019)
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fye0rx58ehyqyjdddpykd8)
 
 > My arms flailed sluggishly as I stood on the highest of the seven hills in Tallahassee, Florida.

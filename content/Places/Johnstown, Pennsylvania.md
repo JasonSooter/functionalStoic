@@ -2,13 +2,8 @@
 publish: true
 title: Johnstown, Pennsylvania
 created: 2025-02-27
-modified: 2026-11-02T14:17:37.000Z
-published: 2026-11-02T14:17:37.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Johnstown, Pennsylvania.svg
+modified: 2026-11-07T06:56:02.604Z
+published: 2026-11-07T06:56:02.604Z
 aliases: []
 books:
   - "[[Range]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 40.3261
   - -78.9194
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pennsylvania]]"
 image: Attachments/Places/Johnstown, Pennsylvania.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Johnstown, Pennsylvania.svg
 City in western Pennsylvania. A setting in David Epstein's _Range_: Hesselbein's hometown, where her accidental volunteer and professional roles began and where she learned about inclusion.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | setting | Hesselbein's hometown, where her accidental volunteer and professional roles began and where she learned about inclusion. |
 
-## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.3261&mlon=-78.9194#map=16/40.3261/-78.9194) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.3261,-78.9194)
 
+## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jkzny0npp41sspa6p4pdr1)
 
 > Hesselbein adored Johnstown’s rich diversity, but it afforded some ugly lessons.

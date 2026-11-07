@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - King's College (Halifax)
 title: University of King's College
 created: 2025-11-29
-modified: 2026-11-06T11:22:56.000Z
-published: 2026-11-06T11:22:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/University of King's College.svg
+modified: 2026-11-07T06:55:22.876Z
+published: 2026-11-07T06:55:22.876Z
+aliases:
+  - King's College (Halifax)
 books:
   - "[[North Woods]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 44.6375
   - -63.5953
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Halifax, Nova Scotia]]"
 image: Attachments/Places/University of King's College.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/University of King's College.svg
 Small university in Halifax, Nova Scotia. In _North Woods_ a 1951 lecture in its Library Auditorium starts the modern rediscovery of the 'Nightmaids' letter.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[North Woods]] | Daniel Mason | turning point | A 1951 lecture leads a trolley conductor to bring the 'Nightmaids' letter to light. |
 
-## North Woods — Daniel Mason (2023)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.6375&mlon=-63.5953#map=16/44.6375/-63.5953) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.6375,-63.5953)
 
+## North Woods — Daniel Mason (2023)
 Source: [[North Woods]] · [Original](https://openlibrary.org/works/OL34028309W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcdx47v5wd157xfgnffwj)
 
 > On April 3, 1951, on the windswept shores of Halifax, Nova Scotia, Robert Jorgensen, Professor of History at the University of King’s College, stood at the lectern of the Library Auditorium, much as I stand here today, and delivered a public lecture on “Indian Captives in Canada,” before a packed, enthusiastic audience.

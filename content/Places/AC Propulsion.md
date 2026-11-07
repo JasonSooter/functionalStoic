@@ -2,13 +2,8 @@
 publish: true
 title: AC Propulsion
 created: 2015-11-28
-modified: 2026-11-02T14:14:04.000Z
-published: 2026-11-02T14:14:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/AC Propulsion.svg
+modified: 2026-11-07T06:51:43.375Z
+published: 2026-11-07T06:51:43.375Z
 aliases: []
 books:
   - How Tesla Will Change The World
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 34.1028
   - -117.8161
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/AC Propulsion.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/AC Propulsion.svg
 Electric-car company in San Dimas, California, maker of the tzero. In a Wait But Why post it is where Elon Musk first sees the car that convinces him electric cars are the future.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Tesla Will Change The World | Tim Urban | turning point | Where Musk sees the tzero and is won over to electric cars. |
 
-## How Tesla Will Change The World — Tim Urban (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.1028&mlon=-117.8161#map=10/34.1028/-117.8161) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.1028,-117.8161)
 
+## How Tesla Will Change The World — Tim Urban (2015)
 Source: [Original](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) · [Readwise highlight](https://read.readwise.io/read/01m5g16dtqx48817kzmzxs2zgz)
 
 > Soon after that, Straubel brought Musk by the AC Propulsion office to see the tzero. Musk was blown away.

@@ -1,29 +1,29 @@
 ---
 publish: true
+title: Schulman Grove
+created: 2025-12-01
+modified: 2026-11-07T06:53:33.579Z
+published: 2026-11-07T06:53:33.579Z
 aliases:
   - Ancient Bristlecone Pine Forest
   - Schulman Memorial Grove
-title: Schulman Grove
-created: 2025-12-01
-modified: 2026-11-02T21:15:26.000Z
-published: 2026-11-02T21:15:26.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Schulman Grove.svg
 books:
   - The vanishing groves
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 37.3857,-118.1789
-geo_note: approximate (Ancient Bristlecone Pine Forest article point; Schulman Grove lies within it)
+geo_note: approximate (Ancient Bristlecone Pine Forest article point; Schulman Grove
+  lies within it)
 geo_source: Wikipedia (en) Ancient Bristlecone Pine Forest
 icon: newspaper
 location:
   - 37.3857
   - -118.1789
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[White Mountains (California)]]"
 image: Attachments/Places/Schulman Grove.svg
 ---
@@ -33,13 +33,13 @@ image: Attachments/Places/Schulman Grove.svg
 Grove of ancient bristlecone pines in the [[White Mountains (California)]], named after Edmund Schulman, where Ross Andersen ends his essay on trees as a portal to deep time.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The vanishing groves]] | Ross Andersen | subject | Andersen ends the essay under an old bristlecone in the grove named for Edmund Schulman, who in 1953 cored a 3,000-year-old tree. |
 
-## The vanishing groves — Ross Andersen (2013)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3857&mlon=-118.1789#map=10/37.3857/-118.1789) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.3857,-118.1789)
 
+## The vanishing groves — Ross Andersen (2013)
 Source: [Original](https://aeon.co/essays/trees-of-deep-time-are-a-portal-to-the-past-and-the-future) · [Readwise highlight](https://read.readwise.io/read/01m5dqt90hbs0ga4ncjyqpg2kz)
 
 > Sitting under an old bristlecone in the cool April sun, I thought of Edmund Schulman, for whom this grove is named.

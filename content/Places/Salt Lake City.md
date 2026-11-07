@@ -2,13 +2,8 @@
 publish: true
 title: Salt Lake City
 created: 2026-10-23
-modified: 2026-11-02T20:54:40.000Z
-published: 2026-11-02T20:54:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Salt Lake City.svg
+modified: 2026-11-07T07:03:10.270Z
+published: 2026-11-07T07:03:10.270Z
 aliases: []
 books:
   - Around the World in Eighty Days
@@ -21,6 +16,10 @@ icon: book
 location:
   - 40.7608
   - -111.8911
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Salt Lake City.svg
 ---
 
@@ -29,17 +28,16 @@ image: Attachments/Places/Salt Lake City.svg
 Capital of Utah, United States. Fogg's party spends two hours there during the stop at Ogden in _Around the World in Eighty Days_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | journey waypoint | A two-hour visit to the Mormon city during the stop at Ogden. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7608&mlon=-111.8911#map=11/40.7608/-111.8911) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7608,-111.8911)
 
+## Sub-places
 - [[Salt Lake Temple]]
 
 ## Around the World in Eighty Days — Jules Verne (1872)
-
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3t5kpam471s2n7fgb9y5)
 
 > The train reached Ogden at two o’clock, where it rested for six hours, Mr. Fogg and his party had time to pay a visit to Salt Lake City, connected with Ogden by a branch road; and they spent two hours in this strikingly American town, built on the pattern of other cities of the Union, like a checker-board, “with the sombre sadness of right-angles,” as Victor Hugo expresses it.

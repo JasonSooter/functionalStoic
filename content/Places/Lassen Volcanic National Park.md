@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Lassen National Park
 title: Lassen Volcanic National Park
 created: 2015-11-28
-modified: 2026-11-02T14:18:34.000Z
-published: 2026-11-02T14:18:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Lassen Volcanic National Park.svg
+modified: 2026-11-07T07:02:36.416Z
+published: 2026-11-07T07:02:36.416Z
+aliases:
+  - Lassen National Park
 books:
   - Hiking the 2,650-Mile Pacific Crest Trail
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 40.4981
   - -121.4275
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Lassen Volcanic National Park.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Lassen Volcanic National Park.svg
 National park in the southern Cascade Range of northern California. In a Priceonomics story about the Pacific Crest Trail it is where a hiker hits his mental low point.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Hiking the 2,650-Mile Pacific Crest Trail | Priceonomics | turning point | Where Colin faces his inner demons, the hike's mental low point. |
 
-## Hiking the 2,650-Mile Pacific Crest Trail — Priceonomics (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4981&mlon=-121.4275#map=16/40.4981/-121.4275) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4981,-121.4275)
 
+## Hiking the 2,650-Mile Pacific Crest Trail — Priceonomics (2015)
 Source: [Original](http://priceonomics.com/hiking-the-2650-mile-pacific-crest-trail/) · [Readwise highlight](https://read.readwise.io/read/01m5fzc3rk1mpqjf24sdz7bcb5)
 
 > Traversing over the Cascade Range and Lassen National Park, Colin, for the first time on the trail, faced his inner demons.

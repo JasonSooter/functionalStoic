@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - The Mission
 title: Mission District
 created: 2015-08-05
-modified: 2026-11-02T15:41:42.000Z
-published: 2026-11-02T15:41:42.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Mission District.svg
+modified: 2026-11-07T06:56:47.876Z
+published: 2026-11-07T06:56:47.876Z
+aliases:
+  - The Mission
 books:
   - Anti-Gay Hate Crime Is on the Decline but Still Prevalent
   - "Death by gentrification: the killing that shamed San Francisco"
@@ -24,6 +19,10 @@ icon: newspaper
 location:
   - 37.76
   - -122.42
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Mission District.svg
 ---
@@ -40,12 +39,12 @@ Neighbourhood of [[San Francisco]]. A Priceonomics piece on anti-gay hate crime 
 | Death by gentrification: the killing that shamed San Francisco | Rebecca Solnit | backdrop | The Latino neighbourhood that gathers around Nieto's memory, facing displacement. |
 | Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free | Cade Metz | setting | Brockman's apartment, where the first nine researchers began work. |
 
-## Sub-places
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.76&mlon=-122.42#map=11/37.76/-122.42) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.76,-122.42)
 
+## Sub-places
 - [[Everett Middle School]]
 
 ## Anti-Gay Hate Crime Is on the Decline but Still Prevalent — Priceonomics (2015)
-
 Source: [Original](https://priceonomics.com/anti-gay-hate-crime-is-on-the-decline-but-still/) · [Readwise highlight](https://read.readwise.io/read/01m5g8vz73453fddtrbwxt0fr7)
 
 > Several weeks ago, in the heart of San Francisco’s Mission District, a mural was born.
@@ -55,7 +54,6 @@ Source: [Original](https://priceonomics.com/anti-gay-hate-crime-is-on-the-declin
 - **Why it matters:** The mural anchors the article's argument about hate crime and under-reporting; the exact wall is not named, so the pin is the neighbourhood.
 
 ## Death by gentrification: the killing that shamed San Francisco — Rebecca Solnit (2016)
-
 Source: [Original](https://www.theguardian.com/us-news/2016/mar/21/death-by-gentrification-the-killing-that-shamed-san-francisco) · [Readwise highlight](https://read.readwise.io/read/01m5j7v50yj48eskecr38xf92n)
 
 > Adriana and I turned around in our pew and met Oscar Salinas, a big man who was native to the Mission. He told us that when someone in the community is hurt, the Mission comes together.
@@ -65,7 +63,6 @@ Source: [Original](https://www.theguardian.com/us-news/2016/mar/21/death-by-gent
 - **Why it matters:** It stands for the threatened community fabric the author sets against displacement and money.
 
 ## Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free — Cade Metz (2016)
-
 Source: [Original](https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/) · [Readwise highlight](https://read.readwise.io/read/01m5jkzerstqjqk8j8fsrj9hna)
 
 > In early January, Brockman's nine AI researchers met up at his apartment in San Francisco's Mission District.

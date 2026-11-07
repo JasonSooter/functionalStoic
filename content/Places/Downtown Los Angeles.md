@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - DTLA
 title: Downtown Los Angeles
 created: 2015-11-28
-modified: 2026-11-02T14:16:16.000Z
-published: 2026-11-02T14:16:16.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Downtown Los Angeles.svg
+modified: 2026-11-07T07:03:39.860Z
+published: 2026-11-07T07:03:39.860Z
+aliases:
+  - DTLA
 books:
   - My Script for a Productivity Blockbuster
 categories:
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 34.05
   - -118.25
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Downtown Los Angeles.svg
 ---
@@ -31,13 +30,13 @@ image: Attachments/Places/Downtown Los Angeles.svg
 Central business district of [[Los Angeles]]. Peter Guber's productivity essay describes his realisation that it was the right home for a new soccer club.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | My Script for a Productivity Blockbuster | Peter Guber | turning point | Writing his vision down, Guber realises downtown LA is the ideal home for his MLS team. |
 
-## My Script for a Productivity Blockbuster — Peter Guber (2015)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.05&mlon=-118.25#map=16/34.05/-118.25) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.05,-118.25)
 
+## My Script for a Productivity Blockbuster — Peter Guber (2015)
 Source: [Original](https://www.linkedin.com/pulse/productivity-hacks-my-script-blockbuster-peter-guber) · [Readwise highlight](https://read.readwise.io/read/01m5gm0qnyme3d1dg06d8kgt6b)
 
 > As I wrote my vision down and said it aloud, I had an epiphany that downtown Los Angeles, the heart of the city, would be the ideal location that could capture the imagination of an urban, multi-ethnic and millennial population, which would be our target audience.

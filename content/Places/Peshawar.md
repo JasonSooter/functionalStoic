@@ -2,12 +2,8 @@
 publish: true
 title: Peshawar
 created: 2026-10-22T16:26:33.000Z
-modified: 2026-11-02T18:20:00.000Z
-published: 2026-11-02T18:20:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T06:54:33.924Z
+published: 2026-11-07T06:54:33.924Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 34.0144
   - 71.5675
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pakistan]]"
+image: Attachments/Places/Peshawar.svg
 ---
 
 # Peshawar
@@ -28,13 +29,13 @@ within: "[[Pakistan]]"
 City in northwest Pakistan. Dervla Murphy's first long stop on the subcontinent in _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Rainy days in a dak bungalow, bazaar shopping, and talk of colonial legacy and purdah. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0144&mlon=71.5675#map=16/34.0144/71.5675) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0144,71.5675)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6mnym00tcdx5ttjgx9vg8)
 
 > Peshawar is like an English city with a few water-buffaloes and vultures and lizards thrown in. I’m installed in a dak bungalow, which is the cheapest accommodation for tourists in Pakistan and India.

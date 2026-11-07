@@ -1,19 +1,14 @@
 ---
 publish: true
+title: Venice
+created: 2024-09-02
+modified: 2026-11-07T06:56:57.376Z
+published: 2026-11-07T06:56:57.376Z
 aliases:
   - Venezia
   - Lido
   - Lido di Venezia
   - Hôtel des Bains
-title: Venice
-created: 2024-09-02
-modified: 2026-11-06T14:23:13.000Z
-published: 2026-11-06T14:23:13.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Venice.svg
 books:
   - "[[Death in Venice]]"
   - The Crazy Engineering of Venice
@@ -28,6 +23,10 @@ icon: book
 location:
   - 45.4375
   - 12.3358
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Italy]]"
 image: Attachments/Places/Venice.svg
 ---
@@ -46,6 +45,8 @@ City on islands in the Venetian lagoon, north-eastern [[Italy]], with the Lido a
 | [[Candide]] | Voltaire | setting | Waiting for Cunegonde, Candide meets Paquette, visits Pococurante and sups with six deposed kings during Carnival |
 | The Wind in the Willows | Kenneth Grahame | journey waypoint | The Sea Rat's tale of feasting by the Grand Canal tempts Rat to go to sea. |
 
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.4375&mlon=12.3358#map=11/45.4375/12.3358) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.4375,12.3358)
+
 ## Sub-places
 
 - [[Grand Canal (Venice)]]
@@ -59,7 +60,6 @@ City on islands in the Venetian lagoon, north-eastern [[Italy]], with the Lido a
 - [[Venezia Santa Lucia railway station]]
 
 ## Death in Venice — Thomas Mann (1912)
-
 Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5c4pzc9fx9xwzs5bn02gkpc)
 
 > An autumnal, off-season mood seemed to lie upon the once so colorful and animated, now all but deserted pleasure haunt, its sand no longer kept clean.
@@ -70,7 +70,6 @@ Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL162460
 - **Not pinned separately:** the Hôtel des Bains and the Lido beach (no standard-source coordinate: the English and Italian Wikipedia pages give none), St Mark's Basilica (folded into [[Piazza San Marco]]) and the Piazzetta.
 
 ## The Crazy Engineering of Venice — Primal Space (2024)
-
 Source: [Original](https://www.youtube.com/watch?v=77omYd0JOeA) · [Readwise highlight](https://read.readwise.io/read/01m5f1y46bf38n0dqat6p3hv3t)
 
 > the Venetians managed to turn a muddy
@@ -80,7 +79,6 @@ Source: [Original](https://www.youtube.com/watch?v=77omYd0JOeA) · [Readwise hig
 - **Why it matters:** The city is the subject of the video.
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
-
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jjshcb8690tnveveddd2c3)
 
 > Leisure activities like horseback riding and field sports were scarce in the floating city, so music bore the full weight of entertainment for its citizens.
@@ -90,7 +88,6 @@ Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/
 - **Why it matters:** The city's music-saturated culture and its charitable ospedali created the conditions in which foundling girls became multi-instrument virtuosos.
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75n1kmjfyjfxn4cxt64zw)
 
 > Upon their arrival at Venice, Candide went to search for Cacambo at every inn and coffee-house, and among all the ladies of pleasure, but to no purpose.
@@ -100,7 +97,6 @@ Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [R
 - **Why it matters:** The setting of several closing chapters and the hinge that sends the story east to Constantinople.
 
 ## The Wind in the Willows — Kenneth Grahame (1908)
-
 Source: [Original](https://openlibrary.org/works/OL28570037W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2kn6e3kgh2x1kt361f9n)
 
 > O, Venice is a fine city, wherein a rat can wander at his ease and take his pleasure! Or, when weary of wandering, can sit at the edge of the Grand Canal at night, feasting with his friends, when the air is full of music and the sky full of stars, and the lights flash and shimmer on the polished steel prows of the swaying gondolas, packed so that you could walk across the canal on them from side to side!

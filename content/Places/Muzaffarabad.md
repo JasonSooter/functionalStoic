@@ -2,12 +2,8 @@
 publish: true
 title: Muzaffarabad
 created: 2026-10-22T16:27:17.000Z
-modified: 2026-11-02T16:01:52.000Z
-published: 2026-11-02T16:01:52.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-07T07:00:23.332Z
+published: 2026-11-07T07:00:23.332Z
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -20,7 +16,12 @@ icon: book
 location:
   - 34.3583
   - 73.4722
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Pakistan]]"
+image: Attachments/Places/Muzaffarabad.svg
 ---
 
 # Muzaffarabad
@@ -28,13 +29,13 @@ within: "[[Pakistan]]"
 Capital of Azad Kashmir, Pakistan. The furthest point of Dervla Murphy's Kashmir detour in _Full Tilt_.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | Camping with the Army by the river; locals say Kashmir must be won by fighting. |
 
-## Full Tilt — Dervla Murphy (1965)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.3583&mlon=73.4722#map=16/34.3583/73.4722) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.3583,73.4722)
 
+## Full Tilt — Dervla Murphy (1965)
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6my532z0rjjtty7jma8c1)
 
 > I stopped in the little town of Muzaffarabad for half an hour and talked to the locals about the Kashmir problem. On my Bartholomew’s map this region is in India, but they tell me here it’s in Pakistan – I give it up!

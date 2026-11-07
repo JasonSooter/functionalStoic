@@ -2,13 +2,8 @@
 publish: true
 title: Johnson Space Center Building 30
 created: 2026-06-13
-modified: 2026-11-02T14:17:46.000Z
-published: 2026-11-02T14:17:46.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Johnson Space Center Building 30.svg
+modified: 2026-11-07T06:56:00.331Z
+published: 2026-11-07T06:56:00.331Z
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 29.5581
   - -95.0883
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Johnson Space Center]]"
 image: Attachments/Places/Johnson Space Center Building 30.svg
 ---
@@ -30,13 +29,13 @@ image: Attachments/Places/Johnson Space Center Building 30.svg
 Mission Control building at NASA's Johnson Space Center, Houston. In Project Hail Mary Grace teaches Astrophage biology to the crew there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | Grace teaches Astrophage biology (the Krebs cycle) to astronauts DuBois and Shapiro in a small conference room |
 
-## Project Hail Mary — Andy Weir (2021)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.5581&mlon=-95.0883#map=16/29.5581/-95.0883) · [Google Maps](https://www.google.com/maps/search/?api=1&query=29.5581,-95.0883)
 
+## Project Hail Mary — Andy Weir (2021)
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9qfsdevwkfmagrqfkd2g)
 
 > I left the NBL and walked to Building 30. They would have sent a car if I’d asked, but I didn’t want one. It was only a ten-minute walk.
