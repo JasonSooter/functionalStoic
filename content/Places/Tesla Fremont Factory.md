@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Tesla Fremont Factory
-created: 2026-10-21T20:10:36.000Z
-modified: 2026-11-05T01:22:25.437Z
-published: 2026-11-05T01:22:25.437Z
 aliases:
   - Tesla Factory
   - NUMMI
+title: Tesla Fremont Factory
+created: 2015-08-05
+modified: 2026-11-05T01:22:25.000Z
+published: 2026-11-05T01:22:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tesla Fremont Factory.svg
 books:
   - "Elon Musk Series: Introduction"
   - How Tesla Will Change The World
@@ -20,10 +25,6 @@ icon: newspaper
 location:
   - 37.4927
   - -121.9415
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Tesla Fremont Factory.svg
 ---
@@ -33,6 +34,7 @@ image: Attachments/Places/Tesla Fremont Factory.svg
 Tesla's car factory in Fremont, California, the former GM–Toyota NUMMI plant. In two posts of Tim Urban's Wait But Why series it is where he tours Tesla's production line and test-drives a Model S.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Elon Musk Series: Introduction | Tim Urban | setting | Urban tours the former NUMMI plant and its robot assembly lines. |
@@ -40,6 +42,7 @@ Tesla's car factory in Fremont, California, the former GM–Toyota NUMMI plant. 
 | We are now witnessing Elon Musk’s slow-motion disruption of the global auto industry | Steve LeVine | subject | Tesla's Fremont factory, where new Model 3 assembly lines must be built from scratch. |
 
 ## Elon Musk Series: Introduction — Tim Urban (2015)
+
 Source: [Original](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html) · [Readwise highlight](https://read.readwise.io/read/01m5g16avqtwdz5jfwdshrbqed)
 
 > When I pulled up to the Tesla factory (joined by Andrew), I was first taken by its size
@@ -49,6 +52,7 @@ Source: [Original](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-m
 - **Why it matters:** The visit gives the series its first-hand view of how Tesla builds cars.
 
 ## How Tesla Will Change The World — Tim Urban (2015)
+
 Source: [Original](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) · [Readwise highlight](https://read.readwise.io/read/01m5g16hm9zaw8k8y7tv8pxrfw)
 
 > I had driven to the Tesla factory that morning in what had felt like a brand new rental car, and I left the factory in the same car, now feeling like a 1982 model.
@@ -58,6 +62,7 @@ Source: [Original](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-lif
 - **Why it matters:** The drive is his personal evidence for the article's claim that electric cars will replace petrol cars.
 
 ## We are now witnessing Elon Musk’s slow-motion disruption of the global auto industry — Steve LeVine (2016)
+
 Source: [Original](https://qz.com/656443/we-are-now-witnessing-elon-musks-slow-motion-disruption-of-the-global-auto-industry/) · [Readwise highlight](https://read.readwise.io/read/01m5jjrvzna218rp7ybjwzdk5d)
 
 > The Model 3 is derivative of no prior model; Musk must create entirely new assembly lines for the car in Tesla’s Fremont, California, factory (pictured above).

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Snape Maltings
-created: 2026-10-22T13:41:23.000Z
-modified: 2026-11-02T21:25:14.920Z
-published: 2026-11-02T21:25:14.920Z
+created: 2024-10-04
+modified: 2026-11-02T21:25:15.000Z
+published: 2026-11-02T21:25:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Snape Maltings.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - 52.1637
   - 1.4977
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Suffolk]]"
 image: Attachments/Places/Snape Maltings.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Snape Maltings.svg
 Concert hall in converted maltings near Aldeburgh, Suffolk; in _Life on Air_ BBC2 records Britten's Owen Wingrave there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | BBC2 records Britten's Owen Wingrave there. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx33k4v3vzkdynad12pd9h)
 
 > Eventually we agreed that we would build a huge temporary studio using Outside Broadcast camera units in and around the Concert Hall at the Snape Maltings near Aldeburgh.

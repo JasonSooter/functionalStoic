@@ -1,12 +1,17 @@
 ---
 publish: true
 title: Whitby
-created: 2026-10-21T11:08:20.000Z
-modified: 2026-11-06T20:29:06.465Z
-published: 2026-11-06T20:29:06.465Z
+created: 2024-08-19
+modified: 2026-11-06T20:29:06.000Z
+published: 2026-11-06T20:29:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Whitby.svg
 aliases: []
 books:
-  - '#005 Really interesting holiday photographs'
+  - "#005 Really interesting holiday photographs"
 categories:
   - "[[Places]]"
 color: purple
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 54.4867
   - -0.6156
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 image: Attachments/Places/Whitby.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Whitby.svg
 Harbour town on the North Yorkshire coast, England, which appears in the reading as the setting of Dave Walker's holiday week of coast walks, buses and a steam railway.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #005 Really interesting holiday photographs | Dave Walker | setting | Holiday week: coast path, buses, steam railway and 'Whitby goth black'. |
 
 ## #005 Really interesting holiday photographs — Dave Walker (2024)
+
 Source: [Original](https://diagramclub.substack.com/p/005-really-interesting-holiday-photographs) · [Readwise highlight](https://read.readwise.io/read/01m5f1x0hfqnbrtkx4wepk9ghk)
 
 > We had a lovely time last week in Whitby, walking on the coast path, catching buses to various places (inexpensive), riding on the steam railway (really quite expensive), having lovely food and drink, and visiting as many entry-fee English Heritage sites as we could (OK… two) owing to having got English Heritage membership via Tesco Clubcard.

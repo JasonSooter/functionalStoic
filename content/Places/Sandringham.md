@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sandringham
-created: 2026-10-21T13:55:17.000Z
-modified: 2026-11-02T21:01:59.545Z
-published: 2026-11-02T21:01:59.545Z
 aliases:
   - Sandringham Estate
+title: Sandringham
+created: 2024-08-01
+modified: 2026-11-02T21:02:00.000Z
+published: 2026-11-02T21:02:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sandringham.svg
 books:
   - I MISS LORINA BULWER
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 52.8297
   - 0.5139
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Norfolk]]"
 image: Attachments/Places/Sandringham.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Sandringham.svg
 Sandringham is the royal estate in Norfolk, England. It turns up in I MISS LORINA BULWER (Shaun Usher): A rare moment of concrete, remembered place within the letter, tied to her royal-connection fantasies.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | I MISS LORINA BULWER | Shaun Usher | backdrop | In the letter, Bulwer describes a visit to Sandringham: the gates at the Limetree Walk, a scarlet-coated huntsman, and a child riding a… |
 
 ## I MISS LORINA BULWER — Shaun Usher (2024)
+
 Source: [Original](https://news.lettersofnote.com/p/i-miss-lorina-bulwer) · [Readwise highlight](https://read.readwise.io/read/01m5fbggqq5bjnbzpcwp71w80a)
 
 > I MISS LORINA BULWER HAVE BEEN TO SANDRINGHAM NORFOLK AND ADMIRED THE GATES AT THE ENTRANCE OF THE LIMETREE WALK

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Sans Souci Hotel (Stranger in a Strange Land)
-created: 2026-10-21T22:58:20.000Z
-modified: 2026-11-02T21:10:48.033Z
-published: 2026-11-02T21:10:48.033Z
+created: 2024-05-18
+modified: 2026-11-02T21:10:48.000Z
+published: 2026-11-02T21:10:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sans Souci Hotel (Stranger in a Strange Land).svg
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 27.8222,-82.6706
-geo_note: "inferred: the newscaster places the hotel 'here in beautiful St. Petersburg';\
-  \ the hotel itself is fictional"
+geo_note: "inferred: the newscaster places the hotel 'here in beautiful St. Petersburg'; the hotel itself is fictional"
 geo_source: Wikipedia (en) St. Petersburg, Florida
 icon: book
 location:
   - 27.8222
   - -82.6706
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[St Petersburg, Florida]]"
 image: Attachments/Places/Sans Souci Hotel (Stranger in a Strange Land).svg
 ---
@@ -32,11 +32,13 @@ image: Attachments/Places/Sans Souci Hotel (Stranger in a Strange Land).svg
 Beach hotel in St. Petersburg, Florida in Stranger in a Strange Land (Robert A. Heinlein), where the Nest hides and Mike is killed. The hotel is fictional; the pin is the city the text names.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | turning point | The Nest's last refuge, and the lawn where Mike is stoned to death. |
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
+
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > Sans Souci Hotel, Gem of the Gulf, whose management is in no way responsible for this hunted

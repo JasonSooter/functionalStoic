@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Tehran
-created: 2026-10-20T22:56:53.000Z
-modified: 2026-11-05T01:22:46.584Z
-published: 2026-11-05T01:22:46.584Z
 aliases:
   - Teheran
+title: Tehran
+created: 2025-03-08
+modified: 2026-11-05T01:22:47.000Z
+published: 2026-11-05T01:22:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tehran.svg
 books:
   - Rick Steves' Iran (2009)
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 35.6889
   - 51.3897
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iran]]"
 image: Attachments/Places/Tehran.svg
 ---
@@ -38,10 +39,12 @@ Tehran is the capital of [[Iran]]. It appears in Rick Steves' 2009 Iran video as
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Refused an Afghan visa as a lone woman cyclist, she fights for it with embassy help. |
 
 ## Sub-places
+
 - [[Azadi Tower]]
 - [[Mausoleum of Ruhollah Khomeini]]
 
 ## Rick Steves' Iran (2009) — Rick Steves' Europe (2009)
+
 Source: [Original](https://www.youtube.com/watch?v=CYoa9hI3CXg) · [Readwise highlight](https://read.readwise.io/read/01m5dqx1vkxsne6epdpfcwedgc)
 
 > Tehran, a youthful, noisy capital city, is the modern heart of this country. It's a smoggy, mile-high metropolis with a teeming population of about 10 million.
@@ -51,6 +54,7 @@ Source: [Original](https://www.youtube.com/watch?v=CYoa9hI3CXg) · [Readwise hig
 - **Why it matters:** The capital frames the film's picture of a youthful, secular-feeling but theocratically governed Iran.
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kp4t9ncqjekx1svrfejg)
 
 > Today a deep depression has moved over Dervla; I presented myself to the Afghan Embassy at 9 a.m. this morning, only to be told that under no circumstances whatever would they grant a visa to a woman who intended cycling alone through Afghanistan.

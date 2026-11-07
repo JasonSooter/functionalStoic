@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Shakespeare and Company
-created: 2026-10-19T14:13:38.000Z
-modified: 2026-11-02T21:24:32.976Z
-published: 2026-11-02T21:24:32.976Z
 aliases:
   - Shakespeare & Co.
   - Shakespeare and Company (bookstore)
+title: Shakespeare and Company
+created: 2026-08-26
+modified: 2026-11-02T21:24:33.000Z
+published: 2026-11-02T21:24:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Shakespeare and Company.svg
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 48.8525
   - 2.3469
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Paris]]"
 image: Attachments/Places/Shakespeare and Company.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Shakespeare and Company.svg
 English-language bookshop at 37 rue de la Bûcherie on the Left Bank of [[Paris|Paris]], facing Notre-Dame and opened by George Whitman in 1951, which Bill Bryson visits on his first night in Neither Here Nor There.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | backdrop | A cobwebbed bookshop full of readers who never buy, and a miracle that it survives such rents. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5a833kc9wdzgfx58mp0j2q9)
 
 > Shakespeare & Co., a wonderfully gloomy English-language bookstore full of cobwebs and musty smells and old forgotten novels by writers like Warwick Deeping.

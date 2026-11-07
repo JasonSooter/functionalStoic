@@ -1,12 +1,17 @@
 ---
 publish: true
-title: The city (A Clockwork Orange)
-created: 2026-10-23T07:49:06.000Z
-modified: 2026-11-06T01:28:58.205Z
-published: 2026-11-06T01:28:58.205Z
 aliases:
   - Korova Milkbar
   - Staja 84F
+title: The city (A Clockwork Orange)
+created: 2025-11-07
+modified: 2026-11-06T01:28:58.000Z
+published: 2026-11-06T01:28:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The city (A Clockwork Orange).svg
 books:
   - "[[A Clockwork Orange]]"
 categories:
@@ -14,17 +19,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 53.4794,-2.2453
-geo_note: "best-guess: unnamed city; Burgess blended his home town Manchester with\
-  \ Leningrad"
+geo_note: "best-guess: unnamed city; Burgess blended his home town Manchester with Leningrad"
 geo_source: Wikipedia (en) Manchester
 icon: book
 location:
   - 53.4794
   - -2.2453
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manchester]]"
 image: Attachments/Places/The city (A Clockwork Orange).svg
 ---
@@ -34,11 +34,13 @@ image: Attachments/Places/The city (A Clockwork Orange).svg
 The unnamed near-future city of _A Clockwork Orange_, home of the Korova Milkbar and Municipal Flatblock 18a. Pinned as a best guess at Manchester, Burgess's home town.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[A Clockwork Orange]] | Anthony Burgess | setting | Alex's city: the Korova Milkbar, Flatblock 18a, the Public Biblio, Staja 84F and the cottage called HOME. |
 
 ## A Clockwork Orange — Anthony Burgess (1962)
+
 Source: [[A Clockwork Orange]] · [Original](https://openlibrary.org/works/OL261794W) · [Readwise highlight](https://read.readwise.io/read/01m5kvaymnxcpeghhaym2xkfkd)
 
 > we sat in the Korova Milkbar making up our rassoodocks what to do with the evening, a flip dark chill winter bastard though dry.

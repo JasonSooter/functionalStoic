@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Vesturbæjarlaug
-created: 2026-10-22T19:57:31.000Z
-modified: 2026-11-06T14:27:36.355Z
-published: 2026-11-06T14:27:36.355Z
+created: 2016-04-25
+modified: 2026-11-06T14:27:36.000Z
+published: 2026-11-06T14:27:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Vesturbæjarlaug.svg
 aliases: []
 books:
   - Iceland’s Water Cure - The New York Times
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 64.1444
   - -21.963
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Reykjavík]]"
 image: Attachments/Places/Vesturbæjarlaug.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Vesturbæjarlaug.svg
 Public swimming pool in west Reykjavík. A setting in Dan Kois's “Iceland’s Water Cure - The New York Times”: Reykjavik neighbourhood pool where the author's first freezing dash to the hot tubs opens the essay.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Iceland’s Water Cure - The New York Times | Dan Kois | setting | Reykjavik neighbourhood pool where the author's first freezing dash to the hot tubs opens the essay |
 
 ## Iceland’s Water Cure - The New York Times — Dan Kois (2016)
+
 Source: [Original](https://www.nytimes.com/2016/04/24/magazine/icelands-water-cure.html) · [Readwise highlight](https://read.readwise.io/read/01m5jjr54fhgyn4bv2t9ey94yf)
 
 > I reached the largest hot tub and sank to my chin. For one glorious moment, I felt my mind go blank: There was just my body, my big, stupid body in its stupid bathing suit, enveloped in warmth, the cold wind on my ears only heightening my delight.

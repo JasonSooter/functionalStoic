@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Rødbyhavn
-created: 2026-10-20T22:52:18.000Z
-modified: 2026-11-02T20:54:40.103Z
-published: 2026-11-02T20:54:40.103Z
 aliases:
   - Rodbyhavn
+title: Rødbyhavn
+created: 2025-06-03
+modified: 2026-11-02T20:54:40.000Z
+published: 2026-11-02T20:54:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Rødbyhavn.svg
 books:
   - The Insane Scale of Europe’s New Mega-Tunnel
 categories:
@@ -17,10 +22,6 @@ icon: video
 location:
   - 54.6619
   - 11.3586
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Denmark]]"
 image: Attachments/Places/Rødbyhavn.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Rødbyhavn.svg
 Ferry port on Lolland, [[Denmark]], at the Danish end of the Fehmarn Belt tunnel and the main filming location of a B1M video on the tunnel.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Insane Scale of Europe’s New Mega-Tunnel]] | The B1M | setting | The presenter stands at the Danish portal site, with a work harbour, a village for 1,300 workers and a factory casting 89 tunnel elements. |
 
 ## The Insane Scale of Europe’s New Mega-Tunnel — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=QiYvXKQksgI) · [Readwise highlight](https://read.readwise.io/read/01m5dqw7fwj75e474hmgzxpyxk)
 
 > I’m currently standing in Rødbyhavn on the Danish side of the Fehmarn Belt

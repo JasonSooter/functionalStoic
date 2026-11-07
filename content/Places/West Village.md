@@ -1,9 +1,14 @@
 ---
 publish: true
 title: West Village
-created: 2026-10-22T19:57:52.000Z
-modified: 2026-11-06T20:36:43.784Z
-published: 2026-11-06T20:36:43.784Z
+created: 2016-04-07
+modified: 2026-11-06T20:36:44.000Z
+published: 2026-11-06T20:36:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/West Village.svg
 aliases: []
 books:
   - Humans of New York
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 40.736
   - -74.004
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/West Village.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/West Village.svg
 Neighbourhood of Lower Manhattan. A setting in “Humans of New York”: Pandemic-era first in-person date walk where the narrator feels courted again.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Humans of New York | Humans of New York | setting | Pandemic-era first in-person date walk where the narrator feels courted again. |
 
 ## Humans of New York — Humans of New York (2016)
+
 Source: [Original](http://www.humansofnewyork.com/post/142356414341) · [Readwise highlight](https://read.readwise.io/read/01m5jjrxge7ww3jsy2md8bj6d7)
 
 > After dinner we took a walk through the West Village. It was a warm summer night.

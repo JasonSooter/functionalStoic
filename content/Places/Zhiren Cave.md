@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Zhiren Cave
-created: 2026-10-22T22:58:50.000Z
-modified: 2026-11-06T23:32:05.048Z
-published: 2026-11-06T23:32:05.048Z
+created: 2016-07-16
+modified: 2026-11-06T23:32:05.000Z
+published: 2026-11-06T23:32:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Zhiren Cave.svg
 aliases: []
 books:
   - How China is rewriting the book on human origins
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 22.2871
   - 107.5125
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 image: Attachments/Places/Zhiren Cave.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Zhiren Cave.svg
 Cave near Chongzuo, Guangxi, China. Nature's piece debates a 100,000-year-old human jaw found there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How China is rewriting the book on human origins | Nature | subject | A ~100,000-year-old jaw found in 2007 is debated as either continuity with Peking Man or an early exodus of modern humans |
 
 ## How China is rewriting the book on human origins — Nature (2016)
+
 Source: [Original](http://www.nature.com/news/how-china-is-rewriting-the-book-on-human-origins-1.20231) · [Readwise highlight](https://read.readwise.io/read/01m5jx74zca2q2xjpf3genmf65)
 
 > Discovered in Zhirendong, a cave in Guangxi province, the jaw has a classic modern-human appearance, but retains some archaic features of Peking Man, such as a more robust build and a less-protruding chin.

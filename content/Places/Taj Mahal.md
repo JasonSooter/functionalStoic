@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Taj Mahal
-created: 2026-10-23T05:12:52.000Z
-modified: 2026-11-05T01:22:25.593Z
-published: 2026-11-05T01:22:25.593Z
+created: 2025-09-24
+modified: 2026-11-05T01:22:26.000Z
+published: 2026-11-05T01:22:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Taj Mahal.svg
 aliases: []
 books:
   - "[[On the Hippie Trail]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 27.175
   - 78.0419
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Taj Mahal.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Taj Mahal.svg
 Mughal mausoleum on the Yamuna in Agra, India. In _On the Hippie Trail_ it exceeds Rick's expectations at sunset.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | turning point | After Fatehpur Sikri and Agra Fort, the Taj at sunset, which exceeds every expectation. |
 
 ## On the Hippie Trail — Rick Steves (2025)
+
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjf31mq7ss1d8rekvzdp1z)
 
 > The last part of our tour, and a highlight for sure, was the famous Taj Mahal.

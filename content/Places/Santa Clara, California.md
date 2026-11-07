@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Santa Clara, California
-created: 2026-10-23T05:33:41.000Z
-modified: 2026-11-02T21:24:51.356Z
-published: 2026-11-02T21:24:51.356Z
 aliases:
   - Santa Clara
+title: Santa Clara, California
+created: 2025-08-31
+modified: 2026-11-02T21:24:51.000Z
+published: 2026-11-02T21:24:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Santa Clara, California.svg
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 37.3544
   - -121.9692
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Santa Clara, California.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Santa Clara, California.svg
 City in Silicon Valley, California. In _Just for Fun_ it is where Linus Torvalds lives and works for Transmeta after leaving Finland.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | Linus's new home: an apartment, then a cramped duplex, and the secretive Transmeta in an anonymous office park. |
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
+
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrv2w6tgq68y44jkak3cs)
 
 > Peter Anvin was there to greet us as we rented a car for the drive down to Santa Clara, to the apartment complex we had chosen during an apartment-hunting trip we had taken a few months earlier.

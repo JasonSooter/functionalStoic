@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Vaalserberg
-created: 2026-10-20T04:19:32.000Z
-modified: 2026-11-06T14:23:13.123Z
-published: 2026-11-06T14:23:13.123Z
+created: 2026-07-04
+modified: 2026-11-06T14:23:13.000Z
+published: 2026-11-06T14:23:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Vaalserberg.svg
 aliases: []
 books:
   - I Climbed the Highest Mountain in the Netherlands!
@@ -15,10 +20,6 @@ icon: video
 location:
   - 50.7547
   - 6.0208
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Netherlands]]"
 image: Attachments/Places/Vaalserberg.svg
 ---
@@ -28,11 +29,13 @@ image: Attachments/Places/Vaalserberg.svg
 Hill at the Dutch–German–Belgian tripoint near Vaals, Limburg, in the [[Netherlands]], which is the subject of a Not Just Bikes video asking whether its 322.4 m really makes it the country's highest point.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | I Climbed the Highest Mountain in the Netherlands! | Not Just Bikes | subject | The "highest mountain" in the Netherlands, and why the answer depends on what counts as the Netherlands. |
 
 ## I Climbed the Highest Mountain in the Netherlands! — Not Just Bikes (2026)
+
 Source: [Original](https://nebula.tv/videos/notjustbikes-i-climbed-the-highest-mountain-in-the-netherlands/) · [Readwise highlight](https://read.readwise.io/read/01m5bre5z6mtmdtak8c33r6882)
 
 > The highest point in the Netherlands is Vaalserberg, at 322.4 metres above sea level. Or is it?

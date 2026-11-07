@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Winfield, Iowa
-created: 2026-10-23T05:00:05.000Z
-modified: 2026-11-06T20:29:02.080Z
-published: 2026-11-06T20:29:02.080Z
+created: 2025-06-03
+modified: 2026-11-06T20:29:02.000Z
+published: 2026-11-06T20:29:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Winfield, Iowa.svg
 aliases: []
 books:
   - "[[The Life and Times of the Thunderbolt Kid]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 41.1258
   - -91.4381
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iowa]]"
 image: Attachments/Places/Winfield, Iowa.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Winfield, Iowa.svg
 Small town in Henry County, south-east Iowa. In _The Life and Times of the Thunderbolt Kid_ it is the home of Bryson's grandparents and their small farm.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Life and Times of the Thunderbolt Kid]] | Bill Bryson | setting | His grandparents' small farm and two-block Main Street: Nehi pop at Benteco's, a freezing sleeping porch. |
 
 ## The Life and Times of the Thunderbolt Kid — Bill Bryson (2006)
+
 Source: [[The Life and Times of the Thunderbolt Kid]] · [Original](https://openlibrary.org/works/OL4620956W) · [Readwise highlight](https://read.readwise.io/read/01m5khtxja221z5b3vcr8y4ser)
 
 > Uptown in Winfield meant Main Street, a two-block stretch of retail tranquillity sporting a post office, two banks, a couple of filling stations, a tavern, a newspaper office, two small grocers, a pool hall, and a variety store.

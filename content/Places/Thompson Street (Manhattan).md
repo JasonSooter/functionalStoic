@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Thompson Street (Manhattan)
-created: 2026-10-22T19:58:19.000Z
-modified: 2026-11-06T08:21:46.093Z
-published: 2026-11-06T08:21:46.093Z
+created: 2025-02-27
+modified: 2026-11-06T08:21:46.000Z
+published: 2026-11-06T08:21:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Thompson Street (Manhattan).svg
 aliases: []
 books:
   - "[[Range]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.7255
   - -74.0021
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Thompson Street (Manhattan).svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Thompson Street (Manhattan).svg
 Street in Greenwich Village and SoHo, Manhattan. A setting in David Epstein's _Range_: A TV test on a Greenwich Village sidewalk where Susan Polgar recreates a chess diagram from a passing truck.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | setting | A TV test on a Greenwich Village sidewalk where Susan Polgar recreates a chess diagram from a passing truck. |
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
+
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jjs21sf5ntw6z909prdghh)
 
 > They sat her at a sidewalk table in the middle of a leafy block of Manhattan’s Greenwich Village, in front of a cleared chessboard.

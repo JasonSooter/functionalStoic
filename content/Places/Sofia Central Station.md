@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sofia Central Station
-created: 2026-10-20T07:38:35.000Z
-modified: 2026-11-02T21:25:15.004Z
-published: 2026-11-02T21:25:15.004Z
 aliases:
   - Sofia Central railway station
+title: Sofia Central Station
+created: 2026-03-28
+modified: 2026-11-02T21:25:15.000Z
+published: 2026-11-02T21:25:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sofia Central Station.svg
 books:
   - This Legendary Night Train is FINALLY bookable !
 categories:
@@ -16,10 +21,6 @@ icon: video
 location:
   - 42.7121
   - 23.321
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sofia]]"
 image: Attachments/Places/Sofia Central Station.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Sofia Central Station.svg
 Main railway station of Sofia, Bulgaria, in [[Sofia]]. It appears in the reading as the destination of the Istanbul night train, which arrived an hour early.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This Legendary Night Train is FINALLY bookable ! | Simply Railway | journey waypoint | Arrival of the Istanbul night train, an hour early. |
 
 ## This Legendary Night Train is FINALLY bookable ! — Simply Railway (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=hhGnBrXlmbQ) · [Readwise highlight](https://read.readwise.io/read/01m5c3pd24a6nz5fcc0a0bshbn)
 
 > since we’re already approaching Sofia Central Station.

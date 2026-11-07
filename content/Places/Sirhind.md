@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sirhind
-created: 2026-10-22T16:27:37.000Z
-modified: 2026-11-02T21:25:14.792Z
-published: 2026-11-02T21:25:14.792Z
 aliases:
   - Sirhind-Fatehgarh
+title: Sirhind
+created: 2025-03-08
+modified: 2026-11-02T21:25:15.000Z
+published: 2026-11-02T21:25:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sirhind.svg
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 30.6167
   - 76.3833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Sirhind.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Sirhind.svg
 Town on the Grand Trunk Road in Indian Punjab. A reflective stop in _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Mistaken for a corpse in a dak bungalow; long reflections on India, and a plan to ride at night. |
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6ndrsrk65tyajzs94npc7)
 
 > The landscape is flatter than Belgium, even more overpopulated and enlivened only by thousands of cattle, the majority at a most gruesome stage of emaciation.

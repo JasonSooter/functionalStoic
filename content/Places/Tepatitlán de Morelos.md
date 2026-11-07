@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Tepatitlán de Morelos
-created: 2026-10-23T02:24:43.000Z
-modified: 2026-11-05T01:22:25.661Z
-published: 2026-11-05T01:22:25.661Z
 aliases:
   - Tepatitlan
+title: Tepatitlán de Morelos
+created: 2025-01-16
+modified: 2026-11-05T01:22:26.000Z
+published: 2026-11-05T01:22:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tepatitlán de Morelos.svg
 books:
   - "The Underdogs: A Novel of the Mexican Revolution"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 20.8139
   - -102.7639
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jalisco]]"
 image: Attachments/Places/Tepatitlán de Morelos.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Tepatitlán de Morelos.svg
 Town in the Los Altos highlands of Jalisco. In The Underdogs Demetrio's band passes through it on the road toward Guadalajara.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Underdogs: A Novel of the Mexican Revolution | Mariano Azuela | journey waypoint | The troop rides in after leaving before dawn, turns schools into barracks, and Demetrio lodges in the chapel of an abandoned church. |
 
 ## The Underdogs: A Novel of the Mexican Revolution — Mariano Azuela (1915)
+
 Source: [Original](https://openlibrary.org/works/OL1209983W) · [Readwise highlight](https://read.readwise.io/read/01m5k8z8b8j8bc9zrc2d90767h)
 
 > "Well, mate, we're almost to Guadalajara," Venancio said, glancing over the smiling row of houses in Tepatitlan nestling against the hillside.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: St Mark's Basilica
-created: 2026-10-20T13:40:29.000Z
-modified: 2026-11-03T01:20:02.249Z
-published: 2026-11-03T01:20:02.249Z
 aliases:
   - San Marco
   - Basilica di San Marco
+title: St Mark's Basilica
+created: 2026-07-06
+modified: 2026-11-03T01:20:02.000Z
+published: 2026-11-03T01:20:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/St Mark's Basilica.svg
 books:
   - "[[Death in Venice]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 45.4345
   - 12.3398
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Venice]]"
 image: Attachments/Places/St Mark's Basilica.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/St Mark's Basilica.svg
 Cathedral church on [[Piazza San Marco]], [[Venice]], Italy. It appears in the reading as the sanctuary in Death in Venice where Aschenbach's watching of Tadzio turns into pursuit.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Death in Venice]] | Thomas Mann | setting | Sunday mass where watching becomes pursuit. |
 
 ## Death in Venice — Thomas Mann (1912)
+
 Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5cray2d7ftn85zx04wans9e)
 
 > Having surmised that they would be attending mass at San Marco, he would hurry there and, entering the golden dusk of the sanctuary from the square’s torrid heat, locate the boy he had so missed, his head bowed at worship over a prie-dieu.

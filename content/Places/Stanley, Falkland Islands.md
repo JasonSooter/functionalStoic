@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Stanley, Falkland Islands
-created: 2026-10-22T14:40:13.000Z
-modified: 2026-11-03T01:20:02.437Z
-published: 2026-11-03T01:20:02.437Z
 aliases:
   - Port Stanley
+title: Stanley, Falkland Islands
+created: 2024-10-04
+modified: 2026-11-03T01:20:02.000Z
+published: 2026-11-03T01:20:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stanley, Falkland Islands.svg
 books:
   - Life on Air
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -51.695
   - -57.8506
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Falkland Islands]]"
 image: Attachments/Places/Stanley, Falkland Islands.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Stanley, Falkland Islands.svg
 Capital of the Falkland Islands; in _Life on Air_ the crew are stranded there over Christmas 1980, before the war.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The crew are stranded there over Christmas 1980, before the war. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7q2m3x6p7s0g2retrqrh)
 
 > Ned Kelly, Dickie Bird, Hugh Maynard and I were the only guests.

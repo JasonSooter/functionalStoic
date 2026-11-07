@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sunda Strait
-created: 2026-10-23T11:16:01.000Z
-modified: 2026-11-04T01:23:29.765Z
-published: 2026-11-04T01:23:29.765Z
 aliases:
   - Straits of Sunda
+title: Sunda Strait
+created: 2026-10-23
+modified: 2026-11-04T01:23:30.000Z
+published: 2026-11-04T01:23:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sunda Strait.svg
 books:
   - "[[Exploration of Moby Dick]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -5.92
   - 105.88
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Indonesia]]"
 image: Attachments/Places/Sunda Strait.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Sunda Strait.svg
 The Sunda Strait is the channel between Java and Sumatra in Indonesia, linking the Indian Ocean with the Java Sea. In _Moby-Dick_ the Pequod passes through it chasing a vast herd of sperm whales while being chased by Malay pirates.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | setting | Through the straits of Sunda the Pequod chases a Grand Armada of sperm whales while Malay pirates chase her. |
 
 ## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m77b79sbh8x12jhh17wh00)
 
 > By the straits of Sunda, chiefly, vessels bound to China from the west, emerge into the China seas.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Shiraz
-created: 2026-10-20T22:54:25.000Z
-modified: 2026-11-02T21:24:33.196Z
-published: 2026-11-02T21:24:33.196Z
+created: 2025-07-29
+modified: 2026-11-02T21:24:33.000Z
+published: 2026-11-02T21:24:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Shiraz.svg
 aliases: []
 books:
   - Rick Steves' Iran (2009)
@@ -16,10 +21,6 @@ icon: video
 location:
   - 29.61
   - 52.5425
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iran]]"
 image: Attachments/Places/Shiraz.svg
 ---
@@ -29,14 +30,17 @@ image: Attachments/Places/Shiraz.svg
 City in southern [[Iran]], capital of Fars province, and the penultimate stop in Rick Steves' Iran, centred on poetry and Iranian hospitality.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Rick Steves' Iran\|Rick Steves' Iran (2009)]] | Rick Steves' Europe | setting | After Esfahan the crew moves to Shiraz, with its brick citadel, the poets' tombs, and a family dinner in a wealthy home. |
 
 ## Sub-places
+
 - [[Tomb of Hafez]]
 
 ## Rick Steves' Iran (2009) — Rick Steves' Europe (2009)
+
 Source: [Original](https://www.youtube.com/watch?v=CYoa9hI3CXg) · [Readwise highlight](https://read.readwise.io/read/01m5dqxfam0xcqraz3q5b2a81v)
 
 > A couple more hours to the southwest is Shiraz, a booming city of over a million people.

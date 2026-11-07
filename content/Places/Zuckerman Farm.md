@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Zuckerman Farm
-created: 2026-10-20T22:54:58.000Z
-modified: 2026-11-06T23:32:04.928Z
-published: 2026-11-06T23:32:04.928Z
 aliases:
   - Homer Zuckerman's farm
   - Zuckerman place
   - Zuckerman's barn
+title: Zuckerman Farm
+created: 2026-01-04
+modified: 2026-11-06T23:32:05.000Z
+published: 2026-11-06T23:32:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Zuckerman Farm.svg
 books:
   - "[[Charlotte's Web]]"
 categories:
@@ -21,10 +26,6 @@ icon: book
 location:
   - 44.2942
   - -68.555
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Maine]]"
 image: Attachments/Places/Zuckerman Farm.svg
 ---
@@ -34,11 +35,13 @@ image: Attachments/Places/Zuckerman Farm.svg
 Fictional farm in E. B. White's _Charlotte's Web_, pinned at its real-world model within [[Maine]]. Nearly all of the story takes place in and around Zuckerman's barn.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Charlotte's Web]] | E. B. White | setting | Wilbur goes to live in the manure pile in the cellar of Zuckerman's barn, where he meets Charlotte, Templeton and the other animals. |
 
 ## Charlotte's Web — E. B. White (1952)
+
 Source: [[Charlotte's Web]] · [Original](https://openlibrary.org/works/OL483391W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0ps63srz2ytrjxmm62m2)
 
 > It was the kind of barn that children like to play in. And the whole thing was owned by Fern’s uncle, Mr. Homer L. Zuckerman.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Wainganga River
-created: 2026-10-23T22:35:04.000Z
-modified: 2026-11-06T17:31:50.099Z
-published: 2026-11-06T17:31:50.099Z
 aliases:
   - Waingunga
+title: Wainganga River
+created: 2026-10-23
+modified: 2026-11-06T17:31:50.000Z
+published: 2026-11-06T17:31:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Wainganga River.svg
 books:
   - The Jungle Book
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 21.95
   - 79.5667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Wainganga River.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Wainganga River.svg
 River of central India flowing south through Seoni district. In _The Jungle Book_ it is Shere Khan's hunting ground, and its ravine is where Mowgli has the buffalo herds trample the tiger.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Jungle Book | Rudyard Kipling | turning point | Shere Khan's range; Mowgli stampedes the buffalo down its ravine onto him. |
 
 ## The Jungle Book — Rudyard Kipling (1894)
+
 Source: [Original](https://openlibrary.org/works/OL19870W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2rb2f896gxkax6aq8zdq)
 
 > Shere Khan was the tiger who lived near the Waingunga River, twenty miles away.

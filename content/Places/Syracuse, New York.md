@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Syracuse, New York
-created: 2026-10-23T07:46:33.000Z
-modified: 2026-11-04T01:29:14.291Z
-published: 2026-11-04T01:29:14.291Z
+created: 2025-12-28
+modified: 2026-11-04T01:29:14.000Z
+published: 2026-11-04T01:29:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Syracuse, New York.svg
 aliases: []
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 43.0469
   - -76.1444
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Syracuse, New York.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Syracuse, New York.svg
 City in central New York at the south end of Onondaga Lake. In _Wedding of the Waters_ the canal turns its salt works into an industrial city.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | subject | Salt by the boatload: the canal turns a village of 250 into an industrial city of 22,000. |
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvdvneygc37fhjqn5pe9kx)
 
 > The canal also transformed Syracuse from a small village into a major industrial center. Situated just about halfway between Albany and Buffalo, the area around Syracuse had been a source of salt since the 1700s.

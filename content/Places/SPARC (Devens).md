@@ -1,11 +1,16 @@
 ---
 publish: true
-title: SPARC (Devens)
-created: 2026-10-20T19:34:52.000Z
-modified: 2026-11-02T20:54:40.135Z
-published: 2026-11-02T20:54:40.135Z
 aliases:
   - Commonwealth Fusion Systems Devens campus
+title: SPARC (Devens)
+created: 2025-09-15
+modified: 2026-11-02T20:54:40.000Z
+published: 2026-11-02T20:54:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/SPARC (Devens).svg
 books:
   - America is Building The World’s First Nuclear Fusion Plant
 categories:
@@ -18,10 +23,6 @@ icon: video
 location:
   - 42.5437
   - -71.6271
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/SPARC (Devens).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/SPARC (Devens).svg
 Commonwealth Fusion Systems' SPARC demonstration tokamak under construction at Devens, [[Massachusetts]], USA. It appears in the reading as the central site of a video on building the world's first fusion power plant.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | America is Building The World’s First Nuclear Fusion Plant | The B1M | subject | The prototype fusion machine that has to work before a power plant is built. |
 
 ## America is Building The World’s First Nuclear Fusion Plant — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=tR1n5-4d1q4) · [Readwise highlight](https://read.readwise.io/read/01m5dcj2rrjv1emeg11e6ac4wd)
 
 > Under construction in Devons, Massachusetts, which is about 50 miles northwest of Boston,

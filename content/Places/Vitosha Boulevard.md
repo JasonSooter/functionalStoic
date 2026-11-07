@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Vitosha Boulevard
-created: 2026-10-20T01:28:56.000Z
-modified: 2026-11-06T14:27:36.563Z
-published: 2026-11-06T14:27:36.563Z
 aliases:
   - Vitosha
   - bulevard Vitosha
+title: Vitosha Boulevard
+created: 2026-08-26
+modified: 2026-11-06T14:27:37.000Z
+published: 2026-11-06T14:27:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Vitosha Boulevard.svg
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 42.6913
   - 23.3197
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sofia]]"
 image: Attachments/Places/Vitosha Boulevard.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Vitosha Boulevard.svg
 The main shopping avenue of central [[Sofia]], Bulgaria, which appears in Bill Bryson's Neither Here Nor There as a street where hundreds queue and a crowd mobs a single shop display case.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | Hundreds queue for bread, and a crowd mobs a single display case. |
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bekk0vnka5gq6md2njxxfn)
 
 > so instead I walked up a long, straight avenue called Vitosha where most of the other main shops seemed to be.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Washington, D.C.
-created: 2026-10-20T10:48:36.000Z
-modified: 2026-11-06T17:27:50.886Z
-published: 2026-11-06T17:27:50.886Z
+created: 2024-05-18
+modified: 2026-11-06T17:27:51.000Z
+published: 2026-11-06T17:27:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Washington DC.svg
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 38.9047
   - -77.0164
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Washington DC.svg
 ---
 
@@ -28,6 +29,7 @@ image: Attachments/Places/Washington DC.svg
 Capital of the United States. Hub for literary places in the region.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Speck moved to Washington in 2003, went car-free, lost ten pounds, met his wife on a transit platform and built a house with a garden… |
@@ -60,6 +62,7 @@ Capital of the United States. Hub for literary places in the region.
 - [[World War II Memorial]]
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjp2f70req13ce2rpvyy8)
 
 > Ironically, the city that resisted the greatest amount of federal highway spending was probably the nation’s capital. Most current residents are unaware that, at one time, the Washington area was slated to receive 450 miles of interstate highways, 38 of which would have plowed through the District itself.

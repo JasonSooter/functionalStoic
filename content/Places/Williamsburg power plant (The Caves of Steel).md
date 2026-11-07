@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Williamsburg power plant (The Caves of Steel)
-created: 2026-10-22T10:27:27.000Z
-modified: 2026-11-06T20:29:02.016Z
-published: 2026-11-06T20:29:02.016Z
+created: 2024-08-06
+modified: 2026-11-06T20:29:02.000Z
+published: 2026-11-06T20:29:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Williamsburg power plant (The Caves of Steel).svg
 aliases: []
 books:
   - The Caves of Steel
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.71
   - -73.96
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
 image: Attachments/Places/Williamsburg power plant (The Caves of Steel).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Williamsburg power plant (The Caves of Steel).svg
 A nuclear power plant in the Williamsburg section of a future [[Brooklyn]] in Isaac Asimov's The Caves of Steel, through which Baley escapes his pursuers.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Caves of Steel | Isaac Asimov | turning point | Baley and Daneel cut through it; the alpha-sprayer that killed R. Sammy came from here. |
 
 ## The Caves of Steel — Isaac Asimov (1954)
+
 Source: [Original](https://openlibrary.org/works/OL46401W) · [Readwise highlight](https://read.readwise.io/read/01m5hj3h68an4ff789ksg9mb7a)
 
 > The alpha-sprayer was taken from the Williamsburg power plant. You and I passed through the Williamsburg power plant yesterday. We were seen, and the fact will come out.

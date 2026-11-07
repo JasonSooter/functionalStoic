@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Tokyo National Museum
-created: 2026-10-20T07:36:16.000Z
-modified: 2026-11-06T08:21:46.309Z
-published: 2026-11-06T08:21:46.309Z
+created: 2026-03-07
+modified: 2026-11-06T08:21:46.000Z
+published: 2026-11-06T08:21:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tokyo National Museum.svg
 aliases: []
 books:
   - "[[Hunchback]]"
@@ -15,10 +20,6 @@ icon: book
 location:
   - 35.7189
   - 139.7764
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tokyo]]"
 image: Attachments/Places/Tokyo National Museum.svg
 ---
@@ -28,11 +29,13 @@ image: Attachments/Places/Tokyo National Museum.svg
 Japan's oldest national museum, in [[Tokyo]]. In Hunchback it is the site of the 1974 Mona Lisa spray-paint protest that supplies the novel's central image.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Hunchback]] | Saou Ichikawa | subject | Site of the 1974 Mona Lisa spray-paint protest that gives the novel its central image. |
 
 ## Hunchback — Saou Ichikawa (2023)
+
 Source: [[Hunchback]] · [Original](https://openlibrary.org/works/OL42393648W) · [Readwise highlight](https://read.readwise.io/read/01m5c3ntvehf08zbq3y289beq0)
 
 > red spray paint while it was on loan at the Tokyo National Museum.

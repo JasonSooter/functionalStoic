@@ -1,9 +1,14 @@
 ---
 publish: true
 title: San Diego Zoo
-created: 2026-10-22T10:43:58.000Z
-modified: 2026-11-02T21:01:59.329Z
-published: 2026-11-02T21:01:59.329Z
+created: 2015-11-24
+modified: 2026-11-02T21:01:59.000Z
+published: 2026-11-02T21:01:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/San Diego Zoo.svg
 aliases: []
 books:
   - After this weekend, only three northern white rhinos are left in the world
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 32.7361
   - -117.1514
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Diego]]"
 image: Attachments/Places/San Diego Zoo.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/San Diego Zoo.svg
 Zoo in [[San Diego]], California, where Nola, the Western hemisphere's last female northern white rhino, dies.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | After this weekend, only three northern white rhinos are left in the world | Frida Garza | turning point | Nola dies after surgery, leaving three northern white rhinos in the world. |
 
 ## After this weekend, only three northern white rhinos are left in the world — Frida Garza (2015)
+
 Source: [Original](https://qz.com/557230/after-this-weekend-only-three-northern-white-rhinos-are-left-in-the-world) · [Readwise highlight](https://read.readwise.io/read/01m5hk5akgxgrve7x500xnmyq3)
 
 > Until this weekend, San Diego Zoo’s 41-year-old Nola was the only female northern white rhino in the Western hemisphere.

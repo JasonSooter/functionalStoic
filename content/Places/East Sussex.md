@@ -2,18 +2,18 @@
 publish: true
 title: East Sussex
 created: 2026-10-21T02:06:51.000Z
-modified: 2026-11-06T08:12:19.612Z
-published: 2026-11-06T08:12:19.612Z
+modified: 2026-11-06T08:12:20.000Z
+published: 2026-11-06T08:12:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # East Sussex

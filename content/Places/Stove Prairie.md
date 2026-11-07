@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Stove Prairie
-created: 2026-10-20T22:55:26.000Z
-modified: 2026-11-04T01:23:29.509Z
-published: 2026-11-04T01:23:29.509Z
 aliases:
   - Stove Prairie Landing
+title: Stove Prairie
+created: 2025-06-26
+modified: 2026-11-04T01:23:30.000Z
+published: 2026-11-04T01:23:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stove Prairie.svg
 books:
   - Swift Campout 2025.
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 40.6197
   - -105.3577
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Stove Prairie.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Stove Prairie.svg
 Foothills area west of Fort Collins in Larimer County, [[Colorado]]. It appears in a Swift Campout write-up as the steep climb riders take before turning onto dirt toward camp.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Swift Campout 2025. | Mostly Bikes x Me | journey waypoint | Riders take the steep south approach up to Stove Prairie before turning onto dirt off Buckhorn Road to reach camp. |
 
 ## Swift Campout 2025. — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/14883140945.html) · [Readwise highlight](https://read.readwise.io/read/01m5dqvkktngbp4m42w37hr1mk)
 
 > Tooled out of town, over Horsetooth, up the steep south approach to Stove Prairie, and onto the dirt turn off of Buckhorn Road.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Stonewall Jackson High School (Manassas)
-created: 2026-10-21T19:23:52.000Z
-modified: 2026-11-03T01:24:25.898Z
-published: 2026-11-03T01:24:25.898Z
 aliases:
   - Unity Reed High School
+title: Stonewall Jackson High School (Manassas)
+created: 2024-05-18
+modified: 2026-11-03T01:24:26.000Z
+published: 2026-11-03T01:24:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stonewall Jackson High School (Manassas).svg
 books:
   - How to Be an Antiracist
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 38.7652
   - -77.5084
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manassas]]"
 image: Attachments/Places/Stonewall Jackson High School (Manassas).svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Stonewall Jackson High School (Manassas).svg
 Public high school in Manassas, Virginia, renamed Unity Reed High School in 2020. In How to Be an Antiracist (Ibram X. Kendi) it is where the isolated newcomer from Queens slowly finds his feet.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | setting | New school in Manassas where the friendless Kendi is cut from the team and rethinks Black culture. |
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fydya2j9pj0g0ag8t1z44x)
 
 > I did not have any friends at my new high school in Manassas, Virginia.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Tilaurakot (Kapilavastu)
-created: 2026-10-23T07:49:19.000Z
-modified: 2026-11-06T08:21:46.217Z
-published: 2026-11-06T08:21:46.217Z
 aliases:
   - Kapilavastu
   - Tilaurakot
+title: Tilaurakot (Kapilavastu)
+created: 2026-06-17
+modified: 2026-11-06T08:21:46.000Z
+published: 2026-11-06T08:21:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tilaurakot (Kapilavastu).svg
 books:
   - "[[The Subtle Art of Not Giving a Fck]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 27.58
   - 83.08
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nepal]]"
 image: Attachments/Places/Tilaurakot (Kapilavastu).svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/Tilaurakot (Kapilavastu).svg
 Archaeological site in southern Nepal identified with Kapilavastu, the Buddha's childhood home. Mark Manson opens a chapter with the parable of the prince raised in its palace.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Subtle Art of Not Giving a Fck\|The Subtle Art of Not Giving a F*ck]] | Mark Manson | setting | The parable of the prince shielded in a palace who leaves it and becomes the Buddha. |
 
-## The Subtle Art of Not Giving a F*ck — Mark Manson (2016)
+## The Subtle Art of Not Giving a F\*ck — Mark Manson (2016)
+
 Source: [[The Subtle Art of Not Giving a Fck]] · [Original](https://openlibrary.org/works/OL17590212W) · [Readwise highlight](https://read.readwise.io/read/01m5kvb2nwczxettm7tm6x2mb5)
 
 > About twenty-five hundred years ago, in the Himalayan foothills of present-day Nepal, there lived in a great palace a king who was going to have a son.

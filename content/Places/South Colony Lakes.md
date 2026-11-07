@@ -1,9 +1,14 @@
 ---
 publish: true
 title: South Colony Lakes
-created: 2026-10-23T01:35:52.000Z
-modified: 2026-11-02T21:34:23.717Z
-published: 2026-11-02T21:34:23.717Z
+created: 2016-10-30
+modified: 2026-11-02T21:34:24.000Z
+published: 2026-11-02T21:34:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/South Colony Lakes.svg
 aliases: []
 books:
   - "When adventure happens: Things don’t go as planned on Crestone Peak"
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 37.9688
   - -105.57
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/South Colony Lakes.svg
 ---
@@ -38,6 +39,7 @@ Alpine lakes below Crestone Peak and Crestone Needle, Colorado. A climbing trip 
 | 2016 get you down? Not me, and here’s why | proactiveoutside1 | setting | The author recounts an 'unforgettable adventure' in the Sangre de Cristo Mountains with a companion during 2016. |
 
 ## When adventure happens: Things don’t go as planned on Crestone Peak — proactiveoutside1 (2016)
+
 Source: [Original](https://proactiveoutside.wordpress.com/2016/08/16/when-adventure-happens-things-dont-go-as-planned-on-crestone-peak/) · [Readwise highlight](https://read.readwise.io/read/01m5jy7j45d4mbp2pm17xahn2a)
 
 > So backpacking into South Colony Lakes was laborious. A road that led higher up the route had since been closed, so it’s a few miles from the new four-wheel-drive trailhead to the campsites near the lakes.
@@ -47,6 +49,7 @@ Source: [Original](https://proactiveoutside.wordpress.com/2016/08/16/when-advent
 - **Why it matters:** Base camp where the trip starts and ends in setback.
 
 ## 2016 get you down? Not me, and here’s why — proactiveoutside1 (2017)
+
 Source: [Original](https://proactiveoutside.wordpress.com/2017/01/03/2016-get-you-down-not-me-and-heres-why/) · [Readwise highlight](https://read.readwise.io/read/01m5k5sh0mpptxcvqnfmjcj6sy)
 
 > The Colony Lakes region of Colorado is ridiculously beautiful.

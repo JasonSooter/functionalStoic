@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Stromboli
-created: 2026-10-23T04:59:56.000Z
-modified: 2026-11-04T01:23:29.569Z
-published: 2026-11-04T01:23:29.569Z
+created: 2025-08-18
+modified: 2026-11-04T01:23:30.000Z
+published: 2026-11-04T01:23:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stromboli.svg
 aliases: []
 books:
   - "[[Journey to the Centre of the Earth]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 38.7939
   - 15.2111
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sicily]]"
 image: Attachments/Places/Stromboli.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Stromboli.svg
 Active volcanic island in the Aeolian Islands, north of Sicily, Italy. In _Journey to the Centre of the Earth_ the explorers are thrown out of its crater at the end of their journey.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Journey to the Centre of the Earth]] | Jules Verne | turning point | Ejected by an eruption, the explorers land on the volcano's slope and learn from a shepherd boy where they are. |
 
 ## Journey to the Centre of the Earth — Jules Verne (1864)
+
 Source: [[Journey to the Centre of the Earth]] · [Original](https://openlibrary.org/works/OL16820479W) · [Readwise highlight](https://read.readwise.io/read/01m5khvprjzremywzt5kc09755)
 
 > The Stromboli fishermen received us with the kindness due to those who have undergone shipwreck.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Samarinda
-created: 2026-10-22T13:40:20.000Z
-modified: 2026-11-02T21:01:59.229Z
-published: 2026-11-02T21:01:59.229Z
+created: 2024-10-04
+modified: 2026-11-02T21:01:59.000Z
+published: 2026-11-02T21:01:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Samarinda.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - -0.5
   - 117.1378
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Borneo]]"
 image: Attachments/Places/Samarinda.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Samarinda.svg
 Port city on the lower Mahakam in East Kalimantan, Borneo; in _Life on Air_ the starting point of the Mahakam river trip.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | The starting point of the Mahakam river trip. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2n3zc5mnb6p8y56gmbqq)
 
 > 'Well,' I said, 'we are sailing for Samarinda in the morning and I think that is a lovely name.'

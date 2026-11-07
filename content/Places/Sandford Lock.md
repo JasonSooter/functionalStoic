@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Sandford Lock
-created: 2026-10-22T01:45:07.000Z
-modified: 2026-11-02T21:01:59.529Z
-published: 2026-11-02T21:01:59.529Z
 aliases:
   - Sandford lasher
   - Sandford-on-Thames
+title: Sandford Lock
+created: 2025-04-19
+modified: 2026-11-02T21:02:00.000Z
+published: 2026-11-02T21:02:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sandford Lock.svg
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 51.708
   - -1.2331
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oxfordshire]]"
 image: Attachments/Places/Sandford Lock.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Sandford Lock.svg
 Lock and weir pool (the Sandford lasher) on the Thames just below Oxford. Three Men in a Boat warns that the pool is 'a very good place to drown yourself in'.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | The deadly pool under Sandford lasher, marked by an obelisk to drowned bathers; then Iffley and the last mile to Oxford. |
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkza440gcgww98ymq95y0x)
 
 > An obelisk marks the spot where two men have already been drowned, while bathing there;

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Saidu Sharif
-created: 2026-10-22T16:26:37.000Z
-modified: 2026-11-02T20:54:40.283Z
-published: 2026-11-02T20:54:40.283Z
+created: 2025-03-08
+modified: 2026-11-02T20:54:40.000Z
+published: 2026-11-02T20:54:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Saidu Sharif.svg
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 34.75
   - 72.3572
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pakistan]]"
 image: Attachments/Places/Saidu Sharif.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Saidu Sharif.svg
 Capital of Swat in northwest Pakistan. In _Full Tilt_ Dervla Murphy is taken in by the Wali of Swat's family.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Asking for Aurang Zeb's house, she finds a palace and becomes the royal family's guest. |
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6ms63h693r8zf3rxxkfdh)
 
 > The little ‘capital’ town of Saidu Shariff (altitude 3,150 feet), with the Waliahad on a slight rise above it, looks north towards the snow peaks and gives me the same feeling of carefree isolation as Andorra out of the tourist season.

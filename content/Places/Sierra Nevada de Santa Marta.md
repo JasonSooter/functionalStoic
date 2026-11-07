@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Sierra Nevada de Santa Marta
-created: 2026-10-22T14:40:05.000Z
-modified: 2026-11-02T21:24:33.296Z
-published: 2026-11-02T21:24:33.296Z
+created: 2024-10-04
+modified: 2026-11-02T21:24:33.000Z
+published: 2026-11-02T21:24:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sierra Nevada de Santa Marta.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ icon: book
 location:
   - 10.8667
   - -73.72
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colombia]]"
 image: Attachments/Places/Sierra Nevada de Santa Marta.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Sierra Nevada de Santa Marta.svg
 Isolated coastal mountain range in northern Colombia; in _Life on Air_ Attenborough rides into Ika country to film a people who resisted the missionaries.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | Attenborough rides into Ika country to film a people who resisted the missionaries. |
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy787hgcjh9s9fzq9v197m)
 
 > We drove to one of the small towns in the southern foothills of the Sierra Nevada, but thereafter we had to travel on horseback.

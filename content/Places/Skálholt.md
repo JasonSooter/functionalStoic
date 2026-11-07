@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Skálholt
-created: 2026-10-21T19:23:48.000Z
-modified: 2026-11-02T21:25:14.880Z
-published: 2026-11-02T21:25:14.880Z
+created: 2024-05-18
+modified: 2026-11-02T21:25:15.000Z
+published: 2026-11-02T21:25:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Skálholt.svg
 aliases: []
 books:
   - Nordic Tales
@@ -16,10 +21,6 @@ icon: book
 location:
   - 64.1256
   - -20.5242
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iceland]]"
 image: Attachments/Places/Skálholt.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Skálholt.svg
 Historic bishop's seat in south Iceland. In Nordic Tales it is the haunted bishop's house where a fearless boy wrestles a goblin.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Nordic Tales | Chronicle Books | setting | A fearless boy lays a goblin to rest in the haunted bishop's house. |
 
 ## Nordic Tales — Chronicle Books (2017)
+
 Source: [Original](https://chroniclebooks.com/products/nordic-tales) · [Readwise highlight](https://read.readwise.io/read/01m5fyd9a2h9kdcj36me65a2fs)
 
 > Once he came to a cottage, where he slept the night, and there the people told him that the Bishop of Skálholt was just dead.

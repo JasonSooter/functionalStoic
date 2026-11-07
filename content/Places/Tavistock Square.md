@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Tavistock Square
-created: 2026-10-22T22:58:59.000Z
-modified: 2026-11-05T01:22:25.505Z
-published: 2026-11-05T01:22:25.505Z
+created: 2016-08-31
+modified: 2026-11-05T01:22:26.000Z
+published: 2026-11-05T01:22:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tavistock Square.svg
 aliases: []
 books:
   - How Virginia Woolf and Vita Sackville-West Fell in Love
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 51.525
   - -0.1291
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bloomsbury]]"
 image: Attachments/Places/Tavistock Square.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Tavistock Square.svg
 Garden square in Bloomsbury, London. Vita Sackville-West's diary records her lunch with Virginia Woolf there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Virginia Woolf and Vita Sackville-West Fell in Love | Maria Popova | setting | Vita's diary records lunch with Virginia in Tavistock Square, where Woolf has just arrived |
 
 ## How Virginia Woolf and Vita Sackville-West Fell in Love — Maria Popova (2016)
+
 Source: [Original](https://www.brainpickings.org/2016/07/28/virginia-woolf-vita-sackville-west/) · [Readwise highlight](https://read.readwise.io/read/01m5jx8ay586zzjscfybgjxn6w)
 
 > Lunch with Virginia in Tavistock Square, where she has just arrived. The first time that I have been alone with her for long.

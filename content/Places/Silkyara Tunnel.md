@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Silkyara Tunnel
-created: 2026-10-20T10:42:15.000Z
-modified: 2026-11-02T21:25:14.756Z
-published: 2026-11-02T21:25:14.756Z
 aliases:
   - Silkyara Bend–Barkot Tunnel
+title: Silkyara Tunnel
+created: 2025-12-20
+modified: 2026-11-02T21:25:15.000Z
+published: 2026-11-02T21:25:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Silkyara Tunnel.svg
 books:
   - The World's Most Dangerous Tunnel
 categories:
@@ -18,10 +23,6 @@ icon: video
 location:
   - 30.7575
   - 78.2636
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Silkyara Tunnel.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Silkyara Tunnel.svg
 Road tunnel on the Char Dham highway in Uttarkashi district, Uttarakhand, [[India]], whose 2023 collapse is the subject of The B1M's video on the world's most dangerous tunnel.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The World's Most Dangerous Tunnel]] | The B1M | subject | The 2023 collapse that trapped 41 workers for 17 days. |
 
 ## The World's Most Dangerous Tunnel — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=CI7qaAP3huo) · [Readwise highlight](https://read.readwise.io/read/01m5ce44cc50k3b2zjtx1kk02h)
 
 > the southern entrance at Silkyara,

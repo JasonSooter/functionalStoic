@@ -1,9 +1,14 @@
 ---
 publish: true
 title: St Stephen's Green
-created: 2026-10-20T07:37:24.000Z
-modified: 2026-11-03T01:20:02.317Z
-published: 2026-11-03T01:20:02.317Z
+created: 2026-04-14
+modified: 2026-11-03T01:20:02.000Z
+published: 2026-11-03T01:20:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/St Stephen's Green.svg
 aliases: []
 books:
   - Ireland’s $27BN Mission to Save Dublin
@@ -15,10 +20,6 @@ icon: video
 location:
   - 53.3381
   - -6.2592
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dublin]]"
 image: Attachments/Places/St Stephen's Green.svg
 ---
@@ -28,11 +29,13 @@ image: Attachments/Places/St Stephen's Green.svg
 Public park and square in central [[Dublin]]. It appears in the reading as the park where a fifth of the space would close to build a MetroLink station.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Ireland’s $27BN Mission to Save Dublin | The B1M | subject | A fifth of the park would close to build a metro station. |
+| Ireland’s \$27BN Mission to Save Dublin | The B1M | subject | A fifth of the park would close to build a metro station. |
 
-## Ireland’s $27BN Mission to Save Dublin — The B1M (2026)
+## Ireland’s \$27BN Mission to Save Dublin — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=T_Jz9xzOoO4) · [Readwise highlight](https://read.readwise.io/read/01m5c3nz8p3mzfwr46qybz0cp0)
 
 > 20% of the city’s most popular public green space St Stephen’s Green, will be

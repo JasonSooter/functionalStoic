@@ -1,12 +1,17 @@
 ---
 publish: true
-title: San'ya (Tokyo)
-created: 2026-10-23T01:32:46.000Z
-modified: 2026-11-02T21:01:59.477Z
-published: 2026-11-02T21:01:59.477Z
 aliases:
   - Sanya
   - San'ya
+title: San'ya (Tokyo)
+created: 2016-12-16
+modified: 2026-11-02T21:01:59.000Z
+published: 2026-11-02T21:01:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/San'ya (Tokyo).svg
 books:
   - The chilling stories behind Japan’s ‘evaporating people’
 categories:
@@ -19,10 +24,6 @@ icon: newspaper
 location:
   - 35.729
   - 139.7994
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tokyo]]"
 image: Attachments/Places/San'ya (Tokyo).svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/San'ya (Tokyo).svg
 Day-labourers' district in Taitō, Tokyo, no longer named on official maps. A New York Post piece on Japan's 'evaporated people' makes it their refuge.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The chilling stories behind Japan’s ‘evaporating people’ | Maureen Callahan | subject | Sanya is described as an officially erased slum within Tokyo where the 'evaporated' people live in tiny squalid hotel rooms, with work… |
 
 ## The chilling stories behind Japan’s ‘evaporating people’ — Maureen Callahan (2016)
+
 Source: [Original](https://nypost.com/2016/12/10/the-chilling-stories-behind-japans-evaporating-people/) · [Readwise highlight](https://read.readwise.io/read/01m5k5sf5pwz4bk0hx8cd07694)
 
 > The city of Sanya, as Mauger writes, isn’t located on any map. Technically, it doesn’t even exist. It’s a slum within Tokyo, one whose name has been erased by authorities.

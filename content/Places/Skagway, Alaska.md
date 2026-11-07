@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Skagway, Alaska
-created: 2026-10-23T22:34:23.000Z
-modified: 2026-11-02T21:25:14.848Z
-published: 2026-11-02T21:25:14.848Z
 aliases:
   - Skaguay
   - Skagway
+title: Skagway, Alaska
+created: 2026-10-23
+modified: 2026-11-02T21:25:15.000Z
+published: 2026-11-02T21:25:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Skagway, Alaska.svg
 books:
   - The Call of the Wild
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 59.4583
   - -135.3139
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alaska]]"
 image: Attachments/Places/Skagway, Alaska.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Skagway, Alaska.svg
 Gold-rush port at the head of the Lynn Canal, Alaska. In _The Call of the Wild_ Buck's worn-out team reaches it before being sold to Hal, Charles and Mercedes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Call of the Wild | Jack London | turning point | The mail team ends its run here and Buck is sold to Hal's party. |
 
 ## The Call of the Wild — Jack London (1903)
+
 Source: [Original](https://openlibrary.org/works/OL14942956W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5p9drhdfgtjbtfckyvhd)
 
 > And on the last night of the second week they topped White Pass and dropped down the sea slope with the lights of Skaguay and of the shipping at their feet.

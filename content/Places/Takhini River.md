@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Takhini River
-created: 2026-10-23T22:34:41.000Z
-modified: 2026-11-05T01:22:25.625Z
-published: 2026-11-05T01:22:25.625Z
 aliases:
   - Tahkeena
+title: Takhini River
+created: 2026-10-23
+modified: 2026-11-05T01:22:26.000Z
+published: 2026-11-05T01:22:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Takhini River.svg
 books:
   - The Call of the Wild
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 60.8414
   - -135.1822
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Yukon]]"
 image: Attachments/Places/Takhini River.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Takhini River.svg
 Tributary joining the Yukon River near Whitehorse. At the mouth of the Tahkeena in _The Call of the Wild_ Buck kills Spitz and takes the lead.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Call of the Wild | Jack London | turning point | Buck kills Spitz in a rabbit chase and becomes lead dog. |
 
 ## The Call of the Wild — Jack London (1903)
+
 Source: [Original](https://openlibrary.org/works/OL14942956W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5mtzghd4pp6w55mjyaqm)
 
 > At the mouth of the Tahkeena, one night after supper, Dub turned up a snowshoe rabbit, blundered it, and missed. In a second the whole team was in full cry. A hundred yards away was a camp of the Northwest Police, with fifty dogs, huskies all, who joined the chase.

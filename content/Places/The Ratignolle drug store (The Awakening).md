@@ -1,9 +1,14 @@
 ---
 publish: true
 title: The Ratignolle drug store (The Awakening)
-created: 2026-10-21T04:45:51.000Z
-modified: 2026-11-06T01:28:57.133Z
-published: 2026-11-06T01:28:57.133Z
+created: 2025-12-02
+modified: 2026-11-06T01:28:57.000Z
+published: 2026-11-06T01:28:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The Ratignolle drug store (The Awakening).svg
 aliases: []
 books:
   - "[[The Awakening]]"
@@ -12,18 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 29.9637,-90.0603
-geo_note: "inferred: Ratignolle drug store pinned at Esplanade Ridge / Faubourg Marigny\
-  \ area, New Orleans (side-street corner near Esplanade Avenue); see Where is it?\
-  \ (Point on Esplanade Avenue; the store is fictional and the corner is unknown.)"
+geo_note: "inferred: Ratignolle drug store pinned at Esplanade Ridge / Faubourg Marigny area, New Orleans (side-street corner near Esplanade Avenue); see Where is it? (Point on Esplanade Avenue; the store is fictional and the corner is unknown.)"
 geo_source: OSM way 12694785 (Esplanade Avenue, Nominatim)
 icon: book
 location:
   - 29.9637
   - -90.0603
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Esplanade Avenue]]"
 image: Attachments/Places/The Ratignolle drug store (The Awakening).svg
 ---
@@ -33,11 +32,13 @@ image: Attachments/Places/The Ratignolle drug store (The Awakening).svg
 Fictional drug store, with the family's apartments above it, on a side-street corner in New Orleans, pinned at an inferred location within [[Esplanade Avenue]]. It is where Edna visits Madame Ratignolle in Kate Chopin's _The Awakening_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Awakening]] | Kate Chopin | backdrop | Edna visits Madame Ratignolle at the family's apartments over Monsieur Ratignolle's drug store on a side-street corner. |
 
 ## The Awakening — Kate Chopin (1899)
+
 Source: [[The Awakening]] · [Original](https://openlibrary.org/works/OL65430W) · [Readwise highlight](https://read.readwise.io/read/01m5ebwm7fgjrm46g1ghdt3yme)
 
 > The Ratignolles lived at no great distance from Edna’s home, on the corner of a side street, where Monsieur Ratignolle owned and conducted a drug store which enjoyed a steady and prosperous trade.
