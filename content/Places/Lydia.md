@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Lydia
-created: 2026-10-23
-modified: 2026-11-07T06:21:37.940Z
-published: 2026-11-07T06:21:37.940Z
+created: 2024-05-18
+modified: 2026-11-07T06:21:38.000Z
+published: 2026-11-07T06:21:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lydia.svg
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 38.4883
   - 28.0403
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Turkey]]"
 image: Attachments/Places/Lydia.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Lydia.svg
 Lydia was an ancient kingdom of western Anatolia, in today's Turkey, with its capital at Sardis. _Sapiens_ names it as the place where coins were first struck.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | Kingdom where King Alyattes struck history's first coins around 640 BC. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75r41rk8teg85fnyjgj1a)
 
 > The first coins in history were struck around 640 BC by King Alyattes of Lydia, in western Anatolia.

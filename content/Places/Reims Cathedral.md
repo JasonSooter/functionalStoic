@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Reims Cathedral
-created: 2026-10-23T11:15:08.000Z
-modified: 2026-11-07T06:20:42.753Z
-published: 2026-11-07T06:20:42.753Z
 aliases:
   - Notre-Dame de Reims
+title: Reims Cathedral
+created: 2026-01-04
+modified: 2026-11-07T06:20:43.000Z
+published: 2026-11-07T06:20:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Reims Cathedral.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 49.2539
   - 4.0342
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[France]]"
 image: Attachments/Places/Reims Cathedral.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Reims Cathedral.svg
 Gothic coronation cathedral of the French kings in Reims, Champagne. In _Germany: Memories of a Nation_ it is where France and Germany celebrated their reconciliation in 1962.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | turning point | Where Adenauer and de Gaulle sealed Franco-German reconciliation in 1962, turning Charlemagne into a shared hero. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75r7sgged2f2qwgreq5me)
 
 > I would locate him in the Cathedral of Reims in 1962, where Adenauer and Charles de Gaulle celebrated the new brotherhood between the French and the German nations.

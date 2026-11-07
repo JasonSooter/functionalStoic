@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Würzburg
-created: 2026-10-23
-modified: 2026-11-07T06:20:36.053Z
-published: 2026-11-07T06:20:36.053Z
+created: 2026-01-04
+modified: 2026-11-07T06:20:36.000Z
+published: 2026-11-07T06:20:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Würzburg.svg
 aliases: []
 books:
   - "[[Germany - Memories of a Nation]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 49.7833
   - 9.9333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bavaria]]"
 image: Attachments/Places/Würzburg.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Würzburg.svg
 Episcopal city on the Main in Lower Franconia, Bavaria. In _Germany: Memories of a Nation_ it is where the sculptor Tilman Riemenschneider worked and was ruined after the Peasants' War.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | turning point | Riemenschneider's city, where he was mayor and where siding with the rebels in the Peasants' War of 1525 ended his career. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75w5xbmae049afena234c)
 
 > In 1525, Würzburg was the site of one of its most important episodes.

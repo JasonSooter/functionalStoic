@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Sumer
-created: 2026-10-23
-modified: 2026-11-07T06:21:56.881Z
-published: 2026-11-07T06:21:56.881Z
+created: 2024-05-18
+modified: 2026-11-07T06:21:57.000Z
+published: 2026-11-07T06:21:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sumer.svg
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 32
   - 46
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iraq]]"
 image: Attachments/Places/Sumer.svg
 ---
@@ -30,14 +31,17 @@ image: Attachments/Places/Sumer.svg
 Sumer was the ancient civilisation of southern Mesopotamia, in today's southern Iraq. _Sapiens_ presents it as the place where writing and the first known money appeared.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Birthplace of writing and of history's first money, barley, both around 3000 BC. |
 
 ## Sub-places
+
 - [[Uruk]]
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75nfm2a3t2bw49m13sx51)
 
 > The first to overcome the problem were the ancient Sumerians, who lived in southern Mesopotamia. There, a scorching sun beating upon rich muddy plains produced plentiful harvests and prosperous towns.

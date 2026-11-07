@@ -3,8 +3,8 @@ publish: true
 title: Places
 description: Every place that does real work in something I've read, grouped by region, by book and by confidence, with a link to the map.
 created: 2026-11-01T12:52:54.000Z
-modified: 2026-11-01T13:00:38.000Z
-published: 2026-11-01T13:00:38.000Z
+modified: 2026-11-07T06:45:38.882Z
+published: 2026-11-07T06:45:38.882Z
 tags:
   - places
   - source/ai/claude
@@ -1104,7 +1104,6 @@ Grouped by continent and country (from each pin). Under a country, a bold place 
 > - **[[Chiang Mai]]** (1): [[Nowhere Books]]
 > - [[Koh Lanta]]
 > - [[Namthip Nursing Home (Pattaya)]]
-> - [[Pattani]]
 
 > [!abstract]- 🇧🇹 Bhutan (5)
 > Country note: [[Bhutan]]
@@ -1124,7 +1123,6 @@ Grouped by continent and country (from each pin). Under a country, a bold place 
 > Country note: [[Vietnam]]
 >
 > - [[Hanoi]]
-> - **[[Ho Chi Minh City]]** (1): [[Thích Quảng Đức self-immolation site (Saigon)]]
 
 > [!abstract]- 🇰🇵 North Korea (3)
 > Country note: [[North Korea]]

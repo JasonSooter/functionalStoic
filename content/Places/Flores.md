@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Flores
-created: 2026-10-23
-modified: 2026-11-07T06:21:50.569Z
-published: 2026-11-07T06:21:50.569Z
+created: 2024-05-18
+modified: 2026-11-07T06:21:51.000Z
+published: 2026-11-07T06:21:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Flores.svg
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -16,10 +21,6 @@ icon: book
 location:
   - -8.6747
   - 121.3844
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Indonesia]]"
 image: Attachments/Places/Flores.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Flores.svg
 Flores is an island in the Lesser Sunda chain of eastern Indonesia. _Sapiens_ uses it as the home of Homo floresiensis, the dwarf humans shaped by island isolation.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Island where stranded archaic humans dwarfed into Homo floresiensis, about a metre tall. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m74xgqsk07wz75dfa763n1)
 
 > On another Indonesian island – the small island of Flores – archaic humans underwent a process of dwarfing.

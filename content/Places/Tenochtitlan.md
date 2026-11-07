@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Tenochtitlan
-created: 2026-10-23
-modified: 2026-11-07T06:21:55.469Z
-published: 2026-11-07T06:21:55.469Z
+created: 2024-05-18
+modified: 2026-11-07T06:21:55.000Z
+published: 2026-11-07T06:21:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tenochtitlan.svg
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 19.4333
   - -99.1333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico City]]"
 image: Attachments/Places/Tenochtitlan.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Tenochtitlan.svg
 Tenochtitlan was the island capital of the Aztec Empire, on the site of today's Mexico City. In _Sapiens_ it is where Cortés captured Montezuma and conquered the empire.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | setting | Aztec capital where Cortés seized Montezuma and, with local allies, conquered the empire. |
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m76b93vfwhxm41yw2yef4f)
 
 > He then marched towards the Aztec capital, the great metropolis of Tenochtitlan.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Königsberg
-created: 2026-10-23
-modified: 2026-11-07T06:20:40.945Z
-published: 2026-11-07T06:20:40.945Z
 aliases:
   - Kaliningrad
+title: Königsberg
+created: 2026-01-04
+modified: 2026-11-07T06:20:41.000Z
+published: 2026-11-07T06:20:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Königsberg.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 54.7115
   - 20.5093
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Königsberg.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Königsberg.svg
 Former capital of East Prussia on the Pregel, since 1946 the Russian city of Kaliningrad. In _Germany: Memories of a Nation_ it is the first of the 'lost capitals' of German culture.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Lost Prussian capital: royal coronation city, home of Kant, refuge in 1806, Kollwitz's birthplace, and now Russian Kaliningrad. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m756qgn8te1x5m9bwbzqa9)
 
 > The coronation that took place in the brick Gothic cathedral of Königsberg on 18 January 1701 was a ceremony designed to show that this monarchy was different.

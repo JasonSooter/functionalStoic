@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Neue Wache
-created: 2026-10-23T11:14:43.000Z
-modified: 2026-11-07T06:20:58.106Z
-published: 2026-11-07T06:20:58.106Z
 aliases:
   - New Guardhouse
+title: Neue Wache
+created: 2026-01-04
+modified: 2026-11-07T06:20:58.000Z
+published: 2026-11-07T06:20:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Neue Wache.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 52.5175
   - 13.3956
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Neue Wache.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Neue Wache.svg
 Neo-classical guardhouse by Schinkel on Unter den Linden, Berlin, now Germany's central memorial to the victims of war and dictatorship. In _Germany: Memories of a Nation_ it shows how Kollwitz's art became the nation's image of mourning.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Schinkel's empty guardhouse holding Kollwitz's Pietà, rededicated in 1993 to all victims of war and dictatorship. |
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76mkfvv9hphznee9r5b0f)
 
 > On 14 November 1993, in the pouring rain, the President of Germany, Richard von Weizsäcker, came to the Neue Wache to rededicate it as the central National Memorial to the Victims of War and Dictatorship.
