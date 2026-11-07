@@ -2,8 +2,8 @@
 publish: true
 title: Kansas
 created: 2026-10-23
-modified: 2026-11-07T06:57:08.927Z
-published: 2026-11-07T06:57:08.927Z
+modified: 2026-11-07T17:11:11.696Z
+published: 2026-11-07T17:11:11.696Z
 aliases: []
 books:
   - The Wonderful Wizard of Oz
@@ -35,7 +35,9 @@ U.S. state on the Great Plains. It is Dorothy's grey prairie home in _The Wonder
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.2731&mlon=-98.5822#map=11/38.2731/-98.5822) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.2731,-98.5822)
 
 ## Sub-places
+
 - [[EPA Region 7 Headquarters (Lenexa)]]
+- [[Topeka]]
 - [[University of Kansas]]
 
 ## The Wonderful Wizard of Oz — L. Frank Baum (1900)

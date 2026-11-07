@@ -2,8 +2,8 @@
 publish: true
 title: Philadelphia
 created: 2026-10-20T16:28:35.000Z
-modified: 2026-11-07T06:54:55.102Z
-published: 2026-11-07T06:54:55.102Z
+modified: 2026-11-07T17:11:14.388Z
+published: 2026-11-07T17:11:14.388Z
 aliases: []
 books:
   - "[[The First Great Founder]]"
@@ -47,6 +47,7 @@ City on the Delaware River in [[Pennsylvania]], USA, which appears in the readin
 - [[I-95 bridge (Philadelphia)]]
 - [[John C. Anderson Apartments]]
 - [[Ninth Street and Passyunk Avenue]]
+- [[Parkway Central Library]]
 - [[Philadelphia Museum of Art]]
 - [[Point Breeze, Philadelphia]]
 - [[Science Leadership Academy]]
