@@ -1,21 +1,20 @@
 ---
 publish: true
 title: You are the local source for 'Gratitude Reminders'
-description: Reflection upon 8 years in the Photography Industry
 created: 2018-02-28
-modified: 2018-02-28
-published: 2018-02-28
+modified: 2026-11-08T11:23:36.000Z
+published: 2026-11-08T11:23:36.000Z
+linter-yaml-title-alias: You are the local source for 'Gratitude Reminders'
+date created: 2026-10-16T21:17:04+02:00
+date modified: 2026-10-16T21:17:04+02:00
+date: 2018-02-28
+description: Reflection upon 8 years in the Photography Industry
 tags:
   - blog
   - gratitude
 cssclasses:
   - photo-led
-socialImage: Attachments/Sooter_Family_Header.jpg
-linter-yaml-title-alias: You are the local source for 'Gratitude Reminders'
-date created: 2026-10-16T21:17:04+02:00
-date modified: 2026-10-16T21:17:04+02:00
-date: 2018-02-28
-image: Attachments/Sooter_Family_Header.jpg
+image: Attachments/Blog/Sooter Family Header.jpg
 ---
 
 # You are the local source for 'Gratitude Reminders'
@@ -42,9 +41,9 @@ awareness, and appropriate value of that mission is where it might not be as
 natural.
 
 Like many things, if you don't take the time to actively engage with an idea,
-you may miss the key benefit of that idea altogether.
+you may miss the key benefit of that idea altogether. 
 
-![[Attachments/Sooter_Family_1.jpg]]
+![[Attachments/Blog/Sooter Family 1.jpg]]
 
 > First year of The Organic Bloom. Just Andrea & I — Brenda Horan Photography
 
@@ -65,7 +64,7 @@ through the day.
 You'll have to forgive the obvious Dad sentimentality that is likely to show
 through in the remainder of this post 😄
 
-![[Attachments/Sooter_Family_2.jpg]]
+![[Attachments/Blog/Sooter Family 2.jpg]]
 
 > Ellie has now arrived on the scene — Brenda Horan Photography
 
@@ -83,7 +82,7 @@ It's very easy to slide into a place of not accurately appreciating the life
 situation around you. But I would argue that having really large images on your
 walls that you can't help but notice is a very good reminder.
 
-![[Attachments/Sooter_Family_3.jpg]]
+![[Attachments/Blog/Sooter Family 3.jpg]]
 
 > We're in a holding pattern with just Ellie — Vanessa Campbell Photography
 
@@ -97,7 +96,7 @@ their siblings or parents like they should. The finished product you deliver can
 have a lasting benefit far greater than being just a decoration that matches
 their living room.
 
-![[Attachments/Sooter_Family_4.jpg]]
+![[Attachments/Blog/Sooter Family 4.jpg]]
 
 > Mac arrives to make it more interesting. — Vanessa Campbell Photography
 
@@ -112,7 +111,7 @@ on their wall of the people that are special in their life. Your passion to
 capture specific moments in time is just the event needed to trigger a display
 of this year's snapshot in time.
 
-![[Attachments/Sooter_Family_5.jpg]]
+![[Attachments/Blog/Sooter Family 5.jpg]]
 
 > 2 is enough right? — Vanessa Campbell Photography
 
@@ -123,7 +122,7 @@ you and those wonderful photos end up in a drawer on a fancy flash drive. This
 is a tragedy of monumental proportion. One that you need to be aware of and have
 a plan of action to make sure it doesn't happen to your clients.
 
-![[Attachments/Sooter_Family_6.jpg]]
+![[Attachments/Blog/Sooter Family 6.jpg]]
 
 > Nope, apparently not, Poppy shows up to add to the mix! — Destiny Photography
 
@@ -134,14 +133,14 @@ is great and a service you should definitely be knowledgeable about. In the end,
 any printing method is better than them never being hung and remaining on a
 flash drive (See the atrocity mentioned above).
 
-__So make the following a Non-Negotiable:__
+_*So make the following a Non-Negotiable:*_
 
 > "Clients end up with something they will see on a regular basis on their wall"
 
 Anything less is letting your customers miss out on a huge benefit that you can
 provide, passion and what makes you unique.
 
-![[Attachments/Sooter_Family_7.jpg]]
+![[Attachments/Blog/Sooter Family 7.jpg]]
 
 > Oh, my babies are no longer babies. They ask lots of real questions!
 
@@ -161,7 +160,7 @@ to your comments below.
 
 > I'm so grateful for mine — Jason
 
-![[Attachments/Sooter_Family_8.jpg]]
+![[Attachments/Blog/Sooter Family 8.jpg]]
 
 > Our family 7 years later. I'm so grateful for the record of this progression.
 > — Vanessa Campbell Photography

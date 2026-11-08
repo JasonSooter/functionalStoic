@@ -1,21 +1,20 @@
 ---
 publish: true
-aliases:
-  - 12 Books in 2023
 title: Books Read in 2023
 created: 2024-02-04T17:04:00.000Z
-modified: 2026-10-18T15:15:43.056Z
-published: 2026-10-18T15:15:43.056Z
-socialImage: Attachments/Books Read in 2023 Hero.jpg
+modified: 2026-11-08T11:23:36.000Z
+published: 2026-11-08T11:23:36.000Z
 date created: 2024-02-04T18:04:00+01:00
 date modified: 2026-10-18T17:15:42+02:00
 linter-yaml-title-alias: Books Read in 2023
-image: Attachments/Books Read in 2023 Hero.jpg
+aliases:
+  - 12 Books in 2023
+image: Attachments/Site Headers/Books Read in 2023 Hero.jpg
 ---
 
 # Books Read in 2023
 
-![[Attachments/Books Read in 2023 Hero.jpg]]
+![[Attachments/Site Headers/Books Read in 2023 Hero.jpg]]
 
 ## Goal
 
@@ -27,17 +26,17 @@ Read 12 Books in 2023
 
 ## Finished Books
 
-1. \#🗓️/2023/01/31 Adventures with Waffles #📚/status/finished
-2. \#🗓️/2023/03/31 The Phantom Tollbooth #📚/status/finished
-3. \#🗓️/2023/05/01 Stranger in a Strange Land #📚/status/finished
-4. \#🗓️/2023/06/11 Kerplunk!: Stories #📚/status/finished
-5. \#🗓️/2023/07/01 [Happy City](https://app.thestorygraph.com/books/35fec23d-8ae2-4928-b7b5-b465f5822acd) #📚/status/finished
-6. \#🗓️/2023/08/17 [[How to be an Anti-racist]] #📚/status/finished
-7. \#🗓️/2023/10/15 [Of Boys and Men](https://app.thestorygraph.com/books/f6f75f09-5cda-4704-8a70-f8315268c892) #📚/status/finished
-8. \#🗓️/2023/10/27 [[The Comfort Crisis]] #📚/status/finished
-9. \#🗓️/2023/11/15 [[Achtung Baby]] #📚/status/finished
-10. \#🗓️/2023/11/19 [The Obstacle is the Way](https://app.thestorygraph.com/books/77c1ab4a-9d59-43aa-acba-3a67aae9b148) #📚/status/finished
-11. \#🗓️/2023/11/28 The Sense of Wonder #📚/status/finished
-12. \#🗓️/2023/11/29 [[Four Thousand Weeks]] #📚/status/finished
-13. \#🗓️/2023/11/19 [[It's All About the Bike]] #📚/status/finished
-14. \#🗓️/2023/12/29 The Simple Path to Wealth #📚/status/finished
+1. #🗓️/2023/01/31 Adventures with Waffles #📚/status/finished
+2. #🗓️/2023/03/31 The Phantom Tollbooth #📚/status/finished
+3. #🗓️/2023/05/01 Stranger in a Strange Land #📚/status/finished
+4. #🗓️/2023/06/11 Kerplunk!: Stories #📚/status/finished
+5. #🗓️/2023/07/01 [Happy City](https://app.thestorygraph.com/books/35fec23d-8ae2-4928-b7b5-b465f5822acd) #📚/status/finished
+6. #🗓️/2023/08/17 [[How to be an Anti-racist]] #📚/status/finished
+7. #🗓️/2023/10/15 [Of Boys and Men](https://app.thestorygraph.com/books/f6f75f09-5cda-4704-8a70-f8315268c892) #📚/status/finished
+8. #🗓️/2023/10/27 [[The Comfort Crisis]] #📚/status/finished
+9. #🗓️/2023/11/15 [[Achtung Baby]] #📚/status/finished
+10. #🗓️/2023/11/19 [The Obstacle is the Way](https://app.thestorygraph.com/books/77c1ab4a-9d59-43aa-acba-3a67aae9b148) #📚/status/finished
+11. #🗓️/2023/11/28 The Sense of Wonder #📚/status/finished
+12. #🗓️/2023/11/29 [[Four Thousand Weeks]] #📚/status/finished
+13. #🗓️/2023/11/19 [[It's All About the Bike]] #📚/status/finished
+14. #🗓️/2023/12/29 The Simple Path to Wealth #📚/status/finished

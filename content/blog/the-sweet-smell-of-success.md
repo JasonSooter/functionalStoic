@@ -1,27 +1,26 @@
 ---
 publish: true
 title: The Sweet Smell of Success
-description: CNC Speeds High Volume Production of Custom MDF Picture Frames
 created: 2015-02-02
-modified: 2015-02-02
-published: 2015-02-02
+modified: 2026-11-08T11:23:36.000Z
+published: 2026-11-08T11:23:36.000Z
+linter-yaml-title-alias: The Sweet Smell of Success
+date created: 2026-10-16T21:17:04+02:00
+date modified: 2026-10-16T21:17:04+02:00
+date: 2015-02-02
+description: CNC Speeds High Volume Production of Custom MDF Picture Frames
 tags:
   - blog
   - cnc
   - the-organic-bloom
 cssclasses:
   - photo-led
-socialImage: Attachments/organic_bloom_1.jpg
-linter-yaml-title-alias: The Sweet Smell of Success
-date created: 2026-10-16T21:17:04+02:00
-date modified: 2026-10-16T21:17:04+02:00
-date: 2015-02-02
-image: Attachments/organic_bloom_1.jpg
+image: Attachments/Blog/Organic Bloom 1.jpg
 ---
 
 # The Sweet Smell of Success
 
-![[Attachments/organic_bloom_1.jpg]]
+![[Attachments/Blog/Organic Bloom 1.jpg]]
 _Organic Bloom Frames_
 
 > ALPHACAM's Reverse-Side Nesting Helps The Organic Bloom Produce Custom Picture Frames
@@ -38,7 +37,7 @@ workshop, minus the elves.
 
 > It's a lot like Santa's workshop, minus the elves.
 
-![[Attachments/organic_bloom_4.jpg]]
+![[Attachments/Blog/Organic Bloom 4.jpg]]
 _Stacks of Christmas Ornament Organic Bloom Frames_
 
 “You can go to Home Depot or Target to get your frames, but you can't get them
@@ -59,7 +58,7 @@ designer touch.
 With 16 styles, 48 sizes, and 53 colors from which to choose, the combinations
 make for tremendous customization potential.
 
-![[Attachments/organic_bloom_5.jpg]]
+![[Attachments/Blog/Organic Bloom 5.jpg]]
 _Selection of Organic Bloom Frames_
 
 To turn out a batch of about 100 custom frames each day, The Organic Bloom
@@ -80,7 +79,7 @@ programming the company's new Weeke 5' X 10' CNC router.
 > cutting, as it improved our product tremendously.” —Jason Sooter, Business
 > Owner
 
-![[Attachments/organic_bloom_6.jpg]]
+![[Attachments/Blog/Organic Bloom 6.jpg]]
 _Tim Summerer & Jason Sooter_
 
 “We bought some new machinery and needed updated software,” Summerer says.
@@ -98,7 +97,7 @@ orders of virtually any number — from one, two, five, or more. While the produ
 itself is a fairly predictable factor, demands fluctuate daily and the company
 doesn't stock up on finished products because of their inherently unique nature.
 
-![[Attachments/organic_bloom_7.jpg]]
+![[Attachments/Blog/Organic Bloom 7.jpg]]
 _Batch of Organic Bloom Frames_
 
 As part of its customization menu, The Organic Bloom offers single frames and
@@ -126,7 +125,7 @@ cases where the direction of the grain is a factor. It also supports tool
 lead-in and lead-out, as well as multiple-depth parts that may require onion
 skins.
 
-![[Attachments/organic_bloom_2.jpg]]
+![[Attachments/Blog/Organic Bloom 2.jpg]]
 _Alphacam used to batch Organic Bloom Frames_
 
 “Reverse-side nesting opened possibilities we weren't doing before,” Sooter
@@ -180,7 +179,7 @@ had a business that struggled to handle all of its sudden demand. “It was just
 craziness,” Sooter says, “For all of 2011 and 2012, every month was bigger than
 the last.”
 
-![[Attachments/organic_bloom_3.jpg]]
+![[Attachments/Blog/Organic Bloom 3.jpg]]
 _Metallic Organic Bloom Frame_
 
 With ALPHACAM and their new machinery, Sooter and Summerer are prepared to meet

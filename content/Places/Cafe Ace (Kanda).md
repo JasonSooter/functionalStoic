@@ -2,26 +2,26 @@
 publish: true
 title: Cafe Ace (Kanda)
 created: 2024-08-14
-modified: 2026-11-07T06:51:30.000Z
-published: 2026-11-07T06:51:30.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Cafe Ace (Kanda).svg
+modified: 2026-11-08T11:25:34.000Z
+published: 2026-11-08T11:25:34.000Z
 aliases: []
 books:
-  - "[[[RIDGELINE] Do You Want to Run a Kissa]]"
+  - "[[RIDGELINE Do You Want to Run a Kissa]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 35.6915,139.7692
-geo_note: "low confidence: Nominatim cafe '珈琲専門店 エース' in Uchikanda 3-chome, Chiyoda; not verified as the shop that closed"
+geo_note: "low confidence: Nominatim cafe '珈琲専門店 エース' in Uchikanda 3-chome, Chiyoda;\
+  \ not verified as the shop that closed"
 geo_source: OSM node 6130030273
 icon: newspaper
 location:
   - 35.6915
   - 139.7692
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Tokyo]]"
 image: Attachments/Places/Cafe Ace (Kanda).svg
 ---
@@ -31,16 +31,14 @@ image: Attachments/Places/Cafe Ace (Kanda).svg
 Kissaten (old-style coffee shop) in Kanda, Tokyo. Craig Mod's newsletter opens with its sudden closure.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| \[\[\[RIDGELINE] Do You Want to Run a Kissa|\[RIDGELINE] Do You Want to Run a Kissa?]] | Craig Mod | subject | A beloved Kanda kissa closes when its octogenarian owner falls ill. |
+| [[RIDGELINE Do You Want to Run a Kissa\|[RIDGELINE] Do You Want to Run a Kissa?]] | Craig Mod | subject | A beloved Kanda kissa closes when its octogenarian owner falls ill. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.6915\&mlon=139.7692#map=16/35.6915/139.7692) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=35.6915,139.7692)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.6915&mlon=139.7692#map=16/35.6915/139.7692) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6915,139.7692)
 
-## \[RIDGELINE] Do You Want to Run a Kissa? — Craig Mod (2024)
-
-Source: \[\[\[RIDGELINE] Do You Want to Run a Kissa]] · [Original](https://craigmod.com/ridgeline/191/) · [Readwise highlight](https://read.readwise.io/read/01m5f1vpasyc4gpdna4b7fdbwk)
+## [RIDGELINE] Do You Want to Run a Kissa? — Craig Mod (2024)
+Source: [[RIDGELINE Do You Want to Run a Kissa]] · [Original](https://craigmod.com/ridgeline/191/) · [Readwise highlight](https://read.readwise.io/read/01m5f1vpasyc4gpdna4b7fdbwk)
 
 > The octogenarian owner had something befall him of the unrecoverable medical variety. No warning. No succession policy. Just a sudden sign on the door: Thanks for your fifty-two years of patronage.
 

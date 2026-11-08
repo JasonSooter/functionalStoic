@@ -1,10 +1,17 @@
 ---
 publish: true
 title: Improve git hygiene with `git add --patch`
-description: Over the years, I had come across the concept of committing hunks of code. I found it to be useful for specific circumstances and broke it out when appropriate. But I didn't understand it and never spent the time to figure it out. Luckily, I ran into a great tweet about "git add --patch". Let's dig in!
 created: 2019-08-20
-modified: 2019-08-20
-published: 2019-08-20
+modified: 2026-11-08T11:23:36.000Z
+published: 2026-11-08T11:23:36.000Z
+linter-yaml-title-alias: Improve git hygiene with `git add --patch`
+date created: 2026-10-18T18:00:27+02:00
+date modified: 2026-10-18T18:00:27+02:00
+date: 2019-08-20
+description: Over the years, I had come across the concept of committing hunks of
+  code. I found it to be useful for specific circumstances and broke it out when appropriate.
+  But I didn't understand it and never spent the time to figure it out. Luckily, I
+  ran into a great tweet about "git add --patch". Let's dig in!
 tags:
   - blog
   - git
@@ -12,17 +19,13 @@ tags:
   - dev-improvement
 cssclasses:
   - photo-led
-socialImage: Attachments/git-add-patch.png
-linter-yaml-title-alias: Improve git hygiene with `git add --patch`
-date created: 2026-10-18T18:00:27+02:00
-date modified: 2026-10-18T18:00:27+02:00
-date: 2019-08-20
-image: Attachments/git-add-patch.png
+image: Attachments/Blog/Git Add Patch.png
 ---
 
 # Improve git hygiene with `git add --patch`
 
-![[Attachments/git-add-patch.png]]
+
+![[Attachments/Blog/Git Add Patch.png]]
 _Git Add Patch_
 
 My experience was occasional (but never heavy) use of
@@ -31,7 +34,7 @@ However, most of my daily git work happens while using the
 [VSCode Diff UI](https://code.visualstudio.com/docs/editor/versioncontrol) or
 via the CLI.
 
-![[Attachments/diff-review-pane.png]]
+![[Attachments/Blog/Git Diff Review Pane.png]]
 _VSCode Diff-Review-Pane_
 
 I use the CLI for many tasks such as:
@@ -131,4 +134,4 @@ Thanks [Kyle](https://mobile.twitter.com/kyleshevlin),
 [Markus](https://stackoverflow.com/users/6279949/markus-klug) for the
 inspiration to kick off that process!
 
-![[Attachments/git-add-patch-in-vscode.gif]]
+![[Attachments/Blog/Git Add Patch in VS Code.gif]]

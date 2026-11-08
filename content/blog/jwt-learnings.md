@@ -1,24 +1,23 @@
 ---
 publish: true
 title: JWT Learnings
-description: Notes while learning about JWT
 created: 2019-09-14
-modified: 2019-09-14
-published: 2019-09-14
-tags:
-  - blog
-  - software-development
-socialImage: Attachments/JWT Learnings Hero.jpg
+modified: 2026-11-08T11:23:36.000Z
+published: 2026-11-08T11:23:36.000Z
 linter-yaml-title-alias: JWT Learnings
 date created: 2026-10-16T21:17:04+02:00
 date modified: 2026-10-16T21:17:04+02:00
 date: 2019-09-14
-image: Attachments/JWT Learnings Hero.jpg
+description: Notes while learning about JWT
+tags:
+  - blog
+  - software-development
+image: Attachments/Site Headers/JWT Learnings Hero.jpg
 ---
 
 # JWT Learnings
 
-![[Attachments/JWT Learnings Hero.jpg]]
+![[Attachments/Site Headers/JWT Learnings Hero.jpg]]
 
 JWTs (JSON Web Token) is pronounced \`jot\`
 
@@ -61,6 +60,6 @@ So most effort to maintain JWT security revolve around these 2 issues:
 
 That's why it is crucial to not store JWT on the client (no cookie or
 localstorage). Doing so creates security vulnerabilities through
-[CSRF](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_\(CSRF\)) &
-[XSS](https://www.owasp.org/index.php/Cross-site_Scripting_\(XSS\)) attacks by
+[CSRF](<https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)>) &
+[XSS](<https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)>) attacks by
 malicious forms or scripts.

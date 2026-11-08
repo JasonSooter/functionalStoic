@@ -2,8 +2,8 @@
 publish: true
 title: Russia
 created: 2026-10-21T04:45:19.000Z
-modified: 2026-11-08T11:14:49.877Z
-published: 2026-11-08T11:14:49.877Z
+modified: 2026-11-08T14:14:16.597Z
+published: 2026-11-08T14:14:16.597Z
 aliases: []
 books: []
 categories:
@@ -30,11 +30,15 @@ Country spanning eastern Europe and northern Asia.
 - [[Kyzyl]]
 - [[Lake Baikal]]
 - [[Moscow]]
+- [[Ningam River]]
 - [[Olekma River]]
+- [[Plastun Bay]]
 - [[Russky Bridge]]
 - [[Saint Petersburg]]
 - [[Stanovoy Range]]
 - [[Sungir]]
 - [[Tsipa River]]
+- [[Uchur River]]
 - [[Vladivostok]]
 - [[Wrangel Island]]
+- [[Zavitinsk]]

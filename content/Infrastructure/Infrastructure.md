@@ -2,21 +2,20 @@
 publish: true
 title: Infrastructure
 created: 2026-09-26T05:07:50.000Z
-modified: 2026-10-18T15:06:54.261Z
-published: 2026-10-18T15:06:54.261Z
-tags:
-  - infrastructure
-  - note-type/table-of-contents
-socialImage: Attachments/Infrastructure Hero.jpg
+modified: 2026-11-08T11:23:37.000Z
+published: 2026-11-08T11:23:37.000Z
 date created: 2026-09-26T06:55:12+02:00
 date modified: 2026-10-18T17:04:19+02:00
 linter-yaml-title-alias: Infrastructure
-image: Attachments/Infrastructure Hero.jpg
+tags:
+  - infrastructure
+  - note-type/table-of-contents
+image: Attachments/Site Headers/Infrastructure Hero.jpg
 ---
 
 # Infrastructure
 
-![[Attachments/Infrastructure Hero.jpg]]
+![[Attachments/Site Headers/Infrastructure Hero.jpg]]
 
 The systems underneath everyday life, and how they actually work.
 

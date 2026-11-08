@@ -2,13 +2,8 @@
 publish: true
 title: Mexico
 created: 2024-12-22T21:32:19.528Z
-modified: 2026-10-23T11:14:08.000Z
-published: 2026-10-23T11:14:08.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Mexico Hero.jpg
+modified: 2026-11-08T11:23:37.000Z
+published: 2026-11-08T11:23:37.000Z
 books: []
 categories:
   - "[[Places]]"
@@ -19,18 +14,22 @@ date modified: 2026-10-18T17:02:53+02:00
 flag: 🇲🇽
 geo_source: placed by Jason
 icon: flag
-image: Attachments/Mexico Hero.jpg
+image: Attachments/Site Headers/Mexico Hero.jpg
 linter-yaml-title-alias: Mexico
 location:
   - 23.6345
   - -102.5528
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Mexico
 
 Mexico is a country in North America. It groups the places below that come up in the reading, such as the Cozumel reefs where Sy Montgomery first dives with wild octopuses.
 
-![[Attachments/Mexico Hero.jpg]]
+![[Attachments/Site Headers/Mexico Hero.jpg]]
 
 - [[Mexico City]]
 

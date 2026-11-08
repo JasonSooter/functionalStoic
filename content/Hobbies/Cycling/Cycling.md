@@ -2,8 +2,8 @@
 publish: true
 title: Cycling
 created: 2024-02-08T19:20:20.000Z
-modified: 2026-11-08T09:10:25.000Z
-published: 2026-11-08T09:10:25.000Z
+modified: 2026-11-08T11:23:36.000Z
+published: 2026-11-08T11:23:36.000Z
 aliases:
   - Bikes
   - Biking
@@ -12,12 +12,12 @@ tags:
 date created: 2025-09-25T16:40:52+02:00
 date modified: 2026-10-18T17:02:53+02:00
 permalink: cycling
-image: Attachments/Cycling Hero.jpg
+image: Attachments/Site Headers/Cycling Hero.jpg
 ---
 
 # Cycling
 
-![[Attachments/Cycling Hero.jpg]]
+![[Attachments/Site Headers/Cycling Hero.jpg]]
 
 - [[Coffeeneuring]]
 - [[Tour Bike Checklist]]
@@ -134,13 +134,13 @@ Here are the steps you can follow to fix a derailleur that causes the chain to c
 
 Two point layers for QGIS and OsmAnd (loaded on both, 2026-10-02):
 
-- **VAG repair stations (20)**, from [VAG Freiburg](https://www.vag-freiburg.de/mehr-mobilitaet/mehr-fahrrad/reparaturstationen): [[Attachments/freiburg_vag_repair_stations.geojson|GeoJSON]] · [[Attachments/freiburg_vag_repair_stations.gpx|GPX]]
-- **Inner-tube vending machines (10)**, from OpenStreetMap via [boxlocator.com](https://boxlocator.com/en/box/575882380/Germany/79106/Baden-W%C3%BCrttemberg/Freiburg%20im%20Breisgau/Klarastra%C3%9Fe/63): [[Attachments/freiburg_tube_vending_machines.geojson|GeoJSON]] · [[Attachments/freiburg_tube_vending_machines.gpx|GPX]]
+- **VAG repair stations (20)**, from [VAG Freiburg](https://www.vag-freiburg.de/mehr-mobilitaet/mehr-fahrrad/reparaturstationen): [[Attachments/Cycling/Freiburg VAG Repair Stations.geojson|GeoJSON]] · [[Attachments/Cycling/Freiburg VAG Repair Stations.gpx|GPX]]
+- **Inner-tube vending machines (10)**, from OpenStreetMap via [boxlocator.com](https://boxlocator.com/en/box/575882380/Germany/79106/Baden-W%C3%BCrttemberg/Freiburg%20im%20Breisgau/Klarastra%C3%9Fe/63): [[Attachments/Cycling/Freiburg Tube Vending Machines.geojson|GeoJSON]] · [[Attachments/Cycling/Freiburg Tube Vending Machines.gpx|GPX]]
 
 GeoJSON for QGIS (drag in), GPX for OsmAnd (import as Favourites).
 
-Both layers in one file for QGIS: [[Attachments/freiburg_bike_service.gpkg|GeoPackage]].
+Both layers in one file for QGIS: [[Attachments/Cycling/Freiburg Bike Service.gpkg|GeoPackage]].
 
 ## The Possibilities Opened Up by Cycling
 
-![[possibilities-opened-up-by-cycling.jpg]]
+![[Possibilities Opened Up By Cycling.png]]

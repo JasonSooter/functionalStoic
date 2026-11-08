@@ -1,24 +1,25 @@
 ---
 publish: true
 title: "Weekly English Minutes: rationing English audio in Jellyfin"
-description: Our kids' Jellyfin accounts play films in German, but English is one click away. A small script gives each kid a weekly allowance of English-audio minutes and then switches the film to German mid-scene.
 created: 2026-10-31
-modified: 2026-10-31T14:34:13.000Z
-published: 2026-10-31
+modified: 2026-11-08T11:23:36.000Z
+published: 2026-11-08T11:23:36.000Z
+date: 2026-10-31
+description: Our kids' Jellyfin accounts play films in German, but English is one
+  click away. A small script gives each kid a weekly allowance of English-audio minutes
+  and then switches the film to German mid-scene.
 tags:
   - blog
   - german-life
   - concepts/parenting
   - jellyfin
   - self-hosting
-socialImage: Attachments/Weekly English Minutes Hero.jpg
-date: 2026-10-31
-image: Attachments/Weekly English Minutes Hero.jpg
+image: Attachments/Site Headers/Weekly English Minutes Hero.jpg
 ---
 
 # Weekly English Minutes: rationing English audio in Jellyfin
 
-![[Attachments/Weekly English Minutes Hero.jpg]]
+![[Attachments/Site Headers/Weekly English Minutes Hero.jpg]]
 
 Our kids are learning German, and films are one of the easiest hours of German they get all week. Their [Jellyfin](https://jellyfin.org) accounts play everything in German by default, with English subtitles. But English is always one click away in the player's audio menu, and one afternoon I found one of them a few minutes into _Ice Age 2_ in English.
 

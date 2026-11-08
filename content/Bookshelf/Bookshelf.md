@@ -2,23 +2,21 @@
 publish: true
 title: Bookshelf
 created: 2025-06-07T02:31:53.122Z
-modified: 2026-10-18T15:07:28.296Z
-published: 2026-10-18T15:07:28.296Z
-socialImage: Attachments/Bookshelf Hero.jpg
+modified: 2026-11-08T11:23:36.000Z
+published: 2026-11-08T11:23:36.000Z
 linter-yaml-title-alias: Bookshelf
 date created: 2025-06-06T20:31:53-06:00
 date modified: 2026-10-18T17:04:19+02:00
-image: Attachments/Bookshelf Hero.jpg
+image: Attachments/Site Headers/Bookshelf Hero.jpg
 ---
 
 # Bookshelf
 
-![[Attachments/Bookshelf Hero.jpg]]
+![[Attachments/Site Headers/Bookshelf Hero.jpg]]
 
 ## Summary
 
 Welcome to my [[Bookshelf]]—the central index of everything I’ve read, from books and articles to annual reading lists. Here you’ll find:
-
 - Key highlights and personal takeaways for each title
 - Links to deeper dives in [[Authors]], [[Yearly Reading Lists]]
 - My [[Annual Kid Book Questions]]
@@ -41,5 +39,6 @@ Use this note to quickly revisit insights, track your progress alongside mine, a
 
 > [!question] Title
 > Contents
+> 
 
 ## Content
