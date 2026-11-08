@@ -2,8 +2,8 @@
 publish: true
 title: Beringia
 created: 2024-05-18
-modified: 2026-11-07T06:58:46.256Z
-published: 2026-11-07T06:58:46.256Z
+modified: 2026-11-08T05:58:37.215Z
+published: 2026-11-08T05:58:37.215Z
 aliases:
   - Bering land bridge
 books:
@@ -22,6 +22,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
+image: Attachments/Places/Beringia.svg
 ---
 
 # Beringia
