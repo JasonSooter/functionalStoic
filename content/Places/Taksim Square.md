@@ -2,8 +2,13 @@
 publish: true
 title: Taksim Square
 created: 2025-05-01
-modified: 2026-11-07T07:01:59.583Z
-published: 2026-11-07T07:01:59.583Z
+modified: 2026-11-07T07:02:00.000Z
+published: 2026-11-07T07:02:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Taksim Square.svg
 aliases: []
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 41.0369
   - 28.9858
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Istanbul]]"
 image: Attachments/Places/Taksim Square.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Taksim Square.svg
 Square at the heart of modern Istanbul, Turkey. In _The Beekeeper of Aleppo_ Nuri walks it while he and Afra wait for weeks in a smuggler's flat.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | journey waypoint | The long wait in Istanbul: a smuggler's flat, the boy Mohammed, and walks around Taksim Square. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.0369&mlon=28.9858#map=16/41.0369/28.9858) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.0369,28.9858)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.0369\&mlon=28.9858#map=16/41.0369/28.9858) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.0369,28.9858)
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
+
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgr9vh0gvgdwv9f84kqxwx)
 
 > In the night, the wild dogs of Istanbul would call to one another across the city. And in the morning they rested under chairs and tables in front of the coffee shops on Taksim Square.

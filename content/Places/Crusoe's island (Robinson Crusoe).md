@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Crusoe's island
-created: 2026-10-23
-modified: 2026-11-07T07:00:23.956Z
-published: 2026-11-07T07:00:23.956Z
 aliases:
   - Island of Despair
+title: Crusoe's island
+created: 2026-10-23
+modified: 2026-11-07T07:00:24.000Z
+published: 2026-11-07T07:00:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Crusoe's island (Robinson Crusoe).svg
 books:
   - Robinson Crusoe
 categories:
@@ -13,17 +18,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 9.0,-61.0
-geo_note: "inferred: the text puts the island in the mouth of the Orinoco with Trinidad\
-  \ to the west and north-west; pinned at the Orinoco Delta"
+geo_note: "inferred: the text puts the island in the mouth of the Orinoco with Trinidad to the west and north-west; pinned at the Orinoco Delta"
 geo_source: Wikipedia (en), Orinoco Delta
 icon: book
 location:
   - 9
   - -61
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Venezuela]]"
 image: Attachments/Places/Crusoe's island (Robinson Crusoe).svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/Crusoe's island (Robinson Crusoe).svg
 The unnamed island where Crusoe spends 28 years, which the text places in the mouth of the Orinoco off Venezuela; pinned there as an inference. His castle, the footprint, the cannibal shore and Friday's rescue are all on it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Robinson Crusoe | Daniel Defoe | setting | Twenty-eight years of castaway life, from the footprint to Friday to rescue. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=9&mlon=-61#map=16/9/-61) · [Google Maps](https://www.google.com/maps/search/?api=1&query=9,-61)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=9\&mlon=-61#map=16/9/-61) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=9,-61)
 
 ## Robinson Crusoe — Daniel Defoe (1719)
+
 Source: [Original](https://openlibrary.org/works/OL45237W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5csfsf63yjrv9gbrvzgb)
 
 > This I understood to be no more than the sets of the tide, as going out or coming in; but I afterwards understood it was occasioned by the great draft and reflux of the mighty river Orinoco, in the mouth or gulf of which river, as I found afterwards, our island lay; and that this land, which I perceived to be W. and NW., was the great island Trinidad, on the north point of the mouth of the river.

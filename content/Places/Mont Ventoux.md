@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Mont Ventoux
-created: 2026-10-19T22:29:50.000Z
-modified: 2026-11-07T06:57:20.568Z
-published: 2026-11-07T06:57:20.568Z
 aliases:
   - Ventoux
   - Bédoin
   - Malaucène
+title: Mont Ventoux
+created: 2025-07-26
+modified: 2026-11-07T06:57:21.000Z
+published: 2026-11-07T06:57:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mont Ventoux.svg
 books:
   - Ventoux, Malaucene
   - "[[It's All About the Bike]]"
@@ -25,10 +30,6 @@ icon: book
 location:
   - 44.1744
   - 5.2789
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Mont Ventoux.svg
 ---
@@ -49,9 +50,10 @@ Mountain in the Vaucluse in [[Provence]], climbed by cyclists from Bédoin, Mala
 | [[Ventoux via Maulucene]] | Mostly Bikes x Me | subject | The day before a Tour de France stage finish on the summit, the author rides up the Malaucène side while traffic is restricted. |
 | [[Mont Ventoux Au Gravel.\|Mont Ventoux au Gravel.]] | Mostly Bikes x Me | subject | Gravel climb from Bedoin in July 2025: about 20 km of limestone chunks and sandy grooves, then paved road from Malaucene. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1744&mlon=5.2789#map=16/44.1744/5.2789) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1744,5.2789)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1744\&mlon=5.2789#map=16/44.1744/5.2789) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.1744,5.2789)
 
 ## Ventoux, Malaucene — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5b459h3pz6cdvmf96fcqca1)
 
 > Bedoin is the classic climb, and if you want to gawk at l'émetteur, then definitely, Bedoin. Malaucene is more scenic though.
@@ -62,6 +64,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5b459h3pz6cdvmf96f
 - **Real vs. fictional:** The post says only "Ventoux"; the mountain, its Provence setting and the summit pin come from the place names and Wikipedia.
 
 ## It's All About the Bike — Robert Penn (2010)
+
 Source: [[It's All About the Bike]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5bs7k66e8kjxaqtp3h0px2a)
 
 > they really did find his body in the road, with amphetamines and cognac in his blood, 1 mile from the top of the infamous Mont Ventoux.
@@ -71,6 +74,7 @@ Source: [[It's All About the Bike]] · [Original](https://openlibrary.org/works/
 - **Why it matters:** A brief illustration of cycling's bond with suffering; the mountain's reputation does the work.
 
 ## Ventoux Three Ways — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15879852523.html) · [Readwise highlight](https://read.readwise.io/read/01m5d203vnv4s54m3hg3c15pck)
 
 > The climb from Sault has never been so grueling.
@@ -80,6 +84,7 @@ Source: [Original](https://funkadelic.net/pages/15879852523.html) · [Readwise h
 - **Why it matters:** The mountain is the whole post; the text gives only this verdict.
 
 ## Bédoin, Ventoux, sides of dirt — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15816941180.html) · [Readwise highlight](https://read.readwise.io/read/01m5d205a4s945e2z12gr5czpj)
 
 > Quick spin up Ventoux with some dirt rambles thrown in for extra fun time.
@@ -89,6 +94,7 @@ Source: [Original](https://funkadelic.net/pages/15816941180.html) · [Readwise h
 - **Why it matters:** One more ride on the writer's home mountain that season; the text is a single line.
 
 ## Gorges de la Nesque to Sault & Ventoux — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15298039388.html) · [Readwise highlight](https://read.readwise.io/read/01m5dcmqkq8btry0d23tzecvvf)
 
 > The summit in summer is a reminder of how special and quiet it is in winter.
@@ -98,6 +104,7 @@ Source: [Original](https://funkadelic.net/pages/15298039388.html) · [Readwise h
 - **Why it matters:** The ride's high point, briefly told.
 
 ## Ventoux via Maulucene — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15185450938.html) · [Readwise highlight](https://read.readwise.io/read/01m5dr0yy1nh2c8ya4b6gakknv)
 
 > With a Tour de France stage finishing at the top of Mont Ventoux tomorrow, today was the perfect day to ride up one of the paved ascents as traffic is restricted to cyclists, services and residents most of the way.
@@ -107,6 +114,7 @@ Source: [Original](https://funkadelic.net/pages/15185450938.html) · [Readwise h
 - **Why it matters:** The mountain is the post's subject and destination.
 
 ## Mont Ventoux au Gravel. — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15176254615.html) · [Readwise highlight](https://read.readwise.io/read/01m5dr13exbqsng7g7410v6w3x)
 
 > The summit was a madhouse, not surprising as the road closes to motorists tomorrow, and the Tour de France will finish here on Tuesday.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: The Franklin Institute
-created: 2025-10-03
-modified: 2026-11-07T07:03:26.697Z
-published: 2026-11-07T07:03:26.697Z
 aliases:
   - Franklin Institute
   - TFI
+title: The Franklin Institute
+created: 2025-10-03
+modified: 2026-11-07T07:03:27.000Z
+published: 2026-11-07T07:03:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The Franklin Institute.svg
 books:
   - "[[I Didn't Bring My Son to a Museum to Look at Screens]]"
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 39.9582
   - -75.1732
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Philadelphia]]"
 image: Attachments/Places/The Franklin Institute.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/The Franklin Institute.svg
 The Franklin Institute is a science museum in downtown [[Philadelphia]], Pennsylvania. It appears in Seth Purcell's essay as the childhood favourite he revisits with his son and finds full of touchscreens.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[I Didn't Bring My Son to a Museum to Look at Screens]] | Seth Purcell | subject | A childhood favourite revisited and found full of touchscreens. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9582&mlon=-75.1732#map=16/39.9582/-75.1732) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9582,-75.1732)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9582\&mlon=-75.1732#map=16/39.9582/-75.1732) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.9582,-75.1732)
 
 ## I Didn't Bring My Son to a Museum to Look at Screens — Seth Purcell (2025)
+
 Source: [[I Didn't Bring My Son to a Museum to Look at Screens]] · [Original](https://sethpurcell.com/writing/screens-in-museums/) · [Readwise highlight](https://read.readwise.io/read/01m5d20g0063kzqjxm5x4whdxq)
 
 > She led our son gently but firmly away to the glorious four-story Foucault pendulum which hangs in a stairwell.

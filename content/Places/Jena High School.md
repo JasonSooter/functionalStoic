@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Jena High School
-created: 2024-05-18
-modified: 2026-11-07T06:55:29.009Z
-published: 2026-11-07T06:55:29.009Z
 aliases:
   - Jena, Louisiana
+title: Jena High School
+created: 2024-05-18
+modified: 2026-11-07T06:55:29.000Z
+published: 2026-11-07T06:55:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jena High School.svg
 books:
   - How to Be an Antiracist
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 31.691
   - -92.128
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Louisiana]]"
 image: Attachments/Places/Jena High School.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Jena High School.svg
 High school in Jena, Louisiana, at the centre of the 2006 'Jena Six' case. In How to Be an Antiracist (Ibram X. Kendi) it drives his chapter on failed activism.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | subject | The 'White tree' and the Jena Six case behind Kendi's failed campaign. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.691&mlon=-92.128#map=16/31.691/-92.128) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.691,-92.128)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.691\&mlon=-92.128#map=16/31.691/-92.128) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.691,-92.128)
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5g0ev3f5mhqanfjn6fcdsq0)
 
 > On September 1, 2006, the day after Black students had hung out under the “White tree” at Jena High School, White students hung nooses from its branches.

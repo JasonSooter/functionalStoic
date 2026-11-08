@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Tour Montparnasse
-created: 2026-02-24
-modified: 2026-11-07T06:53:38.167Z
-published: 2026-11-07T06:53:38.167Z
 aliases:
   - Montparnasse Tower
+title: Tour Montparnasse
+created: 2026-02-24
+modified: 2026-11-07T06:53:38.000Z
+published: 2026-11-07T06:53:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tour Montparnasse.svg
 books:
   - The Skyscraper That Ruined Paris
 categories:
@@ -16,10 +21,6 @@ icon: video
 location:
   - 48.8421
   - 2.322
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Paris]]"
 image: Attachments/Places/Tour Montparnasse.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Tour Montparnasse.svg
 Office skyscraper beside the Gare Montparnasse in Paris's 15th arrondissement; see [[Paris]]. It is the whole subject of a B1M video on Paris's first and much-disliked skyscraper.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Skyscraper That Ruined Paris | The B1M | subject | Paris's first skyscraper, loathed by locals and due for a makeover. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.8421&mlon=2.322#map=16/48.8421/2.322) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.8421,2.322)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.8421\&mlon=2.322#map=16/48.8421/2.322) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.8421,2.322)
 
 ## The Skyscraper That Ruined Paris — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=68JUxRH8AZo) · [Readwise highlight](https://read.readwise.io/read/01m5c3psxvy2mgx4g4agqje5rg)
 
 > Ok, this is the Tour Montparnasse.

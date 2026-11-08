@@ -2,8 +2,13 @@
 publish: true
 title: The Geneva conference room (Project Hail Mary)
 created: 2026-06-13
-modified: 2026-11-07T07:03:29.112Z
-published: 2026-11-07T07:03:29.112Z
+modified: 2026-11-07T07:03:29.000Z
+published: 2026-11-07T07:03:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The Geneva conference room (Project Hail Mary).svg
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 46.2017
   - 6.1469
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Geneva]]"
 image: Attachments/Places/The Geneva conference room (Project Hail Mary).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/The Geneva conference room (Project Hail Mary).svg
 Unnamed conference room in Geneva, Switzerland, in Project Hail Mary. Lokken pitches the centrifuge redesign there and is drafted by Stratt.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | Stratt and Grace wait in a wood-paneled conference room to meet ESA's Dr |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.2017&mlon=6.1469#map=16/46.2017/6.1469) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.2017,6.1469)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.2017\&mlon=6.1469#map=16/46.2017/6.1469) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=46.2017,6.1469)
 
 ## Project Hail Mary — Andy Weir (2021)
+
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvsm9agwh25dk1q2n463aa)
 
 > By the time we reached Geneva, I’d completely lost track of what day it was.

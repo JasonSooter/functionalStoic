@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Capri
-created: 2026-07-19
-modified: 2026-11-07T06:52:56.304Z
-published: 2026-11-07T06:52:56.304Z
 aliases:
   - Capri town
   - Piazza Umberto I
   - La Piazzetta
+title: Capri
+created: 2026-07-19
+modified: 2026-11-07T06:52:56.000Z
+published: 2026-11-07T06:52:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Capri.svg
 books:
   - Neither Here Nor There
   - "[[Dept. Of Speculation.md]]"
@@ -20,10 +25,6 @@ icon: book
 location:
   - 40.55
   - 14.25
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy]]"
 image: Attachments/Places/Capri.svg
 ---
@@ -39,7 +40,7 @@ Island and hilltop town in the Bay of Naples, [[Italy]], whose central square, t
 | [[Neither Here Nor There]] | Bill Bryson | setting | A hard climb to a lovely square, where after dark Bryson falls "permanently in love with Italy". |
 | [[Dept. Of Speculation.md\|Dept. of Speculation]] | Jenny Offill | setting | An early-April trip with no other tourists: "Would it fix my brain?" |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.55&mlon=14.25#map=10/40.55/14.25) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.55,14.25)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.55\&mlon=14.25#map=10/40.55/14.25) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.55,14.25)
 
 ## Neither Here Nor There — Bill Bryson (1991)
 
@@ -52,6 +53,7 @@ Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highligh
 - **Why it matters:** The square is where Bryson stands "for perhaps an hour and a half" and realises he has "fallen spectacularly, hopelessly, and permanently in love with Italy", the declared turning point of his Italian chapters. The next morning brings rain, and a slow ferry to [[Naples]].
 
 ## Dept. of Speculation — Jenny Offill (2014)
+
 Source: [[Dept. Of Speculation.md]] · [Original](https://www.penguinrandomhouse.com/books/228424/dept-of-speculation-by-jenny-offill/9780345806871) · [Readwise highlight](https://read.readwise.io/read/01m5bfwgfn7nqbees27gb4ghbm)
 
 > We did not understand where we were going when we took the boat over to Capri.

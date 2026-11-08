@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Athens International Airport
-created: 2025-05-01
-modified: 2026-11-07T06:56:07.516Z
-published: 2026-11-07T06:56:07.516Z
 aliases:
   - Eleftherios Venizelos Airport
+title: Athens International Airport
+created: 2025-05-01
+modified: 2026-11-07T06:56:08.000Z
+published: 2026-11-07T06:56:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Athens International Airport.svg
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 37.9364
   - 23.9472
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Athens]]"
 image: Attachments/Places/Athens International Airport.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Athens International Airport.svg
 Main airport of Athens, Greece. In _The Beekeeper of Aleppo_ Nuri and Afra pass through it on false passports to board a flight to England.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | turning point | With false passports, Nuri and Afra pass security and wait at gate 27 as police remove other travellers. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.9364&mlon=23.9472#map=16/37.9364/23.9472) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.9364,23.9472)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.9364\&mlon=23.9472#map=16/37.9364/23.9472) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.9364,23.9472)
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
+
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgrjf6451kfntw0530tqfr)
 
 > At the airport we did as Marcos said. We walked through crowds of people; all the while I kept my eye on Marcos’s grey suit.

@@ -2,8 +2,13 @@
 publish: true
 title: Estacade du pont Champlain
 created: 2024-10-01
-modified: 2026-11-07T06:52:36.491Z
-published: 2026-11-07T06:52:36.491Z
+modified: 2026-11-07T06:52:36.000Z
+published: 2026-11-07T06:52:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Estacade du pont Champlain.svg
 aliases: []
 books:
   - We bicycled the Formula 1 racetrack in Montreal
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 45.4656
   - -73.5154
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Montreal]]"
 image: Attachments/Places/Estacade du pont Champlain.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Estacade du pont Champlain.svg
 Low ice-control bridge beside the Champlain Bridge, Montreal, open to cyclists. Riders use it to return to the city.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | We bicycled the Formula 1 racetrack in Montreal | alliumstozinnias | turning point | The low bridge back to Montreal before the path's end. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.4656&mlon=-73.5154#map=16/45.4656/-73.5154) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.4656,-73.5154)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.4656\&mlon=-73.5154#map=16/45.4656/-73.5154) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=45.4656,-73.5154)
 
 ## We bicycled the Formula 1 racetrack in Montreal — alliumstozinnias (2024)
+
 Source: [Original](https://exploringbybike.com/2024/09/21/we-bicycled-the-formula-1-racetrack-in-montreal/) · [Readwise highlight](https://read.readwise.io/read/01m5f1w58kz12xb9v6c788sa19)
 
 > Instead we opted for the low Estacade bridge, next to the tall Champlain one is the last chance to get back to Montreal.

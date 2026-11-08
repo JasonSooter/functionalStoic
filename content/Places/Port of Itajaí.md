@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Port of Itajaí
-created: 2026-10-20T22:54:33.000Z
-modified: 2026-11-07T06:56:28.534Z
-published: 2026-11-07T06:56:28.534Z
 aliases:
   - Itajai port
   - Itajaí
+title: Port of Itajaí
+created: 2025-06-19
+modified: 2026-11-07T06:56:29.000Z
+published: 2026-11-07T06:56:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Port of Itajaí.svg
 books:
   - China floods Brazil with cheap EVs triggering backlash
 categories:
@@ -19,10 +24,6 @@ icon: newspaper
 location:
   - -26.9167
   - -48.6333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brazil]]"
 image: Attachments/Places/Port of Itajaí.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Port of Itajaí.svg
 Container and car port at Itajaí, Santa Catarina, [[Brazil]], where a BYD car carrier's arrival opens an article on Chinese EV imports and the Brazilian backlash.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | China floods Brazil with cheap EVs triggering backlash | fidelity.com | setting | A BYD car carrier docks at Itajai in late May 2025, the fourth BYD ship to reach Brazil that year with about 22,000 vehicles in total. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-26.9167&mlon=-48.6333#map=16/-26.9167/-48.6333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-26.9167,-48.6333)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-26.9167\&mlon=-48.6333#map=16/-26.9167/-48.6333) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-26.9167,-48.6333)
 
 ## China floods Brazil with cheap EVs triggering backlash — fidelity.com (2025)
+
 Source: [Original](https://www.fidelity.com/news/article/top-news/202506190602RTRSNEWSCOMBINED_KBN3IG0NU-OUSBS_1) · [Readwise highlight](https://read.readwise.io/read/01m5dqv6ypdvxy3djsrqe0zfe9)
 
 > The world's largest car-carrying ship - with the equivalent of 20 football fields of vehicles - completed its maiden journey late last month to dock in Brazil's Itajai port.

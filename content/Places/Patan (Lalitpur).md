@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Patan (Lalitpur)
-created: 2026-10-23T05:12:13.000Z
-modified: 2026-11-07T06:54:05.790Z
-published: 2026-11-07T06:54:05.790Z
 aliases:
   - Lalitpur
   - Patan
+title: Patan (Lalitpur)
+created: 2025-09-24
+modified: 2026-11-07T06:54:06.000Z
+published: 2026-11-07T06:54:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Patan (Lalitpur).svg
 books:
   - "[[On the Hippie Trail]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 27.6764
   - 85.3167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nepal]]"
 image: Attachments/Places/Patan (Lalitpur).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Patan (Lalitpur).svg
 Old royal city south of Kathmandu, Nepal, also called Lalitpur. In _On the Hippie Trail_ Rick and Gene celebrate Krishna's birthday there and Rick declares the Hippie Trail done.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | setting | Krishna's birthday in Patan: festival crowds, a three-hour wait for the king, and the end of the trail. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.6764&mlon=85.3167#map=16/27.6764/85.3167) · [Google Maps](https://www.google.com/maps/search/?api=1&query=27.6764,85.3167)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.6764\&mlon=85.3167#map=16/27.6764/85.3167) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=27.6764,85.3167)
 
 ## On the Hippie Trail — Rick Steves (2025)
+
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjf9gps7zsy5pmw0mn314c)
 
 > Today was Lord Krishna’s birthday and we headed a couple miles east for Patan to celebrate.

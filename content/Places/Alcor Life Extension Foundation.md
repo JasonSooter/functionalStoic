@@ -2,8 +2,13 @@
 publish: true
 title: Alcor Life Extension Foundation
 created: 2016-07-11
-modified: 2026-11-07T06:53:07.517Z
-published: 2026-11-07T06:53:07.517Z
+modified: 2026-11-07T06:53:08.000Z
+published: 2026-11-07T06:53:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Alcor Life Extension Foundation.svg
 aliases: []
 books:
   - Why Cryonics Makes Sense
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 33.6174
   - -111.9109
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Arizona]]"
 image: Attachments/Places/Alcor Life Extension Foundation.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Alcor Life Extension Foundation.svg
 Cryonics organization in Scottsdale, Arizona, that stores its patients there. A backdrop in Tim Urban's “Why Cryonics Makes Sense”: Home of Alcor's storage facility, chosen as the US place least at risk of natural disasters.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Cryonics Makes Sense | Tim Urban | backdrop | Home of Alcor's storage facility, chosen as the US place least at risk of natural disasters |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.6174&mlon=-111.9109#map=16/33.6174/-111.9109) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.6174,-111.9109)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.6174\&mlon=-111.9109#map=16/33.6174/-111.9109) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.6174,-111.9109)
 
 ## Why Cryonics Makes Sense — Tim Urban (2016)
+
 Source: [Original](https://waitbutwhy.com/2016/03/cryonics.html) · [Readwise highlight](https://read.readwise.io/read/01m5jjqhnpexgz3m8q0bktbm0b)
 
 > Neither major US cryonics company is in a location highly prone to natural disasters—Alcor actually located itself in Scottsdale, AZ because it is the place in the US

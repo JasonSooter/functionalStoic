@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Qumran caves
-created: 2026-10-22T19:56:29.000Z
-modified: 2026-11-07T06:58:16.659Z
-published: 2026-11-07T06:58:16.659Z
+created: 2024-12-21
+modified: 2026-11-07T06:58:17.000Z
+published: 2026-11-07T06:58:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Qumran caves.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 31.7408
   - 35.4586
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dead Sea]]"
 image: Attachments/Places/Qumran caves.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Qumran caves.svg
 Caves in the cliffs above the Dead Sea where the Dead Sea Scrolls were found. A turning point in Colum McCann's _Apeirogon_: Cliff caves near the Dead Sea where a goat-searching shepherd found the scrolls in the 1940s.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | turning point | Cliff caves near the Dead Sea where a goat-searching shepherd found the scrolls in the 1940s. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7408&mlon=35.4586#map=10/31.7408/35.4586) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7408,35.4586)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7408\&mlon=35.4586#map=10/31.7408/35.4586) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.7408,35.4586)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqd9sgar762evedywxrqh)
 
 > At the end of the Second World War a young Bedouin shepherd of the Ta’amirah tribe went searching for a lost goat in the sandstone cliffs near the Dead Sea.

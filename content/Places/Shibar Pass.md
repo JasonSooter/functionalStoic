@@ -2,8 +2,13 @@
 publish: true
 title: Shibar Pass
 created: 2025-03-08
-modified: 2026-11-07T06:55:04.034Z
-published: 2026-11-07T06:55:04.034Z
+modified: 2026-11-07T06:55:04.000Z
+published: 2026-11-07T06:55:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Shibar Pass.svg
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 34.9074
   - 68.2602
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Afghanistan]]"
 image: Attachments/Places/Shibar Pass.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Shibar Pass.svg
 Pass over the Hindu Kush between the Ghorband valley and Bamyan, Afghanistan. The cycling climax of the Afghan section of _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | turning point | Pushing up hairpins to the snow-line; a ripped tyre on the descent forces her onto a bus. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.9074&mlon=68.2602#map=16/34.9074/68.2602) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.9074,68.2602)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.9074\&mlon=68.2602#map=16/34.9074/68.2602) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.9074,68.2602)
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6m5jq1a7a7nn60hn4hejw)
 
 > Another day of incredible, unforgettable and indescribable beauty, plus our highest climb yet – 10,380 feet over the Shibar Pass; I felt like a fly going up a wall.

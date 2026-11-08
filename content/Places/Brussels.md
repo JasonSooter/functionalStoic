@@ -1,27 +1,27 @@
 ---
 publish: true
-title: Brussels
-created: 2026-08-26
-modified: 2026-11-07T07:02:57.935Z
-published: 2026-11-07T07:02:57.935Z
 aliases:
   - Bruxelles
   - Brussel
+title: Brussels
+created: 2026-08-26
+modified: 2026-11-07T07:02:58.000Z
+published: 2026-11-07T07:02:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Brussels.svg
 books:
   - Neither Here Nor There
 categories:
   - "[[Places]]"
 color: purple
-geo_note: Wikipedia's city coordinate sits on the Grand-Place, so this pin overlaps
-  the Grand-Place pin
+geo_note: Wikipedia's city coordinate sits on the Grand-Place, so this pin overlaps the Grand-Place pin
 icon: book
 location:
   - 50.8467
   - 4.3525
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Belgium]]"
 coordinates: 50.8467,4.3525
 image: Attachments/Places/Brussels.svg
@@ -32,11 +32,12 @@ image: Attachments/Places/Brussels.svg
 Capital of [[Belgium]] and seat of the EU institutions; in Neither Here Nor There Bryson finds it ugly yet likes it, and uses it to attack postwar developers.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | "A seriously ugly place" that Bryson still likes a lot: the friendliest big city in Europe, with wonderful restaurants. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.8467&mlon=4.3525#map=11/50.8467/4.3525) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.8467,4.3525)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.8467\&mlon=4.3525#map=11/50.8467/4.3525) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.8467,4.3525)
 
 ## Sub-places
 

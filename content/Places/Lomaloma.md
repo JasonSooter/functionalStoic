@@ -2,8 +2,13 @@
 publish: true
 title: Lomaloma
 created: 2024-10-04
-modified: 2026-11-07T07:04:27.798Z
-published: 2026-11-07T07:04:27.798Z
+modified: 2026-11-07T07:04:28.000Z
+published: 2026-11-07T07:04:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lomaloma.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - -17.2833
   - -178.9833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fiji]]"
 image: Attachments/Places/Lomaloma.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Lomaloma.svg
 Village on Vanua Balavu in Fiji's Lau Islands; in _Life on Air_ Attenborough's storybook Polynesian village and a fish-catching ceremony.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough's storybook Polynesian village and a fish-catching ceremony. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-17.2833&mlon=-178.9833#map=16/-17.2833/-178.9833) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-17.2833,-178.9833)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-17.2833\&mlon=-178.9833#map=16/-17.2833/-178.9833) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-17.2833,-178.9833)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3gvhqks1daw3m54d7zn6)
 
 > We stayed in the little village of Lomaloma.

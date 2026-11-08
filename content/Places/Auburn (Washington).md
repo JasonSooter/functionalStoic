@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Auburn (Washington)
-created: 2024-08-01
-modified: 2026-11-07T06:56:11.100Z
-published: 2026-11-07T06:56:11.100Z
 aliases:
   - Auburn School District
+title: Auburn (Washington)
+created: 2024-08-01
+modified: 2026-11-07T06:56:11.000Z
+published: 2026-11-07T06:56:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Auburn (Washington).svg
 books:
   - Can online classes change the game for some students? – Bill Gates
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 47.3047
   - -122.2107
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington (state)]]"
 image: Attachments/Places/Auburn (Washington).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Auburn (Washington).svg
 Auburn is a city in Washington state, about 30 miles south of Seattle. It turns up in Can online classes change the game for some students? – Bill Gates (Bill Gates): Auburn is the community the article's online-school story is built around; its families and needs shaped the curriculum.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Can online classes change the game for some students? – Bill Gates | Bill Gates | setting | Blaire Penry teaches in the Auburn School District, about 30 miles south of Seattle. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.3047&mlon=-122.2107#map=16/47.3047/-122.2107) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.3047,-122.2107)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.3047\&mlon=-122.2107#map=16/47.3047/-122.2107) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.3047,-122.2107)
 
 ## Can online classes change the game for some students? – Bill Gates — Bill Gates (2024)
+
 Source: [Original](https://www.gatesnotes.com/Blaire-Penry-believes-online-classes-change-the-game-for-some-students) · [Readwise highlight](https://read.readwise.io/read/01m5fbgzktth6he6cj1n3jnjwr)
 
 > Blaire teaches career and technical education, or CTE, and fine arts in the Auburn School District, which is located about 30 miles south of Seattle.

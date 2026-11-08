@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Whale Bay (Prince William Sound)
-created: 2023-07-30
-modified: 2026-11-07T07:00:35.854Z
-published: 2026-11-07T07:00:35.854Z
 aliases:
   - Whale Bay
+title: Whale Bay (Prince William Sound)
+created: 2023-07-30
+modified: 2026-11-07T07:00:36.000Z
+published: 2026-11-07T07:00:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Whale Bay (Prince William Sound).svg
 books:
   - "[[The Comfort Crisis]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 60.2336
   - -148.1717
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alaska]]"
 image: Attachments/Places/Whale Bay (Prince William Sound).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Whale Bay (Prince William Sound).svg
 Bay on the southwest side of Prince William Sound, Alaska. In The Comfort Crisis (Michael Easter) it is where Donnie Vincent killed his first bear and found his hunting philosophy.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | turning point | Donnie Vincent's first bear hunt, where his hunting philosophy began. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.2336&mlon=-148.1717#map=16/60.2336/-148.1717) · [Google Maps](https://www.google.com/maps/search/?api=1&query=60.2336,-148.1717)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.2336\&mlon=-148.1717#map=16/60.2336/-148.1717) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=60.2336,-148.1717)
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fyd57960ec5kxtq5rr5wtp)
 
 > I’d made my way over to this remote beach on Whale Bay when the first bear walked up.

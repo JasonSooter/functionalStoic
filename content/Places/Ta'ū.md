@@ -2,8 +2,13 @@
 publish: true
 title: Ta'ū
 created: 2016-06-27
-modified: 2026-11-07T07:01:36.167Z
-published: 2026-11-07T07:01:36.167Z
+modified: 2026-11-07T07:01:36.000Z
+published: 2026-11-07T07:01:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ta'ū.svg
 aliases: []
 books:
   - Raising My Baby…With Three Dads
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - -14.2333
   - -169.4667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[American Samoa]]"
 image: Attachments/Places/Ta'ū.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Ta'ū.svg
 Island in the Manu'a group of American Samoa. The three-dads piece cites Margaret Mead's study of communal childrearing there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Raising My Baby…With Three Dads | Lori Tipton | subject | Cited as Mead's example of communal childrearing: babies handed to relatives after birth and children choosing which household to live in |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-14.2333&mlon=-169.4667#map=10/-14.2333/-169.4667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-14.2333,-169.4667)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-14.2333\&mlon=-169.4667#map=10/-14.2333/-169.4667) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-14.2333,-169.4667)
 
 ## Raising My Baby…With Three Dads — Lori Tipton (2016)
+
 Source: [Original](https://primemind.com/raising-my-baby-with-three-dads-a5016136197d) · [Readwise highlight](https://read.readwise.io/read/01m5jx59rhf5h9t3mpjwv9taaw)
 
 > In 1928, the young Columbia University student Margaret Mead became one of the most famous anthropologists in the world when she published “Coming of Age in Samoa” about a dramatically different family structure on the Island of Ta’u in the Samoan Islands.

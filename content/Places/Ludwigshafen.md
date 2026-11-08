@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Ludwigshafen
-created: 2026-10-08
-modified: 2026-11-07T06:51:52.472Z
-published: 2026-11-07T06:51:52.472Z
 aliases:
   - Ludwigshafen am Rhein
   - BASF Ludwigshafen
+title: Ludwigshafen
+created: 2026-10-08
+modified: 2026-11-07T06:51:52.000Z
+published: 2026-11-07T06:51:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ludwigshafen.svg
 books:
   - "[[How to Take Smart Notes]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 49.4811
   - 8.4353
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rhineland-Palatinate]]"
 image: Attachments/Places/Ludwigshafen.svg
 ---
@@ -32,16 +33,19 @@ image: Attachments/Places/Ludwigshafen.svg
 Industrial city on the Rhine in [[Rhineland-Palatinate]], Germany, home of BASF's main site, which Sönke Ahrens cites as the model for his slip-box analogy.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Take Smart Notes]] | Sönke Ahrens | backdrop | The chemical 'Verbund' behind the slip-box analogy. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=49.4811&mlon=8.4353#map=11/49.4811/8.4353) · [Google Maps](https://www.google.com/maps/search/?api=1&query=49.4811,8.4353)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=49.4811\&mlon=8.4353#map=11/49.4811/8.4353) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=49.4811,8.4353)
 
 ## Sub-places
+
 _None yet._
 
 ## How to Take Smart Notes — Sönke Ahrens (2017)
+
 Source: [[How to Take Smart Notes]] · [Original](https://openlibrary.org/works/OL18635700W) · [Readwise highlight](https://read.readwise.io/read/01m5ce6keqj50gr21m2jt2fq3f)
 
 > The first and most developed “verbund” is located in Ludwigshafen, Germany. It belongs to BASF, the world’s biggest chemical company and one of the most consistently profitable, despite being located in a highly developed country with high wages and social security costs.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Batakundi
-created: 2025-03-08
-modified: 2026-11-07T06:57:51.746Z
-published: 2026-11-07T06:57:51.746Z
 aliases:
   - Butikundi
+title: Batakundi
+created: 2025-03-08
+modified: 2026-11-07T06:57:52.000Z
+published: 2026-11-07T06:57:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Batakundi.svg
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 34.9316
   - 73.7743
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kagan Valley]]"
 image: Attachments/Places/Batakundi.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Batakundi.svg
 Hamlet in the upper [[Kagan Valley]], Pakistan. A night with an Afghan camel caravan in _Full Tilt_ (as 'Butikundi').
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | turning point | Tea, a ride and a night among a fifty-camel Afghan caravan. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.9316&mlon=73.7743#map=16/34.9316/73.7743) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.9316,73.7743)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.9316\&mlon=73.7743#map=16/34.9316/73.7743) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.9316,73.7743)
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6n8vbk19cy6vdwdyjx20v)
 
 > We arrived here at 5 p.m. to find that some half-dozen wooden shacks make up the hamlet, plus a tea-house to cater for caravans.

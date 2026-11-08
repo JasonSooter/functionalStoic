@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Moose, Wyoming
-created: 2026-10-22T23:16:51.000Z
-modified: 2026-11-07T06:57:58.134Z
-published: 2026-11-07T06:57:58.134Z
+created: 2016-09-27
+modified: 2026-11-07T06:57:58.000Z
+published: 2026-11-07T06:57:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Moose, Wyoming.svg
 aliases: []
 books:
   - Patagonia’s Philosopher-King – The New Yorker
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 43.6558
   - -110.7183
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Wyoming]]"
 image: Attachments/Places/Moose, Wyoming.svg
 ---
@@ -30,16 +31,19 @@ image: Attachments/Places/Moose, Wyoming.svg
 Village at the entrance to Grand Teton National Park, Wyoming. The New Yorker's Chouinard profile opens at his house there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Patagonia’s Philosopher-King – The New Yorker | Nick Paumgarten | setting | The profile opens here: Chouinard sits alone in the dark listening to the Democratic convention, airing his despair about politics and… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.6558&mlon=-110.7183#map=10/43.6558/-110.7183) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.6558,-110.7183)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.6558\&mlon=-110.7183#map=10/43.6558/-110.7183) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.6558,-110.7183)
 
 ## Sub-places
+
 _None yet._
 
 ## Patagonia’s Philosopher-King – The New Yorker — Nick Paumgarten (2016)
+
 Source: [Original](https://www.newyorker.com/magazine/2016/09/19/patagonias-philosopher-king) · [Readwise highlight](https://read.readwise.io/read/01m5jy7tcg78dg8h04p1apb2ac)
 
 > The property is just north of the Jackson Hole airport, on the east side of the Snake River, up by the entrance to Grand Teton National Park.

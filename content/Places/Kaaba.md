@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Kaaba
-created: 2024-05-18
-modified: 2026-11-07T06:56:42.383Z
-published: 2026-11-07T06:56:42.383Z
 aliases:
   - Ka'aba
+title: Kaaba
+created: 2024-05-18
+modified: 2026-11-07T06:56:42.000Z
+published: 2026-11-07T06:56:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kaaba.svg
 books:
   - "Sapiens: A Brief History of Humankind"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 21.4225
   - 39.8262
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mecca]]"
 image: Attachments/Places/Kaaba.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Kaaba.svg
 The Kaaba is the cube-shaped shrine at the centre of the Great Mosque in Mecca, Saudi Arabia. _Sapiens_ uses its crowd of pilgrims from many lands as an image of religion unifying humankind.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | backdrop | Islam's holiest shrine, where pilgrims from Mali to India circle together: religion as a unifier. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.4225&mlon=39.8262#map=16/21.4225/39.8262) · [Google Maps](https://www.google.com/maps/search/?api=1&query=21.4225,39.8262)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.4225\&mlon=39.8262#map=16/21.4225/39.8262) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=21.4225,39.8262)
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75v2aa4yde8nht85yrnfa)
 
 > Meanwhile, around the holy Ka’aba in Mecca, human unification was proceeding by other means.

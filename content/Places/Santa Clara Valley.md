@@ -2,8 +2,13 @@
 publish: true
 title: Santa Clara Valley
 created: 2026-10-23
-modified: 2026-11-07T06:52:29.458Z
-published: 2026-11-07T06:52:29.458Z
+modified: 2026-11-07T06:52:29.000Z
+published: 2026-11-07T06:52:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Santa Clara Valley.svg
 books:
   - The Call of the Wild
 categories:
@@ -15,10 +20,6 @@ icon: book
 location:
   - 37.3669
   - -121.9839
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Santa Clara Valley.svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/Santa Clara Valley.svg
 Valley at the south end of San Francisco Bay, California, now Silicon Valley. Buck's first home, Judge Miller's place, lies there in _The Call of the Wild_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Call of the Wild | Jack London | setting | Buck's pampered life at Judge Miller's place, until Manuel sells him. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3669&mlon=-121.9839#map=16/37.3669/-121.9839) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.3669,-121.9839)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3669\&mlon=-121.9839#map=16/37.3669/-121.9839) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.3669,-121.9839)
 
 ## The Call of the Wild — Jack London (1903)
+
 Source: [Original](https://openlibrary.org/works/OL14942956W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5he73b6yqq46e7x0k3re)
 
 > Buck lived at a big house in the sun-kissed Santa Clara Valley. Judge Miller’s place, it was called. It stood back from the road, half hidden among the trees, through which glimpses could be caught of the wide cool veranda that ran around its four sides.

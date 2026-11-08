@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Paro Taktsang
-created: 2026-10-21T20:10:11.000Z
-modified: 2026-11-07T06:54:03.377Z
-published: 2026-11-07T06:54:03.377Z
 aliases:
   - Tiger's Nest
   - Taktsang
+title: Paro Taktsang
+created: 2023-07-30
+modified: 2026-11-07T06:54:03.000Z
+published: 2026-11-07T06:54:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Paro Taktsang.svg
 books:
   - "[[The Comfort Crisis]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 27.4919
   - 89.3635
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bhutan]]"
 image: Attachments/Places/Paro Taktsang.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Paro Taktsang.svg
 Cliffside Buddhist monastery above the Paro valley, Bhutan, known as the Tiger's Nest. In The Comfort Crisis (Michael Easter) a monk dies there in front of him.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | turning point | Monastery where Easter tries to save a monk who dies on the steps. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.4919&mlon=89.3635#map=16/27.4919/89.3635) · [Google Maps](https://www.google.com/maps/search/?api=1&query=27.4919,89.3635)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.4919\&mlon=89.3635#map=16/27.4919/89.3635) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=27.4919,89.3635)
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5g16v2x9308cyfks9rd71vn)
 
 > I’d spent the morning hiking five steep miles to Paro Taksang, The Tiger’s Nest, a sacred 15th-century Buddhist monastery built in the traditional Bhutanese

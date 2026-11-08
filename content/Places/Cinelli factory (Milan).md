@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Cinelli factory (Milan)
-created: 2026-03-08
-modified: 2026-11-07T06:56:18.829Z
-published: 2026-11-07T06:56:18.829Z
 aliases:
   - Columbus-Cinelli factory
+title: Cinelli factory (Milan)
+created: 2026-03-08
+modified: 2026-11-07T06:56:19.000Z
+published: 2026-11-07T06:56:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cinelli factory (Milan).svg
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -13,17 +18,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 45.4304,9.3816
-geo_note: approximate (the point printed for Cinelli; the book says only 'factory
-  on the outskirts of Milan')
+geo_note: approximate (the point printed for Cinelli; the book says only 'factory on the outskirts of Milan')
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 45.4304
   - 9.3816
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Milan]]"
 image: Attachments/Places/Cinelli factory (Milan).svg
 ---
@@ -38,7 +38,7 @@ Columbus/Cinelli bicycle factory on the outskirts of [[Milan]], Italy, where Rob
 |---|---|---|---|
 | [[It's All About the Bike\|It's All About the Bike: In Pursuit of Happiness on Two Wheels]] | Robert Penn | setting | Antonio Colombo's factory; Penn collects his fork. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.4304&mlon=9.3816#map=10/45.4304/9.3816) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.4304,9.3816)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.4304\&mlon=9.3816#map=10/45.4304/9.3816) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=45.4304,9.3816)
 
 ## It's All About the Bike: In Pursuit of Happiness on Two Wheels — Robert Penn (2010)
 

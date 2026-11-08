@@ -2,8 +2,13 @@
 publish: true
 title: 1939 New York World's Fair
 created: 2025-03-24
-modified: 2026-11-07T06:51:18.894Z
-published: 2026-11-07T06:51:18.894Z
+modified: 2026-11-07T06:51:19.000Z
+published: 2026-11-07T06:51:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/1939 New York World's Fair.svg
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.7442
   - -73.8444
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Queens]]"
 image: Attachments/Places/1939 New York World's Fair.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/1939 New York World's Fair.svg
 World's fair held in Flushing Meadows, Queens, in 1939–40. In Tom Hanks's 'The Past Is Important to Us' Bert relives one day there again and again.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Uncommon Type]] | Tom Hanks | setting | In 'The Past Is Important to Us' Bert takes the IRT out to the Fair, tours the Trylon and Perisphere and the Futurama, eats pie at… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7442&mlon=-73.8444#map=10/40.7442/-73.8444) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7442,-73.8444)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7442\&mlon=-73.8444#map=10/40.7442/-73.8444) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.7442,-73.8444)
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5w40k7cn8ape055p6mkc7)
 
 > The IRT discharged fairgoers at the Bowling Green Gate, where Bert paid seventy-five cents for admission and bought a guidebook for a dime.

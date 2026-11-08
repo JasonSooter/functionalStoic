@@ -2,8 +2,13 @@
 publish: true
 title: Hanoi
 created: 2025-01-12
-modified: 2026-11-07T07:02:19.202Z
-published: 2026-11-07T07:02:19.202Z
+modified: 2026-11-07T07:02:19.000Z
+published: 2026-11-07T07:02:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hanoi.svg
 aliases: []
 books:
   - Why Most People's Definition of Success Will Make Them Miserable
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 21
   - 105.85
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vietnam]]"
 image: Attachments/Places/Hanoi.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Hanoi.svg
 Capital city of [[Vietnam]]. It is where Cammi Pham writes from in her article on how social pressure shapes people's definition of success.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Most People's Definition of Success Will Make Them Miserable | Cammi Pham 🍋 | setting | The author writes from Hanoi, where strangers in elevators comment on her weight, singleness, lack of a degree and tanned skin. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21&mlon=105.85#map=16/21/105.85) · [Google Maps](https://www.google.com/maps/search/?api=1&query=21,105.85)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21\&mlon=105.85#map=16/21/105.85) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=21,105.85)
 
 ## Why Most People's Definition of Success Will Make Them Miserable — Cammi Pham 🍋 (2025)
+
 Source: [Original](https://www.dailyunlearner.com/p/why-most-peoples-definition-of-success) · [Readwise highlight](https://read.readwise.io/read/01m5edg225zstsdj8ws4as8vaf)
 
 > I am currently in Hanoi. Nothing keeps me more humble than being in Asia.

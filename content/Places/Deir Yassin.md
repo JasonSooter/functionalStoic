@@ -2,8 +2,13 @@
 publish: true
 title: Deir Yassin
 created: 2024-12-21
-modified: 2026-11-07T07:02:09.182Z
-published: 2026-11-07T07:02:09.182Z
+modified: 2026-11-07T07:02:09.000Z
+published: 2026-11-07T07:02:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Deir Yassin.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 31.7867
   - 35.1783
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jerusalem]]"
 image: Attachments/Places/Deir Yassin.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Deir Yassin.svg
 Former Palestinian village on the western edge of Jerusalem, site of the 1948 massacre. A subject in Colum McCann's _Apeirogon_: Village on Jerusalem's outskirts where the 1948 massacre occurred; the Kfar Shaul hospital now stands on the site.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | Village on Jerusalem's outskirts where the 1948 massacre occurred; the Kfar Shaul hospital now stands on the site. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7867&mlon=35.1783#map=10/31.7867/35.1783) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7867,35.1783)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7867\&mlon=35.1783#map=10/31.7867/35.1783) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.7867,35.1783)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqfr5tnr4m6ga6we7y4bd)
 
 > The Kfar Shaul Mental Health Center was built on the site of Deir Yassin.

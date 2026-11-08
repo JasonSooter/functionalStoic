@@ -1,11 +1,16 @@
 ---
 publish: true
-title: AmericasMart
-created: 2025-10-25
-modified: 2026-11-07T06:53:59.653Z
-published: 2026-11-07T06:53:59.653Z
 aliases:
   - Atlanta Convention Center
+title: AmericasMart
+created: 2025-10-25
+modified: 2026-11-07T06:54:00.000Z
+published: 2026-11-07T06:54:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/AmericasMart.svg
 books:
   - "[[Quiet]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 33.7605
   - -84.3878
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Atlanta]]"
 image: Attachments/Places/AmericasMart.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/AmericasMart.svg
 Trade-mart complex in downtown Atlanta that includes the Atlanta Convention Center. In Quiet (Susan Cain) it is where she attends Tony Robbins's Unleash the Power Within seminar.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | setting | Tony Robbins seminar where Cain watches the Extrovert Ideal in action. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.7605&mlon=-84.3878#map=16/33.7605/-84.3878) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.7605,-84.3878)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.7605\&mlon=-84.3878#map=16/33.7605/-84.3878) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.7605,-84.3878)
 
 ## Quiet — Susan Cain (2012)
+
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g0fecaaxxb6kq93xsdszhe)
 
 > Across the lobby of the Atlanta Convention Center, I hear people shrieking.

@@ -2,8 +2,13 @@
 publish: true
 title: Auschwitz
 created: 2024-12-25
-modified: 2026-11-07T06:56:16.681Z
-published: 2026-11-07T06:56:16.681Z
+modified: 2026-11-07T06:56:17.000Z
+published: 2026-11-07T06:56:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Auschwitz.svg
 aliases: []
 books:
   - "[[The Daily Stoic]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 50.0358
   - 19.1783
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Poland]]"
 image: Attachments/Places/Auschwitz.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Auschwitz.svg
 Nazi concentration camp in occupied [[Poland]], the extreme setting in The Daily Stoic where Viktor Frankl's inner freedom is tested.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Daily Stoic]] | Ryan Holiday | setting | Frankl was held for three years in camps including Auschwitz, losing his family and his work. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.0358&mlon=19.1783#map=16/50.0358/19.1783) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.0358,19.1783)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.0358\&mlon=19.1783#map=16/50.0358/19.1783) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.0358,19.1783)
 
 ## The Daily Stoic — Ryan Holiday (2016)
+
 Source: [[The Daily Stoic]] · [Original](https://openlibrary.org/works/OL20046443W) · [Readwise highlight](https://read.readwise.io/read/01m5edhh3kyd80d8xmt6ab0wcj)
 
 > The psychologist Viktor Frankl spent three years imprisoned in various concentration camps, including Auschwitz.

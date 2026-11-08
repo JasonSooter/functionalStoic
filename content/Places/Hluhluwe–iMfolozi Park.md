@@ -2,8 +2,13 @@
 publish: true
 title: Hluhluwe–iMfolozi Park
 created: 2024-11-19
-modified: 2026-11-07T06:51:15.801Z
-published: 2026-11-07T06:51:15.801Z
+modified: 2026-11-07T06:51:16.000Z
+published: 2026-11-07T06:51:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hluhluwe–iMfolozi Park.svg
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - -28.2197
   - 31.9519
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South Africa]]"
 image: Attachments/Places/Hluhluwe–iMfolozi Park.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Hluhluwe–iMfolozi Park.svg
 Game reserve in KwaZulu-Natal, South Africa. Not the End of the World cites it as the last refuge of southern white rhinos around 1900.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | turning point | Last refuge of about 20 southern white rhinos in 1900; protection brought 21,000+. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-28.2197&mlon=31.9519#map=16/-28.2197/31.9519) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-28.2197,31.9519)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-28.2197\&mlon=31.9519#map=16/-28.2197/31.9519) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-28.2197,31.9519)
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5f0qqspvdqz75bx2nzxpcam)
 
 > By 1900, there were only 20 left. All were in the Hluhluwe–iMfolozi Park in South Africa – now a nature reserve.

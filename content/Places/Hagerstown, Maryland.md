@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Hagerstown, Maryland
-created: 2024-05-18
-modified: 2026-11-07T07:01:43.851Z
-published: 2026-11-07T07:01:43.851Z
 aliases:
   - Hagerstown, Maryland
+title: Hagerstown, Maryland
+created: 2024-05-18
+modified: 2026-11-07T07:01:44.000Z
+published: 2026-11-07T07:01:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hagerstown, Maryland.svg
 books:
   - Stranger in a Strange Land
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 39.6233
   - -77.7367
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Maryland]]"
 image: Attachments/Places/Hagerstown, Maryland.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Hagerstown, Maryland.svg
 City in western Maryland. It turns up in Stranger in a Strange Land (Robert A. Heinlein): out-of-town restaurant where Ben and Jill dine safely and see the fake Man from Mars broadcast.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | setting | Out-of-town restaurant where Ben and Jill dine safely and see the fake Man from Mars broadcast. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.6233&mlon=-77.7367#map=10/39.6233/-77.7367) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.6233,-77.7367)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.6233\&mlon=-77.7367#map=10/39.6233/-77.7367) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.6233,-77.7367)
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
+
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > THE RESTAURANT IN HAGERSTOWN had "atmosphere" as well as good food,

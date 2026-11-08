@@ -1,28 +1,28 @@
 ---
 publish: true
-title: River Barrow
-created: 2026-10-20T10:42:44.000Z
-modified: 2026-11-07T07:00:32.958Z
-published: 2026-11-07T07:00:32.958Z
 aliases:
   - Barrow
+title: River Barrow
+created: 2026-09-23
+modified: 2026-11-07T07:00:33.000Z
+published: 2026-11-07T07:00:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/River Barrow.svg
 books:
   - "[[Small Things Like These]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 52.2358,-6.96
-geo_note: approximate (GeoNames representative point for the whole river, not at New
-  Ross)
+geo_note: approximate (GeoNames representative point for the whole river, not at New Ross)
 geo_source: GeoNames 2966310
 icon: book
 location:
   - 52.2358
   - -6.96
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ireland]]"
 image: Attachments/Places/River Barrow.svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/River Barrow.svg
 River in south-east Ireland that runs past the quays of [[New Ross]], the dark, rain-swollen backdrop of Claire Keegan's Small Things Like These.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Small Things Like These]] | Claire Keegan | setting | The river 'dark as stout' that runs through the town and the book. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.2358&mlon=-6.96#map=10/52.2358/-6.96) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.2358,-6.96)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.2358\&mlon=-6.96#map=10/52.2358/-6.96) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.2358,-6.96)
 
 ## Small Things Like These — Claire Keegan (2021)
+
 Source: [[Small Things Like These]] · [Original](https://openlibrary.org/works/OL23020966W) · [Readwise highlight](https://read.readwise.io/read/01m5ce6xzbkxjv74tt87dfybs2)
 
 > In the town of New Ross, chimneys threw out smoke which fell away and drifted off in hairy, drawn-out strings before dispersing along the quays, and soon the River Barrow, dark as stout, swelled up with rain.

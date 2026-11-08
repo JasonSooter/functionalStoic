@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Point Nemo
-created: 2026-10-21T13:55:09.000Z
-modified: 2026-11-07T06:56:03.360Z
-published: 2026-11-07T06:56:03.360Z
 aliases:
   - Oceanic pole of inaccessibility
+title: Point Nemo
+created: 2024-09-07
+modified: 2026-11-07T06:56:03.000Z
+published: 2026-11-07T06:56:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Point Nemo.svg
 books:
   - Point Nemo
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - -48.8767
   - -123.3933
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Point Nemo.svg
 ---
 
@@ -30,13 +31,15 @@ image: Attachments/Places/Point Nemo.svg
 Point Nemo is the oceanic pole of inaccessibility in the South Pacific, the point farthest from any land. It turns up in Point Nemo (Sketchplanations): The entire piece is about this place.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Point Nemo | Sketchplanations | subject | The sketch shows Point Nemo as the spot on Earth farthest from land, with the three nearest landmasses named. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-48.8767&mlon=-123.3933#map=10/-48.8767/-123.3933) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-48.8767,-123.3933)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-48.8767\&mlon=-123.3933#map=10/-48.8767/-123.3933) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-48.8767,-123.3933)
 
 ## Point Nemo — Sketchplanations (2024)
+
 Source: [Original](https://sketchplanations.com/point-nemo) · [Readwise highlight](https://read.readwise.io/read/01m5fbgdk7bkmw397exxycm1v3)
 
 > Point Nemo - the furthest point from land shown on the earth with the nearest three landmasses, Ducie Island, Moto Nui and Maher Island. This would be a long swim.

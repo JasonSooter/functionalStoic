@@ -2,8 +2,13 @@
 publish: true
 title: Dentelles de Montmirail
 created: 2025-04-16
-modified: 2026-11-07T07:02:41.112Z
-published: 2026-11-07T07:02:41.112Z
+modified: 2026-11-07T07:02:41.000Z
+published: 2026-11-07T07:02:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Dentelles de Montmirail.svg
 aliases: []
 books:
   - Errands & Rally King
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 44.1794
   - 5.0606
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Dentelles de Montmirail.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Dentelles de Montmirail.svg
 Mountain range in [[Provence]], France, praised in a Mostly Bikes ride log as the gravel detour from a typical Suzette loop.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Errands & Rally King]] | Mostly Bikes x Me | subject | The rider detours onto dirt from a typical Suzette loop to ride the gravel of Les Dentelles. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1794&mlon=5.0606#map=16/44.1794/5.0606) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1794,5.0606)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1794\&mlon=5.0606#map=16/44.1794/5.0606) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.1794,5.0606)
 
 ## Errands & Rally King — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5e2x95ycbf75k8bn0bpcsb6)
 
 > Les Dentelles are a little slice of gravel heaven. Steep, sometimes smooth, sometimes chunky, usually flowy, often fast.

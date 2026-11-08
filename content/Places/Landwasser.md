@@ -1,27 +1,27 @@
 ---
 publish: true
-title: Landwasser
-created: 2026-09-18
-modified: 2026-11-07T07:02:10.878Z
-published: 2026-11-07T07:02:10.878Z
 aliases:
   - Freiburg-Landwasser
+title: Landwasser
+created: 2026-09-18
+modified: 2026-11-07T07:02:11.000Z
+published: 2026-11-07T07:02:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Landwasser.svg
 books:
   - "Major Project Track Refurbishment: How the Planning Works"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 48.0247,7.8106
-geo_note: representative point in the district (the Roter Otto high-rise, from German
-  Wikipedia's Landwasser article)
+geo_note: representative point in the district (the Roter Otto high-rise, from German Wikipedia's Landwasser article)
 icon: newspaper
 location:
   - 48.0247
   - 7.8106
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg]]"
 image: Attachments/Places/Landwasser.svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Landwasser.svg
 District in north-west [[Freiburg|Freiburg]], used by the city's tram operator VAG as the worked example of how a track refurbishment is planned.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Major Project Track Refurbishment - How the Planning Works\|Major Project Track Refurbishment: How the Planning Works]] | VAG Freiburg | subject | A tram line last renewed in 1985, used to explain how a track refurbishment is planned. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.0247&mlon=7.8106#map=16/48.0247/7.8106) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0247,7.8106)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.0247\&mlon=7.8106#map=16/48.0247/7.8106) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.0247,7.8106)
 
 ## Major Project Track Refurbishment: How the Planning Works — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/grossprojekt-gleissanierung-so-laeuft-die-planung/) · [Readwise highlight](https://read.readwise.io/read/01m5b454rw9fjbymearn4paxjh)
 
 > The stretch in Landwasser was for the most part last renewed in 1985.

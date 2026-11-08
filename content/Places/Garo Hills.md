@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Garo Hills
-created: 2026-10-23
-modified: 2026-11-07T06:56:43.091Z
-published: 2026-11-07T06:56:43.091Z
 aliases:
   - Garo hills
+title: Garo Hills
+created: 2026-10-23
+modified: 2026-11-07T06:56:43.000Z
+published: 2026-11-07T06:56:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Garo Hills.svg
 books:
   - The Jungle Book
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 25.5
   - 90.3333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Garo Hills.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Garo Hills.svg
 Hill country in western Meghalaya, north-east India. In 'Toomai of the Elephants' in _The Jungle Book_ it is the elephant-catching ground where Toomai sees the elephants dance.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Jungle Book | Rudyard Kipling | setting | Little Toomai sees the wild elephants dance in the Garo forest. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=25.5&mlon=90.3333#map=16/25.5/90.3333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=25.5,90.3333)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=25.5\&mlon=90.3333#map=16/25.5/90.3333) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=25.5,90.3333)
 
 ## The Jungle Book — Rudyard Kipling (1894)
+
 Source: [Original](https://openlibrary.org/works/OL19870W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2xsmr0gzb4ewke5m349f)
 
 > After that he was taken off timber-hauling, and employed, with a few score other elephants who were trained to the business, in helping to catch wild elephants among the Garo hills.

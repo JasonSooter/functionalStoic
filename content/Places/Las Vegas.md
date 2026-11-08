@@ -2,8 +2,13 @@
 publish: true
 title: Las Vegas
 created: 2023-07-30
-modified: 2026-11-07T07:02:35.309Z
-published: 2026-11-07T07:02:35.309Z
+modified: 2026-11-07T07:02:35.000Z
+published: 2026-11-07T07:02:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Las Vegas.svg
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 36.1692
   - -115.1406
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nevada]]"
 image: Attachments/Places/Las Vegas.svg
 ---
@@ -38,7 +39,7 @@ Las Vegas is a desert city in southern Nevada. It turns up in Walkable City (Jef
 | [[The Comfort Crisis]] | Michael Easter | setting | Easter trains for his Arctic trek with a loaded pack in the summer heat of the desert around his home. |
 | Stranger in a Strange Land | Robert A. Heinlein | setting | Mike works the casinos and Jill becomes a show girl in the 'Babylon of the West'. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.1692&mlon=-115.1406#map=11/36.1692/-115.1406) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.1692,-115.1406)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.1692\&mlon=-115.1406#map=11/36.1692/-115.1406) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=36.1692,-115.1406)
 
 ## Sub-places
 
@@ -50,6 +51,7 @@ Las Vegas is a desert city in southern Nevada. It turns up in Walkable City (Jef
 - [[The Venetian Las Vegas]]
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbnmk7nrjwe7hq99qfge6d)
 
 > I remember the first time I visited Las Vegas, which, aside from the Strip and the old main street (Fremont Street) is a place where nobody walks.
@@ -59,6 +61,7 @@ Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695
 - **Why it matters:** Anecdotal illustration of big-block unwalkability.
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fyd80j759x2z44jsy497g9)
 
 > Finding discomfort in Las Vegas was easy. All I had to do was walk into the desert.
@@ -68,6 +71,7 @@ Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/
 - **Why it matters:** The harsh desert on his doorstep lets him practise discomfort before the real test; the contrast with the city's comforts is the book's theme in miniature.
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
+
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > Shortly they were in Las Vegas, stopping in an unfashionable hotel near but not on the Strip.

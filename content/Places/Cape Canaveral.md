@@ -2,8 +2,13 @@
 publish: true
 title: Cape Canaveral
 created: 2024-11-11
-modified: 2026-11-07T06:52:37.163Z
-published: 2026-11-07T06:52:37.163Z
+modified: 2026-11-07T06:52:37.000Z
+published: 2026-11-07T06:52:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cape Canaveral.svg
 aliases: []
 books:
   - "[[The Martian]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 28.46
   - -80.53
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 image: Attachments/Places/Cape Canaveral.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Cape Canaveral.svg
 Cape on Florida's Atlantic coast, home of the US launch sites. In _The Martian_ the Iris supply probe fails here on launch.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Martian]] | Andy Weir | setting | Thousands watch the Iris probe launch; it shakes apart and is lost over the Atlantic. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.46&mlon=-80.53#map=10/28.46/-80.53) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.46,-80.53)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.46\&mlon=-80.53#map=10/28.46/-80.53) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=28.46,-80.53)
 
 ## The Martian — Andy Weir (2011)
+
 Source: [[The Martian]] · [Original](https://openlibrary.org/works/OL17091839W) · [Readwise highlight](https://read.readwise.io/read/01m5j7v9870qb0emrvxrxpy2ww)
 
 > Thousands had gathered at Cape Canaveral, the largest crowd ever to watch an unmanned launch. They listened to the timer controller’s voice as it echoed across the grandstands.

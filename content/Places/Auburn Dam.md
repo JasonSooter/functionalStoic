@@ -2,8 +2,13 @@
 publish: true
 title: Auburn Dam
 created: 2025-09-25
-modified: 2026-11-07T06:56:12.836Z
-published: 2026-11-07T06:56:12.836Z
+modified: 2026-11-07T06:56:13.000Z
+published: 2026-11-07T06:56:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Auburn Dam.svg
 aliases: []
 books:
   - California’s Tallest Bridge Has Nothing Underneath
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 38.8819
   - -121.0619
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Auburn Dam.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Auburn Dam.svg
 Abandoned dam site on the North Fork American River near Auburn, [[California]], the never-finished project that explains why California's tallest bridge stands so high.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[California’s Tallest Bridge Has Nothing Underneath]] | Wesley Crump | turning point | The never-finished dam that explains the bridge. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8819&mlon=-121.0619#map=16/38.8819/-121.0619) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8819,-121.0619)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8819\&mlon=-121.0619#map=16/38.8819/-121.0619) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.8819,-121.0619)
 
 ## California’s Tallest Bridge Has Nothing Underneath — Wesley Crump (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/8/19/californias-tallest-bridge-has-nothing-underneath) · [Readwise highlight](https://read.readwise.io/read/01m5dckp1z2g5rhn5gr6s950cq)
 
 > One of the first steps in the process was rerouting the American River.

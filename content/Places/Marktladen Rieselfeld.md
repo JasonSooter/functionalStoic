@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Marktladen Rieselfeld
-created: 2026-10-31
-modified: 2026-11-07T06:54:29.468Z
-published: 2026-11-07T06:54:29.468Z
 aliases:
   - Bio Marktladen Rieselfeld
+title: Marktladen Rieselfeld
+created: 2026-10-31
+modified: 2026-11-07T06:54:29.000Z
+published: 2026-11-07T06:54:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Marktladen Rieselfeld.svg
 books:
   - Mit Motor im Stadtteil Rieselfeld – Ab an den See!
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 47.9998
   - 7.7904
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg]]"
 image: Attachments/Places/Marktladen Rieselfeld.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Marktladen Rieselfeld.svg
 Organic grocery on Carl-von-Ossietzky-Straße in the Rieselfeld district of [[Freiburg]]. A LastenVelo Freiburg post announces a new cargo-bike station there with a charging point for a newly motorised bike.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Mit Motor im Stadtteil Rieselfeld – Ab an den See! | Robert | setting | LastenVelo 01 gets a mid-drive motor and a sheltered, charging station at the Marktladen in Rieselfeld. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.9998&mlon=7.7904#map=16/47.9998/7.7904) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.9998,7.7904)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.9998\&mlon=7.7904#map=16/47.9998/7.7904) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.9998,7.7904)
 
 ## Mit Motor im Stadtteil Rieselfeld – Ab an den See! — Robert
+
 Source: [Original](https://www.lastenvelofreiburg.de/lastenvelo01-im-rieselfeld/) · [Readwise highlight](https://read.readwise.io/read/01m68tk2pj1t93j5zaf3959aaq)
 
 > In Kooperation mit dem Marktladen Rieselfeld wurde dort eine Station für das Rad geschaffen

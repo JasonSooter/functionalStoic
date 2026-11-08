@@ -2,8 +2,13 @@
 publish: true
 title: Mackinaw City
 created: 2015-12-12
-modified: 2026-11-07T06:52:33.339Z
-published: 2026-11-07T06:52:33.339Z
+modified: 2026-11-07T06:52:33.000Z
+published: 2026-11-07T06:52:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mackinaw City.svg
 aliases: []
 books:
   - Taking Star Line Ferry to Mackinac Island and Loving the Library
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 45.7839
   - -84.7278
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Michigan]]"
 image: Attachments/Places/Mackinaw City.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Mackinaw City.svg
 Village at the tip of Michigan's Lower Peninsula and a Star Line ferry terminal for Mackinac Island, where the Currently Wandering family boards.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Taking Star Line Ferry to Mackinac Island and Loving the Library | Jess (Currently Wandering) | journey waypoint | The family parks their trailer and truck in the ferry's back lot, bikes to the dock, tags their bikes and boards. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.7839&mlon=-84.7278#map=16/45.7839/-84.7278) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.7839,-84.7278)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.7839\&mlon=-84.7278#map=16/45.7839/-84.7278) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=45.7839,-84.7278)
 
 ## Taking Star Line Ferry to Mackinac Island and Loving the Library — Jess (Currently Wandering) (2015)
+
 Source: [Original](http://currentlywandering.com/2015/12/09/taking-star-line-ferry-to-mackinac-island-and-loving-the-library/) · [Readwise highlight](https://read.readwise.io/read/01m5hx1rz5en1ydxvbzx715z5h)
 
 > The Star Line Ferry runs from either Mackinaw City or St. Ignace out to Mackinac Island many times a day.

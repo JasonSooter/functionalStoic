@@ -2,8 +2,13 @@
 publish: true
 title: Sarehole Mill
 created: 2024-06-03
-modified: 2026-11-07T06:53:12.489Z
-published: 2026-11-07T06:53:12.489Z
+modified: 2026-11-07T06:53:12.000Z
+published: 2026-11-07T06:53:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sarehole Mill.svg
 aliases: []
 books:
   - "[[The Hobbit]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 52.4341
   - -1.8558
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Birmingham]]"
 image: Attachments/Places/Sarehole Mill.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Sarehole Mill.svg
 Sarehole Mill is an 18th-century watermill on the River Cole in Hall Green, Birmingham, near which Tolkien lived as a small boy. It is pinned for _The Hobbit_ as Tolkien's stated model for the Mill at Hobbiton.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | journey waypoint | Tolkien's childhood mill, model for the great Mill Bilbo runs past on his way to join the dwarves. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.4341&mlon=-1.8558#map=16/52.4341/-1.8558) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.4341,-1.8558)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.4341\&mlon=-1.8558#map=16/52.4341/-1.8558) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.4341,-1.8558)
 
 ## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
+
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m772vfrtwptr56p6rcpc6a)
 
 > running as fast as his furry feet could carry him down the lane, past the great Mill, across The Water, and then on for a mile or more.

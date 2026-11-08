@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Kahala Hotel
-created: 2025-03-24
-modified: 2026-11-07T06:57:00.995Z
-published: 2026-11-07T06:57:00.995Z
 aliases:
   - Kahala Hilton
   - The Kahala Hotel & Resort
+title: Kahala Hotel
+created: 2025-03-24
+modified: 2026-11-07T06:57:01.000Z
+published: 2026-11-07T06:57:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kahala Hotel.svg
 books:
   - "[[Uncommon Type]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 21.2719
   - -157.7738
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Honolulu]]"
 image: Attachments/Places/Kahala Hotel.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Kahala Hotel.svg
 Beach resort east of Diamond Head, Honolulu, formerly the Kahala Hilton. In Tom Hanks's 'Alan Bean Plus Four' its day boat picks up the crew after splashdown.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Uncommon Type]] | Tom Hanks | turning point | In 'Alan Bean Plus Four' the homemade capsule splashes down off Oahu, takes on water and sinks. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.2719&mlon=-157.7738#map=16/21.2719/-157.7738) · [Google Maps](https://www.google.com/maps/search/?api=1&query=21.2719,-157.7738)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.2719\&mlon=-157.7738#map=16/21.2719/-157.7738) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=21.2719,-157.7738)
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5vaxrzbb47rjnpy0n7xwj)
 
 > The day boat from the Kahala Hilton, filled with curious snorkelers, pulled us out of the water, the English speakers on board telling us that we smelled horrid, the foreigners giving us a wide berth.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Abingdon-on-Thames
-created: 2025-04-19
-modified: 2026-11-07T06:52:11.053Z
-published: 2026-11-07T06:52:11.053Z
 aliases:
   - Abingdon
+title: Abingdon-on-Thames
+created: 2025-04-19
+modified: 2026-11-07T06:52:11.000Z
+published: 2026-11-07T06:52:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Abingdon-on-Thames.svg
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.6717
   - -1.2783
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oxfordshire]]"
 image: Attachments/Places/Abingdon-on-Thames.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Abingdon-on-Thames.svg
 Old market town on the Thames below Oxford. Three Men in a Boat finds it 'quiet, eminently respectable, clean, and desperately dull'.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | 'Desperately dull': ale brewed in the old abbey and the church monuments. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.6717&mlon=-1.2783#map=16/51.6717/-1.2783) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.6717,-1.2783)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.6717\&mlon=-1.2783#map=16/51.6717/-1.2783) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.6717,-1.2783)
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkz9962m80y6d31ep378m8)
 
 > At Abingdon, the river passes by the streets. Abingdon is a typical country town of the smaller order – quiet, eminently respectable, clean, and desperately dull.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Lubang Island
-created: 2026-06-17
-modified: 2026-11-07T06:51:50.204Z
-published: 2026-11-07T06:51:50.204Z
 aliases:
   - Lubang
+title: Lubang Island
+created: 2026-06-17
+modified: 2026-11-07T06:51:50.000Z
+published: 2026-11-07T06:51:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lubang Island.svg
 books:
   - "[[The Subtle Art of Not Giving a Fck]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 13.7675
   - 120.1861
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Philippines]]"
 image: Attachments/Places/Lubang Island.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Lubang Island.svg
 Island in the Philippines, off Mindoro. In Mark Manson's _The Subtle Art of Not Giving a F\*ck_ it is where Hiroo Onoda kept fighting the Second World War for nearly thirty years.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Subtle Art of Not Giving a Fck\|The Subtle Art of Not Giving a F*ck]] | Mark Manson | setting | Onoda hides in Lubang's jungle for 29 years, the chapter's example of choosing what to suffer for. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=13.7675&mlon=120.1861#map=16/13.7675/120.1861) · [Google Maps](https://www.google.com/maps/search/?api=1&query=13.7675,120.1861)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=13.7675\&mlon=120.1861#map=16/13.7675/120.1861) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=13.7675,120.1861)
 
-## The Subtle Art of Not Giving a F*ck — Mark Manson (2016)
+## The Subtle Art of Not Giving a F\*ck — Mark Manson (2016)
+
 Source: [[The Subtle Art of Not Giving a Fck]] · [Original](https://openlibrary.org/works/OL17590212W) · [Readwise highlight](https://read.readwise.io/read/01m5kvb07nt1qpae4bcwdynzty)
 
 > On December 26, 1944, Second Lieutenant Hiroo Onoda of the Japanese Imperial Army was deployed to the small island of Lubang in the Philippines.

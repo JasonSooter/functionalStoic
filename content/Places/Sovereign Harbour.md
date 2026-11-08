@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Sovereign Harbour
-created: 2026-11-06
-modified: 2026-11-07T06:57:09.487Z
-published: 2026-11-07T06:57:09.487Z
 aliases:
   - Sovereign Harbour, Eastbourne
+title: Sovereign Harbour
+created: 2026-11-06
+modified: 2026-11-07T06:57:09.000Z
+published: 2026-11-07T06:57:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sovereign Harbour.svg
 books:
-  - '#099 Seriously engaging with the soup'
+  - "#099 Seriously engaging with the soup"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 50.7903
   - 0.3297
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Eastbourne]]"
 image: Attachments/Places/Sovereign Harbour.svg
 ---
@@ -30,16 +31,18 @@ image: Attachments/Places/Sovereign Harbour.svg
 Harbour and housing development on the east side of [[Eastbourne]], East Sussex, England. It appears in the reading as the base for a not-quite-a-week stay described in Dave Walker's Diagram Club diary.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #099 Seriously engaging with the soup | Diagram Club | setting | A four-storey holiday house by the water, harbour cafés, a lifting bridge and Brompton rides along the promenade. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.7903&mlon=0.3297#map=16/50.7903/0.3297) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.7903,0.3297)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.7903\&mlon=0.3297#map=16/50.7903/0.3297) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.7903,0.3297)
 
 ## #099 Seriously engaging with the soup — Diagram Club (2026)
+
 Source: [Original](https://diagramclub.substack.com/p/099-seriously-engaging-with-the-soup) · [Readwise highlight](https://read.readwise.io/read/01m6qymhfr769fpf0zqk16cj4b)
 
-> Sovereign Harbour is [BORING BIT] a harbour and housing development to the east of Eastbourne. I remember it being built when I lived in the town for four years around the millennium kind of time.
+> Sovereign Harbour is \[BORING BIT] a harbour and housing development to the east of Eastbourne. I remember it being built when I lived in the town for four years around the millennium kind of time.
 
 - **Role:** setting
 - **In the article:** Walker stays in a house on four floors at the harbour, bringing his Brompton folding bike. He sits in the harbour's restaurants and cafés to think up cartoon ideas and delights in the bridge that opens for boats, with siren and changing lights. A second diary part follows the seaside cycle path from the Eastbourne end towards Pevensey, where the Normans landed in 1066.

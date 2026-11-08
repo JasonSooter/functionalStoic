@@ -2,8 +2,13 @@
 publish: true
 title: Göbekli Tepe
 created: 2024-05-18
-modified: 2026-11-07T07:01:19.280Z
-published: 2026-11-07T07:01:19.280Z
+modified: 2026-11-07T07:01:19.000Z
+published: 2026-11-07T07:01:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Göbekli Tepe.svg
 aliases: []
 books:
   - "Sapiens: A Brief History of Humankind"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 37.2236
   - 38.9217
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Turkey]]"
 image: Attachments/Places/Göbekli Tepe.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Göbekli Tepe.svg
 Göbekli Tepe is a Neolithic hilltop site near Şanlıurfa in south-east Turkey. In _Sapiens_ its forager-built pillars suggest that religion came before farming.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | Monumental pillars raised by foragers around 9500 BC, suggesting a temple came before farming. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.2236&mlon=38.9217#map=16/37.2236/38.9217) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.2236,38.9217)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.2236\&mlon=38.9217#map=16/37.2236/38.9217) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.2236,38.9217)
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m75awcyetajsf5ted6vp6y)
 
 > In 1995 archaeologists began to excavate a site in south-east Turkey called Göbekli Tepe.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Overland Trail and Laporte Avenue intersection (Fort Collins)
-created: 2026-10-21T10:49:11.000Z
-modified: 2026-11-07T06:53:15.758Z
-published: 2026-11-07T06:53:15.758Z
+created: 2024-10-01
+modified: 2026-11-07T06:53:16.000Z
+published: 2026-11-07T06:53:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Overland Trail and Laporte Avenue intersection (Fort Collins).svg
 aliases: []
 books:
   - BFC Announces MyCycle, Tour de Farms, Bicycle Film Festival, and More!
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 40.5895
   - -105.1337
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fort Collins]]"
 image: Attachments/Places/Overland Trail and Laporte Avenue intersection (Fort Collins).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Overland Trail and Laporte Avenue intersection (Fort C
 Road junction on the western edge of Fort Collins, Colorado, where North Overland Trail meets Laporte Avenue, named as the September 2024 focus spot of Bike Fort Collins' MyCycle safety survey.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | BFC Announces MyCycle, Tour de Farms, Bicycle Film Festival, and More! | Bike Fort Collins | subject | MyCycle focus intersection: readers report conflicts and feeling unsafe while cycling. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5895&mlon=-105.1337#map=16/40.5895/-105.1337) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.5895,-105.1337)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5895\&mlon=-105.1337#map=16/40.5895/-105.1337) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.5895,-105.1337)
 
 ## BFC Announces MyCycle, Tour de Farms, Bicycle Film Festival, and More! — Bike Fort Collins (2024)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5f0p3pctpwx4sy8w6zs0ywm)
 
 > for this month, we focus on the intersection of North Overland Trail and Laporte Avenue.

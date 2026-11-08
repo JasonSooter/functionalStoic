@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Elba
-created: 2024-07-21
-modified: 2026-11-07T06:51:38.879Z
-published: 2026-11-07T06:51:38.879Z
 aliases:
   - Isola d'Elba
+title: Elba
+created: 2024-07-21
+modified: 2026-11-07T06:51:39.000Z
+published: 2026-11-07T06:51:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Elba.svg
 books:
   - My brains are hanging out like a dog’s tongue
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 42.78
   - 10.275
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy]]"
 image: Attachments/Places/Elba.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Elba.svg
 Elba is an island off the Tuscan coast of Italy. It turns up in My brains are hanging out like a dog’s tongue (Shaun Usher): The island is the setting of the letter and its heat the sole subject; the letter is a showpiece of the writing it prompted.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | My brains are hanging out like a dog’s tongue | Shaun Usher | setting | Dylan Thomas writes in August 1947 from Elba during a family tour of Italy, in a brutal heatwave. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.78&mlon=10.275#map=16/42.78/10.275) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.78,10.275)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.78\&mlon=10.275#map=16/42.78/10.275) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.78,10.275)
 
 ## My brains are hanging out like a dog’s tongue — Shaun Usher (2024)
+
 Source: [Original](https://news.lettersofnote.com/p/my-brains-are-hanging-out-like-a) · [Readwise highlight](https://read.readwise.io/read/01m5fbhbv3tfncrzrgw1xnyj8k)
 
 > His best piece of writing, however, took the form of a letter, written from the picturesque island of Elba as they found themselves in the grip of a heatwave so gruelling, so all-consuming, that Thomas could think and write of little else.

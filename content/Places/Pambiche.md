@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Pambiche
-created: 2026-10-22T10:26:55.000Z
-modified: 2026-11-07T07:03:51.287Z
-published: 2026-11-07T07:03:51.287Z
+created: 2015-11-28
+modified: 2026-11-07T07:03:51.000Z
+published: 2026-11-07T07:03:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Pambiche.svg
 aliases: []
 books:
   - August 2015 Goals and Financial Update
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 45.5266
   - -122.6369
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Portland, Oregon]]"
 image: Attachments/Places/Pambiche.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Pambiche.svg
 Cuban restaurant in north-east [[Portland, Oregon]], one of Retire by 40's goal restaurants for the month.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | August 2015 Goals and Financial Update | Retire by 40 | setting | A colourful Cuban restaurant: oxtail for him, and a promise to work through the whole menu. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.5266&mlon=-122.6369#map=16/45.5266/-122.6369) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5266,-122.6369)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.5266\&mlon=-122.6369#map=16/45.5266/-122.6369) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=45.5266,-122.6369)
 
 ## August 2015 Goals and Financial Update — Retire by 40 (2015)
+
 Source: [Original](http://retireby40.org/august-2015-goals-and-financial-update/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1xvsdk697wan6ypk6qh1)
 
 > Pambiche is a great authentic Cuban restaurant in a colorful building on the east side of town.

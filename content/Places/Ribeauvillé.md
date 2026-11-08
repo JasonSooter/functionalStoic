@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Ribeauvillé
-created: 2026-10-20T22:55:32.000Z
-modified: 2026-11-07T07:00:09.658Z
-published: 2026-11-07T07:00:09.658Z
 aliases:
   - Ribeauville
+title: Ribeauvillé
+created: 2025-06-18
+modified: 2026-11-07T07:00:10.000Z
+published: 2026-11-07T07:00:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ribeauvillé.svg
 books:
   - what i have been up to recently
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 48.2
   - 7.32
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alsace]]"
 image: Attachments/Places/Ribeauvillé.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Ribeauvillé.svg
 Wine town in [[Alsace]], France, where the author of a personal blog post visited a butterfly garden.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[What I Have Been Up to Recently\|what i have been up to recently]] | hidden (avas) | journey waypoint | The author visited the butterfly garden in Ribeauvillé, where a newly emerged butterfly landed on her dress and another on her head. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2&mlon=7.32#map=16/48.2/7.32) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.2,7.32)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2\&mlon=7.32#map=16/48.2/7.32) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.2,7.32)
 
 ## what i have been up to recently — hidden (avas) (2025)
+
 Source: [Original](https://blog.avas.space/recently-0506/) · [Readwise highlight](https://read.readwise.io/read/01m5dqxx46s9c1h6bh2qxgm0a6)
 
 > also visited the butterfly garden in Ribeauvillé!

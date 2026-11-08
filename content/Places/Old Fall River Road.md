@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Old Fall River Road
-created: 2026-10-20T10:43:05.000Z
-modified: 2026-11-07T06:52:06.789Z
-published: 2026-11-07T06:52:06.789Z
+created: 2026-06-28
+modified: 2026-11-07T06:52:07.000Z
+published: 2026-11-07T06:52:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Old Fall River Road.svg
 aliases: []
 books:
   - Mountains and marmots and elk.
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 40.4405
   - -105.7547
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Old Fall River Road.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Old Fall River Road.svg
 Gravel road up to Fall River Pass in Rocky Mountain National Park, [[Colorado]], which a Mostly Bikes x Me photo post says is closed to cars and rough with construction but still worth riding.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Mountains and Marmots and Elk.\|Mountains and marmots and elk.]] | Mostly Bikes x Me | subject | Closed to cars, torn up by works, still worth riding. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4405&mlon=-105.7547#map=10/40.4405/-105.7547) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4405,-105.7547)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4405\&mlon=-105.7547#map=10/40.4405/-105.7547) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.4405,-105.7547)
 
 ## Mountains and marmots and elk. — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce8n1h1c77twjbt3rw292g)
 
 > Old Fall River road is closed to motorized traffic at the moment, but the surface is a mess with all the construction going on. Still worth riding though.

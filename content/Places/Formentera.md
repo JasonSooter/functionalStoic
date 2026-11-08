@@ -2,8 +2,13 @@
 publish: true
 title: Formentera
 created: 2025-05-22
-modified: 2026-11-07T06:54:55.962Z
-published: 2026-11-07T06:54:55.962Z
+modified: 2026-11-07T06:54:56.000Z
+published: 2026-11-07T06:54:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Formentera.svg
 aliases: []
 books:
   - Water Worlds
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 38.7
   - 1.45
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Balearic Islands]]"
 image: Attachments/Places/Formentera.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Formentera.svg
 Island in the [[Balearic Islands]], Spain; PBS's Water Worlds cites the giant seagrass meadow off its coast as an example of seagrass as a climate ally.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Water Worlds]] | PBS | setting | A seagrass seed sank here 100,000 years ago and cloned into a meadow over 10 miles across, holding 2,000 years of trapped carbon. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.7&mlon=1.45#map=10/38.7/1.45) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.7,1.45)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.7\&mlon=1.45#map=10/38.7/1.45) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.7,1.45)
 
 ## Water Worlds — PBS (2022)
+
 Source: [Original](https://www.pbs.org/video/water-worlds-jqbzx5/) · [Readwise highlight](https://read.readwise.io/read/01m5e2zq2hk0qyfx76mkzd6nqq)
 
 > This particular one is floating off the coast of Formentera in the Mediterranean.

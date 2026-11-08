@@ -1,28 +1,28 @@
 ---
 publish: true
-title: Danforth Avenue
-created: 2024-05-18
-modified: 2026-11-07T07:01:30.252Z
-published: 2026-11-07T07:01:30.252Z
 aliases:
   - The Danforth
+title: Danforth Avenue
+created: 2024-05-18
+modified: 2026-11-07T07:01:30.000Z
+published: 2026-11-07T07:01:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Danforth Avenue.svg
 books:
   - "[[Four Thousand Weeks]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 43.6783,-79.3472
-geo_note: approximate (Greektown on the Danforth, the district where the text places
-  the event; Danforth Avenue article has no coordinate)
+geo_note: approximate (Greektown on the Danforth, the district where the text places the event; Danforth Avenue article has no coordinate)
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 43.6783
   - -79.3472
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Toronto]]"
 image: Attachments/Places/Danforth Avenue.svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/Danforth Avenue.svg
 Danforth Avenue is a street running through the east end of Toronto. It turns up in Four Thousand Weeks (Oliver Burkeman): The street anchors the chapter's central shift from regretting limited time to seeing choices as something one gets to make; Burkeman returns to it ('borrowed time').
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Four Thousand Weeks]] | Oliver Burkeman | turning point | David Cain attends an event in Toronto's Greektown district in summer 2018, killing time in a park and walking Danforth Avenue, stopping… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.6783&mlon=-79.3472#map=10/43.6783/-79.3472) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.6783,-79.3472)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.6783\&mlon=-79.3472#map=10/43.6783/-79.3472) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.6783,-79.3472)
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
+
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcpvhehthbs4661vgrjfh1)
 
 > “I was early,” he recalled, “so I spent some time in a nearby park, then checked out the shops and restaurants on Danforth Avenue. I stopped in front of a church to tie my shoe.

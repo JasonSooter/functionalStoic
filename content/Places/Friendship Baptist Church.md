@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Friendship Baptist Church
-created: 2025-11-11
-modified: 2026-11-07T06:56:04.028Z
-published: 2026-11-07T06:56:04.028Z
 aliases:
   - Friendship Baptist Church (Washington, D.C.)
+title: Friendship Baptist Church
+created: 2025-11-11
+modified: 2026-11-07T06:56:04.000Z
+published: 2026-11-07T06:56:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Friendship Baptist Church.svg
 books:
   - "[[17 Responses to “Year in Review - 2024”]]"
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 38.8804
   - -77.0118
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington DC]]"
 image: Attachments/Places/Friendship Baptist Church.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Friendship Baptist Church.svg
 Historic church in Southwest [[Washington DC|Washington, D.C.]], which a blogger's coffee-walk year-in-review holds up as a steady landmark amid fast redevelopment.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[17 Responses to “Year in Review - 2024”\|Year in Review: 2024]] | MG (Chasing Mailboxes) | subject | A steady, welcoming landmark on the coffee-walk route amid redevelopment. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8804&mlon=-77.0118#map=16/38.8804/-77.0118) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8804,-77.0118)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8804\&mlon=-77.0118#map=16/38.8804/-77.0118) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.8804,-77.0118)
 
 ## Year in Review: 2024 — MG (Chasing Mailboxes) (2024)
+
 Source: [[17 Responses to “Year in Review - 2024”]] · [Original](https://chasingmailboxes.com/2024/12/30/year-in-review-2024/) · [Readwise highlight](https://read.readwise.io/read/01m5d20prqmkv14f0pdvsm0yq9f)
 
 > One of our regular pedestrian coffee routes took us past Friendship Baptist Church.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Canary Islands
-created: 2025-10-25
-modified: 2026-11-07T06:52:32.514Z
-published: 2026-11-07T06:52:32.514Z
 aliases:
   - Islas Canarias
   - Canarias
+title: Canary Islands
+created: 2025-10-25
+modified: 2026-11-07T06:52:33.000Z
+published: 2026-11-07T06:52:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Canary Islands.svg
 books:
   - "[[The Old Man and the Sea]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 28.2936
   - -16.6214
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Spain]]"
 image: Attachments/Places/Canary Islands.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Canary Islands.svg
 Spanish archipelago in the Atlantic off north-west Africa. In The Old Man and the Sea Santiago dreams nightly of its harbours and of the African beaches he saw as a young sailor.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Old Man and the Sea]] | Ernest Hemingway | backdrop | Santiago's dreams of the Canary Islands harbours and the lions on African beaches, where the book ends. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.2936&mlon=-16.6214#map=10/28.2936/-16.6214) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.2936,-16.6214)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.2936\&mlon=-16.6214#map=10/28.2936/-16.6214) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=28.2936,-16.6214)
 
 ## The Old Man and the Sea — Ernest Hemingway (1952)
+
 Source: [[The Old Man and the Sea]] · [Original](https://openlibrary.org/books/OL7265161M) · [Readwise highlight](https://read.readwise.io/read/01m5gm07k78v2n7yxeree9w6q8)
 
 > then he dreamed of the different harbours and roadsteads of the Canary Islands.

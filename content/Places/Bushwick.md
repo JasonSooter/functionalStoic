@@ -2,8 +2,13 @@
 publish: true
 title: Bushwick
 created: 2025-11-23
-modified: 2026-11-07T07:03:23.705Z
-published: 2026-11-07T07:03:23.705Z
+modified: 2026-11-07T07:03:24.000Z
+published: 2026-11-07T07:03:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bushwick.svg
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 40.697
   - -73.917
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
 image: Attachments/Places/Bushwick.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Bushwick.svg
 Neighbourhood in north [[Brooklyn]], New York City, USA; it is the childhood neighbourhood where Another Brooklyn is set.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | setting | August's childhood neighbourhood, where the four girls grow up. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.697&mlon=-73.917#map=11/40.697/-73.917) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.697,-73.917)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.697\&mlon=-73.917#map=11/40.697/-73.917) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.697,-73.917)
 
 ## Sub-places
+
 - [[Gates Avenue]]
 - [[Irving Square Park]]
 - [[Knickerbocker Avenue]]
@@ -43,6 +46,7 @@ Neighbourhood in north [[Brooklyn]], New York City, USA; it is the childhood nei
 - [[Sylvia's house (Another Brooklyn)]]
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Readwise highlight](https://read.readwise.io/read/01m5dcmt3e23f4bk7vhrh7jycx)
 
 > Because Bushwick had once been a forest and we had been called ghetto girls even though we were beautiful and our arms were locked together and our T-shirts blared our names and zodiac signs.

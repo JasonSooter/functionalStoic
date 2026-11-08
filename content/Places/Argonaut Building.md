@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Argonaut Building
-created: 2015-11-28
-modified: 2026-11-07T06:54:55.578Z
-published: 2026-11-07T06:54:55.578Z
 aliases:
   - Argonaut Building (Detroit)
+title: Argonaut Building
+created: 2015-11-28
+modified: 2026-11-07T06:54:56.000Z
+published: 2026-11-07T06:54:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Argonaut Building.svg
 books:
   - Shinola / Bringing Watchmaking Back to America
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 42.3681
   - -83.075
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Detroit]]"
 image: Attachments/Places/Argonaut Building.svg
 ---
@@ -30,14 +31,16 @@ image: Attachments/Places/Argonaut Building.svg
 Former General Motors research building in Detroit's New Center, designed by Albert Kahn. In a maker.co story it is where Shinola set up its headquarters and watch factory.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Shinola / Bringing Watchmaking Back to America | maker.co | subject | Historic GM building where Shinola put its headquarters and watch factory. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3681&mlon=-83.075#map=16/42.3681/-83.075) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3681,-83.075)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3681\&mlon=-83.075#map=16/42.3681/-83.075) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.3681,-83.075)
 
 ## Shinola / Bringing Watchmaking Back to America — maker.co (2015)
-Source: [Original](http://stories.maker.me/shinola-bringing-watchmaking-back-to-america/?ct=t%28Shinola4_24_2015%29&goal=0_f9ee358102-a45ef1d403-195588993) · [Readwise highlight](https://read.readwise.io/read/01m5fye34c89v6qdka72g42ff6)
+
+Source: [Original](http://stories.maker.me/shinola-bringing-watchmaking-back-to-america/?ct=t%28Shinola4_24_2015%29\&goal=0_f9ee358102-a45ef1d403-195588993) · [Readwise highlight](https://read.readwise.io/read/01m5fye34c89v6qdka72g42ff6)
 
 > By chance, they stumbled upon a vacancy in the Albert Khan-designed Argonaut Building, where they decided to establish their headquarters and factory.
 

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Gotthard Road Tunnel
-created: 2026-04-27
-modified: 2026-11-07T06:58:46.980Z
-published: 2026-11-07T06:58:46.980Z
 aliases:
   - Gotthard Strassentunnel
+title: Gotthard Road Tunnel
+created: 2026-04-27
+modified: 2026-11-07T06:58:47.000Z
+published: 2026-11-07T06:58:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gotthard Road Tunnel.svg
 books:
   - Switzerland’s $2BN Tunnel U-Turn
 categories:
@@ -16,10 +21,6 @@ icon: video
 location:
   - 46.6717
   - 8.5925
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland]]"
 image: Attachments/Places/Gotthard Road Tunnel.svg
 ---
@@ -29,13 +30,14 @@ image: Attachments/Places/Gotthard Road Tunnel.svg
 A2 motorway tunnel under the Gotthard massif between Göschenen and Airolo, [[Switzerland]]. It is the subject of a B1M video on the second bore being built so the 1980 tunnel can close for renovation.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Switzerland’s $2BN Tunnel U-Turn]] | The B1M | subject | A second bore so the 1980 tunnel can close for refurbishment without cutting the A2. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.6717&mlon=8.5925#map=16/46.6717/8.5925) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6717,8.5925)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.6717\&mlon=8.5925#map=16/46.6717/8.5925) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=46.6717,8.5925)
 
-## Switzerland’s $2BN Tunnel U-Turn — The B1M (2026)
+## Switzerland’s \$2BN Tunnel U-Turn — The B1M (2026)
 
 Source: [Original](https://www.youtube.com/watch?v=bzTntRHmpa8) · [Readwise highlight](https://read.readwise.io/read/01m5bs72760jqygedmhkbb062t)
 

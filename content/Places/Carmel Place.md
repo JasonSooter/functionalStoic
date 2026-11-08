@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Carmel Place
-created: 2015-11-24
-modified: 2026-11-07T06:53:09.369Z
-published: 2026-11-07T06:53:09.369Z
 aliases:
   - My Micro NY
+title: Carmel Place
+created: 2015-11-24
+modified: 2026-11-07T06:53:09.000Z
+published: 2026-11-07T06:53:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Carmel Place.svg
 books:
   - Where’s the Best Place in North America to Live an Edited Life?
   - NYC’s First Micro-Apartment Building is (Almost) Ready to Rock
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 40.7399
   - -73.9774
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Carmel Place.svg
 ---
@@ -37,9 +38,10 @@ Micro-apartment building in Kips Bay, Manhattan, first known as My Micro NY. In 
 | Where’s the Best Place in North America to Live an Edited Life? | David Friedlander | subject | Micro-apartment pilot the author calls a step forward but too small to matter. |
 | NYC’s First Micro-Apartment Building is (Almost) Ready to Rock | David Friedlander | subject | Leasing starts: 265–323 sq ft prefab units trucked in from Brooklyn, with 60,000 applications for 14 affordable flats. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7399&mlon=-73.9774#map=16/40.7399/-73.9774) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7399,-73.9774)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7399\&mlon=-73.9774#map=16/40.7399/-73.9774) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.7399,-73.9774)
 
 ## Where’s the Best Place in North America to Live an Edited Life? — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/wheres-the-best-place-in-north-america-to-live-an-edited-life/) · [Readwise highlight](https://read.readwise.io/read/01m5g0ehcb7mfnywvs06k2wkf6)
 
 > Make no mistake, My Micro is a significant step in the right direction for giving more housing options to New Yorkers.
@@ -49,6 +51,7 @@ Source: [Original](https://lifeedited.com/wheres-the-best-place-in-north-america
 - **Why it matters:** It is the post's example of how little the city is doing about housing costs.
 
 ## NYC’s First Micro-Apartment Building is (Almost) Ready to Rock — David Friedlander (2015)
+
 Source: [Original](http://lifeedited.com/carmel-place-micro-apartment-buildnig/) · [Readwise highlight](https://read.readwise.io/read/01m5hk57xst71pf4p2r751rfh7)
 
 > all of the units were prefabricated in the Brooklyn Navy Yard then trucked over the Manhattan bridge to the Kip’s Bay neighborhood of Manhattan.

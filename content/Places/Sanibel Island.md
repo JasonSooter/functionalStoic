@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sanibel Island
-created: 2016-01-22
-modified: 2026-11-07T06:52:23.910Z
-published: 2026-11-07T06:52:23.910Z
 aliases:
   - Sanibel
+title: Sanibel Island
+created: 2016-01-22
+modified: 2026-11-07T06:52:24.000Z
+published: 2026-11-07T06:52:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sanibel Island.svg
 books:
   - Sometimes You Just Need to Have Fun and Spend Money
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 26.4731
   - -82.1472
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 image: Attachments/Places/Sanibel Island.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Sanibel Island.svg
 Barrier island off Fort Myers on Florida's Gulf coast. In a 2016 personal-finance post it is the shell-beach and mangrove vacation an extreme saver allows himself.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sometimes You Just Need to Have Fun and Spend Money | Derek | setting | The couple's earned January vacation: shell beaches, mangrove kayaking and dolphins. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=26.4731&mlon=-82.1472#map=10/26.4731/-82.1472) · [Google Maps](https://www.google.com/maps/search/?api=1&query=26.4731,-82.1472)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=26.4731\&mlon=-82.1472#map=10/26.4731/-82.1472) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=26.4731,-82.1472)
 
 ## Sometimes You Just Need to Have Fun and Spend Money — Derek (2016)
+
 Source: [Original](http://lifeandmyfinances.com/2016/01/have-fun-and-spend-money/) · [Readwise highlight](https://read.readwise.io/read/01m5j6jm4s4jjdx3fvwhb1bczv)
 
 > Just last week, we were on the shelly beaches of Sanibel and Fort Meyers, hand in hand and talking about whatever came to our minds. We kayaked in the mangroves of Tropical Bay and saw dolphins playing throughout our entire vacation stay.

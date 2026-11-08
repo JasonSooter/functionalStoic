@@ -2,8 +2,13 @@
 publish: true
 title: Jalalabad
 created: 2025-03-08
-modified: 2026-11-07T06:54:55.554Z
-published: 2026-11-07T06:54:55.554Z
+modified: 2026-11-07T06:54:56.000Z
+published: 2026-11-07T06:54:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jalalabad.svg
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 34.4342
   - 70.4478
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Afghanistan]]"
 image: Attachments/Places/Jalalabad.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Jalalabad.svg
 City in eastern Afghanistan on the road to the Khyber. Dervla Murphy's last Afghan stop in _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | journey waypoint | End of a 115-mile ride; she tallies Afghan and Sikh generosity before the Khyber. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.4342&mlon=70.4478#map=16/34.4342/70.4478) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.4342,70.4478)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.4342\&mlon=70.4478#map=16/34.4342/70.4478) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.4342,70.4478)
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6mjf067krtv0jdw3ry8b9)
 
 > This city is full of Sikhs, who are undoubtedly the most forthcoming people on my route since Bulgaria.

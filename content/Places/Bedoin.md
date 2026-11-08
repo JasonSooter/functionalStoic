@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Bedoin
-created: 2025-07-26
-modified: 2026-11-07T06:58:31.620Z
-published: 2026-11-07T06:58:31.620Z
 aliases:
   - Bédoin
+title: Bedoin
+created: 2025-07-26
+modified: 2026-11-07T06:58:32.000Z
+published: 2026-11-07T06:58:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bedoin.svg
 books:
   - "Fire Danger: Low"
   - Ventoux via Maulucene
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 44.124
   - 5.1805
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Bedoin.svg
 ---
@@ -31,15 +32,17 @@ image: Attachments/Places/Bedoin.svg
 Village in the Vaucluse, [[Provence]], at the foot of the classic southern ascent of [[Mont Ventoux]], which appears in three Mostly Bikes x Me rides as the cyclists' basecamp and the start of the climb.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Fire Danger: Low | Mostly Bikes x Me | journey waypoint | A Ventoux basecamp town, half shut for winter. |
 | [[Ventoux via Maulucene]] | Mostly Bikes x Me | backdrop | They briefly descend the Bédoin side, then turn back after a mile because of crowds and Tour service vehicles. |
 | Mont Ventoux au Gravel. | Mostly Bikes x Me | journey waypoint | Start of the gravel climb: a few paved miles on the D974 before turning onto a white gravel road around a barrier. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.124&mlon=5.1805#map=16/44.124/5.1805) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.124,5.1805)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.124\&mlon=5.1805#map=16/44.124/5.1805) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.124,5.1805)
 
 ## Fire Danger: Low — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c4q0zckbzmm3hn50pw6bat)
 
 > Bedoin was busy compared to elsewhere, but as much of the economy revolves around acting as a basecamp for cyclists riding Ventoux, most of its businesses are closed in winter.
@@ -49,6 +52,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5c4q0zckbzmm3hn50p
 - **Why it matters:** The town is the ride's one real stop, characterised entirely by its cycling economy.
 
 ## Ventoux via Maulucene — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15185450938.html) · [Readwise highlight](https://read.readwise.io/read/01m5dr12y0edek648tyjfhdb12)
 
 > We briefly descended the Bedoin side, but turned around after a mile or so.
@@ -58,6 +62,7 @@ Source: [Original](https://funkadelic.net/pages/15185450938.html) · [Readwise h
 - **Why it matters:** Minor: the Tour route side avoided.
 
 ## Mont Ventoux au Gravel. — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15176254615.html) · [Readwise highlight](https://read.readwise.io/read/01m5dr15bk8bss7cbf37x19z26)
 
 > The first few miles from Bedoin are on the paved D974.

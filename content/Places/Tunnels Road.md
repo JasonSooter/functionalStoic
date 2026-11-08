@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Tunnels Road
-created: 2024-12-21
-modified: 2026-11-07T06:54:26.531Z
-published: 2026-11-07T06:54:26.531Z
 aliases:
   - Highway 60 tunnels
   - Tunnels Road (Highway 60)
+title: Tunnels Road
+created: 2024-12-21
+modified: 2026-11-07T06:54:27.000Z
+published: 2026-11-07T06:54:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tunnels Road.svg
 books:
   - "[[Apeirogon]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 31.7269
   - 35.197
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jerusalem]]"
 image: Attachments/Places/Tunnels Road.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Tunnels Road.svg
 Section of Highway 60 tunnelling under Beit Jala between Jerusalem and Bethlehem. Part of Rami's daily motorbike ride in _Apeirogon_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | journey waypoint | Rami's pre-dawn ride through the tunnel under Beit Jala into Area A. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7269&mlon=35.197#map=10/31.7269/35.197) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7269,35.197)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7269\&mlon=35.197#map=10/31.7269/35.197) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.7269,35.197)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7w89ne962m0fh835a1qa8)
 
 > The tunnel runs under the town of Beit Jala, dovetailing in parts with the Way of the Patriarchs, the ancient Biblical route.

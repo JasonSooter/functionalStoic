@@ -2,8 +2,13 @@
 publish: true
 title: Kennedy Space Center
 created: 2025-02-27
-modified: 2026-11-07T06:57:44.148Z
-published: 2026-11-07T06:57:44.148Z
+modified: 2026-11-07T06:57:44.000Z
+published: 2026-11-07T06:57:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kennedy Space Center.svg
 aliases: []
 books:
   - "[[Range]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 28.5247
   - -80.6486
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 image: Attachments/Places/Kennedy Space Center.svg
 ---
@@ -29,17 +30,19 @@ image: Attachments/Places/Kennedy Space Center.svg
 NASA's launch site on Merritt Island, Florida. In Range, the Challenger launch decision and disaster of January 1986 is the chapter's central case.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | turning point | The night before launch, 34 engineers in three locations argued over O-ring data on an emergency call; Thiokol reversed its no-launch… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.5247&mlon=-80.6486#map=11/28.5247/-80.6486) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.5247,-80.6486)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.5247\&mlon=-80.6486#map=11/28.5247/-80.6486) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=28.5247,-80.6486)
 
 ## Sub-places
 
 - [[Launch Complex 39A]]
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
+
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jvtn578kq9jea759jpk6rm)
 
 > Weather reports on January 27, 1986, predicted unusually cool Florida weather for launch. After the conference call, NASA and Thiokol gave the okay to proceed.

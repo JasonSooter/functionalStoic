@@ -2,8 +2,13 @@
 publish: true
 title: Gifted Hanz salon (Chicago)
 created: 2016-06-09
-modified: 2026-11-07T06:57:37.698Z
-published: 2026-11-07T06:57:37.698Z
+modified: 2026-11-07T06:57:38.000Z
+published: 2026-11-07T06:57:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gifted Hanz salon (Chicago).svg
 aliases: []
 books:
   - Why Character Can’t Be Taught Like The Pythagorean Theorem
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 41.7656,-87.6278
-geo_note: approximate (South Side, Chicago representative point; salon not found in
-  a standard source)
+geo_note: approximate (South Side, Chicago representative point; salon not found in a standard source)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 41.7656
   - -87.6278
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South Side (Chicago)]]"
 image: Attachments/Places/Gifted Hanz salon (Chicago).svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Gifted Hanz salon (Chicago).svg
 Lanita Reed's hair salon on Chicago's South Side. In Paul Tough's essay it is where she mentors an at-risk teen.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Character Can’t Be Taught Like The Pythagorean Theorem | Paul Tough | setting | Lanita Reed, a hairdresser and mentor, talks with at-risk teen Keitha Jones in her salon and other casual places, and Keitha becomes… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7656&mlon=-87.6278#map=10/41.7656/-87.6278) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.7656,-87.6278)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7656\&mlon=-87.6278#map=10/41.7656/-87.6278) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.7656,-87.6278)
 
 ## Why Character Can’t Be Taught Like The Pythagorean Theorem — Paul Tough (2016)
+
 Source: [Original](http://ww2.kqed.org/mindshift/2016/06/09/why-character-cant-be-taught-like-the-pythagorean-theorem/) · [Readwise highlight](https://read.readwise.io/read/01m5jvras5xec5d8ys636fq0zh)
 
 > Over the course of several months, Reed spent hours talking with Keitha — at her salon, at fast-food restaurants, at bowling alleys — listening to her troubles and giving her big-sisterly advice.

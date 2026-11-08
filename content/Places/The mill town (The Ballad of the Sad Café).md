@@ -1,13 +1,18 @@
 ---
 publish: true
-title: The mill town (The Ballad of the Sad Café)
-created: 2025-12-09
-modified: 2026-11-07T06:52:29.690Z
-published: 2026-11-07T06:52:29.690Z
 aliases:
   - McCullers' mill town
   - Miss Amelia's town
   - the town
+title: The mill town (The Ballad of the Sad Café)
+created: 2025-12-09
+modified: 2026-11-07T06:52:30.000Z
+published: 2026-11-07T06:52:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The mill town (The Ballad of the Sad Café).svg
 books:
   - "[[The Ballad of the Sad Café]]"
 categories:
@@ -15,18 +20,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 32.4896,-84.9404
-geo_note: "best-guess: The mill town (The Ballad of the Sad Café) pinned at Columbus,\
-  \ Georgia (area); see Where is it?"
-geo_source: Wikipedia (en) Columbus, Georgia (second {{Coord}} 32.489608,-84.940422;
-  infobox DMS gives 32.4922,-84.9403)
+geo_note: "best-guess: The mill town (The Ballad of the Sad Café) pinned at Columbus, Georgia (area); see Where is it?"
+geo_source: Wikipedia (en) Columbus, Georgia (second {{Coord}} 32.489608,-84.940422; infobox DMS gives 32.4922,-84.9403)
 icon: book
 location:
   - 32.4896
   - -84.9404
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Columbus, Georgia]]"
 image: Attachments/Places/The mill town (The Ballad of the Sad Café).svg
 ---
@@ -36,13 +35,15 @@ image: Attachments/Places/The mill town (The Ballad of the Sad Café).svg
 Fictional, unnamed cotton-mill town in the Deep South, pinned at a best-guess location within [[Columbus, Georgia]]. It is the setting of McCullers's _The Ballad of the Sad Café_, where the whole story takes place.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Ballad of the Sad Café]] | Carson McCullers | setting | The narrator opens by describing the dreary cotton-mill town: two-room mill houses, a short main street and peach trees. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.4896&mlon=-84.9404#map=16/32.4896/-84.9404) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.4896,-84.9404)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.4896\&mlon=-84.9404#map=16/32.4896/-84.9404) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=32.4896,-84.9404)
 
 ## The Ballad of the Sad Café — Carson McCullers (1951)
+
 Source: [[The Ballad of the Sad Café]] · [Original](https://openlibrary.org/works/OL14864456W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0n0ydcc3s107wwhcevk1)
 
 > THE TOWN itself is dreary; not much is there except the cotton mill, the two-room houses where the workers live, a few peach trees, a church with two colored windows, and a miserable main street only a hundred yards long.

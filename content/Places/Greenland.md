@@ -2,8 +2,13 @@
 publish: true
 title: Greenland
 created: 2025-01-19
-modified: 2026-11-07T07:00:34.778Z
-published: 2026-11-07T07:00:34.778Z
+modified: 2026-11-07T07:00:35.000Z
+published: 2026-11-07T07:00:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Greenland.svg
 aliases: []
 books:
   - "[[Bookshelf/Highlights & Notes/Articles/Dear Donald, Re. Greenland.md]]"
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 72
   - -40
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Greenland.svg
 ---
 
@@ -29,13 +30,15 @@ image: Attachments/Places/Greenland.svg
 Island and self-governing territory in the Kingdom of Denmark, between the North Atlantic and the Arctic. It is the whole subject of Helen Russell's open letter arguing against the idea of buying it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Dear Donald, Re. Greenland.md\|Dear Donald, Re. Greenland]] | Helen Russell | subject | The letter argues against buying Greenland: its self-rule since 2009, colonial history, melting ice sheet and 56,000 people. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=72&mlon=-40#map=10/72/-40) · [Google Maps](https://www.google.com/maps/search/?api=1&query=72,-40)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=72\&mlon=-40#map=10/72/-40) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=72,-40)
 
 ## Dear Donald, Re. Greenland — Helen Russell (2025)
+
 Source: [[Bookshelf/Highlights & Notes/Articles/Dear Donald, Re. Greenland.md]] · [Original](https://mshelenrussell.substack.com/p/dear-donald-re-greenland) · [Readwise highlight](https://read.readwise.io/read/01m5edfh64bdyc3sk9h5938jcw)
 
 > Greenland isn’t an empty plot of land waiting for development: it’s a vast, ice-covered island.

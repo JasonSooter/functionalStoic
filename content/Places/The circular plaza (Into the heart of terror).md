@@ -2,8 +2,13 @@
 publish: true
 title: The circular plaza (Into the heart of terror)
 created: 2016-07-15
-modified: 2026-11-07T06:51:58.568Z
-published: 2026-11-07T06:51:58.568Z
+modified: 2026-11-07T06:51:59.000Z
+published: 2026-11-07T06:51:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The circular plaza (Into the heart of terror).svg
 aliases: []
 books:
   - "Into the heart of terror: behind Isis lines"
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 35.9545
   - 39.0094
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Raqqa]]"
 image: Attachments/Places/The circular plaza (Into the heart of terror).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/The circular plaza (Into the heart of terror).svg
 Unnamed plaza in Raqqa in Jürgen Todenhöfer's report, inferred to be Naim Square. A backdrop in Jürgen Todenhöfer's “Into the heart of terror: behind Isis lines”: Fenced circular plaza in Raqqa where severed heads are displayed; photography forbidden.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Into the heart of terror: behind Isis lines | Jürgen Todenhöfer | backdrop | Fenced circular plaza in Raqqa where severed heads are displayed; photography forbidden |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.9545&mlon=39.0094#map=16/35.9545/39.0094) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.9545,39.0094)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.9545\&mlon=39.0094#map=16/35.9545/39.0094) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=35.9545,39.0094)
 
 ## Into the heart of terror: behind Isis lines — Jürgen Todenhöfer (2016)
+
 Source: [Original](http://www.theguardian.com/world/2016/apr/04/behind-isis-lines-jurgen-todenhofer-journalist-syria-iraq-my-journey-into-the-heart-of-terror) · [Readwise highlight](https://read.readwise.io/read/01m5jjrjm0pa1bdf1nf7sx85z6)
 
 > We drive by a circular plaza we recognise from media reports. It’s surrounded by an iron fence. This is where the heads of decapitated enemies are impaled and put on display.

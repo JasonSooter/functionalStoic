@@ -2,8 +2,13 @@
 publish: true
 title: MIT wiring closet (Aaron Swartz)
 created: 2016-12-12
-modified: 2026-11-07T06:52:29.774Z
-published: 2026-11-07T06:52:29.774Z
+modified: 2026-11-07T06:52:30.000Z
+published: 2026-11-07T06:52:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/MIT wiring closet (Aaron Swartz).svg
 aliases: []
 books:
   - Mr. Robot Killed the Hollywood Hacker
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 42.3597
   - -71.0919
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cambridge, Massachusetts]]"
 image: Attachments/Places/MIT wiring closet (Aaron Swartz).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/MIT wiring closet (Aaron Swartz).svg
 The basement network closet on the MIT campus in Cambridge, Massachusetts, where Aaron Swartz tapped a switch to download JSTOR articles. Cory Doctorow uses it to show the real-world stakes of computer-crime law.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Mr. Robot Killed the Hollywood Hacker | Cory Doctorow | turning point | Aaron Swartz, after months of trying to get around JSTOR's download limits, entered a basement wiring closet on MIT's network and tapped… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3597&mlon=-71.0919#map=10/42.3597/-71.0919) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3597,-71.0919)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3597\&mlon=-71.0919#map=10/42.3597/-71.0919) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.3597,-71.0919)
 
 ## Mr. Robot Killed the Hollywood Hacker — Cory Doctorow (2016)
+
 Source: [Original](https://www.technologyreview.com/s/603045/mr-robot-killed-the-hollywood-hacker/) · [Readwise highlight](https://read.readwise.io/read/01m5k5rdjzddgrxm0hs0r7xaa1)
 
 > What Swartz did was no accident—he made multiple attempts to get around JSTOR’s download limits over a period of months, and ultimately entered a basement wiring closet to tap into a network switch directly.

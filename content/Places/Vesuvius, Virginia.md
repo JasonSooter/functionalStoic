@@ -2,12 +2,16 @@
 publish: true
 title: Vesuvius, Virginia
 created: 2025-12-01
-modified: 2026-11-07T06:57:05.410Z
-published: 2026-11-07T06:57:05.410Z
+modified: 2026-11-07T06:57:05.000Z
+published: 2026-11-07T06:57:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Vesuvius, Virginia.svg
 aliases: []
 books:
-  - We Rode 3,800 Miles Across America on a Tandem Bike in Our 60s. Here’s What We
-    Learned.
+  - We Rode 3,800 Miles Across America on a Tandem Bike in Our 60s. Here’s What We Learned.
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 37.9061
   - -79.1972
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Virginia]]"
 image: Attachments/Places/Vesuvius, Virginia.svg
 ---
@@ -30,13 +30,15 @@ image: Attachments/Places/Vesuvius, Virginia.svg
 Hamlet at the foot of the Blue Ridge in Rockbridge County, Virginia. A cross-country tandem couple climb their last big hill from it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | We Rode 3,800 Miles Across America on a Tandem Bike in Our 60s. Here’s What We Learned. | Karen Kreider Yoder | journey waypoint | Dreaded by westbound cyclists, this was their last major ascent. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.9061&mlon=-79.1972#map=16/37.9061/-79.1972) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.9061,-79.1972)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.9061\&mlon=-79.1972#map=16/37.9061/-79.1972) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.9061,-79.1972)
 
 ## We Rode 3,800 Miles Across America on a Tandem Bike in Our 60s. Here’s What We Learned. — Karen Kreider Yoder (2022)
+
 Source: [Original](https://www.wsj.com/articles/riding-3800-miles-across-us-on-tandem-bike-11645643255) · [Readwise highlight](https://read.readwise.io/read/01m5k8x8dnanf3mcagmvth73yg)
 
 > a narrow, winding 1,500-foot rise from tiny Vesuvius, Va., with some of the route’s steepest grades.

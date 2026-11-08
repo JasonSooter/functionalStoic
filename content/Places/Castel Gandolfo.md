@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Castel Gandolfo
-created: 2026-10-19
-modified: 2026-11-07T06:53:27.851Z
-published: 2026-11-07T06:53:27.851Z
 aliases:
   - Specola Vaticana
   - Vatican Observatory
+title: Castel Gandolfo
+created: 2026-10-19
+modified: 2026-11-07T06:53:28.000Z
+published: 2026-11-07T06:53:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Castel Gandolfo.svg
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 41.7469
   - 12.6519
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy]]"
 image: Attachments/Places/Castel Gandolfo.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Castel Gandolfo.svg
 Hill town south-east of Rome, [[Italy]], the Pope's summer residence and historic seat of the Vatican Observatory, where Carlo Rovelli's essay on science and faith opens at a conference.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | setting | A Vatican conference on black holes, held at the Pope's summer residence, frames an essay on science and faith. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7469&mlon=12.6519#map=16/41.7469/12.6519) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.7469,12.6519)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7469\&mlon=12.6519#map=16/41.7469/12.6519) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.7469,12.6519)
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5b44m8gwhr3z0jnnm68mzyv)
 
 > brought together in the beautiful setting of Castel Gandolfo, the summer residence of the Pope on the hills behind Rome

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Amherst
-created: 2026-03-29
-modified: 2026-11-07T06:54:00.721Z
-published: 2026-11-07T06:54:00.721Z
 aliases:
   - Amherst, Massachusetts
+title: Amherst
+created: 2026-03-29
+modified: 2026-11-07T06:54:01.000Z
+published: 2026-11-07T06:54:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Amherst.svg
 books:
   - "[[Emily Dickinson Wouldn't Have Survived Social Media]]"
 categories:
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 42.383
   - -72.517
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/Amherst.svg
 ---
@@ -29,16 +30,19 @@ image: Attachments/Places/Amherst.svg
 Town in western [[Massachusetts]] and Emily Dickinson's home, where Elif Shafak first arrived in America in her essay on Dickinson.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Emily Dickinson Wouldn't Have Survived Social Media]] | Elif Shafak | subject | Shafak's first American town, where she went looking for Dickinson's ghost. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.383&mlon=-72.517#map=11/42.383/-72.517) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.383,-72.517)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.383\&mlon=-72.517#map=11/42.383/-72.517) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.383,-72.517)
 
 ## Sub-places
+
 _None yet._
 
 ## Emily Dickinson Wouldn't Have Survived Social Media — Elif Shafak (2026)
+
 Source: [[Emily Dickinson Wouldn't Have Survived Social Media]] · [Original](https://elifshafak.substack.com/p/emily-dickinson-wouldnt-have-survived) · [Readwise highlight](https://read.readwise.io/read/01m5bs6y157f5113e1hd39bqtv)
 
 > Amherst was the first place I arrived in when I came to America, leaving Istanbul behind for the first time.

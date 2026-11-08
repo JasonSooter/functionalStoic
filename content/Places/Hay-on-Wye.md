@@ -2,11 +2,16 @@
 publish: true
 title: Hay-on-Wye
 created: 2025-03-15
-modified: 2026-11-07T07:02:46.500Z
-published: 2026-11-07T07:02:46.500Z
+modified: 2026-11-07T07:02:47.000Z
+published: 2026-11-07T07:02:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hay-on-Wye.svg
 aliases: []
 books:
-  - '#029 Summary of all content so far'
+  - "#029 Summary of all content so far"
 categories:
   - "[[Places]]"
 color: purple
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 52.075
   - -3.125
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Wales]]"
 image: Attachments/Places/Hay-on-Wye.svg
 ---
@@ -29,16 +30,19 @@ image: Attachments/Places/Hay-on-Wye.svg
 Town in Powys, [[Wales]], on the English border, known for its secondhand bookshops. It is where the Diagram Club author spent a week away and lists what he likes about it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #029 Summary of all content so far | Diagram Club | setting | A week away in Hay-on-Wye; he lists secondhand bookshops, day-trip memories, mountains, landscape glimpses and staying above a bookshop. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.075&mlon=-3.125#map=11/52.075/-3.125) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.075,-3.125)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.075\&mlon=-3.125#map=11/52.075/-3.125) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.075,-3.125)
 
 ## Sub-places
+
 - [[Hay Cinema Bookshop]]
 
 ## #029 Summary of all content so far — Diagram Club (2025)
+
 Source: [Original](https://diagramclub.substack.com/p/029-summary-of-all-content-so-far) · [Readwise highlight](https://read.readwise.io/read/01m5ebr15j05pzb4bwzp2wngp2)
 
 > We had a week away, and went to Hay-on-Wye, one of my favourite places. I’ve visited many times, but never stayed, and it was lovely.

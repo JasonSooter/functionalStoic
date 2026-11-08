@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Retreat at Twin Lakes
-created: 2026-10-21T19:59:58.000Z
-modified: 2026-11-07T06:59:47.387Z
-published: 2026-11-07T06:59:47.387Z
+created: 2024-05-18
+modified: 2026-11-07T06:59:47.000Z
+published: 2026-11-07T06:59:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Retreat at Twin Lakes.svg
 aliases: []
 books:
   - How to Be an Antiracist
@@ -16,10 +21,6 @@ icon: book
 location:
   - 28.793
   - -81.3297
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 image: Attachments/Places/Retreat at Twin Lakes.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Retreat at Twin Lakes.svg
 Gated townhouse community in Sanford, Florida, where Trayvon Martin was killed in 2012. In How to Be an Antiracist (Ibram X. Kendi) the killing pushes him toward his history of racist ideas.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | turning point | Where Trayvon Martin was killed, which drove Kendi toward his history of racist ideas. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.793&mlon=-81.3297#map=16/28.793/-81.3297) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.793,-81.3297)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.793\&mlon=-81.3297#map=16/28.793/-81.3297) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=28.793,-81.3297)
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5g0ez9sbftmq35qwd89bqr4)
 
 > Trayvon Martin ambled back in the rain to the Retreat at Twin Lakes.

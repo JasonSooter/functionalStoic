@@ -2,8 +2,13 @@
 publish: true
 title: Dakar
 created: 2024-04-27
-modified: 2026-11-07T07:01:12.620Z
-published: 2026-11-07T07:01:12.620Z
+modified: 2026-11-07T07:01:13.000Z
+published: 2026-11-07T07:01:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Dakar.svg
 aliases: []
 books:
   - "[[Could a Grain Older Than the Wheel Be the Future of Food]]"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 14.6928
   - -17.4467
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Senegal]]"
 image: Attachments/Places/Dakar.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Dakar.svg
 Dakar is the capital of Senegal. It turns up in Could a grain older than the wheel be the future of food? – Bill Gates (Bill Gates): Dakar is the one place the author visits and describes at first hand; the facility is the article's evidence that fonio can scale commercially.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Could a Grain Older Than the Wheel Be the Future of Food\|Could a grain older than the wheel be the future of food? – Bill Gates]] | Bill Gates | subject | Gates describes a commercial fonio processing facility built in Dakar by Terra Ingredients and the Senegalese company CAA. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=14.6928&mlon=-17.4467#map=16/14.6928/-17.4467) · [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6928,-17.4467)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=14.6928\&mlon=-17.4467#map=16/14.6928/-17.4467) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=14.6928,-17.4467)
 
 ## Could a grain older than the wheel be the future of food? – Bill Gates — Bill Gates (2024)
+
 Source: [[Could a Grain Older Than the Wheel Be the Future of Food]] · [Original](https://www.gatesnotes.com/Fonio) · [Readwise highlight](https://read.readwise.io/read/01m5fcp23fzangwyk8c388zsa9)
 
 > recently partnered with a Senegalese company called CAA to build a commercial processing facility right in Dakar.

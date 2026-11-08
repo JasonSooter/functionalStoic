@@ -1,9 +1,14 @@
 ---
 publish: true
 title: National Naval Medical Center (Bethesda)
-created: 2026-10-22T22:36:14.000Z
-modified: 2026-11-07T07:01:16.012Z
-published: 2026-11-07T07:01:16.012Z
+created: 2016-07-29
+modified: 2026-11-07T07:01:16.000Z
+published: 2026-11-07T07:01:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/National Naval Medical Center (Bethesda).svg
 aliases: []
 books:
   - The Citizen-Soldier Moral Risk and the Modern Military
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 39.0017
   - -77.0947
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Maryland]]"
 image: Attachments/Places/National Naval Medical Center (Bethesda).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/National Naval Medical Center (Bethesda).svg
 Military hospital in Bethesda, Maryland (now Walter Reed National Military Medical Center). In Phil Klay's essay, Eric Greitens's visit there leads to The Mission Continues.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Citizen-Soldier Moral Risk and the Modern Military | Phil Klay | setting | Greitens visits wounded veterans and finds that what energized them was being told 'We still need you', leading him to found The Mission… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.0017&mlon=-77.0947#map=16/39.0017/-77.0947) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0017,-77.0947)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.0017\&mlon=-77.0947#map=16/39.0017/-77.0947) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.0017,-77.0947)
 
 ## The Citizen-Soldier Moral Risk and the Modern Military — Phil Klay (2016)
+
 Source: [Original](https://www.brookings.edu/research/essays/2016/the-citizen-soldier/) · [Readwise highlight](https://read.readwise.io/read/01m5jvq2egpjpcaeftq5r6qmnv)
 
 > In 2007, Rhodes-scholar and Navy SEAL Eric Greitens made a visit to the National Naval Medical Center in Bethesda, Maryland. The men and women he found there, including amputees and serious burn victims, generally were eager to return to their units, though that would in many cases be impossible.

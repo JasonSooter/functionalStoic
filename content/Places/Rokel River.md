@@ -1,29 +1,29 @@
 ---
 publish: true
-title: Rokel River
-created: 2026-10-20T13:40:50.000Z
-modified: 2026-11-07T07:01:02.219Z
-published: 2026-11-07T07:01:02.219Z
 aliases:
   - Seli River
   - Rokel
+title: Rokel River
+created: 2026-10-04
+modified: 2026-11-07T07:01:02.000Z
+published: 2026-11-07T07:01:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Rokel River.svg
 books:
   - "[[Peace Corps - The Great Adventure]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 8.55,-12.8
-geo_note: approximate (the river article's own representative point; the text names
-  no fishing spot)
+geo_note: approximate (the river article's own representative point; the text names no fishing spot)
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 8.55
   - -12.8
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sierra Leone]]"
 image: Attachments/Places/Rokel River.svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/Rokel River.svg
 Largest river of [[Sierra Leone]], also called the Seli, where a Peace Corps volunteer fishes in one story of Peace Corps: The Great Adventure.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | Where the home-made lures prove themselves. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=8.55&mlon=-12.8#map=10/8.55/-12.8) · [Google Maps](https://www.google.com/maps/search/?api=1&query=8.55,-12.8)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=8.55\&mlon=-12.8#map=10/8.55/-12.8) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=8.55,-12.8)
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
+
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5crb4dnxx658b5vp0565e8n)
 
 > During the dry season, I spent the evenings fishing Sierra Leone's Rokel River with my host-country friends, the Conteh brothers-Moses, Bokarie, and Sanpha.

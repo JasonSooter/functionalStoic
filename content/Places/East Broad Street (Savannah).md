@@ -1,11 +1,16 @@
 ---
 publish: true
-title: East Broad Street (Savannah)
-created: 2024-05-18
-modified: 2026-11-07T07:04:36.432Z
-published: 2026-11-07T07:04:36.432Z
 aliases:
   - Savannah
+title: East Broad Street (Savannah)
+created: 2024-05-18
+modified: 2026-11-07T07:04:36.000Z
+published: 2026-11-07T07:04:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/East Broad Street (Savannah).svg
 books:
   - "[[Walkable City]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 32.078
   - -81.0844
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Georgia (U.S. state)]]"
 image: Attachments/Places/East Broad Street (Savannah).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/East Broad Street (Savannah).svg
 East Broad Street is a street in Savannah, Georgia. It turns up in Walkable City (Jeff Speck): Quantified before-and-after evidence of the effects of one-way streets, within an otherwise walkable Oglethorpe grid.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | After a 1969 one-way conversion, East Broad Street lost almost two-thirds of its active addresses per Christian Sottile's study. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.078&mlon=-81.0844#map=10/32.078/-81.0844) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.078,-81.0844)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.078\&mlon=-81.0844#map=10/32.078/-81.0844) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=32.078,-81.0844)
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbmk3c1fs43yqkq2d9g9cx)
 
 > Recognizing this problem, the city government commissioned the architect Christian Sottile to study what happened to just one thoroughfare, East Broad Street, when it became a speedway.

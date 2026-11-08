@@ -2,8 +2,13 @@
 publish: true
 title: Sally's Diner (Project Hail Mary)
 created: 2026-06-13
-modified: 2026-11-07T07:03:09.058Z
-published: 2026-11-07T07:03:09.058Z
+modified: 2026-11-07T07:03:09.000Z
+published: 2026-11-07T07:03:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sally's Diner (Project Hail Mary).svg
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 37.7775
   - -122.4164
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Sally's Diner (Project Hail Mary).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Sally's Diner (Project Hail Mary).svg
 Fictional diner in San Francisco. In Project Hail Mary Grace reads the first email about the Petrova line over breakfast there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | In the first flashback Grace eats his usual eggs-and-bacon breakfast here, reads Irina Petrova's email about the infrared line, and is… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7775&mlon=-122.4164#map=16/37.7775/-122.4164) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7775,-122.4164)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7775\&mlon=-122.4164#map=16/37.7775/-122.4164) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.7775,-122.4164)
 
 ## Project Hail Mary — Andy Weir (2021)
+
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvs8ajydv82rpjnwkfn325)
 
 > I sipped my coffee, popped the last fragment of toast into my mouth, and signaled the waitress for my check.

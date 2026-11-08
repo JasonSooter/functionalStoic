@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Abbey of Santa Maria di Grottaferrata
-created: 2026-03-08
-modified: 2026-11-07T06:51:49.852Z
-published: 2026-11-07T06:51:49.852Z
 aliases:
   - Grottaferrata Abbey
+title: Abbey of Santa Maria di Grottaferrata
+created: 2026-03-08
+modified: 2026-11-07T06:51:50.000Z
+published: 2026-11-07T06:51:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Abbey of Santa Maria di Grottaferrata.svg
 books:
   - "[[It's All About the Bike]]"
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 41.7857
   - 12.6668
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Lazio]]"
 image: Attachments/Places/Abbey of Santa Maria di Grottaferrata.svg
 ---
@@ -36,7 +37,7 @@ Greek-rite monastery in Grottaferrata, in the hills south-east of Rome, [[Lazio]
 |---|---|---|---|
 | [[It's All About the Bike\|It's All About the Bike: In Pursuit of Happiness on Two Wheels]] | Robert Penn | subject | Site of the Leonardo bicycle-sketch hoax. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7857&mlon=12.6668#map=16/41.7857/12.6668) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.7857,12.6668)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7857\&mlon=12.6668#map=16/41.7857/12.6668) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.7857,12.6668)
 
 ## It's All About the Bike: In Pursuit of Happiness on Two Wheels — Robert Penn (2010)
 

@@ -2,8 +2,13 @@
 publish: true
 title: Scarsdale High School
 created: 2025-12-01
-modified: 2026-11-07T06:53:29.011Z
-published: 2026-11-07T06:53:29.011Z
+modified: 2026-11-07T06:53:29.000Z
+published: 2026-11-07T06:53:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Scarsdale High School.svg
 aliases: []
 books:
   - Get Phones Out of Schools Now
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 40.9947
   - -73.7931
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Scarsdale High School.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Scarsdale High School.svg
 High school in Scarsdale, New York. Jonathan Haidt returns there to lecture and hears about phones in class.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Get Phones Out of Schools Now | Jonathan Haidt | setting | Haidt hears from his old school's leaders about rising mental illness and phones. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.9947&mlon=-73.7931#map=16/40.9947/-73.7931) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.9947,-73.7931)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.9947\&mlon=-73.7931#map=16/40.9947/-73.7931) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.9947,-73.7931)
 
 ## Get Phones Out of Schools Now — Jonathan Haidt (2023)
+
 Source: [Original](https://www.theatlantic.com/ideas/archive/2023/06/ban-smartphones-phone-free-schools-social-media/674304/) · [Readwise highlight](https://read.readwise.io/read/01m5f1w639xebfqvjqsj10prs2)
 
 > In May 2019, I was invited to give a lecture at my old high school in Scarsdale, New York. Before the talk, I met with the principal and his top administrators.

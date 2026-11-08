@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Chenab Bridge
-created: 2026-02-25
-modified: 2026-11-07T06:54:46.637Z
-published: 2026-11-07T06:54:46.637Z
 aliases:
   - Chenab Rail Bridge
+title: Chenab Bridge
+created: 2026-02-25
+modified: 2026-11-07T06:54:47.000Z
+published: 2026-11-07T06:54:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chenab Bridge.svg
 books:
   - India Built the World's Most Remote Bridge
 categories:
@@ -16,10 +21,6 @@ icon: video
 location:
   - 33.1508
   - 74.8831
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Chenab Bridge.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Chenab Bridge.svg
 Steel arch railway bridge over the Chenab gorge near Reasi, Jammu and Kashmir, [[India]], the subject of a B1M video on building it in extreme terrain.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[India Built the World's Most Remote Bridge]] | The B1M | subject | A canyon arch built in heat, cold, wind and earthquake country. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.1508&mlon=74.8831#map=16/33.1508/74.8831) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.1508,74.8831)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.1508\&mlon=74.8831#map=16/33.1508/74.8831) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.1508,74.8831)
 
 ## India Built the World's Most Remote Bridge — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=O-9WRcYlu7g) · [Readwise highlight](https://read.readwise.io/read/01m5c4q2kbb08qmt4f5c6t2hp8)
 
 > Deep in the foothills of the Himalayas, temperatures near Reasi vary in the extremes dropping from 50 degrees celsius all the way down to freezing.

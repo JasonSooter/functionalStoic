@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Dorchester on Thames
-created: 2025-04-19
-modified: 2026-11-07T07:03:24.341Z
-published: 2026-11-07T07:03:24.341Z
 aliases:
   - Dorchester-on-Thames
+title: Dorchester on Thames
+created: 2025-04-19
+modified: 2026-11-07T07:03:24.000Z
+published: 2026-11-07T07:03:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Dorchester on Thames.svg
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.644
   - -1.166
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oxfordshire]]"
 image: Attachments/Places/Dorchester on Thames.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Dorchester on Thames.svg
 Village near the Thames and the Thame in [[Oxfordshire]], once a Roman town and early capital of Wessex. Three Men in a Boat calls it 'delightfully peaceful'.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | Reached by a walk from Day's lock; 'nestling in stillness and silence and drowsiness'. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.644&mlon=-1.166#map=16/51.644/-1.166) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.644,-1.166)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.644\&mlon=-1.166#map=16/51.644/-1.166) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.644,-1.166)
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkz61mbfdd5km130v67jh4)
 
 > Dorchester is a delightfully peaceful old place, nestling in stillness and silence and drowsiness.

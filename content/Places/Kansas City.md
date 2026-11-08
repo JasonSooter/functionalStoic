@@ -1,28 +1,28 @@
 ---
 publish: true
-title: Kansas City
-created: 2025-05-28
-modified: 2026-11-07T06:57:07.828Z
-published: 2026-11-07T06:57:07.828Z
 aliases:
   - KC
+title: Kansas City
+created: 2025-05-28
+modified: 2026-11-07T06:57:08.000Z
+published: 2026-11-07T06:57:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kansas City.svg
 books:
   - KC Audax UAF 600k
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 39.1001,-94.5781
-geo_note: Kansas City, Missouri assumed (not stated); Kansas City, Kansas is a relation
-  alternative at 39.1135,-94.6265.
+geo_note: Kansas City, Missouri assumed (not stated); Kansas City, Kansas is a relation alternative at 39.1135,-94.6265.
 geo_source: OSM relation 141008
 icon: newspaper
 location:
   - 39.1001
   - -94.5781
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Missouri]]"
 image: Attachments/Places/Kansas City.svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/Kansas City.svg
 City on the Missouri River in [[Missouri]], USA, the base of the Audax 600k ride described in a Mostly Bikes x Me post.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[KC Audax UAF 600k]] | Mostly Bikes x Me | setting | A two-day 600k Audax ride run by Kansas City hosts, with perfect Saturday weather and steady rain and headwinds on Sunday. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.1001&mlon=-94.5781#map=16/39.1001/-94.5781) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.1001,-94.5781)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.1001\&mlon=-94.5781#map=16/39.1001/-94.5781) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.1001,-94.5781)
 
 ## KC Audax UAF 600k — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/14605654649.html) · [Readwise highlight](https://read.readwise.io/read/01m5dqyf6c1fggrtp6mb7gedne)
 
 > The route was pretty, and most roads were low traffic, but the real standout was our Kansas City Audax hosts.

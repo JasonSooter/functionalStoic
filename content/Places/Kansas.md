@@ -2,8 +2,13 @@
 publish: true
 title: Kansas
 created: 2026-10-23
-modified: 2026-11-07T17:11:11.696Z
-published: 2026-11-07T17:11:11.696Z
+modified: 2026-11-07T17:11:12.000Z
+published: 2026-11-07T17:11:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kansas.svg
 aliases: []
 books:
   - The Wonderful Wizard of Oz
@@ -16,10 +21,6 @@ icon: book
 location:
   - 38.2731
   - -98.5822
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Kansas.svg
 ---
 
@@ -28,11 +29,12 @@ image: Attachments/Places/Kansas.svg
 U.S. state on the Great Plains. It is Dorothy's grey prairie home in _The Wonderful Wizard of Oz_, the place the whole book tries to get back to.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Wonderful Wizard of Oz | L. Frank Baum | setting | Dorothy's grey prairie home, lifted away by the cyclone and returned to at the end. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.2731&mlon=-98.5822#map=11/38.2731/-98.5822) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.2731,-98.5822)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.2731\&mlon=-98.5822#map=11/38.2731/-98.5822) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.2731,-98.5822)
 
 ## Sub-places
 
@@ -41,6 +43,7 @@ U.S. state on the Great Plains. It is Dorothy's grey prairie home in _The Wonder
 - [[University of Kansas]]
 
 ## The Wonderful Wizard of Oz — L. Frank Baum (1900)
+
 Source: [Original](https://openlibrary.org/works/OL18417W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5gmhqe6jpd0favn17jfa)
 
 > Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Royal Oaks (Youngstown)
-created: 2026-10-23T02:03:08.000Z
-modified: 2026-11-07T07:01:49.019Z
-published: 2026-11-07T07:01:49.019Z
+created: 2017-05-22
+modified: 2026-11-07T07:01:49.000Z
+published: 2026-11-07T07:01:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Royal Oaks (Youngstown).svg
 aliases: []
 books:
   - A World Without Work
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 41.1009
   - -80.6328
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Youngstown, Ohio]]"
 image: Attachments/Places/Royal Oaks (Youngstown).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Royal Oaks (Youngstown).svg
 Blue-collar dive bar a mile east of downtown Youngstown, Ohio. Derek Thompson finds it full of men living without steady jobs.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A World Without Work | Derek Thompson | setting | At 5:30 p.m. on a Wednesday the dive bar is nearly full of middle-aged men, many without steady jobs. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.1009&mlon=-80.6328#map=16/41.1009/-80.6328) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.1009,-80.6328)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.1009\&mlon=-80.6328#map=16/41.1009/-80.6328) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.1009,-80.6328)
 
 ## A World Without Work — Derek Thompson (2015)
+
 Source: [Original](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/) · [Readwise highlight](https://read.readwise.io/read/01m5k7f3fa14497182wdjaka6t)
 
 > One mile to the east of downtown Youngstown, in a brick building surrounded by several empty lots, is Royal Oaks, an iconic blue-collar dive.

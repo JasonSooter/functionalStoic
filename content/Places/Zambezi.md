@@ -1,28 +1,28 @@
 ---
 publish: true
-title: Zambezi
-created: 2024-10-04
-modified: 2026-11-07T07:02:44.400Z
-published: 2026-11-07T07:02:44.400Z
 aliases:
   - Zambezi River
+title: Zambezi
+created: 2024-10-04
+modified: 2026-11-07T07:02:44.000Z
+published: 2026-11-07T07:02:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Zambezi.svg
 books:
   - Life on Air
 categories:
   - "[[Places]]"
 color: purple
 coordinates: -18.5706,36.4703
-geo_note: approximate (article title point, river type, in lower Zambezi/Mozambique;
-  source point -11.3697,24.3083 in Zambia)
+geo_note: approximate (article title point, river type, in lower Zambezi/Mozambique; source point -11.3697,24.3083 in Zambia)
 geo_source: Wikipedia (en) (Zambezi)
 icon: book
 location:
   - -18.5706
   - 36.4703
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Zambezi.svg
 ---
 
@@ -31,13 +31,15 @@ image: Attachments/Places/Zambezi.svg
 River of southern Africa flowing from Zambia to the Indian Ocean in Mozambique; the source-to-mouth journey of a BBC series in _Life on Air_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | subject | The source-to-mouth journey of a BBC series. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-18.5706&mlon=36.4703#map=10/-18.5706/36.4703) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-18.5706,36.4703)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-18.5706\&mlon=36.4703#map=10/-18.5706/36.4703) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-18.5706,36.4703)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2m35nayze3rdyww1d74k)
 
 > a journey down the Zambezi from source to mouth.

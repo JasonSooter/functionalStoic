@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Magna Carta Island
-created: 2025-04-19
-modified: 2026-11-07T06:52:57.840Z
-published: 2026-11-07T06:52:57.840Z
 aliases:
   - Magna Charta Island
+title: Magna Carta Island
+created: 2025-04-19
+modified: 2026-11-07T06:52:58.000Z
+published: 2026-11-07T06:52:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Magna Carta Island.svg
 books:
   - "[[Exploration of Three Men in a Boat]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.4462
   - -0.5629
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berkshire]]"
 image: Attachments/Places/Magna Carta Island.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Magna Carta Island.svg
 Small Thames island opposite [[Runnymede]], traditionally linked to the sealing of Magna Carta. Three Men in a Boat ends its Runnymede daydream with the royal barges grounding on its bank.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | subject | The narrator's daydream ends with the barges grating against the island 'that from this day will bear the name of Magna Charta Island'. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.4462&mlon=-0.5629#map=16/51.4462/-0.5629) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4462,-0.5629)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.4462\&mlon=-0.5629#map=16/51.4462/-0.5629) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.4462,-0.5629)
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gky2ws7tce2k5kkcycgak6)
 
 > they grate against the bank of the little island that from this day will bear the name of Magna Charta Island.

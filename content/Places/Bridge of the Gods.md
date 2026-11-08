@@ -2,8 +2,13 @@
 publish: true
 title: Bridge of the Gods
 created: 2015-11-28
-modified: 2026-11-07T07:02:13.054Z
-published: 2026-11-07T07:02:13.054Z
+modified: 2026-11-07T07:02:13.000Z
+published: 2026-11-07T07:02:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bridge of the Gods.svg
 aliases: []
 books:
   - Hiking the 2,650-Mile Pacific Crest Trail
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 45.6623
   - -121.9012
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oregon]]"
 image: Attachments/Places/Bridge of the Gods.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Bridge of the Gods.svg
 Steel bridge over the Columbia River between Cascade Locks, Oregon, and Washington, the Pacific Crest Trail's lowest point. In a Priceonomics story it is the hikers' crossing into Washington.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Hiking the 2,650-Mile Pacific Crest Trail | Priceonomics | journey waypoint | Crossing into Washington for the last 500 miles. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.6623&mlon=-121.9012#map=16/45.6623/-121.9012) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.6623,-121.9012)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.6623\&mlon=-121.9012#map=16/45.6623/-121.9012) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=45.6623,-121.9012)
 
 ## Hiking the 2,650-Mile Pacific Crest Trail — Priceonomics (2015)
+
 Source: [Original](http://priceonomics.com/hiking-the-2650-mile-pacific-crest-trail/) · [Readwise highlight](https://read.readwise.io/read/01m5fzc54jb872scn7713yebp8)
 
 > In less than a month, they had crossed the Bridge of the Gods into Washington, and faced the final 500-mile crawl to the Canadian border.

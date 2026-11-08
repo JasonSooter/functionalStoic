@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Café Central
-created: 2026-08-26
-modified: 2026-11-07T06:51:31.238Z
-published: 2026-11-07T06:51:31.238Z
 aliases:
   - Cafe Central
+title: Café Central
+created: 2026-08-26
+modified: 2026-11-07T06:51:31.000Z
+published: 2026-11-07T06:51:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Café Central.svg
 books:
   - Neither Here Nor There
 categories:
@@ -16,10 +21,6 @@ icon: book
 location:
   - 48.2103
   - 16.3653
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vienna]]"
 image: Attachments/Places/Café Central.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Café Central.svg
 Historic coffee house in the Palais Ferstel, [[Vienna|Vienna]], Austria; in Neither Here Nor There it is one of the famous cafés that disappoint Bryson.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | Trotsky's old café: atmosphere, but dear coffee and indifferent service. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2103&mlon=16.3653#map=16/48.2103/16.3653) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.2103,16.3653)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2103\&mlon=16.3653#map=16/48.2103/16.3653) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.2103,16.3653)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bek6cc641d92jyrqd00gqc)
 
 > Even the Café Central, where Trotsky used to hang out, sitting for long hours every day doing nothing, was a disappointment.

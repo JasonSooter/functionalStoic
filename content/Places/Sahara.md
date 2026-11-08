@@ -2,8 +2,13 @@
 publish: true
 title: Sahara
 created: 2026-06-13
-modified: 2026-11-07T07:02:44.344Z
-published: 2026-11-07T07:02:44.344Z
+modified: 2026-11-07T07:02:44.000Z
+published: 2026-11-07T07:02:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sahara.svg
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 23
   - 13
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Sahara.svg
 ---
 
@@ -29,16 +30,19 @@ image: Attachments/Places/Sahara.svg
 The great desert of North Africa. In Project Hail Mary Redell proposes paving a quarter of it with Astrophage-breeding blackpanels.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | subject | Redell argues the Sahara's sunlight makes it the place to build power and Astrophage-breeding blackpanels, proposing to cover roughly a… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=23&mlon=13#map=11/23/13) · [Google Maps](https://www.google.com/maps/search/?api=1&query=23,13)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=23\&mlon=13#map=11/23/13) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=23,13)
 
 ## Sub-places
+
 _None yet._
 
 ## Project Hail Mary — Andy Weir (2021)
+
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvstn6py5qtft3z8gcxvpb)
 
 > Africa needs infrastructure. To do that, they need power. And they have nine million square kilometers of useless land that gets some of the most intense continuous sunlight on Earth.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Old Windsor
-created: 2026-10-22T01:44:31.000Z
-modified: 2026-11-07T06:52:26.074Z
-published: 2026-11-07T06:52:26.074Z
+created: 2025-04-19
+modified: 2026-11-07T06:52:26.000Z
+published: 2026-11-07T06:52:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Old Windsor.svg
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 51.46
   - -0.586
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berkshire]]"
 image: Attachments/Places/Old Windsor.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Old Windsor.svg
 Village on the Thames below Windsor in [[Berkshire]], site of Edward the Confessor's palace. Three Men in a Boat rows past it and recalls its history.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | backdrop | The stretch to Old Windsor lock is 'delightful'; the village recalls Edward the Confessor and Earl Godwin choking on bread. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.46&mlon=-0.586#map=16/51.46/-0.586) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.46,-0.586)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.46\&mlon=-0.586#map=16/51.46/-0.586) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.46,-0.586)
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gky4wpdkg3vda02afyfjjn)
 
 > Old Windsor is a famous spot in its way.

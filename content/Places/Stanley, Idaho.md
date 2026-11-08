@@ -2,8 +2,13 @@
 publish: true
 title: Stanley, Idaho
 created: 2023-02-22
-modified: 2026-11-07T06:58:16.083Z
-published: 2026-11-07T06:58:16.083Z
+modified: 2026-11-07T06:58:16.000Z
+published: 2026-11-07T06:58:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stanley, Idaho.svg
 aliases: []
 books:
   - The Women's Marches may have been the largest demonstration in US history
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 44.215
   - -114.9364
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Idaho]]"
 image: Attachments/Places/Stanley, Idaho.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Stanley, Idaho.svg
 Tiny mountain town in the Sawtooth country of central Idaho. In a Vox piece on the 2017 Women's Marches it stands for how far the protests reached: nearly half of its 63 residents marched.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Women's Marches may have been the largest demonstration in US history | Sarah Frostenson | subject | Held up as an example of the small-town end of the marches: the town has 63 residents and about 30 turned out. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.215&mlon=-114.9364#map=16/44.215/-114.9364) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.215,-114.9364)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.215\&mlon=-114.9364#map=16/44.215/-114.9364) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.215,-114.9364)
 
 ## The Women's Marches may have been the largest demonstration in US history — Sarah Frostenson (2017)
+
 Source: [Original](https://www.vox.com/2017/1/22/14350808/womens-marches-largest-demonstration-us-history-map) · [Readwise highlight](https://read.readwise.io/read/01m5k5q85v0kxta5wgefwmpx5a)
 
 > She and Pressman received data from places like Stanley, Idaho (population of 63), where nearly half the town — 30 people — came out to protest, including resident celebrity Carole King.

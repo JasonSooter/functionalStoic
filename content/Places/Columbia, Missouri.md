@@ -2,8 +2,13 @@
 publish: true
 title: Columbia, Missouri
 created: 2016-03-18
-modified: 2026-11-07T06:58:00.903Z
-published: 2026-11-07T06:58:00.903Z
+modified: 2026-11-07T06:58:01.000Z
+published: 2026-11-07T06:58:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Columbia, Missouri.svg
 aliases: []
 books:
   - How Zapier Went From Zero to 600,000+ Users in Just Three Years
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 38.9475
   - -92.3267
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Missouri]]"
 image: Attachments/Places/Columbia, Missouri.svg
 ---
@@ -29,17 +30,19 @@ image: Attachments/Places/Columbia, Missouri.svg
 University city in central Missouri; Zapier's founders bootstrap the company there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Zapier Went From Zero to 600,000+ Users in Just Three Years | Groove | setting | Zapier's founders bootstrap the company there. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9475&mlon=-92.3267#map=11/38.9475/-92.3267) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9475,-92.3267)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9475\&mlon=-92.3267#map=11/38.9475/-92.3267) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.9475,-92.3267)
 
 ## Sub-places
 
 - [[University of Missouri]]
 
 ## How Zapier Went From Zero to 600,000+ Users in Just Three Years — Groove (2015)
+
 Source: [Original](https://www.groovehq.com/blog/zapier-interview-with-wade-foster) · [Readwise highlight](https://read.readwise.io/read/01m5hy732x93ta6e01yw5yz9ws)
 
 > We wanted to make a go of it and turn it into a business, but we were in Columbia, Missouri.

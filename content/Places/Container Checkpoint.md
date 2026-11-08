@@ -2,8 +2,13 @@
 publish: true
 title: Container Checkpoint
 created: 2024-12-21
-modified: 2026-11-07T06:58:16.743Z
-published: 2026-11-07T06:58:16.743Z
+modified: 2026-11-07T06:58:17.000Z
+published: 2026-11-07T06:58:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Container Checkpoint.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 31.7422
   - 35.2893
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Bank]]"
 image: Attachments/Places/Container Checkpoint.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Container Checkpoint.svg
 Israeli checkpoint on the road east of Jerusalem, in the West Bank. A turning point in Colum McCann's _Apeirogon_: Internal West Bank checkpoint where Bassam is waved through on his night drive while another driver's day is ruined.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | turning point | Internal West Bank checkpoint where Bassam is waved through on his night drive while another driver's day is ruined |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7422&mlon=35.2893#map=16/31.7422/35.2893) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7422,35.2893)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7422\&mlon=35.2893#map=16/31.7422/35.2893) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.7422,35.2893)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqzexksvhj9asc2xaxm8d)
 
 > The Container Checkpoint—named for a small grocery store that was once housed in a shipping container at the side of the road—is an internal checkpoint, separating one area of the West Bank from the other, so that when it is closed down, the West Bank is sliced in two.

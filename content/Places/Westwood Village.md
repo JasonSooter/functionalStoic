@@ -2,8 +2,13 @@
 publish: true
 title: Westwood Village
 created: 2024-05-18
-modified: 2026-11-07T07:00:34.746Z
-published: 2026-11-07T07:00:34.746Z
+modified: 2026-11-07T07:00:35.000Z
+published: 2026-11-07T07:00:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Westwood Village.svg
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 34.0561,-118.4297
-geo_note: approximate (Westwood neighborhood point; the Village is the commercial
-  core)
+geo_note: approximate (Westwood neighborhood point; the Village is the commercial core)
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 34.0561
   - -118.4297
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Westwood Village.svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Westwood Village.svg
 Westwood Village is the commercial core of Westwood in Los Angeles. It turns up in Walkable City (Jeff Speck): It is the failure half of the comparison.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Westwood Village cut on-street parking prices in half and kept a replacement-parking requirement, so cruisers burned 426 vehicle hours a… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0561&mlon=-118.4297#map=10/34.0561/-118.4297) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0561,-118.4297)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0561\&mlon=-118.4297#map=10/34.0561/-118.4297) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.0561,-118.4297)
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbk7ntkjsrk6yvd6ddm0vd)
 
 > What happened over the next decade was as shocking in reality as it was predictable in theory. Old Pasadena staged a brilliant revival, while Westwood Village entered a steady economic decline that continues to this day.

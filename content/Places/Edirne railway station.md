@@ -2,8 +2,13 @@
 publish: true
 title: Edirne railway station
 created: 2026-03-28
-modified: 2026-11-07T07:05:04.546Z
-published: 2026-11-07T07:05:04.546Z
+modified: 2026-11-07T07:05:05.000Z
+published: 2026-11-07T07:05:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Edirne railway station.svg
 aliases: []
 books:
   - This Legendary Night Train is FINALLY bookable !
@@ -15,10 +20,6 @@ icon: video
 location:
   - 41.6554
   - 26.5802
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Edirne]]"
 image: Attachments/Places/Edirne railway station.svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/Edirne railway station.svg
 Main railway station of [[Edirne]] in Turkish Thrace; it appears in a Simply Railway video on a night train where border control into Bulgaria now takes place.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[This Legendary Night Train Is FINALLY Bookable !\|This Legendary Night Train is FINALLY bookable !]] | Simply Railway | turning point | Turkish border control, now moved here from Kapıkule, with a three-hour wait. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.6554&mlon=26.5802#map=16/41.6554/26.5802) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.6554,26.5802)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.6554\&mlon=26.5802#map=16/41.6554/26.5802) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.6554,26.5802)
 
 ## This Legendary Night Train is FINALLY bookable ! — Simply Railway (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=hhGnBrXlmbQ) · [Readwise highlight](https://read.readwise.io/read/01m5c3pbr2pm56t0p822s08geb)
 
 > In the past (and in my previous video), this was done in Kapıkule, but it’s now done in Edirne.

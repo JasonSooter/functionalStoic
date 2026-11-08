@@ -2,8 +2,13 @@
 publish: true
 title: Kyzyl
 created: 2024-10-04
-modified: 2026-11-07T06:59:32.789Z
-published: 2026-11-07T06:59:32.789Z
+modified: 2026-11-07T06:59:33.000Z
+published: 2026-11-07T06:59:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kyzyl.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - 51.7167
   - 94.45
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Kyzyl.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Kyzyl.svg
 Capital of Tuva in southern Siberia; in _Life on Air_ the start of a failed hamster-pheromone shoot on the steppe.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The start of a failed hamster-pheromone shoot on the steppe. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.7167&mlon=94.45#map=16/51.7167/94.45) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.7167,94.45)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.7167\&mlon=94.45#map=16/51.7167/94.45) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.7167,94.45)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8s2hz3tq0c4c207t7nj9)
 
 > We flew to Moscow. The next day we t9ok an immensely long flight to a city I had never heard of (Kyzyl) , in a Soviet State (Tuva) that until then I did not know existed.

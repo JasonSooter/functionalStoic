@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Queiq River
-created: 2026-10-23T04:41:33.000Z
-modified: 2026-11-07T06:58:13.182Z
-published: 2026-11-07T06:58:13.182Z
 aliases:
   - Queiq
   - Quweiq River
+title: Queiq River
+created: 2025-05-01
+modified: 2026-11-07T06:58:13.000Z
+published: 2026-11-07T06:58:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Queiq River.svg
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 36.1957
   - 37.1423
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Aleppo]]"
 image: Attachments/Places/Queiq River.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Queiq River.svg
 River that runs through Aleppo, Syria. In _The Beekeeper of Aleppo_ it runs below Nuri's house, and the bodies of executed men and boys are pulled from it in Bustan al-Qasr.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | turning point | Bodies of bound men and boys are pulled from the river in Bustan al-Qasr; Nuri finds Mustafa's son Firas among them. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.1957&mlon=37.1423#map=10/36.1957/37.1423) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.1957,37.1423)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.1957\&mlon=37.1423#map=10/36.1957/37.1423) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=36.1957,37.1423)
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
+
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgr44hk6wtmq82bedyyprk)
 
 > At the bottom of the hill was the Queiq. The last time I saw the river it was full of rubbish.

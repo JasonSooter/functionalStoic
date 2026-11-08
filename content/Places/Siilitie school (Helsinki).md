@@ -2,8 +2,13 @@
 publish: true
 title: Siilitie school (Helsinki)
 created: 2024-01-01
-modified: 2026-11-07T06:55:24.916Z
-published: 2026-11-07T06:55:24.916Z
+modified: 2026-11-07T06:55:25.000Z
+published: 2026-11-07T06:55:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Siilitie school (Helsinki).svg
 aliases: []
 books:
   - Why Are Finland’s Schools Successful?
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 60.2086,25.039
-geo_note: approximate (Siilitie street, Länsi-Herttoniemi; specific school unidentified;
-  Wikipedia en Siilitie metro station is 60.2053,25.0436)
+geo_note: approximate (Siilitie street, Länsi-Herttoniemi; specific school unidentified; Wikipedia en Siilitie metro station is 60.2053,25.0436)
 geo_source: OSM way 112892718
 icon: newspaper
 location:
   - 60.2086
   - 25.039
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Helsinki]]"
 image: Attachments/Places/Siilitie school (Helsinki).svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Siilitie school (Helsinki).svg
 School in the low-income Siilitie neighbourhood of east Helsinki. A Smithsonian piece on Finnish schools visits it as a second test.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Are Finland’s Schools Successful? | LynNell Hancock | setting | The author visits this school in a low-income Helsinki neighborhood, where half the students have learning disabilities, to test whether… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.2086&mlon=25.039#map=10/60.2086/25.039) · [Google Maps](https://www.google.com/maps/search/?api=1&query=60.2086,25.039)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.2086\&mlon=25.039#map=10/60.2086/25.039) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=60.2086,25.039)
 
 ## Why Are Finland’s Schools Successful? — LynNell Hancock (2011)
+
 Source: [Original](https://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/) · [Readwise highlight](https://read.readwise.io/read/01m5k8y94g426d9h76cbpp7b9e)
 
 > To get a second sampling, I headed east from Espoo to Helsinki and a rough neighborhood called Siilitie, Finnish for “Hedgehog Road” and known for having the oldest low-income housing project in Finland.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Camp Grounded
-created: 2020-01-19
-modified: 2026-11-07T06:52:16.609Z
-published: 2026-11-07T06:52:16.609Z
 aliases:
   - Digital Detox camp
+title: Camp Grounded
+created: 2020-01-19
+modified: 2026-11-07T06:52:17.000Z
+published: 2026-11-07T06:52:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Camp Grounded.svg
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 39.4692
   - -123.3942
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Camp Grounded.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Camp Grounded.svg
 Digital-detox summer camp for adults in Mendocino County, [[California]]; in How to Do Nothing Odell treats it as a case study of retreat being commercialised.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | subject | Levi Felix and Brooke Dean's adult digital detox camp: phone-sealing check-in, no clocks, stilt-walking, later corporate retreats. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.4692&mlon=-123.3942#map=10/39.4692/-123.3942) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.4692,-123.3942)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.4692\&mlon=-123.3942#map=10/39.4692/-123.3942) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.4692,-123.3942)
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5dqzvkvxwzmbkxkd35fygqz)
 
 > Compelled to share the mindfulness they had discovered abroad, they opened Camp Grounded, a digital detox summer camp for adults in Mendocino, California.

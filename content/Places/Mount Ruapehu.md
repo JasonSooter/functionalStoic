@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Mount Ruapehu
-created: 2026-10-23T11:14:39.000Z
-modified: 2026-11-07T06:59:30.733Z
-published: 2026-11-07T06:59:30.733Z
 aliases:
   - Ruapehu
+title: Mount Ruapehu
+created: 2024-06-03
+modified: 2026-11-07T06:59:31.000Z
+published: 2026-11-07T06:59:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mount Ruapehu.svg
 books:
   - "[[The Hobbit]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -39.28
   - 175.57
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Zealand]]"
 image: Attachments/Places/Mount Ruapehu.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Mount Ruapehu.svg
 Mount Ruapehu is an active volcano and the highest peak of New Zealand's North Island, in Tongariro National Park. It is pinned for _The Hobbit_ because it is reported as the stand-in for the Lonely Mountain in Peter Jackson's films; it is not a place in the book.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | setting | Volcano reported as the Lonely Mountain's stand-in in Jackson's films; not a place in the book. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-39.28&mlon=175.57#map=16/-39.28/175.57) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-39.28,175.57)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-39.28\&mlon=175.57#map=16/-39.28/175.57) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-39.28,175.57)
 
 ## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
+
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m77e3e61qfzjf0fpvbmqe4)
 
 > The Mountain lay dark and silent before them and ever higher above them.

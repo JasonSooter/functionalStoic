@@ -1,11 +1,16 @@
 ---
 publish: true
-title: IIT Delhi
-created: 2016-07-11
-modified: 2026-11-07T06:53:07.005Z
-published: 2026-11-07T06:53:07.005Z
 aliases:
   - Indian Institute of Technology Delhi
+title: IIT Delhi
+created: 2016-07-11
+modified: 2026-11-07T06:53:07.000Z
+published: 2026-11-07T06:53:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/IIT Delhi.svg
 books:
   - I found inspiration in India – Bill Gates
   - The inside story of Facebook’s biggest setback
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 28.545
   - 77.1922
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Delhi]]"
 image: Attachments/Places/IIT Delhi.svg
 ---
@@ -37,9 +38,10 @@ IIT Delhi is the Delhi campus of the Indian Institutes of Technology. It turns u
 | I found inspiration in India – Bill Gates | Bill Gates | journey waypoint | Gates visits the New Delhi IIT campus and talks with students and faculty brimming with ideas and optimism. |
 | The inside story of Facebook’s biggest setback | Rahul Bhatia | turning point | After the stage talk, Zuckerberg meets Indian online entrepreneurs in a closed-door room |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.545&mlon=77.1922#map=16/28.545/77.1922) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.545,77.1922)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.545\&mlon=77.1922#map=16/28.545/77.1922) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=28.545,77.1922)
 
 ## I found inspiration in India – Bill Gates — Bill Gates (2024)
+
 Source: [Original](https://www.gatesnotes.com/I-found-inspiration-in-India) · [Readwise highlight](https://read.readwise.io/read/01m5fcnnm1kebbzr3jk0251v5m)
 
 > my visit to the New Delhi campus of the Indian Institutes of Technology was no exception.
@@ -49,6 +51,7 @@ Source: [Original](https://www.gatesnotes.com/I-found-inspiration-in-India) · [
 - **Why it matters:** A short stop that carries the post's optimism about Indian innovation; a minor waypoint.
 
 ## The inside story of Facebook’s biggest setback — Rahul Bhatia (2016)
+
 Source: [Original](https://www.theguardian.com/technology/2016/may/12/facebook-free-basics-india-zuckerberg) · [Readwise highlight](https://read.readwise.io/read/01m5jvmp3nnpbewcc9jybgbasp)
 
 > At the prestigious Indian Institute of Technology in New Delhi, Zuckerberg sauntered on to a stage and gave woolly answers to the softest of pre-selected questions.

@@ -1,16 +1,19 @@
 ---
 publish: true
-title: Aspern Seestadt
-created: 2024-08-09
-modified: 2026-11-07T06:55:35.205Z
-published: 2026-11-07T06:55:35.205Z
 aliases:
   - aspern Die Seestadt Wiens
   - Seestadt Aspern
+title: Aspern Seestadt
+created: 2024-08-09
+modified: 2026-11-07T06:55:35.000Z
+published: 2026-11-07T06:55:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Aspern Seestadt.svg
 books:
-  - "[[Bookshelf/Highlights & Notes/Articles/Can Urban Design Have a Gender In This\
-    \ Vienna District, the Answer Is Yes. - The New York Times.md|Can Urban Design\
-    \ Have a Gender?]]"
+  - "[[Bookshelf/Highlights & Notes/Articles/Can Urban Design Have a Gender In This Vienna District, the Answer Is Yes. - The New York Times.md|Can Urban Design Have a Gender?]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -20,10 +23,6 @@ icon: newspaper
 location:
   - 48.2259
   - 16.5082
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vienna]]"
 image: Attachments/Places/Aspern Seestadt.svg
 ---
@@ -33,17 +32,20 @@ image: Attachments/Places/Aspern Seestadt.svg
 Aspern Seestadt is a planned district in northeast Vienna. It turns up in Can Urban Design Have a Gender? In This Vienna District, the Answer Is Yes. - The New York Times (Valeriya Safronova): It is the subject of the article: the 'living model' of three decades of gender mainstreaming.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Can Urban Design Have a Gender In This Vienna District, the Answer Is Yes. - The New York Times.md\|Can Urban Design Have a Gender? In This Vienna District, the Answer Is Yes. - The New York Times]] | Valeriya Safronova | setting | The whole article is a tour of this unfinished planned community in northeast Vienna, built on a former airfield. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2259&mlon=16.5082#map=11/48.2259/16.5082) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.2259,16.5082)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2259\&mlon=16.5082#map=11/48.2259/16.5082) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.2259,16.5082)
 
 ## Sub-places
+
 - [[Seestadtsee]]
 - [[Sonnenallee (Vienna)]]
 
 ## Can Urban Design Have a Gender? In This Vienna District, the Answer Is Yes. - The New York Times — Valeriya Safronova (2024)
+
 Source: [[Bookshelf/Highlights & Notes/Articles/Can Urban Design Have a Gender In This Vienna District, the Answer Is Yes. - The New York Times.md|Can Urban Design Have a Gender?]] · [Original](https://www.nytimes.com/2024/07/17/realestate/vienna-aspern-seestadt-gender.html) · [Readwise highlight](https://read.readwise.io/read/01m5fbhzrabhnb356xng89x1w5)
 
 > On a sunny afternoon this spring, Eva Kail stood outside the gleaming subway station in Aspern Seestadt, a sprawling planned community in northeast Vienna that she essentially manifested from an idea into a real place.

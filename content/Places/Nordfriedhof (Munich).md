@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Nordfriedhof (Munich)
-created: 2026-10-20T07:52:59.000Z
-modified: 2026-11-07T07:03:05.298Z
-published: 2026-11-07T07:03:05.298Z
 aliases:
   - Northern Cemetery
   - Nordfriedhof
+title: Nordfriedhof (Munich)
+created: 2026-07-06
+modified: 2026-11-07T07:03:05.000Z
+published: 2026-11-07T07:03:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Nordfriedhof (Munich).svg
 books:
   - "[[Death in Venice]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 48.175
   - 11.6028
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Munich]]"
 image: Attachments/Places/Nordfriedhof (Munich).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Nordfriedhof (Munich).svg
 Munich's Northern Cemetery on Ungererstraße, Schwabing ([[Munich]]), where in Death in Venice a stranger at the mortuary chapel sparks Aschenbach's urge to travel.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Death in Venice]] | Thomas Mann | turning point | A stranger at the mortuary chapel sparks Aschenbach's sudden urge to travel. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.175&mlon=11.6028#map=16/48.175/11.6028) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.175,11.6028)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.175\&mlon=11.6028#map=16/48.175/11.6028) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.175,11.6028)
 
 ## Death in Venice — Thomas Mann (1912)
+
 Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5c4pr43t5p45bmg88vpe50s)
 
 > At Aumeister, to which he had been led by ever more solitary paths, Aschenbach briefly scanned the crowded and lively open-air restaurant and the cabs and carriages along its edge, then, the sun beginning to sink, headed home across the open fields beyond the park, but feeling tired and noticing a storm brewing over Föhring, he stopped at the Northern Cemetery to wait for the tram that would take him straight back to town.

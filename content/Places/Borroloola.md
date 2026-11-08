@@ -2,8 +2,13 @@
 publish: true
 title: Borroloola
 created: 2024-10-04
-modified: 2026-11-07T07:01:50.267Z
-published: 2026-11-07T07:01:50.267Z
+modified: 2026-11-07T07:01:50.000Z
+published: 2026-11-07T07:01:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Borroloola.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ image: Attachments/Places/Borroloola.svg
 location:
   - -16.0703
   - 136.3072
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Northern Territory]]"
 ---
 
@@ -29,13 +30,15 @@ within: "[[Northern Territory]]"
 Remote town on the McArthur River, Northern Territory; in _Life on Air_ a near-ghost town of three eccentrics.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | subject | A near-ghost town of three eccentrics. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-16.0703&mlon=136.3072#map=16/-16.0703/136.3072) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-16.0703,136.3072)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-16.0703\&mlon=136.3072#map=16/-16.0703/136.3072) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-16.0703,136.3072)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2gq1vm2wj7cf1gqehq33)
 
 > Aborigines are not the only people living in the remote parts of the Australian outback. A few Europeans also choose to do so. We heard of three who had settled in the derelict town of Borroloola, two hundred and fifty miles south of Maningrida where the MacArthur River flows into the Gulf of Carpentaria.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Reeperbahn
-created: 2026-10-19T22:24:14.000Z
-modified: 2026-11-07T06:59:36.573Z
-published: 2026-11-07T06:59:36.573Z
 aliases:
   - Grosse Freiheit
   - Kaiserkeller
+title: Reeperbahn
+created: 2026-08-26
+modified: 2026-11-07T06:59:37.000Z
+published: 2026-11-07T06:59:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Reeperbahn.svg
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 53.5494
   - 9.9622
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hamburg]]"
 image: Attachments/Places/Reeperbahn.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Reeperbahn.svg
 Nightlife street of St. Pauli in [[Hamburg]], with the side street Grosse Freiheit, which Bill Bryson finds disappointingly tame in Neither Here Nor There.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | Hamburg's "avenue of sin", comically tame by daylight. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.5494&mlon=9.9622#map=16/53.5494/9.9622) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.5494,9.9622)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.5494\&mlon=9.9622#map=16/53.5494/9.9622) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=53.5494,9.9622)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b43qwdhkp75qr45fw2b1fs)
 
 > I walked a few hundred yards inland and uphill to the Reeperbahn, that famed mile-long avenue of sin. It looked disappointingly unlusty.

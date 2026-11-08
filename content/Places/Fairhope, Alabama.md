@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Fairhope, Alabama
-created: 2015-11-28
-modified: 2026-11-07T06:53:10.193Z
-published: 2026-11-07T06:53:10.193Z
 aliases:
   - Fairhope
+title: Fairhope, Alabama
+created: 2015-11-28
+modified: 2026-11-07T06:53:10.000Z
+published: 2026-11-07T06:53:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Fairhope, Alabama.svg
 books:
   - "The Friend: Love Is Not a Big Enough Word"
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 30.4917
   - -87.8778
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alabama]]"
 image: Attachments/Places/Fairhope, Alabama.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Fairhope, Alabama.svg
 Small town on Mobile Bay, Alabama. In Matthew Teague's Esquire essay it is where his wife Nicole is dying of cancer and his friend Dane moves in to help.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Friend: Love Is Not a Big Enough Word | Matthew Teague | setting | Home where Teague's wife is dying and his friend Dane moves in to help. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.4917&mlon=-87.8778#map=16/30.4917/-87.8778) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.4917,-87.8778)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.4917\&mlon=-87.8778#map=16/30.4917/-87.8778) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=30.4917,-87.8778)
 
 ## The Friend: Love Is Not a Big Enough Word — Matthew Teague (2015)
+
 Source: [Original](https://www.esquire.com/lifestyle/a34905/matthew-teague-wife-cancer-essay/) · [Readwise highlight](https://read.readwise.io/read/01m5g0e8tqnvn8tjgd2vmz405s)
 
 > we were living in a small town called Fairhope, Alabama

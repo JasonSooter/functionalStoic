@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Rovaniemi
-created: 2026-10-20T07:55:04.000Z
-modified: 2026-11-07T07:01:31.103Z
-published: 2026-11-07T07:01:31.103Z
+created: 2026-01-23
+modified: 2026-11-07T07:01:31.000Z
+published: 2026-11-07T07:01:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Rovaniemi.svg
 aliases: []
 books:
   - Sleeping to the Arctic Circle on the Santa Claus Express
@@ -15,10 +20,6 @@ icon: video
 location:
   - 66.5
   - 25.733
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Finland]]"
 image: Attachments/Places/Rovaniemi.svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/Rovaniemi.svg
 Capital of Finnish Lapland, on the Arctic Circle; see [[Finland]]. It is the destination of Simply Railway's Santa Claus Express night-train video.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Sleeping to the Arctic Circle on the Santa Claus Express]] | Simply Railway | journey waypoint | The night train's destination, "the home of Santa Claus". |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=66.5&mlon=25.733#map=16/66.5/25.733) · [Google Maps](https://www.google.com/maps/search/?api=1&query=66.5,25.733)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=66.5\&mlon=25.733#map=16/66.5/25.733) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=66.5,25.733)
 
 ## Sleeping to the Arctic Circle on the Santa Claus Express — Simply Railway (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=PCsm7fM21z4) · [Readwise highlight](https://read.readwise.io/read/01m5c4qph71t5yf91nhmheza96)
 
 > Tonight I will be heading to Rovaniemi (aka the home of Santa Claus), just above the Arctic Circle!

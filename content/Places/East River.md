@@ -2,8 +2,13 @@
 publish: true
 title: East River
 created: 2025-11-23
-modified: 2026-11-07T07:04:50.155Z
-published: 2026-11-07T07:04:50.155Z
+modified: 2026-11-07T07:04:50.000Z
+published: 2026-11-07T07:04:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/East River.svg
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.7
   - -74.005
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/East River.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/East River.svg
 Tidal strait between Manhattan and Brooklyn–Queens in [[New York City]]; in Another Brooklyn it is where the narrator's family watches Fourth of July fireworks and Angela hints she will leave.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | setting | Fourth of July fireworks; Angela hints she will leave. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7&mlon=-74.005#map=10/40.7/-74.005) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7,-74.005)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7\&mlon=-74.005#map=10/40.7/-74.005) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.7,-74.005)
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Original](https://www.jacquelinewoodson.com/product/another-brooklyn/) · [Readwise highlight](https://read.readwise.io/read/01m5dcn61t49eh82xs4086s2ts)
 
 > On the Fourth of July, my father took all of us to the East River, where thousands of people crowded to watch fireworks explode above the water.

@@ -2,8 +2,13 @@
 publish: true
 title: Grimsby
 created: 2025-08-29
-modified: 2026-11-07T07:00:40.350Z
-published: 2026-11-07T07:00:40.350Z
+modified: 2026-11-07T07:00:40.000Z
+published: 2026-11-07T07:00:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Grimsby.svg
 aliases: []
 books:
   - "[[Cod]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 53.5675
   - -0.08
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 image: Attachments/Places/Grimsby.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Grimsby.svg
 Port town on the Humber estuary in Lincolnshire, England. In _Cod_ it and neighbouring Hull become the great steam-trawling ports.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | journey waypoint | With nearby Hull, a base for steam trawlers fishing the North Sea and Iceland, then a casualty of the Cod Wars. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.5675&mlon=-0.08#map=16/53.5675/-0.08) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.5675,-0.08)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.5675\&mlon=-0.08#map=16/53.5675/-0.08) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=53.5675,-0.08)
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
+
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kksp30xx5eker3gf89c1vz)
 
 > These cod grounds turned the twin ports of Hull and Grimsby on the Humber River, traditional fishing towns, into major ports.

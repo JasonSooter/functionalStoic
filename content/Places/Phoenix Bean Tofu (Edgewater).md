@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Phoenix Bean Tofu (Edgewater)
-created: 2026-10-22T23:16:35.000Z
-modified: 2026-11-07T06:54:56.466Z
-published: 2026-11-07T06:54:56.466Z
+created: 2023-02-22
+modified: 2026-11-07T06:54:56.000Z
+published: 2026-11-07T06:54:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Phoenix Bean Tofu (Edgewater).svg
 aliases: []
 books:
   - Soy You Bought a Tofu Factory
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 41.9819,-87.6594
-geo_note: approximate (OSM house at 1141 W Catalpa Ave, Edgewater, address taken from
-  note; business itself not found in OSM)
+geo_note: approximate (OSM house at 1141 W Catalpa Ave, Edgewater, address taken from note; business itself not found in OSM)
 geo_source: OSM way 23746399
 icon: newspaper
 location:
   - 41.9819
   - -87.6594
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Chicago]]"
 image: Attachments/Places/Phoenix Bean Tofu (Edgewater).svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Phoenix Bean Tofu (Edgewater).svg
 Tofu maker in Chicago's Edgewater neighbourhood. A Chicago family buys the business in "Soy You Bought a Tofu Factory".
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Soy You Bought a Tofu Factory | Wailin Wong | setting | Jenny Yang spots the storefront on the way home from a playground, buys tofu weekly, then buys the business and the building in 2007 |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.9819&mlon=-87.6594#map=10/41.9819/-87.6594) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.9819,-87.6594)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.9819\&mlon=-87.6594#map=10/41.9819/-87.6594) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.9819,-87.6594)
 
 ## Soy You Bought a Tofu Factory — Wailin Wong (2016)
+
 Source: [Original](https://m.signalvnoise.com/soy-you-bought-a-tofu-factory-f4ef494b113b) · [Readwise highlight](https://read.readwise.io/read/01m5jy7gj7kmfa6tp57ztwwsc0)
 
 > Jenny had discovered a business called Phoenix Bean Tofu, which had been operating from the Edgewater neighborhood on Chicago’s north side since 1981.

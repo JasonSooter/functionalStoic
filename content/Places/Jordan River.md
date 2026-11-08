@@ -2,8 +2,13 @@
 publish: true
 title: Jordan River
 created: 2024-12-21
-modified: 2026-11-07T06:56:16.769Z
-published: 2026-11-07T06:56:16.769Z
+modified: 2026-11-07T06:56:17.000Z
+published: 2026-11-07T06:56:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jordan River.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 33.1875
   - 35.6194
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Jordan River.svg
 ---
 
@@ -29,13 +30,15 @@ image: Attachments/Places/Jordan River.svg
 River running from the Sea of Galilee to the Dead Sea along the Israel–Jordan border. A subject in Colum McCann's _Apeirogon_: Sacred but depleted river, ten percent of natural flow; route of Costigin's 1835 boat journey.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | subject | Sacred but depleted river, ten percent of natural flow; route of Costigin's 1835 boat journey. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.1875&mlon=35.6194#map=10/33.1875/35.6194) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.1875,35.6194)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.1875\&mlon=35.6194#map=10/33.1875/35.6194) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.1875,35.6194)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjq7jqzy8mqa2rkp69yt7f)
 
 > It is often a surprise to travelers that the River Jordan is, in so many places, not much more than a trickle.

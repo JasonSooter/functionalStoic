@@ -1,29 +1,29 @@
 ---
 publish: true
-title: Recology San Francisco
-created: 2026-10-20T22:56:08.000Z
-modified: 2026-11-07T06:58:45.188Z
-published: 2026-11-07T06:58:45.188Z
 aliases:
   - Tunnel Avenue transfer station
   - the dump
+title: Recology San Francisco
+created: 2020-01-19
+modified: 2026-11-07T06:58:45.000Z
+published: 2026-11-07T06:58:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Recology San Francisco.svg
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 37.7081,-122.401
-geo_note: approximate (Recology SF office at 501 Tunnel Avenue; text names only 'Recology
-  SF')
+geo_note: approximate (Recology SF office at 501 Tunnel Avenue; text names only 'Recology SF')
 geo_source: OSM way 289730182 (Recology San Francisco, 501 Tunnel Avenue)
 icon: book
 location:
   - 37.7081
   - -122.401
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Recology San Francisco.svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/Recology San Francisco.svg
 Recycling and transfer station on Tunnel Avenue in [[San Francisco]], where Jenny Odell was artist in residence, as told in How to Do Nothing.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | backdrop | Odell was artist in residence at the city dump and made The Bureau of Suspended Objects there, an archive of 200 discarded objects. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7081&mlon=-122.401#map=10/37.7081/-122.401) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7081,-122.401)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7081\&mlon=-122.401#map=10/37.7081/-122.401) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.7081,-122.401)
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5dqzsqfvft6vdafhwh98r0y)
 
 > a project I did while in residence at Recology SF, I spent three months photographing, cataloging, and researching the origins of two hundred discarded objects.

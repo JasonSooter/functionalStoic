@@ -2,8 +2,13 @@
 publish: true
 title: Selvatura Park
 created: 2015-11-28
-modified: 2026-11-07T06:54:21.703Z
-published: 2026-11-07T06:54:21.703Z
+modified: 2026-11-07T06:54:22.000Z
+published: 2026-11-07T06:54:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Selvatura Park.svg
 aliases: []
 books:
   - Our 2 Week Costa Rica Vacation
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 10.3434
   - -84.7932
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Costa Rica]]"
 image: Attachments/Places/Selvatura Park.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Selvatura Park.svg
 Adventure park with hanging bridges and ziplines near Santa Elena, Monteverde, Costa Rica. Retire by 40's family walks its canopy bridges with their four-year-old.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Our 2 Week Costa Rica Vacation | retirebyforty | setting | Eight hanging bridges over the cloud-forest canopy, chosen because the four-year-old wasn't ready for the zipline. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=10.3434&mlon=-84.7932#map=16/10.3434/-84.7932) · [Google Maps](https://www.google.com/maps/search/?api=1&query=10.3434,-84.7932)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=10.3434\&mlon=-84.7932#map=16/10.3434/-84.7932) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=10.3434,-84.7932)
 
 ## Our 2 Week Costa Rica Vacation — retirebyforty (2015)
+
 Source: [Original](https://retireby40.org/our-2-week-costa-rica-vacation/) · [Readwise highlight](https://read.readwise.io/read/01m5gm1ja2pycgcwhc1mkh3xkd)
 
 > We went to Selvatura, one of the adventure parks. RB40Jr isn’t quite ready for the zipline so we just took the canopy bridges tour.

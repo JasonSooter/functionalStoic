@@ -1,27 +1,27 @@
 ---
 publish: true
-title: Mbour
-created: 2026-10-19
-modified: 2026-11-07T06:55:18.572Z
-published: 2026-11-07T06:55:18.572Z
 aliases:
   - M'bour
+title: Mbour
+created: 2026-10-19
+modified: 2026-11-07T06:55:19.000Z
+published: 2026-11-07T06:55:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mbour.svg
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 14.417,-16.967
-geo_note: town-level coordinate (English Wikipedia); the mosque is not named in the
-  text
+geo_note: town-level coordinate (English Wikipedia); the mosque is not named in the text
 icon: book
 location:
   - 14.417
   - -16.967
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Mbour.svg
 ---
 
@@ -30,16 +30,19 @@ image: Attachments/Places/Mbour.svg
 Fishing and market town on Senegal's Petite Côte, south of Dakar. It is where, in Carlo Rovelli's essay, an old man carries his shoes into a mosque, the scene that gives the book its title.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | turning point | A mosque where an old man carries Rovelli's shoes in for him: the scene that gives the book its title. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=14.417&mlon=-16.967#map=11/14.417/-16.967) · [Google Maps](https://www.google.com/maps/search/?api=1&query=14.417,-16.967)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=14.417\&mlon=-16.967#map=11/14.417/-16.967) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=14.417,-16.967)
 
 ## Sub-places
+
 _None yet._
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5bfwdsg19nv854q7d7yhc3m)
 
 > I am speechless: there are places in the world where rules are less important than kindness.

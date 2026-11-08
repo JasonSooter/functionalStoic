@@ -2,8 +2,13 @@
 publish: true
 title: The panda centre (Diagram Club Chengdu)
 created: 2025-09-29
-modified: 2026-11-07T06:52:31.130Z
-published: 2026-11-07T06:52:31.130Z
+modified: 2026-11-07T06:52:31.000Z
+published: 2026-11-07T06:52:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The panda centre (Diagram Club Chengdu).svg
 aliases: []
 books:
   - "[[056 From China, Part One - Chengdu]]"
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 30.7386,104.1419
-geo_note: "inferred: panda centre in Chengdu pinned at Chengdu Research Base of Giant\
-  \ Panda Breeding, Chengdu, Sichuan; see Where is it?"
+geo_note: "inferred: panda centre in Chengdu pinned at Chengdu Research Base of Giant Panda Breeding, Chengdu, Sichuan; see Where is it?"
 geo_source: Wikipedia (en) Chengdu Research Base of Giant Panda Breeding
 icon: newspaper
 location:
   - 30.7386
   - 104.1419
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Chengdu]]"
 image: Attachments/Places/The panda centre (Diagram Club Chengdu).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/The panda centre (Diagram Club Chengdu).svg
 Panda research and breeding centre in [[Chengdu]], inferred to be the Chengdu Research Base of Giant Panda Breeding. It is where the author sees giant pandas in Diagram Club's post on Chengdu, after a TEDx event was postponed.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[056 From China, Part One - Chengdu\|#056 From China, part one: Chengdu]] | Diagram Club | setting | After the TEDx event in Chengdu was postponed, the author visited giant pandas at a site he describes as a research and breeding place. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.7386&mlon=104.1419#map=16/30.7386/104.1419) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.7386,104.1419)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.7386\&mlon=104.1419#map=16/30.7386/104.1419) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=30.7386,104.1419)
 
 ## #056 From China, part one: Chengdu — Diagram Club (2025)
+
 Source: [[056 From China, Part One - Chengdu]] · [Original](https://diagramclub.substack.com/p/056-from-china-part-one-chengdu) · [Readwise highlight](https://read.readwise.io/read/01m5ebwrg7vxc0hh78epdfpkqz)
 
 > The change of plan did mean that I got to see giant pandas instead, so I can’t complain. This is the place they do research, and breed them.

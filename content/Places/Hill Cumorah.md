@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Hill Cumorah
-created: 2025-12-28
-modified: 2026-11-07T07:03:16.729Z
-published: 2026-11-07T07:03:16.729Z
 aliases:
   - Mormon Hill
   - Cumorah
+title: Hill Cumorah
+created: 2025-12-28
+modified: 2026-11-07T07:03:17.000Z
+published: 2026-11-07T07:03:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hill Cumorah.svg
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 43.0065
   - -77.2241
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Hill Cumorah.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Hill Cumorah.svg
 Drumlin near Palmyra, New York, where Joseph Smith said he found the golden plates. _Wedding of the Waters_ places Mormonism's origins on the canal corridor.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | subject | Joseph Smith's 'Mormon Hill' near Palmyra, a product of the canal's Burned-Over District. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.0065&mlon=-77.2241#map=16/43.0065/-77.2241) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0065,-77.2241)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.0065\&mlon=-77.2241#map=16/43.0065/-77.2241) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.0065,-77.2241)
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kve3a5w1tgbgdgzg6x0p70)
 
 > When he was about ten years old, the Smith family moved from Vermont to Palmyra, on the canal about twenty-five miles southeast of Rochester.

@@ -2,8 +2,13 @@
 publish: true
 title: Langenegg
 created: 2025-04-07
-modified: 2026-11-07T07:02:31.545Z
-published: 2026-11-07T07:02:31.545Z
+modified: 2026-11-07T07:02:32.000Z
+published: 2026-11-07T07:02:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Langenegg.svg
 aliases: []
 books:
   - The Towns That Invent Their Own Money
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 47.4681
   - 9.8969
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austria]]"
 image: Attachments/Places/Langenegg.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Langenegg.svg
 Village in Vorarlberg, [[Austria]] (about 200 km west of Wörgl), the modern case study of a local currency in The Towns That Invent Their Own Money.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Towns That Invent Their Own Money | Kaja Šeruga | setting | After the grocer retired in 2008 the municipality built a village store and launched the Langenegger Talente currency in 2009. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.4681&mlon=9.8969#map=16/47.4681/9.8969) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4681,9.8969)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.4681\&mlon=9.8969#map=16/47.4681/9.8969) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.4681,9.8969)
 
 ## The Towns That Invent Their Own Money — Kaja Šeruga (2025)
+
 Source: [Original](https://reasonstobecheerful.world/towns-invent-community-currencies/) · [Readwise highlight](https://read.readwise.io/read/01m5ebptqc05xd1hfjsm7tq1es)
 
 > This is the case in Langenegg, an Austrian village some 200 kilometers west of Wörgl, where the village grocer retired in 2008 without a successor.

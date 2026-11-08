@@ -2,8 +2,13 @@
 publish: true
 title: Lumbi mission
 created: 2024-05-09
-modified: 2026-11-07T06:51:53.636Z
-published: 2026-11-07T06:51:53.636Z
+modified: 2026-11-07T06:51:54.000Z
+published: 2026-11-07T06:51:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lumbi mission.svg
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: -5.048,18.7579
-geo_note: approximate (Lumbi village, Kwilu, DRC; mission not itself mapped, location
-  unverified)
+geo_note: approximate (Lumbi village, Kwilu, DRC; mission not itself mapped, location unverified)
 geo_source: OSM node 9905791050
 icon: book
 location:
   - -5.048
   - 18.7579
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Democratic Republic of the Congo]]"
 image: Attachments/Places/Lumbi mission.svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Lumbi mission.svg
 Mission hostel run by nuns in [[Democratic Republic of the Congo]], the research team's base for weeks in Hans Rosling's How I Learned to Understand the World.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | setting | The team's base for weeks: nuns run a hostel with a laid table, orange liqueur and guest rooms without running water. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-5.048&mlon=18.7579#map=10/-5.048/18.7579) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-5.048,18.7579)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-5.048\&mlon=18.7579#map=10/-5.048/18.7579) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-5.048,18.7579)
 
 ## How I Learned to Understand the World — Hans Rosling
+
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5e324cpk7b1p97ecyj2n4r0)
 
 > The mission had been set up by the Sisters of the Cross and Passion and the five nuns there, all of different nationalities, were known as “the passionate sisters.”

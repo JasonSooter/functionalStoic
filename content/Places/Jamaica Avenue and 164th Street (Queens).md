@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Jamaica Avenue and 164th Street (Queens)
-created: 2024-05-18
-modified: 2026-11-07T06:55:07.651Z
-published: 2026-11-07T06:55:07.651Z
 aliases:
   - The Ave
+title: Jamaica Avenue and 164th Street (Queens)
+created: 2024-05-18
+modified: 2026-11-07T06:55:08.000Z
+published: 2026-11-07T06:55:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jamaica Avenue and 164th Street (Queens).svg
 books:
   - How to Be an Antiracist
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.7053
   - -73.7956
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Jamaica Avenue and 164th Street (Queens).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Jamaica Avenue and 164th Street (Queens).svg
 Shopping crossroads in Jamaica, Queens, known locally as 'the Ave'. In How to Be an Antiracist (Ibram X. Kendi) it is the centre of his teenage cultural life.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | subject | 'The Ave', Kendi's weekend cultural home and his case for the equality of Black culture. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7053&mlon=-73.7956#map=10/40.7053/-73.7956) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7053,-73.7956)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7053\&mlon=-73.7956#map=10/40.7053/-73.7956) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.7053,-73.7956)
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fydx79rfrrc3ts3nydb8e2)
 
 > We called the central artery of Southside Queens the Ave, the place where Jamaica Avenue crosses 164th Street.

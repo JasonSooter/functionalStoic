@@ -2,8 +2,13 @@
 publish: true
 title: Helsingør
 created: 2025-05-03
-modified: 2026-11-07T07:02:52.251Z
-published: 2026-11-07T07:02:52.251Z
+modified: 2026-11-07T07:02:52.000Z
+published: 2026-11-07T07:02:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Helsingør.svg
 aliases: []
 books:
   - "[[Back to the Moderland]]"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 56.0361
   - 12.6083
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Denmark]]"
 image: Attachments/Places/Helsingør.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Helsingør.svg
 Town in [[Denmark]], known in English as Elsinore. It shows up in Helen Russell's article, where she gives a talk there and learns Andersen's stories are nominated for Denmark's heritage list.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Back to the Moderland\|Back To The Moderland?]] | Helen Russell | setting | The author gives a talk in Elsinore and wanders its storybook streets. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=56.0361&mlon=12.6083#map=16/56.0361/12.6083) · [Google Maps](https://www.google.com/maps/search/?api=1&query=56.0361,12.6083)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=56.0361\&mlon=12.6083#map=16/56.0361/12.6083) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=56.0361,12.6083)
 
 ## Back To The Moderland? — Helen Russell (2025)
+
 Source: [[Back to the Moderland]] · [Original](https://mshelenrussell.substack.com/p/back-to-the-moderland) · [Readwise highlight](https://read.readwise.io/read/01m5e2xfp3z6k16ahaake1vcvr)
 
 > I gave a talk in Elsinore that started with singing (of course it did), and wandered storybook streets - even Hans Christian Andersen called it home for a while

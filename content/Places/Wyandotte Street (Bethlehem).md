@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Wyandotte Street (Bethlehem)
-created: 2024-05-18
-modified: 2026-11-07T07:01:51.811Z
-published: 2026-11-07T07:01:51.811Z
 aliases:
   - State Route 378
+title: Wyandotte Street (Bethlehem)
+created: 2024-05-18
+modified: 2026-11-07T07:01:52.000Z
+published: 2026-11-07T07:01:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Wyandotte Street (Bethlehem).svg
 books:
   - "[[Walkable City]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.609
   - -75.3853
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pennsylvania]]"
 image: Attachments/Places/Wyandotte Street (Bethlehem).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Wyandotte Street (Bethlehem).svg
 Wyandotte Street is a street in South Bethlehem, Pennsylvania. It turns up in Walkable City (Jeff Speck): Speck's emblem of highway engineering perversity.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | DOT engineers added a center turn lane by removing a block face of parallel parking. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.609&mlon=-75.3853#map=10/40.609/-75.3853) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.609,-75.3853)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.609\&mlon=-75.3853#map=10/40.609/-75.3853) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.609,-75.3853)
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbmf1c42a168dhmn9j9y22)
 
 > This is the situation in Bethlehem, Pennsylvania, where the once-bustling Wyandotte Street has the misfortune of also being State Route 378.

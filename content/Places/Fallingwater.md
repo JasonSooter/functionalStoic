@@ -2,8 +2,13 @@
 publish: true
 title: Fallingwater
 created: 2023-02-22
-modified: 2026-11-07T06:53:13.654Z
-published: 2026-11-07T06:53:13.654Z
+modified: 2026-11-07T06:53:14.000Z
+published: 2026-11-07T06:53:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Fallingwater.svg
 aliases: []
 books:
   - Frank Lloyd Wright Was A Great Architect–But He Was Even Better At Branding
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 39.9063
   - -79.4678
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pennsylvania]]"
 image: Attachments/Places/Fallingwater.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Fallingwater.svg
 Frank Lloyd Wright's house over a waterfall at Mill Run, Pennsylvania. Fast Company calls it the image that put Wright back in the public eye.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Frank Lloyd Wright Was A Great Architect–But He Was Even Better At Branding | Diana Budds | turning point | Fallingwater is a lavish 1930s house that put Wright back in public view. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9063&mlon=-79.4678#map=16/39.9063/-79.4678) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9063,-79.4678)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9063\&mlon=-79.4678#map=16/39.9063/-79.4678) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.9063,-79.4678)
 
 ## Frank Lloyd Wright Was A Great Architect–But He Was Even Better At Branding — Diana Budds (2017)
+
 Source: [Original](https://www.fastcodesign.com/90129345/frank-lloyd-wright-was-a-great-architect-but-he-was-even-better-at-branding) · [Readwise highlight](https://read.readwise.io/read/01m5k7dhkzfernaxeq63kgan85)
 
 > That house is in the imagination of the entire world, the idea of living floating above a waterfall.

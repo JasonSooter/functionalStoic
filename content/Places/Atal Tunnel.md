@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Atal Tunnel
-created: 2025-12-20
-modified: 2026-11-07T06:55:40.906Z
-published: 2026-11-07T06:55:40.906Z
 aliases:
   - Rohtang Tunnel
+title: Atal Tunnel
+created: 2025-12-20
+modified: 2026-11-07T06:55:41.000Z
+published: 2026-11-07T06:55:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Atal Tunnel.svg
 books:
   - The World's Most Dangerous Tunnel
 categories:
@@ -17,10 +22,6 @@ icon: video
 location:
   - 32.4013
   - 77.1483
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Atal Tunnel.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Atal Tunnel.svg
 Highway tunnel under the Rohtang Pass in Himachal Pradesh, [[India]], cited as the past success in a B1M video on the world's most dangerous tunnel.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The World's Most Dangerous Tunnel]] | The B1M | backdrop | The past success: four hours saved, at a cost of four years for 600 metres. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.4013&mlon=77.1483#map=16/32.4013/77.1483) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.4013,77.1483)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.4013\&mlon=77.1483#map=16/32.4013/77.1483) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=32.4013,77.1483)
 
 ## The World's Most Dangerous Tunnel — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=CI7qaAP3huo) · [Readwise highlight](https://read.readwise.io/read/01m5ce46dky6qjcnyrv8rhhqwp)
 
 > Atal Tunnel has cut travel times between

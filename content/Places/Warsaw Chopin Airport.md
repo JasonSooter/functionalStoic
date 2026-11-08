@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Warsaw Chopin Airport
-created: 2025-11-03
-modified: 2026-11-07T06:59:04.280Z
-published: 2026-11-07T06:59:04.280Z
 aliases:
   - Chopin Airport
+title: Warsaw Chopin Airport
+created: 2025-11-03
+modified: 2026-11-07T06:59:04.000Z
+published: 2026-11-07T06:59:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Warsaw Chopin Airport.svg
 books:
   - Why Europe is Building a $34BN Transport Mega-Hub
 categories:
@@ -17,10 +22,6 @@ icon: video
 location:
   - 52.1658
   - 20.9672
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Warsaw]]"
 image: Attachments/Places/Warsaw Chopin Airport.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Warsaw Chopin Airport.svg
 Main airport of [[Warsaw]], Poland, which appears in the reading as the capped, curfewed airport the planned Central Communication Port would replace.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Why Europe is Building a $34BN Transport Mega-Hub | The B1M | subject | The capped, curfewed airport CPK would replace. |
+| Why Europe is Building a \$34BN Transport Mega-Hub | The B1M | subject | The capped, curfewed airport CPK would replace. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.1658&mlon=20.9672#map=16/52.1658/20.9672) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.1658,20.9672)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.1658\&mlon=20.9672#map=16/52.1658/20.9672) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.1658,20.9672)
 
-## Why Europe is Building a $34BN Transport Mega-Hub — The B1M (2025)
+## Why Europe is Building a \$34BN Transport Mega-Hub — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=wbV6f5G90AY) · [Readwise highlight](https://read.readwise.io/read/01m5creq33n4krdwyn9km2gpv3)
 
 > Chopin Airport in Warsaw is the biggest and busiest in the country.

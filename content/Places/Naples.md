@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Naples
-created: 2026-10-20T01:25:42.000Z
-modified: 2026-11-07T07:01:08.656Z
-published: 2026-11-07T07:01:08.656Z
 aliases:
   - Napoli
   - Vicaria
   - Piazza Garibaldi
+title: Naples
+created: 2026-08-26
+modified: 2026-11-07T07:01:09.000Z
+published: 2026-11-07T07:01:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Naples.svg
 books:
   - Neither Here Nor There
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.8358
   - 14.2486
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy]]"
 image: Attachments/Places/Naples.svg
 ---
@@ -31,16 +32,19 @@ image: Attachments/Places/Naples.svg
 Capital of Campania on the Bay of Naples in southern [[Italy]], and in Bill Bryson's Neither Here Nor There the hard counterweight to Capri, crossed on foot before he heads north.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | journey waypoint | A long walk from the waterfront through the crowded Vicaria to the station, and a ticket out. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.8358&mlon=14.2486#map=11/40.8358/14.2486) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.8358,14.2486)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.8358\&mlon=14.2486#map=11/40.8358/14.2486) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.8358,14.2486)
 
 ## Sub-places
+
 _None yet._
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejd8r4g3qnk2knj438cq3)
 
 > The worst of these districts, the Vicaria, in which I was walking, is said to have the highest population density in Europe.

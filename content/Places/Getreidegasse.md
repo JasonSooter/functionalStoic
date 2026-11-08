@@ -2,8 +2,13 @@
 publish: true
 title: Getreidegasse
 created: 2026-08-26
-modified: 2026-11-07T06:57:14.672Z
-published: 2026-11-07T06:57:14.672Z
+modified: 2026-11-07T06:57:15.000Z
+published: 2026-11-07T06:57:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Getreidegasse.svg
 aliases: []
 books:
   - Neither Here Nor There
@@ -15,10 +20,6 @@ icon: book
 location:
   - 47.8
   - 13.0439
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Salzburg]]"
 image: Attachments/Places/Getreidegasse.svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/Getreidegasse.svg
 The old-town shopping street of [[Salzburg]], Austria, where Mozart was born.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | subject | Wrought-iron shop signs everywhere, even on McDonald's. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.8&mlon=13.0439#map=16/47.8/13.0439) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.8,13.0439)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.8\&mlon=13.0439#map=16/47.8/13.0439) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.8,13.0439)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bek1f9fxqwq1p0zesqad3h)
 
 > Along Getreidegasse, the site of Mozart’s birthplace

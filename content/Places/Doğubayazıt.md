@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Doğubayazıt
-created: 2025-03-08
-modified: 2026-11-07T07:03:43.159Z
-published: 2026-11-07T07:03:43.159Z
 aliases:
   - Dogubayazit
   - Bayazit
+title: Doğubayazıt
+created: 2025-03-08
+modified: 2026-11-07T07:03:43.000Z
+published: 2026-11-07T07:03:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Doğubayazıt.svg
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 39.5472
   - 44.0833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Turkey]]"
 image: Attachments/Places/Doğubayazıt.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Doğubayazıt.svg
 Town in eastern Turkey below [[Mount Ararat]], near the Iranian border. A doss-house night in Dervla Murphy's _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | A Kurd strips her bedding in the doss-house; one pistol shot at the ceiling ends it. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.5472&mlon=44.0833#map=16/39.5472/44.0833) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.5472,44.0833)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.5472\&mlon=44.0833#map=16/39.5472/44.0833) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.5472,44.0833)
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kjasdv39vkv05jr9tb9d)
 
 > Some hours later I awoke to find myself bereft of bedding and to see a six-foot, scantily-clad Kurd bending over me in the moonlight. My gun was beneath the pillow and one shot fired at the ceiling concluded the matter.

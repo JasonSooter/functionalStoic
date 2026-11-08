@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Bärengraben
-created: 2026-08-26
-modified: 2026-11-07T06:51:18.230Z
-published: 2026-11-07T06:51:18.230Z
 aliases:
   - Bear Pit
   - Bern bear pits
+title: Bärengraben
+created: 2026-08-26
+modified: 2026-11-07T06:51:18.000Z
+published: 2026-11-07T06:51:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bärengraben.svg
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 46.948
   - 7.4596
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bern]]"
 image: Attachments/Places/Bärengraben.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Bärengraben.svg
 The bear pits across the Nydegg Bridge from the old town of [[Bern]], Switzerland; Bryson finds them empty in Neither Here Nor There.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | Bryson crosses the bridge to see Bern's famous bears and finds the pits empty. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.948&mlon=7.4596#map=16/46.948/7.4596) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.948,7.4596)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.948\&mlon=7.4596#map=16/46.948/7.4596) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=46.948,7.4596)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejvk7pdjf5h1jxw56f464)
 
 > I crossed the high, arched Nydegg Bridge to see the famous bear pits

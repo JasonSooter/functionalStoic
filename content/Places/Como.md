@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Como
-created: 2026-08-26
-modified: 2026-11-07T06:58:04.308Z
-published: 2026-11-07T06:58:04.308Z
 aliases:
   - Lake Como
+title: Como
+created: 2026-08-26
+modified: 2026-11-07T06:58:04.000Z
+published: 2026-11-07T06:58:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Como.svg
 books:
   - Neither Here Nor There
 categories:
@@ -16,10 +21,6 @@ icon: book
 location:
   - 45.8167
   - 9.0833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy]]"
 image: Attachments/Places/Como.svg
 ---
@@ -29,16 +30,19 @@ image: Attachments/Places/Como.svg
 Lakeside city at the southern tip of Lake Como in [[Italy]], where Bill Bryson found a clean, perfect little town that restored his love of Italy in Neither Here Nor There.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | A clean, perfect little lake city that restores Bryson's love of Italy. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.8167&mlon=9.0833#map=11/45.8167/9.0833) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.8167,9.0833)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.8167\&mlon=9.0833#map=11/45.8167/9.0833) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=45.8167,9.0833)
 
 ## Sub-places
+
 _None yet._
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejpy67j8xv6n2mzyjsmkn)
 
 > Como was a lovely little city, clean and perfect, in a cupped hand of Alpine mountains at the southern end of the narrow, thirty-mile-long lake of the same name.

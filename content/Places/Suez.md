@@ -2,8 +2,13 @@
 publish: true
 title: Suez
 created: 2026-10-23
-modified: 2026-11-07T07:00:12.843Z
-published: 2026-11-07T07:00:12.843Z
+modified: 2026-11-07T07:00:13.000Z
+published: 2026-11-07T07:00:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Suez.svg
 books:
   - Around the World in Eighty Days
 categories:
@@ -15,10 +20,6 @@ icon: book
 location:
   - 29.9667
   - 32.55
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Egypt]]"
 image: Attachments/Places/Suez.svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/Suez.svg
 Port city at the southern end of the Suez Canal, Egypt. In _Around the World in Eighty Days_ Fix first marks Fogg as the bank robber on its quays.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | turning point | On its quays Fix first marks Fogg as the bank robber. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.9667&mlon=32.55#map=16/29.9667/32.55) · [Google Maps](https://www.google.com/maps/search/?api=1&query=29.9667,32.55)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.9667\&mlon=32.55#map=16/29.9667/32.55) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=29.9667,32.55)
 
 ## Around the World in Eighty Days — Jules Verne (1872)
+
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3cr0nhfz2v73n7h1er9b)
 
 > Two men were promenading up and down the wharves, among the crowd of natives and strangers who were sojourning at this once straggling village—now, thanks to the enterprise of M. Lesseps, a fast-growing town.

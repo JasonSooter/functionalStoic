@@ -1,9 +1,14 @@
 ---
 publish: true
 title: River Yare
-created: 2026-10-22T01:44:46.000Z
-modified: 2026-11-07T07:00:36.430Z
-published: 2026-11-07T07:00:36.430Z
+created: 2025-04-19
+modified: 2026-11-07T07:00:36.000Z
+published: 2026-11-07T07:00:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/River Yare.svg
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 52.5725
   - 1.7375
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Norfolk]]"
 image: Attachments/Places/River Yare.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/River Yare.svg
 River in [[Norfolk]] that flows through the Broads to the sea at Great Yarmouth. In Three Men in a Boat the narrator recalls a boyhood sailing trip up it that nearly ended in a capsize.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | setting | As boys the narrator and Hector rig the sail upside-down and are saved only by a mud bank. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.5725&mlon=1.7375#map=10/52.5725/1.7375) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.5725,1.7375)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.5725\&mlon=1.7375#map=10/52.5725/1.7375) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.5725,1.7375)
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkzemzrs4z3h6ftd4tqev0)
 
 > We were stopping down at Yarmouth, and we decided we would go for a trip up the Yare.

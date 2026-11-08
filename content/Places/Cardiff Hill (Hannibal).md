@@ -2,8 +2,13 @@
 publish: true
 title: Cardiff Hill (Hannibal)
 created: 2025-02-24
-modified: 2026-11-07T06:53:07.121Z
-published: 2026-11-07T06:53:07.121Z
+modified: 2026-11-07T06:53:07.000Z
+published: 2026-11-07T06:53:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cardiff Hill (Hannibal).svg
 aliases: []
 books:
   - The Adventures of Tom Sawyer, Complete
@@ -17,10 +22,6 @@ icon: book
 location:
   - 39.7167
   - -91.363
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hannibal, Missouri]]"
 image: Attachments/Places/Cardiff Hill (Hannibal).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Cardiff Hill (Hannibal).svg
 Hill above the river in Hannibal, Missouri. In Tom Sawyer it is the boys' treasure-hunting ground and the scene of Huck's night watch.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Adventures of Tom Sawyer, Complete | Mark Twain | setting | Tom and Huck dig for treasure at a dead-limb tree on the hill. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.7167&mlon=-91.363#map=16/39.7167/-91.363) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.7167,-91.363)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.7167\&mlon=-91.363#map=16/39.7167/-91.363) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.7167,-91.363)
 
 ## The Adventures of Tom Sawyer, Complete — Mark Twain (1876)
+
 Source: [Original](https://openlibrary.org/works/OL53919W) · [Readwise highlight](https://read.readwise.io/read/01m5k7hd67kfk9s7pnsq5mcttf)
 
 > They moved up the river street three blocks, then turned to the left up a crossstreet. They went straight ahead, then, until they came to the path that led up Cardiff Hill; this they took.

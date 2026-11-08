@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Murphy's on Gough Street (Project Hail Mary)
-created: 2026-10-22T22:36:46.000Z
-modified: 2026-11-07T07:00:02.114Z
-published: 2026-11-07T07:00:02.114Z
+created: 2026-06-13
+modified: 2026-11-07T07:00:02.000Z
+published: 2026-11-07T07:00:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Murphy's on Gough Street (Project Hail Mary).svg
 aliases: []
 books:
   - "[[Project Hail Mary]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 37.7876
   - -122.4252
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Murphy's on Gough Street (Project Hail Mary).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Murphy's on Gough Street (Project Hail Mary).svg
 Fictional steak bar on Gough Street, San Francisco. In Project Hail Mary Grace learns there that the sun is dimming.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project Hail Mary]] | Andy Weir | setting | Grace meets his friend Marissa, a DOE employee, for their weekly steak dinner |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7876&mlon=-122.4252#map=16/37.7876/-122.4252) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7876,-122.4252)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7876\&mlon=-122.4252#map=16/37.7876/-122.4252) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.7876,-122.4252)
 
 ## Project Hail Mary — Andy Weir (2021)
+
 Source: [[Project Hail Mary]] · [Original](https://www.penguinrandomhouse.com/books/611060/project-hail-mary-by-andy-weir/) · [Readwise highlight](https://read.readwise.io/read/01m5jvs9r49aq8n7z0cqyfr6yy)
 
 > I met Marissa every Thursday night for steak and beer at Murphy’s on Gough Street. Always at six p.m., and because the staff knew us, always at the same table.

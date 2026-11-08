@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Siegestor
-created: 2026-01-04
-modified: 2026-11-07T06:55:20.252Z
-published: 2026-11-07T06:55:20.252Z
 aliases:
   - Victory Gate
+title: Siegestor
+created: 2026-01-04
+modified: 2026-11-07T06:55:20.000Z
+published: 2026-11-07T06:55:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Siegestor.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 48.1522
   - 11.5819
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Munich]]"
 image: Attachments/Places/Siegestor.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Siegestor.svg
 Triumphal arch on Ludwigstrasse in Munich, built in the 1840s for the Bavarian army. It opens _Germany: Memories of a Nation_ as the model of a monument that admits loss as well as victory.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | The book's opening image: a Munich victory arch, its bomb-damaged side left blank and inscribed with a plea for peace. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.1522&mlon=11.5819#map=16/48.1522/11.5819) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.1522,11.5819)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.1522\&mlon=11.5819#map=16/48.1522/11.5819) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.1522,11.5819)
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m74yb36kjya5h5asprw399)
 
 > The top register on this side of the arch is merely a blank expanse of stone. Underneath this uncompromisingly empty space are the words ‘Dem Sieg geweiht, vom Krieg zerstört, zum Frieden mahnend’

@@ -1,28 +1,28 @@
 ---
 publish: true
-title: GORUCK headquarters
-created: 2023-07-30
-modified: 2026-11-07T06:56:12.072Z
-published: 2026-11-07T06:56:12.072Z
 aliases:
   - GORUCK
+title: GORUCK headquarters
+created: 2023-07-30
+modified: 2026-11-07T06:56:12.000Z
+published: 2026-11-07T06:56:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/GORUCK headquarters.svg
 books:
   - "[[The Comfort Crisis]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 30.3411,-81.38
-geo_note: approximate (centre of Atlantic Beach; the building is two blocks from the
-  ocean)
+geo_note: approximate (centre of Atlantic Beach; the building is two blocks from the ocean)
 geo_source: Wikipedia (en) Atlantic Beach, Florida
 icon: book
 location:
   - 30.3411
   - -81.38
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florida]]"
 image: Attachments/Places/GORUCK headquarters.svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/GORUCK headquarters.svg
 Headquarters of the rucking company GORUCK in Atlantic Beach, Florida. In The Comfort Crisis (Michael Easter) he rucks there with founder Jason McCarthy.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | setting | Founder Jason McCarthy's rucking company, where Easter learns to ruck. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.3411&mlon=-81.38#map=10/30.3411/-81.38) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.3411,-81.38)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.3411\&mlon=-81.38#map=10/30.3411/-81.38) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=30.3411,-81.38)
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5g16xr8w6ah80k1n117e1gy)
 
 > The company resides in The George R. Lucier Jr. Building, a 1968 brick structure that sits two blocks from the ocean.

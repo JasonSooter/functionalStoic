@@ -2,8 +2,13 @@
 publish: true
 title: La Nible (Mostly Bikes post)
 created: 2025-03-30
-modified: 2026-11-07T07:00:40.098Z
-published: 2026-11-07T07:00:40.098Z
+modified: 2026-11-07T07:00:40.000Z
+published: 2026-11-07T07:00:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/La Nible (Mostly Bikes post).svg
 aliases: []
 books:
   - La Nible.
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 44.2572,5.2922
-geo_note: "best-guess: the post names La Nible but not where it is; pinned at the\
-  \ hamlet of La Nible near Buis-les-Baronnies (Drôme provençale); see Where is it?"
+geo_note: "best-guess: the post names La Nible but not where it is; pinned at the hamlet of La Nible near Buis-les-Baronnies (Drôme provençale); see Where is it?"
 geo_source: OSM node 7853776963
 icon: newspaper
 location:
   - 44.2572
   - 5.2922
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/La Nible (Mostly Bikes post).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/La Nible (Mostly Bikes post).svg
 Likely the real hamlet of La Nible near Buis-les-Baronnies, in [[Provence]], France, behind a one-line Mostly Bikes post about a road that goes nowhere.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | La Nible. | Mostly Bikes x Me | subject | The post titled La Nible is a single line about a road that leads nowhere, which the author finds fine and calls a metaphor for life. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.2572&mlon=5.2922#map=16/44.2572/5.2922) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.2572,5.2922)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.2572\&mlon=5.2922#map=16/44.2572/5.2922) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.2572,5.2922)
 
 ## La Nible. — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ebp2j0h88zbtqn6prs8pjx)
 
 > Some roads go nowhere and that’s cool. Pretty sure it’s a metaphor for life.

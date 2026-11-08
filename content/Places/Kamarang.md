@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Kamarang
-created: 2024-10-04
-modified: 2026-11-07T06:57:05.578Z
-published: 2026-11-07T06:57:05.578Z
 aliases:
   - Mazaruni River
+title: Kamarang
+created: 2024-10-04
+modified: 2026-11-07T06:57:06.000Z
+published: 2026-11-07T06:57:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kamarang.svg
 books:
   - Life on Air
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 5.8653
   - -60.6142
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Guyana]]"
 image: Attachments/Places/Kamarang.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Kamarang.svg
 Settlement on the Mazaruni River in western Guyana; the rain-forest base of the Guiana Zoo Quest in _Life on Air_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The rain-forest base of the Guiana Zoo Quest. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=5.8653&mlon=-60.6142#map=16/5.8653/-60.6142) · [Google Maps](https://www.google.com/maps/search/?api=1&query=5.8653,-60.6142)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=5.8653\&mlon=-60.6142#map=16/5.8653/-60.6142) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=5.8653,-60.6142)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx28ghmkyb29a38spc85rf)
 
 > Our main work, however, was in the rain forest. For that we flew up to Kamarang in the north-west of the country.

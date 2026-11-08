@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Tarka Trail
-created: 2026-10-02
-modified: 2026-11-07T07:02:17.686Z
-published: 2026-11-07T07:02:17.686Z
 aliases:
   - Tarka trail
+title: Tarka Trail
+created: 2026-10-02
+modified: 2026-11-07T07:02:18.000Z
+published: 2026-11-07T07:02:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tarka Trail.svg
 books:
   - "[[089 a Comprehensive Guide to Devon]]"
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 51.08
   - -4.0581
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Devon]]"
 image: Attachments/Places/Tarka Trail.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Tarka Trail.svg
 The Tarka Trail is a traffic-free cycle and walking route on old railway lines in north [[Devon]], England. It appears in Diagram Club's Devon guide as the second-ranked attraction.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[089 a Comprehensive Guide to Devon\|#089 A comprehensive guide to Devon]] | Diagram Club | subject | Number two on the list: a flat, traffic-free route with spectacular views. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.08&mlon=-4.0581#map=10/51.08/-4.0581) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.08,-4.0581)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.08\&mlon=-4.0581#map=10/51.08/-4.0581) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.08,-4.0581)
 
 ## #089 A comprehensive guide to Devon — Diagram Club (2026)
+
 Source: [[089 a Comprehensive Guide to Devon]] · [Original](https://diagramclub.substack.com/p/089-a-comprehensive-guide-to-devon) · [Readwise highlight](https://read.readwise.io/read/01m5ce7nd54tzjp6hv3s3t5mec)
 
 > I love a traffic-free cycle route, and the Tarka trail is a great example. It’s on old railway lines, so the gradients are minimal, the surface is good, and views spectacular.

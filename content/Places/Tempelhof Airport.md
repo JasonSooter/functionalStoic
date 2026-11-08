@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Tempelhof Airport
-created: 2026-10-11
-modified: 2026-11-07T07:02:41.308Z
-published: 2026-11-07T07:02:41.308Z
 aliases:
   - Flughafen Berlin-Tempelhof
   - Tempelhofer Feld
+title: Tempelhof Airport
+created: 2026-10-11
+modified: 2026-11-07T07:02:41.000Z
+published: 2026-11-07T07:02:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tempelhof Airport.svg
 books:
   - Inside The World's Darkest Airport
 categories:
@@ -18,10 +23,6 @@ icon: video
 location:
   - 52.476
   - 13.395
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Tempelhof Airport.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Tempelhof Airport.svg
 Tempelhof Airport is a former airport in [[Berlin]], with a Nazi-era terminal building and an airfield that is now the public park Tempelhofer Feld. It appears in The B1M's video on the terminal's layers as Nazi showpiece, Cold War lifeline and park.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Inside The World's Darkest Airport | The B1M | subject | A walk through one building's layers: Nazi showpiece, Cold War lifeline, public park. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.476&mlon=13.395#map=16/52.476/13.395) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.476,13.395)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.476\&mlon=13.395#map=16/52.476/13.395) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.476,13.395)
 
 ## Inside The World's Darkest Airport — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=sRF_aTASC5c) · [Readwise highlight](https://read.readwise.io/read/01m5b44tbspeype3rr929sfskz)
 
 > This is Tempelhof Airport, the last remnants of Germania.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Wharton School
-created: 2024-09-17
-modified: 2026-11-07T07:00:36.970Z
-published: 2026-11-07T07:00:36.970Z
 aliases:
   - Wharton
+title: Wharton School
+created: 2024-09-17
+modified: 2026-11-07T07:00:37.000Z
+published: 2026-11-07T07:00:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Wharton School.svg
 books:
   - "[[Co-Intelligence]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 39.9533
   - -75.1981
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Philadelphia]]"
 image: Attachments/Places/Wharton School.svg
 ---
@@ -30,17 +31,19 @@ image: Attachments/Places/Wharton School.svg
 The Wharton School is the business school of the University of Pennsylvania in Philadelphia, where Ethan Mollick teaches. In _Co-Intelligence_ it is his classroom and lab, where AI beats MBA students at inventing products and becomes mandatory coursework.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Co-Intelligence]] | Ethan Mollick | setting | Mollick's school: GPT-4 out-invents 200 MBA students, AI is mandatory in his classes, and an AI pitch coach is built. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9533&mlon=-75.1981#map=16/39.9533/-75.1981) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9533,-75.1981)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9533\&mlon=-75.1981#map=16/39.9533/-75.1981) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.9533,-75.1981)
 
 ## Co-Intelligence — Ethan Mollick (2024)
+
 Source: [[Co-Intelligence]] · [Original](https://openlibrary.org/works/OL37565105W) · [Readwise highlight](https://read.readwise.io/read/01m5m76e29p3rytrdcnhcf5d23)
 
 > I know this is true, because they are out-inventing students in one of Wharton’s most well-known innovation classes.
 
 - **Role:** setting
-- **In the book:** Four days after ChatGPT's launch, Mollick demonstrates it to his undergraduate entrepreneurship class. In Terwiesch and Ulrich's innovation class, GPT-4 competes with 200 students to invent products costing $50 or less, and 35 of the 40 best ideas come from the AI. Mollick makes AI mandatory in all his University of Pennsylvania classes, and his team at Wharton builds an AI simulator that coaches people to pitch.
+- **In the book:** Four days after ChatGPT's launch, Mollick demonstrates it to his undergraduate entrepreneurship class. In Terwiesch and Ulrich's innovation class, GPT-4 competes with 200 students to invent products costing \$50 or less, and 35 of the 40 best ideas come from the AI. Mollick makes AI mandatory in all his University of Pennsylvania classes, and his team at Wharton builds an AI simulator that coaches people to pitch.
 - **Why it matters:** It is the book's home ground: most of Mollick's first-hand evidence on AI as creative, tutor and coach comes from his own students and experiments here.

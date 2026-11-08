@@ -2,8 +2,13 @@
 publish: true
 title: Keighley
 created: 2024-12-21
-modified: 2026-11-07T06:57:39.686Z
-published: 2026-11-07T06:57:39.686Z
+modified: 2026-11-07T06:57:40.000Z
+published: 2026-11-07T06:57:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Keighley.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 53.867
   - -1.911
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 image: Attachments/Places/Keighley.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Keighley.svg
 Town in West Yorkshire, England. A setting in Colum McCann's _Apeirogon_: Yorkshire town near where Salwa watches Arabian horses with baby Hiba.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Yorkshire town near where Salwa watches Arabian horses with baby Hiba |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.867&mlon=-1.911#map=16/53.867/-1.911) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.867,-1.911)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.867\&mlon=-1.911#map=16/53.867/-1.911) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=53.867,-1.911)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjq8444s69zk94btm5bjwa)
 
 > She found a horse farm outside Keighley where Arabian horses stood, sleek and muscled against the green. She leaned on the door of the car.

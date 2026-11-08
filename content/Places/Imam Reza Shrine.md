@@ -2,8 +2,13 @@
 publish: true
 title: Imam Reza Shrine
 created: 2025-09-24
-modified: 2026-11-07T06:53:32.179Z
-published: 2026-11-07T06:53:32.179Z
+modified: 2026-11-07T06:53:32.000Z
+published: 2026-11-07T06:53:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Imam Reza Shrine.svg
 aliases: []
 books:
   - "[[On the Hippie Trail]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 36.288
   - 59.6157
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mashhad]]"
 image: Attachments/Places/Imam Reza Shrine.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Imam Reza Shrine.svg
 Shrine of the eighth Shia imam in Mashhad, Iran's holiest site. In _On the Hippie Trail_ Rick and Gene visit it as the only non-Muslims among crowds of pilgrims.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | setting | In a city full of pilgrims they sleep on campground grass, then visit the turquoise-domed shrine. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.288&mlon=59.6157#map=16/36.288/59.6157) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.288,59.6157)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.288\&mlon=59.6157#map=16/36.288/59.6157) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=36.288,59.6157)
 
 ## On the Hippie Trail — Rick Steves (2025)
+
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjeeyjb0q63q48ephyf9tj)
 
 > The holy Imam Reza shrine was gorgeous with its turquoise dome gleaming in the hot blue sky.

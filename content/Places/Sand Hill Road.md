@@ -2,8 +2,13 @@
 publish: true
 title: Sand Hill Road
 created: 2016-10-06
-modified: 2026-11-07T06:51:59.036Z
-published: 2026-11-07T06:51:59.036Z
+modified: 2026-11-07T06:51:59.000Z
+published: 2026-11-07T06:51:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sand Hill Road.svg
 aliases: []
 books:
   - Sam Altman’s Manifest Destiny – The New Yorker
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 37.4208
   - -122.2081
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Menlo Park]]"
 image: Attachments/Places/Sand Hill Road.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Sand Hill Road.svg
 Road in Menlo Park, California, home of top venture firms. In the Altman profile it stands for the VC establishment YC might disrupt.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sam Altman’s Manifest Destiny – The New Yorker | Tad Friend | subject | Venture capitalists fear YC Continuity is a ploy to displace traditional firms |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.4208&mlon=-122.2081#map=16/37.4208/-122.2081) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4208,-122.2081)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.4208\&mlon=-122.2081#map=16/37.4208/-122.2081) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.4208,-122.2081)
 
 ## Sam Altman’s Manifest Destiny – The New Yorker — Tad Friend (2016)
+
 Source: [Original](https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny) · [Readwise highlight](https://read.readwise.io/read/01m5jy8kw4wytf9y1sab6krrzy)
 
 > way of disrupting Sand Hill Road”—where a number of the Valley’s top venture firms reside.

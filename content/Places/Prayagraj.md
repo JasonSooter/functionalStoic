@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Prayagraj
-created: 2026-10-23T22:33:40.000Z
-modified: 2026-11-07T06:56:57.132Z
-published: 2026-11-07T06:56:57.132Z
 aliases:
   - Allahabad
+title: Prayagraj
+created: 2026-10-23
+modified: 2026-11-07T06:56:57.000Z
+published: 2026-11-07T06:56:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Prayagraj.svg
 books:
   - Around the World in Eighty Days
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 25.4358
   - 81.8464
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Prayagraj.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Prayagraj.svg
 City at the confluence of the Ganges and Yamuna in Uttar Pradesh, formerly Allahabad. In _Around the World in Eighty Days_ the elephant detour ends at its station and Aouda is dressed for the journey here.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | journey waypoint | The elephant detour ends at Allahabad station, where Aouda is dressed for travel. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=25.4358&mlon=81.8464#map=16/25.4358/81.8464) · [Google Maps](https://www.google.com/maps/search/?api=1&query=25.4358,81.8464)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=25.4358\&mlon=81.8464#map=16/25.4358/81.8464) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=25.4358,81.8464)
 
 ## Around the World in Eighty Days — Jules Verne (1872)
+
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3gzknfpmscnea7wv1mqm)
 
 > Passepartout started off forthwith, and found himself in the streets of Allahabad, that is, the City of God, one of the most venerated in India, being built at the junction of the two sacred rivers, Ganges and Jumna

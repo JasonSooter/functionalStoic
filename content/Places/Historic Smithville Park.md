@@ -2,8 +2,13 @@
 publish: true
 title: Historic Smithville Park
 created: 2024-11-03
-modified: 2026-11-07T06:51:13.825Z
-published: 2026-11-07T06:51:13.825Z
+modified: 2026-11-07T06:51:14.000Z
+published: 2026-11-07T06:51:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Historic Smithville Park.svg
 aliases: []
 books:
   - I went troll-hunting in Burlington County!
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 39.9832
   - -74.7521
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Historic Smithville Park.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Historic Smithville Park.svg
 County park in Eastampton Township, [[New Jersey]], on the site of a former industrial village. It is a stop on a troll-hunting bike ride, where a troll made of bike parts stands.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | I went troll-hunting in Burlington County! | alliumstozinnias | journey waypoint | Troll on a Stroll, made of bike parts, at a park once home to a bicycle maker. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9832&mlon=-74.7521#map=16/39.9832/-74.7521) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9832,-74.7521)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9832\&mlon=-74.7521#map=16/39.9832/-74.7521) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.9832,-74.7521)
 
 ## I went troll-hunting in Burlington County! — alliumstozinnias (2024)
+
 Source: [Original](https://exploringbybike.com/2024/10/23/i-went-troll-hunting-in-burlington-county/) · [Readwise highlight](https://read.readwise.io/read/01m5f0pf8p7teq8a9y2x58t2td)
 
 > This was once home a bicycle manufacturer, so of course I loved that Troll on a Stroll was made of bike parts!

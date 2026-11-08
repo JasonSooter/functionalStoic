@@ -2,8 +2,13 @@
 publish: true
 title: Lisbon
 created: 2026-07-17T14:36:22.287Z
-modified: 2026-11-07T07:05:55.509Z
-published: 2026-11-07T07:05:55.509Z
+modified: 2026-11-07T07:05:56.000Z
+published: 2026-11-07T07:05:56.000Z
+tags:
+  - places
+  - source/ai/claude
+  - place/literary
+socialImage: Attachments/Places/Lisbon.svg
 books:
   - "[[Candide]]"
   - Robinson Crusoe
@@ -17,10 +22,6 @@ icon: building-2
 location:
   - 38.7223
   - -9.1393
-tags:
-  - places
-  - source/ai/claude
-  - place/literary
 reading_icon: book
 image: Attachments/Places/Lisbon.svg
 ---
@@ -48,9 +49,9 @@ Capital of [[Portugal]]. Each `geo:` link below is a separate map marker in Map 
 ### FAQ
 
 ---
+
 🙋
 ✨
-
 
 ---
 
@@ -62,12 +63,12 @@ Capital of [[Portugal]]. Each `geo:` link below is a separate map marker in Map 
 
 View of the bridge on the way to [[#Resvés Cowork Space]] along the [Tagus River](https://en.wikipedia.org/wiki/Tagus)
 
-![[25 de Abril Bridge.png]]
-#🗓️/2023/10/30
+![[Attachments/25 de Abril Bridge.png]]
+\#🗓️/2023/10/30
 
 #### Resvés Co-Work Space
 
-![[Resvés Cowork Space.png]]
+![[Attachments/Resvés Cowork Space.png]]
 
 - <https://resvescowork.pt/>
 
@@ -90,9 +91,10 @@ Source highlight: [Readwise](https://readwise.io/open/739134113).
 | [[Candide]] | Voltaire | turning point | Candide and Pangloss reach Lisbon as the earthquake strikes; the auto-da-fé follows. |
 | Robinson Crusoe | Daniel Defoe | journey waypoint | Crusoe recovers the fortune from his Brazilian plantation. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.7223&mlon=-9.1393#map=12/38.7223/-9.1393) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.7223,-9.1393)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.7223\&mlon=-9.1393#map=12/38.7223/-9.1393) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.7223,-9.1393)
 
 ## Candide — Voltaire (1759)
+
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m758eh76eg7yyx2fbwbp79)
 
 > Scarcely had they reached the city, lamenting the death of their benefactor, when they felt the earth tremble under their feet. The sea swelled and foamed in the harbour, and beat to pieces the vessels riding at anchor.
@@ -102,6 +104,7 @@ Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [R
 - **Why it matters:** The book's central disaster and its sharpest attack on optimism, set on a real catastrophe. It also brings in the Inquisition and reunites Candide with Cunegonde.
 
 ## Robinson Crusoe — Daniel Defoe (1719)
+
 Source: [Original](https://openlibrary.org/works/OL45237W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5dnbsrdegv8d7gvyqmdq)
 
 > With this view I took shipping for Lisbon, where I arrived in April following

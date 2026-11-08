@@ -2,8 +2,13 @@
 publish: true
 title: Costa Rica
 created: 2016-07-11
-modified: 2026-11-07T06:58:54.556Z
-published: 2026-11-07T06:58:54.556Z
+modified: 2026-11-07T06:58:55.000Z
+published: 2026-11-07T06:58:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Costa Rica.svg
 aliases: []
 books:
   - Our First Year of Early Retirement
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 10
   - -84
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Costa Rica.svg
 ---
 
@@ -36,9 +37,10 @@ Country in Central America. A subject in “Our First Year of Early Retirement�
 | Our First Year of Early Retirement | freedomwithbruno.com | subject | Home for five months of the retirement year; site of the ER trip behind the September spending spike. |
 | 15 Reality-Shattering Thought Experiments That Will Unplug You From the Matrix | HighExistence | setting | The author recounts culture shock in Costa Rica, where locals told him to relax when he kept asking about plans |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=10&mlon=-84#map=11/10/-84) · [Google Maps](https://www.google.com/maps/search/?api=1&query=10,-84)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=10\&mlon=-84#map=11/10/-84) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=10,-84)
 
 ## Sub-places
+
 - [[Arenal Volcano National Park]]
 - [[Juan Santamaría International Airport]]
 - [[La Fortuna Waterfall]]
@@ -49,6 +51,7 @@ Country in Central America. A subject in “Our First Year of Early Retirement�
 - [[Selvatura Park]]
 
 ## Our First Year of Early Retirement — freedomwithbruno.com (2022)
+
 Source: [Original](http://freedomwithbruno.com/first-year-early-retirement/) · [Readwise highlight](https://read.readwise.io/read/01m5jkz8s3wnc3cwkbf28wpx69)
 
 > Our September expenses include an unexpected trip to the ER in Costa Rica.
@@ -58,6 +61,7 @@ Source: [Original](http://freedomwithbruno.com/first-year-early-retirement/) · 
 - **Why it matters:** Costa Rica is where much of the year and its biggest cost event happened; the low cost of living helped their withdrawal-rate argument.
 
 ## 15 Reality-Shattering Thought Experiments That Will Unplug You From the Matrix — HighExistence (2016)
+
 Source: [Original](https://highexistence.com/15-reality-shattering-thought-experiments-that-will-unplug-you-from-the-matrix/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9b9pzjjjgts4v76k3qs1)
 
 > In Costa Rica, people saw me as too stressed out because I kept asking about the future.

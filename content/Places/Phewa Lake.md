@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Phewa Lake
-created: 2026-10-23T05:12:03.000Z
-modified: 2026-11-07T06:54:52.909Z
-published: 2026-11-07T06:54:52.909Z
 aliases:
   - Fewa Lake
+title: Phewa Lake
+created: 2025-09-24
+modified: 2026-11-07T06:54:53.000Z
+published: 2026-11-07T06:54:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Phewa Lake.svg
 books:
   - "[[On the Hippie Trail]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 28.2117
   - 83.9488
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nepal]]"
 image: Attachments/Places/Phewa Lake.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Phewa Lake.svg
 Lake beside Pokhara in central Nepal, below the Annapurna range. In _On the Hippie Trail_ Rick and Gene spend an idyllic day there by dugout canoe.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | setting | A dugout-canoe day: swimming, a waterfall past leeches and a welcome in the village of Anadu. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.2117&mlon=83.9488#map=16/28.2117/83.9488) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.2117,83.9488)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.2117\&mlon=83.9488#map=16/28.2117/83.9488) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=28.2117,83.9488)
 
 ## On the Hippie Trail — Rick Steves (2025)
+
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjf51bnzmbpp867jgs584n)
 
 > Phewa Lake by canoe was high on our list.

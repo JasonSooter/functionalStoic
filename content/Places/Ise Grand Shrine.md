@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Ise Grand Shrine
-created: 2025-11-29
-modified: 2026-11-07T06:54:28.979Z
-published: 2026-11-07T06:54:28.979Z
 aliases:
   - Ise Jingu
   - Ise Shrine
+title: Ise Grand Shrine
+created: 2025-11-29
+modified: 2026-11-07T06:54:29.000Z
+published: 2026-11-07T06:54:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ise Grand Shrine.svg
 books:
   - Breakneck
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 34.455
   - 136.7258
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Japan]]"
 image: Attachments/Places/Ise Grand Shrine.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Ise Grand Shrine.svg
 Shinto shrine complex at Ise, Mie prefecture, [[Japan]], which Dan Wang uses in Breakneck as the model of process knowledge, rebuilt every twenty years.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakneck | Dan Wang | subject | Japan's holiest Shinto shrine as the model of process knowledge: rebuilt every twenty years, so each generation learns the craft. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.455&mlon=136.7258#map=16/34.455/136.7258) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.455,136.7258)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.455\&mlon=136.7258#map=16/34.455/136.7258) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.455,136.7258)
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dqz1w797qt1tdnpccmz5f5)
 
 > Since it was first erected in 690 AD, craftspeople have completely rebuilt its sacred temples—made of wood and hay—every twenty years.

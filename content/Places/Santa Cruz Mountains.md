@@ -2,8 +2,13 @@
 publish: true
 title: Santa Cruz Mountains
 created: 2020-01-19
-modified: 2026-11-07T06:52:44.135Z
-published: 2026-11-07T06:52:44.135Z
+modified: 2026-11-07T06:52:44.000Z
+published: 2026-11-07T06:52:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Santa Cruz Mountains.svg
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 37.111
   - -121.8442
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Santa Cruz Mountains.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Santa Cruz Mountains.svg
 Redwood-covered mountain range in [[California]], where Jenny Odell's cabin retreat in How to Do Nothing is invaded by the red light of wildfires.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | Staying in a cabin to write, Odell hikes among redwoods and sees wildfire-reddened light; fire breaks out near her parents' home. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.111&mlon=-121.8442#map=16/37.111/-121.8442) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.111,-121.8442)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.111\&mlon=-121.8442#map=16/37.111/-121.8442) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.111,-121.8442)
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5e31qhbnv07hfxtfpejjeq3)
 
 > This time, it was in the Santa Cruz Mountains, and I was specifically trying to focus on writing this book. But on my leisurely hikes through the redwoods, I noticed that the light filtering through the trees was red in the afternoon.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Torvalds family apartment (Petersgatan)
-created: 2025-08-31
-modified: 2026-11-07T06:53:37.123Z
-published: 2026-11-07T06:53:37.123Z
 aliases:
   - Petersgatan apartment
+title: Torvalds family apartment (Petersgatan)
+created: 2025-08-31
+modified: 2026-11-07T06:53:37.000Z
+published: 2026-11-07T06:53:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Torvalds family apartment (Petersgatan).svg
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 60.1581
   - 24.9525
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Helsinki]]"
 image: Attachments/Places/Torvalds family apartment (Petersgatan).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Torvalds family apartment (Petersgatan).svg
 Apartment on Petersgatan (Pietarinkatu) in Helsinki's Ullanlinna district, near the waterfront. In _Just for Fun_ it is Linus Torvalds's teenage home, where Linux was written in a small bedroom.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | The small black-curtained bedroom where Linus writes the Linux kernel in 1991; his mother later jokes it deserves a plaque. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.1581&mlon=24.9525#map=10/60.1581/24.9525) · [Google Maps](https://www.google.com/maps/search/?api=1&query=60.1581,24.9525)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.1581\&mlon=24.9525#map=10/60.1581/24.9525) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=60.1581,24.9525)
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
+
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrjjr77ry26cj5jwn29nv)
 
 > It was on the first floor of a solid old Russian-era building on Petersgatan, near the gracious park that lines Helsinki’s waterfront.

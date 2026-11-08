@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Gare de l'Est
-created: 2026-10-29
-modified: 2026-11-07T06:56:40.691Z
-published: 2026-11-07T06:56:40.691Z
 aliases:
   - Paris Gare de l'Est
   - Paris-Est
+title: Gare de l'Est
+created: 2026-10-29
+modified: 2026-11-07T06:56:41.000Z
+published: 2026-11-07T06:56:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gare de l'Est.svg
 books:
   - "To France with the Deutschlandticket: Here's How"
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 48.8769
   - 2.3592
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Paris]]"
 image: Attachments/Places/Gare de l'Est.svg
 ---
@@ -36,9 +37,10 @@ Mainline railway station in Paris, the terminus for trains to eastern France. VA
 |---|---|---|---|
 | To France with the Deutschlandticket: Here's How | VAG Freiburg | journey waypoint | Outside Grand Est, but at the edge of the TER Fluo area, so some routes reach Paris; some trains need a free seat reservation. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.8769&mlon=2.3592#map=16/48.8769/2.3592) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.8769,2.3592)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.8769\&mlon=2.3592#map=16/48.8769/2.3592) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.8769,2.3592)
 
 ## To France with the Deutschlandticket: Here's How — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/mit-dem-deutschlandticket-nach-frankreich-so-gehts/) · [Readwise highlight](https://read.readwise.io/read/01m64yyk0krhfg61dvch1ndyr8)
 
 > Paris is not actually part of the Grand Est region, but the Gare de l’Est station lies at the edge of the area where TER Fluo connections are valid.

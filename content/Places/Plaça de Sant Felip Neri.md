@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Plaça de Sant Felip Neri
-created: 2026-10-22T23:16:58.000Z
-modified: 2026-11-07T06:55:45.446Z
-published: 2026-11-07T06:55:45.446Z
+created: 2016-10-23
+modified: 2026-11-07T06:55:45.000Z
+published: 2026-11-07T06:55:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Plaça de Sant Felip Neri.svg
 aliases: []
 books:
   - Why Cities and Walking Go Hand in Hand
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 41.3834
   - 2.1751
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Barcelona]]"
 image: Attachments/Places/Plaça de Sant Felip Neri.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Plaça de Sant Felip Neri.svg
 Small square in Barcelona's Gothic Quarter, where a 1938 bombing killed schoolchildren. A walking essay describes its lingering grief without naming it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Cities and Walking Go Hand in Hand | Sandy James | subject | A square tucked behind a cathedral, with soaring walls and families picnicking, is where school children were killed under Franco |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.3834&mlon=2.1751#map=16/41.3834/2.1751) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.3834,2.1751)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.3834\&mlon=2.1751#map=16/41.3834/2.1751) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.3834,2.1751)
 
 ## Why Cities and Walking Go Hand in Hand — Sandy James (2016)
+
 Source: [Original](https://www.strongtowns.org/journal/2016/8/22/why-cities-and-walking-go-hand-in-hand) · [Readwise highlight](https://read.readwise.io/read/01m5jy89c3wxk5s703erc0tbyt)
 
 > This was a place where school children had been killed during the time of Franco-the space still held that grief, despite the fact that there was no marker depicting what had happened.

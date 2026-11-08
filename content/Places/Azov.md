@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Azov
-created: 2026-10-23
-modified: 2026-11-07T06:56:25.614Z
-published: 2026-11-07T06:56:25.614Z
 aliases:
   - Azof
+title: Azov
+created: 2026-10-23
+modified: 2026-11-07T06:56:26.000Z
+published: 2026-11-07T06:56:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Azov.svg
 books:
   - "[[Candide]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 47.1083
   - 39.4181
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Azov.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Azov.svg
 Azov is a town on the lower Don near the Sea of Azov in southern Russia, long fought over by the Ottomans and Russians. In _Candide_ the old woman survives its siege, where she loses a buttock.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | backdrop | The old woman's Aga defends besieged Azof; the starving Janissaries eat each woman's buttock before the Russians kill them |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.1083&mlon=39.4181#map=16/47.1083/39.4181) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.1083,39.4181)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.1083\&mlon=39.4181#map=16/47.1083/39.4181) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.1083,39.4181)
 
 ## Candide — Voltaire (1759)
+
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75axbrs4ws8v1s9cja8az)
 
 > At length I became the property of an Aga of the Janissaries, who was soon ordered away to the defence of Azof, then besieged by the Russians.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Richmond, London
-created: 2026-10-22T13:41:18.000Z
-modified: 2026-11-07T07:00:11.859Z
-published: 2026-11-07T07:00:11.859Z
+created: 2016-08-31
+modified: 2026-11-07T07:00:12.000Z
+published: 2026-11-07T07:00:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Richmond, London.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.456
   - -0.301
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Richmond, London.svg
 ---
@@ -36,7 +37,7 @@ Riverside suburb in south-west London; in _Life on Air_ Attenborough's family ho
 | Life on Air | David Attenborough | setting | Attenborough's family home fills with animals from his expeditions. |
 | How Virginia Woolf and Vita Sackville-West Fell in Love | Maria Popova | setting | After meeting Woolf in December 1922, Vita reports being invited to Richmond, where Woolf lived |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.456&mlon=-0.301#map=11/51.456/-0.301) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.456,-0.301)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.456\&mlon=-0.301#map=11/51.456/-0.301) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.456,-0.301)
 
 ## Sub-places
 
@@ -44,6 +45,7 @@ Riverside suburb in south-west London; in _Life on Air_ Attenborough's family ho
 - [[The Time Traveller's house (The Time Machine)]]
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx22q765arknnwa6cq9bx3)
 
 > So after each Zoo Quest trip, our menagerie m Richmond expanded
@@ -53,6 +55,7 @@ Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Re
 - **Why it matters:** Domestic counterpart of the expeditions and where the animals are cared for; a lively but anecdotal setting.
 
 ## How Virginia Woolf and Vita Sackville-West Fell in Love — Maria Popova (2016)
+
 Source: [Original](https://www.brainpickings.org/2016/07/28/virginia-woolf-vita-sackville-west/) · [Readwise highlight](https://read.readwise.io/read/01m5jx8a9tyyxkxdedch41tg8r)
 
 > At least, she asked me to Richmond where she lives. Darling, I have quite lost my heart.

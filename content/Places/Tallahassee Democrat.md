@@ -2,8 +2,13 @@
 publish: true
 title: Tallahassee Democrat
 created: 2024-05-18
-modified: 2026-11-07T07:02:02.110Z
-published: 2026-11-07T07:02:02.110Z
+modified: 2026-11-07T07:02:02.000Z
+published: 2026-11-07T07:02:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tallahassee Democrat.svg
 aliases: []
 books:
   - How to Be an Antiracist
@@ -17,10 +22,6 @@ icon: book
 location:
   - 30.4419
   - -84.2819
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tallahassee]]"
 image: Attachments/Places/Tallahassee Democrat.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Tallahassee Democrat.svg
 Daily newspaper in Tallahassee, Florida. In How to Be an Antiracist (Ibram X. Kendi) a meeting in its editor's office turns him toward antiracism.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | turning point | Editor's office where a confrontation turns Kendi toward antiracism. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.4419&mlon=-84.2819#map=10/30.4419/-84.2819) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.4419,-84.2819)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.4419\&mlon=-84.2819#map=10/30.4419/-84.2819) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=30.4419,-84.2819)
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fzdf46b2dh4ke8qpmmgq2m)
 
 > editor, in the autumn of 2003, I saw the tall, slim, light-skinned actor Christopher Duncan.

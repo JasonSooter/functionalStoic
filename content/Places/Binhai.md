@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Binhai
-created: 2025-11-29
-modified: 2026-11-07T07:00:17.852Z
-published: 2026-11-07T07:00:17.852Z
 aliases:
   - Binhai New Area
+title: Binhai
+created: 2025-11-29
+modified: 2026-11-07T07:00:18.000Z
+published: 2026-11-07T07:00:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Binhai.svg
 books:
   - Breakneck
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 39.0088
   - 117.7106
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tianjin]]"
 image: Attachments/Places/Binhai.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Binhai.svg
 Binhai New Area, the coastal development zone of [[Tianjin]], China. In Dan Wang's _Breakneck_ it is the emblem of building hardware without the substance to fill it, with empty towers and a library of fake book spines.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | subject | "China's Manhattan": empty towers and a library of fake spines. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.0088&mlon=117.7106#map=16/39.0088/117.7106) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0088,117.7106)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.0088\&mlon=117.7106#map=16/39.0088/117.7106) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.0088,117.7106)
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dcnmvf3hwxkwms3bebkn06p)
 
 > The skyscrapers in Binhai, the zone that Tianjin has designated a financial district, are mostly empty.

@@ -2,8 +2,13 @@
 publish: true
 title: Al-Aqsa Mosque
 created: 2024-12-21
-modified: 2026-11-07T06:52:57.176Z
-published: 2026-11-07T06:52:57.176Z
+modified: 2026-11-07T06:52:57.000Z
+published: 2026-11-07T06:52:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Al-Aqsa Mosque.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 31.7761
   - 35.2358
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Old City of Jerusalem]]"
 image: Attachments/Places/Al-Aqsa Mosque.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Al-Aqsa Mosque.svg
 Mosque on the Temple Mount in the Old City of Jerusalem. A turning point in Colum McCann's _Apeirogon_: Site of the 1969 arson of Saladin's minbar and its 37-year reconstruction; Bassam visited it as a six-year-old.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | turning point | Site of the 1969 arson of Saladin's minbar and its 37-year reconstruction; Bassam visited it as a six-year-old. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7761&mlon=35.2358#map=16/31.7761/35.2358) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7761,35.2358)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7761\&mlon=35.2358#map=16/31.7761/35.2358) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.7761,35.2358)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqc7t0wdfz0y30czgrsz5)
 
 > Inside the mosque, Rohan opened his backpack, laid a scarf down on the steps, sprinkled kerosene over it, climbed the staircase, doused the pulpit with benzene and then set it all alight.

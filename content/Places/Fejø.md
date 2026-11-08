@@ -2,8 +2,13 @@
 publish: true
 title: Fejø
 created: 2025-04-13
-modified: 2026-11-07T06:53:48.048Z
-published: 2026-11-07T06:53:48.048Z
+modified: 2026-11-07T06:53:48.000Z
+published: 2026-11-07T06:53:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Fejø.svg
 aliases: []
 books:
   - "[[The Little Book of Hygge - The Danish Way to Live Well]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 54.95
   - 11.4333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Denmark]]"
 image: Attachments/Places/Fejø.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Fejø.svg
 Small island in southern Denmark known for its orchards. In _The Little Book of Hygge_ Meik Wiking and his friends go there each year to pick apples and plums.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Little Book of Hygge - The Danish Way to Live Well\|The Little Book of Hygge: The Danish Way to Live Well]] | Meik Wiking | setting | Wiking's yearly fruit-picking trip with friends, an example of orchard hygge. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=54.95&mlon=11.4333#map=16/54.95/11.4333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=54.95,11.4333)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=54.95\&mlon=11.4333#map=16/54.95/11.4333) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=54.95,11.4333)
 
 ## The Little Book of Hygge: The Danish Way to Live Well — Meik Wiking (2016)
+
 Source: [[The Little Book of Hygge - The Danish Way to Live Well]] · [Original](https://openlibrary.org/works/OL19352003W) · [Readwise highlight](https://read.readwise.io/read/01jrfyb6s0thyapnk9g9x4cy6p)
 
 > About once a year, my friends and I go to Fejø – a small island in the southern part of Denmark known for its apples.

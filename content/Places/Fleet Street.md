@@ -2,8 +2,13 @@
 publish: true
 title: Fleet Street
 created: 2026-04-02
-modified: 2026-11-07T06:54:19.523Z
-published: 2026-11-07T06:54:19.523Z
+modified: 2026-11-07T06:54:20.000Z
+published: 2026-11-07T06:54:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Fleet Street.svg
 aliases: []
 books:
   - "[[Brave New World]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 51.5138
   - -0.1105
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[City of London]]"
 image: Attachments/Places/Fleet Street.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Fleet Street.svg
 Historic street in the City of London, long the home of British newspapers. In _Brave New World_ it holds Propaganda House, Helmholtz Watson's workplace.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | setting | Propaganda House, the sixty-storey home of the Bureaux of Propaganda and the College of Emotional Engineering. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5138&mlon=-0.1105#map=16/51.5138/-0.1105) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5138,-0.1105)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5138\&mlon=-0.1105#map=16/51.5138/-0.1105) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.5138,-0.1105)
 
 ## Brave New World — Aldous Huxley (1932)
+
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvae7prjphranvbqatyms4)
 
 > The various Bureaux of Propaganda and the College of Emotional Engineering were housed in a single sixty-story building in Fleet Street.

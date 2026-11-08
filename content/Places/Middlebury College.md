@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Middlebury College
-created: 2016-07-28
-modified: 2026-11-07T06:56:11.764Z
-published: 2026-11-07T06:56:11.764Z
 aliases:
   - Middlebury College
+title: Middlebury College
+created: 2016-07-28
+modified: 2026-11-07T06:56:12.000Z
+published: 2026-11-07T06:56:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Middlebury College.svg
 books:
   - "[[The Soul of an Octopus]]"
   - Schools Are Failing To Develop Students With Moral Identities
@@ -19,10 +24,6 @@ icon: book
 location:
   - 44.0089
   - -73.1772
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vermont]]"
 image: Attachments/Places/Middlebury College.svg
 ---
@@ -38,9 +39,10 @@ Liberal arts college in Middlebury, Vermont, which hosted the small octopus lab.
 | [[The Soul of an Octopus]] | Sy Montgomery | backdrop | Vermont college lab where students ran mazes with unruly octopuses |
 | Schools Are Failing To Develop Students With Moral Identities | Paul Barnwell | setting | The author recalls a freshman seminar at Middlebury where reading Kozol and wrestling with personal responsibility and injustice shaped… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.0089&mlon=-73.1772#map=10/44.0089/-73.1772) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.0089,-73.1772)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.0089\&mlon=-73.1772#map=10/44.0089/-73.1772) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.0089,-73.1772)
 
 ## The Soul of an Octopus — Sy Montgomery (2015)
+
 Source: [[The Soul of an Octopus]] · [Original](https://openlibrary.org/books/OL27182716M/The_Soul_of_an_Octopus) · [Readwise highlight](https://read.readwise.io/read/01m5fmt5hysbqppzkqkrzsvq1e)
 
 > Alexa was a pre-veterinary student at Middlebury College’s newly created octopus lab in Vermont.
@@ -50,6 +52,7 @@ Source: [[The Soul of an Octopus]] · [Original](https://openlibrary.org/books/O
 - **Why it matters:** A secondhand anecdote the narrator relays, but it dwells on the place and illustrates octopus intelligence in a research setting. Minor to the narrative route.
 
 ## Schools Are Failing To Develop Students With Moral Identities — Paul Barnwell (2016)
+
 Source: [Original](https://www.theatlantic.com/education/archive/2016/07/students-broken-moral-compasses/492866/) · [Readwise highlight](https://read.readwise.io/read/01m5jx8222dx8vf4q8r0vzmca4)
 
 > A couple years later, I signed up for a freshman seminar in college titled “Education and Social Inequality” at Middlebury College in Vermont.

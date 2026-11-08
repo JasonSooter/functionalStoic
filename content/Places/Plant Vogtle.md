@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Plant Vogtle
-created: 2026-10-21T02:07:36.000Z
-modified: 2026-11-07T06:55:40.850Z
-published: 2026-11-07T06:55:40.850Z
+created: 2025-04-11
+modified: 2026-11-07T06:55:41.000Z
+published: 2026-11-07T06:55:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Plant Vogtle.svg
 aliases: []
 books:
   - "[[Can We Have Abundance What About Flying Cars]]"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 33.1433
   - -81.7606
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Georgia (U.S. state)]]"
 image: Attachments/Places/Plant Vogtle.svg
 ---
@@ -29,17 +30,19 @@ image: Attachments/Places/Plant Vogtle.svg
 Nuclear plant site in [[Georgia (U.S. state)]], United States, which the reading offers as the example of how costly US nuclear construction is.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[Can We Have Abundance What About Flying Cars\|Can We Have Abundance? What About Flying Cars?]] | Ben Putano | subject | Offered as the example of how costly US nuclear building is, versus Chinese plants of the same size at $6-7 billion in 5-7 years. |
+| [[Can We Have Abundance What About Flying Cars\|Can We Have Abundance? What About Flying Cars?]] | Ben Putano | subject | Offered as the example of how costly US nuclear building is, versus Chinese plants of the same size at \$6-7 billion in 5-7 years. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.1433&mlon=-81.7606#map=16/33.1433/-81.7606) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.1433,-81.7606)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.1433\&mlon=-81.7606#map=16/33.1433/-81.7606) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.1433,-81.7606)
 
 ## Can We Have Abundance? What About Flying Cars? — Ben Putano (2025)
+
 Source: [[Can We Have Abundance What About Flying Cars]] · [Original](https://damngrav.substack.com/p/can-we-have-abundance-what-about) · [Readwise highlight](https://read.readwise.io/read/01m5e2yrwjw4trn1kttve7sc9t)
 
 > Plant Vogtle, the only nuclear power plant built in the US since the 1970s,
 
 - **Role:** subject
-- **In the article:** The plant is offered as the example of how prohibitively expensive US nuclear construction is, compared with Chinese plants of the same size costing $6-7 billion and taking 5-7 years.
+- **In the article:** The plant is offered as the example of how prohibitively expensive US nuclear construction is, compared with Chinese plants of the same size costing \$6-7 billion and taking 5-7 years.
 - **Why it matters:** It is the evidence for the claim that the problem is the difficulty of building, not just bans.

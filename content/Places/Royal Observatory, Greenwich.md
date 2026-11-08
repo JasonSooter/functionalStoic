@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Royal Observatory, Greenwich
-created: 2024-05-18
-modified: 2026-11-07T07:01:50.191Z
-published: 2026-11-07T07:01:50.191Z
 aliases:
   - Greenwich Observatory
+title: Royal Observatory, Greenwich
+created: 2024-05-18
+modified: 2026-11-07T07:01:50.000Z
+published: 2026-11-07T07:01:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Royal Observatory, Greenwich.svg
 books:
   - "Sapiens: A Brief History of Humankind"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.477
   - -0.0147
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Royal Observatory, Greenwich.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Royal Observatory, Greenwich.svg
 The Royal Observatory at Greenwich, in south-east London, is the home of Greenwich Mean Time. _Sapiens_ uses the adoption of Greenwich time by railways as the birth of a national clock.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | Railway timetables set to Greenwich time in 1847; by 1880 Britain had the world's first national time. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.477&mlon=-0.0147#map=16/51.477/-0.0147) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.477,-0.0147)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.477\&mlon=-0.0147#map=16/51.477/-0.0147) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.477,-0.0147)
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
+
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m77bh60se06zpbrz4g4aaq)
 
 > In 1847, British train companies put their heads together and agreed that henceforth all train timetables would be calibrated to Greenwich Observatory time, rather than the local times of Liverpool, Manchester or Glasgow.

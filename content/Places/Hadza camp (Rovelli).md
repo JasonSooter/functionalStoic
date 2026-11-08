@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Hadza camp
-created: 2026-10-19
-modified: 2026-11-07T07:01:42.055Z
-published: 2026-11-07T07:01:42.055Z
 aliases:
   - Eyasi basin
   - Hadza territory
   - Hadzabe country
+title: Hadza camp
+created: 2026-10-19
+modified: 2026-11-07T07:01:42.000Z
+published: 2026-11-07T07:01:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hadza camp (Rovelli).svg
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -21,10 +26,6 @@ icon: book
 location:
   - -3.5833
   - 35
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tanzania]]"
 image: Attachments/Places/Hadza camp (Rovelli).svg
 ---
@@ -34,13 +35,15 @@ image: Attachments/Places/Hadza camp (Rovelli).svg
 Hadza camp in the Lake Eyasi region of [[Tanzania]], pinned at a best-guess location. It is the likely real place behind Carlo Rovelli's essay There Are Places in the World Where Rules Are Less Important Than Kindness.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | setting | Rovelli drives out before dawn and walks through the savannah to a Hadza camp, where he trades his Opinel knife for friendship. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-3.5833&mlon=35#map=16/-3.5833/35) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-3.5833,35)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-3.5833\&mlon=35#map=16/-3.5833/35) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-3.5833,35)
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2018)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0j2n7ebvs9b2n6bmctb9)
 
 > After a long drive we catch sight of them. Five or six men sitting around a small fire.

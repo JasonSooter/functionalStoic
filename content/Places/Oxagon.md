@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Oxagon
-created: 2026-10-20T10:42:11.000Z
-modified: 2026-11-07T06:53:16.974Z
-published: 2026-11-07T06:53:16.974Z
+created: 2026-01-22
+modified: 2026-11-07T06:53:17.000Z
+published: 2026-11-07T06:53:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Oxagon.svg
 aliases: []
 books:
   - Is The Line Really Dead?
@@ -17,10 +22,6 @@ icon: video
 location:
   - 27.5679
   - 35.546
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Saudi Arabia]]"
 image: Attachments/Places/Oxagon.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Oxagon.svg
 Planned port and industrial city in NEOM, on the Red Sea coast of [[Saudi Arabia]], which a B1M video says The Line's supply chain depends on.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Is the Line Really Dead\|Is The Line Really Dead?]] | The B1M | turning point | Where the seawater and concrete supply chain for The Line is meant to begin. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.5679&mlon=35.546#map=10/27.5679/35.546) · [Google Maps](https://www.google.com/maps/search/?api=1&query=27.5679,35.546)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.5679\&mlon=35.546#map=10/27.5679/35.546) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=27.5679,35.546)
 
 ## Is The Line Really Dead? — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=zFVYgZMEOFg) · [Readwise highlight](https://read.readwise.io/read/01m5ce3frfqbc8346hd1bcgf05)
 
 > It all begins here at The Oxagon, another of NEOM’s megaprojects

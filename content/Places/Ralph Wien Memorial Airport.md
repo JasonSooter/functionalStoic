@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Ralph Wien Memorial Airport
-created: 2026-10-21T19:23:37.000Z
-modified: 2026-11-07T06:58:21.103Z
-published: 2026-11-07T06:58:21.103Z
 aliases:
   - Kotzebue airport
   - Kotzebue
+title: Ralph Wien Memorial Airport
+created: 2023-07-30
+modified: 2026-11-07T06:58:21.000Z
+published: 2026-11-07T06:58:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ralph Wien Memorial Airport.svg
 books:
   - "[[The Comfort Crisis]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 66.8847
   - -162.5986
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alaska]]"
 image: Attachments/Places/Ralph Wien Memorial Airport.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Ralph Wien Memorial Airport.svg
 Airport of Kotzebue, a village on the Chukchi Sea in northwest Alaska, above the Arctic Circle. It is where The Comfort Crisis (Michael Easter) opens, on the tarmac before a 33-day Arctic trek.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | setting | Opening scene: waiting on the Kotzebue tarmac to fly into the Arctic for a 33-day hunt. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=66.8847&mlon=-162.5986#map=16/66.8847/-162.5986) · [Google Maps](https://www.google.com/maps/search/?api=1&query=66.8847,-162.5986)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=66.8847\&mlon=-162.5986#map=16/66.8847/-162.5986) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=66.8847,-162.5986)
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fycx65vbxptb1q0s51yt13)
 
 > I’M STANDING ON a windy tarmac in Kotzebue, Alaska, a 3,000-person village 20 miles above the Arctic Circle on the Chukchi Sea.

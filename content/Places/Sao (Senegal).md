@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sao
-created: 2026-10-19
-modified: 2026-11-07T06:52:50.824Z
-published: 2026-11-07T06:52:50.824Z
 aliases:
   - Saw
+title: Sao
+created: 2026-10-19
+modified: 2026-11-07T06:52:51.000Z
+published: 2026-11-07T06:52:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sao (Senegal).svg
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 14.485
   - -16.6658
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Senegal]]"
 image: Attachments/Places/Sao (Senegal).svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Sao (Senegal).svg
 Village in [[Senegal]], the likely real place behind Carlo Rovelli's 'real Africa' day trip from Mbour in There Are Places in the World Where Rules Are Less Important Than Kindness.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | turning point | Staying in Mbour in January, Rovelli picks Sao off the map for its name and travels there by taxi, bus and Barri's battered Peugeot. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=14.485&mlon=-16.6658#map=16/14.485/-16.6658) · [Google Maps](https://www.google.com/maps/search/?api=1&query=14.485,-16.6658)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=14.485\&mlon=-16.6658#map=16/14.485/-16.6658) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=14.485,-16.6658)
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2018)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0kcxvhtr3pg5c94461r2)
 
 > And then we arrive in Sao. A Sao that turns out to be completely unlike the one I was expecting.

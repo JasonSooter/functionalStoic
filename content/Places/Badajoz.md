@@ -2,8 +2,13 @@
 publish: true
 title: Badajoz
 created: 2016-08-15
-modified: 2026-11-07T06:56:57.823Z
-published: 2026-11-07T06:56:57.823Z
+modified: 2026-11-07T06:56:58.000Z
+published: 2026-11-07T06:56:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Badajoz.svg
 aliases: []
 books:
   - Are we living through another 1930s?
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 38.8803
   - -6.9753
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Spain]]"
 image: Attachments/Places/Badajoz.svg
 ---
@@ -29,16 +30,19 @@ image: Attachments/Places/Badajoz.svg
 City in Extremadura, Spain, site of a 1936 massacre. A Guardian essay uses it to ask whether we live in another 1930s.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Are we living through another 1930s? | Paul Mason | subject | Used as an example of 1930s brutality to argue that today's generation is even more brutalised |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8803&mlon=-6.9753#map=11/38.8803/-6.9753) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8803,-6.9753)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8803\&mlon=-6.9753#map=11/38.8803/-6.9753) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.8803,-6.9753)
 
 ## Sub-places
+
 _None yet._
 
 ## Are we living through another 1930s? — Paul Mason (2016)
+
 Source: [Original](https://www.theguardian.com/commentisfree/2016/aug/01/are-we-living-through-another-1930s-paul-mason) · [Readwise highlight](https://read.readwise.io/read/01m5jx881jsckma503f8nng6m5)
 
 > When Franco’s troops took Badajoz, and put 2,000 of its inhabitants against the wall in the early days of the Spanish civil war, the Wehrmacht’s military observer was so disgusted that he advised German troops should never be allowed to serve alongside Franco’s lest they become “brutalised”.

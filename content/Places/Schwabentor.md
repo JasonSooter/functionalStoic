@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Schwabentor
-created: 2026-09-03
-modified: 2026-11-07T06:53:34.607Z
-published: 2026-11-07T06:53:34.607Z
 aliases:
   - Swabian Gate
+title: Schwabentor
+created: 2026-09-03
+modified: 2026-11-07T06:53:35.000Z
+published: 2026-11-07T06:53:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Schwabentor.svg
 books:
-  - "VAG History: Freiburg Tram Drivers Also Collected for the Bereaved and Refugees\
-    \ During the First World War"
+  - "VAG History: Freiburg Tram Drivers Also Collected for the Bereaved and Refugees During the First World War"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 47.9931
   - 7.8542
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg]]"
 image: Attachments/Places/Schwabentor.svg
 ---
@@ -30,13 +30,15 @@ image: Attachments/Places/Schwabentor.svg
 Medieval city gate on the east side of Freiburg's old town, towards the Dreisam, Germany, where a First World War "nail tree" for the Red Cross once stood. See [[Freiburg|Freiburg]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[VAG History - Freiburg Tram Drivers Also Collected for the Bereaved and Refugees During the First World War\|VAG History: Freiburg Tram Drivers Also Collected for the Bereaved and Refugees During the First World War]] | VAG Freiburg | setting | Where a First World War "nail tree" stood, studded with nails bought for the Red Cross. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.9931&mlon=7.8542#map=16/47.9931/7.8542) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.9931,7.8542)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.9931\&mlon=7.8542#map=16/47.9931/7.8542) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.9931,7.8542)
 
 ## VAG History: Freiburg Tram Drivers Also Collected for the Bereaved and Refugees During the First World War — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/vag-historisch-auch-freiburger-strassenbahnfahrer-sammelten-im-ersten-weltkrieg-fuer-hinterbliebene-und-fluechtlinge/) · [Readwise highlight](https://read.readwise.io/read/01m5beybyscfn1v6v2m955zgx2)
 
 > As the location, they chose the space between the two gate passages at the Schwabentor towards the Dreisam.

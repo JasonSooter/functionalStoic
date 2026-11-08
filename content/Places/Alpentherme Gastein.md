@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Alpentherme Gastein
-created: 2024-03-04
-modified: 2026-11-07T06:53:45.088Z
-published: 2026-11-07T06:53:45.088Z
 aliases:
   - Alpentherme
+title: Alpentherme Gastein
+created: 2024-03-04
+modified: 2026-11-07T06:53:45.000Z
+published: 2026-11-07T06:53:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Alpentherme Gastein.svg
 books:
-  - Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New
-    York Times
+  - Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 47.1692
   - 13.1048
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austria]]"
 image: Attachments/Places/Alpentherme Gastein.svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Alpentherme Gastein.svg
 Thermal spa in the Gastein valley south of Salzburg, Austria. It turns up in Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times (Valeriya Safronova): closing scene: the party-themed aufguss where the writer finally lets go.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times | Valeriya Safronova | setting | Closing scene: the party-themed aufguss where the writer finally lets go. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.1692&mlon=13.1048#map=16/47.1692/13.1048) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.1692,13.1048)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.1692\&mlon=13.1048#map=16/47.1692/13.1048) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.1692,13.1048)
 
 ## Visiting Nude Saunas in Austria and Germany Without Feeling Awkward - The New York Times — Valeriya Safronova (2024)
+
 Source: [Original](https://www.nytimes.com/2024/02/26/travel/nude-spas-saunas-europe.html) · [Readwise highlight](https://read.readwise.io/read/01m5fmqhmqy5kaf57fs7y9xke3)
 
 > about 90 minutes south of Salzburg (day visit, €45.50), for a party-themed evening aufguss.

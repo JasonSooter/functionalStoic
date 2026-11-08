@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Bauhaus (Weimar)
-created: 2026-01-04
-modified: 2026-11-07T06:57:57.601Z
-published: 2026-11-07T06:57:57.601Z
 aliases:
   - Bauhaus-Universität Weimar
   - Kunstschule Weimar
   - Staatliches Bauhaus
+title: Bauhaus (Weimar)
+created: 2026-01-04
+modified: 2026-11-07T06:57:58.000Z
+published: 2026-11-07T06:57:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bauhaus (Weimar).svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -20,10 +25,6 @@ icon: book
 location:
   - 50.9744
   - 11.3283
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Weimar]]"
 image: Attachments/Places/Bauhaus (Weimar).svg
 ---
@@ -33,13 +34,15 @@ image: Attachments/Places/Bauhaus (Weimar).svg
 The art school buildings in Weimar where Walter Gropius founded the Bauhaus in 1919, now the Bauhaus-Universität. In _Germany: Memories of a Nation_ it is the cradle of modern design.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Where Gropius founded the Bauhaus in 1919, rooting modern design in the medieval guild and cathedral workshop. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.9744&mlon=11.3283#map=10/50.9744/11.3283) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.9744,11.3283)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.9744\&mlon=11.3283#map=10/50.9744/11.3283) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.9744,11.3283)
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76c5pfhatpcg7px9ghdwf)
 
 > And in that same year, 1919, Gropius himself established in Weimar another new institution also inspired by historic German values, the School of Architecture, Art and Design now known throughout the world as the Bauhaus.

@@ -2,8 +2,13 @@
 publish: true
 title: Sarajevo
 created: 2026-08-26
-modified: 2026-11-07T06:52:51.896Z
-published: 2026-11-07T06:52:51.896Z
+modified: 2026-11-07T06:52:52.000Z
+published: 2026-11-07T06:52:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sarajevo.svg
 aliases: []
 books:
   - Neither Here Nor There
@@ -15,10 +20,6 @@ icon: book
 location:
   - 43.8564
   - 18.4131
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Sarajevo.svg
 ---
 
@@ -27,16 +28,19 @@ image: Attachments/Places/Sarajevo.svg
 Capital of Bosnia and Herzegovina, on the river Miljacka, where Bill Bryson first feels in Neither Here Nor There that he has left western Europe.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | journey waypoint | Minarets, Cyrillic signs and a hotel dining room where Bryson is the only customer who can afford it. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.8564&mlon=18.4131#map=11/43.8564/18.4131) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.8564,18.4131)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.8564\&mlon=18.4131#map=11/43.8564/18.4131) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.8564,18.4131)
 
 ## Sub-places
+
 _None yet._
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bekf7jeym29qehpy1hdk59)
 
 > Seven slow, hot hours after leaving Split, we rolled into Sarajevo, capital of the republic of Bosnia-Hercegovina.

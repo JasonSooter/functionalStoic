@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Oodi (Helsinki Central Library)
-created: 2026-10-21T02:07:42.000Z
-modified: 2026-11-07T06:52:30.774Z
-published: 2026-11-07T06:52:30.774Z
+created: 2025-11-18
+modified: 2026-11-07T06:52:31.000Z
+published: 2026-11-07T06:52:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Oodi (Helsinki Central Library).svg
 aliases: []
 books:
   - "[[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]]"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 60.1738
   - 24.9381
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Helsinki]]"
 image: Attachments/Places/Oodi (Helsinki Central Library).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Oodi (Helsinki Central Library).svg
 Central library building in [[Helsinki]], Finland, where the New York Times writer's gloom peaks and she sees the civic trust behind the happiness ranking.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]] | Molly Young, Julia Whelan, Emma Kehlbeck, Jeremy McLennan | turning point | She explores Oodi, noting its free entry, makerspaces, children playing and people sleeping there unbothered. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.1738&mlon=24.9381#map=16/60.1738/24.9381) · [Google Maps](https://www.google.com/maps/search/?api=1&query=60.1738,24.9381)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.1738\&mlon=24.9381#map=16/60.1738/24.9381) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=60.1738,24.9381)
 
 ## My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times — Molly Young, Julia Whelan, Emma Kehlbeck, Jeremy McLennan (2025)
+
 Source: [[My Miserable Week in the ‘Happiest Country on Earth’ - The New York Times]] · [Original](https://www.nytimes.com/2025/05/02/magazine/finland-happiest-country.html/) · [Readwise highlight](https://read.readwise.io/read/01m5e2xr5zbzqf2sf5htv68xk1)
 
 > I got off at the city center and walked to Helsinki’s main library, which looks like a ship made of carrot cake. It is called Oodi.

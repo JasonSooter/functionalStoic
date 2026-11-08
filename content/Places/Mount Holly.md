@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Mount Holly
-created: 2026-10-21T10:49:12.000Z
-modified: 2026-11-07T06:58:28.232Z
-published: 2026-11-07T06:58:28.232Z
+created: 2024-11-03
+modified: 2026-11-07T06:58:28.000Z
+published: 2026-11-07T06:58:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mount Holly.svg
 aliases: []
 books:
   - I went troll-hunting in Burlington County!
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 39.9953
   - -74.7865
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Mount Holly.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Mount Holly.svg
 Township and county seat in Burlington County, New Jersey. Two of the county's recycled-material trolls stand there on a troll-hunting bike ride.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | I went troll-hunting in Burlington County! | alliumstozinnias | journey waypoint | Troll ride waypoint: Bucket Head Bobby and Retlaw, with two more downtown. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9953&mlon=-74.7865#map=16/39.9953/-74.7865) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9953,-74.7865)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9953\&mlon=-74.7865#map=16/39.9953/-74.7865) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.9953,-74.7865)
 
 ## I went troll-hunting in Burlington County! — alliumstozinnias (2024)
+
 Source: [Original](https://exploringbybike.com/2024/10/23/i-went-troll-hunting-in-burlington-county/) · [Readwise highlight](https://read.readwise.io/read/01m5f0pdxngqzabvs55jhxqrc2)
 
 > Then we found Bucket Head Bobby and Retlaw in Mount Holly.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Apple Infinite Loop campus
-created: 2025-08-31
-modified: 2026-11-07T06:54:50.089Z
-published: 2026-11-07T06:54:50.089Z
 aliases:
   - Infinite Loop
+title: Apple Infinite Loop campus
+created: 2025-08-31
+modified: 2026-11-07T06:54:50.000Z
+published: 2026-11-07T06:54:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Apple Infinite Loop campus.svg
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 37.3318
   - -122.0312
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Apple Infinite Loop campus.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Apple Infinite Loop campus.svg
 Apple's former headquarters on Infinite Loop in Cupertino, California. In _Just for Fun_ Steve Jobs tries to recruit Linus Torvalds there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | Steve Jobs and Avie Tevanian pitch Mac OS X; Linus says he dislikes Mach, but leaves rather liking Jobs. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3318&mlon=-122.0312#map=16/37.3318/-122.0312) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.3318,-122.0312)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3318\&mlon=-122.0312#map=16/37.3318/-122.0312) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.3318,-122.0312)
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
+
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrxmfjhpy0p0ac3br5qj9)
 
 > The meeting was at Apple’s headquarters on Infinity Loop Drive.

@@ -2,8 +2,13 @@
 publish: true
 title: Johns Hopkins Bloomberg School of Public Health
 created: 2025-02-27
-modified: 2026-11-07T06:55:58.011Z
-published: 2026-11-07T06:55:58.011Z
+modified: 2026-11-07T06:55:58.000Z
+published: 2026-11-07T06:55:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Johns Hopkins Bloomberg School of Public Health.svg
 aliases: []
 books:
   - "[[Range]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 39.2978
   - -76.5908
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Baltimore]]"
 image: Attachments/Places/Johns Hopkins Bloomberg School of Public Health.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Johns Hopkins Bloomberg School of Public Health.svg
 Public health school of Johns Hopkins University in Baltimore. In Range Arturo Casadevall arrives there to rethink specialised science training.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | setting | Arturo Casadevall joined Hopkins from the Albert Einstein College of Medicine to prototype a despecialized graduate education, the R3… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.2978&mlon=-76.5908#map=16/39.2978/-76.5908) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.2978,-76.5908)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.2978\&mlon=-76.5908#map=16/39.2978/-76.5908) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.2978,-76.5908)
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
+
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jvv1fngde19qp4p22a025q)
 
 > So his peers took it seriously when he arrived at the Johns Hopkins Bloomberg School of Public Health in 2015, as chair of molecular microbiology and immunology, and warned that scientific research is in crisis.

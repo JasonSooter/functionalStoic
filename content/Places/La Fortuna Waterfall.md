@@ -1,11 +1,16 @@
 ---
 publish: true
-title: La Fortuna Waterfall
-created: 2015-11-28
-modified: 2026-11-07T07:00:36.786Z
-published: 2026-11-07T07:00:36.786Z
 aliases:
   - Catarata Río Fortuna
+title: La Fortuna Waterfall
+created: 2015-11-28
+modified: 2026-11-07T07:00:37.000Z
+published: 2026-11-07T07:00:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/La Fortuna Waterfall.svg
 books:
   - Our 2 Week Costa Rica Vacation
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 10.4392
   - -84.6693
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Costa Rica]]"
 image: Attachments/Places/La Fortuna Waterfall.svg
 ---
@@ -30,17 +31,19 @@ image: Attachments/Places/La Fortuna Waterfall.svg
 Waterfall on the Río Fortuna below the Arenal volcano, Costa Rica. Retire by 40's family hikes down to it on the last day of their Arenal stay.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Our 2 Week Costa Rica Vacation | retirebyforty | setting | An $11 entry, a hike down into the canyon and an hour at the foot of the falls. |
+| Our 2 Week Costa Rica Vacation | retirebyforty | setting | An \$11 entry, a hike down into the canyon and an hour at the foot of the falls. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=10.4392&mlon=-84.6693#map=16/10.4392/-84.6693) · [Google Maps](https://www.google.com/maps/search/?api=1&query=10.4392,-84.6693)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=10.4392\&mlon=-84.6693#map=16/10.4392/-84.6693) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=10.4392,-84.6693)
 
 ## Our 2 Week Costa Rica Vacation — retirebyforty (2015)
+
 Source: [Original](https://retireby40.org/our-2-week-costa-rica-vacation/) · [Readwise highlight](https://read.readwise.io/read/01m5gm1fsp2375gya85k5fv1x6)
 
-> We decided to visit the La Fortuna waterfall on our last day. We took a taxi over and paid $11 each to get in.
+> We decided to visit the La Fortuna waterfall on our last day. We took a taxi over and paid \$11 each to get in.
 
 - **Role:** setting
-- **In the article:** On their last day at Arenal the family takes a taxi to the waterfall, pays $11 each, hikes down into the canyon and spends about an hour at the bottom; the water turns out to be comfortable, though they have no swimsuits.
+- **In the article:** On their last day at Arenal the family takes a taxi to the waterfall, pays \$11 each, hikes down into the canyon and spends about an hour at the bottom; the water turns out to be comfortable, though they have no swimsuits.
 - **Why it matters:** A pleasant stop with a small ironic payoff (the online warnings about cold water were wrong); modest significance.

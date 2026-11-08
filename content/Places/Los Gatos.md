@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Los Gatos
-created: 2025-08-03
-modified: 2026-11-07T06:51:24.282Z
-published: 2026-11-07T06:51:24.282Z
 aliases:
   - Los Gatos Hills
+title: Los Gatos
+created: 2025-08-03
+modified: 2026-11-07T06:51:24.000Z
+published: 2026-11-07T06:51:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Los Gatos.svg
 books:
   - Magic Cards and Knowledge Bottles
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 37.2361
   - -121.9617
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Los Gatos.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Los Gatos.svg
 Town in the foothills of the Santa Cruz Mountains, [[California]], where Bill Atkinson's night-time wander in the hills, as told in a Steven Johnson essay, led to HyperCard.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Magic Cards and Knowledge Bottles]] | Steven Johnson | turning point | In a quoted obituary, Bill Atkinson took LSD one night and wandered out of his home in the Los Gatos hills. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.2361&mlon=-121.9617#map=10/37.2361/-121.9617) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.2361,-121.9617)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.2361\&mlon=-121.9617#map=10/37.2361/-121.9617) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.2361,-121.9617)
 
 ## Magic Cards and Knowledge Bottles — Steven Johnson (2025)
+
 Source: [Original](https://adjacentpossible.substack.com/p/magic-cards-and-knowledge-bottles) · [Readwise highlight](https://read.readwise.io/read/01m5dqyknrean51nmj1p35c0r5)
 
 > and wandered out of his home in the Los Gatos hills. Staring into the vast collections of pixels that made up the night sky, he became reenergized, and decided to adopt some of the Magic Slate ideas into software that could run on the Mac.

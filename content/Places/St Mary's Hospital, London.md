@@ -1,12 +1,17 @@
 ---
 publish: true
-title: St Mary's Hospital, London
-created: 2025-05-14
-modified: 2026-11-07T06:57:52.994Z
-published: 2026-11-07T06:57:52.994Z
 aliases:
   - Alexander Fleming Laboratory Museum
   - Fleming's laboratory
+title: St Mary's Hospital, London
+created: 2025-05-14
+modified: 2026-11-07T06:57:53.000Z
+published: 2026-11-07T06:57:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/St Mary's Hospital, London.svg
 books:
   - Abundance
 categories:
@@ -14,16 +19,11 @@ categories:
 color: purple
 confidence: documented
 coordinates: 51.5172,-0.1731
-geo_source: Wikipedia (en) St Mary's Hospital, London (via Alexander Fleming Laboratory
-  Museum)
+geo_source: Wikipedia (en) St Mary's Hospital, London (via Alexander Fleming Laboratory Museum)
 icon: book
 location:
   - 51.5172
   - -0.1731
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/St Mary's Hospital, London.svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/St Mary's Hospital, London.svg
 St Mary's Hospital in Paddington, London, is where Alexander Fleming had his laboratory, now the Alexander Fleming Laboratory Museum. _Abundance_ opens its chapter on deployment with his discovery of penicillin there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | setting | Fleming returns from holiday in 1928 to find mold killing his bacteria: the 'eureka' that opens the chapter 'Deploy'. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5172&mlon=-0.1731#map=16/51.5172/-0.1731) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5172,-0.1731)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5172\&mlon=-0.1731#map=16/51.5172/-0.1731) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.5172,-0.1731)
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m757e22z20r85ehz089wxq)
 
 > IN THE FALL OF 1928, the Scottish scientist Alexander Fleming returned from a long holiday to his lab in London.

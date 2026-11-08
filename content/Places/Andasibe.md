@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Andasibe
-created: 2024-10-04
-modified: 2026-11-07T06:54:36.620Z
-published: 2026-11-07T06:54:36.620Z
 aliases:
   - Perinet
   - Périnet
+title: Andasibe
+created: 2024-10-04
+modified: 2026-11-07T06:54:37.000Z
+published: 2026-11-07T06:54:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Andasibe.svg
 books:
   - Life on Air
 categories:
@@ -19,10 +24,6 @@ image: Attachments/Places/Andasibe.svg
 location:
   - -16.25
   - 49.78
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Madagascar]]"
 ---
 
@@ -31,13 +32,15 @@ within: "[[Madagascar]]"
 Rainforest village in eastern Madagascar, formerly Périnet; in _Life on Air_ Attenborough films the indri there for the first time.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough films the indri there for the first time. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-16.25&mlon=49.78#map=16/-16.25/49.78) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-16.25,49.78)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-16.25\&mlon=49.78#map=16/-16.25/49.78) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-16.25,49.78)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1ykz0f9hm54898v1fpz0)
 
 > We established ourselves at Perinet, where there was a largely empty hotel that had been built to cater for passengers travelling on the railway that ran down from the capital Tananarive to the east coast port of Tamatave.

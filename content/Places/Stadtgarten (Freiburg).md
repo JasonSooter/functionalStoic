@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Stadtgarten (Freiburg)
-created: 2026-08-08
-modified: 2026-11-07T06:58:09.221Z
-published: 2026-11-07T06:58:09.221Z
 aliases:
   - Stadtgarten
+title: Stadtgarten (Freiburg)
+created: 2026-08-08
+modified: 2026-11-07T06:58:09.000Z
+published: 2026-11-07T06:58:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stadtgarten (Freiburg).svg
 books:
-  - "[[Bookshelf/Highlights & Notes/Articles/Ausfahrt Der Retro Bike-Fans - Dritter\
-    \ Vintage Bike Ride Out Am 1. Mai in Freiburg.md]]"
+  - "[[Bookshelf/Highlights & Notes/Articles/Ausfahrt Der Retro Bike-Fans - Dritter Vintage Bike Ride Out Am 1. Mai in Freiburg.md]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 47.9978
   - 7.8574
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg]]"
 image: Attachments/Places/Stadtgarten (Freiburg).svg
 ---
@@ -30,13 +30,15 @@ image: Attachments/Places/Stadtgarten (Freiburg).svg
 Park on the north-east edge of the old town in [[Freiburg]]. It appears in the reading as the meeting point for a vintage bike ride out on 1 May.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Ausfahrt Der Retro Bike-Fans - Dritter Vintage Bike Ride Out Am 1. Mai in Freiburg.md\|Ausfahrt der Retro Bike-Fans: Dritter Vintage Bike Ride Out am 1. Mai in Freiburg]] | Wochenbericht | setting | Meeting point for the vintage bike ride out on 1 May. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.9978&mlon=7.8574#map=16/47.9978/7.8574) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.9978,7.8574)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.9978\&mlon=7.8574#map=16/47.9978/7.8574) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.9978,7.8574)
 
 ## Ausfahrt der Retro Bike-Fans: Dritter Vintage Bike Ride Out am 1. Mai in Freiburg — Wochenbericht (2026)
+
 Source: [[Bookshelf/Highlights & Notes/Articles/Ausfahrt Der Retro Bike-Fans - Dritter Vintage Bike Ride Out Am 1. Mai in Freiburg.md]] · [Original](https://www.freiburger-wochenbericht.de/ausfahrt-der-retro-bike-fans-dritter-vintage-bike-ride-out-am-1-mai-in-freiburg/) · [Readwise highlight](https://read.readwise.io/read/01m5brf1xnjzg3dbhnw9c0jskh)
 
 > Die Teilnehmer treffen sich im Stadtgarten.

@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Cherry Street and Wood Street (Fort Collins)
-created: 2024-06-09
-modified: 2026-11-07T06:55:01.574Z
-published: 2026-11-07T06:55:01.574Z
 aliases:
   - Cherry & Wood
+title: Cherry Street and Wood Street (Fort Collins)
+created: 2024-06-09
+modified: 2026-11-07T06:55:02.000Z
+published: 2026-11-07T06:55:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cherry Street and Wood Street (Fort Collins).svg
 books:
-  - SRTS National Conference, Distracted Driving Bill UPDATE, Strategic Trail Plan
-    and More
+  - SRTS National Conference, Distracted Driving Bill UPDATE, Strategic Trail Plan and More
 categories:
   - "[[Places]]"
 color: purple
@@ -19,10 +23,6 @@ icon: newspaper
 location:
   - 40.5924
   - -105.091
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fort Collins]]"
 image: Attachments/Places/Cherry Street and Wood Street (Fort Collins).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/Cherry Street and Wood Street (Fort Collins).svg
 Cherry Street and Wood Street is an intersection in Fort Collins. It turns up in SRTS National Conference, Distracted Driving Bill UPDATE, Strategic Trail Plan and More (Bike Fort Collins): It is the one specific place the issue examines as a subject; the newsletter is about bike safety there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | SRTS National Conference, Distracted Driving Bill UPDATE, Strategic Trail Plan and More | Bike Fort Collins | subject | The newsletter's 'Intersection / Facility Focus' section picks this intersection, identified by readers in an April call for areas of… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5924&mlon=-105.091#map=10/40.5924/-105.091) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.5924,-105.091)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5924\&mlon=-105.091#map=10/40.5924/-105.091) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.5924,-105.091)
 
 ## SRTS National Conference, Distracted Driving Bill UPDATE, Strategic Trail Plan and More — Bike Fort Collins (2024)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5fcpk8agva21jqhcvj0gqz6)
 
 > we focus on the intersection of Cherry Street and Wood Street. Have you ever experienced conflict or felt unsafe when traveling by bike through this intersection?

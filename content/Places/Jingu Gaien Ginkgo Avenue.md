@@ -1,14 +1,19 @@
 ---
 publish: true
-title: Jingu Gaien Ginkgo Avenue
-created: 2025-11-28
-modified: 2026-11-07T06:55:52.043Z
-published: 2026-11-07T06:55:52.043Z
 aliases:
   - Icho Namiki
   - Meiji Jingu Gaien
+title: Jingu Gaien Ginkgo Avenue
+created: 2025-11-28
+modified: 2026-11-07T06:55:52.000Z
+published: 2026-11-07T06:55:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jingu Gaien Ginkgo Avenue.svg
 books:
-  - 'Tour de Cafe Tokyo #8'
+  - "Tour de Cafe Tokyo #8"
 categories:
   - "[[Places]]"
 color: purple
@@ -19,10 +24,6 @@ icon: video
 location:
   - 35.6767
   - 139.7188
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tokyo]]"
 image: Attachments/Places/Jingu Gaien Ginkgo Avenue.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Jingu Gaien Ginkgo Avenue.svg
 Ginkgo-lined avenue in Meiji Jingu Gaien, [[Tokyo]], Japan, a scenic autumn waypoint on the cafe-hopping bike ride in Pedal & Brew's Tour de Cafe Tokyo #8.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Tour de Cafe Tokyo 8 📸🍁🫘\|Tour de Cafe Tokyo #8]] | Pedal & Brew | journey waypoint | An autumn detour to photograph golden ginkgo leaves. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.6767&mlon=139.7188#map=10/35.6767/139.7188) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6767,139.7188)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.6767\&mlon=139.7188#map=10/35.6767/139.7188) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=35.6767,139.7188)
 
 ## Tour de Cafe Tokyo #8 — Pedal & Brew (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=9GZDlnUG2ho) · [Readwise highlight](https://read.readwise.io/read/01m5ce4kqaze9t3dh2wmjr0na6)
 
 > We've arrived at the Jingu Gaien Ginkgo Avenue! The view is incredible...! This is a special perk of riding a bike, lol.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Gomantong Cave
-created: 2024-10-04
-modified: 2026-11-07T06:58:21.443Z
-published: 2026-11-07T06:58:21.443Z
 aliases:
   - Gomantong Caves
+title: Gomantong Cave
+created: 2024-10-04
+modified: 2026-11-07T06:58:21.000Z
+published: 2026-11-07T06:58:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gomantong Cave.svg
 books:
   - Life on Air
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 5.5167
   - 118.0667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Borneo]]"
 image: Attachments/Places/Gomantong Cave.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Gomantong Cave.svg
 Limestone cave system in Sabah, Malaysian Borneo, known for swiftlet nests; in _Life on Air_ the crew climbs its guano dune.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The crew climbs its guano dune. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=5.5167&mlon=118.0667#map=16/5.5167/118.0667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=5.5167,118.0667)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=5.5167\&mlon=118.0667#map=16/5.5167/118.0667) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=5.5167,118.0667)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3gsdkn1t7anfsafvr4df)
 
 > Since Niah had already been filmed, Richard had decided to go to another nest-producing cave, Gomanton, on the other side of Borneo, in Sabah.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Beringia
-created: 2024-05-18
-modified: 2026-11-08T05:58:37.215Z
-published: 2026-11-08T05:58:37.215Z
 aliases:
   - Bering land bridge
+title: Beringia
+created: 2024-05-18
+modified: 2026-11-08T05:58:37.000Z
+published: 2026-11-08T05:58:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Beringia.svg
 books:
   - "Sapiens: A Brief History of Humankind"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 65
   - -170
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Beringia.svg
 ---
 
@@ -30,11 +31,12 @@ image: Attachments/Places/Beringia.svg
 Beringia is the region around the Bering Strait where an Ice Age land bridge joined Siberia and Alaska. _Sapiens_ describes it as the route by which the first humans walked into the Americas.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | journey waypoint | The Ice Age land bridge from Siberia to Alaska that Sapiens crossed around 14,000 BC. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=65&mlon=-170#map=10/65/-170) · [Google Maps](https://www.google.com/maps/search/?api=1&query=65,-170)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=65\&mlon=-170#map=10/65/-170) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=65,-170)
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
 

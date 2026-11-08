@@ -2,8 +2,13 @@
 publish: true
 title: Freetown
 created: 2024-10-04
-modified: 2026-11-07T06:55:38.241Z
-published: 2026-11-07T06:55:38.241Z
+modified: 2026-11-07T06:55:38.000Z
+published: 2026-11-07T06:55:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Freetown.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - 8.4872
   - -13.2356
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sierra Leone]]"
 image: Attachments/Places/Freetown.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Freetown.svg
 Capital of Sierra Leone on the West African coast; in _Life on Air_ it is Attenborough's first, life-changing taste of the tropics.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | turning point | Attenborough's first, life-changing taste of the tropics. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=8.4872&mlon=-13.2356#map=16/8.4872/-13.2356) · [Google Maps](https://www.google.com/maps/search/?api=1&query=8.4872,-13.2356)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=8.4872\&mlon=-13.2356#map=16/8.4872/-13.2356) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=8.4872,-13.2356)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1sjbjet4qg5f7cpc4r1p)
 
 > Stepping out into the heat and humidity of a West African afternoon was like entering a heated sauna. The hedge beside the ramshackle airport was bright with the scarlet trumpets of hibiscus.

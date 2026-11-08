@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Chehel Sotoun
-created: 2025-07-29
-modified: 2026-11-07T06:54:45.445Z
-published: 2026-11-07T06:54:45.445Z
 aliases:
   - Chehel Sotun
   - Chehel Sotun Palace
+title: Chehel Sotoun
+created: 2025-07-29
+modified: 2026-11-07T06:54:45.000Z
+published: 2026-11-07T06:54:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chehel Sotoun.svg
 books:
   - Rick Steves' Iran (2009)
 categories:
@@ -18,10 +23,6 @@ icon: video
 location:
   - 32.6575
   - 51.6722
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Isfahan]]"
 image: Attachments/Places/Chehel Sotoun.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Chehel Sotoun.svg
 Safavid pavilion and garden in [[Isfahan]], toured in Rick Steves' video on Iran as a reminder of Persia's golden age.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Rick Steves' Iran\|Rick Steves' Iran (2009)]] | Rick Steves' Europe | journey waypoint | Steves tours the palace with its reflecting pool, gardens, wooden-columned portico and mirrored interior. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.6575&mlon=51.6722#map=16/32.6575/51.6722) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.6575,51.6722)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.6575\&mlon=51.6722#map=16/32.6575/51.6722) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=32.6575,51.6722)
 
 ## Rick Steves' Iran (2009) — Rick Steves' Europe (2009)
+
 Source: [Original](https://www.youtube.com/watch?v=CYoa9hI3CXg) · [Readwise highlight](https://read.readwise.io/read/01m5dqx928grvzs81r40fx46k6)
 
 > The Chehel Sotun Palace is a vivid reminder that Isfahan was the capital of Persia 400 years ago.

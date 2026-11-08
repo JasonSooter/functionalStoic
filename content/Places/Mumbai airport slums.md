@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Mumbai airport slums
-created: 2026-10-22T10:26:16.000Z
-modified: 2026-11-07T06:59:57.358Z
-published: 2026-11-07T06:59:57.358Z
+created: 2015-11-28
+modified: 2026-11-07T06:59:57.000Z
+published: 2026-11-07T06:59:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mumbai airport slums.svg
 aliases: []
 books:
   - What Seeing Real Poverty Showed Me About Pretending to Be Poor
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 19.0886
   - 72.8681
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mumbai]]"
 image: Attachments/Places/Mumbai airport slums.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Mumbai airport slums.svg
 Informal settlements around the airport in [[Mumbai]], India, whose sight from the air makes the Pretend to Be Poor blogger rethink her frugality.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What Seeing Real Poverty Showed Me About Pretending to Be Poor | Pretend to Be Poor | backdrop | From the plane she sees a vast slum on the airport grounds, and it reframes what “pretending to be poor” means. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=19.0886&mlon=72.8681#map=10/19.0886/72.8681) · [Google Maps](https://www.google.com/maps/search/?api=1&query=19.0886,72.8681)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=19.0886\&mlon=72.8681#map=10/19.0886/72.8681) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=19.0886,72.8681)
 
 ## What Seeing Real Poverty Showed Me About Pretending to Be Poor — Pretend to Be Poor (2015)
+
 Source: [Original](http://www.pretendtobepoor.com/india3/) · [Readwise highlight](https://read.readwise.io/read/01m5hj1f69hbs8264bhej7fje7)
 
 > I didn’t visit the streets of Calcutta, but I saw one of the world’s largest slums, the massive encampment spanning the outskirts of the Mumbai airport grounds

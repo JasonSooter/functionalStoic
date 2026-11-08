@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Recycled Cycles
-created: 2026-10-20T10:42:44.000Z
-modified: 2026-11-07T06:58:46.284Z
-published: 2026-11-07T06:58:46.284Z
+created: 2025-12-07
+modified: 2026-11-07T06:58:46.000Z
+published: 2026-11-07T06:58:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Recycled Cycles.svg
 aliases: []
 books:
   - "Recycled Cycles: Community Anchored – Paul Kalifatidi"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 47.653
   - -122.3176
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Seattle]]"
 image: Attachments/Places/Recycled Cycles.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Recycled Cycles.svg
 Bike shop at 1007 NE Boat Street, [[Seattle|Seattle]], USA (address per the source), profiled by The Radavist as a community anchor.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Recycled Cycles - Community Anchored – Paul Kalifatidi\|Recycled Cycles: Community Anchored – Paul Kalifatidi]] | The Radavist | subject | Part bike shop, part museum, part scavenger hunt. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.653&mlon=-122.3176#map=16/47.653/-122.3176) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.653,-122.3176)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.653\&mlon=-122.3176#map=16/47.653/-122.3176) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.653,-122.3176)
 
 ## Recycled Cycles: Community Anchored – Paul Kalifatidi — The Radavist (2025)
+
 Source: [Original](https://theradavist.com/recycled-cycles-community-anchored) · [Readwise highlight](https://read.readwise.io/read/01m5ce6syqz666j18pjjbrcyza)
 
 > Since 2002, Recycled Cycles has been the sole occupant of 1007 NE Boat Street.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Boston Consulting Group
-created: 2024-09-17
-modified: 2026-11-07T07:01:52.671Z
-published: 2026-11-07T07:01:52.671Z
 aliases:
   - BCG
+title: Boston Consulting Group
+created: 2024-09-17
+modified: 2026-11-07T07:01:53.000Z
+published: 2026-11-07T07:01:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Boston Consulting Group.svg
 books:
   - "[[Co-Intelligence]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 42.352
   - -71.0429
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Boston]]"
 image: Attachments/Places/Boston Consulting Group.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Boston Consulting Group.svg
 Boston Consulting Group is a global management consulting firm headquartered in Boston's Seaport district. In _Co-Intelligence_ its consultants are the subjects of the experiment that maps AI's "Jagged Frontier".
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Co-Intelligence]] | Ethan Mollick | subject | Nearly 800 BCG consultants test GPT-4: faster, better work inside the Jagged Frontier, worse answers just outside it. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.352&mlon=-71.0429#map=10/42.352/-71.0429) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.352,-71.0429)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.352\&mlon=-71.0429#map=10/42.352/-71.0429) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.352,-71.0429)
 
 ## Co-Intelligence — Ethan Mollick (2024)
+
 Source: [[Co-Intelligence]] · [Original](https://openlibrary.org/works/OL37565105W) · [Readwise highlight](https://read.readwise.io/read/01m5m76yj1jfqvf6bmkxqg7j8d)
 
 > In our study of Boston Consulting Group, where previously the gap between the average performances of top and bottom performers was 22 percent, the gap shrank to a mere 4 percent once the consultants used GPT-4.

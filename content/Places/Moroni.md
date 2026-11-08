@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Moroni
-created: 2026-10-22T14:40:12.000Z
-modified: 2026-11-07T06:58:03.684Z
-published: 2026-11-07T06:58:03.684Z
+created: 2024-10-04
+modified: 2026-11-07T06:58:04.000Z
+published: 2026-11-07T06:58:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Moroni.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - -11.699
   - 43.256
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Comoros]]"
 image: Attachments/Places/Moroni.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Moroni.svg
 Capital of the Comoros on Grande Comore; in _Life on Air_ the base for Attenborough's night-time hunt for the coelacanth.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The base for Attenborough's night-time hunt for the coelacanth. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-11.699&mlon=43.256#map=16/-11.699/43.256) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-11.699,43.256)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-11.699\&mlon=43.256#map=16/-11.699/43.256) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-11.699,43.256)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7h1r18t201vb46h6rdwg)
 
 > Peter and I arrived in Moroni, the capital.

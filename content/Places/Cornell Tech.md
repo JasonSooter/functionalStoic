@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Cornell Tech
-created: 2015-11-28
-modified: 2026-11-07T06:58:31.752Z
-published: 2026-11-07T06:58:31.752Z
 aliases:
   - Cornell Tech campus
   - Roosevelt Island
+title: Cornell Tech
+created: 2015-11-28
+modified: 2026-11-07T06:58:32.000Z
+published: 2026-11-07T06:58:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cornell Tech.svg
 books:
   - The World’s Coolest High Rise Apartment Building
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 40.7558
   - -73.9563
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Cornell Tech.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Cornell Tech.svg
 Cornell University's technology campus on Roosevelt Island, [[New York City]]. A LifeEdited post covers the Passive House residential tower being built there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The World’s Coolest High Rise Apartment Building | David Friedlander | subject | Campus on Roosevelt Island where the world's largest Passive House apartment tower was going up. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7558&mlon=-73.9563#map=16/40.7558/-73.9563) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7558,-73.9563)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7558\&mlon=-73.9563#map=16/40.7558/-73.9563) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.7558,-73.9563)
 
 ## The World’s Coolest High Rise Apartment Building — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/the-worlds-coolest-high-rise-apartment-building/) · [Readwise highlight](https://read.readwise.io/read/01m5g8ve4nzaa1pfwkam87w6fh)
 
 > is part of Cornell University’s Tech Campus, an ambitious project on Roosevelt Island, which sits in the East River sandwiched between Manhattan’s Midtown to the west and Queens’ Long Island City to the east.

@@ -2,8 +2,13 @@
 publish: true
 title: Allenby Bridge
 created: 2024-12-21
-modified: 2026-11-07T06:53:17.978Z
-published: 2026-11-07T06:53:17.978Z
+modified: 2026-11-07T06:53:18.000Z
+published: 2026-11-07T06:53:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Allenby Bridge.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 31.8742
   - 35.5408
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jericho]]"
 image: Attachments/Places/Allenby Bridge.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Allenby Bridge.svg
 Bridge over the Jordan River near Jericho, the main crossing between the West Bank and Jordan. A backdrop in Colum McCann's _Apeirogon_: Heavily guarded Jordan crossing near Jericho; coins thrown for luck, children diving.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | backdrop | Heavily guarded Jordan crossing near Jericho; coins thrown for luck, children diving. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.8742&mlon=35.5408#map=16/31.8742/35.5408) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.8742,35.5408)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.8742\&mlon=35.5408#map=16/31.8742/35.5408) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.8742,35.5408)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqbj9maynmw95xc0bpm1s)
 
 > The Allenby Bridge, also known as the al-Karameh Bridge, also known as the King Hussein Bridge, spans the Jordan River near Jericho.

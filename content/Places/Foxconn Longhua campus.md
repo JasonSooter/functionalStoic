@@ -1,29 +1,29 @@
 ---
 publish: true
-title: Foxconn Longhua campus
-created: 2025-11-29
-modified: 2026-11-07T06:55:28.905Z
-published: 2026-11-07T06:55:28.905Z
 aliases:
   - Foxconn City
   - Hon Hai Shenzhen campus
+title: Foxconn Longhua campus
+created: 2025-11-29
+modified: 2026-11-07T06:55:29.000Z
+published: 2026-11-07T06:55:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Foxconn Longhua campus.svg
 books:
   - Breakneck
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 22.6574,114.0162
-geo_note: approximate (Longhua subdistrict/district centre; the text does not name
-  Longhua)
+geo_note: approximate (Longhua subdistrict/district centre; the text does not name Longhua)
 geo_source: Wikipedia (en) Longhua, Shenzhen
 icon: book
 location:
   - 22.6574
   - 114.0162
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Shenzhen]]"
 image: Attachments/Places/Foxconn Longhua campus.svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/Foxconn Longhua campus.svg
 Foxconn's manufacturing campus in Longhua, northern [[Shenzhen]]; Dan Wang's Breakneck describes it as a city-sized factory that shows the regimented scale of iPhone production.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | setting | A city-sized factory with dormitories, cafeterias, a hospital and cinemas; 300,000 people at peak across three daily shifts. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=22.6574&mlon=114.0162#map=10/22.6574/114.0162) · [Google Maps](https://www.google.com/maps/search/?api=1&query=22.6574,114.0162)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=22.6574\&mlon=114.0162#map=10/22.6574/114.0162) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=22.6574,114.0162)
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dqyxpbdyq7a59b0t2d1389)
 
 > Foxconn’s manufacturing campus in the north of Shenzhen occupies five hundred acres.

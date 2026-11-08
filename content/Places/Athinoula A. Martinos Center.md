@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Athinoula A. Martinos Center
-created: 2025-10-25
-modified: 2026-11-07T06:56:09.808Z
-published: 2026-11-07T06:56:09.808Z
 aliases:
   - Martinos Center
+title: Athinoula A. Martinos Center
+created: 2025-10-25
+modified: 2026-11-07T06:56:10.000Z
+published: 2026-11-07T06:56:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Athinoula A. Martinos Center.svg
 books:
   - "[[Quiet]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 42.3748
   - -71.0558
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Boston]]"
 image: Attachments/Places/Athinoula A. Martinos Center.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Athinoula A. Martinos Center.svg
 Brain-imaging centre of Massachusetts General Hospital in the Charlestown Navy Yard, [[Boston]]. In Quiet (Susan Cain) she has her brain scanned there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | setting | Imaging lab where Cain sees fMRI research on how 'high-reactive' infants grow up. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3748&mlon=-71.0558#map=10/42.3748/-71.0558) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3748,-71.0558)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3748\&mlon=-71.0558#map=10/42.3748/-71.0558) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.3748,-71.0558)
 
 ## Quiet — Susan Cain (2012)
+
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g8wb6j5faz5zem56m05n0r)
 
 > Deep inside the bowels of the Athinoula A. Martinos Center for Biomedical Imaging at Massachusetts General Hospital, the hallways are nondescript, dingy even.

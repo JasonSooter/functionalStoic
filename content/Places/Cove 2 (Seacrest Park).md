@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Cove 2 (Seacrest Park)
-created: 2024-07-03
-modified: 2026-11-07T06:59:09.431Z
-published: 2026-11-07T06:59:09.431Z
 aliases:
   - Olive's Den
   - Cove 2
+title: Cove 2 (Seacrest Park)
+created: 2024-07-03
+modified: 2026-11-07T06:59:09.000Z
+published: 2026-11-07T06:59:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cove 2 (Seacrest Park).svg
 books:
   - "[[The Soul of an Octopus]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 47.5888
   - -122.3801
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Seattle]]"
 image: Attachments/Places/Cove 2 (Seacrest Park).svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Cove 2 (Seacrest Park).svg
 Dive site at Seacrest Park in West Seattle, on Elliott Bay. In The Soul of an Octopus (Sy Montgomery) it is 'Olive's Den', where a wild octopus brooded her eggs.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Soul of an Octopus]] | Sy Montgomery | subject | Olive's Den, where divers watched a wild octopus guard her eggs until she died. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.5888&mlon=-122.3801#map=10/47.5888/-122.3801) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.5888,-122.3801)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.5888\&mlon=-122.3801#map=10/47.5888/-122.3801) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.5888,-122.3801)
 
 ## The Soul of an Octopus — Sy Montgomery (2015)
+
 Source: [[The Soul of an Octopus]] · [Original](https://openlibrary.org/books/OL27182716M/The_Soul_of_an_Octopus) · [Readwise highlight](https://read.readwise.io/read/01m5fydfk0r0f0rj62nw8s1k38)
 
 > “It was sad,” Becken said. “Some divers didn’t want to look. But since her life, since her death, this place has always been known as Olive’s Den.

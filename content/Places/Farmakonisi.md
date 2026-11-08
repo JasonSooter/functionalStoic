@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Farmakonisi
-created: 2025-05-01
-modified: 2026-11-07T06:53:16.926Z
-published: 2026-11-07T06:53:16.926Z
 aliases:
   - Biscuit Island
+title: Farmakonisi
+created: 2025-05-01
+modified: 2026-11-07T06:53:17.000Z
+published: 2026-11-07T06:53:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Farmakonisi.svg
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 37.29
   - 27.085
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Greece]]"
 image: Attachments/Places/Farmakonisi.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Farmakonisi.svg
 Small Greek island in the eastern Aegean, used by the military. In _The Beekeeper of Aleppo_ Nuri, Afra and Mohammed land there after crossing from Turkey by dinghy.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | journey waypoint | Survivors of the dinghy crossing warm themselves at a fire of life jackets; Mohammed renames it Biscuit Island. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.29&mlon=27.085#map=16/37.29/27.085) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.29,27.085)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.29\&mlon=27.085#map=16/37.29/27.085) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.29,27.085)
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
+
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgrbcn8hbbzxncsem2jemt)
 
 > Like driftwood washed ashore, we were left on the tiny military island of Farmakonisi.

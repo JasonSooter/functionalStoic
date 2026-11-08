@@ -2,8 +2,13 @@
 publish: true
 title: Lake Akan
 created: 2025-05-22
-modified: 2026-11-07T07:01:26.424Z
-published: 2026-11-07T07:01:26.424Z
+modified: 2026-11-07T07:01:26.000Z
+published: 2026-11-07T07:01:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lake Akan.svg
 aliases: []
 books:
   - Water Worlds
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 43.4517
   - 144.0986
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Japan]]"
 image: Attachments/Places/Lake Akan.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Lake Akan.svg
 Lake in northern [[Japan]], where winds and currents keep its marimo algae balls alive in a PBS nature film.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Water Worlds]] | PBS | setting | Each spring melting ice releases marimo algae balls. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.4517&mlon=144.0986#map=16/43.4517/144.0986) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.4517,144.0986)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.4517\&mlon=144.0986#map=16/43.4517/144.0986) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.4517,144.0986)
 
 ## Water Worlds — PBS (2022)
+
 Source: [Original](https://www.pbs.org/video/water-worlds-jqbzx5/) · [Readwise highlight](https://read.readwise.io/read/01m5e2zmp2n9zm5ezredg9kqd0)
 
 > The frozen water world of Lake Akan in northern Japan

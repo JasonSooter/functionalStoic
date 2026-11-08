@@ -2,8 +2,13 @@
 publish: true
 title: Copenhagen City Hall
 created: 2025-01-07
-modified: 2026-11-07T06:58:21.243Z
-published: 2026-11-07T06:58:21.243Z
+modified: 2026-11-07T06:58:21.000Z
+published: 2026-11-07T06:58:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Copenhagen City Hall.svg
 aliases: []
 books:
   - The Ultimate Guide to Danish New Year's
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 55.6753
   - 12.5703
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Copenhagen]]"
 image: Attachments/Places/Copenhagen City Hall.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Copenhagen City Hall.svg
 Town hall in [[Copenhagen]], Denmark, whose bells ring in the Danish New Year, as described in a newsletter on Danish New Year's traditions.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Ultimate Guide to Danish New Year's | Expat in Denmark | subject | The newsletter devotes a short section to the town hall bells that chime twelve times at midnight on New Year's Eve. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.6753&mlon=12.5703#map=16/55.6753/12.5703) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.6753,12.5703)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.6753\&mlon=12.5703#map=16/55.6753/12.5703) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=55.6753,12.5703)
 
 ## The Ultimate Guide to Danish New Year's — Expat in Denmark (2024)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5edgbwt49tcteeswhrd6g9m)
 
 > When the clock strikes midnight, the town hall bells of the Danish capital will sound, marking the beginning of the new year.

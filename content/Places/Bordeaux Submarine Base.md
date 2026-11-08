@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Bordeaux Submarine Base
-created: 2025-09-27
-modified: 2026-11-07T07:01:18.812Z
-published: 2026-11-07T07:01:18.812Z
 aliases:
   - Base sous-marine de Bordeaux
+title: Bordeaux Submarine Base
+created: 2025-09-27
+modified: 2026-11-07T07:01:19.000Z
+published: 2026-11-07T07:01:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bordeaux Submarine Base.svg
 books:
   - One City’s Race to ‘Solarize Everything We Possibly Can’
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 44.87
   - -0.5587
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bordeaux]]"
 image: Attachments/Places/Bordeaux Submarine Base.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Bordeaux Submarine Base.svg
 Second World War U-boat base in the north of [[Bordeaux]], France. Its roof now carries a 3.4 MW solar plant, the flagship of the city's solar drive and a case of heritage against energy in one article.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[One City’s Race to ‘Solarize Everything We Possibly Can’]] | Peter Yeung | subject | A wartime bunker turned France's largest urban rooftop solar plant. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.87&mlon=-0.5587#map=16/44.87/-0.5587) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.87,-0.5587)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.87\&mlon=-0.5587#map=16/44.87/-0.5587) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.87,-0.5587)
 
 ## One City’s Race to ‘Solarize Everything We Possibly Can’ — Peter Yeung (2025)
+
 Source: [Original](https://reasonstobecheerful.world/bordeaux-france-solar-city-race/) · [Readwise highlight](https://read.readwise.io/read/01m5dckqwgbakqk70g0dfcpw3k)
 
 > Bordeaux’s submarine base was once a place of battle. Built by the Germans during the Second World War, the hulking concrete edifice in the north of the wine-loving French city was used to launch attacks against the Allied Forces.

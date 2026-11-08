@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Mark Twain Cave
-created: 2025-02-24
-modified: 2026-11-07T06:54:12.682Z
-published: 2026-11-07T06:54:12.682Z
 aliases:
   - McDougal's Cave
+title: Mark Twain Cave
+created: 2025-02-24
+modified: 2026-11-07T06:54:13.000Z
+published: 2026-11-07T06:54:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mark Twain Cave.svg
 books:
   - The Adventures of Tom Sawyer, Complete
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 39.6886
   - -91.3315
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hannibal, Missouri]]"
 image: Attachments/Places/Mark Twain Cave.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Mark Twain Cave.svg
 Limestone cave south of Hannibal, Missouri. It is the documented model for McDougal's Cave in Tom Sawyer.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Adventures of Tom Sawyer, Complete | Mark Twain | setting | McDougal's Cave lies three miles below town. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.6886&mlon=-91.3315#map=16/39.6886/-91.3315) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.6886,-91.3315)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.6886\&mlon=-91.3315#map=16/39.6886/-91.3315) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.6886,-91.3315)
 
 ## The Adventures of Tom Sawyer, Complete — Mark Twain (1876)
+
 Source: [Original](https://openlibrary.org/works/OL53919W) · [Readwise highlight](https://read.readwise.io/read/01m5k7he2ch4kfpj683wjxm1bx)
 
 > The mouth of the cave was up the hillside—an opening shaped like a letter A. Its massive oaken door stood unbarred.

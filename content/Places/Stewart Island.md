@@ -2,8 +2,13 @@
 publish: true
 title: Stewart Island
 created: 2024-10-04
-modified: 2026-11-07T06:58:35.752Z
-published: 2026-11-07T06:58:35.752Z
+modified: 2026-11-07T06:58:36.000Z
+published: 2026-11-07T06:58:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stewart Island.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ icon: book
 location:
   - -47
   - 167.84
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Zealand]]"
 image: Attachments/Places/Stewart Island.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Stewart Island.svg
 New Zealand's third-largest island, south of the South Island; in _Life on Air_ Attenborough lies under seaweed on a beach to film a kiwi.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough lies under seaweed on a beach to film a kiwi. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-47&mlon=167.84#map=10/-47/167.84) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-47,167.84)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-47\&mlon=167.84#map=10/-47/167.84) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-47,167.84)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8tk2hnk6vcatjn71wwmm)
 
 > We went down to the beach at dusk.

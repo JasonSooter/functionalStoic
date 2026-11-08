@@ -2,8 +2,13 @@
 publish: true
 title: Dheisheh refugee camp
 created: 2024-12-21
-modified: 2026-11-07T07:03:00.719Z
-published: 2026-11-07T07:03:00.719Z
+modified: 2026-11-07T07:03:01.000Z
+published: 2026-11-07T07:03:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Dheisheh refugee camp.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 31.6939
   - 35.1842
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bethlehem]]"
 image: Attachments/Places/Dheisheh refugee camp.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Dheisheh refugee camp.svg
 Palestinian refugee camp south of Bethlehem. A setting in Colum McCann's _Apeirogon_: Bassam sees boys rehearse carrying a bier, with a mattress and four red carnations, through the camp alleys.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Bassam sees boys rehearse carrying a bier, with a mattress and four red carnations, through the camp alleys. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.6939&mlon=35.1842#map=16/31.6939/35.1842) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.6939,35.1842)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.6939\&mlon=35.1842#map=16/31.6939/35.1842) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.6939,35.1842)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqyakszck4x2n7re52ns4)
 
 > One afternoon, in the Dheisheh refugee camp south of Bethlehem, Bassam watched four boys in white jeans and white T-shirts carry a single mattress past the low houses.

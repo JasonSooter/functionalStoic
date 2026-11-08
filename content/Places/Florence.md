@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Florence
-created: 2016-02-07
-modified: 2026-11-07T06:54:24.103Z
-published: 2026-11-07T06:54:24.103Z
 aliases:
   - Firenze
+title: Florence
+created: 2016-02-07
+modified: 2026-11-07T06:54:24.000Z
+published: 2026-11-07T06:54:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Florence.svg
 books:
   - The Lost Towers of the Guelph-Ghibelline Wars
   - Renaissance Florence Was a Better Model for Innovation than Silicon Valley Is
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 43.7714
   - 11.2542
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Florence.svg
 ---
 
@@ -36,7 +37,7 @@ Capital of Tuscany, Italy; see also [[Italy]]. It appears in the reading through
 | [[The Lost Towers of the Guelph-Ghibelline Wars]] | exurbe | subject | Florence is where the author sees tower stubs in rough stone amid stucco buildings. |
 | Renaissance Florence Was a Better Model for Innovation than Silicon Valley Is | Harvard Business Review | subject | Renaissance Florence as a better innovation hub than Silicon Valley. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.7714&mlon=11.2542#map=11/43.7714/11.2542) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.7714,11.2542)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.7714\&mlon=11.2542#map=11/43.7714/11.2542) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.7714,11.2542)
 
 ## Sub-places
 
@@ -50,6 +51,7 @@ Capital of Tuscany, Italy; see also [[Italy]]. It appears in the reading through
 - [[Via dei Cerchi]]
 
 ## The Lost Towers of the Guelph-Ghibelline Wars — exurbe (2025)
+
 Source: [Original](https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/) · [Readwise highlight](https://read.readwise.io/read/01m5edehxzxbhqy96bassb5pdw)
 
 > After many disasters, Florence’s solution was to BAN private buildings over a certain height, forcing everyone who had a tower to knock the top off down to regulation height, leaving these recognizable stone nubs all around the city.

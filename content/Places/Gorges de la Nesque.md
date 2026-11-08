@@ -1,28 +1,28 @@
 ---
 publish: true
-title: Gorges de la Nesque
-created: 2026-01-22
-modified: 2026-11-07T06:58:23.676Z
-published: 2026-11-07T06:58:23.676Z
 aliases:
   - Nesque gorge
+title: Gorges de la Nesque
+created: 2026-01-22
+modified: 2026-11-07T06:58:24.000Z
+published: 2026-11-07T06:58:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gorges de la Nesque.svg
 books:
   - Mistletoe, Lavender
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 44.0672,5.3589
-geo_note: approximate (Monieux, at the head of the gorge; no gazetteer point for the
-  gorge itself)
+geo_note: approximate (Monieux, at the head of the gorge; no gazetteer point for the gorge itself)
 geo_source: GeoNames 2993279
 icon: newspaper
 location:
   - 44.0672
   - 5.3589
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Gorges de la Nesque.svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/Gorges de la Nesque.svg
 Limestone gorge of the Nesque between Monieux and Méthamis, Vaucluse, [[Provence]], France. It shows up as the route and scenery of a cycling post that climbs through it towards Monieux and [[Sault]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Mistletoe, Lavender]] | Mostly Bikes x Me | journey waypoint | The climbing route towards Monieux and Sault. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.0672&mlon=5.3589#map=10/44.0672/5.3589) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.0672,5.3589)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.0672\&mlon=5.3589#map=10/44.0672/5.3589) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.0672,5.3589)
 
 ## Mistletoe, Lavender — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5crb5s8zpe0p1e33w0jahp2)
 
 > Rode up through the Gorges de la Nesque with a plan to grab lunch in the tiny commune of Monieux.

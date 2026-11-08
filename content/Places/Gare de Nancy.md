@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Gare de Nancy
-created: 2025-11-16
-modified: 2026-11-07T06:56:39.551Z
-published: 2026-11-07T06:56:39.551Z
 aliases:
   - Nancy station
+title: Gare de Nancy
+created: 2025-11-16
+modified: 2026-11-07T06:56:40.000Z
+published: 2026-11-07T06:56:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gare de Nancy.svg
 books:
   - This new French train is a revolution... Here's why!
 categories:
@@ -17,10 +22,6 @@ icon: video
 location:
   - 48.6897
   - 6.1736
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[France]]"
 image: Attachments/Places/Gare de Nancy.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Gare de Nancy.svg
 Main railway station of Nancy, Lorraine, [[France]], where a video begins its ride on the new Nancy–Lyon Intercités.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This new French train is a revolution... Here's why! | Simply Railway | setting | Start of the new Nancy–Lyon Intercités. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.6897&mlon=6.1736#map=16/48.6897/6.1736) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.6897,6.1736)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.6897\&mlon=6.1736#map=16/48.6897/6.1736) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.6897,6.1736)
 
 ## This new French train is a revolution... Here's why! — Simply Railway (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=iYvf1Dny-6Y) · [Readwise highlight](https://read.readwise.io/read/01m5crdhdm0xxke9f20f2h0twv)
 
 > Nothing fancy here in Nancy (check out the rhyme!) — just a ticket office, a Relay shop for snacks and magazines, and that’s about it.

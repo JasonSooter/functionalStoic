@@ -2,8 +2,13 @@
 publish: true
 title: Jericho
 created: 2024-05-18
-modified: 2026-11-07T06:55:32.009Z
-published: 2026-11-07T06:55:32.009Z
+modified: 2026-11-07T06:55:32.000Z
+published: 2026-11-07T06:55:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jericho.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 31.8561
   - 35.46
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Bank]]"
 image: Attachments/Places/Jericho.svg
 ---
@@ -36,13 +37,15 @@ Oasis city near the Dead Sea in the West Bank. A setting in Colum McCann's _Apei
 | [[Apeirogon]] | Colum McCann | setting | Bassam's walled home and orchard in Jericho: the book's final scene of night watering and the porch with Salwa. |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Oasis that fed a hundred healthy foragers, then a cramped, sickly village of 1,000 wheat farmers. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.8561&mlon=35.46#map=11/31.8561/35.46) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.8561,35.46)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.8561\&mlon=35.46#map=11/31.8561/35.46) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.8561,35.46)
 
 ## Sub-places
+
 - [[Allenby Bridge]]
 - [[Oasis Casino Hotel]]
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjr0f7tj0vkxrk3mdenskb)
 
 > Bassam glances back to see an overturned bucket fallen from the porch. No matter. In the morning he will collect the fruit: even in winter the Jericho trees bloom.

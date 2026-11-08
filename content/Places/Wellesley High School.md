@@ -2,8 +2,13 @@
 publish: true
 title: Wellesley High School
 created: 2025-06-21
-modified: 2026-11-07T07:00:09.538Z
-published: 2026-11-07T07:00:09.538Z
+modified: 2026-11-07T07:00:10.000Z
+published: 2026-11-07T07:00:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Wellesley High School.svg
 aliases: []
 books:
   - "[[The Nordic Theory of Everything]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 42.3029
   - -71.2788
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/Wellesley High School.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Wellesley High School.svg
 Public high school in Wellesley, Massachusetts. In _The Nordic Theory of Everything_ a teacher's 2012 "You are not special" commencement speech there opens the chapter on the Nordic Law of Jante.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Nordic Theory of Everything]] | Anu Partanen | setting | David McCullough Jr. tells graduates none of them is special; to Partanen the viral speech sounds Finnish. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3029&mlon=-71.2788#map=16/42.3029/-71.2788) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3029,-71.2788)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3029\&mlon=-71.2788#map=16/42.3029/-71.2788) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.3029,-71.2788)
 
 ## The Nordic Theory of Everything — Anu Partanen (2016)
+
 Source: [[The Nordic Theory of Everything]] · [Original](https://openlibrary.org/works/OL20028831W) · [Readwise highlight](https://read.readwise.io/read/01m5kjfxrx27zdq5cqgktcxs4d)
 
 > On June 1, 2012, David McCullough Jr. stepped up to the podium in front of the graduating class at Wellesley High School in Massachusetts to deliver a now-famous commencement speech.

@@ -2,8 +2,13 @@
 publish: true
 title: Croke Park
 created: 2015-11-28
-modified: 2026-11-07T07:00:18.696Z
-published: 2026-11-07T07:00:18.696Z
+modified: 2026-11-07T07:00:19.000Z
+published: 2026-11-07T07:00:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Croke Park.svg
 aliases: []
 books:
   - How to Build an Opportunity Fund
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 53.3604
   - -6.251
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Dublin]]"
 image: Attachments/Places/Croke Park.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Croke Park.svg
 Stadium in [[Dublin]], Ireland, where Jim Wang's opportunity fund buys the U2 tickets his travelling friends couldn't use.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Build an Opportunity Fund | Jim Wang | turning point | Friends miss their flight, so the author buys their U2 tickets with his opportunity fund instead of going to the pub. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.3604&mlon=-6.251#map=16/53.3604/-6.251) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.3604,-6.251)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.3604\&mlon=-6.251#map=16/53.3604/-6.251) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=53.3604,-6.251)
 
 ## How to Build an Opportunity Fund — Jim Wang (2015)
+
 Source: [Original](https://wallethacks.com/build-opportunity-fund/) · [Readwise highlight](https://read.readwise.io/read/01m5hj2bw4xfd8f45p20fjj2gb)
 
 > Originally, we weren’t going to the concert. We were going to a nearby pub because we like U2 but not enough to want to spend a few hundred dollars to see them.

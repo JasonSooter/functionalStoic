@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Mississippi River
-created: 2025-02-17
-modified: 2026-11-07T06:56:48.960Z
-published: 2026-11-07T06:56:48.960Z
 aliases:
   - Mississippi watershed
+title: Mississippi River
+created: 2025-02-17
+modified: 2026-11-07T06:56:49.000Z
+published: 2026-11-07T06:56:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mississippi River.svg
 books:
   - My Mississippi River Playlist
   - While Riding on a Train Going West
@@ -19,10 +24,6 @@ icon: newspaper
 location:
   - 47.2397
   - -95.2075
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Mississippi River.svg
 ---
 
@@ -31,14 +32,16 @@ image: Attachments/Places/Mississippi River.svg
 North America's great river; its basin drains much of the central United States. It appears as the subject of David Byrne's playlist and as the river a cross-country train crosses at Burlington, Iowa.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[My Mississippi River Playlist]] | David Byrne | subject | Byrne introduces a playlist of songs about the river and its watershed, for a Reasons to be Cheerful series on the basin. |
 | [[While Riding on a Train Going West]] | Linnesby-Maria | journey waypoint | She and her seat-mate are interested in the crossing, others are not. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.2397&mlon=-95.2075#map=10/47.2397/-95.2075) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.2397,-95.2075)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.2397\&mlon=-95.2075#map=10/47.2397/-95.2075) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.2397,-95.2075)
 
 ## My Mississippi River Playlist — David Byrne (2025)
+
 Source: [Original](https://reasonstobecheerful.world/david-byrne-mississippi-river-playlist/) · [Readwise highlight](https://read.readwise.io/read/01m5dqvv36c3vxpykdj9en15zm)
 
 > A symbol of America, the Mississippi River Basin connects a vast region of farms, cities, dams and natural habitats that support a range of biodiversity across hundreds of thousands of square miles.
@@ -49,6 +52,7 @@ Source: [Original](https://reasonstobecheerful.world/david-byrne-mississippi-riv
 - **Real vs. fictional:** Real; region, not point.
 
 ## While Riding on a Train Going West — Linnesby-Maria (2024)
+
 Source: [Original](https://notesfromlinnesby.substack.com/p/while-riding-on-a-train-going-west) · [Readwise highlight](https://read.readwise.io/read/01m5ede6b5qe8h7rym8b34mnsp)
 
 > At Burlington, Iowa, we cross the Mississippi.

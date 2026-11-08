@@ -2,8 +2,13 @@
 publish: true
 title: Biosphere 2
 created: 2025-09-02
-modified: 2026-11-07T07:00:51.151Z
-published: 2026-11-07T07:00:51.151Z
+modified: 2026-11-07T07:00:51.000Z
+published: 2026-11-07T07:00:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Biosphere 2.svg
 aliases: []
 books:
   - "[[The Anxious Generation]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 32.5788
   - -110.8506
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Arizona]]"
 image: Attachments/Places/Biosphere 2.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Biosphere 2.svg
 Closed-ecosystem research facility near Oracle in the Arizona desert. In _The Anxious Generation_ its wind-starved trees are Haidt's metaphor for children raised without challenge.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Anxious Generation]] | Jonathan Haidt | subject | Trees grown without wind fall over before maturity: Haidt's image for children protected from all stress. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.5788&mlon=-110.8506#map=16/32.5788/-110.8506) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.5788,-110.8506)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.5788\&mlon=-110.8506#map=16/32.5788/-110.8506) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=32.5788,-110.8506)
 
 ## The Anxious Generation — Jonathan Haidt (2024)
+
 Source: [[The Anxious Generation]] · [Original](https://openlibrary.org/works/OL37575384W) · [Readwise highlight](https://read.readwise.io/read/01m5kk27wsc8nd3edrsvhvtsnf)
 
 > In the late 1980s, a grand experiment was launched in the Arizona desert. Biosphere 2 was (and still is) the largest attempt to build a closed artificial ecosystem, as a prelude to (someday) building self-sustaining ecosystems in outer space.

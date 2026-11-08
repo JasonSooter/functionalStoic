@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Royal Agricultural Hall
-created: 2026-10-20T10:42:47.000Z
-modified: 2026-11-07T07:01:32.127Z
-published: 2026-11-07T07:01:32.127Z
 aliases:
   - Islington Agricultural Hall
   - Business Design Centre
+title: Royal Agricultural Hall
+created: 2026-03-08
+modified: 2026-11-07T07:01:32.000Z
+published: 2026-11-07T07:01:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Royal Agricultural Hall.svg
 books:
   - "[[It's All About the Bike - In Pursuit of Happiness on Two Wheels]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 51.5356
   - -0.1057
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Royal Agricultural Hall.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Royal Agricultural Hall.svg
 Victorian exhibition hall in Islington, [[London]], now the Business Design Centre, where Robert Penn's It's All About the Bike places the first six-day cycle race in 1878.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike - In Pursuit of Happiness on Two Wheels\|It's All About the Bike]] | Robert Penn | setting | The first competitive six-day race, in 1878. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5356&mlon=-0.1057#map=16/51.5356/-0.1057) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5356,-0.1057)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5356\&mlon=-0.1057#map=16/51.5356/-0.1057) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.5356,-0.1057)
 
 ## It's All About the Bike — Robert Penn (2010)
+
 Source: [[It's All About the Bike - In Pursuit of Happiness on Two Wheels]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5ce6eqxwycvqh2md0mwha9w)
 
 > The first competitive six-day race was held in the Islington Agricultural Hall, London, in 1878.

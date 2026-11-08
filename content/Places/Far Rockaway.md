@@ -2,8 +2,13 @@
 publish: true
 title: Far Rockaway
 created: 2025-10-25
-modified: 2026-11-07T06:53:15.838Z
-published: 2026-11-07T06:53:15.838Z
+modified: 2026-11-07T06:53:16.000Z
+published: 2026-11-07T06:53:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Far Rockaway.svg
 aliases: []
 books:
   - "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 40.6058
   - -73.7508
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Queens]]"
 image: Attachments/Places/Far Rockaway.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Far Rockaway.svg
 Neighbourhood on the Rockaway Peninsula in Queens, New York City. Richard Feynman's home town, where his boyhood home laboratory starts the tinkering of _Surely You're Joking, Mr. Feynman!_
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character | Richard P. Feynman | setting | Feynman's home town: the boyhood lab in the family house where he fixes radios and nearly sets his room on fire. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.6058&mlon=-73.7508#map=16/40.6058/-73.7508) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.6058,-73.7508)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.6058\&mlon=-73.7508#map=16/40.6058/-73.7508) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.6058,-73.7508)
 
 ## "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character — Richard P. Feynman (1985)
+
 Source: [Original](https://openlibrary.org/works/OL514629W) · [Readwise highlight](https://read.readwise.io/read/01m5kfpv94z8wjgkm57350vdhn)
 
 > I was born in 1918 in a small town called Far Rockaway, right on the outskirts of New York, near the sea.

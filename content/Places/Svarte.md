@@ -2,8 +2,13 @@
 publish: true
 title: Svarte
 created: 2024-05-09
-modified: 2026-11-07T07:00:59.903Z
-published: 2026-11-07T07:00:59.903Z
+modified: 2026-11-07T07:01:00.000Z
+published: 2026-11-07T07:01:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Svarte.svg
 aliases: []
 books:
   - "[[How I Learned to Understand the World]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 55.4309
   - 13.7151
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Skåne]]"
 image: Attachments/Places/Svarte.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Svarte.svg
 Beach in Skåne, Sweden, part of [[Skåne]]. It appears in Hans Rosling's memoir as the beach where he dammed the stream every summer.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | setting | Hans, who walked the beach fully dressed, dammed the stream each summer with family and strangers to move its estuary. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.4309&mlon=13.7151#map=10/55.4309/13.7151) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.4309,13.7151)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.4309\&mlon=13.7151#map=10/55.4309/13.7151) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=55.4309,13.7151)
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
+
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5ebtw4pz13rwwmw4t6f353y)
 
 > Every summer, Hans would set to work to dam the stream.

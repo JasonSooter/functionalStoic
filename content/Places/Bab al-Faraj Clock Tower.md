@@ -2,8 +2,13 @@
 publish: true
 title: Bab al-Faraj Clock Tower
 created: 2025-05-01
-modified: 2026-11-07T06:56:54.528Z
-published: 2026-11-07T06:56:54.528Z
+modified: 2026-11-07T06:56:55.000Z
+published: 2026-11-07T06:56:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bab al-Faraj Clock Tower.svg
 aliases: []
 books:
   - "[[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 36.204
   - 37.1528
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Aleppo]]"
 image: Attachments/Places/Bab al-Faraj Clock Tower.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Bab al-Faraj Clock Tower.svg
 Clock tower in the old city of Aleppo, Syria. In _The Beekeeper of Aleppo_ Nuri and Afra wait beneath it at midnight for the smuggler who takes them out of the city.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit\|The Beekeeper of Aleppo: A Moving Testament to the Human Spirit]] | Christy Lefteri | journey waypoint | Nuri and Afra wait at midnight by the clock tower for the smuggler Ali, the start of their escape. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.204&mlon=37.1528#map=16/36.204/37.1528) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.204,37.1528)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.204\&mlon=37.1528#map=16/36.204/37.1528) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=36.204,37.1528)
 
 ## The Beekeeper of Aleppo: A Moving Testament to the Human Spirit — Christy Lefteri (2019)
+
 Source: [[The Beekeeper of Aleppo - A Moving Testament to the Human Spirit]] · [Original](https://openlibrary.org/works/OL20112913W) · [Readwise highlight](https://read.readwise.io/read/01m5kgr5jhy8e9kt63fqw9fqk4)
 
 > Just behind the buildings, the time on the Bab al-Faraj Clock Tower glowed green.

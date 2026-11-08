@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Savile Row
-created: 2026-10-23
-modified: 2026-11-07T06:53:17.782Z
-published: 2026-11-07T06:53:17.782Z
 aliases:
   - Saville Row
   - No. 7 Savile Row
+title: Savile Row
+created: 2026-10-23
+modified: 2026-11-07T06:53:18.000Z
+published: 2026-11-07T06:53:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Savile Row.svg
 books:
   - Around the World in Eighty Days
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 51.5107
   - -0.1402
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Savile Row.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Savile Row.svg
 Street in Mayfair, London. Phileas Fogg's house at No. 7 Saville Row is where _Around the World in Eighty Days_ starts and where the missing day is discovered.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | setting | Fogg's clockwork house at No. 7, where the journey starts and the lost day is found. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5107&mlon=-0.1402#map=10/51.5107/-0.1402) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5107,-0.1402)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5107\&mlon=-0.1402#map=10/51.5107/-0.1402) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.5107,-0.1402)
 
 ## Around the World in Eighty Days — Jules Verne (1872)
+
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne38f86h0et2grxkn4c6a1)
 
 > Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814.

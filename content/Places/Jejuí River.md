@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Jejuí River
-created: 2024-10-04
-modified: 2026-11-07T06:55:27.700Z
-published: 2026-11-07T06:55:27.700Z
 aliases:
   - Jejui
   - Jejuí Guazú
+title: Jejuí River
+created: 2024-10-04
+modified: 2026-11-07T06:55:28.000Z
+published: 2026-11-07T06:55:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jejuí River.svg
 books:
   - Life on Air
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - -24.1761
   - -57.2428
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Paraguay]]"
 image: Attachments/Places/Jejuí River.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Jejuí River.svg
 River of eastern Paraguay flowing into the Paraguay River; in _Life on Air_ the Zoo Quest team's route into the forest.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | The Zoo Quest team's route into the forest. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-24.1761&mlon=-57.2428#map=10/-24.1761/-57.2428) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-24.1761,-57.2428)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-24.1761\&mlon=-57.2428#map=10/-24.1761/-57.2428) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-24.1761,-57.2428)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3932w60mvfdezg8nqa3q)
 
 > We should sail up the Paraguay River for a hundred miles and then turn east up the Jejui, one of its major tributaries.

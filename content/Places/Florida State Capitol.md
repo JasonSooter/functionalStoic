@@ -2,8 +2,13 @@
 publish: true
 title: Florida State Capitol
 created: 2024-05-18
-modified: 2026-11-07T06:54:26.283Z
-published: 2026-11-07T06:54:26.283Z
+modified: 2026-11-07T06:54:26.000Z
+published: 2026-11-07T06:54:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Florida State Capitol.svg
 aliases: []
 books:
   - How to Be an Antiracist
@@ -16,10 +21,6 @@ icon: book
 location:
   - 30.4381
   - -84.2816
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tallahassee]]"
 image: Attachments/Places/Florida State Capitol.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Florida State Capitol.svg
 Seat of Florida's government in Tallahassee. In How to Be an Antiracist (Ibram X. Kendi) it is where FAMU students stage a sit-in after the 2000 election.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | journey waypoint | Destination of the FAMU silent march and sit-in after the 2000 election. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.4381&mlon=-84.2816#map=16/30.4381/-84.2816) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.4381,-84.2816)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.4381\&mlon=-84.2816#map=16/30.4381/-84.2816) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=30.4381,-84.2816)
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fzcwabt7ctawnzvpr4n7xp)
 
 > On November 9, 2000, FAMU’s courageous student-government leaders directed a silent march of two thousand students from campus to Florida’s nearby capitol, where they conducted a sit-in.

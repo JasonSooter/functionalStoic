@@ -2,8 +2,13 @@
 publish: true
 title: Seven Kings station
 created: 2024-09-25
-modified: 2026-11-07T06:54:28.395Z
-published: 2026-11-07T06:54:28.395Z
+modified: 2026-11-07T06:54:28.000Z
+published: 2026-11-07T06:54:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Seven Kings station.svg
 aliases: []
 books:
   - "[[For Every Winner a Loser]]"
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 51.5635
   - 0.0969
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Seven Kings station.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Seven Kings station.svg
 Railway station in Ilford, east London. In John Lanchester's essay on Gary Stevenson, it is where Stevenson's father caught the early train.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[For Every Winner a Loser]] | John Lanchester | setting | Stevenson waves before dawn at his father leaving on the early train. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5635&mlon=0.0969#map=16/51.5635/0.0969) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5635,0.0969)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5635\&mlon=0.0969#map=16/51.5635/0.0969) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.5635,0.0969)
 
 ## For Every Winner a Loser — John Lanchester (2024)
+
 Source: [[For Every Winner a Loser]] · [Original](https://www.lrb.co.uk/the-paper/v46/n17/john-lanchester/for-every-winner-a-loser/) · [Readwise highlight](https://read.readwise.io/read/01m5f1vm7hadnkyt16a3cmmrhf)
 
 > (Stevenson’s book is short on tender feelings, but one of its moving passages describes him getting up before dawn to wave through the window at his father as he took the early train from Seven Kings on his way to work.)

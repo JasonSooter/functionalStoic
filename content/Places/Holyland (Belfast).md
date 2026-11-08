@@ -2,8 +2,13 @@
 publish: true
 title: Holyland (Belfast)
 created: 2024-12-21
-modified: 2026-11-07T06:51:32.330Z
-published: 2026-11-07T06:51:32.330Z
+modified: 2026-11-07T06:51:32.000Z
+published: 2026-11-07T06:51:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Holyland (Belfast).svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 54.5843
   - -5.9268
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Belfast]]"
 image: Attachments/Places/Holyland (Belfast).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Holyland (Belfast).svg
 Neighbourhood of south Belfast, Northern Ireland, whose streets carry Holy Land names. A setting in Colum McCann's _Apeirogon_: Belfast streets named Palestine, Jerusalem, Damascus; Bassam walks them at night during a peace conference.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Belfast streets named Palestine, Jerusalem, Damascus; Bassam walks them at night during a peace conference. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=54.5843&mlon=-5.9268#map=16/54.5843/-5.9268) · [Google Maps](https://www.google.com/maps/search/?api=1&query=54.5843,-5.9268)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=54.5843\&mlon=-5.9268#map=16/54.5843/-5.9268) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=54.5843,-5.9268)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjprwqa03nnkmhxt19sr9y)
 
 > Late one night he walked around what the locals called the Holyland. Bassam was taken by the names of the streets: Palestine, Cairo, Jerusalem, Damascus.

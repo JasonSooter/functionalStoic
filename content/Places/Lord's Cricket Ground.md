@@ -1,14 +1,19 @@
 ---
 publish: true
-title: Lord's Cricket Ground
-created: 2026-09-05
-modified: 2026-11-07T07:05:00.565Z
-published: 2026-11-07T07:05:00.565Z
 aliases:
   - Lord's
   - Lords
+title: Lord's Cricket Ground
+created: 2026-09-05
+modified: 2026-11-07T07:05:01.000Z
+published: 2026-11-07T07:05:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lord's Cricket Ground.svg
 books:
-  - '#088 An unusually long list of gripes'
+  - "#088 An unusually long list of gripes"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 51.5294
   - -0.1727
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Lord's Cricket Ground.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Lord's Cricket Ground.svg
 The cricket ground in St John's Wood, [[London]], England, where a Diagram Club newsletter's author spends a day at The Hundred.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[088 an Unusually Long List of Gripes\|#088 An unusually long list of gripes]] | Diagram Club | setting | A day at The Hundred, with likes and gripes. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5294&mlon=-0.1727#map=16/51.5294/-0.1727) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5294,-0.1727)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5294\&mlon=-0.1727#map=16/51.5294/-0.1727) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.5294,-0.1727)
 
 ## #088 An unusually long list of gripes — Diagram Club (2026)
+
 Source: [Original](https://diagramclub.substack.com/p/088-an-unusually-long-list-of-gripes) · [Readwise highlight](https://read.readwise.io/read/01m5bfwq0a70fe2ntsx6zjm8dh)
 
 > We went to Lords Cricket Ground, in London, for The Hundred.

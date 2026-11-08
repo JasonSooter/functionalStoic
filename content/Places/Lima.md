@@ -2,8 +2,13 @@
 publish: true
 title: Lima
 created: 2026-10-23
-modified: 2026-11-07T07:03:44.243Z
-published: 2026-11-07T07:03:44.243Z
+modified: 2026-11-07T07:03:44.000Z
+published: 2026-11-07T07:03:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lima.svg
 aliases: []
 books:
   - "[[Exploration of Moby Dick]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - -12.06
   - -77.0375
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Peru]]"
 image: Attachments/Places/Lima.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Lima.svg
 Lima is the capital of Peru, on the country's Pacific coast. In _Moby-Dick_ it is Ishmael's example of the horror of whiteness and the city where he tells the Town-Ho's story at the Golden Inn.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | subject | 'Tearless Lima' has taken the white veil; it is also where Ishmael tells the Town-Ho's story to Spanish dons at the Golden Inn. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-12.06&mlon=-77.0375#map=16/-12.06/-77.0375) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-12.06,-77.0375)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-12.06\&mlon=-77.0375#map=16/-12.06/-77.0375) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-12.06,-77.0375)
 
 ## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m7736806tss9sk8zwcavvb)
 
 > it is not these things alone which make tearless Lima, the strangest, saddest city thou can’st see. For Lima has taken the white veil;

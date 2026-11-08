@@ -1,28 +1,28 @@
 ---
 publish: true
-title: World Health Organization headquarters
-created: 2024-05-09
-modified: 2026-11-07T07:01:28.356Z
-published: 2026-11-07T07:01:28.356Z
 aliases:
   - WHO building
   - WHO headquarters Geneva
+title: World Health Organization headquarters
+created: 2024-05-09
+modified: 2026-11-07T07:01:28.000Z
+published: 2026-11-07T07:01:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/World Health Organization headquarters.svg
 books:
   - "[[How I Learned to Understand the World]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 46.2327,6.1342
-geo_source: "OSM way 14363861 (Nominatim: Organisation mondiale de la Sante, 20 Avenue\
-  \ Appia)"
+geo_source: "OSM way 14363861 (Nominatim: Organisation mondiale de la Sante, 20 Avenue Appia)"
 icon: book
 location:
   - 46.2327
   - 6.1342
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Geneva]]"
 image: Attachments/Places/World Health Organization headquarters.svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/World Health Organization headquarters.svg
 WHO headquarters on Avenue Appia in [[Geneva]], which appears in Hans Rosling's memoir as the place where he left samples from the Mozambique epidemic for analysis in 1981.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How I Learned to Understand the World]] | Hans Rosling | journey waypoint | In 1981 Rosling leaves blood and urine samples from the epidemic in a basement fridge of the WHO toxicology department. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.2327&mlon=6.1342#map=16/46.2327/6.1342) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.2327,6.1342)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.2327\&mlon=6.1342#map=16/46.2327/6.1342) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=46.2327,6.1342)
 
 ## How I Learned to Understand the World — Hans Rosling (2019)
+
 Source: [[How I Learned to Understand the World]] · [Original](https://openlibrary.org/works/OL20831115W) · [Readwise highlight](https://read.readwise.io/read/01m5dqzj6fy558pya1j6ebb7nj)
 
 > We left the massive WHO building feeling content.

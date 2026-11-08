@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Portland, Maine
-created: 2026-10-22T10:44:05.000Z
-modified: 2026-11-07T06:56:33.170Z
-published: 2026-11-07T06:56:33.170Z
+created: 2015-11-28
+modified: 2026-11-07T06:56:33.000Z
+published: 2026-11-07T06:56:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Portland, Maine.svg
 aliases: []
 books:
   - Uncovering Mattress Manufacturing
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 43.6472
   - -70.1717
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Maine]]"
 image: Attachments/Places/Portland, Maine.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Portland, Maine.svg
 Port city in [[Maine]], home of the Portland Mattress Makers factory profiled by Maker's Row.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Uncovering Mattress Manufacturing | Mansi Kothari | subject | A hand-made mattress factory whose new owner cross-trains staff after know-how was lost. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.6472&mlon=-70.1717#map=10/43.6472/-70.1717) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.6472,-70.1717)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.6472\&mlon=-70.1717#map=10/43.6472/-70.1717) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.6472,-70.1717)
 
 ## Uncovering Mattress Manufacturing — Mansi Kothari (2015)
+
 Source: [Original](http://makersrow.com/blog/2015/11/uncovering-mattress-manufacturing/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5g1r06jrg3v04zg4mynf)
 
 > Portland Mattress Makers are a local mattress retailer in the hipster town of Portland, Maine, whose niche is that they manufacture everything they sell.

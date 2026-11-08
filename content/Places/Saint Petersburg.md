@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Saint Petersburg
-created: 2024-09-17
-modified: 2026-11-07T07:03:00.707Z
-published: 2026-11-07T07:03:00.707Z
 aliases:
   - St Petersburg
   - Leningrad
+title: Saint Petersburg
+created: 2024-09-17
+modified: 2026-11-07T07:03:01.000Z
+published: 2026-11-07T07:03:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Saint Petersburg.svg
 books:
   - "[[The Subtle Art of Not Giving a Fck]]"
   - "[[Co-Intelligence]]"
@@ -19,10 +24,6 @@ icon: book
 location:
   - 59.9375
   - 30.3086
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Saint Petersburg.svg
 ---
@@ -38,9 +39,10 @@ Russia's second city, on the Neva. In Mark Manson's book a month there in 2011 t
 | [[The Subtle Art of Not Giving a Fck\|The Subtle Art of Not Giving a F*ck]] | Mark Manson | turning point | A month in 2011: Russian bluntness shocks Manson, then teaches him the cost of fake politeness. |
 | [[Co-Intelligence]] | Ethan Mollick | backdrop | Birthplace in 2001 of Eugene Goostman, the chatbot "boy" that arguably passed the Turing Test in 2014. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.9375&mlon=30.3086#map=16/59.9375/30.3086) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.9375,30.3086)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.9375\&mlon=30.3086#map=16/59.9375/30.3086) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=59.9375,30.3086)
 
-## The Subtle Art of Not Giving a F*ck — Mark Manson (2016)
+## The Subtle Art of Not Giving a F\*ck — Mark Manson (2016)
+
 Source: [[The Subtle Art of Not Giving a Fck]] · [Original](https://openlibrary.org/works/OL17590212W) · [Readwise highlight](https://read.readwise.io/read/01m5kvb6323d29478shq0b4m1c)
 
 > In 2011, I traveled to Saint Petersburg, Russia. The food sucked. The weather sucked.
@@ -50,6 +52,7 @@ Source: [[The Subtle Art of Not Giving a Fck]] · [Original](https://openlibrary
 - **Why it matters:** It is his example of how travel exposes you to other values, and of what Western politeness costs.
 
 ## Co-Intelligence — Ethan Mollick (2024)
+
 Source: [[Co-Intelligence]] · [Original](https://openlibrary.org/works/OL37565105W) · [Readwise highlight](https://read.readwise.io/read/01m5m771bj1n17q3mcpx5z0rfv)
 
 > In 2001, in Saint Petersburg, three programmers, Vladimir Veselov, Eugene Demchenko, and Sergey Ulasen, developed perhaps the first chatbot to have a claim to passing the Turing Test.

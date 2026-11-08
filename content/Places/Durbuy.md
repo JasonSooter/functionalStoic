@@ -2,8 +2,13 @@
 publish: true
 title: Durbuy
 created: 2026-08-26
-modified: 2026-11-07T07:04:14.772Z
-published: 2026-11-07T07:04:14.772Z
+modified: 2026-11-07T07:04:15.000Z
+published: 2026-11-07T07:04:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Durbuy.svg
 aliases: []
 books:
   - Neither Here Nor There
@@ -15,10 +20,6 @@ icon: book
 location:
   - 50.3522
   - 5.4563
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Belgium]]"
 image: Attachments/Places/Durbuy.svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/Durbuy.svg
 Small town on the river Ourthe in the Belgian Ardennes ([[Belgium]]), where Bill Bryson's walk in Neither Here Nor There ends on a sprained ankle.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | journey waypoint | Where Bryson's Ardennes walk ends on a sprained ankle, in a fairy-tale town he barely gets to explore. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.3522&mlon=5.4563#map=16/50.3522/5.4563) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.3522,5.4563)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.3522\&mlon=5.4563#map=16/50.3522/5.4563) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.3522,5.4563)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b43fj5xmfydkynqwfgwjn0)
 
 > So I had a limping look round Durbuy. It was exceptionally pretty and pleasant, with narrow back streets and houses built of stone beneath slate roofs.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Santa Barbara
-created: 2023-07-30
-modified: 2026-11-07T06:52:28.446Z
-published: 2026-11-07T06:52:28.446Z
 aliases:
   - Santa Barbara, California
+title: Santa Barbara
+created: 2023-07-30
+modified: 2026-11-07T06:52:28.000Z
+published: 2026-11-07T06:52:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Santa Barbara.svg
 books:
   - "[[The Comfort Crisis]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 34.4167
   - -119.7
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Santa Barbara.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Santa Barbara.svg
 Coastal city in Southern California. In The Comfort Crisis (Michael Easter) it is home to Dr. Marcus Elliott, who explains the misogi challenge on a trail above the city.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | setting | On a trail above the city, Marcus Elliott explains misogi and its two rules. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.4167&mlon=-119.7#map=16/34.4167/-119.7) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.4167,-119.7)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.4167\&mlon=-119.7#map=16/34.4167/-119.7) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.4167,-119.7)
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fyd12gy5gk5v20zzcc2bzz)
 
 > And so it was, a handful of months later, that I found myself hammering up a cliffside trail above Santa Barbara with Elliott.

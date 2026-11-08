@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Poblenou
-created: 2026-10-21T05:08:15.000Z
-modified: 2026-11-07T06:55:48.830Z
-published: 2026-11-07T06:55:48.830Z
+created: 2025-09-21
+modified: 2026-11-07T06:55:49.000Z
+published: 2026-11-07T06:55:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Poblenou.svg
 aliases: []
 books:
   - "[[How ‘Superblocks’ Can Create People-Centered Cities]]"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 41.3992
   - 2.2039
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Barcelona]]"
 image: Attachments/Places/Poblenou.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Poblenou.svg
 Neighborhood in [[Barcelona]], Spain, which the reading names as the site of the first superblock of the 2016 revival.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How ‘Superblocks’ Can Create People-Centered Cities]] | Kaja Šeruga | turning point | Poblenou hosted the first superblock of the 2016 revival and met resident protests over rerouted driving. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.3992&mlon=2.2039#map=16/41.3992/2.2039) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.3992,2.2039)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.3992\&mlon=2.2039#map=16/41.3992/2.2039) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.3992,2.2039)
 
 ## How ‘Superblocks’ Can Create People-Centered Cities — Kaja Šeruga (2025)
+
 Source: [[How ‘Superblocks’ Can Create People-Centered Cities]] · [Original](https://reasonstobecheerful.world/superblocks-are-for-people/) · [Readwise highlight](https://read.readwise.io/read/01m5edfbha117m0xpscg6ngaef)
 
 > The start was not promising: The first superblock of the new era, created in 2016 in Poblenou, initially drew protests from residents who didn’t appreciate having to drive their cars the long way around.

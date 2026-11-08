@@ -2,8 +2,13 @@
 publish: true
 title: Bessèges
 created: 2025-08-26
-modified: 2026-11-07T07:00:01.010Z
-published: 2026-11-07T07:00:01.010Z
+modified: 2026-11-07T07:00:01.000Z
+published: 2026-11-07T07:00:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bessèges.svg
 aliases: []
 books:
   - To Ardeche
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 44.2925
   - 4.1014
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[France]]"
 image: Attachments/Places/Bessèges.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Bessèges.svg
 Former mining town in the Gard, on the eastern edge of the Cévennes, [[France]], named in a Mostly Bikes x Me post as the night's stop below the descent from the Col de Trélis.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[To Ardeche]] | Mostly Bikes x Me | journey waypoint | Overnight stop below the descent from the Col de Trélis. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.2925&mlon=4.1014#map=16/44.2925/4.1014) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.2925,4.1014)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.2925\&mlon=4.1014#map=16/44.2925/4.1014) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.2925,4.1014)
 
 ## To Ardeche — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15576663534.html) · [Readwise highlight](https://read.readwise.io/read/01m5dcm2xpswee1fqe61acsbrs)
 
 > Tonight we’re north of Bessèges, an old mining town at the bottom of the descent from the Col de Trelis

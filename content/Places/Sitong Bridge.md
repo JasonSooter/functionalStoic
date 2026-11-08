@@ -2,8 +2,13 @@
 publish: true
 title: Sitong Bridge
 created: 2025-11-29
-modified: 2026-11-07T06:55:41.622Z
-published: 2026-11-07T06:55:41.622Z
+modified: 2026-11-07T06:55:42.000Z
+published: 2026-11-07T06:55:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sitong Bridge.svg
 aliases: []
 books:
   - Breakneck
@@ -16,10 +21,6 @@ icon: book
 location:
   - 39.9658
   - 116.3159
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Beijing]]"
 image: Attachments/Places/Sitong Bridge.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Sitong Bridge.svg
 Highway bridge in [[Beijing]], China, which appears in Dan Wang's Breakneck as the site of a lone protest and a symbol of censorship.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | subject | A man disguised as a construction worker hangs two banners on the highway bridge, burns a tire, and is arrested. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9658&mlon=116.3159#map=16/39.9658/116.3159) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9658,116.3159)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9658\&mlon=116.3159#map=16/39.9658/116.3159) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.9658,116.3159)
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5e30e75c5v1rm4hq6n1phx4)
 
 > Censors have struck the highway bridge from China’s mapping services. If you put in “Sitong Bridge,” the service says that there is no result.

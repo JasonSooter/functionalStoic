@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Eton College
-created: 2026-04-02
-modified: 2026-11-07T06:52:40.783Z
-published: 2026-11-07T06:52:40.783Z
 aliases:
   - Eton
+title: Eton College
+created: 2026-04-02
+modified: 2026-11-07T06:52:41.000Z
+published: 2026-11-07T06:52:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Eton College.svg
 books:
   - "[[Brave New World]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.492
   - -0.608
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berkshire]]"
 image: Attachments/Places/Eton College.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Eton College.svg
 Boarding school in Eton, Berkshire, beside the Thames. In _Brave New World_ its Upper School is where John and Bernard see how the World State educates.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | setting | John and Bernard tour the school: a Malthusian Drill, a film of Acoma penitents and a library of reference books. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.492&mlon=-0.608#map=16/51.492/-0.608) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.492,-0.608)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.492\&mlon=-0.608#map=16/51.492/-0.608) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.492,-0.608)
 
 ## Brave New World — Aldous Huxley (1932)
+
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvaq6cjzwej5xsgkwe6fek)
 
 > At Eton they alighted on the roof of Upper School. On the opposite side of School Yard, the fifty-two stories of Lupton’s Tower gleamed white in the sunshine.

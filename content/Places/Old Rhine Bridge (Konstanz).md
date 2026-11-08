@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Old Rhine Bridge (Konstanz)
-created: 2026-10-20T10:42:58.000Z
-modified: 2026-11-07T06:52:22.770Z
-published: 2026-11-07T06:52:22.770Z
 aliases:
   - Alte Rheinbrücke
   - Rheinbrücke Konstanz
+title: Old Rhine Bridge (Konstanz)
+created: 2026-07-16
+modified: 2026-11-07T06:52:23.000Z
+published: 2026-11-07T06:52:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Old Rhine Bridge (Konstanz).svg
 books:
   - "[[The Rhine River Explained in Under 3 Minutes]]"
 categories:
@@ -19,10 +24,6 @@ icon: video
 location:
   - 47.667
   - 9.183
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Baden-Württemberg]]"
 image: Attachments/Places/Old Rhine Bridge (Konstanz).svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Old Rhine Bridge (Konstanz).svg
 Bridge carrying road and rail over the Rhine in Konstanz, [[Baden-Württemberg]], which a FactSpark video names as the 0 km datum of the river's length.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Rhine River Explained in Under 3 Minutes]] | FactSpark | journey waypoint | Kilometre zero of the Rhine. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.667&mlon=9.183#map=10/47.667/9.183) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.667,9.183)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.667\&mlon=9.183#map=10/47.667/9.183) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.667,9.183)
 
 ## The Rhine River explained in under 3 Minutes — FactSpark (2026)
+
 Source: [[The Rhine River Explained in Under 3 Minutes]] · [Original](https://www.youtube.com/watch?v=IpFTi7-T-TI) · [Readwise highlight](https://read.readwise.io/read/01m5ce8j8mhwf186jj1hmcrxxe)
 
 > in the city of Constance marks the 0 km datum

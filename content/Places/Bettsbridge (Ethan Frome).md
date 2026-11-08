@@ -2,8 +2,13 @@
 publish: true
 title: Bettsbridge
 created: 2026-08-14
-modified: 2026-11-07T07:00:04.405Z
-published: 2026-11-07T07:00:04.405Z
+modified: 2026-11-07T07:00:04.000Z
+published: 2026-11-07T07:00:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bettsbridge (Ethan Frome).svg
 aliases: []
 books:
   - "[[Ethan Frome]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 42.45
   - -73.25
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pittsfield]]"
 image: Attachments/Places/Bettsbridge (Ethan Frome).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Bettsbridge (Ethan Frome).svg
 Fictional valley town in Edith Wharton's _Ethan Frome_, the bigger town beyond Starkfield, and likely modelled on the real [[Pittsfield]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Ethan Frome]] | Edith Wharton | backdrop | The larger valley town linking Starkfield to the wider world: the stage, the pike, the Eagle and Zeena's doctor trips. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.45&mlon=-73.25#map=16/42.45/-73.25) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.45,-73.25)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.45\&mlon=-73.25#map=16/42.45/-73.25) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.45,-73.25)
 
 ## Ethan Frome — Edith Wharton (1911)
+
 Source: [[Ethan Frome]] · [Original](https://openlibrary.org/works/OL98501W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0f3m7eqzj5c234s66e1w)
 
 > I had this from Harmon Gow, who had driven the stage from Bettsbridge to Starkfield in pre-trolley days and knew the chronicle of all the families on his line.

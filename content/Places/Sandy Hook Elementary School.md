@@ -2,8 +2,13 @@
 publish: true
 title: Sandy Hook Elementary School
 created: 2016-06-24
-modified: 2026-11-07T06:52:19.510Z
-published: 2026-11-07T06:52:19.510Z
+modified: 2026-11-07T06:52:20.000Z
+published: 2026-11-07T06:52:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sandy Hook Elementary School.svg
 aliases: []
 books:
   - Want To Keep More Kids In School? Design A Smarter Classroom
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 41.42
   - -73.2786
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Connecticut]]"
 image: Attachments/Places/Sandy Hook Elementary School.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Sandy Hook Elementary School.svg
 Rebuilt elementary school in Newtown, Connecticut. A GOOD piece on school design cites its nature-inspired facade.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Want To Keep More Kids In School? Design A Smarter Classroom | Susan Johnston Taylor | subject | After the shootings, Newtown hired Svigals + Partners to redesign the school with a facade of undulating shapes echoing nearby rolling… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.42&mlon=-73.2786#map=16/41.42/-73.2786) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.42,-73.2786)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.42\&mlon=-73.2786#map=16/41.42/-73.2786) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.42,-73.2786)
 
 ## Want To Keep More Kids In School? Design A Smarter Classroom — Susan Johnston Taylor (2016)
+
 Source: [Original](https://www.good.is/articles/quitting-school) · [Readwise highlight](https://read.readwise.io/read/01m5jvrcre3twmq2zv4h17szxx)
 
 > The building’s front façade incorporates undulating shapes that mimic the rolling hills and streams nearby.

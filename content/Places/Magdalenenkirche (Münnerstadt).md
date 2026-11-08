@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Magdalenenkirche (Münnerstadt)
-created: 2026-01-04
-modified: 2026-11-07T06:52:54.276Z
-published: 2026-11-07T06:52:54.276Z
 aliases:
   - St Maria Magdalena (Münnerstadt)
+title: Magdalenenkirche (Münnerstadt)
+created: 2026-01-04
+modified: 2026-11-07T06:52:54.000Z
+published: 2026-11-07T06:52:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Magdalenenkirche (Münnerstadt).svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 50.2494
   - 10.1958
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bavaria]]"
 image: Attachments/Places/Magdalenenkirche (Münnerstadt).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Magdalenenkirche (Münnerstadt).svg
 Parish church of St Mary Magdalene in Münnerstadt, Lower Franconia, north of Würzburg. In _Germany: Memories of a Nation_ it is the original home of Riemenschneider's Evangelists.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | setting | The church Riemenschneider's altarpiece was made for, its Evangelists set just above the altar near kneeling worshippers. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.2494&mlon=10.1958#map=16/50.2494/10.1958) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.2494,10.1958)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.2494\&mlon=10.1958#map=16/50.2494/10.1958) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.2494,10.1958)
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m75v2dh5xjsttvmg80tz5f)
 
 > were part of a great carved altarpiece, made for the Magdalenenkirche in Münnerstadt, near Würzburg, and completed in 1492.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Tränenpalast
-created: 2026-01-04
-modified: 2026-11-07T06:54:02.977Z
-published: 2026-11-07T06:54:02.977Z
 aliases:
   - Palace of Tears
   - Friedrichstrasse Station
+title: Tränenpalast
+created: 2026-01-04
+modified: 2026-11-07T06:54:03.000Z
+published: 2026-11-07T06:54:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tränenpalast.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 52.5208
   - 13.3869
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Tränenpalast.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Tränenpalast.svg
 Former border-crossing hall at Friedrichstrasse Station in central Berlin, now a museum. _Germany: Memories of a Nation_ uses it to show how the division of Germany was experienced.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | The 'Palace of Tears' at Friedrichstrasse Station, East Berlin's disorienting border crossing for a generation of Germans. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.5208&mlon=13.3869#map=16/52.5208/13.3869) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.5208,13.3869)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.5208\&mlon=13.3869#map=16/52.5208/13.3869) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.5208,13.3869)
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m7558m2kmb2f553z21jr0z)
 
 > The experience of leaving or entering East Berlin through the Friedrichstrasse Station was for a whole generation of Germans an unforgettable and distressing emotional experience.

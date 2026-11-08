@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Batavia, New York
-created: 2025-12-28
-modified: 2026-11-07T06:57:53.002Z
-published: 2026-11-07T06:57:53.002Z
 aliases:
   - Batavia
+title: Batavia, New York
+created: 2025-12-28
+modified: 2026-11-07T06:57:53.000Z
+published: 2026-11-07T06:57:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Batavia, New York.svg
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 42.9986
   - -78.1842
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Batavia, New York.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Batavia, New York.svg
 City in Genesee County, western New York, once headquarters of the Holland Land Company. In _Wedding of the Waters_ its agent Joseph Ellicott backs the canal on his own terms.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | setting | Joseph Ellicott, the Holland Land Company's agent, backs only a direct Albany–Buffalo canal. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.9986&mlon=-78.1842#map=16/42.9986/-78.1842) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.9986,-78.1842)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.9986\&mlon=-78.1842#map=16/42.9986/-78.1842) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.9986,-78.1842)
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
+
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kvdqcphs2mjsbf6h2wq458)
 
 > The Holland Land Company’s resident agent in the territory was Joseph Ellicott, who had established the company’s operational headquarters in the little town of Batavia, about forty miles east of Lake Erie.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: International Red Cross and Red Crescent Museum
-created: 2026-08-26
-modified: 2026-11-07T06:54:07.426Z
-published: 2026-11-07T06:54:07.426Z
 aliases:
   - Musée International de la Croix-Rouge et du Croissant-Rouge
   - Red Cross Museum
+title: International Red Cross and Red Crescent Museum
+created: 2026-08-26
+modified: 2026-11-07T06:54:07.000Z
+published: 2026-11-07T06:54:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/International Red Cross and Red Crescent Museum.svg
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 46.2272
   - 6.1369
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Geneva]]"
 image: Attachments/Places/International Red Cross and Red Crescent Museum.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/International Red Cross and Red Crescent Museum.svg
 Museum of the Red Cross movement near the Palais des Nations in [[Geneva]], Switzerland, one of the few things Bill Bryson praises in Neither Here Nor There.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Neither Here Nor There | Bill Bryson | setting | The one thing in Geneva Bryson finds surprisingly good. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.2272&mlon=6.1369#map=16/46.2272/6.1369) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.2272,6.1369)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.2272\&mlon=6.1369#map=16/46.2272/6.1369) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=46.2272,6.1369)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bejt3jxf2bh827sw8ydy12)
 
 > Instead, I noticed on my city map that just up the road was the Musée International de la Croix-Rouge

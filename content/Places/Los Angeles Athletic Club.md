@@ -2,8 +2,13 @@
 publish: true
 title: Los Angeles Athletic Club
 created: 2024-08-20
-modified: 2026-11-07T06:51:20.990Z
-published: 2026-11-07T06:51:20.990Z
+modified: 2026-11-07T06:51:21.000Z
+published: 2026-11-07T06:51:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Los Angeles Athletic Club.svg
 aliases: []
 books:
   - We will be millionaires before long
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 34.0467
   - -118.2551
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Los Angeles Athletic Club.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Los Angeles Athletic Club.svg
 Private club in downtown Los Angeles. In a 1914 letter collected by Letters of Note, Charlie Chaplin writes from it to his brother.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | We will be millionaires before long | Shaun Usher | setting | Chaplin, living there with a valet, boasts to his brother of his prospects. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0467&mlon=-118.2551#map=16/34.0467/-118.2551) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0467,-118.2551)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0467\&mlon=-118.2551#map=16/34.0467/-118.2551) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.0467,-118.2551)
 
 ## We will be millionaires before long — Shaun Usher (2024)
+
 Source: [Original](https://news.lettersofnote.com/p/we-will-be-millionaires-before-long) · [Readwise highlight](https://read.readwise.io/read/01m5f1wb9ypj4gtkrr0dbr9wwa)
 
 > I stay at the best Club in the city where all the millionairs belong in fact I have a good sane, wholsome time.

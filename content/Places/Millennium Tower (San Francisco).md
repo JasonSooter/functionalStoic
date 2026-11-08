@@ -2,8 +2,13 @@
 publish: true
 title: Millennium Tower (San Francisco)
 created: 2025-05-15
-modified: 2026-11-07T06:56:29.242Z
-published: 2026-11-07T06:56:29.242Z
+modified: 2026-11-07T06:56:29.000Z
+published: 2026-11-07T06:56:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Millennium Tower (San Francisco).svg
 aliases: []
 books:
   - Why Bridges Don't Sink
@@ -16,10 +21,6 @@ icon: video
 location:
   - 37.7904
   - -122.3961
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Millennium Tower (San Francisco).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Millennium Tower (San Francisco).svg
 Residential skyscraper in [[San Francisco]], United States. Practical Engineering cites it as a pile-founded tower that sank and tilted.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why Bridges Don't Sink]] | Practical Engineering | backdrop | The narrator cites San Francisco's Millennium Tower as a skyscraper on a pile foundation that sank and tilted. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7904&mlon=-122.3961#map=16/37.7904/-122.3961) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7904,-122.3961)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7904\&mlon=-122.3961#map=16/37.7904/-122.3961) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.7904,-122.3961)
 
 ## Why Bridges Don't Sink — Practical Engineering (2024)
+
 Source: [Original](https://www.youtube.com/watch?v=XpTs1V2NQ24) · [Readwise highlight](https://read.readwise.io/read/01m5e2yb2eefq8er3gsd7vfa1b)
 
 > San Francisco’s famous Millennium Tower in a previous video

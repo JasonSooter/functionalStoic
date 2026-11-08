@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Mount Roraima
-created: 2026-10-22T13:40:42.000Z
-modified: 2026-11-07T06:59:29.657Z
-published: 2026-11-07T06:59:29.657Z
+created: 2024-10-04
+modified: 2026-11-07T06:59:30.000Z
+published: 2026-11-07T06:59:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mount Roraima.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - 5.1433
   - -60.7625
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Guyana]]"
 image: Attachments/Places/Mount Roraima.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Mount Roraima.svg
 Flat-topped tepui on the Guyana–Venezuela–Brazil border; in _Life on Air_ Attenborough glimpses it from afar but never reaches it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | turning point | Attenborough glimpses it from afar but never reaches it. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=5.1433&mlon=-60.7625#map=16/5.1433/-60.7625) · [Google Maps](https://www.google.com/maps/search/?api=1&query=5.1433,-60.7625)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=5.1433\&mlon=-60.7625#map=16/5.1433/-60.7625) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=5.1433,-60.7625)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx29z30sgw6062brvx7cjc)
 
 > We were within fifty miles of one of the most romantic mountains in the world - Roraima.

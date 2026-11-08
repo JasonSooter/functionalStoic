@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Walsenburg, Colorado
-created: 2015-12-27
-modified: 2026-11-07T06:58:42.848Z
-published: 2026-11-07T06:58:42.848Z
 aliases:
   - Walsenburg
+title: Walsenburg, Colorado
+created: 2015-12-27
+modified: 2026-11-07T06:58:43.000Z
+published: 2026-11-07T06:58:43.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Walsenburg, Colorado.svg
 books:
   - If You Let Them Build It, They Are Much More Likely to Come
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 37.6267
   - -104.7789
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Walsenburg, Colorado.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Walsenburg, Colorado.svg
 Former coal-mining town in Huerfano County, southern Colorado; LifeEdited follows its plan for a legal tiny-house subdivision.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | If You Let Them Build It, They Are Much More Likely to Come | David Friedlander | subject | LifeEdited follows its plan for a legal tiny-house subdivision. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.6267&mlon=-104.7789#map=16/37.6267/-104.7789) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.6267,-104.7789)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.6267\&mlon=-104.7789#map=16/37.6267/-104.7789) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.6267,-104.7789)
 
 ## If You Let Them Build It, They Are Much More Likely to Come — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/if-you-let-them-build-it-they-are-much-more-likely-to-come/) · [Readwise highlight](https://read.readwise.io/read/01m5hx20xr10b9xghn746fvxcv)
 
 > Walsenburg is a former coal mining town of 3K that has seen better days. The tiny house subdivision is meant as a way of providing affordable housing and revitalizing the economy.

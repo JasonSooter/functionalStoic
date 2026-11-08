@@ -1,11 +1,16 @@
 ---
 publish: true
-title: M'semrir
-created: 2026-10-04
-modified: 2026-11-07T06:52:14.389Z
-published: 2026-11-07T06:52:14.389Z
 aliases:
   - Msemrir
+title: M'semrir
+created: 2026-10-04
+modified: 2026-11-07T06:52:14.000Z
+published: 2026-11-07T06:52:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/M'semrir.svg
 books:
   - "[[Peace Corps - The Great Adventure]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 31.7014
   - -5.8011
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Morocco]]"
 image: Attachments/Places/M'semrir.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/M'semrir.svg
 Village in the eastern High Atlas, Tinghir province, [[Morocco]]. It is the setting of Kathy Crabb's essay 'The Rhythm of Women' in the Peace Corps anthology.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | Setting of 'The Rhythm of Women'. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7014&mlon=-5.8011#map=16/31.7014/-5.8011) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7014,-5.8011)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7014\&mlon=-5.8011#map=16/31.7014/-5.8011) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.7014,-5.8011)
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
+
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5crcd8fhw2h3v3kxj1nc0d6)
 
 > Kathy Crabb (Morocco 1995-1997) was a maternal-child health Volunteer in M'semrir, which is located in Morocco's eastern High Atlas Mountains.

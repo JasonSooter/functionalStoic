@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Raleigh, North Carolina
-created: 2026-10-22T10:44:12.000Z
-modified: 2026-11-07T06:58:19.983Z
-published: 2026-11-07T06:58:19.983Z
 aliases:
   - Raleigh
+title: Raleigh, North Carolina
+created: 2015-12-01
+modified: 2026-11-07T06:58:20.000Z
+published: 2026-11-07T06:58:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Raleigh, North Carolina.svg
 books:
   - How We Reached Financial Independence In Our 30’s
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 35.78
   - -78.64
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[North Carolina]]"
 image: Attachments/Places/Raleigh, North Carolina.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Raleigh, North Carolina.svg
 Capital of [[North Carolina]], where Root of Good's family saved its way to early retirement on a frugal budget.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How We Reached Financial Independence In Our 30’s | Justin (Root of Good) | backdrop | A low-to-moderate cost-of-living city that made their high savings rate possible. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.78&mlon=-78.64#map=16/35.78/-78.64) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.78,-78.64)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.78\&mlon=-78.64#map=16/35.78/-78.64) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=35.78,-78.64)
 
 ## How We Reached Financial Independence In Our 30’s — Justin (Root of Good) (2015)
+
 Source: [Original](http://rootofgood.com/financial-independence-thirties/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5jszwzgd38g7qpnrf1rf)
 
 > We saved a lot by living frugally in Raleigh, North Carolina (a low to moderate cost of living area) and having decent incomes.

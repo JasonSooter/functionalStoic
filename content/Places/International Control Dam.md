@@ -2,8 +2,13 @@
 publish: true
 title: International Control Dam
 created: 2025-10-23
-modified: 2026-11-07T06:54:06.398Z
-published: 2026-11-07T06:54:06.398Z
+modified: 2026-11-07T06:54:06.000Z
+published: 2026-11-07T06:54:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/International Control Dam.svg
 aliases: []
 books:
   - The Hidden Engineering of Niagara Falls
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 43.0723
   - -79.0586
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Niagara Falls]]"
 image: Attachments/Places/International Control Dam.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/International Control Dam.svg
 Partial dam on the Niagara River just above [[Niagara Falls]], where Practical Engineering shows flow being split between the falls and the hydropower intakes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Hidden Engineering of Niagara Falls | Wesley Crump | subject | Where flow is split between falls and turbines. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.0723&mlon=-79.0586#map=16/43.0723/-79.0586) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0723,-79.0586)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.0723\&mlon=-79.0586#map=16/43.0723/-79.0586) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.0723,-79.0586)
 
 ## The Hidden Engineering of Niagara Falls — Wesley Crump (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls) · [Readwise highlight](https://read.readwise.io/read/01m5crewbygtpk3pnx8mzyajm1)
 
 > This structure’s not meant to create a reservoir; it just subtly adjusts the level in the river to control how much water flows over the falls versus into the hydropower intakes.

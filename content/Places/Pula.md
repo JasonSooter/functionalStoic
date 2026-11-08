@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Pula
-created: 2026-10-20T07:53:00.000Z
-modified: 2026-11-07T06:57:28.705Z
-published: 2026-11-07T06:57:28.705Z
 aliases:
   - Pola
+title: Pula
+created: 2026-07-06
+modified: 2026-11-07T06:57:29.000Z
+published: 2026-11-07T06:57:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Pula.svg
 books:
   - "[[Death in Venice]]"
 categories:
@@ -16,10 +21,6 @@ icon: book
 location:
   - 44.8703
   - 13.8456
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Croatia]]"
 image: Attachments/Places/Pula.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Pula.svg
 Port city at the southern tip of Istria, [[Croatia]], once Austria-Hungary's naval base as Pola, where Aschenbach boards the steamer to Venice in _Death in Venice_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Death in Venice]] | Thomas Mann | journey waypoint | Where Aschenbach boards the steamer to Venice and meets the rouged old fop. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.8703&mlon=13.8456#map=16/44.8703/13.8456) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.8703,13.8456)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.8703\&mlon=13.8456#map=16/44.8703/13.8456) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.8703,13.8456)
 
 ## Death in Venice — Thomas Mann (1912)
+
 Source: [[Death in Venice]] · [Original](https://openlibrary.org/works/OL16246083W) · [Readwise highlight](https://read.readwise.io/read/01m5c4ps3xp2vx3m88etxs50xv)
 
 > on a day between mid and late May he set off by night train for Trieste, where he tarried only twenty-four hours, boarding the ship for Pola the next morning.

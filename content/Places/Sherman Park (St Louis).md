@@ -2,8 +2,13 @@
 publish: true
 title: Sherman Park (St. Louis)
 created: 2025-11-25
-modified: 2026-11-07T06:55:02.762Z
-published: 2026-11-07T06:55:02.762Z
+modified: 2026-11-07T06:55:03.000Z
+published: 2026-11-07T06:55:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sherman Park (St Louis).svg
 aliases: []
 books:
   - Why Cities Feel so Lonely Now.
@@ -16,10 +21,6 @@ icon: video
 location:
   - 38.6651
   - -90.2629
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[St Louis]]"
 image: Attachments/Places/Sherman Park (St Louis).svg
 ---
@@ -29,11 +30,12 @@ image: Attachments/Places/Sherman Park (St Louis).svg
 Park north of [[Delmar Boulevard]] in [[St Louis|St. Louis]], Missouri, the neglected counterpart to [[Forest Park (St Louis)|Forest Park]] in a video on why cities feel lonely.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Why Cities Feel So Lonely Now.\|Why Cities Feel so Lonely Now.]] | Type Ashton | subject | The neglected park north of the divide. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6651&mlon=-90.2629#map=16/38.6651/-90.2629) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6651,-90.2629)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6651\&mlon=-90.2629#map=16/38.6651/-90.2629) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.6651,-90.2629)
 
 ## Why Cities Feel so Lonely Now. — Type Ashton (2025)
 

@@ -2,8 +2,13 @@
 publish: true
 title: Bhutan
 created: 2025-11-26
-modified: 2026-11-07T07:00:08.826Z
-published: 2026-11-07T07:00:08.826Z
+modified: 2026-11-07T07:00:09.000Z
+published: 2026-11-07T07:00:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bhutan.svg
 aliases: []
 books:
   - The sights and sounds of Bhutan
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 27.5
   - 90.5
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Bhutan.svg
 ---
 
@@ -29,11 +30,12 @@ image: Attachments/Places/Bhutan.svg
 Himalayan kingdom between India and China, and the subject of Tim Urban's Wait But Why post on visiting it, from temples to Gross National Happiness.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The sights and sounds of Bhutan]] | Tim Urban | subject | A long-awaited trip to the kingdom of Gross National Happiness. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.5&mlon=90.5#map=11/27.5/90.5) · [Google Maps](https://www.google.com/maps/search/?api=1&query=27.5,90.5)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.5\&mlon=90.5#map=11/27.5/90.5) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=27.5,90.5)
 
 ## Sub-places
 
@@ -43,6 +45,7 @@ Himalayan kingdom between India and China, and the subject of Tim Urban's Wait B
 - [[Paro Taktsang]]
 
 ## The sights and sounds of Bhutan — Tim Urban (2025)
+
 Source: [Original](https://waitbutwhy.com/2025/11/bhutan.html) · [Readwise highlight](https://read.readwise.io/read/01m5ce4r3tag2sdwchf02nwh7d)
 
 > Bhutan, if you’re not familiar, is a tiny 800,000-person country squashed between two behemoths.

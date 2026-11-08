@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Easter Island
-created: 2024-10-04
-modified: 2026-11-07T07:04:53.540Z
-published: 2026-11-07T07:04:53.540Z
 aliases:
   - Rapa Nui
+title: Easter Island
+created: 2024-10-04
+modified: 2026-11-07T07:04:54.000Z
+published: 2026-11-07T07:04:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Easter Island.svg
 books:
   - Life on Air
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -27.12
   - -109.35
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Chile]]"
 image: Attachments/Places/Easter Island.svg
 ---
@@ -31,16 +32,19 @@ image: Attachments/Places/Easter Island.svg
 Remote Chilean island in the south-east Pacific; in _Life on Air_ Attenborough tells the story of its lost forests and statues.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | subject | The State of the Planet ends there with the story of its felled forests. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-27.12&mlon=-109.35#map=11/-27.12/-109.35) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-27.12,-109.35)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-27.12\&mlon=-109.35#map=11/-27.12/-109.35) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-27.12,-109.35)
 
 ## Sub-places
+
 - [[Orongo]]
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8z4z3v44hw1cpp93apmb)
 
 > The resulting two-part series, The State of the Planet, ended with a sequence shot on Easter Island.

@@ -2,8 +2,13 @@
 publish: true
 title: Delhi
 created: 2024-11-19
-modified: 2026-11-07T07:02:23.769Z
-published: 2026-11-07T07:02:23.769Z
+modified: 2026-11-07T07:02:24.000Z
+published: 2026-11-07T07:02:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Delhi.svg
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 28.61
   - 77.23
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[India]]"
 image: Attachments/Places/Delhi.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Delhi.svg
 City in [[India]], the case study in Hannah Ritchie's _Not the End of the World_ for why the odd-even car rules barely cut winter air pollution.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Not the End of the World]] | Hannah Ritchie | subject | Delhi's winter pollution is the case for why the 2016 and 2019 'odd-even' car rules only cut pollution by 5% and 13%. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.61&mlon=77.23#map=16/28.61/77.23) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.61,77.23)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.61\&mlon=77.23#map=16/28.61/77.23) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=28.61,77.23)
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5e31cgvby7cadx9v96jajvc)
 
 > Delhi’s average concentration of tiny particulates – those smaller than 2.5 micrometres – is twenty times higher than the WHO guidelines. In winter, things get even worse.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Amundsen–Scott South Pole Station
-created: 2024-02-18
-modified: 2026-11-07T06:54:05.182Z
-published: 2026-11-07T06:54:05.182Z
 aliases:
   - South Pole station
+title: Amundsen–Scott South Pole Station
+created: 2024-02-18
+modified: 2026-11-07T06:54:05.000Z
+published: 2026-11-07T06:54:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Amundsen–Scott South Pole Station.svg
 books:
   - What if Earth suddenly stopped spinning?
   - Has cosmology run into a creative crisis?
@@ -19,10 +24,6 @@ icon: video
 location:
   - -90
   - 0
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Amundsen–Scott South Pole Station.svg
 ---
 
@@ -31,14 +32,16 @@ image: Attachments/Places/Amundsen–Scott South Pole Station.svg
 US research station at the geographic South Pole, Antarctica. It turns up in What if Earth suddenly stopped spinning? (xkcd's What If?): the one place spared the supersonic winds, since the pole lies on the rotation axis.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What if Earth suddenly stopped spinning? | xkcd's What If? | backdrop | The one place spared the supersonic winds, since the pole lies on the rotation axis. |
 | Has cosmology run into a creative crisis? | Ross Andersen | setting | John Kovac calls from the station, beside the Dark Sector telescopes where BICEP2 looks back toward the Big Bang. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-90&mlon=0#map=10/-90/0) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-90,0)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-90\&mlon=0#map=10/-90/0) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-90,0)
 
 ## What if Earth suddenly stopped spinning? — xkcd's What If?
+
 Source: [Original](https://www.youtube.com/watch?v=gp5G1QG6cXc) · [Readwise highlight](https://read.readwise.io/read/01m5fmrggj4jr7f2psgm795adw)
 
 > Amundsen–Scott research station at the South Pole.
@@ -48,6 +51,7 @@ Source: [Original](https://www.youtube.com/watch?v=gp5G1QG6cXc) · [Readwise hig
 - **Why it matters:** The one concrete place used as an exception to the global devastation; set elsewhere the survivors point would not work because only the pole lies on the axis.
 
 ## Has cosmology run into a creative crisis? — Ross Andersen (2015)
+
 Source: [Original](http://aeon.co/magazine/science/has-cosmology-run-into-a-creative-crisis) · [Readwise highlight](https://read.readwise.io/read/01m5g0e520wj8g6xv1n868n2rc)
 
 > He could see clear across the landing strip to the Dark Sector, a special zone where electromagnetic radiation is forbidden.

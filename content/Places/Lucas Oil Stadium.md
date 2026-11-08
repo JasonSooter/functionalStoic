@@ -2,8 +2,13 @@
 publish: true
 title: Lucas Oil Stadium
 created: 2020-02-20
-modified: 2026-11-07T06:51:51.456Z
-published: 2026-11-07T06:51:51.456Z
+modified: 2026-11-07T06:51:51.000Z
+published: 2026-11-07T06:51:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lucas Oil Stadium.svg
 aliases: []
 books:
   - The Invasion of the German Board Games
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 39.7601
   - -86.1638
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Indianapolis]]"
 image: Attachments/Places/Lucas Oil Stadium.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Lucas Oil Stadium.svg
 Stadium in Indianapolis, Indiana, home of Gen Con's main hall. The Walrus opens its story of German board games with the crowds there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Invasion of the German Board Games | Jonathan Kay | setting | Gen Con, North America's largest hobby-gaming convention, topped 200,000 attendance in 2017 with all badges sold in advance. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.7601&mlon=-86.1638#map=16/39.7601/-86.1638) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.7601,-86.1638)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.7601\&mlon=-86.1638#map=16/39.7601/-86.1638) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.7601,-86.1638)
 
 ## The Invasion of the German Board Games — Jonathan Kay
+
 Source: [Original](https://getpocket.com/explore/item/the-invasion-of-the-german-board-games) · [Readwise highlight](https://read.readwise.io/read/01m5k8whm159qy6db0c31d09nv)
 
 > Whether they knew it or not, the many thousands of people carpeting the field level of Lucas Oil Stadium wouldn’t be there if it weren’t for a small group of obsessives on the other side of the Atlantic.

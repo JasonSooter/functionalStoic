@@ -2,8 +2,13 @@
 publish: true
 title: Walled Off Hotel
 created: 2024-12-21
-modified: 2026-11-07T06:58:39.332Z
-published: 2026-11-07T06:58:39.332Z
+modified: 2026-11-07T06:58:39.000Z
+published: 2026-11-07T06:58:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Walled Off Hotel.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 31.7193
   - 35.2033
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bethlehem]]"
 image: Attachments/Places/Walled Off Hotel.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Walled Off Hotel.svg
 Hotel beside the Wall in Bethlehem, designed by the artist Banksy. A setting in Colum McCann's _Apeirogon_: Banksy's art hotel beside the Wall, where Bassam is filmed and uneasy at being made to fit foreign visitors' ideas.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | Banksy's art hotel beside the Wall, where Bassam is filmed and uneasy at being made to fit foreign visitors' ideas |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7193&mlon=35.2033#map=16/31.7193/35.2033) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7193,35.2033)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7193\&mlon=35.2033#map=16/31.7193/35.2033) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.7193,35.2033)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqs94gmax3artt9w3nh3z)
 
 > The door of the Walled Off was swung open by a man in a red bow tie. Bassam stood stunned a moment by the sight of a plastic chimp carrying a suitcase.

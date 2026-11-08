@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Petronas Towers
-created: 2026-10-20T04:20:16.000Z
-modified: 2026-11-07T06:54:50.625Z
-published: 2026-11-07T06:54:50.625Z
 aliases:
   - Petronas Twin Towers
+title: Petronas Towers
+created: 2026-07-14
+modified: 2026-11-07T06:54:51.000Z
+published: 2026-11-07T06:54:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Petronas Towers.svg
 books:
   - Why the Jeddah Tower Won’t be as Tall as You Think
 categories:
@@ -16,10 +21,6 @@ icon: video
 location:
   - 3.1578
   - 101.7117
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kuala Lumpur]]"
 image: Attachments/Places/Petronas Towers.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Petronas Towers.svg
 Twin skyscrapers in central [[Kuala Lumpur]], Malaysia, which a B1M video uses as the starting case in the dispute over how the "tallest building" is measured.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why the Jeddah Tower Won’t be as Tall as You Think | The B1M | turning point | Their spires out-measured Chicago's tower and started the fight over what counts as height. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=3.1578&mlon=101.7117#map=16/3.1578/101.7117) · [Google Maps](https://www.google.com/maps/search/?api=1&query=3.1578,101.7117)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=3.1578\&mlon=101.7117#map=16/3.1578/101.7117) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=3.1578,101.7117)
 
 ## Why the Jeddah Tower Won’t be as Tall as You Think — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=vVfEs9wrW98) · [Readwise highlight](https://read.readwise.io/read/01m5brejxb20p3p3baab3y4b2k)
 
 > So wrong in fact that in 1996, as the Petronas Towers were nearing completion,   a delegation of incensed Chicago journalists demanded an answer.

@@ -4,6 +4,11 @@ title: Corralitos
 created: 2020-01-19
 modified: 2026-11-07T06:58:35.000Z
 published: 2026-11-07T06:58:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Corralitos.svg
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 36.9914
   - -121.8019
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Corralitos.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Corralitos.svg
 Small town near Santa Cruz in [[California]], where Jenny Odell stayed in a cabin before her bird-watching trip to Elkhorn Slough in How to Do Nothing.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | journey waypoint | Odell retreats to a cabin for days without speaking and drives from there to Elkhorn Slough on the third day. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.9914&mlon=-121.8019#map=16/36.9914/-121.8019) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.9914,-121.8019)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.9914\&mlon=-121.8019#map=16/36.9914/-121.8019) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=36.9914,-121.8019)
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5edhxzydcp6n326sw2r8kqq)
 
 > Most recently, I stayed in a very small cabin in Corralitos, a small town just south of Santa Cruz, with the intent of going bird-watching at the Elkhorn Slough National Estuarine Research Reserve.

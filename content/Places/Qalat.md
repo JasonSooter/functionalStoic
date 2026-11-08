@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Qalat
-created: 2026-10-22T16:26:15.000Z
-modified: 2026-11-07T06:57:51.007Z
-published: 2026-11-07T06:57:51.007Z
 aliases:
   - Kalat-i-Ghilzai
   - Kalat-e-Ghizlot
   - Qalat-i Ghilzai
+title: Qalat
+created: 2025-03-08
+modified: 2026-11-07T06:57:51.000Z
+published: 2026-11-07T06:57:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Qalat.svg
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 32.1061
   - 66.9069
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Afghanistan]]"
 image: Attachments/Places/Qalat.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Qalat.svg
 Town in Zabul Province on the Kandahar–Kabul road, Afghanistan. In _Full Tilt_ (as 'Kalat-e-Ghizlot') Dervla Murphy falls in love with Afghanistan here.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Dinner by oil-lamp in a village eating-house where she declares she loves Afghanistan. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.1061&mlon=66.9069#map=16/32.1061/66.9069) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.1061,66.9069)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.1061\&mlon=66.9069#map=16/32.1061/66.9069) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=32.1061,66.9069)
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6m15mhq2s9s2hdq2f37h4)
 
 > The roof of the eating-house was so low that big six-footers in flowing robes had to bend their heads while walking to the carpet they had chosen to sit on.

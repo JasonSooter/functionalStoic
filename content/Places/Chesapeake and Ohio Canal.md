@@ -1,29 +1,29 @@
 ---
 publish: true
-title: Chesapeake and Ohio Canal
-created: 2025-10-05
-modified: 2026-11-07T06:55:02.706Z
-published: 2026-11-07T06:55:02.706Z
 aliases:
   - C&O Canal
   - C&O Canal towpath
+title: Chesapeake and Ohio Canal
+created: 2025-10-05
+modified: 2026-11-07T06:55:03.000Z
+published: 2026-11-07T06:55:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chesapeake and Ohio Canal.svg
 books:
   - "[[Recognition Through Motion]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 38.8997,-77.0578
-geo_note: approximate (the national historical park's representative point, at the
-  Georgetown end)
+geo_note: approximate (the national historical park's representative point, at the Georgetown end)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 38.8997
   - -77.0578
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Maryland]]"
 image: Attachments/Places/Chesapeake and Ohio Canal.svg
 ---
@@ -33,16 +33,18 @@ image: Attachments/Places/Chesapeake and Ohio Canal.svg
 Historic canal and towpath along the Potomac from Washington, D.C. into [[Maryland]], USA, where a writer walk-runs a solo marathon to mark the end of a federal career.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Recognition Through Motion]] | MG (Chasing Mailboxes) | setting | A solo marathon on the towpath to mark the end of a federal career. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8997&mlon=-77.0578#map=10/38.8997/-77.0578) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8997,-77.0578)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8997\&mlon=-77.0578#map=10/38.8997/-77.0578) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.8997,-77.0578)
 
 ## Recognition Through Motion — MG (2025)
+
 Source: [[Recognition Through Motion]] · [Original](http://chasingmailboxes.com/2025/09/02/recognition-through-motion/) · [Readwise highlight](https://read.readwise.io/read/01m5d2012qnd77vzq9zavj7b92)
 
-> I chose the C&O Canal for my route. Flat, some shade, and the unpaved surface made it easier on the body than pavement.
+> I chose the C\&O Canal for my route. Flat, some shade, and the unpaved surface made it easier on the body than pavement.
 
 - **Role:** setting
 - **In the article:** To mark the end of more than 20 years as a federal employee, the writer walk-runs a 26.2-mile marathon on the towpath. It is sandy, warm and quiet; she sees a heron and turtles sunning, and finishes in 6:10:42.

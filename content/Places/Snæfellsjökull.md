@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Snæfellsjökull
-created: 2025-08-18
-modified: 2026-11-07T06:55:59.035Z
-published: 2026-11-07T06:55:59.035Z
 aliases:
   - Snæfells
+title: Snæfellsjökull
+created: 2025-08-18
+modified: 2026-11-07T06:55:59.000Z
+published: 2026-11-07T06:55:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Snæfellsjökull.svg
 books:
   - "[[Journey to the Centre of the Earth]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 64.8
   - -23.7833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iceland]]"
 image: Attachments/Places/Snæfellsjökull.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Snæfellsjökull.svg
 Glacier-capped volcano at the tip of the Snæfellsnes peninsula, west Iceland. In _Journey to the Centre of the Earth_ its crater is the entrance to the underworld, marked by Saknussemm's runes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Journey to the Centre of the Earth]] | Jules Verne | turning point | The crater where Saknussemm's runes and the shadow of Scartaris mark the way down. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=64.8&mlon=-23.7833#map=16/64.8/-23.7833) · [Google Maps](https://www.google.com/maps/search/?api=1&query=64.8,-23.7833)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=64.8\&mlon=-23.7833#map=16/64.8/-23.7833) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=64.8,-23.7833)
 
 ## Journey to the Centre of the Earth — Jules Verne (1864)
+
 Source: [[Journey to the Centre of the Earth]] · [Original](https://openlibrary.org/works/OL16820479W) · [Readwise highlight](https://read.readwise.io/read/01m5khvnpvcbv8vbxkrd8jy0yz)
 
 > At the bottom of the crater opened three vents through which, at the time when Snæfells used to erupt, the central fire forced its lava and its steam.

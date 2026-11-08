@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Syracuse
-created: 2016-02-18
-modified: 2026-11-07T07:01:26.120Z
-published: 2026-11-07T07:01:26.120Z
 aliases:
   - Siracusa
   - Syracuse, Sicily
+title: Syracuse
+created: 2016-02-18
+modified: 2026-11-07T07:01:26.000Z
+published: 2026-11-07T07:01:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Syracuse.svg
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
   - "The Global Yogi: Long-Term Travel through Five Continents"
@@ -19,10 +24,6 @@ icon: book
 location:
   - 37.0692
   - 15.2875
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Sicily]]"
 image: Attachments/Places/Syracuse.svg
 ---
@@ -39,9 +40,10 @@ Ancient Greek city on the south-east coast of [[Sicily]], where Archimedes lived
 | The Global Yogi: Long-Term Travel through Five Continents | Chris Guillebeau | setting | Two weeks in Siracusa; playing piano at the vegan restaurant MOON for dinner. |
 | A Primer on Plato: His Life, Works, and Philosophy | Brett and Kate McKay | turning point | On his first trip Plato is threatened by the tyrant Dionysus I and sold into slavery, then ransomed by Anniceris |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.0692&mlon=15.2875#map=16/37.0692/15.2875) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.0692,15.2875)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.0692\&mlon=15.2875#map=16/37.0692/15.2875) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.0692,15.2875)
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5b44npmdaydkkj7smd372xe)
 
 > Archimedes was slaughtered by the Romans during the sacking of Syracuse, the last proud remnant of Magna Grecia to fall under the Roman yoke
@@ -52,6 +54,7 @@ Source: [[There Are Places in the World Where Rules Are Less Important Than Kind
 - **Not pinned separately:** the ancient theatre at Taormina (no standard-source coordinate found).
 
 ## The Global Yogi: Long-Term Travel through Five Continents — Chris Guillebeau (2015)
+
 Source: [Original](http://chrisguillebeau.com/the-global-yogi/) · [Readwise highlight](https://read.readwise.io/read/01m5j6k3zk0t3z2phz2pqmfzb8)
 
 > One evening I stumbled upon a vegan restaurant called MOON, where I met kindred nomadic spirits and saw a grand piano sitting in the bar area.
@@ -61,6 +64,7 @@ Source: [Original](http://chrisguillebeau.com/the-global-yogi/) · [Readwise hig
 - **Why it matters:** It is the scene of her first earning from her own music, the memorable travel story she chose to tell.
 
 ## A Primer on Plato: His Life, Works, and Philosophy — Brett and Kate McKay (2016)
+
 Source: [Original](https://www.artofmanliness.com/2016/07/10/a-primer-on-plato-his-life-works-and-philosophy/) · [Readwise highlight](https://read.readwise.io/read/01m5jx6zwe4wnj7x8j8g9q5re3)
 
 > while in Sicily, Dionysus I, the despotic ruler of Syracuse, threatened to kill him. Plato escaped death but was sold into slavery.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: München Hauptbahnhof
-created: 2026-10-20T07:54:31.000Z
-modified: 2026-11-07T07:00:28.001Z
-published: 2026-11-07T07:00:28.001Z
 aliases:
   - Munich Hbf
   - Munich Central Station
+title: München Hauptbahnhof
+created: 2026-01-19
+modified: 2026-11-07T07:00:28.000Z
+published: 2026-11-07T07:00:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/München Hauptbahnhof.svg
 books:
   - "8 Hours on DB's New ICE3 Neo: Inside Germany's Latest Flagship High-Speed Train!"
 categories:
@@ -17,10 +22,6 @@ icon: video
 location:
   - 48.1408
   - 11.555
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Munich]]"
 image: Attachments/Places/München Hauptbahnhof.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/München Hauptbahnhof.svg
 Main railway station of [[Munich]]. It is where Simply Railway's eight-hour ICE 3 Neo journey to Amsterdam starts, amid a major rebuild.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[8 Hours on DB's New ICE3 Neo - Inside Germany's Latest Flagship High-Speed Train!\|8 Hours on DB's New ICE3 Neo: Inside Germany's Latest Flagship High-Speed Train!]] | Simply Railway | setting | Departure of the eight-hour ICE to Amsterdam, amid building works. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.1408&mlon=11.555#map=16/48.1408/11.555) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.1408,11.555)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.1408\&mlon=11.555#map=16/48.1408/11.555) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.1408,11.555)
 
 ## 8 Hours on DB's New ICE3 Neo: Inside Germany's Latest Flagship High-Speed Train! — Simply Railway (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=5b1BLf4H4Dg) · [Readwise highlight](https://read.readwise.io/read/01m5c4qd994zeavgabz61xeav7)
 
 > Don't mind the mess at Munich Hbf—there's a massive renovation project underway.

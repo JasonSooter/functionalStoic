@@ -2,8 +2,13 @@
 publish: true
 title: Eighth Street and Sixth Avenue (Manhattan)
 created: 2016-04-07
-modified: 2026-11-07T06:51:15.597Z
-published: 2026-11-07T06:51:15.597Z
+modified: 2026-11-07T06:51:16.000Z
+published: 2026-11-07T06:51:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Eighth Street and Sixth Avenue (Manhattan).svg
 aliases: []
 books:
   - Humans of New York
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.7337,-73.9995
-geo_note: approximate (western end of OSM West 8th Street way, within ~50 m of Sixth
-  Avenue; Nominatim gave no intersection node)
+geo_note: approximate (western end of OSM West 8th Street way, within ~50 m of Sixth Avenue; Nominatim gave no intersection node)
 geo_source: OSM way 5670651
 icon: newspaper
 location:
   - 40.7337
   - -73.9995
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Eighth Street and Sixth Avenue (Manhattan).svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Eighth Street and Sixth Avenue (Manhattan).svg
 Street corner in Greenwich Village, Manhattan. A turning point in “Humans of New York”: Corner where a closeted student finds Greenwich Village and meets Charlie, his first lover.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Humans of New York | Humans of New York | turning point | Corner where a closeted student finds Greenwich Village and meets Charlie, his first lover. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7337&mlon=-73.9995#map=10/40.7337/-73.9995) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7337,-73.9995)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7337\&mlon=-73.9995#map=10/40.7337/-73.9995) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.7337,-73.9995)
 
 ## Humans of New York — Humans of New York (2016)
+
 Source: [Original](http://www.humansofnewyork.com/post/142356414341) · [Readwise highlight](https://read.readwise.io/read/01m5jjrbrzqbm2z72nsqj8p2fd)
 
 > Finally I get to the corner of 8th Street and 6th Avenue, and I’m waiting for the light to change. And this guy starts hitting on me.

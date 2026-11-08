@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Olof Palme assassination site
-created: 2026-10-19T22:25:03.000Z
-modified: 2026-11-07T06:52:27.310Z
-published: 2026-11-07T06:52:27.310Z
 aliases:
   - Sveavägen
   - Sveavägen–Tunnelgatan
+title: Olof Palme assassination site
+created: 2026-08-26
+modified: 2026-11-07T06:52:27.000Z
+published: 2026-11-07T06:52:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Olof Palme assassination site.svg
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 59.3366
   - 18.0628
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Stockholm]]"
 image: Attachments/Places/Olof Palme assassination site.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Olof Palme assassination site.svg
 The corner of Sveavägen and Tunnelgatan in central [[Stockholm]], near the cinema Palme had left when he was shot in 1986, and in Bill Bryson's Neither Here Nor There the spot that marks the end of Swedish innocence.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | subject | The spot that, for Bryson, marks the end of Swedish innocence. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.3366&mlon=18.0628#map=16/59.3366/18.0628) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3366,18.0628)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.3366\&mlon=18.0628#map=16/59.3366/18.0628) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=59.3366,18.0628)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b445y9tx72e8mxdms98b7p)
 
 > I passed the movie house on Sveavägen where Olof Palme, the prime minister, was gunned down in March 1986.

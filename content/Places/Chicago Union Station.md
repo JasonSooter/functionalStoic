@@ -2,8 +2,13 @@
 publish: true
 title: Chicago Union Station
 created: 2025-02-17
-modified: 2026-11-07T06:55:04.867Z
-published: 2026-11-07T06:55:04.867Z
+modified: 2026-11-07T06:55:05.000Z
+published: 2026-11-07T06:55:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chicago Union Station.svg
 aliases: []
 books:
   - While Riding on a Train Going West
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 41.8786
   - -87.6391
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Chicago]]"
 image: Attachments/Places/Chicago Union Station.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Chicago Union Station.svg
 Railway station in Chicago, Illinois, USA, part of [[Chicago]], where a writer changes trains for the California Zephyr on a diary of a journey west.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | While Riding on a Train Going West | Linnesby-Maria | journey waypoint | The writer changes in Chicago, eats lunch and buys food for the long leg. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.8786&mlon=-87.6391#map=16/41.8786/-87.6391) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.8786,-87.6391)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.8786\&mlon=-87.6391#map=16/41.8786/-87.6391) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.8786,-87.6391)
 
 ## While Riding on a Train Going West — Linnesby-Maria (2024)
+
 Source: [Original](https://notesfromlinnesby.substack.com/p/while-riding-on-a-train-going-west) · [Readwise highlight](https://read.readwise.io/read/01m5ede56mc9v2hcs4q489cqj5)
 
 > We arrive in Chicago at 11 AM, enough time for me to have an excellent vegetable panini and soup for lunch and buy some good penne in marinara sauce to take onto the real train of this trip, the California Zephyr, which runs between Chicago and San Francisco.

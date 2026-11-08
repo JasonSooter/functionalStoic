@@ -2,8 +2,13 @@
 publish: true
 title: Downtown Las Vegas
 created: 2015-11-28
-modified: 2026-11-07T07:03:38.664Z
-published: 2026-11-07T07:03:38.664Z
+modified: 2026-11-07T07:03:39.000Z
+published: 2026-11-07T07:03:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Downtown Las Vegas.svg
 aliases: []
 books:
   - The Rise of the Minimalist Millionaire
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 36.1717
   - -115.1438
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Las Vegas]]"
 image: Attachments/Places/Downtown Las Vegas.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Downtown Las Vegas.svg
 Old downtown of [[Las Vegas]] around Fremont Street. A LifeEdited post covers Tony Hsieh's Downtown Project and its Airstream park.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Rise of the Minimalist Millionaire | David Friedlander | subject | Tony Hsieh's bid to turn the old downtown into an innovation hub, with an Airstream trailer park. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.1717&mlon=-115.1438#map=16/36.1717/-115.1438) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.1717,-115.1438)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.1717\&mlon=-115.1438#map=16/36.1717/-115.1438) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=36.1717,-115.1438)
 
 ## The Rise of the Minimalist Millionaire — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/the-rise-of-the-minimalist-millionaire/) · [Readwise highlight](https://read.readwise.io/read/01m5gapb3ah3859zp6sanp0eh5)
 
 > With the help of various Glaeser-inspired urban interventions, he sought to transform Las Vegas’ haggard old downtown area into one of the world’s leading innovation centers.

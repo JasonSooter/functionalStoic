@@ -2,8 +2,13 @@
 publish: true
 title: El Hajeb
 created: 2026-10-04
-modified: 2026-11-07T06:51:33.314Z
-published: 2026-11-07T06:51:33.314Z
+modified: 2026-11-07T06:51:33.000Z
+published: 2026-11-07T06:51:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/El Hajeb.svg
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
@@ -15,10 +20,6 @@ icon: book
 location:
   - 33.6928
   - -5.3711
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Morocco]]"
 image: Attachments/Places/El Hajeb.svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/El Hajeb.svg
 Town in the Fès-Meknès region of [[Morocco]], south of Meknes; it is the setting of Orin Hargraves's Peace Corps essay on being accepted as a neighbour.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | Orin Hargraves's town, where a neighbour's shouted request makes him feel he belongs. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.6928&mlon=-5.3711#map=16/33.6928/-5.3711) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.6928,-5.3711)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.6928\&mlon=-5.3711#map=16/33.6928/-5.3711) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.6928,-5.3711)
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
+
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5c3q033x4m52jnjkzqsksaw)
 
 > I lived in the upstairs apartment of a beautiful colonial-period villa in the part of the town that had been built by the French.

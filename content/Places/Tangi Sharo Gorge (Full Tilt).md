@@ -2,8 +2,13 @@
 publish: true
 title: Tangi Sharo Gorge (Full Tilt)
 created: 2025-03-08
-modified: 2026-11-07T07:02:09.878Z
-published: 2026-11-07T07:02:09.878Z
+modified: 2026-11-07T07:02:10.000Z
+published: 2026-11-07T07:02:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tangi Sharo Gorge (Full Tilt).svg
 aliases: []
 books:
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 34.55
   - 69.5
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tang-e Gharu]]"
 image: Attachments/Places/Tangi Sharo Gorge (Full Tilt).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Tangi Sharo Gorge (Full Tilt).svg
 Gorge Dervla Murphy calls 'Tangi Sharo' on the Kabul–Jalalabad road; most likely the Tang-e Gharu gorge of the Kabul River. A swim and a nomad's kindness in _Full Tilt_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | backdrop | Walking the unfinished gorge road, a swim in the Kabul River and a Kochi's tent. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.55&mlon=69.5#map=16/34.55/69.5) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.55,69.5)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.55\&mlon=69.5#map=16/34.55/69.5) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.55,69.5)
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6mbjfp524jwbn7sxf2a6p)
 
 > We passed through some tremendous scenery and saw a most awe-inspiring engineering feat – the road through the Tangi Sharo Gorge. Here the mountains are almost sheer walls of solid grey rock and the road pirouettes its way down thousands of feet to river level.

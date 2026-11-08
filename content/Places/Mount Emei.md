@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Mount Emei
-created: 2026-10-21T05:10:05.000Z
-modified: 2026-11-07T06:58:23.712Z
-published: 2026-11-07T06:58:23.712Z
+created: 2025-03-16
+modified: 2026-11-07T06:58:24.000Z
+published: 2026-11-07T06:58:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mount Emei.svg
 aliases: []
 books:
   - Notes on China
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 29.5197
   - 103.3325
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[China]]"
 image: Attachments/Places/Mount Emei.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Mount Emei.svg
 Temple in Emeishan, Sichuan, [[China]]. It is the vast, nearly empty Buddhist temple Dwarkesh Patel uses to illustrate China's scale.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Notes on China | Dwarkesh Patel | setting | Visits a vast, nearly empty Buddhist temple where each gate opens onto a larger, more ornate building, five or six times over. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.5197&mlon=103.3325#map=10/29.5197/103.3325) · [Google Maps](https://www.google.com/maps/search/?api=1&query=29.5197,103.3325)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.5197\&mlon=103.3325#map=10/29.5197/103.3325) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=29.5197,103.3325)
 
 ## Notes on China — Dwarkesh Patel (2024)
+
 Source: [Original](https://www.dwarkeshpatel.com/p/notes-on-china) · [Readwise highlight](https://read.readwise.io/read/01m5edfp1xry582yzh45bfsz38)
 
 > Even in Emeishan, a city of just half a million people (considered a quaint countryside town by Chinese standards), we found a Buddhist temple of comical scale

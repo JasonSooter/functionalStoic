@@ -2,8 +2,13 @@
 publish: true
 title: Arnold's Cove
 created: 2025-08-29
-modified: 2026-11-07T06:55:24.716Z
-published: 2026-11-07T06:55:24.716Z
+modified: 2026-11-07T06:55:25.000Z
+published: 2026-11-07T06:55:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Arnold's Cove.svg
 aliases: []
 books:
   - "[[Cod]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 47.7617
   - -53.9825
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Newfoundland and Labrador]]"
 image: Attachments/Places/Arnold's Cove.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Arnold's Cove.svg
 Fishing town on Placentia Bay, Newfoundland. In _Cod_ its fish plant keeps running on imported cod after the moratorium.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | setting | Islanders resettled for plant jobs; after the moratorium the plant processes Russian cod bought from Norwegians. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.7617&mlon=-53.9825#map=16/47.7617/-53.9825) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.7617,-53.9825)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.7617\&mlon=-53.9825#map=16/47.7617/-53.9825) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.7617,-53.9825)
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
+
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kksrszxf28jxm6aa0heyx7)
 
 > National Sea Products used a 250-employee plant in Arnold’s Cove, a typical Newfoundland fishing town like Petty Harbour, built in the crevice of a bay, out on the water on top of stilts.

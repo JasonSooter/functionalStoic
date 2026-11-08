@@ -2,8 +2,13 @@
 publish: true
 title: Lyceum Hall (Burlington)
 created: 2024-11-16
-modified: 2026-11-07T06:52:07.561Z
-published: 2026-11-07T06:52:07.561Z
+modified: 2026-11-07T06:52:08.000Z
+published: 2026-11-07T06:52:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lyceum Hall (Burlington).svg
 aliases: []
 books:
   - "My second Troll Trek: 7 trolls and 1 slice of pie"
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.0784,-74.8584
-geo_note: approximate (351 High Street address node, Burlington; Lyceum Hall building
-  itself not found)
+geo_note: approximate (351 High Street address node, Burlington; Lyceum Hall building itself not found)
 geo_source: OSM way 1452569333
 icon: newspaper
 location:
   - 40.0784
   - -74.8584
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Lyceum Hall (Burlington).svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Lyceum Hall (Burlington).svg
 Arts centre in a Greek Revival building on High Street, Burlington City, New Jersey. A troll stands just by it on a troll-hunting ride.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | My second Troll Trek: 7 trolls and 1 slice of pie | alliumstozinnias | journey waypoint | The Art Troll stands a block from its mapped address, by the columned arts centre. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.0784&mlon=-74.8584#map=10/40.0784/-74.8584) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.0784,-74.8584)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.0784\&mlon=-74.8584#map=10/40.0784/-74.8584) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.0784,-74.8584)
 
 ## My second Troll Trek: 7 trolls and 1 slice of pie — alliumstozinnias (2024)
+
 Source: [Original](https://exploringbybike.com/2024/11/08/my-second-troll-trek-7-trolls-and-1-slice-of-pie/) · [Readwise highlight](https://read.readwise.io/read/01m5f0qckvvkq5dxs0nx2h6ffg)
 
 > The map says two trolls are supposed to be at 351 High Street

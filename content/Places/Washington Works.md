@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Washington Works
-created: 2015-11-28
-modified: 2026-11-07T06:59:14.619Z
-published: 2026-11-07T06:59:14.619Z
 aliases:
   - DuPont Washington Works
   - Chemours Washington Works
+title: Washington Works
+created: 2015-11-28
+modified: 2026-11-07T06:59:15.000Z
+published: 2026-11-07T06:59:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Washington Works.svg
 books:
   - DuPont and the Chemistry of Deception
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 39.27
   - -81.67
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Virginia]]"
 image: Attachments/Places/Washington Works.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Washington Works.svg
 DuPont (now Chemours) chemical plant near Parkersburg, [[West Virginia]], on the Ohio River. The Intercept's investigation of C8 (PFOA) pollution centres on it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | DuPont and the Chemistry of Deception | The Intercept | setting | Teflon plant where workers handled C8 and from which it reached the Ohio River and local drinking water. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.27&mlon=-81.67#map=16/39.27/-81.67) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.27,-81.67)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.27\&mlon=-81.67#map=16/39.27/-81.67) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.27,-81.67)
 
 ## DuPont and the Chemistry of Deception — The Intercept (2015)
+
 Source: [Original](https://theintercept.com/2015/08/11/dupont-chemistry-deception/) · [Readwise highlight](https://read.readwise.io/read/01m5ga165acjygs7d6bffmrqw0)
 
 > While Wamsley knew plenty of people in Parkersburg, West Virginia, who struggled to stay employed, he made an enviable wage for almost four decades at the DuPont plant here.

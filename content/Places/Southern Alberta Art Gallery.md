@@ -2,8 +2,13 @@
 publish: true
 title: Southern Alberta Art Gallery
 created: 2024-07-06
-modified: 2026-11-07T06:56:56.573Z
-published: 2026-11-07T06:56:56.573Z
+modified: 2026-11-07T06:56:57.000Z
+published: 2026-11-07T06:56:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Southern Alberta Art Gallery.svg
 aliases: []
 books:
   - Brandon Stosuy on “Cultivating an Art of Noticing” in the Age of Scrolling
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 49.696
   - -112.8385
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alberta]]"
 image: Attachments/Places/Southern Alberta Art Gallery.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Southern Alberta Art Gallery.svg
 Public art gallery in Lethbridge, Alberta. In a Creative Independent interview Brandon Stosuy recalls his first art job there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Brandon Stosuy on “Cultivating an Art of Noticing” in the Age of Scrolling | Brandon Stosuy | turning point | While living in Canada in his twenties and not legally allowed to work, Stosuy read at the public library daily. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=49.696&mlon=-112.8385#map=16/49.696/-112.8385) · [Google Maps](https://www.google.com/maps/search/?api=1&query=49.696,-112.8385)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=49.696\&mlon=-112.8385#map=16/49.696/-112.8385) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=49.696,-112.8385)
 
 ## Brandon Stosuy on “Cultivating an Art of Noticing” in the Age of Scrolling — Brandon Stosuy (2021)
+
 Source: [Original](https://lithub.com/brandon-stosuy-on-cultivating-an-art-of-noticing-in-the-age-of-scrolling/) · [Readwise highlight](https://read.readwise.io/read/01m5k8vhn6c14b7xbcxdnt04j7)
 
 > Once I was able to get a job, I found an assistant’s position at the Southern Alberta Art Gallery.

@@ -2,8 +2,13 @@
 publish: true
 title: Superilla de Sant Antoni
 created: 2025-09-21
-modified: 2026-11-07T07:00:54.911Z
-published: 2026-11-07T07:00:54.911Z
+modified: 2026-11-07T07:00:55.000Z
+published: 2026-11-07T07:00:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Superilla de Sant Antoni.svg
 aliases: []
 books:
   - "[[How ‘Superblocks’ Can Create People-Centered Cities]]"
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 41.3786
   - 2.161
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Barcelona]]"
 image: Attachments/Places/Superilla de Sant Antoni.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Superilla de Sant Antoni.svg
 Superblock street grid in the Sant Antoni neighborhood of Barcelona, Catalonia, Spain, part of [[Barcelona]]. It opens Kaja Šeruga's article on superblocks as the lived example of people-centered streets.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How ‘Superblocks’ Can Create People-Centered Cities]] | Kaja Šeruga | setting | The piece opens on a late-October evening at a small intersection here, full of families, skaters and children in Halloween costumes. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.3786&mlon=2.161#map=10/41.3786/2.161) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.3786,2.161)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.3786\&mlon=2.161#map=10/41.3786/2.161) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.3786,2.161)
 
 ## How ‘Superblocks’ Can Create People-Centered Cities — Kaja Šeruga (2025)
+
 Source: [[How ‘Superblocks’ Can Create People-Centered Cities]] · [Original](https://reasonstobecheerful.world/superblocks-are-for-people/) · [Readwise highlight](https://read.readwise.io/read/01m5edfa63z8mp9fytx1yxwm7x)
 
 > one of five “superblocks” in Barcelona: areas where traffic has been rerouted to prioritize people, community and active mobility.

@@ -2,8 +2,13 @@
 publish: true
 title: Col de l'Homme Mort (Forcalquier post)
 created: 2026-03-02
-modified: 2026-11-07T06:57:14.751Z
-published: 2026-11-07T06:57:14.751Z
+modified: 2026-11-07T06:57:15.000Z
+published: 2026-11-07T06:57:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Col de l'Homme Mort (Forcalquier post).svg
 aliases: []
 books:
   - Forcalquier
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 44.1571,5.4977
-geo_note: "best-guess: Name-only match placed on the Sault side; plausible but not\
-  \ confirmed."
+geo_note: "best-guess: Name-only match placed on the Sault side; plausible but not confirmed."
 geo_source: OSM node 616720082
 icon: newspaper
 location:
   - 44.1571
   - 5.4977
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ferrassières]]"
 image: Attachments/Places/Col de l'Homme Mort (Forcalquier post).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/Col de l'Homme Mort (Forcalquier post).svg
 Mountain pass in the Drôme, likely the real place behind the dead man's pass a cyclist crosses on the way from Sault to Forcalquier.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bookshelf/Highlights & Notes/Articles/Forcalquier\|Forcalquier]] | Mostly Bikes x Me | journey waypoint | A Sunday ride through Sault, over 'dead man's pass, aka Col de l'Homme Mort', and through a deserted Sisteron into Forcalquier. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1571&mlon=5.4977#map=16/44.1571/5.4977) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1571,5.4977)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1571\&mlon=5.4977#map=16/44.1571/5.4977) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.1571,5.4977)
 
 ## Forcalquier — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5e33egqcqnj3w8cz4n42m45)
 
 > Through Sault and over dead man’s pass, aka Col de l'Homme Mort.

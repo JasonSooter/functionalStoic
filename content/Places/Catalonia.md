@@ -1,29 +1,29 @@
 ---
 publish: true
-title: Catalonia
-created: 2016-07-11
-modified: 2026-11-07T06:53:44.840Z
-published: 2026-11-07T06:53:44.840Z
 aliases:
   - Catalunya
   - Cataluña
+title: Catalonia
+created: 2016-07-11
+modified: 2026-11-07T06:53:45.000Z
+published: 2026-11-07T06:53:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Catalonia.svg
 books:
   - How YNAB Helped Me Launch A Profitable Business
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 41.85,1.5667
-geo_note: approximate (centre of Catalonia region; the specific farm north of Barcelona
-  is unidentified)
+geo_note: approximate (centre of Catalonia region; the specific farm north of Barcelona is unidentified)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 41.85
   - 1.5667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Catalonia.svg
 ---
 
@@ -32,11 +32,12 @@ image: Attachments/Places/Catalonia.svg
 Region of north-eastern Spain around Barcelona. In a YNAB blog post it is where Lisa Hoashi moves to live with a Catalan farmer and launches her business on a tight budget.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How YNAB Helped Me Launch A Profitable Business | You Need A Budget | setting | After a sabbatical, the author (Lisa Hoashi) moves from Portland, Oregon to live with her Catalan farmer fiance in Spain, using a spare… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.85&mlon=1.5667#map=11/41.85/1.5667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.85,1.5667)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.85\&mlon=1.5667#map=11/41.85/1.5667) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.85,1.5667)
 
 ## Sub-places
 
@@ -48,6 +49,7 @@ Region of north-eastern Spain around Barcelona. In a YNAB blog post it is where 
 - [[Girona]]
 
 ## How YNAB Helped Me Launch A Profitable Business — You Need A Budget (2016)
+
 Source: [Original](http://www.youneedabudget.com/blog/post/how-i-started-a-business-on-a-very-limited-budget) · [Readwise highlight](https://read.readwise.io/read/01m5jvmgtb1tdz2vqg0darqgtd)
 
 > During my travels, I fell in love with a Catalan farmer, who lived just north of Barcelona.

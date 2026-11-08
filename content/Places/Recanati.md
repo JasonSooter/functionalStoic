@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Recanati
-created: 2026-10-20T01:29:56.000Z
-modified: 2026-11-07T06:58:44.020Z
-published: 2026-11-07T06:58:44.020Z
+created: 2026-10-19
+modified: 2026-11-07T06:58:44.000Z
+published: 2026-11-07T06:58:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Recanati.svg
 aliases: []
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
@@ -15,10 +20,6 @@ icon: book
 location:
   - 43.4036
   - 13.5497
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy]]"
 image: Attachments/Places/Recanati.svg
 ---
@@ -28,16 +29,19 @@ image: Attachments/Places/Recanati.svg
 Hill town in the Marche, central Italy, birthplace of Giacomo Leopardi; see [[Italy]]. Carlo Rovelli's essay on Leopardi and astronomy treats its isolation as the spur to his teenage rebellion.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | setting | The provincial isolation from which a fifteen-year-old Leopardi wrote a history of astronomy as rebellion. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.4036&mlon=13.5497#map=11/43.4036/13.5497) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.4036,13.5497)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.4036\&mlon=13.5497#map=11/43.4036/13.5497) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.4036,13.5497)
 
 ## Sub-places
+
 _None yet._
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5bevfkq6e64wcbcfjkc8bpc)
 
 > Leopardi was living in isolation in Recanati, a small provincial village in a remote part of central Italy.

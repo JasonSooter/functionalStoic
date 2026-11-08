@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Hope Cemetery (Barre)
-created: 2025-05-25
-modified: 2026-11-07T06:52:01.468Z
-published: 2026-11-07T06:52:01.468Z
 aliases:
   - Hope Cemetery, Barre
+title: Hope Cemetery (Barre)
+created: 2025-05-25
+modified: 2026-11-07T06:52:01.000Z
+published: 2026-11-07T06:52:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hope Cemetery (Barre).svg
 books:
   - On Stones
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 44.2104
   - -72.5005
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Barre, Vermont]]"
 image: Attachments/Places/Hope Cemetery (Barre).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Hope Cemetery (Barre).svg
 Cemetery in [[Barre, Vermont]], known for its carved granite memorials, where a stone carver shows the author his own unfinished tombstone in Ellyn Gaydos's essay on Vermont granite.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | On Stones | Ellyn Gaydos | setting | Giuliano Cecchinelli shows the author his unfinished tombstone, carved with himself as a boy, which he wants never washed so lichen can grow. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.2104&mlon=-72.5005#map=16/44.2104/-72.5005) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.2104,-72.5005)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.2104\&mlon=-72.5005#map=16/44.2104/-72.5005) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.2104,-72.5005)
 
 ## On Stones — Ellyn Gaydos (2024)
+
 Source: [Original](https://harpers.org/archive/2024/08/on-stones-ellyn-gaydos-vermont-granite/) · [Readwise highlight](https://read.readwise.io/read/01m5dqv0ydhgqtf46vs9btkmt4)
 
 > “It’s a vanity,” Giuliano Cecchinelli told me as we stood in Hope Cemetery.

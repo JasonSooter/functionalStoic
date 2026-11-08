@@ -2,8 +2,13 @@
 publish: true
 title: Amazon rainforest
 created: 2024-11-19
-modified: 2026-11-07T06:53:55.185Z
-published: 2026-11-07T06:53:55.185Z
+modified: 2026-11-07T06:53:55.000Z
+published: 2026-11-07T06:53:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Amazon rainforest.svg
 aliases: []
 books:
   - "[[Not the End of the World]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - -3
   - -60
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brazil]]"
 image: Attachments/Places/Amazon rainforest.svg
 ---
@@ -38,9 +39,10 @@ Rainforest region across northern [[Brazil]], the central case in Hannah Ritchie
 | [[Not the End of the World]] | Hannah Ritchie | subject | Brazilian beef is blamed for a quarter of global deforestation; Brazil's soy is mostly animal feed, so tofu and soy milk are not the cause. |
 | [[The Subtle Art of Not Giving a Fck\|The Subtle Art of Not Giving a F*ck]] | Mark Manson | turning point | William James falls ill on an 1860s Amazon expedition, the low point before his year of total responsibility. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-3&mlon=-60#map=10/-3/-60) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-3,-60)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-3\&mlon=-60#map=10/-3/-60) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-3,-60)
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5ebvnr1wy6tzppfkm03hn64)
 
 > Pre-1970, the Brazilian Amazon spanned 4.1 million km2; today, that stands at 3.3 million km2.
@@ -50,6 +52,7 @@ Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works
 - **Why it matters:** The Amazon is the central subject of the deforestation chapter's first half and the test case for whether deforestation can be ended quickly.
 
 ## Not the End of the World — Hannah Ritchie (2024)
+
 Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works/OL37518722W) · [Readwise highlight](https://read.readwise.io/read/01m5edgvftn8et2d2wfp9ng299)
 
 > Brazil is home to the Amazon. The Amazon is being cut down.
@@ -58,7 +61,8 @@ Source: [[Not the End of the World]] · [Original](https://openlibrary.org/works
 - **In the book:** Brazilian beef is blamed for a quarter of global deforestation, and the text addresses whether soy grown in Brazil, 97% GM and mostly animal feed, is destroying the Amazon, concluding that tofu and soy milk are not the cause. Brazilian beef is also cited as needing lots of land taken from the rainforest.
 - **Why it matters:** The Amazon is the symbolic site of the deforestation argument, used to separate beef and animal feed from plant-based foods. The argument is framed around this one rainforest.
 
-## The Subtle Art of Not Giving a F*ck — Mark Manson (2016)
+## The Subtle Art of Not Giving a F\*ck — Mark Manson (2016)
+
 Source: [[The Subtle Art of Not Giving a Fck]] · [Original](https://openlibrary.org/works/OL17590212W) · [Readwise highlight](https://read.readwise.io/read/01m5kvb42pgj9grbbetn0e631j)
 
 > Anyway, James made it all the way to the Amazon, where the real adventure was to begin.

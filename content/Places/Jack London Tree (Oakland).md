@@ -2,8 +2,13 @@
 publish: true
 title: Jack London Tree (Oakland)
 created: 2020-01-19
-modified: 2026-11-07T06:54:50.097Z
-published: 2026-11-07T06:54:50.097Z
+modified: 2026-11-07T06:54:50.000Z
+published: 2026-11-07T06:54:50.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jack London Tree (Oakland).svg
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 37.8049
   - -122.2719
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oakland]]"
 image: Attachments/Places/Jack London Tree (Oakland).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Jack London Tree (Oakland).svg
 Street corner in downtown [[Oakland]], California, where the walking tour in How to Do Nothing begins, anchoring Jenny Odell's reflection on a place's lost history.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | Odell joins Liam O'Donoghue's walking tour of downtown Oakland, starting beside the Jack London Tree. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.8049&mlon=-122.2719#map=16/37.8049/-122.2719) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8049,-122.2719)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.8049\&mlon=-122.2719#map=16/37.8049/-122.2719) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.8049,-122.2719)
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5edhwpcmfsbp80kkk0n82mk)
 
 > On the corner of Broadway and Thirteenth, Liam took a moment to read a statement by T. L. Simons, who created the art for the “Long Lost Oakland” map.

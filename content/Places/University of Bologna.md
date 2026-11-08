@@ -1,12 +1,17 @@
 ---
 publish: true
-title: University of Bologna
-created: 2026-10-19
-modified: 2026-11-07T06:55:16.147Z
-published: 2026-11-07T06:55:16.147Z
 aliases:
   - Università di Bologna
   - Alma Mater Studiorum
+title: University of Bologna
+created: 2026-10-19
+modified: 2026-11-07T06:55:16.000Z
+published: 2026-11-07T06:55:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/University of Bologna.svg
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 44.4939
   - 11.3428
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bologna]]"
 image: Attachments/Places/University of Bologna.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/University of Bologna.svg
 The university in [[Bologna]], founded in the eleventh century and among the oldest in the world, where Copernicus enrolled in 1497 and Carlo Rovelli studied in the seventies, as told in Rovelli's essay on Copernicus and Bologna.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | subject | Where Copernicus, and five centuries later Rovelli, found both the knowledge of the past and the nerve to overturn it. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.4939&mlon=11.3428#map=16/44.4939/11.3428) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.4939,11.3428)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.4939\&mlon=11.3428#map=16/44.4939/11.3428) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.4939,11.3428)
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5b44g5jk4caspgetwa30zhq)
 
 > The university was occupied for several months by politically engaged students. I got involved with the friends of Radio Alice, the independent radio station that had become the voice of the student revolt.

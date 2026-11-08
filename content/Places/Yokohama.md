@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Yokohama
-created: 2026-10-23
-modified: 2026-11-07T07:02:21.029Z
-published: 2026-11-07T07:02:21.029Z
 aliases:
   - Benten (Yokohama)
+title: Yokohama
+created: 2026-10-23
+modified: 2026-11-07T07:02:21.000Z
+published: 2026-11-07T07:02:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Yokohama.svg
 books:
   - Around the World in Eighty Days
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 35.4442
   - 139.6381
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Japan]]"
 image: Attachments/Places/Yokohama.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Yokohama.svg
 Port city on Tokyo Bay, Japan. In _Around the World in Eighty Days_ a penniless Passepartout wanders its Japanese quarter, joins Batulcar's acrobats and is found by Fogg.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | setting | Passepartout joins Batulcar's acrobats and is found by Fogg. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.4442&mlon=139.6381#map=16/35.4442/139.6381) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.4442,139.6381)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.4442\&mlon=139.6381#map=16/35.4442/139.6381) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=35.4442,139.6381)
 
 ## Around the World in Eighty Days — Jules Verne (1872)
+
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3pryrm2bhn02t6mzbt9m)
 
 > The Japanese quarter of Yokohama is called Benten, after the goddess of the sea, who is worshipped on the islands round about.

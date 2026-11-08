@@ -2,8 +2,13 @@
 publish: true
 title: The Burren
 created: 2026-06-17
-modified: 2026-11-07T07:03:21.769Z
-published: 2026-11-07T07:03:21.769Z
+modified: 2026-11-07T07:03:22.000Z
+published: 2026-11-07T07:03:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The Burren.svg
 aliases: []
 books:
   - The Country Girls Trilogy
@@ -16,10 +21,6 @@ icon: book
 location:
   - 53.0078
   - -9.0022
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[County Clare]]"
 image: Attachments/Places/The Burren.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/The Burren.svg
 Karst limestone region in north County Clare, known for its spring flowers. In _The Country Girls Trilogy_ it stands for the Irish homeland that Baba's husband Frank Durack keeps wanting to return to.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | subject | The limestone country Durack dreams of going home to, and that Baba dreads, in the Epilogue's quarrel over roots. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.0078&mlon=-9.0022#map=16/53.0078/-9.0022) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0078,-9.0022)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.0078\&mlon=-9.0022#map=16/53.0078/-9.0022) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=53.0078,-9.0022)
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
+
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m76h3jec05r8mwv6pd7r6q)
 
 > Said we’d build a house in the Burren, nightmare place, all limestone with a few gentians in the spring that people rave over.

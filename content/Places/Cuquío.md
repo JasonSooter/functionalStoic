@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Cuquío
-created: 2025-01-16
-modified: 2026-11-07T07:00:51.395Z
-published: 2026-11-07T07:00:51.395Z
 aliases:
   - Cuquio
+title: Cuquío
+created: 2025-01-16
+modified: 2026-11-07T07:00:51.000Z
+published: 2026-11-07T07:00:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cuquío.svg
 books:
   - "The Underdogs: A Novel of the Mexican Revolution"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 20.929
   - -103.0229
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jalisco]]"
 image: Attachments/Places/Cuquío.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Cuquío.svg
 Town in northern Jalisco. In The Underdogs Demetrio receives a message there summoning him to Aguascalientes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Underdogs: A Novel of the Mexican Revolution | Mariano Azuela | turning point | Near Cuquio Blondie's cruelty is recounted and War Paint pulls Camilla from her horse. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=20.929&mlon=-103.0229#map=16/20.929/-103.0229) · [Google Maps](https://www.google.com/maps/search/?api=1&query=20.929,-103.0229)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=20.929\&mlon=-103.0229#map=16/20.929/-103.0229) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=20.929,-103.0229)
 
 ## The Underdogs: A Novel of the Mexican Revolution — Mariano Azuela (1915)
+
 Source: [Original](https://openlibrary.org/works/OL1209983W) · [Readwise highlight](https://read.readwise.io/read/01m5k8z96m8qazw77zafeet1xw)
 
 > In Cuquio Demetrio received a message.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: The Manor House (The Importance of Being Earnest)
-created: 2026-10-23
-modified: 2026-11-07T06:51:16.221Z
-published: 2026-11-07T06:51:16.221Z
 aliases:
   - The Manor House, Woolton
   - Manor House, Woolton
+title: The Manor House (The Importance of Being Earnest)
+created: 2026-10-23
+modified: 2026-11-07T06:51:16.000Z
+published: 2026-11-07T06:51:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The Manor House (The Importance of Being Earnest).svg
 books:
   - "[[The Importance of Being Earnest]]"
 categories:
@@ -14,18 +19,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 51.8167,-0.2167
-geo_note: "best-guess: Village is fictitious; text and Wikipedia give only the county,\
-  \ so pinned at Hertfordshire's representative point; approximate (representative\
-  \ point of Hertfordshire)"
+geo_note: "best-guess: Village is fictitious; text and Wikipedia give only the county, so pinned at Hertfordshire's representative point; approximate (representative point of Hertfordshire)"
 geo_source: Wikipedia (en) Hertfordshire
 icon: book
 location:
   - 51.8167
   - -0.2167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hertfordshire]]"
 image: Attachments/Places/The Manor House (The Importance of Being Earnest).svg
 ---
@@ -35,13 +34,15 @@ image: Attachments/Places/The Manor House (The Importance of Being Earnest).svg
 The Manor House at Woolton is Jack Worthing's invented country house in Hertfordshire, a county just north of London. Acts Two and Three of _The Importance of Being Earnest_ take place in its garden and morning-room.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Importance of Being Earnest]] | Oscar Wilde | setting | Jack's country house: Algernon arrives as Ernest, Cecily and Gwendolen quarrel over tea, and Miss Prism's secret comes out |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.8167&mlon=-0.2167#map=10/51.8167/-0.2167) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.8167,-0.2167)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.8167\&mlon=-0.2167#map=10/51.8167/-0.2167) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.8167,-0.2167)
 
 ## The Importance of Being Earnest — Oscar Wilde (1895)
+
 Source: [[The Importance of Being Earnest]] · [Original](https://openlibrary.org/works/OL27776452W) · [Readwise highlight](https://read.readwise.io/read/01m5m76d5ct2p3nvf4xqxt4qxz)
 
 > The Manor House, Woolton, Hertfordshire.

@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Montgomery Street
-created: 2026-10-23T22:33:32.000Z
-modified: 2026-11-07T06:57:41.757Z
-published: 2026-11-07T06:57:41.757Z
+created: 2026-10-23
+modified: 2026-11-07T06:57:42.000Z
+published: 2026-11-07T06:57:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Montgomery Street (San Francisco).svg
 books:
   - Around the World in Eighty Days
 categories:
@@ -15,10 +20,6 @@ icon: book
 location:
   - 37.7953
   - -122.4031
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Montgomery Street (San Francisco).svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/Montgomery Street (San Francisco).svg
 Street in San Francisco's Financial District. In _Around the World in Eighty Days_ Fogg's party is caught in an election brawl there, starting the feud with Colonel Proctor.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Around the World in Eighty Days | Jules Verne | setting | An election brawl starts the feud with Colonel Proctor. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7953&mlon=-122.4031#map=16/37.7953/-122.4031) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7953,-122.4031)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7953\&mlon=-122.4031#map=16/37.7953/-122.4031) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.7953,-122.4031)
 
 ## Around the World in Eighty Days — Jules Verne (1872)
+
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne3rd0jtpcpsef8edg861m)
 
 > They soon found themselves in Montgomery Street, where a great crowd was collected; the side-walks, street, horsecar rails, the shop-doors, the windows of the houses, and even the roofs, were full of people.

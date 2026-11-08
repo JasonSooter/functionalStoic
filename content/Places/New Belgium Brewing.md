@@ -1,9 +1,14 @@
 ---
 publish: true
 title: New Belgium Brewing
-created: 2026-10-20T19:35:14.000Z
-modified: 2026-11-07T07:01:39.123Z
-published: 2026-11-07T07:01:39.123Z
+created: 2025-08-01
+modified: 2026-11-07T07:01:39.000Z
+published: 2026-11-07T07:01:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/New Belgium Brewing.svg
 aliases: []
 books:
   - MyCycle Donations Open, Bike Prom Recap, Tour de Farms Date Announce, and More!
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 40.5936
   - -105.0651
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fort Collins]]"
 image: Attachments/Places/New Belgium Brewing.svg
 ---
@@ -31,14 +32,16 @@ image: Attachments/Places/New Belgium Brewing.svg
 Brewery in [[Fort Collins|Fort Collins]], Colorado, USA, and the venue where the annual Tour de Fat bike parade ends in a party, as announced in two Bike Fort Collins emails.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[MyCycle Donations Open, Bike Prom Recap, Tour De Farms Date Announce, and More!\|MyCycle Donations Open, Bike Prom Recap, Tour de Farms Date Announce, and More!]] | Bike Fort Collins | setting | The party venue at the end of the Tour de Fat parade. |
 | [[Tour De Fat 2025\|Tour de Fat 2025]] | Bike Fort Collins | setting | Where Tour de Fat 2025 rolls in on 23 August. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5936&mlon=-105.0651#map=10/40.5936/-105.0651) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.5936,-105.0651)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5936\&mlon=-105.0651#map=10/40.5936/-105.0651) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.5936,-105.0651)
 
 ## MyCycle Donations Open, Bike Prom Recap, Tour de Farms Date Announce, and More! — Bike Fort Collins (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcjabwxehahd21m65sctzn)
 
 > Tour de Fat is a costumed bicycle parade followed by a party at New Belgium Brewing with music, entertainment, contests and games.
@@ -48,6 +51,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5dcjabwxehahd21m65
 - **Why it matters:** The venue of the city's biggest bike event; the newsletter says nothing else about the place.
 
 ## Tour de Fat 2025 — Bike Fort Collins (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5dcj8y9dfarmdasmhnse9kg)
 
 > It’s back - Fort Collins’ biggest and most anticipated bike event and party of the year, Tour de Fat, rolls into New Belgium Brewing on Saturday August 23rd

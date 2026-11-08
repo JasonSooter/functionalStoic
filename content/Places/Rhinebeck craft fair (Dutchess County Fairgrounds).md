@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Rhinebeck craft fair (Dutchess County Fairgrounds)
-created: 2026-10-21T20:00:01.000Z
-modified: 2026-11-07T07:00:05.293Z
-published: 2026-11-07T07:00:05.293Z
 aliases:
   - Rhinebeck
+title: Rhinebeck craft fair (Dutchess County Fairgrounds)
+created: 2015-11-28
+modified: 2026-11-07T07:00:05.000Z
+published: 2026-11-07T07:00:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Rhinebeck craft fair (Dutchess County Fairgrounds).svg
 books:
   - The Kinetic Wood Sculptor
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 41.939
   - -73.907
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York]]"
 image: Attachments/Places/Rhinebeck craft fair (Dutchess County Fairgrounds).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Rhinebeck craft fair (Dutchess County Fairgrounds).svg
 Long-running wholesale craft fair at the Dutchess County Fairgrounds in Rhinebeck, New York. In a Priceonomics profile it is where David Roy's career as a sculptor takes off.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Kinetic Wood Sculptor | Priceonomics | turning point | Craft market where Roy's first orders convince him he can live as an artist. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.939&mlon=-73.907#map=16/41.939/-73.907) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.939,-73.907)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.939\&mlon=-73.907#map=16/41.939/-73.907) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.939,-73.907)
 
 ## The Kinetic Wood Sculptor — Priceonomics (2015)
+
 Source: [Original](http://priceonomics.com/the-kinetic-wood-sculptor/) · [Readwise highlight](https://read.readwise.io/read/01m5g0e2ad0hwh7h30xb3tpeee)
 
 > Fairly close by to David and Marji, the wholesale craft market in Rhinebeck, New York was where every craftsman vied to be.

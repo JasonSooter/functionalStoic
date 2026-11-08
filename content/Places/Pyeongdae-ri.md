@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Pyeongdae-ri
-created: 2026-10-23T07:47:55.000Z
-modified: 2026-11-07T06:57:48.707Z
-published: 2026-11-07T06:57:48.707Z
 aliases:
   - Pyeongdae
+title: Pyeongdae-ri
+created: 2025-10-03
+modified: 2026-11-07T06:57:49.000Z
+published: 2026-11-07T06:57:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Pyeongdae-ri.svg
 books:
   - The Island of Sea Women
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 33.5184
   - 126.8348
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jeju Island]]"
 image: Attachments/Places/Pyeongdae-ri.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Pyeongdae-ri.svg
 Coastal village in Gujwa-eup on Jeju's north-east coast. In _The Island of Sea Women_ the haenyeo protest against the Japanese ends at the district office here.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Island of Sea Women | Lisa See | turning point | Thousands of haenyeo march from the Sehwa market to the Japanese district office. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.5184&mlon=126.8348#map=10/33.5184/126.8348) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.5184,126.8348)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.5184\&mlon=126.8348#map=10/33.5184/126.8348) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.5184,126.8348)
 
 ## The Island of Sea Women — Lisa See (2019)
+
 Source: [Original](https://openlibrary.org/works/OL19865296W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcsnhjv7sdenk337z542h)
 
 > By the time we reached Pyeongdae, thousands of women had come together.

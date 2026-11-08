@@ -2,8 +2,13 @@
 publish: true
 title: White House
 created: 2015-11-28
-modified: 2026-11-07T07:00:52.915Z
-published: 2026-11-07T07:00:52.915Z
+modified: 2026-11-07T07:00:53.000Z
+published: 2026-11-07T07:00:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/White House.svg
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 38.8978
   - -77.0364
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington DC]]"
 image: Attachments/Places/White House.svg
 ---
@@ -38,9 +39,10 @@ Residence of the US president in [[Washington DC]], which appears in the reading
 | How Did President Zachary Taylor Actually Die? | Zachary Crockett | setting | Taylor falls ill after supper on July 4, 1850 and dies here five days later. |
 | Abundance | Ezra Klein & Derek Thompson | turning point | Where Vannevar Bush pitched the OSRD to Roosevelt in 1940, and where Reagan later removed Carter's solar panels. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8978&mlon=-77.0364#map=16/38.8978/-77.0364) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8978,-77.0364)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8978\&mlon=-77.0364#map=16/38.8978/-77.0364) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.8978,-77.0364)
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
+
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5ce5jse03861h7j94asy3kv)
 
 > In 1983, I was invited to the White House for the state visit of Prime Minister Ratu Mara of Fiji. Everyone took their seats around an enormous table-President Reagan, Vice President Bush, Caspar Weinberger, the rest of the Cabinet, with the prime minister and his delegation, and myself.
@@ -50,6 +52,7 @@ Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.
 - **Why it matters:** The anecdote shows the agency's survival turning on one personal moment in the room.
 
 ## How Did President Zachary Taylor Actually Die? — Zachary Crockett (2015)
+
 Source: [Original](https://priceonomics.com/how-did-president-zachary-taylor-actually-die/) · [Readwise highlight](https://read.readwise.io/read/01m5g8vwncn4dfwapw470naphp)
 
 > On July 4th, 1850, at around 4 o'clock in the afternoon, Zachary Taylor returned to the White House for supper.
@@ -59,6 +62,7 @@ Source: [Original](https://priceonomics.com/how-did-president-zachary-taylor-act
 - **Why it matters:** It is the scene of the death the whole article investigates.
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m75a7tt43m1vrqq61x99tc)
 
 > In June 1940, as the German army invaded and occupied Paris, the eminent engineer Vannevar Bush delivered grave news to President Franklin D. Roosevelt in an urgent White House meeting: America was technologically unprepared to take on the Axis powers.

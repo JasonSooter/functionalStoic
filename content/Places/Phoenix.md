@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Phoenix
-created: 2026-10-21T16:37:19.000Z
-modified: 2026-11-07T06:54:57.482Z
-published: 2026-11-07T06:54:57.482Z
 aliases:
   - Tempe/Phoenix
+title: Phoenix
+created: 2016-06-27
+modified: 2026-11-07T06:54:57.000Z
+published: 2026-11-07T06:54:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Phoenix.svg
 books:
   - How To Afford a House These Days
   - Is This New Swim Stroke the Fastest Yet?
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 33.4483
   - -112.0739
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Arizona]]"
 image: Attachments/Places/Phoenix.svg
 ---
@@ -37,9 +38,10 @@ City and metropolitan area in central Arizona. It turns up in How To Afford a Ho
 | How To Afford a House These Days | Mr. Money Mustache | subject | Phoenix area compared with Denver as a housing-cost worked example. |
 | Is This New Swim Stroke the Fastest Yet? | Regan Penaluna | turning point | Gillet has Hyman try the sideways dolphin (fish) kick for the first time |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.4483&mlon=-112.0739#map=16/33.4483/-112.0739) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.4483,-112.0739)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.4483\&mlon=-112.0739#map=16/33.4483/-112.0739) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.4483,-112.0739)
 
 ## How To Afford a House These Days — Mr. Money Mustache (2024)
+
 Source: [Original](https://www.mrmoneymustache.com/2024/02/03/how-to-afford-a-house/) · [Readwise highlight](https://read.readwise.io/read/01m5fmpz0nz3qhm0xdy3xa454x)
 
 > Doing the Analysis on Tempe/Phoenix Arizona vs Denver
@@ -49,6 +51,7 @@ Source: [Original](https://www.mrmoneymustache.com/2024/02/03/how-to-afford-a-ho
 - **Why it matters:** It is a concrete test of the comparison method; the comparison would work with any pair of metros.
 
 ## Is This New Swim Stroke the Fastest Yet? — Regan Penaluna (2016)
+
 Source: [Original](http://nautil.us/issue/37/currents/is-this-new-swim-stroke-the-fastest-yet-rp) · [Readwise highlight](https://read.readwise.io/read/01m5jvs6yrw1c3xj4cnvcr86mc)
 
 > One cool December day in Phoenix in 1995, Gillet put it to the test. Hyman showed up for practice at Gillet’s outdoor pool, and he asked her to try it.

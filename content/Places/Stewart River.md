@@ -2,8 +2,13 @@
 publish: true
 title: Stewart River
 created: 2026-10-23
-modified: 2026-11-07T06:58:36.976Z
-published: 2026-11-07T06:58:36.976Z
+modified: 2026-11-07T06:58:37.000Z
+published: 2026-11-07T06:58:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stewart River.svg
 books:
   - The Call of the Wild
 categories:
@@ -16,10 +21,6 @@ icon: book
 location:
   - 63.2917
   - -139.4117
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Yukon]]"
 image: Attachments/Places/Stewart River.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Stewart River.svg
 Large tributary of the Yukon River in central Yukon. In _The Call of the Wild_ Thornton's party follows it east to the lost valley where Buck answers the wolves.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Call of the Wild | Jack London | journey waypoint | The route to the lost valley where Thornton dies and Buck joins the wolves. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=63.2917&mlon=-139.4117#map=10/63.2917/-139.4117) · [Google Maps](https://www.google.com/maps/search/?api=1&query=63.2917,-139.4117)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=63.2917\&mlon=-139.4117#map=10/63.2917/-139.4117) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=63.2917,-139.4117)
 
 ## The Call of the Wild — Jack London (1903)
+
 Source: [Original](https://openlibrary.org/works/OL14942956W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5rsk6ez5q0ggwe0e53ce)
 
 > They sledded seventy miles up the Yukon, swung to the left into the Stewart River, passed the Mayo and the McQuestion, and held on until the Stewart itself became a streamlet, threading the upstanding peaks which marked the backbone of the continent.

@@ -2,8 +2,13 @@
 publish: true
 title: Kew Bridge
 created: 2025-04-19
-modified: 2026-11-07T06:57:57.541Z
-published: 2026-11-07T06:57:57.541Z
+modified: 2026-11-07T06:57:58.000Z
+published: 2026-11-07T06:57:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kew Bridge.svg
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 51.4869
   - -0.2875
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Kew Bridge.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Kew Bridge.svg
 Bridge over the Thames at Kew in west London. In Three Men in a Boat George's very first outing in a boat ends with eight youths drifting broadside through its arch while a crowd watches.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | setting | George's first boating trip: an eight-oar drifts broadside under the bridge three times as a crowd shouts advice. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.4869&mlon=-0.2875#map=16/51.4869/-0.2875) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4869,-0.2875)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.4869\&mlon=-0.2875#map=16/51.4869/-0.2875) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.4869,-0.2875)
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkzdebkvmxy8pket0n7842)
 
 > They passed under Kew Bridge, broadside, at the rate of eight miles an hour, Joskins being the only one who was rowing.

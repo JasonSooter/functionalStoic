@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Dallas
-created: 2016-06-24
-modified: 2026-11-07T07:01:27.952Z
-published: 2026-11-07T07:01:27.952Z
 aliases:
   - Dallas Area Rapid Transit
+title: Dallas
+created: 2016-06-24
+modified: 2026-11-07T07:01:28.000Z
+published: 2026-11-07T07:01:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Dallas.svg
 books:
   - "[[Walkable City]]"
   - How An 8-Year-Old Changed My Entire Approach To Design
@@ -19,10 +24,6 @@ icon: book
 location:
   - 32.7792
   - -96.8089
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Texas]]"
 image: Attachments/Places/Dallas.svg
 ---
@@ -39,21 +40,24 @@ Dallas is a city in Texas. It turns up in Walkable City (Jeff Speck): Dallas is 
 | How An 8-Year-Old Changed My Entire Approach To Design | Garrett Jacobs | turning point | Where the ReThink students present their design and Ron's participation theory is confirmed |
 | Why Community Matters to me – Learn coding concepts | Josh Owens | turning point | Checking into a Dallas hotel, the author stumbles onto QuakeCon and is flooded with memories of his own LAN party |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.7792&mlon=-96.8089#map=11/32.7792/-96.8089) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.7792,-96.8089)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.7792\&mlon=-96.8089#map=11/32.7792/-96.8089) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=32.7792,-96.8089)
 
 ## Sub-places
+
 - [[The lake north of Dallas (The Subtle Art)]]
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbkr3ksaxqsjk498ddzga7)
 
 > Dallas presents an instructive example. In 1983, residents of fifteen Dallas-area cities voted to levy a 1 percent sales tax to create what has become the largest light-rail system in the United States.
 
 - **Role:** subject
-- **In the book:** Speck argues that Dallas's DART light rail failed to reduce driving because the city lacks neighborhood structure, parking is cheap, and stations sit by highways. Ridership dropped while the share driving to work rose, though $4 billion of development grew near stations.
+- **In the book:** Speck argues that Dallas's DART light rail failed to reduce driving because the city lacks neighborhood structure, parking is cheap, and stations sit by highways. Ridership dropped while the share driving to work rose, though \$4 billion of development grew near stations.
 - **Why it matters:** Dallas is the chapter's cautionary case that transit investment without walkable neighborhoods is an investment in real estate, not reduced traffic.
 
 ## How An 8-Year-Old Changed My Entire Approach To Design — Garrett Jacobs (2016)
+
 Source: [Original](https://www.good.is/articles/a-lesson-in-participation) · [Readwise highlight](https://read.readwise.io/read/01m5jjrghs3gtxvfba72hz261b)
 
 > On presentation day in a new Dallas high school, Ron was asked about his favorite part of the design. His answer was that “we all built it together.”
@@ -63,6 +67,7 @@ Source: [Original](https://www.good.is/articles/a-lesson-in-participation) · [R
 - **Why it matters:** Dallas is where the narrator's lesson about collaborative design is confirmed; the text gives no specific character of the city, so it is a modest, journey-end setting.
 
 ## Why Community Matters to me – Learn coding concepts — Josh Owens (2016)
+
 Source: [Original](https://thoughts.spacedojo.com/why-community-matters-to-me-167f0f6c9c02) · [Readwise highlight](https://read.readwise.io/read/01m5jy7dpw8e4a9c6x2ejfafjk)
 
 > When checking into my hotel, during a recent trip to my Dallas client, I discovered a LANParty called QuakeCon was happening at the same time (cue nostalgic music).

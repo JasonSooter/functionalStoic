@@ -2,8 +2,13 @@
 publish: true
 title: The cols (Passes Part Deux post)
 created: 2025-08-27
-modified: 2026-11-07T06:52:02.324Z
-published: 2026-11-07T06:52:02.324Z
+modified: 2026-11-07T06:52:02.000Z
+published: 2026-11-07T06:52:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The cols (Passes Part Deux post).svg
 aliases: []
 books:
   - Passes Part Deux
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 44.1056,3.8869
-geo_note: "inferred: Names resolve to one Cévennes cluster; the day's exact route\
-  \ is unknown so the pin is approximate."
+geo_note: "inferred: Names resolve to one Cévennes cluster; the day's exact route is unknown so the pin is approximate."
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 44.1056
   - 3.8869
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cévennes]]"
 image: Attachments/Places/The cols (Passes Part Deux post).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/The cols (Passes Part Deux post).svg
 The cols are nine small mountain passes in the Gard part of the [[Cévennes]], pinned inferred around Saint-Jean-du-Gard and Le Vigan. They appear in a Mostly Bikes x Me post listing the passes ridden in one day of an August 2025 trip.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Passes Part Deux | Mostly Bikes x Me | journey waypoint | A one-day list of nine small passes ridden in August 2025, about half of them detours to 'pick them off'. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1056&mlon=3.8869#map=10/44.1056/3.8869) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1056,3.8869)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1056\&mlon=3.8869#map=10/44.1056/3.8869) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.1056,3.8869)
 
 ## Passes Part Deux — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15596766320.html) · [Readwise highlight](https://read.readwise.io/read/01m5e339v5p5ndkyred4xqwcv8)
 
 > Col de l'Espeutiéra, Col de l'Oursine, Col du Lièvre, Col du Puech, Col du Rédarès, Col de Palliès, Col de la Tourte, Col de l'Aubret, Col de Reynard

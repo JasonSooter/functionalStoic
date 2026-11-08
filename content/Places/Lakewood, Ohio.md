@@ -2,8 +2,13 @@
 publish: true
 title: Lakewood, Ohio
 created: 2025-03-24
-modified: 2026-11-07T07:02:07.426Z
-published: 2026-11-07T07:02:07.426Z
+modified: 2026-11-07T07:02:07.000Z
+published: 2026-11-07T07:02:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lakewood, Ohio.svg
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 41.4819
   - -81.7983
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ohio]]"
 image: Attachments/Places/Lakewood, Ohio.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Lakewood, Ohio.svg
 Suburb on Lake Erie just west of Cleveland. In Tom Hanks's 'These Are the Meditations of My Heart' a woman finds her typewriter at a repair shop on Detroit Avenue.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Uncommon Type]] | Tom Hanks | setting | In 'These Are the Meditations of My Heart' a woman newly single after 'the Knothead' lives in a small apartment west of the Cuyahoga River. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.4819&mlon=-81.7983#map=16/41.4819/-81.7983) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.4819,-81.7983)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.4819\&mlon=-81.7983#map=16/41.4819/-81.7983) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.4819,-81.7983)
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5w1ys8vxhd2zn5ezkfwgn)
 
 > Three listings gave her the choices of a shop two hours away near Ashtabula, a place downtown that did not answer its phone, or, crazily enough, Detroit Avenue Business Machines, which was just a few minutes’ walk away.

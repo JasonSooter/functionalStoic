@@ -2,8 +2,13 @@
 publish: true
 title: Jebel Irhoud
 created: 2017-06-19
-modified: 2026-11-07T06:55:12.011Z
-published: 2026-11-07T06:55:12.011Z
+modified: 2026-11-07T06:55:12.000Z
+published: 2026-11-07T06:55:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jebel Irhoud.svg
 aliases: []
 books:
   - A new fossil discovery in Morocco will rewrite the history of human evolution
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 31.855
   - -8.8725
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Morocco]]"
 image: Attachments/Places/Jebel Irhoud.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Jebel Irhoud.svg
 Archaeological site in western Morocco. Quartz reports that Homo sapiens fossils from it, dated to about 300,000 years ago, rewrite the story of human origins.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A new fossil discovery in Morocco will rewrite the history of human evolution | Ephrat Livni | subject | Fossils from at least five individuals at Jebel Irhoud were re-dated to about 300,000 years ago, pushing Homo sapiens origins back… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.855&mlon=-8.8725#map=16/31.855/-8.8725) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.855,-8.8725)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.855\&mlon=-8.8725#map=16/31.855/-8.8725) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.855,-8.8725)
 
 ## A new fossil discovery in Morocco will rewrite the history of human evolution — Ephrat Livni (2017)
+
 Source: [Original](https://qz.com/1000324/fossils-of-homo-sapiens-found-in-morocco-push-back-the-origins-of-our-species-100000-years/) · [Readwise highlight](https://read.readwise.io/read/01m5k7dbqgh75wq2fegr430jgq)
 
 > But fossils at Jebel Irhoud, a site in Morocco, show paleoanthropologists were mistaken about the date, location, and dispersal of our ancestors.

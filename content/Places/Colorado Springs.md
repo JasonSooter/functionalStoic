@@ -2,8 +2,13 @@
 publish: true
 title: Colorado Springs
 created: 2015-11-28
-modified: 2026-11-07T06:57:48.219Z
-published: 2026-11-07T06:57:48.219Z
+modified: 2026-11-07T06:57:48.000Z
+published: 2026-11-07T06:57:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Colorado Springs.svg
 aliases: []
 books:
   - The Tiny House ‘Sturgis’ Coming to Colorado this Weekend
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 38.8578
   - -104.6058
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Colorado Springs.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Colorado Springs.svg
 City in [[Colorado]] at the foot of Pikes Peak. A LifeEdited post previews the 2015 Tiny House Jamboree held there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Tiny House ‘Sturgis’ Coming to Colorado this Weekend | David Friedlander | subject | Host of the 2015 Tiny House Jamboree, billed as the biggest tiny-house gathering. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8578&mlon=-104.6058#map=11/38.8578/-104.6058) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8578,-104.6058)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8578\&mlon=-104.6058#map=11/38.8578/-104.6058) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.8578,-104.6058)
 
 ## The Tiny House ‘Sturgis’ Coming to Colorado this Weekend — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/the-tiny-house-sturgis-coming-to-colorado-this-weekend/) · [Readwise highlight](https://read.readwise.io/read/01m5ganrw3xg1wvxbcg1tpd3vh)
 
 > The Tiny House Jamboree this weekend (August 7-9, 2015), in Colorado Springs might just help create that groundswell.

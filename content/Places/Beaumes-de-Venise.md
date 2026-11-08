@@ -2,8 +2,13 @@
 publish: true
 title: Beaumes-de-Venise
 created: 2025-07-26
-modified: 2026-11-07T06:58:05.448Z
-published: 2026-11-07T06:58:05.448Z
+modified: 2026-11-07T06:58:05.000Z
+published: 2026-11-07T06:58:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Beaumes-de-Venise.svg
 aliases: []
 books:
   - Breakfast ramble.
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 44.1236
   - 5.0311
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Beaumes-de-Venise.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Beaumes-de-Venise.svg
 Wine village below the Dentelles de Montmirail, Vaucluse, [[Provence]], mentioned in a Mostly Bikes x Me post as the coffee-and-pastry stop on a short gravel ride.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Breakfast ramble. | Mostly Bikes x Me | setting | Waiting for the fibre installer, the author rides there for coffee and a pastry, then finds the roads above best suited to a donkey. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1236&mlon=5.0311#map=16/44.1236/5.0311) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1236,5.0311)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1236\&mlon=5.0311#map=16/44.1236/5.0311) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.1236,5.0311)
 
 ## Breakfast ramble. — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15217890506.html) · [Readwise highlight](https://read.readwise.io/read/01m5dqtqkamv401hh6s3sqqmhg)
 
 > I popped over to Beaumes-de-Venise for bad coffee and a better Pain Suisse, and then explored a few of the roads above the village.

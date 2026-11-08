@@ -2,8 +2,13 @@
 publish: true
 title: Veluwemeer Aqueduct
 created: 2025-02-16
-modified: 2026-11-07T06:56:37.787Z
-published: 2026-11-07T06:56:37.787Z
+modified: 2026-11-07T06:56:38.000Z
+published: 2026-11-07T06:56:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Veluwemeer Aqueduct.svg
 aliases: []
 books:
   - Why are the Dutch So Famous for Waterworks?
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 52.361
   - 5.6185
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Netherlands]]"
 image: Attachments/Places/Veluwemeer Aqueduct.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Veluwemeer Aqueduct.svg
 Aqueduct and road tunnel in Harderwijk, Flevoland, [[Netherlands]], which opens Practical Engineering's video on why the Dutch are famous for waterworks.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why are the Dutch So Famous for Waterworks? | Practical Engineering | setting | The video opens on this aqueduct, where cars run below a navigable waterway so that boat and road traffic both flow uninterrupted. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.361&mlon=5.6185#map=16/52.361/5.6185) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.361,5.6185)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.361\&mlon=5.6185#map=16/52.361/5.6185) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.361,5.6185)
 
 ## Why are the Dutch So Famous for Waterworks? — Practical Engineering (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/1/21/why-are-the-dutch-so-famous-for-waterworks) · [Readwise highlight](https://read.readwise.io/read/01m5edewckcdqcde94peyej50a)
 
 > This is the Veluwemeer (velOOwemeer) Aqueduct in Harderwijk (HAR-der-vehk), Netherlands.

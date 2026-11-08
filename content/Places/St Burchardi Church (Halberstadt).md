@@ -2,8 +2,13 @@
 publish: true
 title: St Burchardi Church (Halberstadt)
 created: 2024-12-21
-modified: 2026-11-07T06:57:32.676Z
-published: 2026-11-07T06:57:32.676Z
+modified: 2026-11-07T06:57:33.000Z
+published: 2026-11-07T06:57:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/St Burchardi Church (Halberstadt).svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 51.9014
   - 11.0422
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Germany]]"
 image: Attachments/Places/St Burchardi Church (Halberstadt).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/St Burchardi Church (Halberstadt).svg
 Church in Halberstadt, Germany, home of the slowest organ performance in the world. A backdrop in Colum McCann's _Apeirogon_: Church housing the 639-year organ performance of Cage's As Slow as Possible, an image of endless duration.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | backdrop | Church housing the 639-year organ performance of Cage's As Slow as Possible, an image of endless duration. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.9014&mlon=11.0422#map=16/51.9014/11.0422) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9014,11.0422)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.9014\&mlon=11.0422#map=16/51.9014/11.0422) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.9014,11.0422)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjqqbc1x9x57bhzc83mzw5)
 
 > Seven centuries later, a John Cage piece was due to be performed at the cathedral.

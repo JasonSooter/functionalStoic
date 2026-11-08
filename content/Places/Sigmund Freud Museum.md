@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Sigmund Freud Museum
-created: 2026-08-26
-modified: 2026-11-07T06:55:23.676Z
-published: 2026-11-07T06:55:23.676Z
 aliases:
   - Berggasse 19
   - Freud Museum Vienna
+title: Sigmund Freud Museum
+created: 2026-08-26
+modified: 2026-11-07T06:55:24.000Z
+published: 2026-11-07T06:55:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sigmund Freud Museum.svg
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 48.2186
   - 16.3631
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vienna]]"
 image: Attachments/Places/Sigmund Freud Museum.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Sigmund Freud Museum.svg
 Freud's former apartment and consulting rooms at Berggasse 19, Vienna, Austria, whose near-empty rooms lead Bill Bryson into his closing argument about Austrian anti-Semitism in Neither Here Nor There. See [[Vienna|Vienna]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | turning point | A near-empty flat that leads Bryson into the chapter's closing argument about Austrian anti-Semitism. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2186&mlon=16.3631#map=16/48.2186/16.3631) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.2186,16.3631)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2186\&mlon=16.3631#map=16/48.2186/16.3631) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.2186,16.3631)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bekbv9dr7pbycnaw5sj1z2)
 
 > Late one afternoon I went to the Sigmund Freud museum, in his old apartment on Berggasse, a mile or so to the north of the downtown.

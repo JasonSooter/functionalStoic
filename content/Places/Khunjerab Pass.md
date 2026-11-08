@@ -2,8 +2,13 @@
 publish: true
 title: Khunjerab Pass
 created: 2026-03-08
-modified: 2026-11-07T06:58:00.078Z
-published: 2026-11-07T06:58:00.078Z
+modified: 2026-11-07T06:58:00.000Z
+published: 2026-11-07T06:58:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Khunjerab Pass.svg
 aliases: []
 books:
   - "[[It's All About the Bike]]"
@@ -15,10 +20,6 @@ icon: book
 location:
   - 36.85
   - 75.4283
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pakistan]]"
 image: Attachments/Places/Khunjerab Pass.svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/Khunjerab Pass.svg
 High pass on the Karakoram Highway between Pakistan and China. See [[Pakistan]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[It's All About the Bike]] | Robert Penn | turning point | The highest point of Penn's three-year round-the-world ride. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.85&mlon=75.4283#map=16/36.85/75.4283) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.85,75.4283)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.85\&mlon=75.4283#map=16/36.85/75.4283) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=36.85,75.4283)
 
 ## It's All About the Bike — Robert Penn (2010)
+
 Source: [[It's All About the Bike]] · [Readwise highlight](https://read.readwise.io/read/01m5c3nndrk1m3wmm30ekn2f1v)
 
 > At midday, I reached the Pass — a short, flat section of tarmac edged by snow. I was exalted. It was a pivotal moment: the highest point of my three-year round-the-world ride.

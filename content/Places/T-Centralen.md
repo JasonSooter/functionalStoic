@@ -1,11 +1,16 @@
 ---
 publish: true
-title: T-Centralen
-created: 2026-03-18
-modified: 2026-11-07T07:01:32.715Z
-published: 2026-11-07T07:01:32.715Z
 aliases:
   - T-Centralen metro station
+title: T-Centralen
+created: 2026-03-18
+modified: 2026-11-07T07:01:33.000Z
+published: 2026-11-07T07:01:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/T-Centralen.svg
 books:
   - Every Metro System Should be this Beautiful
 categories:
@@ -16,10 +21,6 @@ icon: video
 location:
   - 59.3317
   - 18.0608
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Stockholm]]"
 image: Attachments/Places/T-Centralen.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/T-Centralen.svg
 Central interchange of the Stockholm metro, next to Stockholm Central Station. See [[Stockholm]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Every Metro System Should be this Beautiful | Not Just Bikes | subject | A disappointing first platform, then the famous blue-and-white blue-line hall. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.3317&mlon=18.0608#map=16/59.3317/18.0608) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3317,18.0608)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.3317\&mlon=18.0608#map=16/59.3317/18.0608) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=59.3317,18.0608)
 
 ## Every Metro System Should be this Beautiful — Not Just Bikes (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5c3pfmkvag44805b4vtr6xn)
 
 > got to T-Centralen station,

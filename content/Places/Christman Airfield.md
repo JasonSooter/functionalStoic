@@ -2,8 +2,13 @@
 publish: true
 title: Christman Airfield
 created: 2024-11-03
-modified: 2026-11-07T06:55:57.975Z
-published: 2026-11-07T06:55:57.975Z
+modified: 2026-11-07T06:55:58.000Z
+published: 2026-11-07T06:55:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Christman Airfield.svg
 aliases: []
 books:
   - Front Range Rail Funding & Special Guests In Our District!
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 40.5959
   - -105.1418
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Fort Collins]]"
 image: Attachments/Places/Christman Airfield.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Christman Airfield.svg
 Colorado State University's airfield on the west side of Fort Collins, Colorado, home of its Drone Center. Neguse's newsletter reports a visit and funding for its renovation.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Front Range Rail Funding & Special Guests In Our District! | Congressman Joe Neguse | subject | Neguse visits CSU's Drone Center; funding secured to renovate the airfield. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5959&mlon=-105.1418#map=16/40.5959/-105.1418) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.5959,-105.1418)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5959\&mlon=-105.1418#map=16/40.5959/-105.1418) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.5959,-105.1418)
 
 ## Front Range Rail Funding & Special Guests In Our District! — Congressman Joe Neguse (2024)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5f0p6y03tq99krksqkwattj)
 
 > On Tuesday, we visited Colorado State University's Drone Center, an initiative for which we helped secure Community Project Funding to support the renovation of Christman Airfield—a vital hub for wildfire response and aviation research.

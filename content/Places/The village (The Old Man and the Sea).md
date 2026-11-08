@@ -2,8 +2,13 @@
 publish: true
 title: The village (The Old Man and the Sea)
 created: 2025-10-25
-modified: 2026-11-07T06:52:36.923Z
-published: 2026-11-07T06:52:36.923Z
+modified: 2026-11-07T06:52:37.000Z
+published: 2026-11-07T06:52:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The village (The Old Man and the Sea).svg
 aliases: []
 books:
   - "[[The Old Man and the Sea]]"
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 23.167,-82.2954
-geo_note: "best-guess: unnamed village near Havana; Cojímar, where Hemingway kept\
-  \ his boat, is the usual identification"
+geo_note: "best-guess: unnamed village near Havana; Cojímar, where Hemingway kept his boat, is the usual identification"
 geo_source: OSM way 38608514
 icon: book
 location:
   - 23.167
   - -82.2954
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cojímar]]"
 image: Attachments/Places/The village (The Old Man and the Sea).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/The village (The Old Man and the Sea).svg
 Unnamed fishing village on the north coast of Cuba near Havana where Santiago lives. The pin is a best guess at Cojímar, the village east of Havana where Hemingway kept his boat.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Old Man and the Sea]] | Ernest Hemingway | setting | The harbour, shark factory and road up to Santiago's shack: where the voyage starts and ends. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=23.167&mlon=-82.2954#map=16/23.167/-82.2954) · [Google Maps](https://www.google.com/maps/search/?api=1&query=23.167,-82.2954)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=23.167\&mlon=-82.2954#map=16/23.167/-82.2954) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=23.167,-82.2954)
 
 ## The Old Man and the Sea — Ernest Hemingway (1952)
+
 Source: [[The Old Man and the Sea]] · [Original](https://openlibrary.org/books/OL7265161M) · [Readwise highlight](https://read.readwise.io/read/01m5gkzke8v71emq8hc21ekv4a)
 
 > When the wind was in the east a smell came across the harbour from the shark factory;

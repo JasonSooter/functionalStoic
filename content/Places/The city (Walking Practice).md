@@ -1,11 +1,16 @@
 ---
 publish: true
-title: The city (Walking Practice)
-created: 2026-11-08
-modified: 2026-11-08T08:13:36.807Z
-published: 2026-11-08T08:13:36.807Z
 aliases:
   - The city
+title: The city (Walking Practice)
+created: 2026-11-08
+modified: 2026-11-08T08:13:37.000Z
+published: 2026-11-08T08:13:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The city (Walking Practice).svg
 books:
   - Walking Practice
 categories:
@@ -13,17 +18,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 37.56,126.99
-geo_note: "best-guess: unnamed South Korean city; Seoul chosen from outside evidence\
-  \ only (author and publisher based in Seoul, won, dense subway network)"
+geo_note: "best-guess: unnamed South Korean city; Seoul chosen from outside evidence only (author and publisher based in Seoul, won, dense subway network)"
 geo_source: Wikipedia (en) Seoul
 icon: book
 location:
   - 37.56
   - 126.99
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Seoul]]"
 image: Attachments/Places/The city (Walking Practice).svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/The city (Walking Practice).svg
 The unnamed South Korean city of subways, motels and apartment blocks where the alien narrator of _Walking Practice_ hunts for human prey, pinned at [[Seoul]] as a best guess.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Walking Practice | Dolki Min | setting | An alien in human disguise rides the subway, climbs endless stairs and meets hookup dates across an unnamed city ringed by forest. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.56&mlon=126.99#map=11/37.56/126.99) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.56,126.99)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.56\&mlon=126.99#map=11/37.56/126.99) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.56,126.99)
 
 ## Walking Practice — Dolki Min (2022)
+
 Source: [Original](https://openlibrary.org/works/OL28021938W) · [Readwise highlight](https://read.readwise.io/read/01m6x3ezaxxgjqta4bz7f29jhp)
 
 > The stairs that I must tackle in order to transfer trains stare back at me murderously. There is no elevator or escalator to rescue me.

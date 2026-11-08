@@ -2,12 +2,16 @@
 publish: true
 title: Brooklyn Navy Yard
 created: 2015-12-20
-modified: 2026-11-07T07:02:50.863Z
-published: 2026-11-07T07:02:50.863Z
+modified: 2026-11-07T07:02:51.000Z
+published: 2026-11-07T07:02:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Brooklyn Navy Yard.svg
 aliases: []
 books:
-  - How the Mast Brothers fooled the world into paying $10 a bar for crappy hipster
-    chocolate
+  - How the Mast Brothers fooled the world into paying $10 a bar for crappy hipster chocolate
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 40.7019
   - -73.9689
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
 image: Attachments/Places/Brooklyn Navy Yard.svg
 ---
@@ -30,13 +30,15 @@ image: Attachments/Places/Brooklyn Navy Yard.svg
 Former naval shipyard in Brooklyn, New York, now an industrial park; Quartz says most Mast Brothers chocolate is made in its closed factory there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| How the Mast Brothers fooled the world into paying $10 a bar for crappy hipster chocolate | Deena Shanker | subject | Quartz says most Mast Brothers chocolate is made in its closed factory there. |
+| How the Mast Brothers fooled the world into paying \$10 a bar for crappy hipster chocolate | Deena Shanker | subject | Quartz says most Mast Brothers chocolate is made in its closed factory there. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7019&mlon=-73.9689#map=16/40.7019/-73.9689) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7019,-73.9689)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7019\&mlon=-73.9689#map=16/40.7019/-73.9689) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.7019,-73.9689)
 
-## How the Mast Brothers fooled the world into paying $10 a bar for crappy hipster chocolate — Deena Shanker (2015)
+## How the Mast Brothers fooled the world into paying \$10 a bar for crappy hipster chocolate — Deena Shanker (2015)
+
 Source: [Original](https://qz.com/571151/the-mast-brothers-fooled-the-world-into-buying-crappy-hipster-chocolate-for-10-a-bar) · [Readwise highlight](https://read.readwise.io/read/01m5hx1zz3rzfxrd03ygz2cp3y)
 
 > The Brooklyn Navy Yard factory, where the tour guide said about two-thirds of the company’s production is done, is closed to the public.

@@ -2,8 +2,13 @@
 publish: true
 title: Colorado River Aqueduct
 created: 2025-03-23
-modified: 2026-11-07T06:57:45.788Z
-published: 2026-11-07T06:57:45.788Z
+modified: 2026-11-07T06:57:46.000Z
+published: 2026-11-07T06:57:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Colorado River Aqueduct.svg
 aliases: []
 books:
   - As the Colorado River Shrinks, Southern California Is Embracing Water Recycling
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 34.2899,-114.1721
-geo_note: approximate (Lake Havasu intake end of aqueduct; other article point Lake
-  Mathews terminus 33.8372,-117.3781)
+geo_note: approximate (Lake Havasu intake end of aqueduct; other article point Lake Mathews terminus 33.8372,-117.3781)
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 34.2899
   - -114.1721
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Colorado River Aqueduct.svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Colorado River Aqueduct.svg
 Aqueduct in Southern [[California]] that carries Colorado River water to millions of people, and the supply an article says water recycling is meant to take pressure off.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | As the Colorado River Shrinks, Southern California Is Embracing Water Recycling | Daniel Rothberg | subject | The aqueduct carries shrinking Colorado River water to millions of Southern California residents. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.2899&mlon=-114.1721#map=10/34.2899/-114.1721) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.2899,-114.1721)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.2899\&mlon=-114.1721#map=10/34.2899/-114.1721) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.2899,-114.1721)
 
 ## As the Colorado River Shrinks, Southern California Is Embracing Water Recycling — Daniel Rothberg (2025)
+
 Source: [Original](https://reasonstobecheerful.world/water-recycling-southern-california/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqrc7k6f6x0vz6e978f83)
 
 > “We really kind of refer to this as our third aqueduct,” says John Bednarski, an interim assistant general manager at the Metropolitan Water District of Southern California — a powerful agency, as the largest wholesale provider of water in the nation and owner of the Colorado River Aqueduct.

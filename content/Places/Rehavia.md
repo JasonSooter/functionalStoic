@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Rehavia
-created: 2026-10-22T19:56:25.000Z
-modified: 2026-11-07T06:59:40.828Z
-published: 2026-11-07T06:59:40.828Z
+created: 2024-12-21
+modified: 2026-11-07T06:59:41.000Z
+published: 2026-11-07T06:59:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Rehavia.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 31.7745
   - 35.212
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jerusalem]]"
 image: Attachments/Places/Rehavia.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Rehavia.svg
 Neighbourhood in central Jerusalem. A setting in Colum McCann's _Apeirogon_: The Rehavia house where Rami's family lived a sheltered life before Smadar was killed in 1997.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | The Rehavia house where Rami's family lived a sheltered life before Smadar was killed in 1997. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7745&mlon=35.212#map=16/31.7745/35.212) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.7745,35.212)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.7745\&mlon=35.212#map=16/31.7745/35.212) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.7745,35.212)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjq3ts7c6ehzenkv0f6zme)
 
 > we lived what seemed to be a perfect, sheltered life in Jerusalem in our secure house in the Rehavia neighborhood at the time.

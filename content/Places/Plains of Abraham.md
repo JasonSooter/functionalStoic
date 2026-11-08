@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Plains of Abraham
-created: 2026-10-23T07:48:15.000Z
-modified: 2026-11-07T06:55:26.472Z
-published: 2026-11-07T06:55:26.472Z
+created: 2025-11-29
+modified: 2026-11-07T06:55:26.000Z
+published: 2026-11-07T06:55:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Plains of Abraham.svg
 aliases: []
 books:
   - "[[North Woods]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 46.7997
   - -71.2208
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Quebec]]"
 image: Attachments/Places/Plains of Abraham.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Plains of Abraham.svg
 Historic plateau in Quebec City, site of the 1759 battle. In _North Woods_ it is where Major Osgood's wound sets off his passion for apples.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[North Woods]] | Daniel Mason | turning point | A French soldier slicing an apple bayonets Osgood, who wakes dreaming of a tree that feeds souls. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.7997&mlon=-71.2208#map=16/46.7997/-71.2208) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7997,-71.2208)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.7997\&mlon=-71.2208#map=16/46.7997/-71.2208) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=46.7997,-71.2208)
 
 ## North Woods — Daniel Mason (2023)
+
 Source: [[North Woods]] · [Original](https://openlibrary.org/works/OL34028309W) · [Readwise highlight](https://read.readwise.io/read/01m5kvc9wxvt562p4c80yd3qf6)
 
 > Or was it simply this: that the French soldier I surprised behind his bulwark on that fatal day upon the Plains of Abraham was slicing a sweet pippin with his bayonet when he rose and thrust it up into my chest?

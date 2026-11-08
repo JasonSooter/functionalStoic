@@ -1,14 +1,18 @@
 ---
 publish: true
-title: Homestake (Eagle County)
-created: 2025-09-14
-modified: 2026-11-07T06:51:45.507Z
-published: 2026-11-07T06:51:45.507Z
 aliases:
   - Homestake Road
+title: Homestake (Eagle County)
+created: 2025-09-14
+modified: 2026-11-07T06:51:46.000Z
+published: 2026-11-07T06:51:46.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Homestake (Eagle County).svg
 books:
-  - Is nature calling while you’re in nature? More and more, Colorado officials are
-    asking you to pack your own poop out
+  - Is nature calling while you’re in nature? More and more, Colorado officials are asking you to pack your own poop out
 categories:
   - "[[Places]]"
 color: purple
@@ -19,10 +23,6 @@ icon: newspaper
 location:
   - 39.5075
   - -106.3786
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Homestake (Eagle County).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/Homestake (Eagle County).svg
 Popular dispersed-camping area along Homestake Road in Eagle County, [[Colorado]], USA. It is the main reporting site in Stina Sieg's article on pack-it-out waste rules.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Is Nature Calling While You’re in Nature More and More, Colorado Officials Are Asking You to Pack Your Own Poop Out\|Is nature calling while you’re in nature? More and more, Colorado officials are asking you to pack your own poop out]] | Stina Sieg | setting | The forest spot where campers must now pack out their waste. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.5075&mlon=-106.3786#map=10/39.5075/-106.3786) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.5075,-106.3786)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.5075\&mlon=-106.3786#map=10/39.5075/-106.3786) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.5075,-106.3786)
 
 ## Is nature calling while you’re in nature? More and more, Colorado officials are asking you to pack your own poop out — Stina Sieg (2022)
+
 Source: [Original](https://www.cpr.org/2022/08/23/is-nature-calling-while-youre-in-nature-more-and-more-colorado-officials-are-asking-you-to-pack-your-own-poop-out/) · [Readwise highlight](https://read.readwise.io/read/01m5dcj5gaweq6zahzfcvvk5ty)
 
 > In one particularly popular spot in the forest, known as Homestake, users are now required to take their human waste out with them.

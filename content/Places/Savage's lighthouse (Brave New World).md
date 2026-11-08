@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Savage's lighthouse (Brave New World)
-created: 2026-04-02
-modified: 2026-11-07T06:53:15.574Z
-published: 2026-11-07T06:53:15.574Z
 aliases:
   - Puttenham lighthouse
+title: Savage's lighthouse (Brave New World)
+created: 2026-04-02
+modified: 2026-11-07T06:53:16.000Z
+published: 2026-11-07T06:53:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Savage's lighthouse (Brave New World).svg
 books:
   - "[[Brave New World]]"
 categories:
@@ -13,17 +18,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 51.222,-0.664
-geo_note: "inferred: fictional lighthouse between Puttenham and Elstead; pinned at\
-  \ Puttenham"
+geo_note: "inferred: fictional lighthouse between Puttenham and Elstead; pinned at Puttenham"
 geo_source: Wikipedia (en) Puttenham, Surrey
 icon: book
 location:
   - 51.222
   - -0.664
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Surrey]]"
 image: Attachments/Places/Savage's lighthouse (Brave New World).svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/Savage's lighthouse (Brave New World).svg
 The disused air-lighthouse on the hill between Puttenham and Elstead in Surrey where John the Savage ends _Brave New World_, pinned at Puttenham.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Brave New World]] | Aldous Huxley | setting | The Savage's hermitage: penance, sightseers by helicopter, and the final scene. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.222&mlon=-0.664#map=16/51.222/-0.664) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.222,-0.664)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.222\&mlon=-0.664#map=16/51.222/-0.664) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.222,-0.664)
 
 ## Brave New World — Aldous Huxley (1932)
+
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvat4end5fpjkxbygkeq68)
 
 > The Savage had chosen as his hermitage the old lighthouse which stood on the crest of the hill between Puttenham and Elstead.

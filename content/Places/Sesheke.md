@@ -2,8 +2,13 @@
 publish: true
 title: Sesheke
 created: 2024-10-04
-modified: 2026-11-07T06:54:27.371Z
-published: 2026-11-07T06:54:27.371Z
+modified: 2026-11-07T06:54:27.000Z
+published: 2026-11-07T06:54:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sesheke.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - -17.4667
   - 24.3
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Zambia]]"
 image: Attachments/Places/Sesheke.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Sesheke.svg
 Town on the upper Zambezi in south-western Zambia; in _Life on Air_ the place where Livingstone first reached the river.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The place where Livingstone first reached the river. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-17.4667&mlon=24.3#map=16/-17.4667/24.3) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-17.4667,24.3)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-17.4667\&mlon=24.3#map=16/-17.4667/24.3) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-17.4667,24.3)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx2vh60vjs7ncj8wzv2znz)
 
 > He first set eyes on it when he came up from southern Africa and arrived at the village of Sesheke which stood on its banks. There, under a huge baobab, he set up a magic lantern that he had brought with him and showed an astonished crowd, many of whom had never seen a white face before, slides of Biblical subjects.

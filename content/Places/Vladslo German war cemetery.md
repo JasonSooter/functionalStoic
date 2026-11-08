@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Vladslo German war cemetery
-created: 2026-01-04
-modified: 2026-11-07T06:57:48.867Z
-published: 2026-11-07T06:57:48.867Z
 aliases:
   - Vladslo
   - Deutscher Soldatenfriedhof Vladslo
+title: Vladslo German war cemetery
+created: 2026-01-04
+modified: 2026-11-07T06:57:49.000Z
+published: 2026-11-07T06:57:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Vladslo German war cemetery.svg
 books:
   - "[[Germany - Memories of a Nation]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 51.0706
   - 2.9294
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Belgium]]"
 image: Attachments/Places/Vladslo German war cemetery.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Vladslo German war cemetery.svg
 German First World War cemetery at Vladslo in West Flanders, Belgium, with Käthe Kollwitz's Grieving Parents. In _Germany: Memories of a Nation_ it is the place of her memorial to her son Peter.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Belgian war cemetery where Kollwitz's Grieving Parents kneel near her son Peter, killed in October 1914. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.0706&mlon=2.9294#map=16/51.0706/2.9294) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.0706,2.9294)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.0706\&mlon=2.9294#map=16/51.0706/2.9294) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.0706,2.9294)
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m76npwe1ybc27t8dkr2gnj)
 
 > Installed in the cemetery at Roggevelde, Belgium, in 1932 and transferred to the German War Cemetery at Vladslo, Belgium, 1956.

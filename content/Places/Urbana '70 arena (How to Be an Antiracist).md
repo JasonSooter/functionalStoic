@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Urbana '70 arena (How to Be an Antiracist)
-created: 2024-05-18
-modified: 2026-11-07T06:55:43.778Z
-published: 2026-11-07T06:55:43.778Z
 aliases:
   - Assembly Hall (Champaign)
   - State Farm Center
+title: Urbana '70 arena (How to Be an Antiracist)
+created: 2024-05-18
+modified: 2026-11-07T06:55:44.000Z
+published: 2026-11-07T06:55:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Urbana '70 arena (How to Be an Antiracist).svg
 books:
   - How to Be an Antiracist
 categories:
@@ -14,17 +19,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 40.0963,-88.236
-geo_note: "inferred: the text says only that Urbana '70 met at the University of Illinois\
-  \ arena; that was the Assembly Hall, now State Farm Center"
+geo_note: "inferred: the text says only that Urbana '70 met at the University of Illinois arena; that was the Assembly Hall, now State Farm Center"
 geo_source: Wikipedia (en) State Farm Center
 icon: book
 location:
   - 40.0963
   - -88.236
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Illinois]]"
 image: Attachments/Places/Urbana '70 arena (How to Be an Antiracist).svg
 ---
@@ -34,13 +34,15 @@ image: Attachments/Places/Urbana '70 arena (How to Be an Antiracist).svg
 Large university arena (now State Farm Center) at the University of Illinois in Champaign, Illinois. It turns up in How to Be an Antiracist (Ibram X. Kendi): Illinois arena where Kendi's parents were converted to Black liberation theology at Urbana '70.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | turning point | Illinois arena where Kendi's parents were converted to Black liberation theology at Urbana '70. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.0963&mlon=-88.236#map=16/40.0963/-88.236) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.0963,-88.236)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.0963\&mlon=-88.236#map=16/40.0963/-88.236) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.0963,-88.236)
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fmrsqrvryfbcm6tep47ex9)
 
 > At Urbana ’70, Ma and Dad found themselves leaving the civilizing and conserving and racist church they realized they’d been part of.

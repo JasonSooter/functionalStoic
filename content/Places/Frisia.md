@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Frisia
-created: 2026-10-23
-modified: 2026-11-07T06:56:05.076Z
-published: 2026-11-07T06:56:05.076Z
 aliases:
   - Friesland
+title: Frisia
+created: 2026-10-23
+modified: 2026-11-07T06:56:05.000Z
+published: 2026-11-07T06:56:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Frisia.svg
 books:
   - Beowulf
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 53.4833
   - 7.5667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Frisia.svg
 ---
 
@@ -30,13 +31,15 @@ image: Attachments/Places/Frisia.svg
 Coastal region along the North Sea from the Netherlands into Germany. In _Beowulf_ it is where Hygelac dies on his raid and where the Finnsburh fight sung at Heorot took place.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Beowulf | Seamus Heaney | subject | Hygelac dies raiding Friesland; the Finnsburh fight is sung at Heorot. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.4833&mlon=7.5667#map=10/53.4833/7.5667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.4833,7.5667)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.4833\&mlon=7.5667#map=10/53.4833/7.5667) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=53.4833,7.5667)
 
 ## Beowulf — Seamus Heaney (1999)
+
 Source: [Original](https://openlibrary.org/works/OL1810107W) · [Readwise highlight](https://read.readwise.io/read/01m5ne63se813jstr1xge6vcfa)
 
 > in Friesland: the people’s friend and lord,

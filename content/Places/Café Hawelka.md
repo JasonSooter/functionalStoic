@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Café Hawelka
-created: 2026-08-26
-modified: 2026-11-07T06:51:39.735Z
-published: 2026-11-07T06:51:39.735Z
 aliases:
   - Hawelka
+title: Café Hawelka
+created: 2026-08-26
+modified: 2026-11-07T06:51:40.000Z
+published: 2026-11-07T06:51:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Café Hawelka.svg
 books:
   - Neither Here Nor There
 categories:
@@ -16,10 +21,6 @@ icon: book
 location:
   - 48.2079
   - 16.3694
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vienna]]"
 image: Attachments/Places/Café Hawelka.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Café Hawelka.svg
 Coffee house off the Graben in central [[Vienna|Vienna]], Austria; in Neither Here Nor There it is the one friendly café Bryson finds there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | The one friendly café in Vienna, dark and musty, where a waiter brings him USA Today. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2079&mlon=16.3694#map=16/48.2079/16.3694) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.2079,16.3694)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2079\&mlon=16.3694#map=16/48.2079/16.3694) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.2079,16.3694)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bek7p4wtnt3v9kmkems5y7)
 
 > The one friendly café I found was the Hawelka, around the corner from my hotel.

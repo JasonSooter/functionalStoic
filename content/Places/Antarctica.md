@@ -2,8 +2,13 @@
 publish: true
 title: Antarctica
 created: 2016-04-25
-modified: 2026-11-07T06:54:40.920Z
-published: 2026-11-07T06:54:40.920Z
+modified: 2026-11-07T06:54:41.000Z
+published: 2026-11-07T06:54:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Antarctica.svg
 aliases: []
 books:
   - These Extreme Travelers Fulfilled Their Craziest Dreams
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - -90
   - 0
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Antarctica.svg
 ---
 
@@ -29,11 +30,12 @@ image: Attachments/Places/Antarctica.svg
 The continent around the South Pole. A subject in Karen Emslie's “These Extreme Travelers Fulfilled Their Craziest Dreams”: Destination of Philbert's hitchhike: 28 days aboard a Chilean Navy ship visiting research bases.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | These Extreme Travelers Fulfilled Their Craziest Dreams | Karen Emslie | subject | Destination of Philbert's hitchhike: 28 days aboard a Chilean Navy ship visiting research bases |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-90&mlon=0#map=11/-90/0) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-90,0)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-90\&mlon=0#map=11/-90/0) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-90,0)
 
 ## Sub-places
 
@@ -41,6 +43,7 @@ The continent around the South Pole. A subject in Karen Emslie's “These Extrem
 - [[West Antarctica]]
 
 ## These Extreme Travelers Fulfilled Their Craziest Dreams — Karen Emslie (2016)
+
 Source: [Original](http://www.good.is/posts/find-yourself-with-extreme-travel) · [Readwise highlight](https://read.readwise.io/read/01m5jjrq5wdazfsr2damk5gpxv)
 
 > Five days later the ship—carrying crew, scientists, engineers, a few family members, and Philbert—set off. For the next 28 days, they navigated their way from base to base, picking up and dropping off researchers, delivering supplies and carrying out repairs.

@@ -1,14 +1,19 @@
 ---
 publish: true
-title: St John's College, Cambridge
-created: 2026-10-03
-modified: 2026-11-07T06:57:48.467Z
-published: 2026-11-07T06:57:48.467Z
 aliases:
   - St John's College
   - Bridge of Sighs, Cambridge
+title: St John's College, Cambridge
+created: 2026-10-03
+modified: 2026-11-07T06:57:48.000Z
+published: 2026-11-07T06:57:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/St John's College, Cambridge.svg
 books:
-  - '#094 Usually I don’t go to Cambridge'
+  - "#094 Usually I don’t go to Cambridge"
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 52.2083
   - 0.1169
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cambridge]]"
 image: Attachments/Places/St John's College, Cambridge.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/St John's College, Cambridge.svg
 College of the University of [[Cambridge]], on the River Cam, with its own Bridge of Sighs. It appears in the reading as the setting of a backstage visit in a Diagram Club newsletter.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #094 Usually I don’t go to Cambridge | Diagram Club | setting | A rare trip to Cambridge for a publisher's anniversary, and a wander backstage at St John's. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.2083&mlon=0.1169#map=16/52.2083/0.1169) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.2083,0.1169)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.2083\&mlon=0.1169#map=16/52.2083/0.1169) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.2083,0.1169)
 
 ## #094 Usually I don’t go to Cambridge — Diagram Club (2026)
+
 Source: [Original](https://diagramclub.substack.com/p/094-usually-i-dont-go-to-cambridge) · [Readwise highlight](https://read.readwise.io/read/01m5b4585xgb4xvq7d6sdeqqtg)
 
 > It also meant I got to wander around some incredibly backstage areas of the very picturesque St John’s College, and there were special cupcakes.

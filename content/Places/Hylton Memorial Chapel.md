@@ -2,8 +2,13 @@
 publish: true
 title: Hylton Memorial Chapel
 created: 2024-05-18
-modified: 2026-11-07T06:52:41.239Z
-published: 2026-11-07T06:52:41.239Z
+modified: 2026-11-07T06:52:41.000Z
+published: 2026-11-07T06:52:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hylton Memorial Chapel.svg
 aliases: []
 books:
   - How to Be an Antiracist
@@ -16,10 +21,6 @@ icon: book
 location:
   - 38.6318
   - -77.2991
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Virginia]]"
 image: Attachments/Places/Hylton Memorial Chapel.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Hylton Memorial Chapel.svg
 Chapel in Woodbridge, Prince William County, Virginia. It turns up in How to Be an Antiracist (Ibram X. Kendi): chapel hosting the 2000 MLK oratorical contest where Kendi gave his self-described racist speech.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | setting | Chapel hosting the 2000 MLK oratorical contest where Kendi gave his self-described racist speech. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6318&mlon=-77.2991#map=16/38.6318/-77.2991) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6318,-77.2991)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6318\&mlon=-77.2991#map=16/38.6318/-77.2991) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.6318,-77.2991)
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fmrn00abxjhrt27h17gfy8)
 
 > More than three thousand Black people—with a smattering of White folks—arrived that Monday morning in their Sunday best at the Hylton Memorial Chapel in Northern Virginia.

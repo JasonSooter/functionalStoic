@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Poncho's bodega (Another Brooklyn)
-created: 2026-10-21T04:46:14.000Z
-modified: 2026-11-07T06:56:08.052Z
-published: 2026-11-07T06:56:08.052Z
+created: 2025-11-23
+modified: 2026-11-07T06:56:08.000Z
+published: 2026-11-07T06:56:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Poncho's bodega (Another Brooklyn).svg
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 40.697,-73.917
-geo_note: "inferred: Poncho's bodega pinned at Bushwick, Brooklyn, near Knickerbocker\
-  \ Avenue; see Where is it? (Neighbourhood centroid.)"
+geo_note: "inferred: Poncho's bodega pinned at Bushwick, Brooklyn, near Knickerbocker Avenue; see Where is it? (Neighbourhood centroid.)"
 geo_source: Wikipedia (en) Bushwick, Brooklyn
 icon: book
 location:
   - 40.697
   - -73.917
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bushwick]]"
 image: Attachments/Places/Poncho's bodega (Another Brooklyn).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/Poncho's bodega (Another Brooklyn).svg
 Corner store in _Another Brooklyn_, likely the real Bushwick, Brooklyn, behind the novel's setting, where the narrator and her friends run errands only together; see [[Bushwick]].
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | setting | Poncho's store is around the corner from the narrator's home, and the children are allowed there only together. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.697&mlon=-73.917#map=16/40.697/-73.917) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.697,-73.917)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.697\&mlon=-73.917#map=16/40.697/-73.917) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.697,-73.917)
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Original](https://www.jacquelinewoodson.com/product/another-brooklyn/) · [Readwise highlight](https://read.readwise.io/read/01m5ebwvg115eqf8q46dnzstgk)
 
 > Then to the STOP sign on the corner. Around the corner to Poncho’s bodega, but only together.

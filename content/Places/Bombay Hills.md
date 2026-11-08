@@ -2,8 +2,13 @@
 publish: true
 title: Bombay Hills
 created: 2025-02-13
-modified: 2026-11-07T07:01:13.088Z
-published: 2026-11-07T07:01:13.088Z
+modified: 2026-11-07T07:01:13.000Z
+published: 2026-11-07T07:01:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bombay Hills.svg
 aliases: []
 books:
   - It is more likely that I was doing 911 km/h
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - -37.2108
   - 175.022
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Zealand]]"
 image: Attachments/Places/Bombay Hills.svg
 ---
@@ -30,14 +31,16 @@ image: Attachments/Places/Bombay Hills.svg
 Hills and highway section in the Auckland region, [[New Zealand]]. It is the place named on a 1974 speeding ticket in a comic letter, read on the page and performed by Taika Waititi, whose distance from Porirua makes the alleged 911 km/h absurd.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | It is more likely that I was doing 911 km/h | Shaun Usher | subject | The ticket places the alleged 1974 speeding offence near the Bombay Hills. |
 | Taika Waititi reads a hilarious letter about a speeding ticket | Letters Live | subject | Waititi reads the same letter: the offence was clocked approaching the Bombay Hills, an impossible drive from Porirua. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-37.2108&mlon=175.022#map=16/-37.2108/175.022) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-37.2108,175.022)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-37.2108\&mlon=175.022#map=16/-37.2108/175.022) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-37.2108,175.022)
 
 ## It is more likely that I was doing 911 km/h — Shaun Usher (2025)
+
 Source: [Original](https://news.lettersofnote.com/p/it-is-more-likely-that-i-was-doing) · [Readwise highlight](https://read.readwise.io/read/01m5ede0s3vd2dnjp6k3qgd6vv)
 
 > For me to have traveled from Porirua to the foot of the Bombay Hills just out of Auckland by six thirty, I would had to have crawled into the first car in the hospital parking lot and headed for Auckland at around 1,000 km/h.
@@ -47,6 +50,7 @@ Source: [Original](https://news.lettersofnote.com/p/it-is-more-likely-that-i-was
 - **Why it matters:** The location anchors the impossibility argument: the distance from his birthplace to this point is what yields the 911 km/h figure.
 
 ## Taika Waititi reads a hilarious letter about a speeding ticket — Letters Live (2022)
+
 Source: [Original](https://www.youtube.com/watch?v=yRUtyCzfuI0) · [Readwise highlight](https://read.readwise.io/read/01m6773qsm50x8yg9p1nvhrhn4)
 
 > Drove to Auckland at close to Mach 1, was pulled over approaching the Bombay Hills, and unwittingly changed the automated number plate changing mechanism to show the same number as a car I would own almost 30 years later.

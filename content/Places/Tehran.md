@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Tehran
-created: 2025-03-08
-modified: 2026-11-07T07:02:38.952Z
-published: 2026-11-07T07:02:38.952Z
 aliases:
   - Teheran
+title: Tehran
+created: 2025-03-08
+modified: 2026-11-07T07:02:39.000Z
+published: 2026-11-07T07:02:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tehran.svg
 books:
   - Rick Steves' Iran (2009)
   - "[[Full Tilt - Ireland to India With a Bicycle]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 35.6889
   - 51.3897
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iran]]"
 image: Attachments/Places/Tehran.svg
 ---
@@ -37,13 +38,15 @@ Tehran is the capital of [[Iran]]. It appears in Rick Steves' 2009 Iran video as
 | Rick Steves' Iran (2009) | Rick Steves' Europe | setting | Rick Steves opens his 2009 Iran journey in the capital, a smoggy, mile-high metropolis of about 10 million. |
 | [[Full Tilt - Ireland to India With a Bicycle\|Full Tilt]] | Dervla Murphy | setting | Refused an Afghan visa as a lone woman cyclist, she fights for it with embassy help. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.6889&mlon=51.3897#map=11/35.6889/51.3897) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6889,51.3897)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.6889\&mlon=51.3897#map=11/35.6889/51.3897) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=35.6889,51.3897)
 
 ## Sub-places
+
 - [[Azadi Tower]]
 - [[Mausoleum of Ruhollah Khomeini]]
 
 ## Rick Steves' Iran (2009) — Rick Steves' Europe (2009)
+
 Source: [Original](https://www.youtube.com/watch?v=CYoa9hI3CXg) · [Readwise highlight](https://read.readwise.io/read/01m5dqx1vkxsne6epdpfcwedgc)
 
 > Tehran, a youthful, noisy capital city, is the modern heart of this country. It's a smoggy, mile-high metropolis with a teeming population of about 10 million.
@@ -53,6 +56,7 @@ Source: [Original](https://www.youtube.com/watch?v=CYoa9hI3CXg) · [Readwise hig
 - **Why it matters:** The capital frames the film's picture of a youthful, secular-feeling but theocratically governed Iran.
 
 ## Full Tilt — Dervla Murphy (1965)
+
 Source: [[Full Tilt - Ireland to India With a Bicycle]] · [Original](https://openlibrary.org/books/OL9584029M) · [Readwise highlight](https://read.readwise.io/read/01m5j6kp4t9ncqjekx1svrfejg)
 
 > Today a deep depression has moved over Dervla; I presented myself to the Afghan Embassy at 9 a.m. this morning, only to be told that under no circumstances whatever would they grant a visa to a woman who intended cycling alone through Afghanistan.

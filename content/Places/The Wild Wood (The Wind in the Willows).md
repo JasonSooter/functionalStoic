@@ -1,11 +1,16 @@
 ---
 publish: true
-title: The Wild Wood
-created: 2026-10-23
-modified: 2026-11-07T06:51:39.307Z
-published: 2026-11-07T06:51:39.307Z
 aliases:
   - Badger's house (The Wind in the Willows)
+title: The Wild Wood
+created: 2026-10-23
+modified: 2026-11-07T06:51:39.000Z
+published: 2026-11-07T06:51:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The Wild Wood (The Wind in the Willows).svg
 books:
   - The Wind in the Willows
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 51.5626
   - -0.7566
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berkshire]]"
 image: Attachments/Places/The Wild Wood (The Wind in the Willows).svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/The Wild Wood (The Wind in the Willows).svg
 The dark wood across the water-meadows in _The Wind in the Willows_, pinned at Quarry Wood above Cookham Dean, the wood Grahame knew. Mole gets lost there in the snow and finds Badger's underground house, and the weasels and stoats come from it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Wind in the Willows | Kenneth Grahame | setting | Mole is lost here in the snow and finds Badger's underground house. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5626&mlon=-0.7566#map=16/51.5626/-0.7566) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5626,-0.7566)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5626\&mlon=-0.7566#map=16/51.5626/-0.7566) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.5626,-0.7566)
 
 ## The Wind in the Willows — Kenneth Grahame (1908)
+
 Source: [Original](https://openlibrary.org/works/OL28570037W) · [Readwise highlight](https://read.readwise.io/read/01m5ne2jhsf401hq4wdkkpm8bg)
 
 > and with great cheerfulness of spirit he pushed on towards the Wild Wood, which lay before him low and threatening, like a black reef in some still southern sea.

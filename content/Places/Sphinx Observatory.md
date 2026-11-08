@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sphinx Observatory
-created: 2025-07-17
-modified: 2026-11-07T06:57:15.187Z
-published: 2026-11-07T06:57:15.187Z
 aliases:
   - Jungfraujoch Research Station
+title: Sphinx Observatory
+created: 2025-07-17
+modified: 2026-11-07T06:57:15.000Z
+published: 2026-11-07T06:57:15.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sphinx Observatory.svg
 books:
   - This is Europe’s Most Remote Construction Site
 categories:
@@ -17,10 +22,6 @@ icon: video
 location:
   - 46.5475
   - 7.985
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Switzerland]]"
 image: Attachments/Places/Sphinx Observatory.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Sphinx Observatory.svg
 Observatory on the Sphinx rock above the Jungfraujoch in the Bernese Alps, [[Switzerland]]. It appears in the reading as the research lab a B1M presenter visits in a video on Europe's most remote construction site.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This is Europe’s Most Remote Construction Site | The B1M | subject | The presenter stays overnight in the 1937 research lab built into the Sphinx rock summit at nearly 3,600 m. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.5475&mlon=7.985#map=16/46.5475/7.985) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5475,7.985)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.5475\&mlon=7.985#map=16/46.5475/7.985) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=46.5475,7.985)
 
 ## This is Europe’s Most Remote Construction Site — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=OVysOYeYbFw) · [Readwise highlight](https://read.readwise.io/read/01m5dqva1gm328w0qrrskvwbpj)
 
 > It’s lodged into a rock summit called the Sphinx, positioned on a seriously sheer cliff face and terrifyingly, this gravity-defying building was actually constructed way back in 1937.

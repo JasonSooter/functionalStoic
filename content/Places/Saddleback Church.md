@@ -2,8 +2,13 @@
 publish: true
 title: Saddleback Church
 created: 2025-10-25
-modified: 2026-11-07T07:02:42.060Z
-published: 2026-11-07T07:02:42.060Z
+modified: 2026-11-07T07:02:42.000Z
+published: 2026-11-07T07:02:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Saddleback Church.svg
 aliases: []
 books:
   - "[[Quiet]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 33.6642
   - -117.6466
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Saddleback Church.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Saddleback Church.svg
 Evangelical megachurch in Lake Forest, California. In Quiet (Susan Cain) it shows how American evangelical culture prizes extroversion.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Quiet]] | Susan Cain | setting | Megachurch where an introverted pastor explains faith's extrovert bias. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.6642&mlon=-117.6466#map=16/33.6642/-117.6466) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.6642,-117.6466)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.6642\&mlon=-117.6466#map=16/33.6642/-117.6466) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.6642,-117.6466)
 
 ## Quiet — Susan Cain (2012)
+
 Source: [[Quiet]] · [Original](https://www.penguin.co.uk/books/55983/quiet-by-cain-susan/9780141970172) · [Readwise highlight](https://read.readwise.io/read/01m5g16zajvcs36j6nv2jdqp9q)
 
 > With an average weekly attendance of 22,000 and counting, Saddleback Church is one of the largest and most influential evangelical churches in the nation.

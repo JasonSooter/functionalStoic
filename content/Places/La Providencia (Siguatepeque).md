@@ -2,8 +2,13 @@
 publish: true
 title: La Providencia (Siguatepeque)
 created: 2015-12-14
-modified: 2026-11-07T07:00:56.047Z
-published: 2026-11-07T07:00:56.047Z
+modified: 2026-11-07T07:00:56.000Z
+published: 2026-11-07T07:00:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/La Providencia (Siguatepeque).svg
 aliases: []
 books:
   - Hope Effect Update and a Birthday Wish
@@ -12,17 +17,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 14.6,-87.8333
-geo_note: approximate (Siguatepeque town centre; La Providencia campus not found in
-  Wikipedia or Nominatim)
+geo_note: approximate (Siguatepeque town centre; La Providencia campus not found in Wikipedia or Nominatim)
 geo_source: Wikipedia (en) (Siguatepeque)
 icon: newspaper
 location:
   - 14.6
   - -87.8333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Honduras]]"
 image: Attachments/Places/La Providencia (Siguatepeque).svg
 ---
@@ -38,9 +38,10 @@ Children's home campus at Siguatepeque in central Honduras; Joshua Becker's Hope
 | Hope Effect Update and a Birthday Wish | Joshua Becker | subject | Joshua Becker's Hope Effect builds its first orphan-care home there. |
 | Clean Your House. Build a Home. | Joshua Becker | subject | The Hope Effect's first orphan home, being built on the campus. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=14.6&mlon=-87.8333#map=10/14.6/-87.8333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6,-87.8333)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=14.6\&mlon=-87.8333#map=10/14.6/-87.8333) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=14.6,-87.8333)
 
 ## Hope Effect Update and a Birthday Wish — Joshua Becker (2015)
+
 Source: [Original](https://www.becomingminimalist.com/hope-effect-update/) · [Readwise highlight](https://read.readwise.io/read/01m5hx1v6h3fgxqw4qxf5rqrrv)
 
 > has provided through this phase—the home is being built on their campus and will be operated under their local leadership.
@@ -50,6 +51,7 @@ Source: [Original](https://www.becomingminimalist.com/hope-effect-update/) · [R
 - **Why it matters:** The only concrete location in the post; it is where the nonprofit's first project is built, though the text says little about the place itself.
 
 ## Clean Your House. Build a Home. — Joshua Becker (2016)
+
 Source: [Original](https://www.becomingminimalist.com/garage-sale-orphans/) · [Readwise highlight](https://read.readwise.io/read/01m5j7t7hh0yaj62ky9cdsyyd0)
 
 > on our first project: a family-style home on the campus of La Providencia in Honduras.

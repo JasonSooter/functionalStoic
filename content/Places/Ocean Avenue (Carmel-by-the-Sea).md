@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Ocean Avenue (Carmel-by-the-Sea)
-created: 2026-10-21T13:56:03.000Z
-modified: 2026-11-07T06:51:47.887Z
-published: 2026-11-07T06:51:47.887Z
+created: 2024-05-18
+modified: 2026-11-07T06:51:48.000Z
+published: 2026-11-07T06:51:48.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ocean Avenue (Carmel-by-the-Sea).svg
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 36.5551
   - -121.9261
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Ocean Avenue (Carmel-by-the-Sea).svg
 ---
@@ -29,17 +30,19 @@ image: Attachments/Places/Ocean Avenue (Carmel-by-the-Sea).svg
 Ocean Avenue is the main street of Carmel-by-the-Sea, California. It turns up in Walkable City (Jeff Speck): It is Speck's example of in-lieu parking fees producing a charming main street.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Ocean Avenue is free of off-street parking because it is illegal; businesses pay in-lieu fees that fund shared city parking a few blocks… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.5551&mlon=-121.9261#map=16/36.5551/-121.9261) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.5551,-121.9261)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.5551\&mlon=-121.9261#map=16/36.5551/-121.9261) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=36.5551,-121.9261)
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbkpzgybxxmxdk4qp725aq)
 
 > If you’ve been to the former artists’ colony of Carmel-by-the-Sea, California, you’ve probably enjoyed strolling its picturesque main street, Ocean Avenue.
 
 - **Role:** subject
 - **In the book:** Ocean Avenue is free of off-street parking because it is illegal; businesses pay in-lieu fees that fund shared city parking a few blocks away. That produced midblock courtyards and walkways and steady sidewalk activity.
-- **Why it matters:** It is Speck's example of in-lieu parking fees producing a charming main street. Carmel's in-lieu fee is $27,520 per space.
+- **Why it matters:** It is Speck's example of in-lieu parking fees producing a charming main street. Carmel's in-lieu fee is \$27,520 per space.

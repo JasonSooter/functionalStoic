@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Gladfelter Hall
-created: 2024-05-18
-modified: 2026-11-07T06:57:48.679Z
-published: 2026-11-07T06:57:48.679Z
 aliases:
   - Temple University
+title: Gladfelter Hall
+created: 2024-05-18
+modified: 2026-11-07T06:57:49.000Z
+published: 2026-11-07T06:57:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gladfelter Hall.svg
 books:
   - How to Be an Antiracist
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 39.9813
   - -75.1524
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Philadelphia]]"
 image: Attachments/Places/Gladfelter Hall.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Gladfelter Hall.svg
 Tower on Temple University's campus in North Philadelphia. In How to Be an Antiracist (Ibram X. Kendi) its eighth floor houses his African American studies department.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How to Be an Antiracist | Ibram X. Kendi | setting | Home of Kendi's African American studies department, a Black space on a White campus. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9813&mlon=-75.1524#map=16/39.9813/-75.1524) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9813,-75.1524)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9813\&mlon=-75.1524#map=16/39.9813/-75.1524) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.9813,-75.1524)
 
 ## How to Be an Antiracist — Ibram X. Kendi (2019)
+
 Source: [Original](https://openlibrary.org/books/OL42715690M/How_to_Be_an_Antiracist) · [Readwise highlight](https://read.readwise.io/read/01m5fzd1ct5vs2ddqk9dd7b987)
 
 > AFRICAN AMERICAN STUDIES took up part of the eighth floor of Gladfelter Hall at Temple University, which stoically faced its equally imposing twin, Anderson Hall.

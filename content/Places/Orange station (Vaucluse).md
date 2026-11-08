@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Orange station (Vaucluse)
-created: 2026-10-20T19:35:58.000Z
-modified: 2026-11-07T06:52:49.320Z
-published: 2026-11-07T06:52:49.320Z
 aliases:
   - Gare d'Orange
+title: Orange station (Vaucluse)
+created: 2025-08-15
+modified: 2026-11-07T06:52:49.000Z
+published: 2026-11-07T06:52:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Orange station (Vaucluse).svg
 books:
   - Gare de Orange
 categories:
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 44.1372
   - 4.8194
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Provence]]"
 image: Attachments/Places/Orange station (Vaucluse).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Orange station (Vaucluse).svg
 Railway station of Orange, Vaucluse, in [[Provence]], France, on the Paris–Marseille line, where Mostly Bikes x Me catch the train north to start a 583 km permanent.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Gare De Orange\|Gare de Orange]] | Mostly Bikes x Me | journey waypoint | Where the riders catch the train north for a 583 km permanent. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1372&mlon=4.8194#map=16/44.1372/4.8194) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1372,4.8194)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.1372\&mlon=4.8194#map=16/44.1372/4.8194) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.1372,4.8194)
 
 ## Gare de Orange — Mostly Bikes x Me (2025)
+
 Source: [Original](https://funkadelic.net/pages/15442925722.html) · [Readwise highlight](https://read.readwise.io/read/01m5dck6nx715k8n218wet8zdd)
 
 > The air temperature drops as we descend into the vineyards in the direction of Orange, where we’ll catch the train.

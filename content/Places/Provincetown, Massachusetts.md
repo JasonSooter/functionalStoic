@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Provincetown, Massachusetts
-created: 2026-10-23T05:33:33.000Z
-modified: 2026-11-07T06:57:19.697Z
-published: 2026-11-07T06:57:19.697Z
 aliases:
   - Provincetown
+title: Provincetown, Massachusetts
+created: 2025-08-29
+modified: 2026-11-07T06:57:20.000Z
+published: 2026-11-07T06:57:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Provincetown, Massachusetts.svg
 books:
   - "[[Cod]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 42.058
   - -70.179
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/Provincetown, Massachusetts.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Provincetown, Massachusetts.svg
 Town at the tip of Cape Cod. In _Cod_ Thoreau's visit to a Provincetown fish-house shows how carelessly American salt cod was handled.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | setting | Thoreau watches men in cowhide boots pitch salt cod with iron-pointed tools while a man chews tobacco and spits on the fish. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.058&mlon=-70.179#map=16/42.058/-70.179) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.058,-70.179)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.058\&mlon=-70.179#map=16/42.058/-70.179) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.058,-70.179)
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
+
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kkskzm9fm8p3fvek45pc47)
 
 > This was how Thoreau found the Provincetown fishery in 1851:

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Mokelumne River
-created: 2026-10-20T22:56:18.000Z
-modified: 2026-11-07T06:56:56.900Z
-published: 2026-11-07T06:56:56.900Z
 aliases:
   - Sierra Nevada cabin
+title: Mokelumne River
+created: 2020-01-19
+modified: 2026-11-07T06:56:57.000Z
+published: 2026-11-07T06:56:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mokelumne River.svg
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 38.3722
   - -120.6106
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Mokelumne River.svg
 ---
@@ -31,14 +32,16 @@ image: Attachments/Places/Mokelumne River.svg
 River flowing from the Sierra Nevada to the Sacramento–San Joaquin Delta, [[California]]. It appears in Jenny Odell's How to Do Nothing as the river that supplies Oakland's tap water and embodies her argument that bioregions are fluid flows.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | Odell accidentally spent several days offline in a cabin, panicked for twenty minutes, then found her phone inert. |
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | subject | Visits the river at several access points, from forested Sierras to chaparral, and traces the North Fork up to Highland Lakes. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.3722&mlon=-120.6106#map=10/38.3722/-120.6106) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.3722,-120.6106)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.3722\&mlon=-120.6106#map=10/38.3722/-120.6106) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.3722,-120.6106)
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5dqztmfvha5mat0r9bd1816)
 
 > I was on a solitary trip to the Sierra Nevada to work on a project about the Mokelumne River, and the cabin I had booked had no cell reception and no Wi-Fi.
@@ -48,6 +51,7 @@ Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] ·
 - **Why it matters:** The cabin itself is not located; the river gives the region.
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebvcaxtg7gapjv0wqvng0w)
 
 > I had just learned that Oakland’s drinking water comes from the Mokelumne River, and wanted to see it “in person”

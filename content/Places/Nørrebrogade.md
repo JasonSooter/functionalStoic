@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Nørrebrogade
-created: 2026-10-20T13:46:31.000Z
-modified: 2026-11-07T06:51:29.066Z
-published: 2026-11-07T06:51:29.066Z
+created: 2025-10-26
+modified: 2026-11-07T06:51:29.000Z
+published: 2026-11-07T06:51:29.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Nørrebrogade.svg
 aliases: []
 books:
   - "[[‘It’s the Best Feeling’ - How Copenhagen Gave Cyclists a Green Wave]]"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 55.6922
   - 12.552
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Copenhagen]]"
 image: Attachments/Places/Nørrebrogade.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Nørrebrogade.svg
 Main street of the Nørrebro district, [[Copenhagen]], Denmark, where the city's cycling green-wave pilot began.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[‘It’s the Best Feeling’ - How Copenhagen Gave Cyclists a Green Wave\|‘It’s the best feeling’: how Copenhagen gave cyclists a green wave]] | Ajit Niranjan | setting | Where the green-wave pilot began. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.6922&mlon=12.552#map=16/55.6922/12.552) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.6922,12.552)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.6922\&mlon=12.552#map=16/55.6922/12.552) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=55.6922,12.552)
 
 ## ‘It’s the best feeling’: how Copenhagen gave cyclists a green wave — Ajit Niranjan (2025)
+
 Source: [[‘It’s the Best Feeling’ - How Copenhagen Gave Cyclists a Green Wave]] · [Original](https://www.theguardian.com/environment/2025/sep/26/how-copenhagen-gave-cyclists-a-green-wave?CMP=Share_AndroidApp_Other) · [Readwise highlight](https://read.readwise.io/read/01m5crem6mxh0z9fa86kcvrn96)
 
 > “The idea is nice because usually the lights are set at the speed of the cars,” says Lars, a 33-year-old analyst cycling down Nørrebrogade, where the first pilot project began.

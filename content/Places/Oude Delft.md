@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Oude Delft
-created: 2026-10-23T02:02:31.000Z
-modified: 2026-11-07T06:53:13.369Z
-published: 2026-11-07T06:53:13.369Z
+created: 2019-10-30
+modified: 2026-11-07T06:53:13.000Z
+published: 2026-11-07T06:53:13.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Oude Delft.svg
 aliases: []
 books:
   - How I Learned to Cycle Like a Dutchman – The New Yorker
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 52.0062
   - 4.3601
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Delft]]"
 image: Attachments/Places/Oude Delft.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Oude Delft.svg
 Delft's oldest canal, in the historic centre of the Dutch city. In a New Yorker essay it is where an American family first meets Dutch street design on their new bikes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How I Learned to Cycle Like a Dutchman – The New Yorker | Dan Kois | journey waypoint | On their first ride out, past the leaning Oude Kerk, the family rides along the unfenced canal edge. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.0062&mlon=4.3601#map=10/52.0062/4.3601) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.0062,4.3601)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.0062\&mlon=4.3601#map=10/52.0062/4.3601) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.0062,4.3601)
 
 ## How I Learned to Cycle Like a Dutchman – The New Yorker — Dan Kois (2019)
+
 Source: [Original](https://www.newyorker.com/culture/personal-history/how-i-learned-to-cycle-like-a-dutchman) · [Readwise highlight](https://read.readwise.io/read/01m5k7cmmgd7681fcv1sffz3s7)
 
 > To our left was the seven-hundred-year-old Oude Delft canal, its still surface covered with lily pads and floating trash. There was no protective guardrail or fence, not even a curb—just an unnerving, cliff-like drop.

@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Gigafactory Shanghai
-created: 2025-11-29
-modified: 2026-11-07T06:57:39.845Z
-published: 2026-11-07T06:57:39.845Z
 aliases:
   - Giga Shanghai
   - Lingang
   - Tesla Gigafactory Shanghai
+title: Gigafactory Shanghai
+created: 2025-11-29
+modified: 2026-11-07T06:57:40.000Z
+published: 2026-11-07T06:57:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gigafactory Shanghai.svg
 books:
   - Breakneck
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 30.8702
   - 121.7688
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Shanghai]]"
 image: Attachments/Places/Gigafactory Shanghai.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Gigafactory Shanghai.svg
 Tesla's car plant in Lingang, [[Shanghai]], which Dan Wang's Breakneck cites as China using a foreign firm to push domestic rivals such as BYD.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Breakneck]] | Dan Wang | turning point | Tesla's wholly owned Shanghai plant began rolling out cars in 2019; BYD's sales fell 11 percent and profits 42 percent. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.8702&mlon=121.7688#map=16/30.8702/121.7688) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.8702,121.7688)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.8702\&mlon=121.7688#map=16/30.8702/121.7688) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=30.8702,121.7688)
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dqz0g20v79anc4nbg07rze)
 
 > Beijing did something unprecedented for Tesla in 2018: It allowed the company to fully own its plant in Shanghai.

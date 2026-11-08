@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Veracruz
-created: 2024-05-18
-modified: 2026-11-07T06:56:59.565Z
-published: 2026-11-07T06:56:59.565Z
 aliases:
   - Vera Cruz
+title: Veracruz
+created: 2024-05-18
+modified: 2026-11-07T06:57:00.000Z
+published: 2026-11-07T06:57:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Veracruz.svg
 books:
   - "Sapiens: A Brief History of Humankind"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 19.1903
   - -96.1533
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico]]"
 image: Attachments/Places/Veracruz.svg
 ---
@@ -30,11 +31,12 @@ image: Attachments/Places/Veracruz.svg
 Veracruz is a port city on the Gulf coast of Mexico, near where Cortés landed in 1519. _Sapiens_ uses the landing as the Aztecs' first encounter with an unknown people.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | Beach where Cortés landed in 1519: the Aztecs' first meeting with a wholly unknown people. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=19.1903&mlon=-96.1533#map=16/19.1903/-96.1533) · [Google Maps](https://www.google.com/maps/search/?api=1&query=19.1903,-96.1533)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=19.1903\&mlon=-96.1533#map=16/19.1903/-96.1533) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=19.1903,-96.1533)
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
 

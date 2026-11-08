@@ -2,27 +2,27 @@
 publish: true
 title: The caravan site (Hythe post)
 created: 2025-11-15
-modified: 2026-11-07T06:51:57.432Z
-published: 2026-11-07T06:51:57.432Z
+modified: 2026-11-07T06:51:57.000Z
+published: 2026-11-07T06:51:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The caravan site (Hythe post).svg
 aliases: []
 books:
-  - '#061 Please assemble in the telephone box'
+  - "#061 Please assemble in the telephone box"
 categories:
   - "[[Places]]"
 color: gray
 confidence: best-guess
 coordinates: 51.0716,1.084
-geo_note: "best-guess: Only 'a caravan in Kent' with Hythe in view; pin at the town\
-  \ as a stand-in."
+geo_note: "best-guess: Only 'a caravan in Kent' with Hythe in view; pin at the town as a stand-in."
 geo_source: Wikipedia (en)
 icon: newspaper
 location:
   - 51.0716
   - 1.084
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hythe, Kent]]"
 image: Attachments/Places/The caravan site (Hythe post).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/The caravan site (Hythe post).svg
 The caravan site is a rented holiday caravan in Kent within sight of Hythe, pinned at the town as a best guess. It appears in a Diagram Club post as a quiet half-term writing retreat.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #061 Please assemble in the telephone box | Diagram Club | setting | During UK half-term the author takes a short trip to a rented caravan in Kent, planning to write and draw somewhere quiet. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.0716&mlon=1.084#map=16/51.0716/1.084) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.0716,1.084)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.0716\&mlon=1.084#map=16/51.0716/1.084) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.0716,1.084)
 
 ## #061 Please assemble in the telephone box — Diagram Club (2025)
+
 Source: [Original](https://diagramclub.substack.com/p/061-please-assemble-in-the-telephone) · [Readwise highlight](https://read.readwise.io/read/01m5e337tpjwhsdcyq56x40f48)
 
 > In the distance - that’s Hythe.

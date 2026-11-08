@@ -2,8 +2,13 @@
 publish: true
 title: Farnsworth Avenue (Bordentown)
 created: 2024-11-16
-modified: 2026-11-07T06:53:18.098Z
-published: 2026-11-07T06:53:18.098Z
+modified: 2026-11-07T06:53:18.000Z
+published: 2026-11-07T06:53:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Farnsworth Avenue (Bordentown).svg
 aliases: []
 books:
   - "My second Troll Trek: 7 trolls and 1 slice of pie"
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 40.1447
   - -74.7107
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Farnsworth Avenue (Bordentown).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Farnsworth Avenue (Bordentown).svg
 Main street of Bordentown City, New Jersey, a couple of blocks from the RiverLine station. It is the first stop on a second troll-hunting bike ride.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | My second Troll Trek: 7 trolls and 1 slice of pie | alliumstozinnias | journey waypoint | First troll of the ride: Edward, on the city's main drag near the RiverLine. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.1447&mlon=-74.7107#map=10/40.1447/-74.7107) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.1447,-74.7107)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.1447\&mlon=-74.7107#map=10/40.1447/-74.7107) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.1447,-74.7107)
 
 ## My second Troll Trek: 7 trolls and 1 slice of pie — alliumstozinnias (2024)
+
 Source: [Original](https://exploringbybike.com/2024/11/08/my-second-troll-trek-7-trolls-and-1-slice-of-pie/) · [Readwise highlight](https://read.readwise.io/read/01m5f0pfzd4ay3a15wts4az9jd)
 
 > First up: this guy in Bordentown City, on Farnsworth Avenue, the city’s main drag, and just a couple of blocks from the RiverLine station (and free parking for those who drive).

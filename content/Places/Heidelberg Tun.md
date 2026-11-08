@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Heidelberg Tun
-created: 2026-10-23
-modified: 2026-11-07T07:02:48.784Z
-published: 2026-11-07T07:02:48.784Z
 aliases:
   - Great Heidelberg Tun
   - Heidelburgh Tun
+title: Heidelberg Tun
+created: 2026-10-23
+modified: 2026-11-07T07:02:49.000Z
+published: 2026-11-07T07:02:49.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Heidelberg Tun.svg
 books:
   - "[[Exploration of Moby Dick]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 49.411
   - 8.7147
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Heidelberg]]"
 image: Attachments/Places/Heidelberg Tun.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Heidelberg Tun.svg
 The Heidelberg Tun is a giant wine vat in the cellars of Heidelberg Castle in Germany. In _Moby-Dick_ it names the oil-filled case in the sperm whale's head, which gives Chapter 77 its title.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | subject | The whale's spermaceti-filled head is 'the great Heidelburgh Tun', and Tashtego nearly drowns inside it. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=49.411&mlon=8.7147#map=16/49.411/8.7147) · [Google Maps](https://www.google.com/maps/search/?api=1&query=49.411,8.7147)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=49.411\&mlon=8.7147#map=16/49.411/8.7147) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=49.411,8.7147)
 
 ## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m77a27ev62pg6maepev52f)
 
 > upper part, known as the Case, may be regarded as the great Heidelburgh Tun of the Sperm Whale.

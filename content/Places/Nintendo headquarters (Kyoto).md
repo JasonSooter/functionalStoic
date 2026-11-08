@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Nintendo headquarters (Kyoto)
-created: 2026-10-23T02:23:57.000Z
-modified: 2026-11-07T07:02:39.432Z
-published: 2026-11-07T07:02:39.432Z
+created: 2020-01-16
+modified: 2026-11-07T07:02:39.000Z
+published: 2026-11-07T07:02:39.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Nintendo headquarters (Kyoto).svg
 aliases: []
 books:
   - The Lie That Helped Build Nintendo
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 34.9697
   - 135.7562
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Kyoto]]"
 image: Attachments/Places/Nintendo headquarters (Kyoto).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Nintendo headquarters (Kyoto).svg
 Nintendo's head office in Kyoto, Japan. In an IGN feature Owe Bergsten flies there to win Nintendo's Nordic distribution.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Lie That Helped Build Nintendo | Joe Skrebels | turning point | After a grounded DC-10 costs him a day, Bergsten heads straight to Kyoto, where he learns it is a national holiday and everything is closed. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.9697&mlon=135.7562#map=16/34.9697/135.7562) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.9697,135.7562)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.9697\&mlon=135.7562#map=16/34.9697/135.7562) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.9697,135.7562)
 
 ## The Lie That Helped Build Nintendo — Joe Skrebels (2019)
+
 Source: [Original](https://www.ign.com/articles/2019/12/09/the-lie-that-helped-build-nintendo) · [Readwise highlight](https://read.readwise.io/read/01m5k8wg3a9wsk6xqkh64ajj7w)
 
 > He arrived on a Thursday night, went to bed exhausted, and woke on Friday with a plan to call Nintendo to let the team know what had happened, and when he’d arrive at HQ.

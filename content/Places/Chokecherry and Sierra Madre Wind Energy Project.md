@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Chokecherry and Sierra Madre Wind Energy Project
-created: 2025-05-14
-modified: 2026-11-07T06:55:43.634Z
-published: 2026-11-07T06:55:43.634Z
 aliases:
   - Chokecherry and Sierra Madre
+title: Chokecherry and Sierra Madre Wind Energy Project
+created: 2025-05-14
+modified: 2026-11-07T06:55:44.000Z
+published: 2026-11-07T06:55:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chokecherry and Sierra Madre Wind Energy Project.svg
 books:
   - Abundance
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 41.7
   - -107.2
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Wyoming]]"
 image: Attachments/Places/Chokecherry and Sierra Madre Wind Energy Project.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Chokecherry and Sierra Madre Wind Energy Project.svg
 The Chokecherry and Sierra Madre Wind Energy Project is a large wind farm project on federal land in Carbon County, Wyoming. In _Abundance_ it shows how permitting delays slow clean energy.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Abundance | Ezra Klein & Derek Thompson | subject | The largest wind farm in US history, due in 2026 after eighteen years of permitting. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7&mlon=-107.2#map=10/41.7/-107.2) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.7,-107.2)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7\&mlon=-107.2#map=10/41.7/-107.2) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.7,-107.2)
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m75cnv809swj1za4r9gwe0)
 
 > The Chokecherry and Sierra Madre Wind Energy Project, which is intended for federal land in Wyoming, would be the largest wind farm in US history.

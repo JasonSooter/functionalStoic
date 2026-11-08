@@ -2,8 +2,13 @@
 publish: true
 title: John C. Anderson Apartments
 created: 2015-11-28
-modified: 2026-11-07T06:55:56.755Z
-published: 2026-11-07T06:55:56.755Z
+modified: 2026-11-07T06:55:57.000Z
+published: 2026-11-07T06:55:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/John C. Anderson Apartments.svg
 aliases: []
 books:
   - What Was Gay?
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 39.9472
   - -75.1623
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Philadelphia]]"
 image: Attachments/Places/John C. Anderson Apartments.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/John C. Anderson Apartments.svg
 LGBT-friendly senior housing on South 13th Street in Philadelphia's Center City. In J. Bryan Lowder's Slate essay it prompts his worry about the future of gay culture.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | What Was Gay? | J. Bryan Lowder | subject | LGBT-friendly senior housing that prompts the essay's worry about gay culture. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9472&mlon=-75.1623#map=16/39.9472/-75.1623) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.9472,-75.1623)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.9472\&mlon=-75.1623#map=16/39.9472/-75.1623) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.9472,-75.1623)
 
 ## What Was Gay? — J. Bryan Lowder (2015)
+
 Source: [Original](http://www.slate.com/articles/news_and_politics/history/2015/05/can_you_be_homosexual_without_being_gay_the_future_of_cruising_drag_and.html) · [Readwise highlight](https://read.readwise.io/read/01m5g0ebbmvjcrvtt3trfhg449)
 
 > The apartment building, located just off the gay bar strip in Center City, was conceived as a solution to a heart-breaking problem

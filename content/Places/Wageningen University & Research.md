@@ -2,8 +2,13 @@
 publish: true
 title: Wageningen University & Research
 created: 2017-09-09
-modified: 2026-11-07T06:58:11.562Z
-published: 2026-11-07T06:58:11.562Z
+modified: 2026-11-07T06:58:12.000Z
+published: 2026-11-07T06:58:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Wageningen University & Research.svg
 aliases: []
 books:
   - This Tiny Country Feeds the World
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 51.9671
   - 5.6586
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Netherlands]]"
 image: Attachments/Places/Wageningen University & Research.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Wageningen University & Research.svg
 Agricultural university in Wageningen, the Netherlands, at the heart of 'Food Valley'. National Geographic calls it the brain behind Dutch farming.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This Tiny Country Feeds the World | Magazine | subject | The brain trust behind Dutch agriculture, compared to Silicon Valley. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.9671&mlon=5.6586#map=16/51.9671/5.6586) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9671,5.6586)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.9671\&mlon=5.6586#map=16/51.9671/5.6586) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.9671,5.6586)
 
 ## This Tiny Country Feeds the World — Magazine (2017)
+
 Source: [Original](https://www.nationalgeographic.com/magazine/2017/09/holland-agriculture-sustainable-farming/) · [Readwise highlight](https://read.readwise.io/read/01m5k7g0qagfkc9qtxygyb2dcp)
 
 > Widely regarded as the world’s top agricultural research institution, WUR is the nodal point of Food Valley, an expansive cluster of agricultural technology start-ups and experimental farms.

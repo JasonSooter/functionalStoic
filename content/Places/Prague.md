@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Prague
-created: 2026-10-20T10:42:32.000Z
-modified: 2026-11-07T06:56:54.856Z
-published: 2026-11-07T06:56:54.856Z
 aliases:
   - Praha
+title: Prague
+created: 2025-11-26
+modified: 2026-11-07T06:56:55.000Z
+published: 2026-11-07T06:56:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Prague.svg
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
   - "[[Germany - Memories of a Nation]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 50.0875
   - 14.4214
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Prague.svg
 ---
 
@@ -36,12 +37,14 @@ Capital of the Czech Republic, where Kyla Scanlon's essay on American prosperity
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go\|30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?]] | Kyla Scanlon | turning point | The answer to the trip's question: yes, we can still build things. |
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | The second 'lost capital': seat of the first German-speaking university, of Rudolf II's court and of Kafka's German-speaking world. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.0875&mlon=14.4214#map=11/50.0875/14.4214) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.0875,14.4214)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.0875\&mlon=14.4214#map=11/50.0875/14.4214) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.0875,14.4214)
 
 ## Sub-places
+
 _None yet._
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
+
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5ffkqr3s4nkdqzjg15n9)
 
 > By the time I landed in Prague, I’d spent three weeks watching Americans argue about whether we could still build anything. Prague answered soundly - yes, we can still build things.
@@ -51,6 +54,7 @@ Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · 
 - **Why it matters:** It is the essay's turn from diagnosis to an answer.
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m758zvm32qc4qcj9f4rwh9)
 
 > Capital of the old Kingdom of Bohemia, centre of Czech consciousness, it had a long and complex relationship with the German world. Where East Prussia and Königsberg had been taken by force of arms, the Germans had come to Prague – almost at the same time, in the later thirteenth century – by invitation.

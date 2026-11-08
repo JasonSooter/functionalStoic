@@ -2,8 +2,13 @@
 publish: true
 title: Jubilee Hall (Aldeburgh)
 created: 2024-10-04
-modified: 2026-11-07T06:56:21.557Z
-published: 2026-11-07T06:56:21.557Z
+modified: 2026-11-07T06:56:22.000Z
+published: 2026-11-07T06:56:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jubilee Hall (Aldeburgh).svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - 52.1531
   - 1.6024
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Suffolk]]"
 image: Attachments/Places/Jubilee Hall (Aldeburgh).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Jubilee Hall (Aldeburgh).svg
 Small concert hall in Aldeburgh, Suffolk, home of Britten's festival; in _Life on Air_ Attenborough lectures there on Balinese music.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough lectures there on Balinese music. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.1531&mlon=1.6024#map=16/52.1531/1.6024) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.1531,1.6024)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.1531\&mlon=1.6024#map=16/52.1531/1.6024) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.1531,1.6024)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx3b6r1q7dp8b2wpaxx40s)
 
 > I walked out on to the stage of the Jubilee Hall at Aldeburgh confidently enough.

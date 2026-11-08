@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Adams Power Plant
-created: 2025-10-23
-modified: 2026-11-07T06:52:19.170Z
-published: 2026-11-07T06:52:19.170Z
 aliases:
   - Edward Dean Adams Power Plant
+title: Adams Power Plant
+created: 2025-10-23
+modified: 2026-11-07T06:52:19.000Z
+published: 2026-11-07T06:52:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Adams Power Plant.svg
 books:
   - The Hidden Engineering of Niagara Falls
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 43.0818
   - -79.0428
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Niagara Falls]]"
 image: Attachments/Places/Adams Power Plant.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Adams Power Plant.svg
 Historic hydroelectric plant at Niagara Falls, New York, near [[Niagara Falls]], that appears as the 1895 start of large-scale AC hydropower in Practical Engineering's article on the falls.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hidden Engineering of Niagara Falls]] | Wesley Crump | backdrop | Birthplace of large-scale AC power. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.0818&mlon=-79.0428#map=10/43.0818/-79.0428) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0818,-79.0428)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.0818\&mlon=-79.0428#map=10/43.0818/-79.0428) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.0818,-79.0428)
 
 ## The Hidden Engineering of Niagara Falls — Wesley Crump (2025)
+
 Source: [Original](https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls) · [Readwise highlight](https://read.readwise.io/read/01m5crev4gy7n6xzpmndgjg0pv)
 
 > In 1895, the Niagara Power Company opened the Edward Dean Adams Power Plant, built with Westinghouse AC generators based on the ideas and patents of Nikola Tesla.

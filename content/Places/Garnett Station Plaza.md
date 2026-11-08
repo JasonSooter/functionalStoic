@@ -2,12 +2,16 @@
 publish: true
 title: Garnett Station Plaza
 created: 2025-04-26
-modified: 2026-11-07T06:56:41.799Z
-published: 2026-11-07T06:56:41.799Z
+modified: 2026-11-07T06:56:42.000Z
+published: 2026-11-07T06:56:42.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Garnett Station Plaza.svg
 aliases: []
 books:
-  - Project for Public Spaces Awards Three Community Placemaking Grants to Transform
-    Public Spaces for Street Safety and Mobility
+  - Project for Public Spaces Awards Three Community Placemaking Grants to Transform Public Spaces for Street Safety and Mobility
 categories:
   - "[[Places]]"
 color: purple
@@ -18,10 +22,6 @@ icon: newspaper
 location:
   - 33.7478
   - -84.3964
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Atlanta]]"
 image: Attachments/Places/Garnett Station Plaza.svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Garnett Station Plaza.svg
 Transit plaza in South Downtown [[Atlanta]], United States, picked for a placemaking grant to turn its concrete expanse into a welcoming civic space.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Project for Public Spaces Awards Three Community Placemaking Grants to Transform Public Spaces for Street Safety and Mobility]] | Project for Public Spaces | subject | Large concrete plaza to become a welcoming, engaging space with Atlanta Downtown, MARTA Artbound and Atlanta City Studio. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.7478&mlon=-84.3964#map=10/33.7478/-84.3964) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.7478,-84.3964)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.7478\&mlon=-84.3964#map=10/33.7478/-84.3964) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.7478,-84.3964)
 
 ## Project for Public Spaces Awards Three Community Placemaking Grants to Transform Public Spaces for Street Safety and Mobility — Project for Public Spaces (2025)
+
 Source: [Original](https://www.pps.org/article/project-for-public-spaces-awards-three-community-placemaking-grants-for-street-safety-and-mobility) · [Readwise highlight](https://read.readwise.io/read/01m5e2yhngqz7dtcf4tatj7y8f)
 
 > Located in the heart of Atlanta’s South Downtown, Garnett Station Plaza connects nearby neighborhoods, major civic institutions, and cultural landmarks, and serves as a major transportation hub for Atlanta’s public transportation system, MARTA (Metropolitan Atlanta Rapid Transit Authority), and Greyhound stations.

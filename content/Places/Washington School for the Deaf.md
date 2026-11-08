@@ -2,8 +2,13 @@
 publish: true
 title: Washington School for the Deaf
 created: 2023-09-06
-modified: 2026-11-07T06:59:11.207Z
-published: 2026-11-07T06:59:11.207Z
+modified: 2026-11-07T06:59:11.000Z
+published: 2026-11-07T06:59:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Washington School for the Deaf.svg
 aliases: []
 books:
   - Meet the teacher helping Deaf students navigate the world
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 45.625
   - -122.64
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington (state)]]"
 image: Attachments/Places/Washington School for the Deaf.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Washington School for the Deaf.svg
 Bilingual ASL-English school in Vancouver, Washington. Bill Gates profiles a teacher there who prepares Deaf students for adult life.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Meet the teacher helping Deaf students navigate the world | Bill Gates | subject | The school is where teacher Dana Miles, a WSD graduate, teaches Adulting 101 classes: consumer math, Work Experience (campus coffee… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.625&mlon=-122.64#map=16/45.625/-122.64) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.625,-122.64)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.625\&mlon=-122.64#map=16/45.625/-122.64) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=45.625,-122.64)
 
 ## Meet the teacher helping Deaf students navigate the world — Bill Gates (2023)
+
 Source: [Original](https://www.gatesnotes.com/Dana-Miles-teaches-Deaf-students-how-to-advocate-for-themselves) · [Readwise highlight](https://read.readwise.io/read/01m5k8y39xfgdqd2jnwvw9cfa8)
 
 > The Washington School for the Deaf is the state’s only fully bilingual K-12 school in American Sign Language, or ASL, and English.

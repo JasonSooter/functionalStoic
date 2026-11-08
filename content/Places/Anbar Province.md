@@ -2,8 +2,13 @@
 publish: true
 title: Anbar Province
 created: 2016-07-29
-modified: 2026-11-07T06:54:35.400Z
-published: 2026-11-07T06:54:35.400Z
+modified: 2026-11-07T06:54:35.000Z
+published: 2026-11-07T06:54:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Anbar Province.svg
 aliases: []
 books:
   - The Citizen-Soldier Moral Risk and the Modern Military
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 32.9
   - 41.6
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Iraq]]"
 image: Attachments/Places/Anbar Province.svg
 ---
@@ -29,16 +30,19 @@ image: Attachments/Places/Anbar Province.svg
 Iraq's largest province, centred on Ramadi and Fallujah. Phil Klay served there as a Marine, and its base hospital grounds his essay on moral risk.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Citizen-Soldier Moral Risk and the Modern Military | Phil Klay | setting | Klay describes the carnage after a truck bombing: surgery on the floor, a Marine videographer interviewing a weeping doctor among… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.9&mlon=41.6#map=11/32.9/41.6) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.9,41.6)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.9\&mlon=41.6#map=11/32.9/41.6) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=32.9,41.6)
 
 ## Sub-places
+
 - [[Lake Habbaniyah]]
 
 ## The Citizen-Soldier Moral Risk and the Modern Military — Phil Klay (2016)
+
 Source: [Original](https://www.brookings.edu/research/essays/2016/the-citizen-soldier/) · [Readwise highlight](https://read.readwise.io/read/01m5jvpyzx1xbmxbg3wb1xjmc5)
 
 > In the first month of my deployment, a suicide truck bomber detonated among a group of families going to mosque. U.S. forces brought the injured in to our base hospital, where the line of Marines waiting to give blood was so long that it extended out the door and wrapped around the building.

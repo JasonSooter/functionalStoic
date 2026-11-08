@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Pittsburgh
-created: 2026-10-20T16:27:11.000Z
-modified: 2026-11-07T06:55:24.240Z
-published: 2026-11-07T06:55:24.240Z
+created: 2025-11-11
+modified: 2026-11-07T06:55:24.000Z
+published: 2026-11-07T06:55:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Pittsburgh.svg
 aliases: []
 books:
   - "[[17 Responses to “Year in Review - 2024”]]"
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 40.4397
   - -79.9764
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pennsylvania]]"
 image: Attachments/Places/Pittsburgh.svg
 ---
@@ -29,17 +30,20 @@ image: Attachments/Places/Pittsburgh.svg
 City at the head of the Ohio River in western [[Pennsylvania]], USA, which appears in the reading as the walking getaway in a blogger's 2024 year in review.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[17 Responses to “Year in Review - 2024”\|Year in Review: 2024]] | MG (Chasing Mailboxes) | setting | The summer trip that stood in for a bike tour. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4397&mlon=-79.9764#map=11/40.4397/-79.9764) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4397,-79.9764)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4397\&mlon=-79.9764#map=11/40.4397/-79.9764) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.4397,-79.9764)
 
 ## Sub-places
+
 - [[Carnegie Mellon University]]
 - [[Churchill Valley Greenway]]
 
 ## Year in Review: 2024 — MG (Chasing Mailboxes) (2024)
+
 Source: [[17 Responses to “Year in Review - 2024”]] · [Original](https://chasingmailboxes.com/2024/12/30/year-in-review-2024/) · [Readwise highlight](https://read.readwise.io/read/01m5d20r5v992vkkczmvyfsqkr)
 
 > Pittsburgh is such a rich city to explore. I can’t get enough of this town.

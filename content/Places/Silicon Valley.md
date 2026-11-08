@@ -2,8 +2,13 @@
 publish: true
 title: Silicon Valley
 created: 2015-11-28
-modified: 2026-11-07T06:55:27.156Z
-published: 2026-11-07T06:55:27.156Z
+modified: 2026-11-07T06:55:27.000Z
+published: 2026-11-07T06:55:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Silicon Valley.svg
 aliases: []
 books:
   - Breakneck
@@ -20,10 +25,6 @@ icon: book
 location:
   - 37.4049
   - -122.1111
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Silicon Valley.svg
 ---
@@ -41,9 +42,10 @@ Region of the San Francisco Peninsula and Santa Clara Valley in [[California]], 
 | Silicon Valley’s Unchecked Arrogance | Ross Baird | subject | Target of the essay: its belief that the future is made there. |
 | Abundance | Ezra Klein & Derek Thompson | subject | Where generative AI clusters 'within a few square miles along the California coast', the book's case for place-driven innovation. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.4049&mlon=-122.1111#map=10/37.4049/-122.1111) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4049,-122.1111)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.4049\&mlon=-122.1111#map=10/37.4049/-122.1111) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.4049,-122.1111)
 
 ## Breakneck — Dan Wang (2025)
+
 Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highlight](https://read.readwise.io/read/01m5dcn9b7aw00ycv2w2cc18pg)
 
 > Silicon Valley can be an amazingly drab place.
@@ -53,6 +55,7 @@ Source: [Original](https://openlibrary.org/works/OL42416011W) · [Readwise highl
 - **Why it matters:** Frames the book's question of why the richest tech hub is surrounded by dysfunction while China builds.
 
 ## How Silicon Valley made me think small — Steli Efti
+
 Source: [Original](http://blog.close.io/think-small) · [Readwise highlight](https://read.readwise.io/read/01m5fmrjhq2qagm3jnjkcpy1vx)
 
 > Silicon Valley made me think smaller, but act bigger.
@@ -62,6 +65,7 @@ Source: [Original](http://blog.close.io/think-small) · [Readwise highlight](htt
 - **Why it matters:** The Valley is the foil the essay turns on, the supposed home of big thinking that taught the author to think small. A generic startup hub would lose the irony of the talk's setting and the Airbnb 'came to the Valley' anecdote.
 
 ## Silicon Valley’s Unchecked Arrogance — Ross Baird (2016)
+
 Source: [Original](https://medium.com/the-development-set/silicon-valley-s-unchecked-arrogance-d86cbb8db52) · [Readwise highlight](https://read.readwise.io/read/01m5j7tzrtm1vqttztnyeyrt2y)
 
 > But Silicon Valley’s view towards the rest of the world is often one of unchecked arrogance.
@@ -71,6 +75,7 @@ Source: [Original](https://medium.com/the-development-set/silicon-valley-s-unche
 - **Why it matters:** The place is the target of the argument and its title.
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
+
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m77kn8a1a5p1d1b8vfmc5q)
 
 > New York leads the world in finance. San Francisco and Silicon Valley lead the world in technology.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Hobbiton Movie Set
-created: 2024-06-03
-modified: 2026-11-07T06:51:27.890Z
-published: 2026-11-07T06:51:27.890Z
 aliases:
   - Hobbiton film set
+title: Hobbiton Movie Set
+created: 2024-06-03
+modified: 2026-11-07T06:51:28.000Z
+published: 2026-11-07T06:51:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hobbiton Movie Set.svg
 books:
   - "[[The Hobbit]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -37.8575
   - 175.6797
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Zealand]]"
 image: Attachments/Places/Hobbiton Movie Set.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Hobbiton Movie Set.svg
 The Hobbiton Movie Set is the village of hobbit-holes built on the Alexander family's sheep farm near Matamata, New Zealand, now a tourist attraction. It is pinned for _The Hobbit_ because Peter Jackson's Hobbit films shot Hobbiton and Bag End there; it is not a place in the book.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Hobbit\|The Hobbit (Middle-Earth Universe)]] | J. R. R. Tolkien | setting | Film set near Matamata where Jackson's Hobbit films shot Bag End and Hobbiton; not a place in the book. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-37.8575&mlon=175.6797#map=16/-37.8575/175.6797) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-37.8575,175.6797)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-37.8575\&mlon=175.6797#map=16/-37.8575/175.6797) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-37.8575,175.6797)
 
 ## The Hobbit (Middle-Earth Universe) — J. R. R. Tolkien (1937)
+
 Source: [[The Hobbit]] · [Original](https://openlibrary.org/works/OL27482W) · [Readwise highlight](https://read.readwise.io/read/01m5m777qddbea4tthdfm580b5)
 
 > It had a perfectly round door like a porthole, painted green, with a shiny yellow brass knob in the exact middle.

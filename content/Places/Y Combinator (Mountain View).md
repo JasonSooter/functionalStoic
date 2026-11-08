@@ -2,8 +2,13 @@
 publish: true
 title: Y Combinator (Mountain View)
 created: 2016-10-06
-modified: 2026-11-07T07:01:56.443Z
-published: 2026-11-07T07:01:56.443Z
+modified: 2026-11-07T07:01:56.000Z
+published: 2026-11-07T07:01:56.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Y Combinator (Mountain View).svg
 aliases: []
 books:
   - Sam Altman’s Manifest Destiny – The New Yorker
@@ -11,17 +16,12 @@ categories:
   - "[[Places]]"
 color: purple
 coordinates: 37.3863,-122.0669
-geo_note: approximate (Y Combinator office, 335 Pioneer Way, Mountain View; 'early
-  offices' not verified)
+geo_note: approximate (Y Combinator office, 335 Pioneer Way, Mountain View; 'early offices' not verified)
 geo_source: OSM way 206130794
 icon: newspaper
 location:
   - 37.3863
   - -122.0669
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Y Combinator (Mountain View).svg
 ---
@@ -31,13 +31,15 @@ image: Attachments/Places/Y Combinator (Mountain View).svg
 Y Combinator's offices in Mountain View, California. The New Yorker's Sam Altman profile describes the crowded cube.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Sam Altman’s Manifest Destiny – The New Yorker | Tad Friend | backdrop | YC outgrew a cube shared with a robot company, then a second cube across the street, and is near the fire-code limit there too |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3863&mlon=-122.0669#map=10/37.3863/-122.0669) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.3863,-122.0669)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3863\&mlon=-122.0669#map=10/37.3863/-122.0669) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.3863,-122.0669)
 
 ## Sam Altman’s Manifest Destiny – The New Yorker — Tad Friend (2016)
+
 Source: [Original](https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny) · [Readwise highlight](https://read.readwise.io/read/01m5jy8jkf794e48cazf17txf3)
 
 > As YC grew, it moved to an exurban office cube in the town of Mountain View, an hour south of San Francisco, where it shared space with a company called Anybots.

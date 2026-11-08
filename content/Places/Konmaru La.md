@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Konmaru La
-created: 2025-12-19
-modified: 2026-11-07T06:59:09.911Z
-published: 2026-11-07T06:59:09.911Z
 aliases:
   - Kongmaru La
   - Gongmaru La
+title: Konmaru La
+created: 2025-12-19
+modified: 2026-11-07T06:59:10.000Z
+published: 2026-11-07T06:59:10.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Konmaru La.svg
 books:
   - "Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky"
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 33.8142
   - 77.6037
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Ladakh]]"
 image: Attachments/Places/Konmaru La.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Konmaru La.svg
 High pass (5,250 m, per the text) at the head of the [[Markha Valley]], [[Ladakh]], India, the brutal climax of a bikepacking ride described in The Radavist.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Touring the Indian Himalayas - Bikepacking the Markha Valley – Jan Zdansky\|Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky]] | The Radavist | turning point | The crux: pushing a loaded bike to 5,250 metres in snow with altitude sickness. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.8142&mlon=77.6037#map=16/33.8142/77.6037) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.8142,77.6037)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.8142\&mlon=77.6037#map=16/33.8142/77.6037) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.8142,77.6037)
 
 ## Touring the Indian Himalayas: Bikepacking the Markha Valley – Jan Zdansky — The Radavist (2025)
+
 Source: [Original](https://theradavist.com/touring-the-indian-himalayas-bikepacking-the-markha-valley) · [Readwise highlight](https://read.readwise.io/read/01m5ce3bjztrn7cngax0svvgn7)
 
 > Nimaling is an improvised camp with prepared tents and, most importantly, the possibility of refreshment. I settled my upset stomach with black tea and got to it: the final, most brutal section up to the 5,250-meter-high Konmaru La Pass.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Grand Est
-created: 2026-10-29
-modified: 2026-11-07T06:59:54.702Z
-published: 2026-11-07T06:59:54.702Z
 aliases:
   - Grand-Est
   - Région Grand Est
+title: Grand Est
+created: 2026-10-29
+modified: 2026-11-07T06:59:55.000Z
+published: 2026-11-07T06:59:55.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Grand Est.svg
 books:
   - "To France with the Deutschlandticket: Here's How"
 categories:
@@ -19,10 +24,6 @@ icon: newspaper
 location:
   - 48.7544
   - 5.8517
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[France]]"
 image: Attachments/Places/Grand Est.svg
 ---
@@ -37,13 +38,14 @@ Region of north-eastern France, made up of Alsace, Lorraine and Champagne-Ardenn
 |---|---|---|---|
 | To France with the Deutschlandticket: Here's How | VAG Freiburg | subject | Under-28 D-Ticket holders from BW, RLP and Saarland ride TER Fluo trains and buses free here, 1 July to 31 August 2026. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.7544&mlon=5.8517#map=11/48.7544/5.8517) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.7544,5.8517)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.7544\&mlon=5.8517#map=11/48.7544/5.8517) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.7544,5.8517)
 
 ## Sub-places
 
 - [[Alsace]]
 
 ## To France with the Deutschlandticket: Here's How — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/mit-dem-deutschlandticket-nach-frankreich-so-gehts/) · [Readwise highlight](https://read.readwise.io/read/01m64yyhhe1easkgwgr5xfn7ge)
 
 > Thanks to a special arrangement, you can reach attractive destinations in the French Grand Est region from Freiburg.

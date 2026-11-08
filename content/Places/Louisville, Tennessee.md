@@ -2,8 +2,13 @@
 publish: true
 title: Louisville, Tennessee
 created: 2016-07-13
-modified: 2026-11-07T06:51:38.335Z
-published: 2026-11-07T06:51:38.335Z
+modified: 2026-11-07T06:51:38.000Z
+published: 2026-11-07T06:51:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Louisville, Tennessee.svg
 aliases: []
 books:
   - How Mentors and Scholarships Help Community College Students Succeed
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 35.8247
   - -84.0553
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Tennessee]]"
 image: Attachments/Places/Louisville, Tennessee.svg
 ---
@@ -29,16 +30,19 @@ image: Attachments/Places/Louisville, Tennessee.svg
 Small town in Blount County, Tennessee. Home of the community-college student KQED profiles.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How Mentors and Scholarships Help Community College Students Succeed | Holly Korbey | setting | Sarah Goins, the student profiled, lives here, works two jobs and considers a machining certificate to work at the local Alcoa aluminum… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.8247&mlon=-84.0553#map=11/35.8247/-84.0553) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.8247,-84.0553)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.8247\&mlon=-84.0553#map=11/35.8247/-84.0553) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=35.8247,-84.0553)
 
 ## Sub-places
+
 _None yet._
 
 ## How Mentors and Scholarships Help Community College Students Succeed — Holly Korbey (2016)
+
 Source: [Original](https://ww2.kqed.org/mindshift/2016/06/28/how-mentors-and-scholarships-help-community-college-students-succeed/) · [Readwise highlight](https://read.readwise.io/read/01m5jx5t0e4nnw5bpcnedq5g32)
 
 > High school senior Sarah Goins of Louisville, Tennessee, drove in her first drag race at age 7 in a smaller version of a drag car called a junior; now, at 18, she just graduated to her own full-size car.

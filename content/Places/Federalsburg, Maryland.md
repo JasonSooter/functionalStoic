@@ -2,8 +2,13 @@
 publish: true
 title: Federalsburg, Maryland
 created: 2016-06-24
-modified: 2026-11-07T06:53:21.398Z
-published: 2026-11-07T06:53:21.398Z
+modified: 2026-11-07T06:53:21.000Z
+published: 2026-11-07T06:53:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Federalsburg, Maryland.svg
 aliases: []
 books:
   - Don’t F*ck With Our Eagles
@@ -16,30 +21,28 @@ icon: newspaper
 location:
   - 38.6911
   - -75.7733
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Maryland]]"
 image: Attachments/Places/Federalsburg, Maryland.svg
 ---
 
 # Federalsburg, Maryland
 
-Town in Caroline County, Maryland. A subject in Mark Hay's “Don’t F*ck With Our Eagles”: Site where 13 bald eagles were found dead on 20 February 2016, prompting a $25,000 bounty.
+Town in Caroline County, Maryland. A subject in Mark Hay's “Don’t F\*ck With Our Eagles”: Site where 13 bald eagles were found dead on 20 February 2016, prompting a \$25,000 bounty.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Don’t F*ck With Our Eagles | Mark Hay | subject | Site where 13 bald eagles were found dead on 20 February 2016, prompting a $25,000 bounty |
+| Don’t F\*ck With Our Eagles | Mark Hay | subject | Site where 13 bald eagles were found dead on 20 February 2016, prompting a \$25,000 bounty |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6911&mlon=-75.7733#map=16/38.6911/-75.7733) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6911,-75.7733)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.6911\&mlon=-75.7733#map=16/38.6911/-75.7733) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.6911,-75.7733)
 
-## Don’t F*ck With Our Eagles — Mark Hay (2016)
+## Don’t F\*ck With Our Eagles — Mark Hay (2016)
+
 Source: [Original](http://www.good.is/posts/someone-or-something-is-killing-bald-eagles) · [Readwise highlight](https://read.readwise.io/read/01m5jjr04hhcg4nhnnxe33kwtk)
 
-> Rage only built when Maryland officials concluded last week that the 13 eagles there did not die of natural causes and put up a $25,000 bounty for information that could lead them to the people behind the attack.
+> Rage only built when Maryland officials concluded last week that the 13 eagles there did not die of natural causes and put up a \$25,000 bounty for information that could lead them to the people behind the attack.
 
 - **Role:** subject
-- **In the article:** On February 20, locals in Federalsburg, Maryland, found 13 bald eagles dead in one of the largest die-offs in recent memory. Maryland officials later concluded the birds did not die of natural causes and posted a $25,000 bounty for information on those responsible.
+- **In the article:** On February 20, locals in Federalsburg, Maryland, found 13 bald eagles dead in one of the largest die-offs in recent memory. Maryland officials later concluded the birds did not die of natural causes and posted a \$25,000 bounty for information on those responsible.
 - **Why it matters:** It is the first of two die-off sites that drive the article's alarm about someone or something killing bald eagles; the piece gives no more detail about the town itself.

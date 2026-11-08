@@ -2,11 +2,16 @@
 publish: true
 title: Strait of Messina
 created: 2026-04-26
-modified: 2026-11-07T06:59:51.175Z
-published: 2026-11-07T06:59:51.175Z
+modified: 2026-11-07T06:59:51.000Z
+published: 2026-11-07T06:59:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Strait of Messina.svg
 aliases: []
 books:
-  - "Ranking EVERY night train in Europe: Italy \U0001F1EE\U0001F1F9"
+  - "Ranking EVERY night train in Europe: Italy 🇮🇹"
 categories:
   - "[[Places]]"
 color: purple
@@ -15,10 +20,6 @@ icon: video
 location:
   - 38.2458
   - 15.6325
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Strait of Messina.svg
 ---
 
@@ -27,13 +28,15 @@ image: Attachments/Places/Strait of Messina.svg
 Strait between Calabria and Sicily (see [[Italy]] and [[Sicily]]). It appears in Simply Railway's night-train ranking, where Sicily-bound trains are loaded onto a ferry to cross it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Ranking EVERY night train in Europe: Italy 🇮🇹 | Simply Railway | turning point | Night trains to Sicily are shunted onto a ferry to cross the strait. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.2458&mlon=15.6325#map=16/38.2458/15.6325) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.2458,15.6325)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.2458\&mlon=15.6325#map=16/38.2458/15.6325) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.2458,15.6325)
 
 ## Ranking EVERY night train in Europe: Italy 🇮🇹 — Simply Railway (2026)
+
 Source: [Original](https://www.youtube.com/shorts/aan3t67lxfU) · [Readwise highlight](https://read.readwise.io/read/01m5bs79ezbftarykj34akf5b2)
 
 > Train are literally loaded into a boat to cross the straight of Mesina to reach the island of Sicily.

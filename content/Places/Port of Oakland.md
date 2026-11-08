@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Port of Oakland
-created: 2026-10-22T01:44:42.000Z
-modified: 2026-11-07T06:56:29.750Z
-published: 2026-11-07T06:56:29.750Z
+created: 2015-10-28
+modified: 2026-11-07T06:56:30.000Z
+published: 2026-11-07T06:56:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Port of Oakland.svg
 aliases: []
 books:
   - Why Aren’t America’s Shipping Ports Automated?
@@ -17,10 +22,6 @@ icon: newspaper
 location:
   - 37.7958
   - -122.2788
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Oakland]]"
 image: Attachments/Places/Port of Oakland.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Port of Oakland.svg
 Container port on San Francisco Bay in [[Oakland]], California. Priceonomics uses it as its example of an un-automated American port.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Aren’t America’s Shipping Ports Automated? | Priceonomics | subject | Gantry cranes that are 'money-printing machines', yet every crane and truck still has a human operator. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7958&mlon=-122.2788#map=10/37.7958/-122.2788) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7958,-122.2788)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.7958\&mlon=-122.2788#map=10/37.7958/-122.2788) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.7958,-122.2788)
 
 ## Why Aren’t America’s Shipping Ports Automated? — Priceonomics (2015)
+
 Source: [Original](http://priceonomics.com/why-arent-americas-shipping-ports-automated/) · [Readwise highlight](https://read.readwise.io/read/01m5gm1an6jfdmm88c9fba1d3r)
 
 > The massive cranes that sit at the Port of Oakland are veritable money-printing machines.

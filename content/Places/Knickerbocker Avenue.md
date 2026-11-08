@@ -2,8 +2,13 @@
 publish: true
 title: Knickerbocker Avenue
 created: 2025-11-23
-modified: 2026-11-07T06:58:47.440Z
-published: 2026-11-07T06:58:47.440Z
+modified: 2026-11-07T06:58:47.000Z
+published: 2026-11-07T06:58:47.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Knickerbocker Avenue.svg
 aliases: []
 books:
   - "[[Another Brooklyn]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.6987
   - -73.9184
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bushwick]]"
 image: Attachments/Places/Knickerbocker Avenue.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Knickerbocker Avenue.svg
 Shopping street in [[Bushwick]], Brooklyn, New York City, USA, part of the neighbourhood of freedom and danger in Another Brooklyn.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Another Brooklyn]] | Jacqueline Woodson | backdrop | Part of the widening map of the children's freedom, and of its dangers. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.6987&mlon=-73.9184#map=10/40.6987/-73.9184) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.6987,-73.9184)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.6987\&mlon=-73.9184#map=10/40.6987/-73.9184) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.6987,-73.9184)
 
 ## Another Brooklyn — Jacqueline Woodson (2016)
+
 Source: [[Another Brooklyn]] · [Original](https://www.jacquelinewoodson.com/product/another-brooklyn/) · [Readwise highlight](https://read.readwise.io/read/01m5dcmwdqcjcq4wtm4e2dtmxc)
 
 > Down on Knickerbocker a girl ran out of her house, her robe on fire. By the time she was safe, she was naked.

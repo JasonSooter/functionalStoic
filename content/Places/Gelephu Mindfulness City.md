@@ -1,29 +1,29 @@
 ---
 publish: true
-title: Gelephu Mindfulness City
-created: 2025-10-23
-modified: 2026-11-07T06:57:07.880Z
-published: 2026-11-07T06:57:07.880Z
 aliases:
   - GMC
   - Gelephu
+title: Gelephu Mindfulness City
+created: 2025-10-23
+modified: 2026-11-07T06:57:08.000Z
+published: 2026-11-07T06:57:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gelephu Mindfulness City.svg
 books:
   - Why Bhutan is Building the Anti-Dubai
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 26.8706,90.4856
-geo_note: approximate (Gelephu town, the city's host settlement; GMC itself spans
-  a large area around it)
+geo_note: approximate (Gelephu town, the city's host settlement; GMC itself spans a large area around it)
 geo_source: Wikipedia (en) Gelephu; OSM node 7965980336
 icon: video
 location:
   - 26.8706
   - 90.4856
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Bhutan]]"
 image: Attachments/Places/Gelephu Mindfulness City.svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/Gelephu Mindfulness City.svg
 Planned special administrative city at Gelephu, southern [[Bhutan]], and the subject of a B1M video on Bhutan's mindful alternative to Dubai-style new cities.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Why Bhutan is Building the Anti-Dubai | The B1M | subject | Planned special administrative city unveiled in December 2023 on the plains of southern Bhutan to stem youth emigration. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=26.8706&mlon=90.4856#map=10/26.8706/90.4856) · [Google Maps](https://www.google.com/maps/search/?api=1&query=26.8706,90.4856)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=26.8706\&mlon=90.4856#map=10/26.8706/90.4856) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=26.8706,90.4856)
 
 ## Why Bhutan is Building the Anti-Dubai — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=hPlRmUv7qzo) · [Readwise highlight](https://read.readwise.io/read/01m5dqwwt44vb0jphx7tvm0q9f)
 
 > Gelephu Mindfulness City. Spanning an area around the size of Hong Kong

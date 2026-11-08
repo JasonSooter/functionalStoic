@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Hoover Tower
-created: 2024-05-18
-modified: 2026-11-07T06:52:00.528Z
-published: 2026-11-07T06:52:00.528Z
 aliases:
   - Hoover Library
   - Hoover Institution Library
+title: Hoover Tower
+created: 2024-05-18
+modified: 2026-11-07T06:52:01.000Z
+published: 2026-11-07T06:52:01.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hoover Tower.svg
 books:
   - Stranger in a Strange Land
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 37.4276
   - -122.1669
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Stanford University]]"
 image: Attachments/Places/Hoover Tower.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Hoover Tower.svg
 Tower of the Hoover Institution library at [[Stanford University]], Palo Alto. In Stranger in a Strange Land (Robert A. Heinlein) Mike tries to read the whole 'Hoover Library'.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | journey waypoint | Mike tries and fails to swallow the whole Hoover Library 'in mammoth gulps'. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.4276&mlon=-122.1669#map=16/37.4276/-122.1669) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4276,-122.1669)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.4276\&mlon=-122.1669#map=16/37.4276/-122.1669) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.4276,-122.1669)
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
+
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > They stopped in Palo Alto long enough for Mike to try (and fail to) swallow all the Hoover Library in mammoth gulps.

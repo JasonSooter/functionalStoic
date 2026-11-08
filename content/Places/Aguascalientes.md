@@ -2,8 +2,13 @@
 publish: true
 title: Aguascalientes
 created: 2025-01-16
-modified: 2026-11-07T06:52:27.490Z
-published: 2026-11-07T06:52:27.490Z
+modified: 2026-11-07T06:52:27.000Z
+published: 2026-11-07T06:52:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Aguascalientes.svg
 aliases: []
 books:
   - "The Underdogs: A Novel of the Mexican Revolution"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 21.8805
   - -102.2967
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico]]"
 image: Attachments/Places/Aguascalientes.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Aguascalientes.svg
 City in central Mexico, seat of the 1914 revolutionary convention. In The Underdogs Demetrio's men find its streets filthy and full of soldiers.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Underdogs: A Novel of the Mexican Revolution | Mariano Azuela | setting | Demetrio's men eat badly in a small inn, pass a street vendor selling prayers and charms, and reach General Natera, who explains that… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.8805&mlon=-102.2967#map=16/21.8805/-102.2967) · [Google Maps](https://www.google.com/maps/search/?api=1&query=21.8805,-102.2967)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.8805\&mlon=-102.2967#map=16/21.8805/-102.2967) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=21.8805,-102.2967)
 
 ## The Underdogs: A Novel of the Mexican Revolution — Mariano Azuela (1915)
+
 Source: [Original](https://openlibrary.org/works/OL1209983W) · [Readwise highlight](https://read.readwise.io/read/01m5k8zatpmqpmmpnhcvehm04n)
 
 > The streets in Aguascalientes were so many refuse piles.

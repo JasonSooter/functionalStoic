@@ -2,8 +2,13 @@
 publish: true
 title: Budapest
 created: 2024-10-10
-modified: 2026-11-07T07:03:06.058Z
-published: 2026-11-07T07:03:06.058Z
+modified: 2026-11-07T07:03:06.000Z
+published: 2026-11-07T07:03:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Budapest.svg
 aliases: []
 books:
   - "[[Living Danishly in Budapest]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 47.4925
   - 19.0514
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hungary]]"
 image: Attachments/Places/Budapest.svg
 ---
@@ -30,14 +31,16 @@ image: Attachments/Places/Budapest.svg
 Capital of Hungary, on the Danube. Helen Russell writes a newsletter from a hotel there during a flood, before a talk.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Living Danishly in Budapest\|Living Danishly in Budapest?]] | Helen Russell | setting | Writing from a flooded city before speaking at PszichoFest for her Hungarian launch. |
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | setting | A smoky Budapest chess club where four-year-old Susan Polgar beats a grown man in her first game. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.4925&mlon=19.0514#map=16/47.4925/19.0514) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4925,19.0514)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.4925\&mlon=19.0514#map=16/47.4925/19.0514) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=47.4925,19.0514)
 
 ## Living Danishly in Budapest? — Helen Russell (2024)
+
 Source: [[Living Danishly in Budapest]] · [Original](https://mshelenrussell.substack.com/p/living-danishly-in-budapest) · [Readwise highlight](https://read.readwise.io/read/01m5f0q1nryad4n0jh6gx1j27v)
 
 > I’m writing this from a hotel in Budapest, looking out at a Danube that has burst her banks, reaching the highest water levels for a decade.
@@ -47,6 +50,7 @@ Source: [[Living Danishly in Budapest]] · [Original](https://mshelenrussell.sub
 - **Why it matters:** The city's flooded, unsettled state frames her question of whether 'living Danishly' travels. It is the setting of the whole post.
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
+
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jjryx5m08fsgb6nfnbsf7j)
 
 > After eight months of study, Laszlo took her to a smoky chess club in Budapest and challenged grown men to play his four-year-old daughter, whose legs dangled from her chair.

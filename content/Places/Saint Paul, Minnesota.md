@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Saint Paul, Minnesota
-created: 2015-07-28
-modified: 2026-11-07T07:02:59.471Z
-published: 2026-11-07T07:02:59.471Z
 aliases:
   - St. Paul
   - St Paul
+title: Saint Paul, Minnesota
+created: 2015-07-28
+modified: 2026-11-07T07:02:59.000Z
+published: 2026-11-07T07:02:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Saint Paul, Minnesota.svg
 books:
   - Minimalism For All
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 44.9478
   - -93.1039
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Minnesota]]"
 image: Attachments/Places/Saint Paul, Minnesota.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Saint Paul, Minnesota.svg
 Capital of [[Minnesota]], on the Mississippi. In a LifeEdited guest post a family describes downtown Saint Paul as a walkable paradise for small children.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Minimalism For All | David Friedlander | setting | A family moves downtown and finds the skyway-linked core a toddler paradise within walking distance. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.9478&mlon=-93.1039#map=16/44.9478/-93.1039) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.9478,-93.1039)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.9478\&mlon=-93.1039#map=16/44.9478/-93.1039) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.9478,-93.1039)
 
 ## Minimalism For All — David Friedlander (2015)
+
 Source: [Original](https://lifeedited.com/minimalism-for-all/) · [Readwise highlight](https://read.readwise.io/read/01m5ga13cpf16zew23g6xv3ffe)
 
 > I also was gobsmacked that we seemed to be the only family living downtown St. Paul

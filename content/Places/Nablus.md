@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Nablus
-created: 2026-10-22T16:49:31.000Z
-modified: 2026-11-07T07:00:44.823Z
-published: 2026-11-07T07:00:44.823Z
+created: 2024-12-21
+modified: 2026-11-07T07:00:45.000Z
+published: 2026-11-07T07:00:45.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Nablus.svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 32.2211
   - 35.2608
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Bank]]"
 image: Attachments/Places/Nablus.svg
 ---
@@ -29,16 +30,19 @@ image: Attachments/Places/Nablus.svg
 City in the northern West Bank. Home of the falconer Hassan's refugee family in _Apeirogon_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | setting | A displaced family builds upward for its falcons and keeps the keys of a lost house. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.2211&mlon=35.2608#map=11/32.2211/35.2608) · [Google Maps](https://www.google.com/maps/search/?api=1&query=32.2211,35.2608)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=32.2211\&mlon=35.2608#map=11/32.2211/35.2608) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=32.2211,35.2608)
 
 ## Sub-places
+
 - [[Beit Falasteen]]
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5j7wzct311n61tde5s8t0zk)
 
 > Hassan and his family—and their falcons—eventually ended up in the mud streets of Nablus.

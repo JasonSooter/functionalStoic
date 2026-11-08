@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Nusantara
-created: 2026-10-20T22:55:06.000Z
-modified: 2026-11-07T06:51:24.746Z
-published: 2026-11-07T06:51:24.746Z
 aliases:
   - IKN
   - Nusantara (city)
+title: Nusantara
+created: 2025-07-02
+modified: 2026-11-07T06:51:25.000Z
+published: 2026-11-07T06:51:25.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Nusantara.svg
 books:
   - The $40BN Plan to Save The World’s Fastest Sinking City
 categories:
@@ -18,10 +23,6 @@ icon: video
 location:
   - -0.9731
   - 116.7086
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Indonesia]]"
 image: Attachments/Places/Nusantara.svg
 ---
@@ -31,17 +32,19 @@ image: Attachments/Places/Nusantara.svg
 Indonesia's planned new capital in East Kalimantan, Borneo ([[Indonesia]]), which a B1M video presents as the government's choice to move the capital rather than fix sinking Jakarta.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| [[The $40BN Plan to Save the World’s Fastest Sinking City\|The $40BN Plan to Save The World’s Fastest Sinking City]] | The B1M | subject | New capital begun in 2022 at about $35 billion, planned in five phases to finish by 2045. |
+| [[The $40BN Plan to Save the World’s Fastest Sinking City\|The $40BN Plan to Save The World’s Fastest Sinking City]] | The B1M | subject | New capital begun in 2022 at about \$35 billion, planned in five phases to finish by 2045. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-0.9731&mlon=116.7086#map=16/-0.9731/116.7086) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-0.9731,116.7086)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-0.9731\&mlon=116.7086#map=16/-0.9731/116.7086) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-0.9731,116.7086)
 
-## The $40BN Plan to Save The World’s Fastest Sinking City — The B1M (2025)
+## The \$40BN Plan to Save The World’s Fastest Sinking City — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=B7PHRVQgTKM) · [Readwise highlight](https://read.readwise.io/read/01m5dqxnt4vkxcq7t8y1tfgenj)
 
 > The city is called Nusantara
 
 - **Role:** subject
-- **In the video:** Indonesia is building a new capital, Nusantara, begun in 2022 at about $35 billion and planned in five phases to finish by 2045. It has a Garuda-shaped presidential palace and highways, but has displaced Balik people, encroached on orangutan habitat and lost investors like SoftBank.
+- **In the video:** Indonesia is building a new capital, Nusantara, begun in 2022 at about \$35 billion and planned in five phases to finish by 2045. It has a Garuda-shaped presidential palace and highways, but has displaced Balik people, encroached on orangutan habitat and lost investors like SoftBank.
 - **Why it matters:** The 'flee' half of the story: the government's decision to move the capital rather than fix Jakarta.

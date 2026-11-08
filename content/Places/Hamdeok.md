@@ -1,28 +1,28 @@
 ---
 publish: true
-title: Hamdeok
-created: 2025-10-03
-modified: 2026-11-07T07:02:11.274Z
-published: 2026-11-07T07:02:11.274Z
 aliases:
   - Hamdeok-ri
+title: Hamdeok
+created: 2025-10-03
+modified: 2026-11-07T07:02:11.000Z
+published: 2026-11-07T07:02:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hamdeok.svg
 books:
   - The Island of Sea Women
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 33.5439,126.6696
-geo_note: approximate (Hamdeok Beach, not village centre; village OSM relation 18381948
-  centre is 33.5348,126.6641)
+geo_note: approximate (Hamdeok Beach, not village centre; village OSM relation 18381948 centre is 33.5348,126.6641)
 geo_source: Wikidata Q111850850
 icon: book
 location:
   - 33.5439
   - 126.6696
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jeju Island]]"
 image: Attachments/Places/Hamdeok.svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/Hamdeok.svg
 Coastal village and beach in Jocheon-eup, three kilometres west of Bukchon on Jeju. In _The Island of Sea Women_ it is Mi-ja's home on the base and the police post where trust between the friends breaks.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Island of Sea Women | Lisa See | turning point | Police fire on Bukchon villagers at the Hamdeok station, and Young-sook sees Sang-mun inside. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.5439&mlon=126.6696#map=10/33.5439/126.6696) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.5439,126.6696)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.5439\&mlon=126.6696#map=10/33.5439/126.6696) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.5439,126.6696)
 
 ## The Island of Sea Women — Lisa See (2019)
+
 Source: [Original](https://openlibrary.org/works/OL19865296W) · [Readwise highlight](https://read.readwise.io/read/01m5kvcp4rwbrh8p0fkxfjc59m)
 
 > Instead, I watched in horror as some policemen came out on the roof, ran to a mounted machine gun, and, without warning, began to fire.

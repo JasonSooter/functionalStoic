@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Grand Banks
-created: 2025-08-29
-modified: 2026-11-07T06:58:58.692Z
-published: 2026-11-07T06:58:58.692Z
 aliases:
   - Grand Bank
+title: Grand Banks
+created: 2025-08-29
+modified: 2026-11-07T06:58:59.000Z
+published: 2026-11-07T06:58:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Grand Banks.svg
 books:
   - Captains Courageous
   - "[[Cod]]"
@@ -19,10 +24,6 @@ icon: book
 location:
   - 45.2369
   - -50.9892
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Newfoundland and Labrador]]"
 image: Attachments/Places/Grand Banks.svg
 ---
@@ -32,17 +33,20 @@ image: Attachments/Places/Grand Banks.svg
 Shallow fishing grounds in the Atlantic off Newfoundland. In Captains Courageous (Rudyard Kipling) they are where Harvey Cheyne is rescued and learns to fish.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Captains Courageous | Rudyard Kipling | setting | Fog-bound cod grounds where Harvey falls from a liner and spends a season fishing in dories. |
 | [[Cod]] | Mark Kurlansky | subject | The great cod grounds: the Basques' secret, worked by fleets for 500 years until the 1992 moratorium. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.2369&mlon=-50.9892#map=11/45.2369/-50.9892) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.2369,-50.9892)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.2369\&mlon=-50.9892#map=11/45.2369/-50.9892) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=45.2369,-50.9892)
 
 ## Sub-places
+
 - [[Virgin Rocks]]
 
 ## Captains Courageous — Rudyard Kipling (1897)
+
 Source: [Original](https://openlibrary.org/works/OL20173W) · [Readwise highlight](https://read.readwise.io/read/01m5gapcztepdevd6y2a7nnksh)
 
 > But Disko’s board was the Grand Bank—a triangle two hundred and fifty miles on each side
@@ -52,6 +56,7 @@ Source: [Original](https://openlibrary.org/works/OL20173W) · [Readwise highligh
 - **Why it matters:** The Banks are the book's world; the boy is remade by the work there.
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
+
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kksapqkb7h17tdd23pd67v)
 
 > Depths as great as eighty fathoms are found there, but also areas of fifteen or twenty fathoms and less.

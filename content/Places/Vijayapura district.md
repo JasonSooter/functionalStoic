@@ -1,15 +1,19 @@
 ---
 publish: true
-title: Vijayapura district
-created: 2025-10-05
-modified: 2026-11-07T06:57:27.294Z
-published: 2026-11-07T06:57:27.294Z
 aliases:
   - Vijayapura
   - Bijapur district
+title: Vijayapura district
+created: 2025-10-05
+modified: 2026-11-07T06:57:27.000Z
+published: 2026-11-07T06:57:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Vijayapura district.svg
 books:
-  - How a District in India Came Together to Plant 15 Million Trees - The New York
-    Times
+  - How a District in India Came Together to Plant 15 Million Trees - The New York Times
 categories:
   - "[[Places]]"
 color: purple
@@ -20,10 +24,6 @@ icon: newspaper
 location:
   - 16.6667
   - 75.9167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Karnataka]]"
 image: Attachments/Places/Vijayapura district.svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/Vijayapura district.svg
 District in northern [[Karnataka]], India, which is the subject of a New York Times article on its planting of more than 15 million trees in a decade.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How a District in India Came Together to Plant 15 Million Trees | Karan Deep Singh | subject | An arid district that planted 15 million trees in a decade. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=16.6667&mlon=75.9167#map=10/16.6667/75.9167) · [Google Maps](https://www.google.com/maps/search/?api=1&query=16.6667,75.9167)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=16.6667\&mlon=75.9167#map=10/16.6667/75.9167) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=16.6667,75.9167)
 
 ## How a District in India Came Together to Plant 15 Million Trees — Karan Deep Singh (2025)
+
 Source: [Original](https://www.nytimes.com/card/2025/09/02/headway/trees-india-vijayapura) · [Readwise highlight](https://read.readwise.io/read/01m5d20hddwgwbacay2gvx40vm)
 
 > Over the last decade, Vijayapura has planted and sustained more than 15 million trees, transforming the region from arid to green.

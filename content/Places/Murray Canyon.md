@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Murray Canyon
-created: 2026-10-21T04:44:55.000Z
-modified: 2026-11-07T07:00:03.289Z
-published: 2026-11-07T07:00:03.289Z
+created: 2020-01-19
+modified: 2026-11-07T07:00:03.000Z
+published: 2026-11-07T07:00:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Murray Canyon.svg
 aliases: []
 books:
   - "[[How to Do Nothing — Reader's Companion]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 33.7595
   - -116.5476
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Palm Springs]]"
 image: Attachments/Places/Murray Canyon.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Murray Canyon.svg
 Canyon trail on the Agua Caliente Cahuilla reservation near [[Palm Springs]], California. It is where Jenny Odell uses iNaturalist to name plants and animals in How to Do Nothing.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[How to Do Nothing — Reader's Companion\|How to Do Nothing]] | Jenny Odell | setting | Walking the canyon she uses iNaturalist to name brittlebush, fan palms, a phainopepla and a chuckwalla. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.7595&mlon=-116.5476#map=10/33.7595/-116.5476) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.7595,-116.5476)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.7595\&mlon=-116.5476#map=10/33.7595/-116.5476) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.7595,-116.5476)
 
 ## How to Do Nothing — Jenny Odell (2019)
+
 Source: [[How to Do Nothing — Reader's Companion]] · [[How to Do Nothing]] · [Original](https://openlibrary.org/works/OL20078135W) · [Readwise highlight](https://read.readwise.io/read/01m5ebvb3fczkekhzs9jr6h0bd)
 
 > I took a cab out to Murray Canyon, a trail maintained by the Agua Caliente Band of Cahuilla Indians on their reservation.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Portsmouth Harbour
-created: 2026-10-23T11:15:28.000Z
-modified: 2026-11-07T06:56:36.647Z
-published: 2026-11-07T06:56:36.647Z
 aliases:
   - Portsmouth
+title: Portsmouth Harbour
+created: 2026-10-23
+modified: 2026-11-07T06:56:37.000Z
+published: 2026-11-07T06:56:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Portsmouth Harbour.svg
 books:
   - "[[Candide]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 50.8235
   - -1.1228
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 image: Attachments/Places/Portsmouth Harbour.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Portsmouth Harbour.svg
 Portsmouth Harbour is the natural harbour of Portsmouth on England's south coast, base of the Royal Navy. In _Candide_ it is where Candide watches an admiral shot on his own ship 'to encourage the others'.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Candide]] | Voltaire | turning point | Candide watches an admiral shot on a warship 'to encourage the others' and refuses to set foot in England |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.8235&mlon=-1.1228#map=16/50.8235/-1.1228) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.8235,-1.1228)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.8235\&mlon=-1.1228#map=16/50.8235/-1.1228) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.8235,-1.1228)
 
 ## Candide — Voltaire (1759)
+
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75mdk3cqcahg5b02w6ftm)
 
 > Talking thus they arrived at Portsmouth.

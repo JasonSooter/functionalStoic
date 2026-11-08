@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Kunsthistorisches Museum
-created: 2026-08-26
-modified: 2026-11-07T06:59:31.593Z
-published: 2026-11-07T06:59:31.593Z
 aliases:
   - Kunsthistorische Museum
   - Museum of Fine Arts, Vienna
+title: Kunsthistorisches Museum
+created: 2026-08-26
+modified: 2026-11-07T06:59:32.000Z
+published: 2026-11-07T06:59:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kunsthistorisches Museum.svg
 books:
   - Neither Here Nor There
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 48.2039
   - 16.3616
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Vienna]]"
 image: Attachments/Places/Kunsthistorisches Museum.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Kunsthistorisches Museum.svg
 The great art museum on the Ringstrasse in [[Vienna|Vienna]], Austria, whose endless halls give Bill Bryson museum fatigue in Neither Here Nor There.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | A fabulous museum so big it gives Bryson museum fatigue a third of the way through. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2039&mlon=16.3616#map=16/48.2039/16.3616) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.2039,16.3616)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.2039\&mlon=16.3616#map=16/48.2039/16.3616) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.2039,16.3616)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5bek50hdj1pec8ksnt78xcw)
 
 > I decided to start at the top with the Kunsthistorische Museum. It was fabulous—vast, grand, full of great paintings.

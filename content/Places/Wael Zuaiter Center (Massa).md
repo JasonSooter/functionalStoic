@@ -2,8 +2,13 @@
 publish: true
 title: Wael Zuaiter Center (Massa)
 created: 2024-12-21
-modified: 2026-11-07T06:57:56.797Z
-published: 2026-11-07T06:57:56.797Z
+modified: 2026-11-07T06:57:57.000Z
+published: 2026-11-07T06:57:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Wael Zuaiter Center (Massa).svg
 aliases: []
 books:
   - "[[Apeirogon]]"
@@ -17,10 +22,6 @@ icon: book
 location:
   - 44.0333
   - 10.1333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Italy]]"
 image: Attachments/Places/Wael Zuaiter Center (Massa).svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Wael Zuaiter Center (Massa).svg
 Cultural centre named for Wael Zuaiter in Massa, Tuscany. A turning point in Colum McCann's _Apeirogon_: Rami finds the shuttered Zuaiter Center in a cobbled lane in Massa, is given the key, and touches the bullet in the book.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Apeirogon]] | Colum McCann | turning point | Rami finds the shuttered Zuaiter Center in a cobbled lane in Massa, is given the key, and touches the bullet in the book. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.0333&mlon=10.1333#map=10/44.0333/10.1333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.0333,10.1333)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.0333\&mlon=10.1333#map=10/44.0333/10.1333) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.0333,10.1333)
 
 ## Apeirogon — Colum McCann (2020)
+
 Source: [[Apeirogon]] · [Original](https://www.penguinrandomhouse.com/books/207433/apeirogon-a-novel-by-colum-mccann/) · [Readwise highlight](https://read.readwise.io/read/01m5jjr6x4hejnz373h6sy5wbp)
 
 > He was on holiday in Tuscany with Nurit when he saw the sign. He was taken aback. The Wael Zuaiter Center. The arrow pointed down a narrow laneway in the town of Massa.

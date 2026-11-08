@@ -2,8 +2,13 @@
 publish: true
 title: Kali Gandaki Gorge
 created: 2024-10-04
-modified: 2026-11-07T06:57:04.399Z
-published: 2026-11-07T06:57:04.399Z
+modified: 2026-11-07T06:57:04.000Z
+published: 2026-11-07T06:57:04.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kali Gandaki Gorge.svg
 aliases: []
 books:
   - Life on Air
@@ -16,10 +21,6 @@ icon: book
 location:
   - 28.7068
   - 83.6453
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nepal]]"
 image: Attachments/Places/Kali Gandaki Gorge.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Kali Gandaki Gorge.svg
 Deep Himalayan river valley in Nepal; in _Life on Air_ the opening of The Living Planet is filmed climbing it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The opening of The Living Planet is filmed climbing it. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.7068&mlon=83.6453#map=16/28.7068/83.6453) · [Google Maps](https://www.google.com/maps/search/?api=1&query=28.7068,83.6453)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=28.7068\&mlon=83.6453#map=16/28.7068/83.6453) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=28.7068,83.6453)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7zeebyfywbbd9yqpj8da)
 
 > Kelly knew j ust the place. The Kali Gandaki valley in Nepal.

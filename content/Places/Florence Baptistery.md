@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Florence Baptistery
-created: 2026-10-19
-modified: 2026-11-07T06:54:21.799Z
-published: 2026-11-07T06:54:21.799Z
 aliases:
   - Baptistery of San Giovanni
   - Battistero di San Giovanni
+title: Florence Baptistery
+created: 2026-10-19
+modified: 2026-11-07T06:54:22.000Z
+published: 2026-11-07T06:54:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Florence Baptistery.svg
 books:
   - "[[There Are Places in the World Where Rules Are Less Important Than Kindness]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 43.7731
   - 11.255
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Florence]]"
 image: Attachments/Places/Florence Baptistery.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Florence Baptistery.svg
 The octagonal baptistery opposite Florence Cathedral, with a thirteenth-century mosaic cupola, in [[Florence]]; it appears in Carlo Rovelli's argument that the cupola gave Dante the shape of a three-sphere universe.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[There Are Places in the World Where Rules Are Less Important Than Kindness]] | Carlo Rovelli | subject | The cupola Rovelli thinks gave Dante the shape of a three-sphere universe. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.7731&mlon=11.255#map=16/43.7731/11.255) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.7731,11.255)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.7731\&mlon=11.255#map=16/43.7731/11.255) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.7731,11.255)
 
 ## There Are Places in the World Where Rules Are Less Important Than Kindness — Carlo Rovelli (2020)
+
 Source: [[There Are Places in the World Where Rules Are Less Important Than Kindness]] · [Original](https://openlibrary.org/works/OL21681470W) · [Readwise highlight](https://read.readwise.io/read/01m5b44hkd6by9mc6jvpky88hv)
 
 > Dante left Florence in 1301, while the extraordinary mosaics in the cupola of the Baptistery were being completed.

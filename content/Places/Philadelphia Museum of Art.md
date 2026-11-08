@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Philadelphia Museum of Art
-created: 2026-10-23T02:23:48.000Z
-modified: 2026-11-07T06:54:54.054Z
-published: 2026-11-07T06:54:54.054Z
+created: 2024-07-06
+modified: 2026-11-07T06:54:54.000Z
+published: 2026-11-07T06:54:54.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Philadelphia Museum of Art.svg
 aliases: []
 books:
   - Brandon Stosuy on “Cultivating an Art of Noticing” in the Age of Scrolling
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 39.966
   - -75.181
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Philadelphia]]"
 image: Attachments/Places/Philadelphia Museum of Art.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Philadelphia Museum of Art.svg
 Art museum on the Benjamin Franklin Parkway, Philadelphia. Brandon Stosuy first met Andy Warhol's work there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Brandon Stosuy on “Cultivating an Art of Noticing” in the Age of Scrolling | Brandon Stosuy | setting | As a pre-internet kid he first encountered Warhol's work at the museum, then followed up at a library with the Warhol Diaries. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.966&mlon=-75.181#map=16/39.966/-75.181) · [Google Maps](https://www.google.com/maps/search/?api=1&query=39.966,-75.181)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=39.966\&mlon=-75.181#map=16/39.966/-75.181) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=39.966,-75.181)
 
 ## Brandon Stosuy on “Cultivating an Art of Noticing” in the Age of Scrolling — Brandon Stosuy (2021)
+
 Source: [Original](https://lithub.com/brandon-stosuy-on-cultivating-an-art-of-noticing-in-the-age-of-scrolling/) · [Readwise highlight](https://read.readwise.io/read/01m5k8vk1vgyr2czsnme08dyp0)
 
 > I discovered Andy Warhol through some of his work at the Philadelphia Museum of Art.

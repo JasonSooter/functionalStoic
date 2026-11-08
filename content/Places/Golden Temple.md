@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Golden Temple
-created: 2025-09-24
-modified: 2026-11-07T06:58:17.947Z
-published: 2026-11-07T06:58:17.947Z
 aliases:
   - Harmandir Sahib
+title: Golden Temple
+created: 2025-09-24
+modified: 2026-11-07T06:58:18.000Z
+published: 2026-11-07T06:58:18.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Golden Temple.svg
 books:
   - "[[On the Hippie Trail]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 31.62
   - 74.8764
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Amritsar]]"
 image: Attachments/Places/Golden Temple.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Golden Temple.svg
 Harmandir Sahib, the holiest gurdwara of Sikhism, in Amritsar, India. In _On the Hippie Trail_ it is Rick's first sight of India.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[On the Hippie Trail]] | Rick Steves | setting | Their first Indian sight: barefoot and with covered heads, they are let into the temple's inner room. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.62&mlon=74.8764#map=16/31.62/74.8764) · [Google Maps](https://www.google.com/maps/search/?api=1&query=31.62,74.8764)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=31.62\&mlon=74.8764#map=16/31.62/74.8764) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=31.62,74.8764)
 
 ## On the Hippie Trail — Rick Steves (2025)
+
 Source: [[On the Hippie Trail]] · [Original](https://www.hachettebookgroup.com/titles/rick-steves/on-the-hippie-trail/9781641717458/) · [Readwise highlight](https://read.readwise.io/read/01m5kjepdsjt814dmj62wzp63s)
 
 > We rickshawed over to the wondrous Golden Temple, the St. Peter’s and Mecca of the Sikh religion.

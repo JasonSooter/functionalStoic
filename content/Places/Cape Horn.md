@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Cape Horn
-created: 2026-10-23
-modified: 2026-11-07T06:52:50.668Z
-published: 2026-11-07T06:52:50.668Z
 aliases:
   - Patagonian Cape
+title: Cape Horn
+created: 2026-10-23
+modified: 2026-11-07T06:52:51.000Z
+published: 2026-11-07T06:52:51.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cape Horn.svg
 books:
   - "[[Exploration of Moby Dick]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -55.9809
   - -67.2926
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Chile]]"
 image: Attachments/Places/Cape Horn.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Cape Horn.svg
 Cape Horn is the southernmost headland of Tierra del Fuego in Chile, the stormy passage between the Atlantic and the Pacific. In _Moby-Dick_ it is where Ahab's monomania takes hold on the voyage home after losing his leg.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Moby Dick\|Moby-Dick]] | Herman Melville | turning point | Rounding the 'howling Patagonian Cape' in a strait-jacket, the maimed Ahab's grief hardens into monomania. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-55.9809&mlon=-67.2926#map=16/-55.9809/-67.2926) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-55.9809,-67.2926)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-55.9809\&mlon=-67.2926#map=16/-55.9809/-67.2926) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-55.9809,-67.2926)
 
 ## Moby-Dick — Herman Melville (1851)
+
 Source: [[Exploration of Moby Dick]] · [[Moby Dick]] · [Original](https://openlibrary.org/works/OL102749W) · [Readwise highlight](https://read.readwise.io/read/01m5m76y2m68kbeyx0yp7kjycp)
 
 > for long months of days and weeks, Ahab and anguish lay stretched together in one hammock, rounding in mid winter that dreary, howling Patagonian Cape;

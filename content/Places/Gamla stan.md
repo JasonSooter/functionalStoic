@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Gamla stan
-created: 2026-08-26
-modified: 2026-11-07T06:56:36.199Z
-published: 2026-11-07T06:56:36.199Z
 aliases:
   - Gamla Stan
   - Stockholm Old Town
   - Strömbron
+title: Gamla stan
+created: 2026-08-26
+modified: 2026-11-07T06:56:36.000Z
+published: 2026-11-07T06:56:36.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gamla stan.svg
 books:
   - Neither Here Nor There
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 59.325
   - 18.0708
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Stockholm]]"
 image: Attachments/Places/Gamla stan.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Gamla stan.svg
 Old town on a central island in [[Stockholm]], Sweden, where Bill Bryson's Neither Here Nor There first cracks his image of a rich, tidy Sweden.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Neither Here Nor There]] | Bill Bryson | setting | A shabby, knocked-about old town in the rain, where Bryson later decides to leave for Rome. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.325&mlon=18.0708#map=16/59.325/18.0708) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.325,18.0708)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.325\&mlon=18.0708#map=16/59.325/18.0708) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=59.325,18.0708)
 
 ## Neither Here Nor There — Bill Bryson (1991)
+
 Source: [Original](https://openlibrary.org/works/OL74125W) · [Readwise highlight](https://read.readwise.io/read/01m5b443ekytxes8rrrww0wbyf)
 
 > The area had an oddly Central European feel to it: narrow, hilly streets lined by severe, heavy buildings, the color of faded terra-cotta, sometimes with chunks of plaster missing, as if they had been struck a glancing blow by tank fire

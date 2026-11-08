@@ -2,8 +2,13 @@
 publish: true
 title: Lagos de Moreno
 created: 2025-01-16
-modified: 2026-11-07T07:01:20.584Z
-published: 2026-11-07T07:01:20.584Z
+modified: 2026-11-07T07:01:21.000Z
+published: 2026-11-07T07:01:21.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lagos de Moreno.svg
 aliases: []
 books:
   - "The Underdogs: A Novel of the Mexican Revolution"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 21.35
   - -101.9167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Jalisco]]"
 image: Attachments/Places/Lagos de Moreno.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Lagos de Moreno.svg
 Colonial town in Los Altos de Jalisco, Azuela's birthplace. In The Underdogs the band carouses there before the convention.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Underdogs: A Novel of the Mexican Revolution | Mariano Azuela | setting | Demetrio enters the bar El Cosmopolita with his staff; Blondie shoots at tables, wounds a waiter's ear with a bottle-shooting game,… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.35&mlon=-101.9167#map=16/21.35/-101.9167) · [Google Maps](https://www.google.com/maps/search/?api=1&query=21.35,-101.9167)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21.35\&mlon=-101.9167#map=16/21.35/-101.9167) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=21.35,-101.9167)
 
 ## The Underdogs: A Novel of the Mexican Revolution — Mariano Azuela (1915)
+
 Source: [Original](https://openlibrary.org/works/OL1209983W) · [Readwise highlight](https://read.readwise.io/read/01m5k8za2axx0qsk0qkb91rs23)
 
 > At last they reached Lagos. Blondie bet that he would make Demetrio laugh that evening.

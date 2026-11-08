@@ -1,12 +1,17 @@
 ---
 publish: true
 title: Norwich
-created: 2026-10-20T13:45:55.000Z
-modified: 2026-11-07T07:03:22.625Z
-published: 2026-11-07T07:03:22.625Z
+created: 2025-11-15
+modified: 2026-11-07T07:03:23.000Z
+published: 2026-11-07T07:03:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Norwich.svg
 aliases: []
 books:
-  - '#061 Please assemble in the telephone box'
+  - "#061 Please assemble in the telephone box"
 categories:
   - "[[Places]]"
 color: purple
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 52.6286
   - 1.2928
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 image: Attachments/Places/Norwich.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Norwich.svg
 Cathedral city in Norfolk, [[England]], and the setting of a half-term trip told in annotated photos in Diagram Club's issue #061.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #061 Please assemble in the telephone box | Diagram Club | setting | Half-term trip in annotated photos. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.6286&mlon=1.2928#map=16/52.6286/1.2928) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6286,1.2928)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.6286\&mlon=1.2928#map=16/52.6286/1.2928) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.6286,1.2928)
 
 ## #061 Please assemble in the telephone box — Diagram Club (2025)
+
 Source: [Original](https://diagramclub.substack.com/p/061-please-assemble-in-the-telephone) · [Readwise highlight](https://read.readwise.io/read/01m5cre1mm7ba3nbe8vctn187y)
 
 > It’s been half term here in the UK, so we went to Norwich with some friends.

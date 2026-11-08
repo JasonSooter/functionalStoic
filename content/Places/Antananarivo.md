@@ -2,8 +2,13 @@
 publish: true
 title: Antananarivo
 created: 2024-10-04
-modified: 2026-11-07T06:54:39.876Z
-published: 2026-11-07T06:54:39.876Z
+modified: 2026-11-07T06:54:40.000Z
+published: 2026-11-07T06:54:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Antananarivo.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ image: Attachments/Places/Antananarivo.svg
 location:
   - -18.91
   - 47.525
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Madagascar]]"
 ---
 
@@ -29,13 +30,15 @@ within: "[[Madagascar]]"
 Capital of Madagascar in the central highlands; the Zoo Quest team's base at the start and end of the Madagascar trip in _Life on Air_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | journey waypoint | The Zoo Quest team's base at the start and end of the Madagascar trip. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-18.91&mlon=47.525#map=16/-18.91/47.525) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-18.91,47.525)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-18.91\&mlon=47.525#map=16/-18.91/47.525) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-18.91,47.525)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hx1t9gdykkep8rh6st3f6h)
 
 > We acquired a Land Rover; we recruited an expert Malagasy helper from the Scientific Institute in Tananarive, which also ran the city's zoo; and we travelled around the island for the next three months.

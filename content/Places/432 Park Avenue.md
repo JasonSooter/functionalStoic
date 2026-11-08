@@ -1,12 +1,17 @@
 ---
 publish: true
-title: 432 Park Avenue
-created: 2025-08-07
-modified: 2026-11-07T06:51:41.131Z
-published: 2026-11-07T06:51:41.131Z
 aliases:
   - 432 Park
   - 432 Park Avenue, Manhattan
+title: 432 Park Avenue
+created: 2025-08-07
+modified: 2026-11-07T06:51:41.000Z
+published: 2026-11-07T06:51:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/432 Park Avenue.svg
 books:
   - Is This New York's Most Cursed Skyscraper?
 categories:
@@ -18,10 +23,6 @@ icon: video
 location:
   - 40.7617
   - -73.9719
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/432 Park Avenue.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/432 Park Avenue.svg
 Supertall residential tower in Midtown Manhattan, [[New York City]], that appears in a B1M video on its slender engineering and the construction-defect lawsuits that followed.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Is This New York's Most Cursed Skyscraper\|Is This New York's Most Cursed Skyscraper?]] | The B1M | subject | Viñoly's 425.5 m square-footprint tower: tuned mass dampers, a 90 percent sell-out, then defect lawsuits against its developers. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7617&mlon=-73.9719#map=16/40.7617/-73.9719) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7617,-73.9719)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7617\&mlon=-73.9719#map=16/40.7617/-73.9719) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.7617,-73.9719)
 
 ## Is This New York's Most Cursed Skyscraper? — The B1M (2025)
+
 Source: [Original](https://www.youtube.com/watch?v=01KX_JXHH2M) · [Readwise highlight](https://read.readwise.io/read/01m5dqy42z5df482ra24kpgmmh)
 
 > 432 Park Avenue is one of the world’s most iconic skyscrapers stretching high above the New York skyline.

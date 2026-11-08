@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Penton Hook Lock
-created: 2026-10-21T23:17:06.000Z
-modified: 2026-11-07T06:54:30.520Z
-published: 2026-11-07T06:54:30.520Z
 aliases:
   - Penton Hook
+title: Penton Hook Lock
+created: 2025-04-19
+modified: 2026-11-07T06:54:31.000Z
+published: 2026-11-07T06:54:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Penton Hook Lock.svg
 books:
   - Three Men in a Boat
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.4147
   - -0.5003
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[England]]"
 image: Attachments/Places/Penton Hook Lock.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Penton Hook Lock.svg
 Lock on the Thames near Staines ([[England]]). In Three Men in a Boat (Jerome K. Jerome) the three regret not camping there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Three Men in a Boat | Jerome K. Jerome | turning point | They decide to push on instead of camping, and wish afterwards they had stopped. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.4147&mlon=-0.5003#map=16/51.4147/-0.5003) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4147,-0.5003)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.4147\&mlon=-0.5003#map=16/51.4147/-0.5003) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.4147,-0.5003)
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gbyftd74nahxqj0d447m8c)
 
 > We all wished, however, afterward, that we had stopped at Penton Hook.

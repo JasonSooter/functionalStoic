@@ -2,8 +2,13 @@
 publish: true
 title: Alcedo Volcano
 created: 2024-10-04
-modified: 2026-11-07T06:53:06.325Z
-published: 2026-11-07T06:53:06.325Z
+modified: 2026-11-07T06:53:06.000Z
+published: 2026-11-07T06:53:06.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Alcedo Volcano.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ image: Attachments/Places/Alcedo Volcano.svg
 location:
   - -0.43
   - -91.12
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Galápagos Islands]]"
 ---
 
@@ -29,13 +30,15 @@ within: "[[Galápagos Islands]]"
 Shield volcano on Isabela Island in the Galápagos; in _Life on Air_ the crew descend into its crater to film giant tortoises.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | The crew descend into its crater to film giant tortoises. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-0.43&mlon=-91.12#map=16/-0.43/-91.12) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-0.43,-91.12)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-0.43\&mlon=-91.12#map=16/-0.43/-91.12) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-0.43,-91.12)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7fbbm1vfwm1f92eb305d)
 
 > The biggest population lives in the huge crater of an extinct volcano called Alcedo.

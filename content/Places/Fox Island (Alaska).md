@@ -2,8 +2,13 @@
 publish: true
 title: Fox Island (Alaska)
 created: 2018-10-02
-modified: 2026-11-07T06:55:27.828Z
-published: 2026-11-07T06:55:27.828Z
+modified: 2026-11-07T06:55:28.000Z
+published: 2026-11-07T06:55:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Fox Island (Alaska).svg
 aliases: []
 books:
   - The Wild Alaskan Island That Inspired a Lost Classic
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 59.9217
   - -149.3358
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alaska]]"
 image: Attachments/Places/Fox Island (Alaska).svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Fox Island (Alaska).svg
 Island in Resurrection Bay off Seward, Alaska. Atlas Obscura tells how Rockwell Kent and his son wintered there in 1918, the stay behind his book Wilderness.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Wild Alaskan Island That Inspired a Lost Classic | Sarah Laskow | setting | Rockwell Kent and his son spent the winter of 1918 in a goat-keeper's cabin on Fox Island, cutting trees, painting and making woodcuts,… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.9217&mlon=-149.3358#map=16/59.9217/-149.3358) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.9217,-149.3358)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.9217\&mlon=-149.3358#map=16/59.9217/-149.3358) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=59.9217,-149.3358)
 
 ## The Wild Alaskan Island That Inspired a Lost Classic — Sarah Laskow (2018)
+
 Source: [Original](https://www.atlasobscura.com/articles/alaska-wilderness-rockwell) · [Readwise highlight](https://read.readwise.io/read/01m5k7bk5envscw1n76fr6gy0s)
 
 > On August 28, under gray and drizzling skies, they loaded up their small boat and moved to Fox Island.

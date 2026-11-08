@@ -2,8 +2,13 @@
 publish: true
 title: Church of All Worlds Temple (Stranger in a Strange Land)
 created: 2024-05-18
-modified: 2026-11-07T06:56:02.568Z
-published: 2026-11-07T06:56:02.568Z
+modified: 2026-11-07T06:56:03.000Z
+published: 2026-11-07T06:56:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Church of All Worlds Temple (Stranger in a Strange Land).svg
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 27.8222,-82.6706
-geo_note: "best-guess: the text never names the city; it is a subtropical resort city\
-  \ on the coast, and the Nest's later refuge is in St. Petersburg"
+geo_note: "best-guess: the text never names the city; it is a subtropical resort city on the coast, and the Nest's later refuge is in St. Petersburg"
 geo_source: Wikipedia (en) St. Petersburg, Florida
 icon: book
 location:
   - 27.8222
   - -82.6706
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[St Petersburg, Florida]]"
 image: Attachments/Places/Church of All Worlds Temple (Stranger in a Strange Land).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/Church of All Worlds Temple (Stranger in a Strange Lan
 Mike's Temple and the Nest above it in Stranger in a Strange Land (Robert A. Heinlein), in an unnamed southern resort city. The pin is a best guess at St. Petersburg, Florida.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | setting | Mike's labyrinthine Temple and the communal Nest, until a mob burns it. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.8222&mlon=-82.6706#map=16/27.8222/-82.6706) · [Google Maps](https://www.google.com/maps/search/?api=1&query=27.8222,-82.6706)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=27.8222\&mlon=-82.6706#map=16/27.8222/-82.6706) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=27.8222,-82.6706)
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
+
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > Mike's Temple is a big place, almost a labyrinth.

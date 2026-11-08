@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Monschau
-created: 2026-10-20T04:21:09.000Z
-modified: 2026-11-07T06:57:19.033Z
-published: 2026-11-07T06:57:19.033Z
+created: 2026-05-16
+modified: 2026-11-07T06:57:19.000Z
+published: 2026-11-07T06:57:19.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Monschau.svg
 aliases: []
 books:
   - "[[10 Lesser-Known German Cities That Will Amaze You]]"
@@ -15,10 +20,6 @@ icon: video
 location:
   - 50.56
   - 6.2564
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[North Rhine-Westphalia]]"
 image: Attachments/Places/Monschau.svg
 ---
@@ -28,13 +29,15 @@ image: Attachments/Places/Monschau.svg
 Half-timbered town in the Eifel near the Belgian border, in [[North Rhine-Westphalia]]. It is the first stop in DW Travel's tour of lesser-known German cities.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[10 Lesser-Known German Cities That Will Amaze You]] | DW Travel | subject | First stop of the tour: half-timbered houses and the cloth maker's Red House. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.56&mlon=6.2564#map=16/50.56/6.2564) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.56,6.2564)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.56\&mlon=6.2564#map=16/50.56/6.2564) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.56,6.2564)
 
 ## 10 Lesser-Known German Cities That Will Amaze You — DW Travel (2026)
+
 Source: [[10 Lesser-Known German Cities That Will Amaze You]] · [Original](https://www.youtube.com/watch?v=9AbxJrqpPqQ) · [Readwise highlight](https://read.readwise.io/read/01m5brf68zvc14vvz8msv2zecg)
 
 > Our journey begins in western Germany in Monschau, near the Belgian border.

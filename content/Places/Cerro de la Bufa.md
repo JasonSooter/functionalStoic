@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Cerro de la Bufa
-created: 2025-01-16
-modified: 2026-11-07T06:54:11.014Z
-published: 2026-11-07T06:54:11.014Z
 aliases:
   - La Bufa
   - Bufa peak
+title: Cerro de la Bufa
+created: 2025-01-16
+modified: 2026-11-07T06:54:11.000Z
+published: 2026-11-07T06:54:11.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cerro de la Bufa.svg
 books:
   - "The Underdogs: A Novel of the Mexican Revolution"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 22.7781
   - -102.565
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Zacatecas (state)]]"
 image: Attachments/Places/Cerro de la Bufa.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Cerro de la Bufa.svg
 Hill above the city of Zacatecas, site of the 1914 battle. In The Underdogs its slopes are the scene of the novel's military climax.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Underdogs: A Novel of the Mexican Revolution | Mariano Azuela | turning point | Cervantes and Solis shelter on a hill during the battle for Zacatecas. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=22.7781&mlon=-102.565#map=16/22.7781/-102.565) · [Google Maps](https://www.google.com/maps/search/?api=1&query=22.7781,-102.565)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=22.7781\&mlon=-102.565#map=16/22.7781/-102.565) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=22.7781,-102.565)
 
 ## The Underdogs: A Novel of the Mexican Revolution — Mariano Azuela (1915)
+
 Source: [Original](https://openlibrary.org/works/OL1209983W)
 
 > Standing on the crest of the hill, they could easily sight one side of the Bufa peak.

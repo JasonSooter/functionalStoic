@@ -1,9 +1,14 @@
 ---
 publish: true
 title: Orfield Laboratories
-created: 2026-10-21T19:40:27.000Z
-modified: 2026-11-07T06:52:51.552Z
-published: 2026-11-07T06:52:51.552Z
+created: 2023-07-30
+modified: 2026-11-07T06:52:52.000Z
+published: 2026-11-07T06:52:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Orfield Laboratories.svg
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 44.9573
   - -93.2328
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Minneapolis]]"
 image: Attachments/Places/Orfield Laboratories.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Orfield Laboratories.svg
 Acoustics lab in Minneapolis with a famous anechoic chamber. In The Comfort Crisis (Michael Easter) it is where he goes in search of silence.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[The Comfort Crisis]] | Michael Easter | setting | Lab with an anechoic chamber, Easter's destination in search of silence. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.9573&mlon=-93.2328#map=16/44.9573/-93.2328) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.9573,-93.2328)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.9573\&mlon=-93.2328#map=16/44.9573/-93.2328) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.9573,-93.2328)
 
 ## The Comfort Crisis — Michael Easter (2021)
+
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5fzdbn4ejh4qbshyzfh5cy5)
 
 > The closest we can get to silence is in a drab gray building across from a city park and an old liquor store on 2709 East Twenty-fifth Street in Minneapolis, Minnesota.

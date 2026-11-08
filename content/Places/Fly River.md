@@ -2,8 +2,13 @@
 publish: true
 title: Fly River
 created: 2024-10-04
-modified: 2026-11-07T06:54:31.136Z
-published: 2026-11-07T06:54:31.136Z
+modified: 2026-11-07T06:54:31.000Z
+published: 2026-11-07T06:54:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Fly River.svg
 aliases: []
 books:
   - Life on Air
@@ -17,10 +22,6 @@ icon: book
 location:
   - -8.5611
   - 143.5889
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Papua New Guinea]]"
 image: Attachments/Places/Fly River.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Fly River.svg
 Great river of southern Papua New Guinea; in _Life on Air_ Attenborough is hoisted up a tree in its delta to film birds of paradise.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Life on Air | David Attenborough | setting | Attenborough is hoisted up a tree in its delta to film birds of paradise. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-8.5611&mlon=143.5889#map=10/-8.5611/143.5889) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-8.5611,143.5889)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-8.5611\&mlon=143.5889#map=10/-8.5611/143.5889) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-8.5611,143.5889)
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy8vxv9zw2cjj2v279pm17)
 
 > They were working from a small village in the delta of the Fly River on the southern coast.

@@ -2,8 +2,13 @@
 publish: true
 title: Sourland Mountain
 created: 2024-12-20
-modified: 2026-11-07T06:56:19.645Z
-published: 2026-11-07T06:56:19.645Z
+modified: 2026-11-07T06:56:20.000Z
+published: 2026-11-07T06:56:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sourland Mountain.svg
 aliases: []
 books:
   - A hilly bicycle ride to a French bakery in New Jersey
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 40.4792
   - -74.711
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New Jersey]]"
 image: Attachments/Places/Sourland Mountain.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Sourland Mountain.svg
 Low wooded ridge in central [[New Jersey]], rising to 568 feet above Hopewell. It appears in the reading as the hilly backdrop to a bike-shop group's ride to a French bakery.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | A hilly bicycle ride to a French bakery in New Jersey | alliumstozinnias | backdrop | The 17-mile ridge whose short, nasty climbs the group usually rides. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4792&mlon=-74.711#map=16/40.4792/-74.711) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.4792,-74.711)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.4792\&mlon=-74.711#map=16/40.4792/-74.711) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.4792,-74.711)
 
 ## A hilly bicycle ride to a French bakery in New Jersey — alliumstozinnias (2024)
+
 Source: [Original](https://exploringbybike.com/2024/11/29/a-hilly-bicycle-ride-to-a-french-bakery-in-new-jersey/) · [Readwise highlight](https://read.readwise.io/read/01m5f0pv0rmyybehgcpjtss3tf)
 
 > Sure, this 17-mile ridge only reaches 568 feet above sea level (and Hopewell borough is at 197 feet above sea level), but some of those climbs are

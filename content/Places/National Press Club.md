@@ -1,9 +1,14 @@
 ---
 publish: true
 title: National Press Club
-created: 2026-10-23T02:03:41.000Z
-modified: 2026-11-07T07:01:16.852Z
-published: 2026-11-07T07:01:16.852Z
+created: 2017-07-09
+modified: 2026-11-07T07:01:17.000Z
+published: 2026-11-07T07:01:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/National Press Club.svg
 aliases: []
 books:
   - Rod Dreher’s Monastic Vision – The New Yorker
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 38.897
   - -77.0316
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Washington DC]]"
 image: Attachments/Places/National Press Club.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/National Press Club.svg
 Press club in downtown Washington, D.C. The New Yorker reports Rod Dreher's packed talk there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Rod Dreher’s Monastic Vision – The New Yorker | Joshua Rothman | setting | After a car ride through the storm Dreher spoke to a standing-room-only crowd, comparing liquid modernity to the Great Flood and calling… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.897&mlon=-77.0316#map=16/38.897/-77.0316) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.897,-77.0316)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.897\&mlon=-77.0316#map=16/38.897/-77.0316) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.897,-77.0316)
 
 ## Rod Dreher’s Monastic Vision – The New Yorker — Joshua Rothman (2017)
+
 Source: [Original](https://www.newyorker.com/magazine/2017/05/01/rod-drehers-monastic-vision) · [Readwise highlight](https://read.readwise.io/read/01m5k7fzvha4sv7avrdjatxz8g)
 
 > Dreher had planned to travel the next day to Washington, D.C., where he was scheduled to give a talk at the National Press Club, but a blizzard struck the East Coast.

@@ -2,8 +2,13 @@
 publish: true
 title: Elm Creek Park Reserve
 created: 2015-11-28
-modified: 2026-11-07T06:52:00.240Z
-published: 2026-11-07T06:52:00.240Z
+modified: 2026-11-07T06:52:00.000Z
+published: 2026-11-07T06:52:00.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Elm Creek Park Reserve.svg
 aliases: []
 books:
   - Mountain Biking (Off Road Cycling) in Minneapolis, MN
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 45.1685
   - -93.4268
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Minnesota]]"
 image: Attachments/Places/Elm Creek Park Reserve.svg
 ---
@@ -29,13 +30,15 @@ image: Attachments/Places/Elm Creek Park Reserve.svg
 Park reserve in Maple Grove, northwest of Minneapolis, [[Minnesota]]. A Currently Wandering post rates its mountain-bike trails above Lebanon Hills.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Mountain Biking (Off Road Cycling) in Minneapolis, MN | Jess | subject | Beginner loop ridden twice and an 8-mile intermediate ride; easier and quieter than Lebanon Hills. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.1685&mlon=-93.4268#map=16/45.1685/-93.4268) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.1685,-93.4268)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.1685\&mlon=-93.4268#map=16/45.1685/-93.4268) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=45.1685,-93.4268)
 
 ## Mountain Biking (Off Road Cycling) in Minneapolis, MN — Jess (2015)
+
 Source: [Original](http://currentlywandering.com/2015/08/11/mountain-biking-off-road-cycling-in-minneapolis-mn/) · [Readwise highlight](https://read.readwise.io/read/01m5ganfecms7t6j71vacjkkf9)
 
 > is on the northwest side of the Twin Cities area. We tried this trail twice and loved it both times.

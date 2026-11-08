@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Durham Central Park Cohousing
-created: 2015-10-28
-modified: 2026-11-07T07:04:15.976Z
-published: 2026-11-07T07:04:15.976Z
 aliases:
   - CP Coho
   - Durham Central Park Cohousing Community
+title: Durham Central Park Cohousing
+created: 2015-10-28
+modified: 2026-11-07T07:04:16.000Z
+published: 2026-11-07T07:04:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Durham Central Park Cohousing.svg
 books:
   - Growing Old Together and in Style, in the City
 categories:
@@ -18,10 +23,6 @@ icon: newspaper
 location:
   - 36.0001
   - -78.899
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[North Carolina]]"
 image: Attachments/Places/Durham Central Park Cohousing.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Durham Central Park Cohousing.svg
 Four-storey cohousing building in downtown Durham, North Carolina. LifeEdited presents it as the urban answer to rural cohousing for older people.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Growing Old Together and in Style, in the City | David Friedlander | subject | 24 units, a common kitchen and gardens on 0.58 acres, walkable to everything in central Durham. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.0001&mlon=-78.899#map=16/36.0001/-78.899) · [Google Maps](https://www.google.com/maps/search/?api=1&query=36.0001,-78.899)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=36.0001\&mlon=-78.899#map=16/36.0001/-78.899) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=36.0001,-78.899)
 
 ## Growing Old Together and in Style, in the City — David Friedlander (2015)
+
 Source: [Original](http://lifeedited.com/growing-old-together-in-style-in-the-city/) · [Readwise highlight](https://read.readwise.io/read/01m5gm1d4y2kxvhrqw2a61xqj5)
 
 > CP Coho is located right in the middle of town, making it easy for community members to access those assets on foot.

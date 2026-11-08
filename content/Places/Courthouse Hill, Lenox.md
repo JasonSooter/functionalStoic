@@ -1,29 +1,28 @@
 ---
 publish: true
-title: Courthouse Hill, Lenox
-created: 2026-08-14
-modified: 2026-11-07T06:59:08.399Z
-published: 2026-11-07T06:59:08.399Z
 aliases:
   - Courthouse Hill
   - Corbury road elm (Ethan Frome)
   - School House Hill (Ethan Frome)
+title: Courthouse Hill, Lenox
+created: 2026-08-14
+modified: 2026-11-07T06:59:08.000Z
+published: 2026-11-07T06:59:08.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Courthouse Hill, Lenox.svg
 books:
   - "[[Ethan Frome]]"
 categories:
   - "[[Places]]"
 color: purple
-geo_note: Pinned at the old Berkshire County Courthouse (now Lenox Library, 18 Main
-  St), which gives the hill its name; the exact 1904 crash spot is not documented
-  here
+geo_note: Pinned at the old Berkshire County Courthouse (now Lenox Library, 18 Main St), which gives the hill its name; the exact 1904 crash spot is not documented here
 icon: book
 location:
   - 42.3575
   - -73.285
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Lenox]]"
 coordinates: 42.3575,-73.285
 image: Attachments/Places/Courthouse Hill, Lenox.svg
@@ -34,13 +33,15 @@ image: Attachments/Places/Courthouse Hill, Lenox.svg
 Slope of Main Street by the old Berkshire County Courthouse in [[Lenox]], Massachusetts, the likely real hill behind the fatal sled crash in Ethan Frome.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Ethan Frome]] | Edith Wharton | turning point | Real model for the coast down to "the big elm" where Ethan and Mattie try to die together. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3575&mlon=-73.285#map=16/42.3575/-73.285) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3575,-73.285)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3575\&mlon=-73.285#map=16/42.3575/-73.285) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.3575,-73.285)
 
 ## Ethan Frome — Edith Wharton (1911)
+
 Source: [[Ethan Frome]] · [Original](https://openlibrary.org/works/OL98501W) · [Readwise highlight](https://read.readwise.io/read/01m5a7ppyd5955er40zqqqqn8w)
 
 > The big tree loomed bigger and closer, and as they bore down on it he thought: “It’s waiting for us: it seems to know.”
