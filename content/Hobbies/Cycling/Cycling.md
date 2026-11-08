@@ -1,18 +1,17 @@
 ---
 publish: true
-permalink: cycling
+title: Cycling
+created: 2024-02-08T19:20:20.000Z
+modified: 2026-11-08T09:10:25.000Z
+published: 2026-11-08T09:10:25.000Z
 aliases:
   - Bikes
   - Biking
-title: Cycling
-created: 2024-02-08T19:20:20.000Z
-modified: 2026-10-18T15:02:54.014Z
-published: 2026-10-18T15:02:54.014Z
 tags:
   - hobbies/bikes
-socialImage: Attachments/Cycling Hero.jpg
 date created: 2025-09-25T16:40:52+02:00
 date modified: 2026-10-18T17:02:53+02:00
+permalink: cycling
 image: Attachments/Cycling Hero.jpg
 ---
 
@@ -25,59 +24,59 @@ image: Attachments/Cycling Hero.jpg
 
 ## Changelog
 
-- \#🗓️/2024/05/25 Met a guy named David, brother Zach in a wheelchair - making the party bike from recycled cycles into an e-trike. Located at the intersection of Centennial at end - across from power trail
+- #🗓️/2024/05/25 Met a guy named David, brother Zach in a wheelchair - making the party bike from recycled cycles into an e-trike. Located at the intersection of Centennial at end - across from power trail
 
 ## My Bikes
 
 - [[Brompton Bike]]
 - Surly Long Disc Trucker
-  - Boxed Dimensions
-    - 59 x 34 x 10 (inches)
-    - 150 x 87 x 25 (centimeters)
-    - 49 lb
+	- Boxed Dimensions
+		- 59 x 34 x 10 (inches)
+		- 150 x 87 x 25 (centimeters)
+		- 49 lb
 - Canyon Grail
-  - In Case Dimensions
-    - 50 x 34 x 150 (centimeters)
-    - 42 lbs
+	- In Case Dimensions
+		- 50 x 34 x 150 (centimeters)
+		- 42 lbs
 
 ## Twenty Little Cycling Drawings
+
+
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb69d0a96-125f-4ed8-8b4d-7cba006c79c5_4000x4000.png)
 
 ## Bike Touring
-
 - [[3800 Mile Tandem Bike Ride Across America]]
 - Canada’s [P’tit Train du Nord](https://ptittraindunord.com/en/): ([View Highlight](https://read.readwise.io/read/01j9421a4t8x01yfxe51md860s))
-  - The P’tit Train du Nord trail is located in the province of Quebec, Canada. It stretches through the Laurentians region, connecting various towns and offering scenic views of lakes and rivers, particularly as it leads to Mont Tremblant.
-  - Canada’s P’tit Train du Nord is a converted railway that has been turned into a beautiful trail for biking, walking, and enjoying nature. It goes through a scenic area with lots of trees, rivers, and mountains. People can use the trail to spend time outside, have fun, and see the sights. It's a great place for families and friends to explore together.
+	- The P’tit Train du Nord trail is located in the province of Quebec, Canada. It stretches through the Laurentians region, connecting various towns and offering scenic views of lakes and rivers, particularly as it leads to Mont Tremblant.
+	- Canada’s P’tit Train du Nord is a converted railway that has been turned into a beautiful trail for biking, walking, and enjoying nature. It goes through a scenic area with lots of trees, rivers, and mountains. People can use the trail to spend time outside, have fun, and see the sights. It's a great place for families and friends to explore together.
 
 ## My Local Bike Shop
 
 Cycle Garage, Freiburg
-
 - Christian & Eva
 
 ## Mountain Biking
 
 ### Good Locations
 
-- \#🗓️/2020/10/03
-  - Park in Soderberg
-  - Timber Trail Part 2 | Lory State Park, Colorado
-    - <https://www.youtube.com/watch>?v=xv9liwPK-7U>
-  - MTB West Valley Trail - Lory State Park
-    - <https://www.youtube.com/watch>?v=PSVeb\_ypSOo>
-  - MTB Lory State Park East Valley Trail
-    - <https://www.youtube.com/watch>?v=5P1kag6Rlx4>
+- #🗓️/2020/10/03
+	- Park in Soderberg
+	- Timber Trail Part 2 | Lory State Park, Colorado
+		- <https://www.youtube.com/watch>?v=xv9liwPK-7U>
+	- MTB West Valley Trail - Lory State Park
+		- <https://www.youtube.com/watch>?v=PSVeb_ypSOo>
+	- MTB Lory State Park East Valley Trail
+		- <https://www.youtube.com/watch>?v=5P1kag6Rlx4>
 
 ### Potential Gravel Rides
 
-- [Where are the best gravel rides in the U.S.? | CANYON US](https://www.canyon.com/en-us/blog-content/best-gravel-rides.html?utm_medium=email\&utm_source=us-newsletter\&utm_campaign=cw44-2-21-us-gravelride-owners)
+- [Where are the best gravel rides in the U.S.? | CANYON US](https://www.canyon.com/en-us/blog-content/best-gravel-rides.html?utm_medium=email&utm_source=us-newsletter&utm_campaign=cw44-2-21-us-gravelride-owners)
 
 Cliff Bockard
 
 > a little fall riding at The Rad Dirt race then on to Durango, Ouray, Telluride and Dunton
-> ![[Attachments/Pasted image 20211006163442.png]]
+![[Cliff Bockard Fall Ride Photos.png]]
 
 ## Quotes About the Bike
 
@@ -85,13 +84,13 @@ Cliff Bockard
 > —Ernest Hemingway (It's all about the bike pg 30)
 
 > [!quote] Life is like riding a bicycle. To keep your balance, you must keep moving.
-> —[[Albert Einstein]]
+—[[Albert Einstein]]
 
 ## Why We Love Cycling
 
 by Dave Walker
 
-![[Attachments/Why We Love Cycling.png]]
+![[Why We Love Cycling.png]]
 
 ## NED Gravel
 
@@ -99,10 +98,10 @@ by Dave Walker
 
 ### Changelog
 
-- \#🗓️/2024/07/06 2024 NED Gravel Gold Route
-  - [Race Results](https://my.raceresult.com/299650/results)
-  - MPH: 6.7
-  - Time: 5:47:34
+- #🗓️/2024/07/06 2024 NED Gravel Gold Route
+	- [Race Results](https://my.raceresult.com/299650/results)
+	- MPH: 6.7
+	- Time: 5:47:34
 
 |        | Time of Day | Chip Time | Sector   | Speed/Pace | Overall | Gender  | Age Group |
 | ------ | ----------- | --------- | -------- | ---------- | ------- | ------- | --------- |
@@ -123,13 +122,12 @@ Here are the steps you can follow to fix a derailleur that causes the chain to c
 
 <hr class="__chatgpt_plugin">
 
-> [!quote] There is power in the small, purposeful actions we take each day. Riding a bike may seem modest, but it’s a quiet act of defiance and hope for a better future. At Brompton, we remain committed to shaping that better future—one bike, one ride, and one city at a time.  
+>[!quote] There is power in the small, purposeful actions we take each day. Riding a bike may seem modest, but it’s a quiet act of defiance and hope for a better future. At Brompton, we remain committed to shaping that better future—one bike, one ride, and one city at a time.  
 > —Will Butler-Adams (Looking Back at 2024 email)
 
 ## Possibilities Opened Up By Cycling
 
-![[Attachments/Possibilities Opened Up By Cycling.png]]
-
+![[Possibilities Opened Up By Cycling.png]]
 - ([View Source Highlight](https://read.readwise.io/read/01k88k25b9rm8qhqe0k22ast2d))
 
 ## Freiburg Bike Service Map Layers
@@ -145,4 +143,4 @@ Both layers in one file for QGIS: [[Attachments/freiburg_bike_service.gpkg|GeoPa
 
 ## The Possibilities Opened Up by Cycling
 
-![[Attachments/possibilities-opened-up-by-cycling.jpg]]
+![[possibilities-opened-up-by-cycling.jpg]]
