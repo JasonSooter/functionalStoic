@@ -2,18 +2,18 @@
 publish: true
 title: Texas
 created: 2026-10-20T16:28:47.000Z
-modified: 2026-10-23T02:26:56.000Z
-published: 2026-10-23T02:26:56.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-09T08:19:54.298Z
+published: 2026-11-09T08:19:54.298Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Texas
@@ -37,8 +37,10 @@ US state on the Gulf of Mexico. Hub for literary places in the state.
 - [[Johnson Space Center]]
 - [[Kingsville]]
 - [[La Porte]]
+- [[Longview, Texas]]
 - [[Marfa]]
 - [[Red Rock, Texas]]
 - [[Robert LB Tobin Land Bridge]]
 - [[San Antonio River Walk]]
+- [[Uvalde, Texas]]
 - [[Wichita Falls]]
