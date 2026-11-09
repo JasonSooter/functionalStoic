@@ -2,8 +2,8 @@
 publish: true
 title: Hillbrow
 created: 2026-11-08
-modified: 2026-11-08T23:21:40.749Z
-published: 2026-11-08T23:21:40.749Z
+modified: 2026-11-09T05:14:32.278Z
+published: 2026-11-09T05:14:32.278Z
 aliases:
   - Hillbrow Tower
   - Hillbrow Hospital
@@ -34,6 +34,9 @@ Dense inner-city neighbourhood of Johannesburg. In Born a Crime it is where Trev
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | His mother's illegal flat 203, his father in 206, and his birth at Hillbrow Hospital in 1984. |
+
+## Sub-places
+- [[Hillbrow Police Station]]
 
 ## Born a Crime — Trevor Noah (2016)
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq401tmsayb4sjy44w7s1f)

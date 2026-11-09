@@ -2,8 +2,8 @@
 publish: true
 title: South Africa
 created: 2026-10-20T10:42:36.000Z
-modified: 2026-11-09T02:15:30.335Z
-published: 2026-11-09T02:15:30.335Z
+modified: 2026-11-09T05:14:29.862Z
+published: 2026-11-09T05:14:29.862Z
 aliases: []
 books: []
 categories:
@@ -32,3 +32,4 @@ Country at the southern tip of Africa. Hub for literary places in the region.
 - [[Robben Island]]
 - [[Southern Drakensberg]]
 - [[Transkei]]
+- [[Tzaneen]]

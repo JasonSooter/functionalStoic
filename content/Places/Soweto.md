@@ -2,8 +2,8 @@
 publish: true
 title: Soweto
 created: 2026-11-08
-modified: 2026-11-08T23:21:40.713Z
-published: 2026-11-08T23:21:40.713Z
+modified: 2026-11-09T05:14:31.150Z
+published: 2026-11-09T05:14:31.150Z
 aliases:
   - South Western Townships
 books:
@@ -35,6 +35,8 @@ Township in the south-west of Johannesburg, built under apartheid to house black
 | Born a Crime | Trevor Noah | subject | A township "designed to be bombed", where Trevor spends his holidays at his grandmother's. |
 
 ## Sub-places
+
+- [[Diepkloof]]
 - [[Orlando East]]
 
 ## Born a Crime — Trevor Noah (2016)

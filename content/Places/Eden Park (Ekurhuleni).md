@@ -2,8 +2,8 @@
 publish: true
 title: Eden Park
 created: 2026-11-08
-modified: 2026-11-08T23:21:40.693Z
-published: 2026-11-08T23:21:40.693Z
+modified: 2026-11-09T05:14:33.214Z
+published: 2026-11-09T05:14:33.214Z
 aliases:
   - Eden Park
 books:
@@ -33,6 +33,9 @@ Coloured suburb on the East Rand in Ekurhuleni, south-east of Johannesburg. In B
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | The family's own house off Toyota Street, in a flat, red-clay suburb near the riot townships of the East Rand. |
+
+## Sub-places
+- [[Eden Park Police Station]]
 
 ## Born a Crime — Trevor Noah (2016)
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq3vmtr14ttweerg3pn55g)
