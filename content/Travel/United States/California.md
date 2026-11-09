@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-11-09T08:20:07.869Z
-published: 2026-11-09T08:20:07.869Z
+modified: 2026-11-09T11:24:22.666Z
+published: 2026-11-09T11:24:22.666Z
 aliases: []
 books: []
 categories:
@@ -108,6 +108,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Jet Propulsion Laboratory]]
 - [[Kennedy Meadows]]
 - [[Kern Water Bank]]
+- [[La Quinta Resort]]
 - [[Lakewood, California]]
 - [[Lassen Volcanic National Park]]
 - [[Los Angeles Aqueduct]]

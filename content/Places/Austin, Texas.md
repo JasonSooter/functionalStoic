@@ -2,8 +2,8 @@
 publish: true
 title: Austin, Texas
 created: 2016-03-15
-modified: 2026-11-09T08:20:09.281Z
-published: 2026-11-09T08:20:09.281Z
+modified: 2026-11-09T11:24:42.695Z
+published: 2026-11-09T11:24:42.695Z
 aliases:
   - Austin
 books:
@@ -11,6 +11,7 @@ books:
   - Bang Bang Crazy, Part Five (Update)
   - Six Cities
   - The Black Art of Escape
+  - Greenlights
 categories:
   - "[[Places]]"
 color: purple
@@ -40,12 +41,14 @@ Capital of Texas. In The Comfort Crisis (Michael Easter) it is home to nutrition
 | Bang Bang Crazy, Part Five (Update) | Jim Wright | subject | A gun-rights rally in Austin is the springboard for Wright's argument. |
 | Six Cities | Shawni Danner | journey waypoint | The author spends two weeks in an AirBnB trying Austin as a potential home, working from cafes and co-work spaces |
 | The Black Art of Escape | Casey Gerald | turning point | The serial bombings killed two black residents who attended the same church, with later blasts in East Austin and a suspect found in… |
+| Greenlights | Matthew McConaughey | setting | The city that lets him be himself: in 2008 he, Camila and baby Levi move back and settle on nine acres overlooking the river. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.2672&mlon=-97.7431#map=16/30.2672/-97.7431) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.2672,-97.7431)
 
 ## Sub-places
 
 - [[Catfish Station]]
+- [[Tarrytown (Austin)]]
 - [[Top Notch (Austin)]]
 - [[University of Texas at Austin]]
 
@@ -84,3 +87,12 @@ Source: [Original](https://nymag.com/intelligencer/2019/08/the-black-art-of-esca
 - **Role:** turning point
 - **In the article:** The serial bombings killed two black residents who attended the same church, with later blasts in East Austin and a suspect found in Round Rock. He distrusts the official no-motive explanation.
 - **Why it matters:** The bombings push him from withdrawal toward his argument about escape and safety.
+
+## Greenlights — Matthew McConaughey (2020)
+Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highlight](https://read.readwise.io/read/01m700jz57yfnz3kxw6r3fqyh4)
+
+> Camila, Levi, and I bought and moved into a home on the outskirts of Austin, overlooking the river.
+
+- **Role:** setting
+- **In the book:** He studies at UT Austin and says the city "always let me be myself." Soon after Levi's birth in July 2008 a family crisis brings him back from Los Angeles; Camila and Levi follow, and they first rent a small home in his mother's retirement community, then buy a nine-acre property with a spring-fed well on the outskirts of the city, overlooking the river.
+- **Why it matters:** The move back to Austin ends his Hollywood years and anchors the family life of the book's last part. Specific Austin scenes are pinned at [[University of Texas at Austin]], [[Catfish Station]], [[Top Notch (Austin)]] and [[Tarrytown (Austin)]].

@@ -2,8 +2,8 @@
 publish: true
 title: Australia
 created: 2016-06-27
-modified: 2026-11-09T08:19:56.006Z
-published: 2026-11-09T08:19:56.006Z
+modified: 2026-11-09T11:24:05.550Z
+published: 2026-11-09T11:24:05.550Z
 aliases: []
 books:
   - On the Rebound from Epic Failure
@@ -41,6 +41,7 @@ Country and continent in the southern hemisphere. Jason Goldberg makes his decis
 ## Sub-places
 
 - [[Northern Territory]]
+- [[Port Douglas]]
 - [[South Australia]]
 - [[Sydney]]
 - [[Tasmania]]
