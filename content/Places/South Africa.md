@@ -2,8 +2,8 @@
 publish: true
 title: South Africa
 created: 2026-10-20T10:42:36.000Z
-modified: 2026-11-08T23:17:29.872Z
-published: 2026-11-08T23:17:29.872Z
+modified: 2026-11-09T02:15:30.335Z
+published: 2026-11-09T02:15:30.335Z
 aliases: []
 books: []
 categories:
@@ -23,7 +23,9 @@ Country at the southern tip of Africa. Hub for literary places in the region.
 ## Sub-places
 
 - [[Cape of Good Hope]]
+- [[Cape Town]]
 - [[Eden Park (Ekurhuleni)|Eden Park]]
+- [[Hammanskraal]]
 - [[Hluhluwe–iMfolozi Park]]
 - [[Johannesburg]]
 - [[Jonkershoek Nature Reserve]]
