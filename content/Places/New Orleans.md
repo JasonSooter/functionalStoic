@@ -2,13 +2,8 @@
 publish: true
 title: New Orleans
 created: 2015-11-27
-modified: 2026-11-07T07:02:00.000Z
-published: 2026-11-07T07:02:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/New Orleans.svg
+modified: 2026-11-09T14:18:26.269Z
+published: 2026-11-09T14:18:26.269Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -21,6 +16,7 @@ books:
   - Meet the worst ants in the world
   - "The Code of Hammurabi: The Best Rule To Manage Risk"
   - "Sapiens: A Brief History of Humankind"
+  - Greenlights
 categories:
   - "[[Places]]"
 color: purple
@@ -29,6 +25,10 @@ icon: book
 location:
   - 29.9761
   - -90.0783
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/New Orleans.svg
 ---
 
@@ -50,8 +50,9 @@ City on the Mississippi in Louisiana, USA, which appears in the reading for its 
 | Meet the worst ants in the world | Annalee Newitz | journey waypoint | New Orleans was the first US port where the ants were recorded, then the railhead for the Sunset Limited carrying them west |
 | The Code of Hammurabi: The Best Rule To Manage Risk | Farnam Street | turning point | The author cites Katrina as a modern contrast to Hammurabi's accountability: 1600 people died from flooding partly caused by poorly… |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Founded by the Mississippi Company, whose share bubble wrecked French finances. |
+| Greenlights | Matthew McConaughey | setting | Shooting base for Dallas Buyers Club and True Detective; his father's city, and a "Dear New Orleans" love letter. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.9761\&mlon=-90.0783#map=11/29.9761/-90.0783) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=29.9761,-90.0783)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.9761&mlon=-90.0783#map=11/29.9761/-90.0783) · [Google Maps](https://www.google.com/maps/search/?api=1&query=29.9761,-90.0783)
 
 ## Sub-places
 
@@ -63,7 +64,6 @@ City on the Mississippi in Louisiana, USA, which appears in the reading for its 
 - [[The Jockey Club race course (The Awakening)]]
 
 ## Why the Levees Failed in New Orleans — Practical Engineering (2026)
-
 Source: [Original](https://nebula.tv/videos/practical-engineering-why-the-levees-failed-in-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5bfxmvdeb9rbhz077cjjf31)
 
 > What happened in New Orleans in August 2005 wasn’t a natural disaster.
@@ -73,7 +73,6 @@ Source: [Original](https://nebula.tv/videos/practical-engineering-why-the-levees
 - **Why it matters:** The city is the subject, but the text here is a two-sentence summary; the argument itself is in the video.
 
 ## What Happens When You Give Teens No-Strings Cash? — Neal Morton (2025)
-
 Source: [Original](https://reasonstobecheerful.world/50-dollar-study-teens-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5dr1rgexkf4eyjqa171zd4c)
 
 > In New Orleans, roughly four in five of Rooted students come from economically disadvantaged families, and during the pandemic, many struggled to prioritize school.
@@ -83,7 +82,6 @@ Source: [Original](https://reasonstobecheerful.world/50-dollar-study-teens-new-o
 - **Why it matters:** The city is the study's home and a funder; its pandemic-era crime spike motivated the extension.
 
 ## What We’re Reading: A Spongier New Orleans — RTBC Staff (2025)
-
 Source: [Original](https://reasonstobecheerful.world/what-were-reading-spongier-new-orleans/) · [Readwise highlight](https://read.readwise.io/read/01m5e2zyp8cps5hshsnmp3m4r1)
 
 > Nearly 20 years after Hurricane Katrina, green infrastructure projects all over New Orleans are proving their worth, as residents witness first-hand the way that rain gardens and bioswales soak up heavy rain.
@@ -93,7 +91,6 @@ Source: [Original](https://reasonstobecheerful.world/what-were-reading-spongier-
 - **Why it matters:** The city and its flood history are the subject of the item and give the green-infrastructure story its stakes.
 
 ## Make it Small, Make it Right — David Friedlander (2015)
-
 Source: [Original](https://lifeedited.com/make-it-small-make-it-right/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5er582752ae8ss5r7a13)
 
 > Recently, MIR dabbled in tiny houses, building a smartly designed 430 sq ft home in New Orleans.
@@ -103,7 +100,6 @@ Source: [Original](https://lifeedited.com/make-it-small-make-it-right/) · [Read
 - **Why it matters:** The house is the article's example of small, well-made homes; the city's post-Katrina rebuilding is its backdrop.
 
 ## What Happens After Calls for New Gun Restrictions? Sales Go Up — Gregor Aisch and Josh Keller (2015)
-
 Source: [Original](https://www.nytimes.com/interactive/2015/12/10/us/gun-sales-terrorism-obama-restrictions.html) · [Readwise highlight](https://read.readwise.io/read/01m5hx1xw8cpappt3zgxyx7s14)
 
 > As police officers evacuated people from New Orleans after Hurricane Katrina, legally registered guns were
@@ -113,7 +109,6 @@ Source: [Original](https://www.nytimes.com/interactive/2015/12/10/us/gun-sales-t
 - **Why it matters:** Case study of a disaster-driven policy backlash that shaped gun law.
 
 ## The New Starter Home — David Friedlander (2016)
-
 Source: [Original](https://lifeedited.com/the-new-starter-home/) · [Readwise highlight](https://read.readwise.io/read/01m5jkzh1gx73thp4shpn2mga7)
 
 > The first starter home cost $339K, which is about $35K more than the average New Orleans listing.
@@ -123,7 +118,6 @@ Source: [Original](https://lifeedited.com/the-new-starter-home/) · [Readwise hi
 - **Why it matters:** Test site for a small-house model; the article names Oakland as next, so New Orleans is the pilot.
 
 ## Those With Multiple Tours of War Overseas Struggle at Home - The New York Times — Benedict Carey (2016)
-
 Source: [Original](https://www.nytimes.com/2016/05/30/health/veterans-iraq-afghanistan-psychology-therapy.html) · [Readwise highlight](https://read.readwise.io/read/01m5jvq6r76x0hs80d9xpn7n5s)
 
 > In 2005, Hurricane Katrina landed his Guard unit in New Orleans, working for a month to contain looting and help people evacuate to safety.
@@ -133,7 +127,6 @@ Source: [Original](https://www.nytimes.com/2016/05/30/health/veterans-iraq-afgha
 - **Why it matters:** The place where his career path was set, but the text spends only a few sentences on it.
 
 ## Meet the worst ants in the world — Annalee Newitz (2016)
-
 Source: [Original](https://arstechnica.com/science/2016/08/meet-the-worst-ants-in-the-world/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9gg2vcncaw25v1f07msc)
 
 > Entomologists' first recorded sightings of the ants outside South America are in New Orleans and the island of Madeira, off the coast of Portugal, in the 1880s.
@@ -143,7 +136,6 @@ Source: [Original](https://arstechnica.com/science/2016/08/meet-the-worst-ants-i
 - **Why it matters:** Entry point to North America.
 
 ## The Code of Hammurabi: The Best Rule To Manage Risk — Farnam Street (2017)
-
 Source: [Original](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) · [Readwise highlight](https://read.readwise.io/read/01m5k7bs064arxnrzw8ezbyfyc)
 
 > We saw this in Hurricane Katrina —1600 people died due to flooding caused in part by the poor design of hurricane protection systems in New Orleans. Hindsight analysis showed that the city’s floodwalls, levees, pumps, and gates were ill designed and maintained.
@@ -153,7 +145,6 @@ Source: [Original](https://www.farnamstreetblog.com/2017/11/hammurabis-code/) ·
 - **Why it matters:** Used as the central modern counterexample of poor construction without accountability.
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m770ekvjkw2jdk2r6pkm8y)
 
 > In 1717 the Mississippi Company, chartered in France, set out to colonise the lower Mississippi valley, establishing the city of New Orleans in the process.
@@ -161,3 +152,12 @@ Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highl
 - **Role:** subject
 - **In the book:** In 1717 the Mississippi Company set out to colonise the lower Mississippi valley and founded New Orleans. The valley offered little but swamps and alligators, yet tales of riches drove shares from 500 to over 10,000 livres before they collapsed, ruining French credit.
 - **Why it matters:** The place is the empty object of the largest financial crisis of 18th-century Europe, which the book links to the French Revolution.
+
+## Greenlights — Matthew McConaughey (2020)
+Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highlight](https://read.readwise.io/read/01m70arrv2v2jvckspf2fg1afx)
+
+> My family and I soon packed up and moved back to New Orleans for the six-month shoot.
+
+- **Role:** setting
+- **In the book:** Dallas Buyers Club is shot in New Orleans on a tight budget, and the family later moves there for the six-month True Detective shoot. McConaughey says his dad was raised in the Crescent City, that the family came every year for the Blessing of the Fleets Shrimp Festival, and that he had filmed four of his last five movies there; "It's always felt like home." He then prints a journal love letter, "Dear New Orleans", on the Big Easy's front porches, slow hours and "big, beautiful mess".
+- **Why it matters:** The city is both the working base of the "McConaissance" years and one of the few places the book stops to portray for its own sake; set elsewhere, the letter on place and identity would lose its subject.
