@@ -2,8 +2,8 @@
 publish: true
 title: Coyoacán
 created: 2026-11-08
-modified: 2026-11-10T11:22:35.395Z
-published: 2026-11-10T11:22:35.395Z
+modified: 2026-11-10T20:19:09.840Z
+published: 2026-11-10T20:19:09.840Z
 aliases:
   - Coyoacan
 books:
@@ -35,6 +35,8 @@ Old residential borough on the southern side of [[Mexico City]]. In Hayden Herre
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | backdrop | The quiet village Frida leaves for the Preparatoria and complains of, "pasture and pasture", while kept home. |
 
 ## Sub-places
+
+- [[Aguayo Street (Coyoacán)]]
 - [[Casa Azul]]
 
 ## Frida — Hayden Herrera (1983)

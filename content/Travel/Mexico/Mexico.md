@@ -2,8 +2,8 @@
 publish: true
 title: Mexico
 created: 2024-12-22T21:32:19.528Z
-modified: 2026-11-10T17:22:38.009Z
-published: 2026-11-10T17:22:38.009Z
+modified: 2026-11-10T20:19:08.597Z
+published: 2026-11-10T20:19:08.597Z
 books: []
 categories:
   - "[[Places]]"
@@ -61,7 +61,9 @@ Mexico is a country in North America. It groups the places below that come up in
 - [[Mexico City]]
 - [[Nuevo Laredo]]
 - [[Oaxaca]]
+- [[Pátzcuaro]]
 - [[San Miguel de Allende]]
+- [[San Miguel Regla]]
 - [[Tampico]]
 - [[Veracruz]]
 - [[Zacatecas (state)]]

@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2016-07-30
-modified: 2026-11-10T17:22:28.839Z
-published: 2026-11-10T17:22:28.839Z
+modified: 2026-11-10T20:19:02.620Z
+published: 2026-11-10T20:19:02.620Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -42,6 +42,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 
 ## Sub-places
 
+- [[18 East 48th Street]]
 - [[30 Rockefeller Plaza]]
 - [[8 West Thirteenth Street]]
 - [[Barbizon-Plaza Hotel]]
@@ -52,6 +53,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[Holly Hotel (Washington Square)]]
 - [[Hotel Lincoln (Eighth Avenue)]]
 - [[Jewish Theological Seminary of America]]
+- [[Julien Levy Gallery]]
 - [[New Workers' School (51 West Fourteenth Street)]]
 - [[New York City Center]]
 - [[NYU Stern School of Business]]
