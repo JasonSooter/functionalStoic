@@ -2,8 +2,8 @@
 publish: true
 title: Mexico City
 created: 2024-12-22T21:32:36.142Z
-modified: 2026-11-10T14:22:59.952Z
-published: 2026-11-10T14:22:59.952Z
+modified: 2026-11-10T17:22:35.709Z
+published: 2026-11-10T17:22:35.709Z
 books:
   - Retiring Abroad – Could We Do It?
   - Eating Our Way Across Mexico
@@ -75,14 +75,19 @@ In [[Mexico City]], the things we enjoyed the most were:
 
 ## Sub-places
 
+- [[Avenida Insurgentes 432]]
 - [[Biblioteca Iberoamericana (Mexico City)]]
+- [[Casa Estudio Diego Rivera y Frida Kahlo]]
 - [[Colegio de San Ildefonso]]
 - [[Colonia Doctores]]
 - [[Coyoacán]]
 - [[Cuahutemotzín and 5 de Mayo (Frida)]]
 - [[Estadio Olímpico Universitario]]
+- [[Palacio de Bellas Artes]]
+- [[Palacio Nacional]]
 - [[Paseo de la Reforma 104]]
 - [[Red Cross Hospital (Mexico City)]]
+- [[Salón México]]
 - [[Secretaría de Educación Pública Building]]
 - [[Tenochtitlan]]
 

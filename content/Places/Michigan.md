@@ -2,18 +2,18 @@
 publish: true
 title: Michigan
 created: 2026-10-20T19:39:51.000Z
-modified: 2026-10-22T23:16:57.000Z
-published: 2026-10-22T23:16:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-10T17:22:32.868Z
+published: 2026-11-10T17:22:32.868Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Michigan
@@ -24,6 +24,7 @@ US state in the Great Lakes region. Hub for literary places in the state.
 
 - [[Battle Creek]]
 - [[Detroit]]
+- [[Ford River Rouge complex]]
 - [[Keweenaw National Historical Park]]
 - [[Mackinac Island]]
 - [[Mackinaw City]]
