@@ -2,8 +2,8 @@
 publish: true
 title: San Francisco
 created: 2016-06-24
-modified: 2026-11-10T14:22:57.464Z
-published: 2026-11-10T14:22:57.464Z
+modified: 2026-11-10T23:17:12.255Z
+published: 2026-11-10T23:17:12.255Z
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -75,12 +75,14 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 - [[Ocean Beach (San Francisco)]]
 - [[Pier 70]]
 - [[Recology San Francisco]]
+- [[Saint Luke's Hospital (San Francisco)]]
 - [[Sally's Diner (Project Hail Mary)]]
 - [[San Francisco Ferry Building]]
 - [[San Francisco–Oakland Bay Bridge]]
 - [[SFMOMA]]
 - [[Tahanan (833 Bryant Street)]]
 - [[Thurgood Marshall Academic High School]]
+- [[Treasure Island (San Francisco)]]
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
 Source: [Original](https://openlibrary.org/works/OL59688W)

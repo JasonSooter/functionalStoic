@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2016-07-30
-modified: 2026-11-10T20:19:02.620Z
-published: 2026-11-10T20:19:02.620Z
+modified: 2026-11-10T23:17:08.111Z
+published: 2026-11-10T23:17:08.111Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -49,8 +49,10 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[City Hall Park]]
 - [[Dalton School]]
 - [[Dwight School]]
+- [[Hampshire House]]
 - [[Heckscher Building]]
 - [[Holly Hotel (Washington Square)]]
+- [[Hospital for Special Surgery]]
 - [[Hotel Lincoln (Eighth Avenue)]]
 - [[Jewish Theological Seminary of America]]
 - [[Julien Levy Gallery]]

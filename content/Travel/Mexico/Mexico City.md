@@ -2,8 +2,8 @@
 publish: true
 title: Mexico City
 created: 2024-12-22T21:32:36.142Z
-modified: 2026-11-10T20:19:06.055Z
-published: 2026-11-10T20:19:06.055Z
+modified: 2026-11-10T23:16:48.895Z
+published: 2026-11-10T23:16:48.895Z
 books:
   - Retiring Abroad – Could We Do It?
   - Eating Our Way Across Mexico
@@ -84,6 +84,7 @@ In [[Mexico City]], the things we enjoyed the most were:
 - [[Cuahutemotzín and 5 de Mayo (Frida)]]
 - [[Estadio Olímpico Universitario]]
 - [[Galería de Arte Mexicano]]
+- [[La Esmeralda (art school)|La Esmeralda]]
 - [[Lechería station]]
 - [[Palacio de Bellas Artes]]
 - [[Palacio Nacional]]

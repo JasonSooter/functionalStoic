@@ -2,8 +2,8 @@
 publish: true
 title: Coyoacán
 created: 2026-11-08
-modified: 2026-11-10T20:19:09.840Z
-published: 2026-11-10T20:19:09.840Z
+modified: 2026-11-10T23:16:40.454Z
+published: 2026-11-10T23:16:40.454Z
 aliases:
   - Coyoacan
 books:
@@ -38,6 +38,9 @@ Old residential borough on the southern side of [[Mexico City]]. In Hayden Herre
 
 - [[Aguayo Street (Coyoacán)]]
 - [[Casa Azul]]
+- [[Casa de la Mujer Josefina Ortiz de Domínguez (Coyoacán)|Casa de la Mujer Josefina Ortiz de Domínguez]]
+- [[La Rosita (Coyoacán)|La Rosita]]
+- [[Museo Anahuacalli]]
 
 ## Frida — Hayden Herrera (1983)
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m72jsc7vn5e1mk9wbp8yt233)
