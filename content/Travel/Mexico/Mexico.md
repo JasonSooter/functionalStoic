@@ -2,8 +2,8 @@
 publish: true
 title: Mexico
 created: 2024-12-22T21:32:19.528Z
-modified: 2026-11-08T11:23:37.000Z
-published: 2026-11-08T11:23:37.000Z
+modified: 2026-11-10T14:23:02.292Z
+published: 2026-11-10T14:23:02.292Z
 books: []
 categories:
   - "[[Places]]"
@@ -54,6 +54,7 @@ Mexico is a country in North America. It groups the places below that come up in
 - [[Chihuahua]]
 - [[Coahuila]]
 - [[Cozumel]]
+- [[Cuernavaca]]
 - [[El Rosario Monarch Butterfly Sanctuary]]
 - [[Guanajuato]]
 - [[Jalisco]]

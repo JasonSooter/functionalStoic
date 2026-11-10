@@ -2,8 +2,8 @@
 publish: true
 title: Freiburg, Germany
 created: 2026-01-09T21:03:18.640Z
-modified: 2026-11-08T11:23:37.000Z
-published: 2026-11-08T11:23:37.000Z
+modified: 2026-11-10T14:23:35.858Z
+published: 2026-11-10T14:23:35.858Z
 aliases:
   - Freiburg im Breisgau
   - Freiburg, Germany
@@ -13,6 +13,7 @@ books:
   - "Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben"
   - "Verdi-Streik: Am Montag fahren in Freiburg keine Busse und Bahnen"
   - Germany's "Green" City (with more bikes than cars!)
+  - What Studies Say About Public Transport in Freiburg
 categories:
   - "[[Places]]"
 color: purple
@@ -90,6 +91,7 @@ Overall, Freiburg blends historical charm with a forward-thinking approach to ur
 | Verpackungssteuer: So läuft es laut einer IHK-Umfrage bei den Freiburger Betrieben | Saskia Schuh | subject | How Freiburg's packaging tax is landing with local cafés, bakeries and shops. |
 | Verdi-Streik: Am Montag fahren in Freiburg keine Busse und Bahnen | Matthias Joers | subject | A day-long strike stops the city's trams and almost all its buses. |
 | Germany's "Green" City (with more bikes than cars!) | Not Just Bikes | subject | A video tour of Freiburg as a car-light model city. |
+| What Studies Say About Public Transport in Freiburg | VAG Freiburg | subject | Three studies rank Freiburg near the top for transit access, short distances and car-free trips (76 %). |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.995&mlon=7.85#map=13/47.995/7.85) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.995,7.85)
 
@@ -97,6 +99,7 @@ Overall, Freiburg blends historical charm with a forward-thinking approach to ur
 
 - [[Augustinermuseum]]
 - [[Bertoldsbrunnen]]
+- [[Betzenhausen]]
 - [[Carl-Schurz-Haus]]
 - [[Dietenbach (Freiburg)]]
 - [[Europa-Park Stadion]]
@@ -168,3 +171,12 @@ Source: [Original](https://youtube.com/watch?v=6Vil5KC7Bl0) · [Readwise highlig
 - **Role:** subject
 - **In the video:** A tour of the city as a model of car-light planning: the pedestrianised old town, the tram network kept and expanded, rebuilding after the war, the [[Vauban]] district and the main station.
 - **Why it matters:** The whole city is the subject, held up as proof that a mid-sized German city can have more bikes than cars.
+
+## What Studies Say About Public Transport in Freiburg — VAG Freiburg (2026)
+Source: [Original](https://blog.vag-freiburg.de/was-studien-ueber-den-oepnv-in-freiburg-sagen/) · [Readwise highlight](https://read.readwise.io/read/01m72xf13y5fwkrwm6tj3x7j4j)
+
+> Is Freiburg really a city of short distances and exemplary when it comes to public transport, because a tram comes along every few minutes? Yes, say a range of very different current studies.
+
+- **Role:** subject
+- **In the article:** VAG goes through three studies. The state's Public Transport Report BW 2024 ranks Freiburg second behind Karlsruhe, with 78 % of residents in quality classes A or B and about 345 transit trips per resident a year. The federal "Fifteen-Minute City" study finds everyday facilities reachable in 6.3 minutes on average and singles out [[Vauban]] and Dietenbach, and the MiD study puts car-free trips at 76 %. The Kantar customer barometer ranks VAG 4th of 44 operators.
+- **Why it matters:** The whole city is the subject: the article uses the rankings to argue that decades of policy favouring walking, cycling and transit have paid off.

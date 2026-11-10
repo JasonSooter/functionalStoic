@@ -2,8 +2,8 @@
 publish: true
 title: Mexico City
 created: 2024-12-22T21:32:36.142Z
-modified: 2026-11-10T11:18:12.068Z
-published: 2026-11-10T11:18:12.068Z
+modified: 2026-11-10T14:22:59.952Z
+published: 2026-11-10T14:22:59.952Z
 books:
   - Retiring Abroad – Could We Do It?
   - Eating Our Way Across Mexico
@@ -81,7 +81,9 @@ In [[Mexico City]], the things we enjoyed the most were:
 - [[Coyoacán]]
 - [[Cuahutemotzín and 5 de Mayo (Frida)]]
 - [[Estadio Olímpico Universitario]]
+- [[Paseo de la Reforma 104]]
 - [[Red Cross Hospital (Mexico City)]]
+- [[Secretaría de Educación Pública Building]]
 - [[Tenochtitlan]]
 
 ## Retiring Abroad – Could We Do It? — JustinRoG (2015)
