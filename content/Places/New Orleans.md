@@ -2,8 +2,8 @@
 publish: true
 title: New Orleans
 created: 2015-11-27
-modified: 2026-11-09T14:18:26.269Z
-published: 2026-11-09T14:18:26.269Z
+modified: 2026-11-11T20:20:30.975Z
+published: 2026-11-11T20:20:30.975Z
 aliases: []
 books:
   - Why the Levees Failed in New Orleans
@@ -17,6 +17,7 @@ books:
   - "The Code of Hammurabi: The Best Rule To Manage Risk"
   - "Sapiens: A Brief History of Humankind"
   - Greenlights
+  - Bicycle Diaries
 categories:
   - "[[Places]]"
 color: purple
@@ -51,6 +52,7 @@ City on the Mississippi in Louisiana, USA, which appears in the reading for its 
 | The Code of Hammurabi: The Best Rule To Manage Risk | Farnam Street | turning point | The author cites Katrina as a modern contrast to Hammurabi's accountability: 1600 people died from flooding partly caused by poorly… |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | subject | Founded by the Mississippi Company, whose share bubble wrecked French finances. |
 | Greenlights | Matthew McConaughey | setting | Shooting base for Dallas Buyers Club and True Detective; his father's city, and a "Dear New Orleans" love letter. |
+| Bicycle Diaries | David Byrne | subject | A flat, friendly city of levee paths and bead-hung St. Charles oaks, one of the few US cities with real character. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=29.9761&mlon=-90.0783#map=11/29.9761/-90.0783) · [Google Maps](https://www.google.com/maps/search/?api=1&query=29.9761,-90.0783)
 
@@ -161,3 +163,12 @@ Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highl
 - **Role:** setting
 - **In the book:** Dallas Buyers Club is shot in New Orleans on a tight budget, and the family later moves there for the six-month True Detective shoot. McConaughey says his dad was raised in the Crescent City, that the family came every year for the Blessing of the Fleets Shrimp Festival, and that he had filmed four of his last five movies there; "It's always felt like home." He then prints a journal love letter, "Dear New Orleans", on the Big Easy's front porches, slow hours and "big, beautiful mess".
 - **Why it matters:** The city is both the working base of the "McConaissance" years and one of the few places the book stops to portray for its own sake; set elsewhere, the letter on place and identity would lose its subject.
+
+## Bicycle Diaries — David Byrne (2009)
+Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m7641emtcn80dvb8f9yt2bz5)
+
+> New Orleans was, and I suspect still is, one of a few large cities across the U.S.A. with character and personality, with its own food, culture, language, and music.
+
+- **Role:** subject
+- **In the book:** Byrne recalls biking the flat city often before Katrina: along Magazine Street and St. Charles, where what looks like Spanish moss turns out to be Mardi Gras beads, and on a path along the levees. He praises how open and friendly people are compared with Denver or San Diego.
+- **Why it matters:** New Orleans is his counterexample to the dead downtowns in the same chapter, a city "about living", and he laments that after Katrina it was "abandoned and left to be washed away".

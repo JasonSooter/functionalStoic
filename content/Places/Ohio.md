@@ -2,18 +2,18 @@
 publish: true
 title: Ohio
 created: 2026-10-21T04:45:15.000Z
-modified: 2026-10-23T02:05:34.000Z
-published: 2026-10-23T02:05:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-11T20:22:10.762Z
+published: 2026-11-11T20:22:10.762Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Ohio
@@ -27,6 +27,7 @@ U.S. state.
 - [[Cincinnati]]
 - [[Cleveland]]
 - [[Columbus Idea Foundry]]
+- [[Columbus, Ohio]]
 - [[Coshocton, Ohio]]
 - [[Lakewood, Ohio]]
 - [[Main Street (Akron)]]

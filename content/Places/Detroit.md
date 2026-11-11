@@ -2,8 +2,8 @@
 publish: true
 title: Detroit
 created: 2016-06-24
-modified: 2026-11-10T17:22:30.684Z
-published: 2026-11-10T17:22:30.684Z
+modified: 2026-11-11T20:20:04.639Z
+published: 2026-11-11T20:20:04.639Z
 aliases: []
 books:
   - Reading List 08/09/2025
@@ -11,12 +11,13 @@ books:
     \ Senghor – Big Think"
   - Major New Study Finds Geography Can Affect Life Span as Much as Income
   - Opinion – A New Map for America - The New York Times
+  - Bicycle Diaries
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 42.3317,-83.0458
 geo_source: Wikipedia (en)
-icon: newspaper
+icon: book
 location:
   - 42.3317
   - -83.0458
@@ -40,6 +41,7 @@ City in [[Michigan]], USA, historic centre of the US car industry, cited in a Co
 | How Prison Sets Inmates Up for Failure: Racism, Mental Illness, Poverty – Shaka Senghor – Big Think | Big Think | turning point | Shaka Senghor walks out of prison in Detroit after 19 years. |
 | Major New Study Finds Geography Can Affect Life Span as Much as Income | Eric Pfeiffer | subject | Detroit: poorest-performing city in the life-expectancy study, poor residents' lifespans falling |
 | Opinion – A New Map for America - The New York Times | Parag Khanna | subject | Presented as interdependent through auto and steel industries and a proposed midpoint of a Chicago-Toronto corridor, bickering over who… |
+| Bicycle Diaries | David Byrne | journey waypoint | A ride from downtown to the suburbs through rings of ruin, "a time line through a city's history". |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3317&mlon=-83.0458#map=11/42.3317/-83.0458) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3317,-83.0458)
 
@@ -89,3 +91,12 @@ Source: [Original](https://www.nytimes.com/2016/04/17/opinion/sunday/a-new-map-f
 - **Role:** subject
 - **In the article:** Presented as interdependent through auto and steel industries and a proposed midpoint of a Chicago-Toronto corridor, bickering over who pays for a new bridge.
 - **Why it matters:** The example for planning that jumps international borders.
+
+## Bicycle Diaries — David Byrne (2009)
+Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76418nyw9vj1rzqbm3h4w22)
+
+> I bike from the center of town out to the suburbs. It’s an amazing ride—a time line through a city’s history, its glory and betrayal.
+
+- **Role:** journey waypoint
+- **In the book:** Byrne rides out through concentric rings: the downtown offices and arena, then the overgrown remains of a ghetto, vast vacant lots he compares to pictures of Berlin after the war, abandoned light industry, and finally manicured suburbs before the desolation returns near Eight Mile Road. He calls it one of the best and most memorable rides of his life, visceral and heartbreaking in a way ancient ruins aren't.
+- **Why it matters:** Detroit is the most dramatic case in his survey of American "ruins in progress", and he stresses that from a freeway he would have seen none of it.

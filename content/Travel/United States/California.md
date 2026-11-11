@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-11-09T11:24:22.666Z
-published: 2026-11-09T11:24:22.666Z
+modified: 2026-11-11T20:22:23.135Z
+published: 2026-11-11T20:22:23.135Z
 aliases: []
 books: []
 categories:
@@ -156,6 +156,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Travis Air Force Base]]
 - [[Truckee River]]
 - [[Tulare, California]]
+- [[Valencia, California]]
 - [[Vandenberg Space Force Base]]
 - [[Ventura, California]]
 - [[Waldorf School of the Peninsula]]

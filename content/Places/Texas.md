@@ -2,8 +2,8 @@
 publish: true
 title: Texas
 created: 2026-10-20T16:28:47.000Z
-modified: 2026-11-09T08:19:54.298Z
-published: 2026-11-09T08:19:54.298Z
+modified: 2026-11-11T20:21:21.295Z
+published: 2026-11-11T20:21:21.295Z
 aliases: []
 books: []
 categories:
@@ -42,5 +42,6 @@ US state on the Gulf of Mexico. Hub for literary places in the state.
 - [[Red Rock, Texas]]
 - [[Robert LB Tobin Land Bridge]]
 - [[San Antonio River Walk]]
+- [[Sweetwater, Texas]]
 - [[Uvalde, Texas]]
 - [[Wichita Falls]]

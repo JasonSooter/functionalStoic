@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - Rochester
 title: Rochester, New York
 created: 2025-12-28
-modified: 2026-11-07T07:00:58.000Z
-published: 2026-11-07T07:00:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Rochester, New York.svg
+modified: 2026-11-11T20:21:18.018Z
+published: 2026-11-11T20:21:18.018Z
+aliases:
+  - Rochester
 books:
   - "[[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]]"
 categories:
@@ -22,6 +17,10 @@ icon: book
 location:
   - 43.1656
   - -77.6161
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[New York State]]"
 image: Attachments/Places/Rochester, New York.svg
 ---
@@ -36,10 +35,14 @@ City on the Genesee River in western New York. In _Wedding of the Waters_ the ca
 |---|---|---|---|
 | [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] | Peter L. Bernstein | setting | The flotilla's rainy Rochester stop, and the flour mills and factories the canal brought. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.1656\&mlon=-77.6161#map=16/43.1656/-77.6161) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.1656,-77.6161)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.1656&mlon=-77.6161#map=16/43.1656/-77.6161) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.1656,-77.6161)
+
+## Sub-places
+
+- [[George Eastman Museum]]
+- [[High Falls (Rochester)]]
 
 ## Wedding of the Waters - The Erie Canal and the Making of a Great Nation — Peter L. Bernstein (2005)
-
 Source: [[Wedding of the Waters - The Erie Canal and the Making of a Great Nation]] · [Original](https://openlibrary.org/works/OL3294009W) · [Readwise highlight](https://read.readwise.io/read/01m5kve54wxm1ghka5dbvzww9p)
 
 > The parade reached Rochester on the rainy morning of the twenty-seventh.
