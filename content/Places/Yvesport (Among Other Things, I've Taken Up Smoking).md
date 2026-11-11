@@ -2,8 +2,8 @@
 publish: true
 title: Yvesport (Among Other Things, I've Taken Up Smoking)
 created: 2026-11-08
-modified: 2026-11-11T11:22:05.731Z
-published: 2026-11-11T11:22:05.731Z
+modified: 2026-11-11T20:40:32.084Z
+published: 2026-11-11T20:40:32.084Z
 aliases:
   - Yvesport
 books:
@@ -38,7 +38,7 @@ Fictional fishing town on the Down East coast of Maine, most likely modelled on 
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | setting | The fog-bound sardine town across the channel, where Miranda goes to school and stays an outsider. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
-Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
+Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227) · [Readwise highlight](https://read.readwise.io/read/01m765d043x3sj271a92c7ze47)
 
 > Across the water I could see the harbor, Yvesport clustered on the other side of the channel, the boats and houses and empty sardine factories leading around the point to Estes Head Pier and Deep Cove.
 

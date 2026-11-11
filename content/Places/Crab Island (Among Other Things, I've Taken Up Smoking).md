@@ -2,8 +2,8 @@
 publish: true
 title: Crab Island (Among Other Things, I've Taken Up Smoking)
 created: 2026-11-08
-modified: 2026-11-11T11:22:15.164Z
-published: 2026-11-11T11:22:15.164Z
+modified: 2026-11-11T20:40:24.940Z
+published: 2026-11-11T20:40:24.940Z
 aliases:
   - Crab Island
 books:
@@ -39,7 +39,7 @@ Fictional island off the Down East coast of Maine, pinned here at Treat Island o
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | setting | Miranda's fog-wrapped island home, where her mother vanishes and her father translates Ovid, cut off each winter by ice. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
-Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
+Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227) · [Readwise highlight](https://read.readwise.io/read/01m7654mrpagkyms2n5pt03yhx)
 
 > I grew up on Crab Island, about a mile or so across the water from a small town called Yvesport, which, more often than not, was hidden from us by a thick Down East fog.
 
