@@ -2,8 +2,8 @@
 publish: true
 title: Mexico City
 created: 2024-12-22T21:32:36.142Z
-modified: 2026-11-10T23:16:48.895Z
-published: 2026-11-10T23:16:48.895Z
+modified: 2026-11-11T05:16:59.110Z
+published: 2026-11-11T05:16:59.110Z
 books:
   - Retiring Abroad – Could We Do It?
   - Eating Our Way Across Mexico
@@ -82,17 +82,21 @@ In [[Mexico City]], the things we enjoyed the most were:
 - [[Colonia Doctores]]
 - [[Coyoacán]]
 - [[Cuahutemotzín and 5 de Mayo (Frida)]]
+- [[English Hospital (Mexico City)]]
 - [[Estadio Olímpico Universitario]]
+- [[Galería Arte Contemporáneo (Amberes 12)]]
 - [[Galería de Arte Mexicano]]
 - [[La Esmeralda (art school)|La Esmeralda]]
 - [[Lechería station]]
 - [[Palacio de Bellas Artes]]
 - [[Palacio Nacional]]
+- [[Panteón de Dolores]]
 - [[Paseo de la Reforma 104]]
 - [[Red Cross Hospital (Mexico City)]]
 - [[Salón México]]
 - [[Secretaría de Educación Pública Building]]
 - [[Tenochtitlan]]
+- [[Zócalo]]
 
 ## Retiring Abroad – Could We Do It? — JustinRoG (2015)
 Source: [Original](https://rootofgood.com/retiring-abroad-could-we-do-it/) · [Readwise highlight](https://read.readwise.io/read/01m5g8v1r05jcqtxzeejfe3fcr)

@@ -2,8 +2,8 @@
 publish: true
 title: La Rosita (Coyoacán)
 created: 2026-11-08
-modified: 2026-11-10T23:20:32.259Z
-published: 2026-11-10T23:20:32.259Z
+modified: 2026-11-11T05:16:40.405Z
+published: 2026-11-11T05:16:40.405Z
 aliases:
   - La Rosita
   - Pulquería La Rosita
@@ -45,3 +45,5 @@ Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary
 - **Role:** setting
 - **In the book:** The government had whitewashed the murals of Mexico's pulquerías, and Frida gets permission for her students to paint new ones on La Rosita's two outer walls. The inauguration is a fiesta with music and dancing: Frida dances with Diego despite her pain, and Diego pulls out his pistol to make Péret dance a _zapateado_. Speeches follow, few of them about La Rosita.
 - **Why it matters:** It is the book's liveliest scene of Frida as teacher, bringing her students' art to the street life of Coyoacán.
+
+- **Later in the book:** In December 1952, with the old murals faded, Frida directs their repainting on crutches; Fridos and Rivera's assistants paint new frescoes in a single day, including María Félix twice and Frida as a Tehuana holding a peace dove.

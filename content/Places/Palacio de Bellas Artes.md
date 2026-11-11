@@ -2,8 +2,8 @@
 publish: true
 title: Palacio de Bellas Artes
 created: 2026-11-08
-modified: 2026-11-10T17:29:03.365Z
-published: 2026-11-10T17:29:03.365Z
+modified: 2026-11-11T05:16:37.396Z
+published: 2026-11-11T05:16:37.396Z
 aliases:
   - Palace of Fine Arts
 books:
@@ -42,3 +42,5 @@ Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary
 - **Role:** turning point
 - **In the book:** In Chapter 13 Rivera lectures to the conference; the next afternoon Siqueiros, a committed Stalinist, attacks his role in the mural movement, and Rivera leaps up, draws his pistol and demands equal time. The follow-up debate, moved to a larger hall, ends in a scuffle in which Frida slaps the writer Emanuel Eisenberg.
 - **Why it matters:** The scene dramatizes the Stalinist–Trotskyist split in Mexican art that sets up Trotsky's arrival at [[Tampico]].
+
+- **Later in the book:** In Chapter 24, after her death on 13 July 1954, Frida lies in state in the palace's lobby. Rivera, still unsure she is dead, has a doctor cut a vein to check; a Communist flag is draped over the coffin, causing a scandal, before the procession leaves in the rain for the [[Panteón de Dolores]].
