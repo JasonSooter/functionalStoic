@@ -2,8 +2,8 @@
 publish: true
 title: Panteón de Dolores
 created: 2026-11-08
-modified: 2026-11-11T05:18:52.905Z
-published: 2026-11-11T05:18:52.905Z
+modified: 2026-11-11T08:15:16.491Z
+published: 2026-11-11T08:15:16.491Z
 aliases:
   - Panteón Civil de Dolores
   - Dolores Civil Cemetery
@@ -43,3 +43,5 @@ Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary
 - **Role:** turning point
 - **In the book:** After lying in state at the [[Palacio de Bellas Artes]], Frida's coffin reaches the crematorium, where friends, family and party officials crowd the tiny hot room while hundreds stand among the tombstones in the rain. Andrés Iduarte gives the funeral oration, Carlos Pellicer reads his sonnets, and Adelina Zendejas recalls Frida at the Preparatoria. At a quarter past one Rivera and family lift her onto the cart to the oven, and he bends to kiss her forehead; the mourners sing the _Internationale_ and then farewell ballads as the oven door opens at one-fifty.
 - **Why it matters:** It is where the life the biography follows ends, and the political songs make her funeral the last act of her public persona.
+
+- **Later in the book:** The cremation takes four hours while the crowd keeps singing. When the cart slides out, her ashes briefly keep the shape of her skeleton; Rivera sketches it, gathers the ashes in a red cloth and puts them in a cedar box, asking that his own be mixed with hers (a request, Herrera notes, never fulfilled).

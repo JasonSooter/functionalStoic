@@ -2,8 +2,8 @@
 publish: true
 title: Stodgy Brewing
 created: 2026-10-21T16:37:33.000Z
-modified: 2026-11-11T05:00:16.953Z
-published: 2026-11-11T05:00:16.953Z
+modified: 2026-11-11T11:24:29.699Z
+published: 2026-11-11T11:24:29.699Z
 aliases:
   - Stodgy Brewing Company
 books:
@@ -11,8 +11,8 @@ books:
 categories:
   - "[[Places]]"
 color: purple
+coordinates: 40.58955,-105.108882
 geo_source: placed by Jason
-geo_status: needs-pin
 icon: newspaper
 location:
   - 40.58955
@@ -22,6 +22,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Fort Collins]]"
+image: Attachments/Places/Stodgy Brewing.svg
 ---
 
 # Stodgy Brewing
