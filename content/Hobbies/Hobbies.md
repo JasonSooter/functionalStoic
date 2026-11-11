@@ -2,21 +2,21 @@
 publish: true
 title: Hobbies
 created: 2025-06-21T01:37:22.764Z
-modified: 2026-10-18T15:07:53.323Z
-published: 2026-10-18T15:07:53.323Z
+modified: 2026-11-08T11:23:36.864Z
+published: 2026-11-08T11:23:36.864Z
 tags:
   - people/authors/marina-cooley
   - source/ai/claude
-socialImage: Attachments/Hobbies Hero.jpg
+socialImage: Attachments/Site Headers/Hobbies Hero.jpg
 linter-yaml-title-alias: Hobbies
 date created: 2025-06-21T03:37:22+02:00
 date modified: 2026-10-18T17:04:19+02:00
-image: Attachments/Hobbies Hero.jpg
+image: Attachments/Site Headers/Hobbies Hero.jpg
 ---
 
 # Hobbies
 
-![[Attachments/Hobbies Hero.jpg]]
+![[Attachments/Site Headers/Hobbies Hero.jpg]]
 
 - [[Hobbies/Hiking/14ers I Have Hiked.md|14ers I Have Hiked]]
 - [[Hobbies/Cycling/3800 Mile Tandem Bike Ride Across America.md|3800 Mile Tandem Bike Ride Across America]]
@@ -47,6 +47,7 @@ image: Attachments/Hobbies Hero.jpg
 - [[Hobbies/Pocket Pencils.md|Pocket Pencils]]
 - [[Hobbies/Sauna.md|Sauna]]
 - [[Hobbies/Seabirds of The Place of Tides.md|Seabirds of The Place of Tides]]
+- [[Hobbies/Skip-Bo Instructions.md|Skip-Bo Instructions]]
 - [[Hobbies/Soup Cook-Off.md|Soup Cook-Off]]
 - [[Hobbies/Cycling/Surly Disc Trucker.md|Surly Disc Trucker]]
 - [[Hobbies/Take Five — An Entry Point to Jazz.md|Take Five — An Entry Point to Jazz]]

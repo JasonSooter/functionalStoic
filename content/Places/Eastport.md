@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Eastport
-created: 2026-11-11T14:19:17.075Z
-modified: 2026-11-11T14:19:17.075Z
-published: 2026-11-11T14:19:17.075Z
 aliases:
   - Eastport, Maine
+title: Eastport
+created: 2026-11-11T14:19:17.000Z
+modified: 2026-11-11T14:19:17.000Z
+published: 2026-11-11T14:19:17.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Maine]]"
 ---
 

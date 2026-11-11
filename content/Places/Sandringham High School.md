@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sandringham High School
-created: 2026-11-08
-modified: 2026-11-09T02:18:34.830Z
-published: 2026-11-09T02:18:34.830Z
 aliases:
   - Sandringham High
+title: Sandringham High School
+created: 2026-11-08
+modified: 2026-11-09T02:18:35.000Z
+published: 2026-11-09T02:18:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sandringham High School.svg
 books:
   - Born a Crime
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -26.1395
   - 28.1163
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Sandringham High School.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Sandringham High School.svg
 Public "Model C" high school in the Sandringham suburb of [[Johannesburg]]. In Born a Crime it is Trevor Noah's high school, which he calls a microcosm of post-apartheid South Africa.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | A mixed school where Trevor floats between cliques as the "tuck-shop guy", late every day. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6z18smxbh0yagzqmgapdth5)
 
 > After finishing primary school at H. A. Jack, I started grade eight at Sandringham High School.

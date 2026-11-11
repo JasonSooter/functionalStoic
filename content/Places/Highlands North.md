@@ -2,8 +2,13 @@
 publish: true
 title: Highlands North
 created: 2026-11-08
-modified: 2026-11-09T02:18:34.790Z
-published: 2026-11-09T02:18:34.790Z
+modified: 2026-11-09T02:18:35.000Z
+published: 2026-11-09T02:18:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Highlands North.svg
 aliases: []
 books:
   - Born a Crime
@@ -16,10 +21,6 @@ icon: book
 location:
   - -26.141
   - 28.081
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Highlands North.svg
 ---
@@ -29,14 +30,17 @@ image: Attachments/Places/Highlands North.svg
 Northern suburb of [[Johannesburg]]. In Born a Crime it is the white suburb where Trevor Noah's family moves in his teens, and his home base through high school.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | His mother buys a run-down house here; Trevor is the only black kid in a white, largely Jewish suburb. |
 
 ## Sub-places
+
 - [[Balfour Park Shopping Mall]]
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6z18pjqmctzaxq4j5jaxzxf)
 
 > My mom found that house and bought it, which is how she snuck a black family into a place as white as Highlands North.

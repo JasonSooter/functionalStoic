@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sophiatown
-created: 2026-11-08
-modified: 2026-11-08T23:21:40.825Z
-published: 2026-11-08T23:21:40.825Z
 aliases:
   - Triomf
+title: Sophiatown
+created: 2026-11-08
+modified: 2026-11-08T23:21:41.000Z
+published: 2026-11-08T23:21:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sophiatown.svg
 books:
   - Born a Crime
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -26.1767
   - 27.9816
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Sophiatown.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Sophiatown.svg
 Suburb in western Johannesburg, a black freehold area bulldozed under apartheid and rebuilt as the white suburb Triomf. In Born a Crime it is where Trevor Noah's grandparents married and were driven out.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | His grandparents' home, seized and bulldozed for the white suburb "Triomf"; they are moved to Soweto. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq461y7qe8d5kr2xkwkdp5)
 
 > They met and married in Sophiatown, but one year later the army came in and drove them out.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Chersky
-created: 2026-11-08
-modified: 2026-11-08T20:18:15.820Z
-published: 2026-11-08T20:18:15.820Z
 aliases:
   - Cherskiy
   - Черский
+title: Chersky
+created: 2026-11-08
+modified: 2026-11-08T20:18:16.000Z
+published: 2026-11-08T20:18:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chersky.svg
 books:
   - Last of the Breed
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 68.7667
   - 161.3333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Chersky.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Chersky.svg
 Settlement on the lower Kolyma in Sakha (Yakutia), Russia, with an airfield. In _Last of the Breed_ it is Colonel Zamatev's field headquarters for the last stage of the hunt.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | setting | Zamatev flies in and runs the hunt across the far northeast from an office with a map reaching to the Bering Strait. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=68.7667&mlon=161.3333#map=12/68.7667/161.3333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=68.7667,161.3333)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=68.7667\&mlon=161.3333#map=12/68.7667/161.3333) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=68.7667,161.3333)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6ycpdhbybcx92bn6zzwfg4f)
 
 > Colonel Arkady Zamatev landed in Chersky. Lieutenant Suvarov awaited him as the plane landed. He led the way to a Volga parked near the airfield.

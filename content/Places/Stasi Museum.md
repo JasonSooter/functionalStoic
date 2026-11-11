@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Stasi Museum
-created: 2026-11-08
-modified: 2026-11-11T20:29:36.654Z
-published: 2026-11-11T20:29:36.654Z
 aliases:
   - Stasimuseum
   - Stasi headquarters
+title: Stasi Museum
+created: 2026-11-08
+modified: 2026-11-11T20:29:37.000Z
+published: 2026-11-11T20:29:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stasi Museum.svg
 books:
   - Bicycle Diaries
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 52.5144
   - 13.4875
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Stasi Museum.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Stasi Museum.svg
 Museum in the former headquarters of East Germany's secret police in Lichtenberg, [[Berlin]]. David Byrne rides into its courtyard in _Bicycle Diaries_ and tours the spy gadgets and Erich Mielke's preserved offices.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | A walled compound of clunky spy gear and Mielke's modest offices, then said to be for sale for one euro. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m7641vpwzkdrmrnyv8vzfrn3)
 
 > The Stasi Museum is a massive compound that encloses a whole city block. I ride my bike into the inner courtyard and lock it up.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Gizhiga
-created: 2026-11-08
-modified: 2026-11-08T20:18:15.840Z
-published: 2026-11-08T20:18:15.840Z
 aliases:
   - Гижига
+title: Gizhiga
+created: 2026-11-08
+modified: 2026-11-08T20:18:16.000Z
+published: 2026-11-08T20:18:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Gizhiga.svg
 books:
   - Last of the Breed
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 62.05
   - 160.5
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Gizhiga.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Gizhiga.svg
 Village at the head of Gizhiga Bay on the Sea of Okhotsk, in Magadan Oblast, Russia. In _Last of the Breed_ Joe Mack is cornered and captured in the hills north of it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | turning point | Trapped on a ridge north of Gizhiga with roads on three sides, Joe Mack surrenders, is beaten in a stable and escapes north. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=62.05&mlon=160.5#map=12/62.05/160.5) · [Google Maps](https://www.google.com/maps/search/?api=1&query=62.05,160.5)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=62.05\&mlon=160.5#map=12/62.05/160.5) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=62.05,160.5)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6ycpf4zeh9vfg67kd0gm7pa)
 
 > His map showed him he was somewhere north of a village or town named Gizhiga. Although there were few roads in the area before him, those few would be patrolled.

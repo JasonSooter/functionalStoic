@@ -1,12 +1,17 @@
 ---
 publish: true
-title: H. A. Jack Primary School
-created: 2026-11-08
-modified: 2026-11-08T23:21:40.805Z
-published: 2026-11-08T23:21:40.805Z
 aliases:
   - H. A. Jack Primary
   - HA Jack Primary School
+title: H. A. Jack Primary School
+created: 2026-11-08
+modified: 2026-11-08T23:21:41.000Z
+published: 2026-11-08T23:21:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/H A Jack Primary School.svg
 books:
   - Born a Crime
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - -26.141
   - 28.081
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/H A Jack Primary School.svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/H A Jack Primary School.svg
 Government primary school in Highlands North, Johannesburg. In Born a Crime it is where eleven-year-old Trevor Noah first has to choose a race.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | At recess on his first day the school splits by colour, and Trevor asks to move to the black "B classes". |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq44h0n3ss5bh5d45x7t80)
 
 > At the end of grade six I left Maryvale to go to H. A. Jack Primary, a government school.

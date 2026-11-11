@@ -1,17 +1,18 @@
 ---
 publish: true
+permalink: Urban-Planning/Trains
 title: Trains
 created: 2026-09-26T05:11:47.000Z
-modified: 2026-11-08T11:23:37.000Z
-published: 2026-11-08T11:23:37.000Z
-date created: 2025-02-23T20:36:45-07:00
-date modified: 2026-10-18T17:02:53+02:00
-linter-yaml-title-alias: Trains
-permalink: Urban-Planning/Trains
+modified: 2026-11-08T11:23:37.021Z
+published: 2026-11-08T11:23:37.021Z
 tags:
   - infrastructure
   - infrastructure/trains
-image: Attachments/Site Headers/Trains Hero.jpg
+socialImage: Attachments/Trains Hero.jpg
+date created: 2025-02-23T20:36:45-07:00
+date modified: 2026-10-18T17:02:53+02:00
+linter-yaml-title-alias: Trains
+image: Attachments/Trains Hero.jpg
 ---
 
 # Trains
@@ -36,7 +37,6 @@ A big part of why we moved to Germany: a country where the train is a real alter
 
 > [!question] Title
 > Contents
-> 
 
 ## Content
 

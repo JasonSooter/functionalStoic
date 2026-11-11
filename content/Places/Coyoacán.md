@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Coyoacán
-created: 2026-11-08
-modified: 2026-11-10T23:16:40.454Z
-published: 2026-11-10T23:16:40.454Z
 aliases:
   - Coyoacan
+title: Coyoacán
+created: 2026-11-08
+modified: 2026-11-10T23:16:40.000Z
+published: 2026-11-10T23:16:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Coyoacán.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 19.35
   - -99.1622
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico City]]"
 image: Attachments/Places/Coyoacán.svg
 ---
@@ -30,6 +31,7 @@ image: Attachments/Places/Coyoacán.svg
 Old residential borough on the southern side of [[Mexico City]]. In Hayden Herrera's _Frida_ it is the slow, village-like home town Frida Kahlo grew up in and longed to escape.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | backdrop | The quiet village Frida leaves for the Preparatoria and complains of, "pasture and pasture", while kept home. |
@@ -43,6 +45,7 @@ Old residential borough on the southern side of [[Mexico City]]. In Hayden Herre
 - [[Museo Anahuacalli]]
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m72jsc7vn5e1mk9wbp8yt233)
 
 > Out from under the thumbs of mother, sisters, aunts, away from the gentle, slow village life of Coyoacán, she was thrust into the heart of Mexico City, where modern Mexico was being invented and where students actually participated in that invention.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: George Eastman Museum
-created: 2026-11-08
-modified: 2026-11-11T20:29:36.502Z
-published: 2026-11-11T20:29:36.502Z
 aliases:
   - Eastman House
   - George Eastman House
+title: George Eastman Museum
+created: 2026-11-08
+modified: 2026-11-11T20:29:37.000Z
+published: 2026-11-11T20:29:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/George Eastman Museum.svg
 books:
   - Bicycle Diaries
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 43.1521
   - -77.5803
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rochester, New York]]"
 image: Attachments/Places/George Eastman Museum.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/George Eastman Museum.svg
 The former mansion of Kodak founder George Eastman in [[Rochester, New York]], now a photography museum. In David Byrne's _Bicycle Diaries_ it is where he shows his work and gives a talk, and the house sets him thinking about Eastman himself.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Byrne exhibits and talks at Eastman's former home and reads the man through its hidden clocks and displayed suicide note. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m764129f56sn27pkk2p8pcsw)
 
 > I am in Rochester, New York, for an exhibition of my work and a talk at Eastman House, the former home of George Eastman, the founder of Kodak.

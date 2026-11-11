@@ -2,8 +2,13 @@
 publish: true
 title: Betzenhausen
 created: 2026-11-10
-modified: 2026-11-10T14:27:24.385Z
-published: 2026-11-10T14:27:24.385Z
+modified: 2026-11-10T14:27:24.000Z
+published: 2026-11-10T14:27:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Betzenhausen.svg
 aliases: []
 books:
   - How the First Bus Line Connected Betzenhausen with the City Centre in 1925
@@ -16,10 +21,6 @@ icon: newspaper
 location:
   - 48.0083
   - 7.8167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Freiburg]]"
 image: Attachments/Places/Betzenhausen.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Betzenhausen.svg
 District in western [[Freiburg|Freiburg]], Germany, a village incorporated into the city in 1908. A VAG Freiburg article tells how it got the city's first motor-bus line in 1925.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | How the First Bus Line Connected Betzenhausen with the City Centre in 1925 | VAG Freiburg | subject | Freiburg's first bus line, opened in 1925, as a late gift for the village incorporated in 1908. |
 
 ## How the First Bus Line Connected Betzenhausen with the City Centre in 1925 — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/wie-die-erste-buslinie-1925-betzenhausen-mit-der-innenstadt-verband/) · [Readwise highlight](https://read.readwise.io/read/01m72xb50f0xv4tjcxrkyepet9)
 
 > With the connection to public transport, one of the wishes that the village of Betzenhausen had hoped for from its incorporation into the city was finally fulfilled.

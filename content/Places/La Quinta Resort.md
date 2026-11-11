@@ -1,12 +1,17 @@
 ---
 publish: true
-title: La Quinta Resort
-created: 2026-11-08
-modified: 2026-11-09T11:29:05.115Z
-published: 2026-11-09T11:29:05.115Z
 aliases:
   - La Quinta Resort & Club
   - La Quinta Hotel and Resort
+title: La Quinta Resort
+created: 2026-11-08
+modified: 2026-11-09T11:29:05.000Z
+published: 2026-11-09T11:29:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/La Quinta Resort.svg
 books:
   - Greenlights
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 33.6883
   - -116.3108
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/La Quinta Resort.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/La Quinta Resort.svg
 Golf resort in La Quinta, in the Coachella Valley near Palm Springs. In Greenlights it is the scene of a golf weekend with his brother Pat and a dog passed off as a guide dog.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Greenlights | Matthew McConaughey | setting | On a golf weekend Pat poses as a blind man so his Lab Neiman can stay at the no-dogs resort, then explains he has "night blindness." |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.6883&mlon=-116.3108#map=16/33.6883/-116.3108) · [Google Maps](https://www.google.com/maps/search/?api=1&query=33.6883,-116.3108)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=33.6883\&mlon=-116.3108#map=16/33.6883/-116.3108) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=33.6883,-116.3108)
 
 ## Greenlights — Matthew McConaughey (2020)
+
 Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highlight](https://read.readwise.io/read/01m700jpb0s4xywys9yhmn81qj)
 
 > With the windows down and Boston’s “More Than a Feeling” blaring through the speakers, we pulled Pat’s dusty and dented Ramcharger dually pickup truck into the La Quinta Resort at eight o’clock that Thursday evening just after sundown.

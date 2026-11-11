@@ -2,8 +2,13 @@
 publish: true
 title: Diepkloof
 created: 2026-11-08
-modified: 2026-11-09T05:16:57.969Z
-published: 2026-11-09T05:16:57.969Z
+modified: 2026-11-09T05:16:58.000Z
+published: 2026-11-09T05:16:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Diepkloof.svg
 aliases: []
 books:
   - Born a Crime
@@ -16,10 +21,6 @@ icon: book
 location:
   - -26.249
   - 27.946
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Soweto]]"
 image: Attachments/Places/Diepkloof.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Diepkloof.svg
 Well-off district on the eastern side of [[Soweto]]. In Born a Crime the crew from Alexandra travel there for a dance battle, and police stop and beat them on the way home.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | Dance battle against Hector, a fight, then a police stop, slaps and a bribe on the way back to Alex. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6zbjmxmnm2d6chqtt01tbhq)
 
 > Hector was from Diepkloof, which was the nice, well-off part of Soweto. Diepkloof was where the first million-rand houses were built after democracy.

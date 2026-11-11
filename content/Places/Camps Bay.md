@@ -2,8 +2,13 @@
 publish: true
 title: Camps Bay
 created: 2026-11-08
-modified: 2026-11-09T02:18:34.770Z
-published: 2026-11-09T02:18:34.770Z
+modified: 2026-11-09T02:18:35.000Z
+published: 2026-11-09T02:18:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Camps Bay.svg
 aliases: []
 books:
   - Born a Crime
@@ -16,10 +21,6 @@ icon: book
 location:
   - -33.95
   - 18.3833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Cape Town]]"
 image: Attachments/Places/Camps Bay.svg
 ---
@@ -29,6 +30,7 @@ image: Attachments/Places/Camps Bay.svg
 Seaside suburb of [[Cape Town]] on the Atlantic coast. In Born a Crime it is where Trevor Noah, at twenty-four, finds his estranged father again.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | Trevor tracks his father down after ten years and is reunited with him at his house in Camps Bay. |

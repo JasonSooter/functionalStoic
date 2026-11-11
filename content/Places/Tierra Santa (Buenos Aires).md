@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Tierra Santa (Buenos Aires)
-created: 2026-11-08
-modified: 2026-11-11T20:29:36.786Z
-published: 2026-11-11T20:29:36.786Z
 aliases:
   - Tierra Santa
   - Tierra Santa theme park
+title: Tierra Santa (Buenos Aires)
+created: 2026-11-08
+modified: 2026-11-11T20:29:37.000Z
+published: 2026-11-11T20:29:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tierra Santa (Buenos Aires).svg
 books:
   - Bicycle Diaries
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -34.5472
   - -58.4325
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Buenos Aires]]"
 image: Attachments/Places/Tierra Santa (Buenos Aires).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Tierra Santa (Buenos Aires).svg
 Religious theme park on the Río de la Plata in [[Buenos Aires]], advertising "a day in Jerusalem". David Byrne bikes out to it in _Bicycle Diaries_, finds it closed, and enjoys the riverside ride instead.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | journey waypoint | A closed Holy Land theme park whose fake Calvary peeks over the gate, reached by a riverside ride. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m764276p4ekn5dvwj5yqtt8j)
 
 > In the morning I decide to bike out to Tierra Santa (the Holy Land) in hopes of some photo opportunities. It’s a theme park located close to the river out past the domestic airport that advertises “a day in Jerusalem in Buenos Aires.”

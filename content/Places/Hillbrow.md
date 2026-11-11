@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Hillbrow
-created: 2026-11-08
-modified: 2026-11-09T05:14:32.278Z
-published: 2026-11-09T05:14:32.278Z
 aliases:
   - Hillbrow Tower
   - Hillbrow Hospital
+title: Hillbrow
+created: 2026-11-08
+modified: 2026-11-09T05:14:32.000Z
+published: 2026-11-09T05:14:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hillbrow.svg
 books:
   - Born a Crime
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -26.1889
   - 28.0489
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Hillbrow.svg
 ---
@@ -31,14 +32,17 @@ image: Attachments/Places/Hillbrow.svg
 Dense inner-city neighbourhood of Johannesburg. In Born a Crime it is where Trevor Noah's parents meet and where he is born.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | His mother's illegal flat 203, his father in 206, and his birth at Hillbrow Hospital in 1984. |
 
 ## Sub-places
+
 - [[Hillbrow Police Station]]
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq401tmsayb4sjy44w7s1f)
 
 > My mom’s secret flat was in a neighborhood called Hillbrow. She lived in number 203.

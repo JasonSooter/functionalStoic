@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Museo Anahuacalli
-created: 2026-11-08
-modified: 2026-11-10T23:20:32.223Z
-published: 2026-11-10T23:20:32.223Z
 aliases:
   - Anahuacalli
   - Diego Rivera Anahuacalli Museum
+title: Museo Anahuacalli
+created: 2026-11-08
+modified: 2026-11-10T23:20:32.000Z
+published: 2026-11-10T23:20:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Museo Anahuacalli.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 19.3225
   - -99.1442
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Coyoacán]]"
 image: Attachments/Places/Museo Anahuacalli.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Museo Anahuacalli.svg
 Diego Rivera's volcanic-stone temple-museum for his pre-Columbian collection, on the Pedregal lava field in [[Coyoacán]], Mexico City. In Hayden Herrera's _Frida_ the couple build it together after their remarriage, and Frida sells property to help pay for it.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | subject | Diego's "pyramid" rises on the Pedregal; Frida gives land and sells her apartment to fund it. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m73vwk38k8bjxe89qbck5q84)
 
 > and “Rivera Traditional” (the same style in which he built the new wing to the Coyoacán house), Rivera constructed, out of the gray volcanic rock of the surrounding fields, a building that is both brutal and elegant.

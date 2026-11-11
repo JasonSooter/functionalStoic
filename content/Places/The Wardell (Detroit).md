@@ -1,13 +1,18 @@
 ---
 publish: true
-title: The Wardell (Detroit)
-created: 2026-11-08
-modified: 2026-11-10T17:27:15.671Z
-published: 2026-11-10T17:27:15.671Z
 aliases:
   - Wardell Hotel
   - Park Shelton
   - 15 Kirby East
+title: The Wardell (Detroit)
+created: 2026-11-08
+modified: 2026-11-10T17:27:16.000Z
+published: 2026-11-10T17:27:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The Wardell (Detroit).svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 42.3605
   - -83.0662
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Detroit]]"
 image: Attachments/Places/The Wardell (Detroit).svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/The Wardell (Detroit).svg
 Residential hotel at 15 East Kirby Street, across Woodward Avenue's art district from the [[Detroit Institute of Arts]], now the Park Shelton. In Hayden Herrera's _Frida_ it is the Riveras' Detroit apartment, where Frida's pregnancy, miscarriage and mourning unfold.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | setting | The couple's furnished flat in 1932–33: loneliness, the miscarriage's onset, grief for her mother, and recovery. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m737hedt1hx6g1n6hw9aekj8)
 
 > Frida and Diego went directly from the station to their new lodgings, a characterless but convenient one-bedroom furnished apartment in the Wardell, a mammoth residential hotel at 15 Kirby East and Woodward Avenue, just across the street from the Detroit Institute of Arts.

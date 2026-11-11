@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Rosebank Union Church
-created: 2026-11-08
-modified: 2026-11-08T23:21:40.673Z
-published: 2026-11-08T23:21:40.673Z
 aliases:
   - Rosebank Union
+title: Rosebank Union Church
+created: 2026-11-08
+modified: 2026-11-08T23:21:41.000Z
+published: 2026-11-08T23:21:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Rosebank Union Church.svg
 books:
   - Born a Crime
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -26.1007
   - 28.0315
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Rosebank Union Church.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Rosebank Union Church.svg
 Church in Sandton in Johannesburg's northern suburbs. In Trevor Noah's Born a Crime it is "white church", the last stop of the family's Sunday church circuit and the start of the night his mother throws him out of a moving minibus.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | "White church": stranded outside it after dark, Trevor and his mother end up in a minibus they must escape. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq3t0pffrfgmmev4vxhmy5)
 
 > White church was Rosebank Union in Sandton, a very white and wealthy part of Johannesburg.

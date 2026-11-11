@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Bruma
-created: 2026-11-08
-modified: 2026-11-09T05:16:58.081Z
-published: 2026-11-09T05:16:58.081Z
 aliases:
   - Bruma Lake
+title: Bruma
+created: 2026-11-08
+modified: 2026-11-09T05:16:58.000Z
+published: 2026-11-09T05:16:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Bruma.svg
 books:
   - Born a Crime
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -26.1751
   - 28.1042
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Bruma.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Bruma.svg
 Suburb in the east of Johannesburg, built around Bruma Lake. In the tenth-anniversary epilogue of Born a Crime, the Audi dealership there is where Trevor Noah unexpectedly meets his childhood friend Teddy again.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | Bringing a suspect Audi to the dealership, Trevor finds Teddy is its top technician and finally apologises. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6zbjy0yqsx53gqwf1jsz2w6)
 
 > I knew that the only people who could tell me for sure were the mechanics at the Audi dealership, so the next day I drove over to the dealership in Bruma Lake.

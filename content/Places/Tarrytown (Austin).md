@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Tarrytown (Austin)
-created: 2026-11-08
-modified: 2026-11-09T11:28:07.388Z
-published: 2026-11-09T11:28:07.388Z
 aliases:
   - Tarrytown
   - Meadowbrook Drive
+title: Tarrytown (Austin)
+created: 2026-11-08
+modified: 2026-11-09T11:28:07.000Z
+published: 2026-11-09T11:28:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tarrytown (Austin).svg
 books:
   - Greenlights
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 30.3
   - -97.77
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austin, Texas]]"
 image: Attachments/Places/Tarrytown (Austin).svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Tarrytown (Austin).svg
 Quiet residential neighbourhood in west Austin, Texas. In Greenlights it is where Matthew McConaughey rents a house, and where the 1999 "bongo naked" arrest happens.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Greenlights | Matthew McConaughey | setting | After three years on the road he rents a house here; the naked-bongo arrest makes it a tourist stop and drives him out. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.3&mlon=-97.77#map=16/30.3/-97.77) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.3,-97.77)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.3\&mlon=-97.77#map=16/30.3/-97.77) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=30.3,-97.77)
 
 ## Greenlights — Matthew McConaughey (2020)
+
 Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highlight](https://read.readwise.io/read/01m700j9wmgg9ebpn91x3ymfse)
 
 > I decided to rent a two-bedroom house in the sleepy little neighborhood of Tarrytown, in the heart of Austin, Texas.

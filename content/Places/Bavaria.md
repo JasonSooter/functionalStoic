@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Bavaria
-created: 2026-10-20T01:36:23.000Z
-modified: 2026-11-09T08:19:58.329Z
-published: 2026-11-09T08:19:58.329Z
 aliases:
   - Bayern
+title: Bavaria
+created: 2026-10-20T01:36:23.000Z
+modified: 2026-11-09T08:19:58.000Z
+published: 2026-11-09T08:19:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Bavaria

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Cuernavaca
-created: 2026-11-08
-modified: 2026-11-10T14:27:24.301Z
-published: 2026-11-10T14:27:24.301Z
 aliases:
   - Cuauhnáhuac
   - Cortés Palace (Cuernavaca)
+title: Cuernavaca
+created: 2026-11-08
+modified: 2026-11-10T14:27:24.000Z
+published: 2026-11-10T14:27:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cuernavaca.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 18.9186
   - -99.2342
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico]]"
 image: Attachments/Places/Cuernavaca.svg
 ---
@@ -31,14 +32,17 @@ image: Attachments/Places/Cuernavaca.svg
 Capital of the Mexican state of Morelos, south of [[Mexico City]]. In Hayden Herrera's _Frida_ it is where Frida and Diego Rivera spend their honeymoon while he paints the Cortés Palace murals.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | setting | Honeymoon town: Frida roams the Morrows' gardens and critiques Rivera's Cortés Palace mural, down to Zapata's white horse. |
 
 ## Sub-places
+
 _None yet._
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m72xat97css34b1vbxg6dkyx)
 
 > There, in the more element weather and gentler atmosphere of the beautiful town on the low slope of a mountain some fifty miles from Mexico City, Frida and Diego had their honeymoon.

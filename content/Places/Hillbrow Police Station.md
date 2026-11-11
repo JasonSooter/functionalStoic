@@ -2,8 +2,13 @@
 publish: true
 title: Hillbrow Police Station
 created: 2026-11-08
-modified: 2026-11-09T05:16:57.989Z
-published: 2026-11-09T05:16:57.989Z
+modified: 2026-11-09T05:16:58.000Z
+published: 2026-11-09T05:16:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hillbrow Police Station.svg
 aliases: []
 books:
   - Born a Crime
@@ -16,10 +21,6 @@ icon: book
 location:
   - -26.1877
   - 28.0448
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Hillbrow]]"
 image: Attachments/Places/Hillbrow Police Station.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Hillbrow Police Station.svg
 Police station on Clarendon Place in [[Hillbrow]], inner-city Johannesburg. In Born a Crime Trevor Noah is booked and held there after being stopped in an unregistered car from his stepfather's workshop.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | Arrested in Abel's unregistered Mazda, Trevor is fingerprinted and spends days in the holding cell. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6zbjpx3nyzp1qw4m6aqe0dy)
 
 > The Hillbrow police station looks exactly like every other police station in South Africa. They were all built by the same contractor at the height of apartheid—separate nodes in the central nervous system of a police state.

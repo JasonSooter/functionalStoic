@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Museum of World Cultures (Riyadh)
-created: 2026-11-10
-modified: 2026-11-10T20:25:22.679Z
-published: 2026-11-10T20:25:22.679Z
 aliases:
   - Museum of World Cultures
+title: Museum of World Cultures (Riyadh)
+created: 2026-11-10
+modified: 2026-11-10T20:25:23.000Z
+published: 2026-11-10T20:25:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Museum of World Cultures (Riyadh).svg
 books:
   - This Will Be The World’s Biggest Park
 categories:
@@ -17,10 +22,6 @@ icon: video
 location:
   - 24.7177
   - 46.7125
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[King Salman Park]]"
 image: Attachments/Places/Museum of World Cultures (Riyadh).svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Museum of World Cultures (Riyadh).svg
 Museum tower under construction inside [[King Salman Park]] in Riyadh. A B1M video describes it as the park's tallest building and its cultural landmark.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This Will Be The World’s Biggest Park | The B1M | setting | A 110 m museum tower that anchors the park's cultural hub and serves as a city landmark. |
 
 ## This Will Be The World’s Biggest Park — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=VpuWi9a3MrE) · [Readwise highlight](https://read.readwise.io/read/01m73hnvyk571hz8x60r276dvv)
 
 > the Museum of World Cultures, which

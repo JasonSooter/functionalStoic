@@ -1,14 +1,10 @@
 ---
 publish: true
 title: 2021 Fort Collins Bicyclist Intersection Counts
-created: 2021-09-25
-modified: 2026-11-08T11:23:36.000Z
-published: 2026-11-08T11:23:36.000Z
-linter-yaml-title-alias: 2021 Fort Collins Bicyclist Intersection Counts
-date created: 2026-10-16T21:17:04+02:00
-date modified: 2026-10-16T21:17:04+02:00
-date: 2021-09-25
 description: My Participation in the 2021 Fort Collins Intersection Counts
+created: 2021-09-25
+modified: 2021-09-25
+published: 2021-09-25
 tags:
   - blog
   - cycling
@@ -17,7 +13,12 @@ tags:
   - fort-collins
 cssclasses:
   - photo-led
-image: Attachments/Blog/Bike Intersection Count Form - Page 1.png
+socialImage: Attachments/Bike-Intersection-Count-Form-Page-1.png
+linter-yaml-title-alias: 2021 Fort Collins Bicyclist Intersection Counts
+date created: 2026-10-16T21:17:04+02:00
+date modified: 2026-10-16T21:17:04+02:00
+date: 2021-09-25
+image: Attachments/Bike-Intersection-Count-Form-Page-1.png
 ---
 
 # 2021 Fort Collins Bicyclist Intersection Counts

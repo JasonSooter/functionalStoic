@@ -2,15 +2,16 @@
 publish: true
 title: Infrastructure
 created: 2026-09-26T05:07:50.000Z
-modified: 2026-11-08T11:23:37.000Z
-published: 2026-11-08T11:23:37.000Z
-date created: 2026-09-26T06:55:12+02:00
-date modified: 2026-10-18T17:04:19+02:00
-linter-yaml-title-alias: Infrastructure
+modified: 2026-11-08T11:23:37.019Z
+published: 2026-11-08T11:23:37.019Z
 tags:
   - infrastructure
   - note-type/table-of-contents
-image: Attachments/Site Headers/Infrastructure Hero.jpg
+socialImage: Attachments/Infrastructure Hero.jpg
+date created: 2026-09-26T06:55:12+02:00
+date modified: 2026-10-18T17:04:19+02:00
+linter-yaml-title-alias: Infrastructure
+image: Attachments/Infrastructure Hero.jpg
 ---
 
 # Infrastructure

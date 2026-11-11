@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Port Authority Bus Terminal
-created: 2026-11-08
-modified: 2026-11-11T17:17:27.054Z
-published: 2026-11-11T17:17:27.054Z
 aliases:
   - Port Authority
+title: Port Authority Bus Terminal
+created: 2026-11-08
+modified: 2026-11-11T17:17:27.000Z
+published: 2026-11-11T17:17:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Port Authority Bus Terminal.svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.7567
   - -73.9911
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Port Authority Bus Terminal.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Port Authority Bus Terminal.svg
 Midtown Manhattan bus station on Eighth Avenue, the city's main gateway for intercity buses. In Aoibheann Sweeney's novel it is where Miranda, up from Maine, first sets foot in New York.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | journey waypoint | Miranda arrives here by bus from Maine on a rainy night and takes a taxi to her father's old institute. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > The rain was pouring down in sheets when we arrived at the Port Authority bus terminal. A line of open umbrellas collected at the taxi stand outside, and people rushed from the brightly lit entrance out into the dark, bent over, holding newspapers above their heads.

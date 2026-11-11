@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Niafunké
-created: 2026-11-08
-modified: 2026-11-09T11:28:07.456Z
-published: 2026-11-09T11:28:07.456Z
 aliases:
   - Niafunke
+title: Niafunké
+created: 2026-11-08
+modified: 2026-11-09T11:28:07.000Z
+published: 2026-11-09T11:28:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Niafunké.svg
 books:
   - Greenlights
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 15.9311
   - -3.99
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mali]]"
 image: Attachments/Places/Niafunké.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Niafunké.svg
 River town on the Niger in central Mali, home of the bluesman Ali Farka Touré. In Greenlights it is the one destination Matthew McConaughey sets for his African journey.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Greenlights | Matthew McConaughey | journey waypoint | The only fixed point of his Africa trip: a pirogue ride up the Niger to find Ali Farka Touré, who feeds him and talks music. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=15.9311&mlon=-3.99#map=16/15.9311/-3.99) · [Google Maps](https://www.google.com/maps/search/?api=1&query=15.9311,-3.99)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=15.9311\&mlon=-3.99#map=16/15.9311/-3.99) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=15.9311,-3.99)
 
 ## Greenlights — Matthew McConaughey (2020)
+
 Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highlight](https://read.readwise.io/read/01m700jeykpv3cya6rnwhpprv5)
 
 > The lone geographical coordinate I chose to chase in my dream: 15°55'55.92"N, 3°59'26.16"W (the longitude and latitude of Niafunké).

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Linksfield Hospital
-created: 2026-11-08
-modified: 2026-11-09T05:16:58.065Z
-published: 2026-11-09T05:16:58.065Z
 aliases:
   - Netcare Linksfield Hospital
+title: Linksfield Hospital
+created: 2026-11-08
+modified: 2026-11-09T05:16:58.000Z
+published: 2026-11-09T05:16:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Linksfield Hospital.svg
 books:
   - Born a Crime
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -26.16
   - 28.0957
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Linksfield Hospital.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Linksfield Hospital.svg
 Private hospital in the north-east of Johannesburg, near Linksfield. In Born a Crime it is where Trevor Noah's mother is treated after Abel shoots her in the head.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | Andrew waits bloodied at the ER; Trevor pays with his credit card, and the doctor calls her survival a miracle. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6zbjx0yjhe6zf5fhy623xsa)
 
 > There was an outdoor sitting area by the entrance to the emergency room. Andrew was standing there waiting for me, alone, his clothes smeared with blood.

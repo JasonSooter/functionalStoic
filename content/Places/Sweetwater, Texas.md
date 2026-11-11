@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Sweetwater, Texas
-created: 2026-11-08
-modified: 2026-11-11T20:29:36.558Z
-published: 2026-11-11T20:29:36.558Z
 aliases:
   - Sweetwater
+title: Sweetwater, Texas
+created: 2026-11-08
+modified: 2026-11-11T20:29:37.000Z
+published: 2026-11-11T20:29:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Sweetwater, Texas.svg
 books:
   - Bicycle Diaries
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 32.4858
   - -100.4083
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Texas]]"
 image: Attachments/Places/Sweetwater, Texas.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Sweetwater, Texas.svg
 Small town in West Texas. David Byrne stops here in _Bicycle Diaries_, eats steak in a dry restaurant decked out for the high-school football team, and rides the old part of town reading its buildings as frontier puritanism.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | A dry steakhouse, a curfew debate and a ride round the old town's spartan buildings. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m7641bqdvtjxqgzwab1j8vrh)
 
 > I ride around the older part of town. A motel that was once on the main highway reiterates the moral message: if Jesus never fails, then by implication the problem must be with you.

@@ -1,13 +1,13 @@
 ---
 publish: true
 title: About
+description: Jason Sooter — Solutions Architect, cyclist, reader, thinking in public.
 created: 2026-10-16T19:27:42.550Z
-modified: 2026-11-08T11:23:36.000Z
-published: 2026-11-08T11:23:36.000Z
+modified: 2026-11-08T11:23:36.854Z
+published: 2026-11-08T11:23:36.854Z
 linter-yaml-title-alias: About
 date created: 2026-10-16T21:17:20+02:00
 date modified: 2026-10-17T21:34:03+02:00
-description: Jason Sooter — Solutions Architect, cyclist, reader, thinking in public.
 ---
 
 # About
@@ -43,6 +43,6 @@ Our household has 15 bikes, one for every type of cycling you could imagine. I e
 
 ## Elsewhere
 
-- Email: [hello@jasonsooter.com](mailto:hello@jasonsooter.com)
+- Email: <hello@jasonsooter.com>
 - GitHub: [JasonSooter](https://github.com/JasonSooter)
 - LinkedIn: [jason-sooter](https://www.linkedin.com/in/jason-sooter/)

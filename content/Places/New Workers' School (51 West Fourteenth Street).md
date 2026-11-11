@@ -1,29 +1,29 @@
 ---
 publish: true
-title: New Workers' School (51 West Fourteenth Street)
-created: 2026-11-08
-modified: 2026-11-10T17:27:15.787Z
-published: 2026-11-10T17:27:15.787Z
 aliases:
   - New Workers' School
   - 51 West 14th Street
+title: New Workers' School (51 West Fourteenth Street)
+created: 2026-11-08
+modified: 2026-11-10T17:27:16.000Z
+published: 2026-11-10T17:27:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/New Workers' School (51 West Fourteenth Street).svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.7372,-73.9959
-geo_note: approximate (today's building at 51 West 14th Street; the book calls the
-  1933 building soon-to-be-razed)
+geo_note: approximate (today's building at 51 West 14th Street; the book calls the 1933 building soon-to-be-razed)
 geo_source: OSM way 264637113
 icon: book
 location:
   - 40.7372
   - -73.9959
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/New Workers' School (51 West Fourteenth Street).svg
 ---
@@ -33,11 +33,13 @@ image: Attachments/Places/New Workers' School (51 West Fourteenth Street).svg
 Site on West 14th Street in [[Manhattan]] of a Lovestonite school in a since-razed building. In Hayden Herrera's _Frida_ it is where Diego Rivera paints his panels of American history after the Rockefeller Center mural is stopped.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | setting | Rivera spends Rockefeller's fee painting 21 movable panels here, the reason he refuses to go home. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m737hvh12mm86th6tth9zdx9)
 
 > at 51 West Fourteenth Street that housed a Lovestonite organization called the New Workers’ School.

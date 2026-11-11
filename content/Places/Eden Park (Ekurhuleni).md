@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Eden Park
-created: 2026-11-08
-modified: 2026-11-09T05:14:33.214Z
-published: 2026-11-09T05:14:33.214Z
 aliases:
   - Eden Park
+title: Eden Park
+created: 2026-11-08
+modified: 2026-11-09T05:14:33.000Z
+published: 2026-11-09T05:14:33.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Eden Park (Ekurhuleni).svg
 books:
   - Born a Crime
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -26.38
   - 28.1211
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South Africa]]"
 image: Attachments/Places/Eden Park (Ekurhuleni).svg
 ---
@@ -30,14 +31,17 @@ image: Attachments/Places/Eden Park (Ekurhuleni).svg
 Coloured suburb on the East Rand in Ekurhuleni, south-east of Johannesburg. In Born a Crime it is where Trevor Noah grows up after his mother buys a house there to get away from Soweto.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | The family's own house off Toyota Street, in a flat, red-clay suburb near the riot townships of the East Rand. |
 
 ## Sub-places
+
 - [[Eden Park Police Station]]
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq3vmtr14ttweerg3pn55g)
 
 > Eden Park was a colored neighborhood adjacent to several black townships on the East Rand. Half-colored and half-black, she figured, like us.

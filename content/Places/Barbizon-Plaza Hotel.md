@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Barbizon-Plaza Hotel
-created: 2026-11-08
-modified: 2026-11-10T17:27:15.627Z
-published: 2026-11-10T17:27:15.627Z
 aliases:
   - Hotel Barbizon-Plaza
   - Trump Parc
+title: Barbizon-Plaza Hotel
+created: 2026-11-08
+modified: 2026-11-10T17:27:16.000Z
+published: 2026-11-10T17:27:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Barbizon-Plaza Hotel.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.7657
   - -73.9768
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Barbizon-Plaza Hotel.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Barbizon-Plaza Hotel.svg
 Hotel on Central Park South at Sixth Avenue in [[Manhattan]], now the Trump Parc apartments. In Hayden Herrera's _Frida_ it is Frida and Diego Rivera's base on both of their New York stays, in 1931 and 1933.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | setting | The couple's high-floor suite in 1933, where Frida reads, shops and teases reporters while Diego paints the RCA mural. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m737hcnmhvsc4cgad1fmn8qc)
 
 > In less than two days, the Riveras had installed themselves in a two-bedroom suite on a high floor of the Barbizon-Plaza, and Diego was at work in the RCA Building.

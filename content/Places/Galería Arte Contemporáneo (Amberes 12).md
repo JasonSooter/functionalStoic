@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Galería Arte Contemporáneo (Amberes 12)
-created: 2026-11-08
-modified: 2026-11-11T05:18:52.885Z
-published: 2026-11-11T05:18:52.885Z
 aliases:
   - Galería Arte Contemporáneo
   - Galería de Arte Contemporáneo
   - Lola Alvarez Bravo's gallery
+title: Galería Arte Contemporáneo (Amberes 12)
+created: 2026-11-08
+modified: 2026-11-11T05:18:53.000Z
+published: 2026-11-11T05:18:53.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Galería Arte Contemporáneo (Amberes 12).svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -20,10 +25,6 @@ icon: book
 location:
   - 19.4257
   - -99.1653
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico City]]"
 image: Attachments/Places/Galería Arte Contemporáneo (Amberes 12).svg
 ---
@@ -33,11 +34,13 @@ image: Attachments/Places/Galería Arte Contemporáneo (Amberes 12).svg
 Lola Alvarez Bravo's gallery on Calle Amberes in Mexico City's Zona Rosa. In Hayden Herrera's _Frida_ it holds Frida's only one-woman show in Mexico, in April 1953, where she arrives by ambulance and receives guests from her bed.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | turning point | Frida is carried into her 1953 retrospective on a stretcher and holds court from her four-poster bed. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m74ggpa1dwyvbjq8kfd1mhq9)
 
 > Lola Alvarez Bravo decided to organize an exhibition of Frida’s paintings in her Galería Arte Contemporaneo at Amberes 12, in the city’s fashionable Pink Zone.

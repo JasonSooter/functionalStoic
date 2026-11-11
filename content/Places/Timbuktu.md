@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Timbuktu
-created: 2026-11-08
-modified: 2026-11-09T11:28:07.484Z
-published: 2026-11-09T11:28:07.484Z
 aliases:
   - Tombouctou
+title: Timbuktu
+created: 2026-11-08
+modified: 2026-11-09T11:28:07.000Z
+published: 2026-11-09T11:28:07.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Timbuktu.svg
 books:
   - Greenlights
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 16.7758
   - -3.0094
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mali]]"
 image: Attachments/Places/Timbuktu.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Timbuktu.svg
 Historic trade and learning city on the edge of the Sahara in Mali. In Greenlights it is a stop on Matthew McConaughey's way to the Bandiagara.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Greenlights | Matthew McConaughey | journey waypoint | A stop on the way to the Dogon country: camel racing, then a veranda argument that ends in "You'd better be different, not sorry." |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=16.7758&mlon=-3.0094#map=16/16.7758/-3.0094) · [Google Maps](https://www.google.com/maps/search/?api=1&query=16.7758,-3.0094)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=16.7758\&mlon=-3.0094#map=16/16.7758/-3.0094) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=16.7758,-3.0094)
 
 ## Greenlights — Matthew McConaughey (2020)
+
 Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highlight](https://read.readwise.io/read/01m700jgcrp6p2pmvfex34keca)
 
 > On the way to the Bandiagara, we stopped in the legendary town of Timbuktu. A center for art and learning, it is a quiet little trade settlement situated just north of the Niger River on the south side of the Sahara Desert.

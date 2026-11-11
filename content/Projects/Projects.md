@@ -2,17 +2,17 @@
 publish: true
 title: Personal Projects
 created: 2023-12-12T04:11:56.000Z
-modified: 2026-10-18T16:43:41.242Z
-published: 2026-10-18T16:43:41.242Z
-socialImage: Attachments/Projects Hero.jpg
+modified: 2026-11-08T11:23:36.887Z
+published: 2026-11-08T11:23:36.887Z
+socialImage: Attachments/Site Headers/Projects Hero.jpg
 date created: 2023-12-12T05:11:56+01:00
 date modified: 2026-08-16T10:45:11+02:00
-image: Attachments/Projects Hero.jpg
+image: Attachments/Site Headers/Projects Hero.jpg
 ---
 
 # Personal Projects
 
-![[Attachments/Projects Hero.jpg]]
+![[Attachments/Site Headers/Projects Hero.jpg]]
 
 - [[Projects/Claude Action Log.md|Claude Action Log]]
 - [[Projects/Danish-Style Sleeping Shelter.md|Danish-Style Sleeping Shelter]]

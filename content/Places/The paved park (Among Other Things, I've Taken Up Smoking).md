@@ -2,8 +2,13 @@
 publish: true
 title: The paved park (Among Other Things, I've Taken Up Smoking)
 created: 2026-11-08
-modified: 2026-11-11T17:17:27.074Z
-published: 2026-11-11T17:17:27.074Z
+modified: 2026-11-11T17:17:27.000Z
+published: 2026-11-11T17:17:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The paved park (Among Other Things, I've Taken Up Smoking).svg
 aliases: []
 books:
   - Among Other Things, I've Taken Up Smoking
@@ -12,18 +17,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 40.7036,-74.0161
-geo_note: "inferred: unnamed waterfront park reached by walking south past Canal Street\
-  \ and Chinatown, with ferries and a direct view of the Statue of Liberty; pinned\
-  \ at The Battery"
+geo_note: "inferred: unnamed waterfront park reached by walking south past Canal Street and Chinatown, with ferries and a direct view of the Statue of Liberty; pinned at The Battery"
 geo_source: Wikipedia (en) The Battery (Manhattan)
 icon: book
 location:
   - 40.7036
   - -74.0161
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[The Battery (Manhattan)]]"
 image: Attachments/Places/The paved park (Among Other Things, I've Taken Up Smoking).svg
 ---
@@ -33,11 +32,13 @@ image: Attachments/Places/The paved park (Among Other Things, I've Taken Up Smok
 Unnamed waterfront park at the southern tip of Manhattan, most likely [[The Battery (Manhattan)|the Battery]]. In Aoibheann Sweeney's novel it is where Miranda, looking out at the bay, realises her father loved this island more than their own.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | turning point | At the end of a long walk downtown, the sea smell and the Statue of Liberty make Miranda see her father's past in the city. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > I came through to a paved park where the sky was lit unmistakably with the ocean.

@@ -2,8 +2,13 @@
 publish: true
 title: The Clark Fork tavern (Greenlights)
 created: 2026-11-08
-modified: 2026-11-09T11:29:05.235Z
-published: 2026-11-09T11:29:05.235Z
+modified: 2026-11-09T11:29:05.000Z
+published: 2026-11-09T11:29:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The Clark Fork tavern (Greenlights).svg
 aliases: []
 books:
   - Greenlights
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 46.6667,-113.1469
-geo_note: "best-guess: unnamed tavern on the Clark Fork about fifty miles from Missoula;\
-  \ Drummond is the Clark Fork town about that far from Missoula"
+geo_note: "best-guess: unnamed tavern on the Clark Fork about fifty miles from Missoula; Drummond is the Clark Fork town about that far from Missoula"
 geo_source: Wikipedia (en) Drummond, Montana
 icon: book
 location:
   - 46.6667
   - -113.1469
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Drummond, Montana]]"
 image: Attachments/Places/The Clark Fork tavern (Greenlights).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/The Clark Fork tavern (Greenlights).svg
 Unnamed roadside tavern and campground on the Clark Fork River in western Montana, about fifty miles from Missoula. In Greenlights Matthew McConaughey spends a long night there with the locals.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Greenlights | Matthew McConaughey | setting | Looking for a trailer park, he stops at a tavern off the highway and spends the night drinking and rolling dice with the locals. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.6667&mlon=-113.1469#map=16/46.6667/-113.1469) · [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6667,-113.1469)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=46.6667\&mlon=-113.1469#map=16/46.6667/-113.1469) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=46.6667,-113.1469)
 
 ## Greenlights — Matthew McConaughey (2020)
+
 Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highlight](https://read.readwise.io/read/01m700jxswftwvj51zx9jbnfg9)
 
 > It was just after sundown somewhere along the Clark Fork River in western Montana.

@@ -2,12 +2,16 @@
 publish: true
 title: Hollywood
 created: 2016-08-31
-modified: 2026-11-09T11:24:02.442Z
-published: 2026-11-09T11:24:02.442Z
+modified: 2026-11-09T11:24:02.000Z
+published: 2026-11-09T11:24:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hollywood.svg
 aliases: []
 books:
-  - Bruce Lee’s Never-Before-Seen Writings on Willpower, Emotion, Reason, Memory,
-    Imagination, and Confidence
+  - Bruce Lee’s Never-Before-Seen Writings on Willpower, Emotion, Reason, Memory, Imagination, and Confidence
 categories:
   - "[[Places]]"
 color: purple
@@ -17,10 +21,6 @@ icon: newspaper
 location:
   - 34.1017
   - -118.3267
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Hollywood.svg
 ---
@@ -30,13 +30,15 @@ image: Attachments/Places/Hollywood.svg
 District of Los Angeles and shorthand for the US film industry. The Marginalian's Bruce Lee piece shows how its studios sidelined him.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bruce Lee’s Never-Before-Seen Writings on Willpower, Emotion, Reason, Memory, Imagination, and Confidence | Maria Popova | subject | The piece frames Hollywood as the racially biased industry that sidelined Lee, cast white actors in yellowface, and tried to strip the… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.1017&mlon=-118.3267#map=11/34.1017/-118.3267) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.1017,-118.3267)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.1017\&mlon=-118.3267#map=11/34.1017/-118.3267) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.1017,-118.3267)
 
 ## Bruce Lee’s Never-Before-Seen Writings on Willpower, Emotion, Reason, Memory, Imagination, and Confidence — Maria Popova (2016)
+
 Source: [Original](https://www.brainpickings.org/2016/08/01/bruce-lee-notebook/) · [Readwise highlight](https://read.readwise.io/read/01m5jx9anxmjp5cfwfhrpfc52z)
 
 > Early in his career, Lee was systematically sidelined by Hollywood’s studio system, which operated with extreme racial bias

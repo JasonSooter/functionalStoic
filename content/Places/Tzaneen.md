@@ -2,8 +2,13 @@
 publish: true
 title: Tzaneen
 created: 2026-11-08
-modified: 2026-11-09T05:16:58.009Z
-published: 2026-11-09T05:16:58.009Z
+modified: 2026-11-09T05:16:58.000Z
+published: 2026-11-09T05:16:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tzaneen.svg
 aliases: []
 books:
   - Born a Crime
@@ -16,10 +21,6 @@ icon: book
 location:
   - -23.8333
   - 30.1667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South Africa]]"
 image: Attachments/Places/Tzaneen.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Tzaneen.svg
 Town in Limpopo, South Africa, in what was the Tsonga homeland of Gazankulu. In Born a Crime it is home to Trevor Noah's stepfather Abel's family, and the place where his mother refuses to play the obedient wife.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | Christmas with Abel's patriarchal Tsonga family: Trevor is spoiled, his mother mocks the bowing and vows never to return. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6zbjr46h4jkg8bph1cewyy5)
 
 > They lived in Tzaneen, a town in Gazankulu, what had been the Tsonga homeland under apartheid. Tzaneen has a tropical climate, hot and humid.

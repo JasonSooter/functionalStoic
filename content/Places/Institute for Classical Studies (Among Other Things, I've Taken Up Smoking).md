@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Institute for Classical Studies (Among Other Things, I've Taken Up Smoking)
-created: 2026-11-08
-modified: 2026-11-11T14:21:26.551Z
-published: 2026-11-11T14:21:26.551Z
 aliases:
   - Institute for Classical Studies
   - the institute
+title: Institute for Classical Studies (Among Other Things, I've Taken Up Smoking)
+created: 2026-11-08
+modified: 2026-11-11T14:21:27.000Z
+published: 2026-11-11T14:21:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Institute for Classical Studies (Among Other Things, I've Taken Up Smoking).svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -14,21 +19,14 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 40.736,-74.004
-geo_note: "best-guess: unnamed brownstone side street within walking distance of Eighth\
-  \ Avenue, Fourteenth Street and Christopher Street; pinned at the West Village's\
-  \ representative point (approximate)"
+geo_note: "best-guess: unnamed brownstone side street within walking distance of Eighth Avenue, Fourteenth Street and Christopher Street; pinned at the West Village's representative point (approximate)"
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 40.736
   - -74.004
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Village]]"
-image: Attachments/Places/Institute for Classical Studies (Among Other Things, I've
-  Taken Up Smoking).svg
+image: Attachments/Places/Institute for Classical Studies (Among Other Things, I've Taken Up Smoking).svg
 ---
 
 # Institute for Classical Studies (Among Other Things, I've Taken Up Smoking)
@@ -36,11 +34,13 @@ image: Attachments/Places/Institute for Classical Studies (Among Other Things, I
 Fictional classics institute in a Manhattan brownstone, most likely in the [[West Village]]. In Aoibheann Sweeney's novel it is where Miranda is sent to catalogue her father's Ovid library, and the main setting of the New York part.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | setting | The brownstone her father co-founded, where Miranda catalogues the library, lives in a garret and meets Walter, Robert and Nate. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > In the dark behind the sheets of rain I could make out the façade I had long since memorized in the photo of my father with Arthur Mitchell—the arched windows, the stout brownstone steps.

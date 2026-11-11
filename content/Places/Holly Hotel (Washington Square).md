@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Holly Hotel (Washington Square)
-created: 2026-11-08
-modified: 2026-11-10T17:29:03.349Z
-published: 2026-11-10T17:29:03.349Z
 aliases:
   - Holly Hotel
+title: Holly Hotel (Washington Square)
+created: 2026-11-08
+modified: 2026-11-10T17:29:03.000Z
+published: 2026-11-10T17:29:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Holly Hotel (Washington Square).svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.7308
   - -73.9975
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Holly Hotel (Washington Square).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Holly Hotel (Washington Square).svg
 Hotel near [[Washington Square]] in Greenwich Village, [[Manhattan]]. In Hayden Herrera's _Frida_ it is where Frida, fleeing to New York in 1935, decides to go back to Diego after the Cristina affair.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | journey waypoint | Frida's 1935 refuge with Mary Schapiro, where she resolves to accept a marriage of mutual independence. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m737j3rjng1mg6x68hx2386k)
 
 > There, Mary (recently separated from her husband) and Frida stayed together at the Holly Hotel near Washington Square, and after confiding her troubles to Lucienne Bloch and to Bertram and Ella Wolfe, Frida came to a resolution.

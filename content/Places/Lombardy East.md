@@ -2,8 +2,13 @@
 publish: true
 title: Lombardy East
 created: 2026-11-08
-modified: 2026-11-09T05:16:57.949Z
-published: 2026-11-09T05:16:57.949Z
+modified: 2026-11-09T05:16:58.000Z
+published: 2026-11-09T05:16:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Lombardy East.svg
 aliases: []
 books:
   - Born a Crime
@@ -16,10 +21,6 @@ icon: book
 location:
   - -26.1146
   - 28.121
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Lombardy East.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Lombardy East.svg
 Middle-class suburb on the north-eastern edge of Johannesburg, next to [[Alexandra (Johannesburg)|Alexandra]]. In Born a Crime a police raid on a party Trevor Noah is DJ'ing there wrecks his computer and ends the crew's DJ business.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | Riot police break up his party, shoot his monitor and fry the hard drive holding all his music. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6zbjkgrv03nwqen4m59hj4d)
 
 > One night I was DJ’ing a party, not in Alex but right outside Alex in Lombardy East, a nicer, middle-class black neighborhood.

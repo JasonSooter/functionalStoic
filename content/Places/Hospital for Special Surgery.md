@@ -1,28 +1,28 @@
 ---
 publish: true
-title: Hospital for Special Surgery
-created: 2026-11-08
-modified: 2026-11-10T23:20:32.167Z
-published: 2026-11-10T23:20:32.167Z
 aliases:
   - HSS
+title: Hospital for Special Surgery
+created: 2026-11-08
+modified: 2026-11-10T23:20:32.000Z
+published: 2026-11-10T23:20:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hospital for Special Surgery.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 40.7497,-73.9717
-geo_note: the hospital's 1946 site, 321 East 42nd Street (per en.wikipedia); it later
-  moved to East 70th Street
+geo_note: the hospital's 1946 site, 321 East 42nd Street (per en.wikipedia); it later moved to East 70th Street
 geo_source: OSM way 747908053
 icon: book
 location:
   - 40.7497
   - -73.9717
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Hospital for Special Surgery.svg
 ---
@@ -32,11 +32,13 @@ image: Attachments/Places/Hospital for Special Surgery.svg
 Orthopedic hospital in [[Manhattan]], in 1946 on East 42nd Street. In Hayden Herrera's _Frida_ it is where Frida has the spinal fusion of June 1946, the major operation of her later life.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | turning point | Dr. Philip Wilson fuses four of Frida's vertebrae; she spends months recovering and longing for Coyoacán. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m73vww450b6gy41jkbdh013a)
 
 > Four vertebrae were fused with a piece of bone extracted from her pelvis and with a metal rod fifteen centimeters long.

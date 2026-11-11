@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Yeoville
-created: 2026-11-08
-modified: 2026-11-09T02:18:34.746Z
-published: 2026-11-09T02:18:34.746Z
 aliases:
   - Rockey Street
   - Yeo Street
+title: Yeoville
+created: 2026-11-08
+modified: 2026-11-09T02:18:35.000Z
+published: 2026-11-09T02:18:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Yeoville.svg
 books:
   - Born a Crime
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -26.1667
   - 28.05
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Yeoville.svg
 ---
@@ -31,6 +32,7 @@ image: Attachments/Places/Yeoville.svg
 Inner-city neighbourhood of Johannesburg, around Rockey Street. In Born a Crime it is where Trevor Noah's Swiss father lives after apartheid, and where Trevor spends his Sundays with him.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | His father's house on Yeo Street, near Rockey Street, is where Trevor spends Sundays, Christmases and birthdays. |

@@ -2,18 +2,18 @@
 publish: true
 title: South Africa
 created: 2026-10-20T10:42:36.000Z
-modified: 2026-11-09T05:14:29.862Z
-published: 2026-11-09T05:14:29.862Z
+modified: 2026-11-09T05:14:30.000Z
+published: 2026-11-09T05:14:30.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # South Africa

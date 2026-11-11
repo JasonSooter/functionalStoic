@@ -1,20 +1,19 @@
 ---
 publish: true
 title: "Weekly English Minutes: rationing English audio in Jellyfin"
+description: Our kids' Jellyfin accounts play films in German, but English is one click away. A small script gives each kid a weekly allowance of English-audio minutes and then switches the film to German mid-scene.
 created: 2026-10-31
-modified: 2026-11-08T11:23:36.000Z
-published: 2026-11-08T11:23:36.000Z
-date: 2026-10-31
-description: Our kids' Jellyfin accounts play films in German, but English is one
-  click away. A small script gives each kid a weekly allowance of English-audio minutes
-  and then switches the film to German mid-scene.
+modified: 2026-11-08T11:23:36.944Z
+published: 2026-10-31
 tags:
   - blog
   - german-life
   - concepts/parenting
   - jellyfin
   - self-hosting
-image: Attachments/Site Headers/Weekly English Minutes Hero.jpg
+socialImage: Attachments/Weekly English Minutes Hero.jpg
+date: 2026-10-31
+image: Attachments/Weekly English Minutes Hero.jpg
 ---
 
 # Weekly English Minutes: rationing English audio in Jellyfin

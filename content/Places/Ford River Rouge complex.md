@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Ford River Rouge complex
-created: 2026-11-08
-modified: 2026-11-10T17:27:15.727Z
-published: 2026-11-10T17:27:15.727Z
 aliases:
   - River Rouge plant
   - The Rouge
+title: Ford River Rouge complex
+created: 2026-11-08
+modified: 2026-11-10T17:27:16.000Z
+published: 2026-11-10T17:27:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ford River Rouge complex.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 42.3056
   - -83.1676
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Michigan]]"
 image: Attachments/Places/Ford River Rouge complex.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Ford River Rouge complex.svg
 Ford Motor Company's vast factory complex in Dearborn, [[Michigan]], beside [[Detroit]]. In Hayden Herrera's _Frida_ it is the industrial subject Diego Rivera sketches for his murals, and the indifferent skyline in Frida's _Henry Ford Hospital_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | backdrop | Rivera sketches its machines with Frida at his side; it later sits on the horizon of her hospital painting. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m737hmb3jqp937my96hadv7a)
 
 > Sometimes, with Frida at his side, he toured the Ford Motor Company’s River Rouge complex in Dearborn, and other factories around Detroit, tirelessly sketching machinery, assembly lines, and laboratories.

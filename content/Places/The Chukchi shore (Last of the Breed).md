@@ -1,11 +1,16 @@
 ---
 publish: true
-title: The Chukchi shore (Last of the Breed)
-created: 2026-11-08
-modified: 2026-11-08T20:18:15.896Z
-published: 2026-11-08T20:18:15.896Z
 aliases:
   - The Chukchi shore
+title: The Chukchi shore (Last of the Breed)
+created: 2026-11-08
+modified: 2026-11-08T20:18:16.000Z
+published: 2026-11-08T20:18:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The Chukchi shore (Last of the Breed).svg
 books:
   - Last of the Breed
 categories:
@@ -13,17 +18,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 64.4975,178.3914
-geo_note: "best-guess: unnamed Chukchi shore reached after crossing the Mayn; pinned\
-  \ at the Anadyr Estuary, near Olaf Swenson's documented trading station"
+geo_note: "best-guess: unnamed Chukchi shore reached after crossing the Mayn; pinned at the Anadyr Estuary, near Olaf Swenson's documented trading station"
 geo_source: Wikipedia (en) (Anadyrsky Liman)
 icon: book
 location:
   - 64.4975
   - 178.3914
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Anadyr Estuary]]"
 image: Attachments/Places/The Chukchi shore (Last of the Breed).svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/The Chukchi shore (Last of the Breed).svg
 An unnamed Chukchi fishing shore on the coast of north-eastern Siberia, where Joe Mack gets a kayak for the crossing to Alaska at the end of _Last of the Breed_; pinned at the [[Anadyr Estuary]] as a best guess.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | turning point | An old Chukchi who knew Olaf Swenson agrees to leave his kayak by the driftwood roots for Joe Mack's night crossing to Alaska. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=64.4975&mlon=178.3914#map=10/64.4975/178.3914) · [Google Maps](https://www.google.com/maps/search/?api=1&query=64.4975,178.3914)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=64.4975\&mlon=178.3914#map=10/64.4975/178.3914) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=64.4975,178.3914)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6ycpkv8z8xce2akt5bz43jj)
 
 > Major Joseph Makatozi walked along the shore in the gray morning and looked at the gray seas rolling in to beat against the rocky shore.

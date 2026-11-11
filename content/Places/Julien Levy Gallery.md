@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Julien Levy Gallery
-created: 2026-11-08
-modified: 2026-11-10T20:25:22.543Z
-published: 2026-11-10T20:25:22.543Z
 aliases:
   - 15 East 57th Street
+title: Julien Levy Gallery
+created: 2026-11-08
+modified: 2026-11-10T20:25:23.000Z
+published: 2026-11-10T20:25:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Julien Levy Gallery.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.7627
   - -73.9727
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Julien Levy Gallery.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Julien Levy Gallery.svg
 Surrealist-leaning art gallery at 15 East 57th Street, [[Manhattan]]. In Hayden Herrera's _Frida_ it gives Frida Kahlo her first solo exhibition, in November 1938.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | setting | Frida's first solo show: a lively opening, good press and about half the paintings sold. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m73hndmyvkvdsts0ty942sfv)
 
 > An exhibition of paintings by Frida Kahlo (FRIDA RIVERA) opens Tuesday, November 1st, at the JULIEN LEVY GALLERY, 15 East 57th St.

@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Chersky Range
-created: 2026-11-08
-modified: 2026-11-08T17:17:21.569Z
-published: 2026-11-08T17:17:21.569Z
 aliases:
   - Chersky Mountains
   - Cherskiy Range
   - Хребет Черского
+title: Chersky Range
+created: 2026-11-08
+modified: 2026-11-08T17:17:22.000Z
+published: 2026-11-08T17:17:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Chersky Range.svg
 books:
   - Last of the Breed
 categories:
@@ -20,10 +25,6 @@ icon: book
 location:
   - 64.7333
   - 142.9667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Chersky Range.svg
 ---
@@ -33,16 +34,19 @@ image: Attachments/Places/Chersky Range.svg
 Mountain system in north-eastern Siberia, cut by the canyons of the Indigirka and Kolyma rivers. In _Last of the Breed_ its deep canyons are the refuge Joe Mack makes for while the army sweeps the country south of the Kolyma.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | journey waypoint | Remembering Baronas's tales of canyons over 6,000 feet deep, Joe Mack heads for the Chersky country to vanish until the hunt is given up. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=64.7333&mlon=142.9667#map=10/64.7333/142.9667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=64.7333,142.9667)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=64.7333\&mlon=142.9667#map=10/64.7333/142.9667) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=64.7333,142.9667)
 
 ## Sub-places
+
 - [[The hanging valley (Last of the Breed)|The hanging valley]]
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6y2dje2gpwy5nxq3tm2acc0)
 
 > One of the things Baronas had told him was of the great canyons in the Chersky region through which the Indigirka and Kolyma rivers flowed, canyons said to be more than six thousand feet deep.

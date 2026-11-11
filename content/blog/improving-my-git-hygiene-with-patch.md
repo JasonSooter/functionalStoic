@@ -1,17 +1,10 @@
 ---
 publish: true
 title: Improve git hygiene with `git add --patch`
+description: Over the years, I had come across the concept of committing hunks of code. I found it to be useful for specific circumstances and broke it out when appropriate. But I didn't understand it and never spent the time to figure it out. Luckily, I ran into a great tweet about "git add --patch". Let's dig in!
 created: 2019-08-20
-modified: 2026-11-08T11:23:36.000Z
-published: 2026-11-08T11:23:36.000Z
-linter-yaml-title-alias: Improve git hygiene with `git add --patch`
-date created: 2026-10-18T18:00:27+02:00
-date modified: 2026-10-18T18:00:27+02:00
-date: 2019-08-20
-description: Over the years, I had come across the concept of committing hunks of
-  code. I found it to be useful for specific circumstances and broke it out when appropriate.
-  But I didn't understand it and never spent the time to figure it out. Luckily, I
-  ran into a great tweet about "git add --patch". Let's dig in!
+modified: 2019-08-20
+published: 2019-08-20
 tags:
   - blog
   - git
@@ -19,11 +12,15 @@ tags:
   - dev-improvement
 cssclasses:
   - photo-led
-image: Attachments/Blog/Git Add Patch.png
+socialImage: Attachments/git-add-patch.png
+linter-yaml-title-alias: Improve git hygiene with `git add --patch`
+date created: 2026-10-18T18:00:27+02:00
+date modified: 2026-10-18T18:00:27+02:00
+date: 2019-08-20
+image: Attachments/git-add-patch.png
 ---
 
 # Improve git hygiene with `git add --patch`
-
 
 ![[Attachments/Blog/Git Add Patch.png]]
 _Git Add Patch_

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: High Falls (Rochester)
-created: 2026-11-08
-modified: 2026-11-11T20:29:36.522Z
-published: 2026-11-11T20:29:36.522Z
 aliases:
   - High Falls
   - Genesee River falls
+title: High Falls (Rochester)
+created: 2026-11-08
+modified: 2026-11-11T20:29:37.000Z
+published: 2026-11-11T20:29:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/High Falls (Rochester).svg
 books:
   - Bicycle Diaries
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 43.1613
   - -77.6134
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Rochester, New York]]"
 image: Attachments/Places/High Falls (Rochester).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/High Falls (Rochester).svg
 Waterfall on the Genesee River in the centre of [[Rochester, New York]]. David Byrne stumbles on it by bike in _Bicycle Diaries_ and uses its gorge, lined with old Kodak industry, to talk about cities that turned their backs on their rivers.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | subject | A "smaller Niagara" in the city centre, long hidden by pollution, with the near-abandoned Kodak plant on its gorge. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76413gq8ar1sec4r3zbq40j)
 
 > In the center of Rochester there is a wonderful waterfall, a smaller but still spectacular Niagara where the Genesee River plummets into a deep gorge.

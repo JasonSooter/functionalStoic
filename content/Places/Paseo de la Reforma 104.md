@@ -1,28 +1,28 @@
 ---
 publish: true
-title: Paseo de la Reforma 104
-created: 2026-11-08
-modified: 2026-11-10T14:27:24.281Z
-published: 2026-11-10T14:27:24.281Z
 aliases:
   - Reforma 104
+title: Paseo de la Reforma 104
+created: 2026-11-08
+modified: 2026-11-10T14:27:24.000Z
+published: 2026-11-10T14:27:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Paseo de la Reforma 104.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 19.4322,-99.1558
-geo_note: approximate (today's No. 104 on Paseo de la Reforma; the book does not say
-  whether the 1929 house or its numbering survives)
+geo_note: approximate (today's No. 104 on Paseo de la Reforma; the book does not say whether the 1929 house or its numbering survives)
 geo_source: OSM way 1224874669
 icon: book
 location:
   - 19.4322
   - -99.1558
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico City]]"
 image: Attachments/Places/Paseo de la Reforma 104.svg
 ---
@@ -32,11 +32,13 @@ image: Attachments/Places/Paseo de la Reforma 104.svg
 Address on Paseo de la Reforma, the grand avenue of [[Mexico City]]. In Hayden Herrera's _Frida_ it is Frida and Diego Rivera's first home as a married couple, in 1929.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | setting | The newlyweds' first home: a Díaz-era French-gothic house, nearly unfurnished and crowded with Communist houseguests. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m72xar7nrgxq7r6fj3kjrymt)
 
 > FRIDA AND DIEGO’S first home was a grand house built during the Díaz dictatorship, No. 104 on the elegant Paseo de la Reforma; demonstrating both his passion for nativism and his love of contradiction, Rivera had placed pre-Columbian figures in the entranceway of the French-gothic-style façade.

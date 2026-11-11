@@ -2,8 +2,13 @@
 publish: true
 title: Tampico
 created: 2026-11-08
-modified: 2026-11-10T17:29:03.385Z
-published: 2026-11-10T17:29:03.385Z
+modified: 2026-11-10T17:29:03.000Z
+published: 2026-11-10T17:29:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tampico.svg
 aliases: []
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
@@ -16,10 +21,6 @@ icon: book
 location:
   - 22.2553
   - -97.8686
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico]]"
 image: Attachments/Places/Tampico.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Tampico.svg
 Gulf port city in Tamaulipas, [[Mexico]]. In Hayden Herrera's _Frida_ it is where Frida meets Leon and Natalia Trotsky off the tanker _Ruth_ in January 1937.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | journey waypoint | Trotsky lands in Mexico, met on the pier by Frida in place of the hospitalized Diego. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m737jb0hq384kj0de4k2raer)
 
 > arrived in the harbor of Tampico on the morning of January 9, 1937.

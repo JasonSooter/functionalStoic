@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Orlando East
-created: 2026-11-08
-modified: 2026-11-08T23:21:40.729Z
-published: 2026-11-08T23:21:40.729Z
 aliases:
   - Orlando, Soweto
   - Makhalima Street
+title: Orlando East
+created: 2026-11-08
+modified: 2026-11-08T23:21:41.000Z
+published: 2026-11-08T23:21:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Orlando East.svg
 books:
   - Born a Crime
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - -26.241
   - 27.917
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Soweto]]"
 image: Attachments/Places/Orlando East.svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/Orlando East.svg
 Oldest part of Soweto, in Johannesburg. In Born a Crime it is where Trevor Noah's grandmother lives, and where much of his early childhood takes place.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | Gran's two-room house: hidden indoors as a child, prayer meetings, and the boy who served as a landmark. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq3yks5nzt6nka6t81bq50)
 
 > My grandmother lived in Orlando East. She had a two-room house.

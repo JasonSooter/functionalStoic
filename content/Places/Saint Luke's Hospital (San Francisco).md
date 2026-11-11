@@ -1,29 +1,29 @@
 ---
 publish: true
-title: Saint Luke's Hospital (San Francisco)
-created: 2026-11-08
-modified: 2026-11-10T23:20:32.203Z
-published: 2026-11-10T23:20:32.203Z
 aliases:
   - St Luke's Hospital
   - Saint Luke's Hospital
+title: Saint Luke's Hospital (San Francisco)
+created: 2026-11-08
+modified: 2026-11-10T23:20:32.000Z
+published: 2026-11-10T23:20:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Saint Luke's Hospital (San Francisco).svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 37.747,-122.4209
-geo_note: site of St. Luke's Hospital, now CPMC Mission Bernal Campus (en.wikipedia
-  redirects St. Luke's to California Pacific Medical Center)
+geo_note: site of St. Luke's Hospital, now CPMC Mission Bernal Campus (en.wikipedia redirects St. Luke's to California Pacific Medical Center)
 geo_source: OSM way 160709337
 icon: book
 location:
   - 37.747
   - -122.4209
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/Saint Luke's Hospital (San Francisco).svg
 ---
@@ -33,11 +33,13 @@ image: Attachments/Places/Saint Luke's Hospital (San Francisco).svg
 Hospital in San Francisco's Mission district, today CPMC's Mission Bernal Campus. In Hayden Herrera's _Frida_ it is where Dr. Eloesser treats Frida in 1940 and her affair with Heinz Berggruen begins.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | turning point | Dr. Eloesser sets aside the Mexican doctors' diagnoses, Frida recovers, and Berggruen visits her every day. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m73vwh1aqwbbq49qv54dm7dk)
 
 > Early in September she flew to San Francisco, where Diego and Dr. Eloesser met her at the airport. After spending a few days with Diego in his apartment, she was admitted to Saint Luke’s Hospital,

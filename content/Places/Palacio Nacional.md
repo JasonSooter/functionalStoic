@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Palacio Nacional
-created: 2026-11-08
-modified: 2026-11-10T17:29:03.405Z
-published: 2026-11-10T17:29:03.405Z
 aliases:
   - National Palace
+title: Palacio Nacional
+created: 2026-11-08
+modified: 2026-11-10T17:29:03.000Z
+published: 2026-11-10T17:29:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Palacio Nacional.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 19.4326
   - -99.1313
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico City]]"
 image: Attachments/Places/Palacio Nacional.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Palacio Nacional.svg
 Seat of Mexico's federal government on the Zócalo in [[Mexico City]], with Diego Rivera's murals on its main stairway. In Hayden Herrera's _Frida_ its _Modern Mexico_ wall records Diego's affair with Frida's sister Cristina in paint.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | setting | Diego paints Cristina, and Frida, into his 1934 Modern Mexico mural on the stairway. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m737jd0epsjewnm1jv464tny)
 
 > Sometime in early November, he had begun his Modern Mexico mural on the left wall of the National Palace stairway

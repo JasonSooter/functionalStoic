@@ -1,12 +1,17 @@
 ---
 publish: true
-title: East Bank
-created: 2026-11-08
-modified: 2026-11-09T02:18:34.890Z
-published: 2026-11-09T02:18:34.890Z
 aliases:
   - Springbok Crescent
   - East Bank, Alexandra
+title: East Bank
+created: 2026-11-08
+modified: 2026-11-09T02:18:35.000Z
+published: 2026-11-09T02:18:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/East Bank (Alexandra).svg
 books:
   - Born a Crime
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - -26.104
   - 28.1082
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Alexandra (Johannesburg)]]"
 image: Attachments/Places/East Bank (Alexandra).svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/East Bank (Alexandra).svg
 Newer part of [[Alexandra (Johannesburg)|Alexandra]] township, across the Jukskei River. In Born a Crime the low wall outside Bongani's house on Springbok Crescent is where Trevor Noah spends three years hustling.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | The wall and garage on Springbok Crescent: base for selling CDs, DJing and doing nothing for three years. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6z18ykjnqtx6gafbkkdtba0)
 
 > After Twentieth Avenue you hit the Jukskei River, and on the far side of that, across the Roosevelt Street Bridge, was East Bank, the newest, nicest part of the hood.

@@ -2,19 +2,19 @@
 publish: true
 title: Concepts
 created: 2024-03-26T13:42:27.000Z
-modified: 2026-10-19T19:20:37.000Z
-published: 2026-10-19T19:20:37.000Z
+modified: 2026-11-08T11:23:36.979Z
+published: 2026-11-08T11:23:36.979Z
 tags:
   - concepts
-socialImage: Attachments/Concepts Hero.jpg
+socialImage: Attachments/Site Headers/Concepts Hero.jpg
 date created: 2024-03-26T14:42:27+01:00
 date modified: 2026-10-19T21:22:00+02:00
-image: Attachments/Concepts Hero.jpg
+image: Attachments/Site Headers/Concepts Hero.jpg
 ---
 
 # Concepts
 
-![[Attachments/Concepts Hero.jpg]]
+![[Attachments/Site Headers/Concepts Hero.jpg]]
 
 - [[Concepts/A Trained Mind.md|A Trained Mind]]
 - [[Concepts/Abstraction.md|Abstraction]]

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Khonuu
-created: 2026-11-08
-modified: 2026-11-08T20:18:15.800Z
-published: 2026-11-08T20:18:15.800Z
 aliases:
   - Хонуу
+title: Khonuu
+created: 2026-11-08
+modified: 2026-11-08T20:18:16.000Z
+published: 2026-11-08T20:18:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Khonuu.svg
 books:
   - Last of the Breed
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 66.45
   - 143.2333
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Khonuu.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Khonuu.svg
 Village on the Indigirka in Sakha (Yakutia), Russia, the centre of Momsky District. In _Last of the Breed_ its airfield is where Joe Mack, Botev and Borowsky free the dissident Yakov from the KGB.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | turning point | Joe Mack detours to the Khonuu airfield, where with Botev and Borowsky he frees Yakov from the KGB and takes a helicopter. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=66.45&mlon=143.2333#map=12/66.45/143.2333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=66.45,143.2333)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=66.45\&mlon=143.2333#map=12/66.45/143.2333) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=66.45,143.2333)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6ycpbyh0kacdcw9frf1rgyj)
 
 > Khonuu? It was a town on the Indigirka, and Yakov was a prisoner there.

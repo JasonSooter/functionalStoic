@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Ana's coffee cart (Among Other Things, I've Taken Up Smoking)
-created: 2026-11-08
-modified: 2026-11-11T14:21:26.571Z
-published: 2026-11-11T14:21:26.571Z
 aliases:
   - Ana's cart
   - the coffee cart
+title: Ana's coffee cart (Among Other Things, I've Taken Up Smoking)
+created: 2026-11-08
+modified: 2026-11-11T14:21:27.000Z
+published: 2026-11-11T14:21:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Ana's coffee cart (Among Other Things, I've Taken Up Smoking).svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -14,18 +19,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 40.7364,-73.9996
-geo_note: "best-guess: an unnamed big white hospital a walk from the institute across\
-  \ Eighth Avenue and a bigger avenue; pinned at the former St. Vincent's Hospital,\
-  \ Seventh Avenue and West 12th Street"
+geo_note: "best-guess: an unnamed big white hospital a walk from the institute across Eighth Avenue and a bigger avenue; pinned at the former St. Vincent's Hospital, Seventh Avenue and West 12th Street"
 geo_source: Wikipedia (en)
 icon: book
 location:
   - 40.7364
   - -73.9996
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[West Village]]"
 image: Attachments/Places/Ana's coffee cart (Among Other Things, I've Taken Up Smoking).svg
 ---
@@ -35,11 +34,13 @@ image: Attachments/Places/Ana's coffee cart (Among Other Things, I've Taken Up S
 Fictional sidewalk coffee cart outside a hospital near the [[West Village]], Manhattan. In Aoibheann Sweeney's novel it is where Miranda first falls for a woman, and where Ana hands her the cigarette of the title.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | turning point | The hospital-entrance cart where Miranda keeps returning to Ana, who gives her her first cigarette. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > I was looking up the street, thinking I ought to turn around, when I spied an aluminum cart near the hospital entrance, its little awning sticking out over the sidewalk, with COFFEE written down the side of it in big enthusiastic letters.

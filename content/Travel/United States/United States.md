@@ -2,8 +2,11 @@
 publish: true
 title: United States
 created: 2025-05-31T02:24:43.925Z
-modified: 2026-11-08T11:23:37.000Z
-published: 2026-11-08T11:23:37.000Z
+modified: 2026-11-08T11:23:37.035Z
+published: 2026-11-08T11:23:37.035Z
+tags:
+  - places
+socialImage: Attachments/United States Hero.jpg
 linter-yaml-title-alias: United States
 date created: 2025-05-30T20:24:43-06:00
 date modified: 2026-10-18T17:02:53+02:00
@@ -12,10 +15,8 @@ categories:
 coordinates: 38.9072,-77.0369
 color: blue
 icon: flag
-tags:
-  - places
 flag: 🇺🇸
-image: Attachments/Site Headers/United States Hero.jpg
+image: Attachments/United States Hero.jpg
 ---
 
 # United States
@@ -60,6 +61,5 @@ Overall, the United States is characterized by its dynamic and influential cultu
 
 > [!question] Title
 > Contents
-> 
 
 ## Content

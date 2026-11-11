@@ -2,8 +2,13 @@
 publish: true
 title: Berlin
 created: 2016-06-27
-modified: 2026-11-11T20:20:57.651Z
-published: 2026-11-11T20:20:57.651Z
+modified: 2026-11-11T20:20:58.000Z
+published: 2026-11-11T20:20:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Berlin.svg
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -19,10 +24,6 @@ icon: book
 location:
   - 52.52
   - 13.405
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 image: Attachments/Places/Berlin.svg
 ---
 
@@ -38,7 +39,7 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 | On the Rebound from Epic Failure | Jason Goldberg | setting | After selling Fab, Goldberg moved to Berlin to build Hem near the design and manufacturing teams |
 | Bicycle Diaries | David Byrne | subject | Civilised bike lanes, Wall-era memories and a city rebuilding itself as "a colossal experiment". |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.52&mlon=13.405#map=11/52.52/13.405) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.52,13.405)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.52\&mlon=13.405#map=11/52.52/13.405) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.52,13.405)
 
 ## Sub-places
 
@@ -65,6 +66,7 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 - [[Tränenpalast]]
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
+
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcqh6yff0xza3cyhbhrm1q)
 
 > living in Berlin when Hitler came to power in 1933
@@ -74,6 +76,7 @@ Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22
 - **Why it matters:** Berlin is the starting point of the family flight that shaped his relatives' planning mania. The anecdote is brief and the city is a departure point.
 
 ## On the Rebound from Epic Failure — Jason Goldberg (2019)
+
 Source: [Original](https://medium.com/@betashop/on-the-rebound-from-epic-failure-88e77d2b39af) · [Readwise highlight](https://read.readwise.io/read/01m5jx5b2yy9t7708y9sbfz98e)
 
 > In 2015 I escaped the Fab spotlight and the U.S. startup scene and hunkered down in Berlin, Germany and by all accounts built a lovely brand, Hem.
@@ -83,6 +86,7 @@ Source: [Original](https://medium.com/@betashop/on-the-rebound-from-epic-failure
 - **Why it matters:** The place of the rebuilding phase of the Fab+Hem story.
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m7641km8w4wxfp17ghv5sh3k)
 
 > I ride my bike along the bike lanes here in Berlin and it all seems very civilized, pleasant, and enlightened.

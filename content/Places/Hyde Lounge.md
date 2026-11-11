@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Hyde Lounge
-created: 2026-11-08
-modified: 2026-11-09T11:29:05.143Z
-published: 2026-11-09T11:29:05.143Z
 aliases:
   - Hyde Club
   - Hyde Sunset
+title: Hyde Lounge
+created: 2026-11-08
+modified: 2026-11-09T11:29:05.000Z
+published: 2026-11-09T11:29:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hyde Lounge.svg
 books:
   - Greenlights
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 34.0981
   - -118.3647
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Hyde Lounge.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Hyde Lounge.svg
 Former nightclub at 8029 Sunset Boulevard, Los Angeles. In Greenlights (as "the Hyde Club") it is where Matthew McConaughey first sees Camila, his future wife.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Greenlights | Matthew McConaughey | turning point | Late 2006: making margaritas at the head of the table, he sees Camila cross the room, and her towed car keeps her there. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0981&mlon=-118.3647#map=16/34.0981/-118.3647) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0981,-118.3647)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0981\&mlon=-118.3647#map=16/34.0981/-118.3647) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.0981,-118.3647)
 
 ## Greenlights — Matthew McConaughey (2020)
+
 Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highlight](https://read.readwise.io/read/01m700jqx5d3vfjc9qrkc4ts9p)
 
 > It was late 2006 and I was holding court at the head of the table at the Hyde Club on Sunset Boulevard, handmaking the best margaritas on the planet when I saw her.

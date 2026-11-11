@@ -2,8 +2,13 @@
 publish: true
 title: The hanging valley (Last of the Breed)
 created: 2026-11-08
-modified: 2026-11-08T17:17:21.593Z
-published: 2026-11-08T17:17:21.593Z
+modified: 2026-11-08T17:17:22.000Z
+published: 2026-11-08T17:17:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The hanging valley (Last of the Breed).svg
 aliases: []
 books:
   - Last of the Breed
@@ -12,17 +17,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 64.7333,142.9667
-geo_note: "best-guess: unnamed valley in a canyon of the Indigirka or Kolyma in the\
-  \ Chersky region; pinned at the range's representative point"
+geo_note: "best-guess: unnamed valley in a canyon of the Indigirka or Kolyma in the Chersky region; pinned at the range's representative point"
 geo_source: Wikipedia (en) Chersky Range
 icon: book
 location:
   - 64.7333
   - 142.9667
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Chersky Range]]"
 image: Attachments/Places/The hanging valley (Last of the Breed).svg
 ---
@@ -32,13 +32,15 @@ image: Attachments/Places/The hanging valley (Last of the Breed).svg
 A hidden forty-acre valley high in a Siberian river canyon where Joe Mack holes up in _Last of the Breed_; pinned in the [[Chersky Range]] as a best guess.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | setting | Joe Mack hides in a walled valley with a pond and waterfall, makes goatskin clothes and traps, and waits out the search planes. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=64.7333&mlon=142.9667#map=10/64.7333/142.9667) · [Google Maps](https://www.google.com/maps/search/?api=1&query=64.7333,142.9667)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=64.7333\&mlon=142.9667#map=10/64.7333/142.9667) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=64.7333,142.9667)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6y2dkkk7jpe1ekkpgpgpdcv)
 
 > Searching, he found a place where he could cross, and soon he was standing in a small hanging valley, its walls covered with stone pine and cedar, its basin half choked with aspen.

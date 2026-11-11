@@ -1,11 +1,16 @@
 ---
 publish: true
-title: American Hospital of Paris
-created: 2026-11-08
-modified: 2026-11-10T20:25:22.583Z
-published: 2026-11-10T20:25:22.583Z
 aliases:
   - American Hospital
+title: American Hospital of Paris
+created: 2026-11-08
+modified: 2026-11-10T20:25:23.000Z
+published: 2026-11-10T20:25:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/American Hospital of Paris.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 48.8929
   - 2.2725
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Paris]]"
 image: Attachments/Places/American Hospital of Paris.svg
 ---
@@ -30,6 +31,7 @@ image: Attachments/Places/American Hospital of Paris.svg
 English-speaking hospital in Neuilly-sur-Seine, on the western edge of [[Paris]]. In Hayden Herrera's _Frida_ Frida is taken here by ambulance with a kidney infection in February 1939, her low point in Paris.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | turning point | Bedridden with a kidney infection, Frida writes furious letters and is then taken in by Mary Reynolds. |

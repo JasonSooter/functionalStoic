@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Soweto
-created: 2026-11-08
-modified: 2026-11-09T05:14:31.150Z
-published: 2026-11-09T05:14:31.150Z
 aliases:
   - South Western Townships
+title: Soweto
+created: 2026-11-08
+modified: 2026-11-09T05:14:31.000Z
+published: 2026-11-09T05:14:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Soweto.svg
 books:
   - Born a Crime
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -26.2678
   - 27.8585
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Soweto.svg
 ---
@@ -30,6 +31,7 @@ image: Attachments/Places/Soweto.svg
 Township in the south-west of Johannesburg, built under apartheid to house black workers. In Born a Crime it is Trevor Noah's grandmother's world and the place his mother escapes from.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | subject | A township "designed to be bombed", where Trevor spends his holidays at his grandmother's. |
@@ -40,6 +42,7 @@ Township in the south-west of Johannesburg, built under apartheid to house black
 - [[Orlando East]]
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq3x3vg33fqzxvv4we758k)
 
 > Soweto was designed to be bombed—that’s how forward-thinking the architects of apartheid were.

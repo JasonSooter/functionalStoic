@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Cuahutemotzín and 5 de Mayo (Frida)
-created: 2026-11-08
-modified: 2026-11-10T11:22:35.471Z
-published: 2026-11-10T11:22:35.471Z
 aliases:
   - Frida Kahlo's bus accident
   - Calzada de Tlalpan
+title: Cuahutemotzín and 5 de Mayo (Frida)
+created: 2026-11-08
+modified: 2026-11-10T11:22:35.000Z
+published: 2026-11-10T11:22:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Cuahutemotzín and 5 de Mayo (Frida).svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -14,17 +19,12 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 19.423,-99.1343
-geo_note: "inferred: the book's corner, at the start of Calzada de Tlalpan; Chilango\
-  \ places the crash near Fray Servando and Tlaxcoaque"
+geo_note: "inferred: the book's corner, at the start of Calzada de Tlalpan; Chilango places the crash near Fray Servando and Tlaxcoaque"
 geo_source: OSM way 72039971
 icon: book
 location:
   - 19.423
   - -99.1343
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico City]]"
 image: Attachments/Places/Cuahutemotzín and 5 de Mayo (Frida).svg
 ---
@@ -34,11 +34,13 @@ image: Attachments/Places/Cuahutemotzín and 5 de Mayo (Frida).svg
 Street corner at the southern edge of central [[Mexico City]], where Calzada de Tlalpan begins. In Hayden Herrera's _Frida_ it is where a trolley hits Frida Kahlo's bus on 17 September 1925.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | turning point | A trolley crushes the Coyoacán bus; a handrail pierces Frida, and the accident remakes her life. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m72jsjrkt4whgsrz4s3cwmxt)
 
 > When they reached the corner of Cuahutemotzín and 5 de Mayo and were about to turn onto Calzada de Tlalpan, a trolley from Xochimilco approached.

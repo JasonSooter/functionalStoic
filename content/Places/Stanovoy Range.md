@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Stanovoy Range
-created: 2026-11-08
-modified: 2026-11-08T11:19:31.929Z
-published: 2026-11-08T11:19:31.929Z
 aliases:
   - Stanovoy
   - Становой хребет
+title: Stanovoy Range
+created: 2026-11-08
+modified: 2026-11-08T11:19:32.000Z
+published: 2026-11-08T11:19:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Stanovoy Range.svg
 books:
   - Last of the Breed
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 56.3333
   - 126
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Stanovoy Range.svg
 ---
@@ -32,13 +33,15 @@ image: Attachments/Places/Stanovoy Range.svg
 Mountain range in the Russian Far East, on the divide between the Lena and Amur basins. In _Last of the Breed_ Joe Mack, reading a stolen map on its southern slope, realises he must winter in Siberia.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | journey waypoint | On the range's southern slope Joe Mack reads a stolen map, shelters in an old convict log house and dodges a helicopter in a pass. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=56.3333&mlon=126.0#map=10/56.3333/126.0) · [Google Maps](https://www.google.com/maps/search/?api=1&query=56.3333,126.0)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=56.3333\&mlon=126.0#map=10/56.3333/126.0) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=56.3333,126.0)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6xdsegbfxdkn2q3jjby3ec6)
 
 > He was, he decided, somewhere on a southern slope of what was called the Stanovoy Range. There was no chance he could escape Siberia now.

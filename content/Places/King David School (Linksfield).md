@@ -1,12 +1,17 @@
 ---
 publish: true
-title: King David School (Linksfield)
-created: 2026-11-08
-modified: 2026-11-09T02:18:34.910Z
-published: 2026-11-09T02:18:34.910Z
 aliases:
   - King David School
   - King David Linksfield
+title: King David School (Linksfield)
+created: 2026-11-08
+modified: 2026-11-09T02:18:35.000Z
+published: 2026-11-09T02:18:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/King David School (Linksfield).svg
 books:
   - Born a Crime
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -26.1649
   - 28.1091
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/King David School (Linksfield).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/King David School (Linksfield).svg
 Jewish school in the Linksfield suburb of [[Johannesburg]]. In Born a Crime it is where Trevor Noah's crew performs "Go Hitler!" at a cultural day.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | At a cultural day Trevor hypes his dancer, a friend named Hitler, and a teacher pulls the plug. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6z18zw7sbhaky9vyf44mked)
 
 > She sent us the information with the time and place and the name of the school: the King David School. A Jewish school.

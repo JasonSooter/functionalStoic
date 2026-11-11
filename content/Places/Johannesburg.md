@@ -1,21 +1,21 @@
 ---
 publish: true
-title: Johannesburg
-created: 2026-11-08T23:17:28.316Z
-modified: 2026-11-09T05:14:27.698Z
-published: 2026-11-09T05:14:27.698Z
 aliases:
   - Joburg
   - Jozi
+title: Johannesburg
+created: 2026-11-08T23:17:28.000Z
+modified: 2026-11-09T05:14:28.000Z
+published: 2026-11-09T05:14:28.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South Africa]]"
 ---
 

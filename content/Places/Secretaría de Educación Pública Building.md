@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Secretaría de Educación Pública Building
-created: 2026-11-08
-modified: 2026-11-10T14:27:24.261Z
-published: 2026-11-10T14:27:24.261Z
 aliases:
   - Ministry of Education building
   - Ministry of Public Education
   - SEP building
+title: Secretaría de Educación Pública Building
+created: 2026-11-08
+modified: 2026-11-10T14:27:24.000Z
+published: 2026-11-10T14:27:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Secretaría de Educación Pública Building.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 19.4371
   - -99.1326
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico City]]"
 image: Attachments/Places/Secretaría de Educación Pública Building.svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/Secretaría de Educación Pública Building.svg
 Headquarters of Mexico's Ministry of Public Education in the historic centre of [[Mexico City]], whose courtyard corridors carry Diego Rivera's murals. In Hayden Herrera's _Frida_ it is where Frida calls Rivera down from his scaffold, and their courtship begins.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | turning point | Frida calls Rivera down from his scaffold to judge her paintings; he later paints her as a Communist militant on the third floor. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m72xapaf00px8skdreb6arsw)
 
 > I was at work on one of the uppermost frescoes of the Ministry of Education building one day, when I heard a girl shouting up to me, “Diego, please come down from there! I have something important to discuss with you!”

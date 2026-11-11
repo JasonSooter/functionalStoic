@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Maryvale College
-created: 2026-11-08
-modified: 2026-11-08T23:21:40.789Z
-published: 2026-11-08T23:21:40.789Z
 aliases:
   - Maryvale
+title: Maryvale College
+created: 2026-11-08
+modified: 2026-11-08T23:21:41.000Z
+published: 2026-11-08T23:21:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Maryvale College.svg
 books:
   - Born a Crime
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -26.1522
   - 28.0855
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Maryvale College.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Maryvale College.svg
 Private Catholic school in Johannesburg's northern suburbs. In Born a Crime it is Trevor Noah's school from preschool through grade six.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | setting | A mixed Catholic school, "an oasis that kept me from the truth", until he eats the Eucharist and leaves. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq434rkf8ja0g6vdqz3vzt)
 
 > she managed to get me into Maryvale College, an expensive private Catholic school.

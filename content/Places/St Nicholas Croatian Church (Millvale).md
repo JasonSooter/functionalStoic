@@ -1,12 +1,17 @@
 ---
 publish: true
-title: St Nicholas Croatian Church (Millvale)
-created: 2026-11-08
-modified: 2026-11-11T20:29:36.578Z
-published: 2026-11-11T20:29:36.578Z
 aliases:
   - St. Nicholas Croatian Catholic Church
   - Maxo Vanka murals
+title: St Nicholas Croatian Church (Millvale)
+created: 2026-11-08
+modified: 2026-11-11T20:29:37.000Z
+published: 2026-11-11T20:29:37.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/St Nicholas Croatian Church (Millvale).svg
 books:
   - Bicycle Diaries
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - 40.477
   - -79.9697
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Pittsburgh]]"
 image: Attachments/Places/St Nicholas Croatian Church (Millvale).svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/St Nicholas Croatian Church (Millvale).svg
 Croatian Catholic church in Millvale, a river town just outside [[Pittsburgh]], painted inside with Maxo Vanka's murals. In David Byrne's _Bicycle Diaries_ he visits on his birthday and calls Vanka "the Diego Rivera of Pittsburgh".
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | subject | Maxo Vanka's murals of immigrant steelworkers, war and Death as an oligarch, dark with coal dust. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m7641g4ewnytakzztabbb8km)
 
 > The church in this little town is Croatian, and the murals, by Maxo Vanka, are spectacular. The Diego Rivera of Pittsburgh, I would say.

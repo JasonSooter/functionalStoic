@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Plastun Bay
-created: 2026-11-08
-modified: 2026-11-08T14:18:12.241Z
-published: 2026-11-08T14:18:12.241Z
 aliases:
   - бухта Пластун
   - Plastun
+title: Plastun Bay
+created: 2026-11-08
+modified: 2026-11-08T14:18:12.000Z
+published: 2026-11-08T14:18:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Plastun Bay.svg
 books:
   - Last of the Breed
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 44.7406
   - 136.3277
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Plastun Bay.svg
 ---
@@ -31,13 +32,15 @@ image: Attachments/Places/Plastun Bay.svg
 Bay on the Sea of Japan coast of Primorsky Krai, below the Sikhote-Alin mountains in Russia's Far East. In _Last of the Breed_ it is the warmer coast where Joe Mack promises to come for Natalya, and where she and her father settle and plot an escape.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | setting | Joe Mack's promised rendezvous; Natalya and Baronas settle in a cabin above the bay and weigh escape by land or sea. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.7406&mlon=136.3277#map=10/44.7406/136.3277) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.7406,136.3277)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.7406\&mlon=136.3277#map=10/44.7406/136.3277) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.7406,136.3277)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6xr356m8d1tyh4rdecq3nnv)
 
 > Natalya Baronas stood in the opening of the small, deep valley where they had found a home and looked out over Plastun Bay.

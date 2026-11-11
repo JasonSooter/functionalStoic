@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Olekma River
-created: 2026-11-08
-modified: 2026-11-08T11:19:31.897Z
-published: 2026-11-08T11:19:31.897Z
 aliases:
   - Olekma
   - Olyokma
   - Олёкма
+title: Olekma River
+created: 2026-11-08
+modified: 2026-11-08T11:19:32.000Z
+published: 2026-11-08T11:19:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Olekma River.svg
 books:
   - Last of the Breed
 categories:
@@ -20,10 +25,6 @@ icon: book
 location:
   - 57.0656
   - 120.972
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Olekma River.svg
 ---
@@ -33,13 +34,15 @@ image: Attachments/Places/Olekma River.svg
 Long tributary of the Lena in eastern Siberia, rising in Zabaykalsky Krai and flowing north into Yakutia. In _Last of the Breed_ it is the wide, guarded river Joe Mack must cross at night on a plank.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | turning point | Soldiers camp on the Olekma; Joe Mack crosses its icy water by night pushing a plank, then meets a railroad being built beyond it. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=57.0656&mlon=120.972#map=10/57.0656/120.972) · [Google Maps](https://www.google.com/maps/search/?api=1&query=57.0656,120.972)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=57.0656\&mlon=120.972#map=10/57.0656/120.972) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=57.0656,120.972)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6xdsd511hhpfcsvf8dvtkj6)
 
 > To the east was the Olekma, a wide river. Yakov had said crossing might be dangerous, but cross he must.

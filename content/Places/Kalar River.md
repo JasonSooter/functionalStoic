@@ -1,13 +1,18 @@
 ---
 publish: true
-title: Kalar River
-created: 2026-11-08
-modified: 2026-11-08T11:19:31.865Z
-published: 2026-11-08T11:19:31.865Z
 aliases:
   - Kalar
   - Калар
   - Levoy Chinoy
+title: Kalar River
+created: 2026-11-08
+modified: 2026-11-08T11:19:32.000Z
+published: 2026-11-08T11:19:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Kalar River.svg
 books:
   - Last of the Breed
 categories:
@@ -20,10 +25,6 @@ icon: book
 location:
   - 55.3647
   - 116.2636
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Kalar River.svg
 ---
@@ -33,13 +34,15 @@ image: Attachments/Places/Kalar River.svg
 Mountain river in Zabaykalsky Krai, eastern Siberia, flowing into the Vitim. In _Last of the Breed_ its valley is Joe Mack's first hideout, and he crosses it by canoe with the escapee Yakov.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | setting | Joe Mack hides in a cave above the Kalar, makes a bow and hunts, then crosses the river by hidden canoe with Yakov. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.3647&mlon=116.2636#map=10/55.3647/116.2636) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.3647,116.2636)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.3647\&mlon=116.2636#map=10/55.3647/116.2636) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=55.3647,116.2636)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6xdsbp5xaeesb1rgev8he1g)
 
 > The stone pine was one of a considerable grove on a ridge overlooking the Kalar River.

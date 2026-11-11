@@ -2,8 +2,13 @@
 publish: true
 title: King Salman Park
 created: 2026-11-10
-modified: 2026-11-10T20:25:22.663Z
-published: 2026-11-10T20:25:22.663Z
+modified: 2026-11-10T20:25:23.000Z
+published: 2026-11-10T20:25:23.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/King Salman Park.svg
 aliases: []
 books:
   - This Will Be The World’s Biggest Park
@@ -16,10 +21,6 @@ icon: video
 location:
   - 24.719
   - 46.724
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Riyadh]]"
 image: Attachments/Places/King Salman Park.svg
 ---
@@ -29,14 +30,17 @@ image: Attachments/Places/King Salman Park.svg
 Giant urban park under construction on the site of Riyadh's old airport, in the centre of [[Riyadh]]. A B1M video presents it as one of the world's largest parks, meant to cool and green the city.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | This Will Be The World’s Biggest Park | The B1M | subject | A former airport turned into a park over five times the size of Central Park, built to cool Riyadh. |
 
 ## Sub-places
+
 - [[Museum of World Cultures (Riyadh)]]
 
 ## This Will Be The World’s Biggest Park — The B1M (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=VpuWi9a3MrE) · [Readwise highlight](https://read.readwise.io/read/01m73hnv8af7sqzcsmrebvshtx)
 
 > King Salman Park is more   than five times larger than Central Park.

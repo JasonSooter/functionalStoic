@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Orange Grove
-created: 2026-11-08
-modified: 2026-11-08T23:21:40.881Z
-published: 2026-11-08T23:21:40.881Z
 aliases:
   - Orange Grove
+title: Orange Grove
+created: 2026-11-08
+modified: 2026-11-08T23:21:41.000Z
+published: 2026-11-08T23:21:41.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Orange Grove (Johannesburg).svg
 books:
   - Born a Crime
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -26.161
   - 28.087
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Johannesburg]]"
 image: Attachments/Places/Orange Grove (Johannesburg).svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Orange Grove (Johannesburg).svg
 Suburb in north-eastern Johannesburg. In Born a Crime it is where seven-year-old Trevor Noah burns down a white family's house.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | turning point | Abel's garage room behind a white family's house, until Trevor's magnifying-glass game burns it down. |
 
 ## Born a Crime — Trevor Noah (2016)
+
 Source: [Original](https://openlibrary.org/works/OL17824318W) · [Readwise highlight](https://read.readwise.io/read/01m6yq4agsp88ck319q6hdccc3)
 
 > He lived in a neighborhood called Orange Grove in a white family’s garage, which he’d turned into a cottage-type thing with a hot plate and a bed.

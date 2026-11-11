@@ -2,12 +2,13 @@
 publish: true
 title: Yearly Reading Lists
 created: 2024-11-30T03:20:41.171Z
-modified: 2026-11-08T11:23:36.000Z
-published: 2026-11-08T11:23:36.000Z
+modified: 2026-11-08T11:23:36.919Z
+published: 2026-11-08T11:23:36.919Z
+socialImage: Attachments/Yearly Reading Lists Hero.jpg
 date created: 2024-11-30T04:20:41+01:00
 date modified: 2026-10-18T17:02:53+02:00
 tags:
-image: Attachments/Site Headers/Yearly Reading Lists Hero.jpg
+image: Attachments/Yearly Reading Lists Hero.jpg
 ---
 
 # Yearly Reading Lists

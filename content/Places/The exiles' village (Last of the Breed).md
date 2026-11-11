@@ -1,11 +1,16 @@
 ---
 publish: true
-title: The exiles' village (Last of the Breed)
-created: 2026-11-08
-modified: 2026-11-08T11:22:04.530Z
-published: 2026-11-08T11:22:04.530Z
 aliases:
   - The exiles' village
+title: The exiles' village (Last of the Breed)
+created: 2026-11-08
+modified: 2026-11-08T11:22:05.000Z
+published: 2026-11-08T11:22:05.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/The exiles' village (Last of the Breed).svg
 books:
   - Last of the Breed
 categories:
@@ -13,17 +18,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 58.6167,125.4167
-geo_note: "best-guess: unnamed forest settlement \"miles\" from Aldan, the town the\
-  \ exiles deal with; pinned at Aldan"
+geo_note: 'best-guess: unnamed forest settlement "miles" from Aldan, the town the exiles deal with; pinned at Aldan'
 geo_source: Wikipedia (en) Aldan, Russia
 icon: book
 location:
   - 58.6167
   - 125.4167
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Aldan]]"
 image: Attachments/Places/The exiles' village (Last of the Breed).svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/The exiles' village (Last of the Breed).svg
 A hidden settlement of dugouts and log huts in the Siberian forest, home to 29 exiles, where Joe Mack meets Natalya and her father in _Last of the Breed_; pinned at [[Aldan]] as a best guess.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | setting | In a gorge shelter and a village of hidden dugouts, Joe Mack meets the Lithuanian exiles Natalya and Baronas and finds a winter cave nearby. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=58.6167&mlon=125.4167#map=16/58.6167/125.4167) · [Google Maps](https://www.google.com/maps/search/?api=1&query=58.6167,125.4167)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=58.6167\&mlon=125.4167#map=16/58.6167/125.4167) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=58.6167,125.4167)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6xdshrpjhsgr6bdatea0xgs)
 
 > The village, when they came to it, was a mere cluster of huts in the deep forest.

@@ -2,8 +2,13 @@
 publish: true
 title: Hammanskraal
 created: 2026-11-08
-modified: 2026-11-09T02:18:34.846Z
-published: 2026-11-09T02:18:34.846Z
+modified: 2026-11-09T02:18:35.000Z
+published: 2026-11-09T02:18:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hammanskraal.svg
 aliases: []
 books:
   - Born a Crime
@@ -16,10 +21,6 @@ icon: book
 location:
   - -25.4
   - 28.2833
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[South Africa]]"
 image: Attachments/Places/Hammanskraal.svg
 ---
@@ -29,6 +30,7 @@ image: Attachments/Places/Hammanskraal.svg
 Town north of Pretoria in [[South Africa]], a former relocation settlement. In Born a Crime Trevor Noah's friend Tom gets him on stage at a talent show there as "Spliff Star".
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Born a Crime | Trevor Noah | subject | A resettlement area "like a homeland, but not really", where Tom passes Trevor off as Busta Rhymes's hype man. |

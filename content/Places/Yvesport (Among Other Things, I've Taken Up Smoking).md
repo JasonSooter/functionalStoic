@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Yvesport (Among Other Things, I've Taken Up Smoking)
-created: 2026-11-08
-modified: 2026-11-11T20:40:32.084Z
-published: 2026-11-11T20:40:32.084Z
 aliases:
   - Yvesport
+title: Yvesport (Among Other Things, I've Taken Up Smoking)
+created: 2026-11-08
+modified: 2026-11-11T20:40:32.000Z
+published: 2026-11-11T20:40:32.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Yvesport (Among Other Things, I've Taken Up Smoking).svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -13,18 +18,13 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 44.9033,-67.0033
-geo_note: "inferred: the text names Estes Head Pier, Deep Cove, sardine factories\
-  \ and Passamaquoddy neighbours, all of which are real Eastport features"
+geo_note: "inferred: the text names Estes Head Pier, Deep Cove, sardine factories and Passamaquoddy neighbours, all of which are real Eastport features"
 geo_source: Wikipedia (en)
 icon: book
 image: Attachments/Places/Yvesport (Among Other Things, I've Taken Up Smoking).svg
 location:
   - 44.9033
   - -67.0033
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Eastport]]"
 ---
 
@@ -33,11 +33,13 @@ within: "[[Eastport]]"
 Fictional fishing town on the Down East coast of Maine, most likely modelled on [[Eastport]]. In Aoibheann Sweeney's novel it is the mainland town across the channel from Crab Island, where the narrator goes to school and is always "from away".
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | setting | The fog-bound sardine town across the channel, where Miranda goes to school and stays an outsider. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227) · [Readwise highlight](https://read.readwise.io/read/01m765d043x3sj271a92c7ze47)
 
 > Across the water I could see the harbor, Yvesport clustered on the other side of the channel, the boats and houses and empty sardine factories leading around the point to Estes Head Pier and Deep Cove.

@@ -2,8 +2,13 @@
 publish: true
 title: Catfish Station
 created: 2026-11-08
-modified: 2026-11-09T08:26:16.044Z
-published: 2026-11-09T08:26:16.044Z
+modified: 2026-11-09T08:26:16.000Z
+published: 2026-11-09T08:26:16.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Catfish Station.svg
 aliases: []
 books:
   - Greenlights
@@ -17,10 +22,6 @@ icon: book
 location:
   - 30.2672
   - -97.7397
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Austin, Texas]]"
 image: Attachments/Places/Catfish Station.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Catfish Station.svg
 Blues bar on Sixth Street in Austin, Texas. In Greenlights it is where the college-age Matthew McConaughey talks his way into a job as the only white waiter.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Greenlights | Matthew McConaughey | setting | The Sixth Street blues bar where he waited tables for two years, trained by Tammy. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.2672&mlon=-97.7397#map=10/30.2672/-97.7397) · [Google Maps](https://www.google.com/maps/search/?api=1&query=30.2672,-97.7397)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=30.2672\&mlon=-97.7397#map=10/30.2672/-97.7397) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=30.2672,-97.7397)
 
 ## Greenlights — Matthew McConaughey (2020)
+
 Source: [Original](https://openlibrary.org/works/OL21911019W) · [Readwise highlight](https://read.readwise.io/read/01m6zp413wqa5k53sgktwr965k)
 
 > When my college buddies and I would hit Sixth Street for a night out, they’d go to the popular bars littered with sorority girl possibilities and I’d go to Catfish Station, an all-black, sweaty bar that sold catfish, beer, and blues.

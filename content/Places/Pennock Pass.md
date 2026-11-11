@@ -2,8 +2,13 @@
 publish: true
 title: Pennock Pass
 created: 2025-11-29
-modified: 2026-11-11T08:14:34.347Z
-published: 2026-11-11T08:14:34.347Z
+modified: 2026-11-11T08:14:34.000Z
+published: 2026-11-11T08:14:34.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Pennock Pass.svg
 aliases: []
 books:
   - It snowed a bit
@@ -19,10 +24,6 @@ image: Attachments/Places/Pennock Pass.svg
 location:
   - 40.5914
   - -105.5453
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Colorado]]"
 ---
 
@@ -31,14 +32,16 @@ within: "[[Colorado]]"
 Gravel pass in the foothills west of [[Fort Collins|Fort Collins]], Larimer County, [[Colorado]], USA. A Fort Collins bike blogger's recurring ride: once caught in snow there, and back a year later on a warm November day.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | It snowed a bit | Mostly Bikes x Me | journey waypoint | Caught in snow at about 9,000 feet, saved by a fast descent. |
 | Pennock Pass | Mostly Bikes x Me | journey waypoint | A warm November photo ride on the pass's mountain dirt, back in Colorado with friends. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5914&mlon=-105.5453#map=10/40.5914/-105.5453) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.5914,-105.5453)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.5914\&mlon=-105.5453#map=10/40.5914/-105.5453) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.5914,-105.5453)
 
 ## It snowed a bit — Mostly Bikes x Me (2025)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6tscbgmhdfm7fswra4r5)
 
 > Though it only snowed heavily for a brief period, and fast descent off Pennock Pass meant I was down from the coldest altitude relatively quickly.
@@ -48,6 +51,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5ce6tscbgmhdfm7fsw
 - **Why it matters:** A recurring route in this blog; here the weather makes it the post's whole event.
 
 ## Pennock Pass — Mostly Bikes x Me (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m74tqvdgpttcvzaga2h1gn20)
 
 > Properly back in Colorado now. November, 70F, mountain dirt with Jenn and Dustin.

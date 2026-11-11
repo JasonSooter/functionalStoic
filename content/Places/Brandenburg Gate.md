@@ -2,8 +2,13 @@
 publish: true
 title: Brandenburg Gate
 created: 2025-03-24
-modified: 2026-11-10T14:22:31.041Z
-published: 2026-11-10T14:22:31.041Z
+modified: 2026-11-10T14:22:31.000Z
+published: 2026-11-10T14:22:31.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Brandenburg Gate.svg
 aliases: []
 books:
   - "[[Uncommon Type]]"
@@ -18,10 +23,6 @@ icon: book
 location:
   - 52.5163
   - 13.3777
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Berlin]]"
 image: Attachments/Places/Brandenburg Gate.svg
 ---
@@ -38,9 +39,10 @@ Berlin's landmark gate at the end of Unter den Linden. In Tom Hanks's 'A Junket 
 | [[Germany - Memories of a Nation\|Germany: Memories of a Nation]] | Neil MacGregor | subject | Chapter 1's standpoint: Germany's 'village green', where Napoleon, the Nazis, the Wall and reunification all left their mark. |
 | How Our Drivers and Buses Ended Up in Berlin in 1990 and 1997 | VAG Freiburg | journey waypoint | In 1997 a Freiburg bus drives through the Gate on Berlin's tourist line 100, five years before it closed to traffic. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.5163&mlon=13.3777#map=16/52.5163/13.3777) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.5163,13.3777)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.5163\&mlon=13.3777#map=16/52.5163/13.3777) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.5163,13.3777)
 
 ## Uncommon Type — Tom Hanks (2017)
+
 Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/uncommon-type/9781786091338.html) · [Readwise highlight](https://read.readwise.io/read/01m5k5v5pzs8rcqmnaessypfc3)
 
 > The German screening of the teaser took place later that night, projected onto the Brandenburg Gate to six thousand fans.
@@ -50,6 +52,7 @@ Source: [[Uncommon Type]] · [Original](https://penguin.co.uk/books/1114786/unco
 - **Why it matters:** Berlin shows Rory's exhaustion and verbal slips (calling Willa 'Willa Sex'), moving the tour toward the breakdown in Paris.
 
 ## Germany: Memories of a Nation — Neil MacGregor (2014)
+
 Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org/works/OL20201162W) · [Readwise highlight](https://read.readwise.io/read/01m5m74zge3355k411n26a44gt)
 
 > If the modern state of Germany can be said to have a village green on which communal events are marked and celebrated, then it is the area around the Brandenburg Gate.
@@ -59,6 +62,7 @@ Source: [[Germany - Memories of a Nation]] · [Original](https://openlibrary.org
 - **Why it matters:** It is the book's central national monument, the place where communal events are marked, and the final chapter returns to it on the way to the Reichstag.
 
 ## How Our Drivers and Buses Ended Up in Berlin in 1990 and 1997 — VAG Freiburg (2026)
+
 Source: [Original](https://blog.vag-freiburg.de/so-verschlug-es-unsere-fahrer-und-busse-1990-und-1997-nach-berlin/) · [Readwise highlight](https://read.readwise.io/read/01m72xb476v414nwrjxwm94vdc)
 
 > Over the following three days, the VAG bus was in service on Berlin's line 100, a virtually touristic line that passes many of Berlin's sights: past the Zoo over the Großer Stern, past the "Pregnant Oyster" (the Congress Hall), past Bellevue Palace, along the Reichstag and through the Brandenburg Gate, along Unter den Linden to Alexanderplatz and Prenzlauer Berg.

@@ -2,18 +2,18 @@
 publish: true
 title: Montana
 created: 2026-10-22T14:40:45.000Z
-modified: 2026-11-09T11:23:58.929Z
-published: 2026-11-09T11:23:58.929Z
+modified: 2026-11-09T11:23:59.000Z
+published: 2026-11-09T11:23:59.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Montana

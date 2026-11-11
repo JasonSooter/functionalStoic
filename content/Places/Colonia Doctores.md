@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Colonia Doctores
-created: 2026-11-08
-modified: 2026-11-10T11:22:35.411Z
-published: 2026-11-10T11:22:35.411Z
 aliases:
   - Doctores
   - Doctores section
+title: Colonia Doctores
+created: 2026-11-08
+modified: 2026-11-10T11:22:35.000Z
+published: 2026-11-10T11:22:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Colonia Doctores.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 19.4176
   - -99.1474
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico City]]"
 image: Attachments/Places/Colonia Doctores.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Colonia Doctores.svg
 Neighbourhood in central [[Mexico City]]. In Hayden Herrera's _Frida_ it is where Frida Kahlo finds her runaway sister Matilde, years after helping her elope.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | turning point | Frida tracks down her runaway sister Matilde in a room "full of light and birds". |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m72jsafwayy5vtkwycnyf7xg)
 
 > In the back of a patio, in the fourth room off a long corridor, I found her. The room was full of light and birds.

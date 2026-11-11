@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Topka (Last of the Breed)
-created: 2026-11-08
-modified: 2026-11-08T17:17:21.613Z
-published: 2026-11-08T17:17:21.613Z
 aliases:
   - Topka
+title: Topka (Last of the Breed)
+created: 2026-11-08
+modified: 2026-11-08T17:17:22.000Z
+published: 2026-11-08T17:17:22.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Topka (Last of the Breed).svg
 books:
   - Last of the Breed
 categories:
@@ -13,17 +18,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 57.657,136.1716
-geo_note: "best-guess: way-station village on a road that leads back to Nel'kan, about\
-  \ sixty miles inland from the coast; pinned at Nelkan"
+geo_note: "best-guess: way-station village on a road that leads back to Nel'kan, about sixty miles inland from the coast; pinned at Nelkan"
 geo_source: OSM way 321115174 (Nelkan)
 icon: book
 location:
   - 57.657
   - 136.1716
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nelkan]]"
 image: Attachments/Places/Topka (Last of the Breed).svg
 ---
@@ -33,13 +33,15 @@ image: Attachments/Places/Topka (Last of the Breed).svg
 A way-station village and collective in the Khabarovsk taiga in _Last of the Breed_, where Joe Mack leaves a KGB man's car and later holds the manager at gunpoint; pinned at [[Nelkan]] as a best guess.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | turning point | Alekhin finds an arrowhead in the dead KGB man and knows the American did it; Joe Mack then takes food and a map from Peter Petrovich. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=57.657&mlon=136.1716#map=10/57.657/136.1716) · [Google Maps](https://www.google.com/maps/search/?api=1&query=57.657,136.1716)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=57.657\&mlon=136.1716#map=10/57.657/136.1716) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=57.657,136.1716)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6y2dbemb48v38f368ftvba5)
 
 > Alekhin, being driven in another black Volga, came to Topka late on the same afternoon. Peter Petrovich was awaiting him at the office of the collective.

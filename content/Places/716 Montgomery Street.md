@@ -1,11 +1,16 @@
 ---
 publish: true
-title: 716 Montgomery Street
-created: 2026-11-08
-modified: 2026-11-10T14:27:24.325Z
-published: 2026-11-10T14:27:24.325Z
 aliases:
   - Ralph Stackpole's studio
+title: 716 Montgomery Street
+created: 2026-11-08
+modified: 2026-11-10T14:27:24.000Z
+published: 2026-11-10T14:27:24.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/716 Montgomery Street.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 37.796
   - -122.4032
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/716 Montgomery Street.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/716 Montgomery Street.svg
 Address in San Francisco's old artists' quarter, near [[Montgomery Street (San Francisco)|Montgomery Street]]'s north end. In Hayden Herrera's _Frida_ it is sculptor Ralph Stackpole's studio, Frida and Diego Rivera's home on their first stay in the United States.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | setting | Stackpole's studio, where the couple live from November 1930, with the Blanches two flights below. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m72xawrz3w1c5mtxqr5hdyh3)
 
 > They arrived on November 10 and moved into Ralph Stackpole’s large studio at 716 Montgomery Street, in the old artists’ quarter.

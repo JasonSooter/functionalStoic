@@ -2,18 +2,18 @@
 publish: true
 title: Mali
 created: 2026-10-22T13:41:48.000Z
-modified: 2026-11-09T11:23:57.861Z
-published: 2026-11-09T11:23:57.861Z
+modified: 2026-11-09T11:23:58.000Z
+published: 2026-11-09T11:23:58.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 ---
 
 # Mali

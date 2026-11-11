@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Zavitinsk
-created: 2026-11-08
-modified: 2026-11-08T14:18:12.305Z
-published: 2026-11-08T14:18:12.305Z
 aliases:
   - Завитинск
+title: Zavitinsk
+created: 2026-11-08
+modified: 2026-11-08T14:18:12.000Z
+published: 2026-11-08T14:18:12.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Zavitinsk.svg
 books:
   - Last of the Breed
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 50.1281
   - 129.4433
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Zavitinsk.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Zavitinsk.svg
 Small town in Amur Oblast, in Russia's Far East near the Chinese border. In _Last of the Breed_ it is where the fleeing fur dealer Zhikarev is dropped off, only to find his border crossing blocked.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | journey waypoint | Zhikarev rides a truck from Aldan to Zavitinsk to cross into China, learns his border contact is away and is left stranded at night. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.1281&mlon=129.4433#map=10/50.1281/129.4433) · [Google Maps](https://www.google.com/maps/search/?api=1&query=50.1281,129.4433)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=50.1281\&mlon=129.4433#map=10/50.1281/129.4433) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=50.1281,129.4433)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6xr38s9q4f1b20gnc00neab)
 
 > "I can only take you to Zavitinsk this time," the driver was saying, "and I can pick you up in six days' time when I am on my way back."

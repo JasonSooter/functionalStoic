@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Magadan
-created: 2026-11-08
-modified: 2026-11-08T17:18:56.703Z
-published: 2026-11-08T17:18:56.703Z
 aliases:
   - Магадан
+title: Magadan
+created: 2026-11-08
+modified: 2026-11-08T17:18:57.000Z
+published: 2026-11-08T17:18:57.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Magadan.svg
 books:
   - Last of the Breed
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 59.5667
   - 150.8
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Russia]]"
 image: Attachments/Places/Magadan.svg
 ---
@@ -30,13 +31,15 @@ image: Attachments/Places/Magadan.svg
 Port town on the Sea of Okhotsk in Russia's Far East. In _Last of the Breed_ it is where Kyra Lebedev hunts for word of Joe Mack through the black market, and the town he weighs and rejects as a winter hideout.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Last of the Breed | Louis L'Amour | setting | Kyra works the black-market network for news of the American; Ostap's gang meets in a half-built shell of a building. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.5667&mlon=150.8#map=12/59.5667/150.8) · [Google Maps](https://www.google.com/maps/search/?api=1&query=59.5667,150.8)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=59.5667\&mlon=150.8#map=12/59.5667/150.8) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=59.5667,150.8)
 
 ## Last of the Breed — Louis L'Amour (1986)
+
 Source: [Original](https://openlibrary.org/works/OL51048W) · [Readwise highlight](https://read.readwise.io/read/01m6y2dcwtywbk6kn8zd3rkezg)
 
 > Magadan was just such a place of empty spaces, structures hurriedly thrown up on somebody's order or some bureaucratic whim.

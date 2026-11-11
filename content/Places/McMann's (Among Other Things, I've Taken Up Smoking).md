@@ -1,11 +1,16 @@
 ---
 publish: true
-title: McMann's (Among Other Things, I've Taken Up Smoking)
-created: 2026-11-08
-modified: 2026-11-11T14:21:26.511Z
-published: 2026-11-11T14:21:26.511Z
 aliases:
   - McMann's
+title: McMann's (Among Other Things, I've Taken Up Smoking)
+created: 2026-11-08
+modified: 2026-11-11T14:21:27.000Z
+published: 2026-11-11T14:21:27.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/McMann's (Among Other Things, I've Taken Up Smoking).svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -13,18 +18,12 @@ categories:
 color: gray
 confidence: best-guess
 coordinates: 44.9424,-67.0371
-geo_note: "best-guess: the bar stands over a pier on the road between Yvesport (Eastport)\
-  \ and Pleasant Point, reachable along the shore at low tide; pinned at Carlow Island,\
-  \ on the Route 190 shore road between the two"
+geo_note: "best-guess: the bar stands over a pier on the road between Yvesport (Eastport) and Pleasant Point, reachable along the shore at low tide; pinned at Carlow Island, on the Route 190 shore road between the two"
 geo_source: OSM relation 13332226
 icon: book
 location:
   - 44.9424
   - -67.0371
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Eastport]]"
 image: Attachments/Places/McMann's (Among Other Things, I've Taken Up Smoking).svg
 ---
@@ -34,11 +33,13 @@ image: Attachments/Places/McMann's (Among Other Things, I've Taken Up Smoking).s
 Fictional truckers' and sailors' bar on the shore road out of [[Eastport]], Maine, toward Pleasant Point. In Aoibheann Sweeney's novel it is where Miranda skips her college test, drinks her first whiskey and is led onto a supertanker.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | turning point | The out-of-town bar where Miranda skips her test, meets Susie and ends up aboard a sailors' supertanker. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > McMann’s was too far out on the road between Yvesport and Pleasant Point for anyone from town to go there much.

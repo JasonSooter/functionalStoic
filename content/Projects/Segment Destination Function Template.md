@@ -1,17 +1,17 @@
 ---
 publish: true
 title: Segment Destination Function Template
+description: Template to build your next Segment destination function — Jest, ESLint, Prettier, Husky and GitHub Actions.
 created: 2026-10-18T15:14:15.509Z
-modified: 2026-11-08T11:23:36.000Z
-published: 2026-11-08T11:23:36.000Z
+modified: 2026-11-08T11:23:36.893Z
+published: 2026-11-08T11:23:36.893Z
+tags:
+  - project
+socialImage: Attachments/Segment_Functions.png
 linter-yaml-title-alias: Segment Destination Function Template
 date created: 2026-10-18T17:14:15+02:00
 date modified: 2026-10-18T17:14:15+02:00
-description: Template to build your next Segment destination function — Jest, ESLint,
-  Prettier, Husky and GitHub Actions.
-image: Attachments/Technical/Segment Functions.png
-tags:
-  - project
+image: Attachments/Segment_Functions.png
 ---
 
 # Segment Destination Function Template

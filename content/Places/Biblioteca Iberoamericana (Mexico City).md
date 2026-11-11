@@ -1,31 +1,31 @@
 ---
 publish: true
-title: Biblioteca Iberoamericana (Mexico City)
-created: 2026-11-08
-modified: 2026-11-10T11:22:35.451Z
-published: 2026-11-10T11:22:35.451Z
 aliases:
   - Ibero American Library
   - Ibero-American Library
   - Old Church of the Incarnation
   - Ex Templo de la Encarnación
+title: Biblioteca Iberoamericana (Mexico City)
+created: 2026-11-08
+modified: 2026-11-10T11:22:35.000Z
+published: 2026-11-10T11:22:35.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Biblioteca Iberoamericana (Mexico City).svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 19.4369,-99.1325
-geo_note: approximate (Ex Templo de la Encarnación, the church the text says housed
-  the library)
+geo_note: approximate (Ex Templo de la Encarnación, the church the text says housed the library)
 geo_source: OSM way 1282499477
 icon: book
 location:
   - 19.4369
   - -99.1325
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Mexico City]]"
 image: Attachments/Places/Biblioteca Iberoamericana (Mexico City).svg
 ---
@@ -35,11 +35,13 @@ image: Attachments/Places/Biblioteca Iberoamericana (Mexico City).svg
 Library in the former Church of the Incarnation in central [[Mexico City]], near the Preparatory School. In Hayden Herrera's _Frida_ it is the Cachuchas' favourite haunt.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | backdrop | The "Ibero", where Frida and the Cachuchas argue, flirt, write and read. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m72jsh0b914f7j8w8b4gy7hy)
 
 > Although it was housed in the Old Church of the Incarnation, it was a warm and welcoming place, with a maze of low bookshelves to counter the grandeur of the tall, barrel-vaulted nave
