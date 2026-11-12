@@ -2,8 +2,8 @@
 publish: true
 title: Investment Philosophy
 created: 2026-04-10T14:16:58-06:00
-modified: 2026-11-12T15:08:49.930Z
-published: 2026-11-12T15:08:49.930Z
+modified: 2026-11-12T15:13:12.098Z
+published: 2026-11-12T15:13:12.098Z
 date created: 2026-04-10T14:16:58-06:00
 date modified: 2026-11-12T16:15:00+01:00
 tags:
@@ -118,26 +118,32 @@ xychart-beta
     y-axis "Value ($)" 70 --> 170
     line [100, 82.0, 100.1, 117.5, 143.7, 159.9]
     line [100, 83.3, 96.5, 101.8, 136.2, 149.5]
+    line [100, 82.6, 98.3, 109.6, 140.3, 155.1]
     line [100, 84.0, 100.2, 111.8, 145.3, 161.6]
 ```
 
-| Lines (top chart order) | End value | Per year | Worst drop |
-|---|---|---|---|
-| 1 · 100% VT | $159.9 | 9.9% | −25.7% |
-| 2 · 100% VXUS | $149.5 | 8.4% | −27.7% |
-| 3 · **New 401k mix** | **$161.6** | **10.1%** | −25.9% |
+| Lines (top chart order) | End value | Per year | Volatility | Worst drop |
+|---|---|---|---|---|
+| 1 · 100% VT | $159.9 | 9.9% | 15.6% | −25.7% |
+| 2 · 100% VXUS | $149.5 | 8.4% | 15.8% | −27.7% |
+| 3 · 50/50 VT/VXUS | $155.1 | 9.2% | 15.4% | −26.7% |
+| 4 · **New 401k mix** (50/35/7.5/7.5) | **$161.6** | **10.1%** | **15.3%** | −25.9% |
 
-| Calendar year | VT | VXUS | AVDV |
-|---|---|---|---|
-| 2022 | −18.0% | −16.1% | −11.5% |
-| 2023 | +22.0% | +15.9% | +16.9% |
-| 2024 | +17.5% | +5.5% | +9.2% |
-| 2025 | +22.3% | +33.8% | +50.0% |
+**Each fund on its own** (5-year return per year): VDV stand-in 14.3% · AVDV 14.1% · VT 9.9% · VXUS 8.4%.
 
-**What the history says:**
-- **2024 was the cost of being early.** US mega-caps ran and VXUS lagged VT by 12 points that year.
-- **VXUS alone doesn't reduce risk.** It moved with VT 92% of the time and fell about as far in 2022. Its argument is that it starts from cheaper prices, not that it holds up better in a fall.
-- **The value slice did the heavy lifting.** It cushioned 2022 and drove 2025. Only 15% value was enough to make the new mix match or beat 100% VT over the period.
+| Calendar year | VT | VXUS | VDV (EFV) | AVDV |
+|---|---|---|---|---|
+| 2022 | −18.0% | −16.1% | −5.1% | −11.5% |
+| 2023 | +22.0% | +15.9% | +18.8% | +16.9% |
+| 2024 | +17.5% | +5.5% | +3.8% | +9.2% |
+| 2025 | +22.3% | +33.8% | +43.5% | +50.0% |
+
+### Why the mix works
+
+- **The value funds outperformed.** Both returned about 14% a year against VT's 9.9%, and AVDV gained 50% in 2025. Only 15% of the portfolio in value was enough to more than make up for VXUS lagging VT.
+- **Value cushioned the 2022 drop.** The VDV stand-in fell only 5% and AVDV 11.5%, while VT fell 18%. Value behaves differently from VT, whereas VXUS mostly moves with it (92% correlation).
+- **2024 was the cost of being early.** US mega-caps ran and VXUS lagged VT by 12 points that year. VXUS alone isn't a hedge; its case is cheaper starting prices, not a softer fall.
+- **It's the only mix that doesn't lose either way.** In the backtest it beat 100% VT, 100% VXUS and 50/50, with the lowest volatility. In the [[#Looking forward the next 5 years|forward scenarios]] it comes out ahead in all three: about 15% above 100% VT if GMO is right, level with VT if the last 5 years repeat. That's what a hedge should do.
 
 ## Looking forward: the next 5 years
 
