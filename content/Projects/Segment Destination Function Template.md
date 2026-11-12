@@ -7,11 +7,11 @@ modified: 2026-11-08T11:23:36.893Z
 published: 2026-11-08T11:23:36.893Z
 tags:
   - project
-socialImage: Attachments/Segment_Functions.png
+socialImage: Attachments/Technical/Segment Functions.png
 linter-yaml-title-alias: Segment Destination Function Template
 date created: 2026-10-18T17:14:15+02:00
 date modified: 2026-10-18T17:14:15+02:00
-image: Attachments/Segment_Functions.png
+image: Attachments/Technical/Segment Functions.png
 ---
 
 # Segment Destination Function Template

@@ -10,12 +10,12 @@ tags:
   - gratitude
 cssclasses:
   - photo-led
-socialImage: Attachments/Sooter_Family_Header.jpg
+socialImage: Attachments/Blog/Sooter Family Header.jpg
 linter-yaml-title-alias: You are the local source for 'Gratitude Reminders'
 date created: 2026-10-16T21:17:04+02:00
 date modified: 2026-10-16T21:17:04+02:00
 date: 2018-02-28
-image: Attachments/Sooter_Family_Header.jpg
+image: Attachments/Blog/Sooter Family Header.jpg
 ---
 
 # You are the local source for 'Gratitude Reminders'

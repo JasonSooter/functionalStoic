@@ -12,12 +12,12 @@ tags:
   - dev-improvement
 cssclasses:
   - photo-led
-socialImage: Attachments/git-add-patch.png
+socialImage: Attachments/Blog/Git Add Patch.png
 linter-yaml-title-alias: Improve git hygiene with `git add --patch`
 date created: 2026-10-18T18:00:27+02:00
 date modified: 2026-10-18T18:00:27+02:00
 date: 2019-08-20
-image: Attachments/git-add-patch.png
+image: Attachments/Blog/Git Add Patch.png
 ---
 
 # Improve git hygiene with `git add --patch`
