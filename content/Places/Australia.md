@@ -2,13 +2,8 @@
 publish: true
 title: Australia
 created: 2016-06-27
-modified: 2026-11-09T11:24:06.000Z
-published: 2026-11-09T11:24:06.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Australia.svg
+modified: 2026-11-12T02:18:42.484Z
+published: 2026-11-12T02:18:42.484Z
 aliases: []
 books:
   - On the Rebound from Epic Failure
@@ -23,6 +18,10 @@ icon: book
 location:
   - -25
   - 133
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Australia.svg
 ---
 
@@ -37,10 +36,11 @@ Country and continent in the southern hemisphere. Jason Goldberg makes his decis
 | On the Rebound from Epic Failure | Jason Goldberg | turning point | On a walk during a holiday in Australia his husband Chris asks whether he would build Hem or something else with their own money; he… |
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | turning point | Sapiens' first open-sea crossing, about 45,000 years ago, and the first great extinction of large animals. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-25\&mlon=133#map=11/-25/133) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=-25,133)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-25&mlon=133#map=11/-25/133) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-25,133)
 
 ## Sub-places
 
+- [[Melbourne]]
 - [[Northern Territory]]
 - [[Port Douglas]]
 - [[South Australia]]
@@ -50,7 +50,6 @@ Country and continent in the southern hemisphere. Jason Goldberg makes his decis
 - [[Western Australia]]
 
 ## On the Rebound from Epic Failure — Jason Goldberg (2019)
-
 Source: [Original](https://medium.com/@betashop/on-the-rebound-from-epic-failure-88e77d2b39af) · [Readwise highlight](https://read.readwise.io/read/01m5jx5cpwz29tv110e3mgmrrg)
 
 > I loved what we were building with Hem though, and over the Christmas-New Years holidays at the end of 2015, while visiting Australia, I had to make an important decision as to whether I would personally invest in continuing Hem along with an investor group who was considering a takeover, or whether I would leave the company and start anew.
@@ -60,7 +59,6 @@ Source: [Original](https://medium.com/@betashop/on-the-rebound-from-epic-failure
 - **Why it matters:** Turning point where he decides to leave Hem. Place is only as specific as 'Australia'.
 
 ## Sapiens: A Brief History of Humankind — Yuval Noah Harari (2014)
-
 Source: [Original](https://openlibrary.org/works/OL17075811W) · [Readwise highlight](https://read.readwise.io/read/01m5m74zpr316bke6b18m6ryb9)
 
 > The journey of the first humans to Australia is one of the most important events in history, at least as important as Columbus’ journey to America or the Apollo 11 expedition to the moon.
