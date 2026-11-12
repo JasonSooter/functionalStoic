@@ -2,8 +2,8 @@
 publish: true
 title: Investment Philosophy
 created: 2026-04-10T14:16:58-06:00
-modified: 2026-11-12T16:01:56.253Z
-published: 2026-11-12T16:01:56.253Z
+modified: 2026-11-12T16:05:41.807Z
+published: 2026-11-12T16:05:41.807Z
 date created: 2026-04-10T14:16:58-06:00
 date modified: 2026-11-12T16:20:00+01:00
 tags:
@@ -207,7 +207,7 @@ flowchart LR
 
 - **From Grantham:** the direction of the tilt and the reason for it: international value is where the cheapness is.
 - **From Buffett:** don't go to zero US. VT stays the core, so the portfolio still holds roughly 30% US.
-- **From Munger:** leave it alone. One rebalance a year, no reacting to headlines. Also his likely criticism: a 7.5% slice here and a 7.5% slice there can be false precision, so either own the value thesis meaningfully or don't own it. _That one is still an open question for me._
+- **From Munger:** leave it alone. One rebalance a year, no reacting to headlines. Also his likely criticism: a 7.5% slice here and a 7.5% slice there can be false precision, so either own the value thesis meaningfully or don't own it. _That one is still open; see [[questions#Money & Investing|Questions]]._
 
 _My speculation about how each would react to this portfolio:_ Buffett would call the tilt unnecessary but approve of the discipline about price. Grantham would say 31% US is still too much. Munger would ask why the value slice is so small if I believe in it.
 
