@@ -2,8 +2,8 @@
 publish: true
 title: Questions
 created: 2026-10-16T21:17:04+02:00
-modified: 2026-11-12T16:05:28.000Z
-published: 2026-11-12T16:05:28.000Z
+modified: 2026-11-12T16:11:31.310Z
+published: 2026-11-12T16:11:31.310Z
 date: 2017-01-01
 date created: 2026-10-16T21:17:04+02:00
 date modified: 2026-10-18T18:51:42+02:00
@@ -91,9 +91,6 @@ An idea inspired by [Patrick Collison](https://patrickcollison.com/questions). A
 - **Will AI follow social media into enshittification?**
 	Feeds are already a misaligned AI: brilliant at short-term engagement, indifferent to long-term preference. The incentives that broke social media (ads, scale, lock-in) are all present again. What, if anything, is structurally different this time? See [[Artificial Intelligence]].
 
-- **What happens to markets when almost everyone indexes?**
-	I only own index funds, and I've never really examined the system I'm free-riding on. If price discovery is done by a shrinking share of active money, at what point does that break, and would anyone notice before it did?
-
 ## People & Life
 
 - **What actually tips a family from "someday" into moving abroad?**
@@ -127,6 +124,9 @@ An idea inspired by [Patrick Collison](https://patrickcollison.com/questions). A
 
 - **Is watching what the great investors do a signal or just noise?**
 	Berkshire's record cash and its stakes in Japanese trading houses both point towards patience and international value. Its 2026 return to buying points the other way. Do their quarterly holdings filings tell an index investor anything useful?
+
+- **What happens to markets when almost everyone indexes?**
+	I only own index funds, and I've never really examined the system I'm free-riding on. If price discovery is done by a shrinking share of active money, at what point does that break, and would anyone notice before it did?
 
 ## Answered (For Now)
 
