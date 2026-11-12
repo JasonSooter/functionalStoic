@@ -2,10 +2,10 @@
 publish: true
 title: Investment Philosophy
 created: 2026-04-10T14:16:58-06:00
-modified: 2026-11-12T15:13:12.098Z
-published: 2026-11-12T15:13:12.098Z
+modified: 2026-11-12T15:16:23.266Z
+published: 2026-11-12T15:16:23.266Z
 date created: 2026-04-10T14:16:58-06:00
-date modified: 2026-11-12T16:15:00+01:00
+date modified: 2026-11-12T16:20:00+01:00
 tags:
   - source/ai/claude
   - finance
@@ -28,8 +28,8 @@ tags:
 ```mermaid
 flowchart TD
     A[Global equities<br/>100% stocks, no bonds] --> B[Cash buffer<br/>replaces bonds' role]
-    A --> C[Taxable · IBKR]
-    A --> D[401k · Fidelity BrokerageLink<br/>Traditional + Roth]
+    A --> C[Taxable account]
+    A --> D[401k<br/>Traditional + Roth]
     C --> C1[VT: existing stake, held]
     C --> C2[New contributions → VXUS]
     D --> D1[50% VT · global core]
@@ -38,7 +38,7 @@ flowchart TD
     D --> D4[7.5% AVDV · ex-US small-cap value]
 ```
 
-### 401k (Traditional and Roth BrokerageLink, same mix in each)
+### 401k (Traditional and Roth, same mix in each)
 
 | Fund | What it is | Target | Expense ratio |
 |---|---|---|---|
@@ -58,7 +58,7 @@ pie showData
 
 **Why put the tilt in the 401k:** trades inside it are tax-free in the US and, under the US–Germany treaty, German tax is deferred until withdrawal. That makes it the cheapest place to rebalance. Each account (Traditional and Roth) holds the same mix and is rebalanced on its own.
 
-### Taxable (IBKR)
+### Taxable account
 
 - **VT:** existing stake, held. Selling would trigger German capital-gains tax (Abgeltungsteuer), so I don't.
 - **New contributions → VXUS** (from Nov 2026). This shifts the mix without selling anything.
@@ -109,7 +109,7 @@ _I matched the labels to the chart's order myself, so treat this as my reading, 
 
 ## Looking back: the last 5 years
 
-$100 invested Nov 2021, dividends reinvested, rebalanced each January (IBKR weekly data; EFV stands in for VDV, which only launched in 2026):
+$100 invested Nov 2021, dividends reinvested, rebalanced each January (weekly price data; EFV stands in for VDV, which only launched in 2026):
 
 ```mermaid
 xychart-beta
@@ -188,7 +188,7 @@ The dual-tax situation creates a fundamental tension:
 | **US-domiciled ETFs (VT, VXUS)** | Clean | Punitive (opaque fund treatment under InvStG 2018) |
 | **UCITS ETFs (e.g., VWCE)** | Punitive (PFIC reporting) | Favorable (30% Teilfreistellung on equity ETFs) |
 
-Current approach: hold US-domiciled ETFs via IBKR with MiFID II professional client status. Accept the German opaque-fund treatment as the lesser evil compared to PFIC reporting on the US side.
+Current approach: hold US-domiciled ETFs in the taxable account, using MiFID II professional client status to access them from the EU. Accept the German opaque-fund treatment as the lesser evil compared to PFIC reporting on the US side.
 
 **401k:** treaty-deferred in Germany until withdrawal, so trading inside it creates no German taxable event. **Open question for the Steuerberater:** does Germany honour the Roth's tax-free withdrawals? If yes, consider _asset location_: put the highest-expected-return value funds in the Roth, with VT and VXUS in the Traditional account.
 
@@ -219,4 +219,4 @@ Collins's point around it: corrections and crashes are normal; **your behaviour 
 
 ---
 
-_Not financial advice. Data: IBKR price history, Vanguard and GMO publications. Updated with Claude, 2026-11-12 ([session](https://claude.ai/code/session_01RCTYJ7LqMpax1P8WRfcqjB))._
+_Not financial advice. Data: exchange price history, Vanguard and GMO publications. Updated with Claude, 2026-11-12 ([session](https://claude.ai/code/session_01RCTYJ7LqMpax1P8WRfcqjB))._
