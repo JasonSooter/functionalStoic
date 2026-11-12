@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2016-04-07
-modified: 2026-11-12T02:18:50.624Z
-published: 2026-11-12T02:18:50.624Z
+modified: 2026-11-12T05:19:26.550Z
+published: 2026-11-12T05:19:26.550Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -88,6 +88,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Royal Observatory, Greenwich]]
 - [[Savile Row]]
 - [[Seven Kings station]]
+- [[Soho (London)]]
 - [[Southwark Cathedral]]
 - [[St Mary's Hospital, London]]
 - [[Tate Modern]]

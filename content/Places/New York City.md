@@ -1,16 +1,11 @@
 ---
 publish: true
-aliases:
-  - NYC
 title: New York City
 created: 2015-11-28
-modified: 2026-11-07T07:02:04.000Z
-published: 2026-11-07T07:02:04.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/New York City.svg
+modified: 2026-11-12T05:19:20.226Z
+published: 2026-11-12T05:19:20.226Z
+aliases:
+  - NYC
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
   - Can Zohran Mamdani Really Freeze the Rent?
@@ -27,6 +22,10 @@ icon: book
 location:
   - 40.7128
   - -74.0061
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/New York City.svg
 ---
 
@@ -45,7 +44,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 | The Caves of Steel | Isaac Asimov | setting | A future, roofed-over City of twenty million, fed by yeast vats, where the robot murder case unfolds. |
 | Around the World in Eighty Days | Jules Verne | turning point | The train reaches the Hudson 45 minutes after the China has sailed. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7128\&mlon=-74.0061#map=11/40.7128/-74.0061) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.7128,-74.0061)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.7128&mlon=-74.0061#map=11/40.7128/-74.0061) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.7128,-74.0061)
 
 ## Sub-places
 
@@ -72,6 +71,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Hotel Chelsea]]
 - [[Hudson River Park]]
 - [[Jamaica Avenue and 164th Street (Queens)]]
+- [[Jamaica Bay]]
 - [[John Bowne High School]]
 - [[Library Way]]
 - [[Lower East Side]]
@@ -91,13 +91,14 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[Times Square]]
 - [[Topos Too]]
 - [[Union Theological Seminary]]
+- [[Verrazzano-Narrows Bridge]]
 - [[Washington Square]]
 - [[West Village]]
+- [[Williamsburg Bridge]]
 - [[World Trade Center]]
 - [[YMCA on 125th Street (Harlem)]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
-
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5e0fq0803z77naxg4e2r)
 
 > Maybe that’s because it’s older, or because the architecture forces you to look up. History lives in the buildings here.
@@ -107,7 +108,6 @@ Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · 
 - **Why it matters:** It is the essay's American counter-example to decline.
 
 ## Can Zohran Mamdani Really Freeze the Rent? — Rachel Holliday Smith (2025)
-
 Source: [Original](https://www.thecity.nyc/2025/09/02/rent-freeze-mamdani-affordable-housing-stabilized-apartments/) · [Readwise highlight](https://read.readwise.io/read/01m5d21c0n7vs8cf9r1r2keq3w)
 
 > But does the mayor of New York City actually have the power to stop rent increases in one of the most expensive cities in the world?
@@ -117,7 +117,6 @@ Source: [Original](https://www.thecity.nyc/2025/09/02/rent-freeze-mamdani-afford
 - **Why it matters:** The whole city is the subject; no single neighbourhood or building does work in the piece.
 
 ## How Zohran Mamdani’s Big Goals Could Transform Life in New York City — RTBC Staff (2025)
-
 Source: [Original](https://reasonstobecheerful.world/zohran-mamdani-goals-learn-more/) · [Readwise highlight](https://read.readwise.io/read/01m5dr1q25k6n3eh6gq9t5cqrp)
 
 > New York would become the biggest city in the U.S. — and perhaps the world — to eliminate bus fares entirely.
@@ -127,7 +126,6 @@ Source: [Original](https://reasonstobecheerful.world/zohran-mamdani-goals-learn-
 - **Why it matters:** The city is the subject of the proposals; other cities appear as models.
 
 ## Where’s the Best Place in North America to Live an Edited Life? — David Friedlander (2015)
-
 Source: [Original](https://lifeedited.com/wheres-the-best-place-in-north-america-to-live-an-edited-life/) · [Readwise highlight](https://read.readwise.io/read/01m5g0eg3y4ztarq523n0phfr4)
 
 > It is one of the most walkable cities in the world. It has a peerless public transit system and an increasingly awesome network of bike lanes.
@@ -148,7 +146,6 @@ Source: [Original](https://openlibrary.org/works/OL46401W) · [Readwise highligh
 - **Real vs. fictional:** A real city imagined far in the future; the book's specific places are pinned separately as inferred or best-guess sub-places.
 
 ## Around the World in Eighty Days — Jules Verne (1872)
-
 Source: [Original](https://openlibrary.org/works/OL1100007W) · [Readwise highlight](https://read.readwise.io/read/01m5ne40z9n9k8msdvjsc8f8n9)
 
 > At last the Hudson came into view; and, at a quarter-past eleven in the evening of the 11th, the train stopped in the station on the right bank of the river, before the very pier of the Cunard line.

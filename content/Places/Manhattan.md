@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2016-07-30
-modified: 2026-11-12T02:18:54.389Z
-published: 2026-11-12T02:18:54.389Z
+modified: 2026-11-12T05:19:16.369Z
+published: 2026-11-12T05:19:16.369Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -44,12 +44,16 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 
 - [[18 East 48th Street]]
 - [[30 Rockefeller Plaza]]
+- [[42nd Street (Manhattan)]]
 - [[8 West Thirteenth Street]]
 - [[Barbizon-Plaza Hotel]]
 - [[City Hall Park]]
+- [[Columbia University]]
 - [[Dalton School]]
 - [[Dwight School]]
+- [[Garment District]]
 - [[Grand Central Terminal]]
+- [[Greenwich Village]]
 - [[Hampshire House]]
 - [[Heckscher Building]]
 - [[Holly Hotel (Washington Square)]]
@@ -61,6 +65,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[Museum of Modern Art]]
 - [[New Workers' School (51 West Fourteenth Street)]]
 - [[New York City Center]]
+- [[Ninth Avenue (Manhattan)]]
 - [[NYU Stern School of Business]]
 - [[Polo Grounds]]
 - [[Port Authority Bus Terminal]]
@@ -68,6 +73,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[The Battery (Manhattan)]]
 - [[The Four Seasons Restaurant]]
 - [[The Tombs]]
+- [[The Town Hall]]
 - [[Union League Club of New York]]
 - [[Waldorf Astoria New York]]
 - [[Wall Street]]

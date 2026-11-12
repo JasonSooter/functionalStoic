@@ -1,18 +1,14 @@
 ---
 publish: true
-aliases:
-  - Infinite Loop
 title: Apple Infinite Loop campus
 created: 2025-08-31
-modified: 2026-11-07T06:54:50.000Z
-published: 2026-11-07T06:54:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Apple Infinite Loop campus.svg
+modified: 2026-11-12T05:18:13.725Z
+published: 2026-11-12T05:18:13.725Z
+aliases:
+  - Infinite Loop
 books:
   - "[[Just for Fun - The Story of an Accidental Revolutionary]]"
+  - Bicycle Diaries
 categories:
   - "[[Places]]"
 color: purple
@@ -22,6 +18,10 @@ icon: book
 location:
   - 37.3318
   - -122.0312
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[California]]"
 image: Attachments/Places/Apple Infinite Loop campus.svg
 ---
@@ -35,11 +35,11 @@ Apple's former headquarters on Infinite Loop in Cupertino, California. In _Just 
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Just for Fun - The Story of an Accidental Revolutionary\|Just for Fun: The Story of an Accidental Revolutionary]] | Linus Torvalds and David Diamond | setting | Steve Jobs and Avie Tevanian pitch Mac OS X; Linus says he dislikes Mach, but leaves rather liking Jobs. |
+| Bicycle Diaries | David Byrne | setting | Jonathan Ive shows off a deconstructed PowerBook; Byrne reads its designed insides as a moral belief in good design. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3318\&mlon=-122.0312#map=16/37.3318/-122.0312) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=37.3318,-122.0312)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.3318&mlon=-122.0312#map=16/37.3318/-122.0312) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.3318,-122.0312)
 
 ## Just for Fun: The Story of an Accidental Revolutionary — Linus Torvalds and David Diamond (2001)
-
 Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original](https://search.worldcat.org/oclc/45610395) · [Readwise highlight](https://read.readwise.io/read/01m5kkrxmfjhpy0p0ac3br5qj9)
 
 > The meeting was at Apple’s headquarters on Infinity Loop Drive.
@@ -48,3 +48,12 @@ Source: [[Just for Fun - The Story of an Accidental Revolutionary]] · [Original
 - **In the book:** Jobs and his technical chief Avie Tevanian try to persuade Linus to get Linux developers behind Mac OS X. Linus tells them he dislikes the Mach kernel, and the two sides do not agree. He leaves feeling he kind of liked Jobs.
 - **Why it matters:** A brief encounter that shows his indifference to winning the desktop.
 - **Real vs. fictional:** The text calls the street "Infinity Loop Drive"; it is Infinite Loop.
+
+## Bicycle Diaries — David Byrne (2009)
+Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772wt34vqyen83s4ka02tfn)
+
+> My friend Melanie C arranges a field trip to Apple headquarters in Cupertino, just south of here, and lunch with their chief designer Jonathan Ive.
+
+- **Role:** setting
+- **In the book:** Ive gives a brief show-and-tell with a deconstructed PowerBook, showing that even the inside is thoughtfully designed; he seems as proud of the invisible foldings and stampings as of the exterior. Byrne reads this as a Bauhaus-style conviction that design should go "clear through."
+- **Why it matters:** The visit sets up Byrne's portrait of Silicon Valley as a place of devoted, almost moral work, which he then ties to its hippie and utopian roots.

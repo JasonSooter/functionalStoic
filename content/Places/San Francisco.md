@@ -2,8 +2,8 @@
 publish: true
 title: San Francisco
 created: 2016-06-24
-modified: 2026-11-11T23:18:00.256Z
-published: 2026-11-11T23:18:00.256Z
+modified: 2026-11-12T05:19:08.984Z
+published: 2026-11-12T05:19:08.984Z
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -54,9 +54,11 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 - [[49 Calhoun Terrace]]
 - [[716 Montgomery Street]]
 - [[Astrophage lab (Project Hail Mary)]]
+- [[Bernal Heights]]
 - [[Bernal Heights Park]]
 - [[Bradford Street (San Francisco)]]
 - [[California School of Fine Arts]]
+- [[CELLspace]]
 - [[Crissy Field]]
 - [[Davies Symphony Hall]]
 - [[de Young Museum]]
@@ -81,9 +83,11 @@ City in [[California]], USA. In Stranger in a Strange Land (Robert A. Heinlein) 
 - [[San Francisco Ferry Building]]
 - [[San Francisco–Oakland Bay Bridge]]
 - [[SFMOMA]]
+- [[Survival Research Laboratories]]
 - [[Tahanan (833 Bryant Street)]]
 - [[Thurgood Marshall Academic High School]]
 - [[Treasure Island (San Francisco)]]
+- [[Yerba Buena Center for the Arts]]
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
 Source: [Original](https://openlibrary.org/works/OL59688W)
