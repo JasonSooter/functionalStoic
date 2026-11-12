@@ -2,8 +2,8 @@
 publish: true
 title: Questions
 created: 2026-10-16T21:17:04+02:00
-modified: 2026-11-12T16:11:31.310Z
-published: 2026-11-12T16:11:31.310Z
+modified: 2026-11-12T16:12:40.125Z
+published: 2026-11-12T16:12:40.125Z
 date: 2017-01-01
 date created: 2026-10-16T21:17:04+02:00
 date modified: 2026-10-18T18:51:42+02:00
@@ -111,7 +111,7 @@ An idea inspired by [Patrick Collison](https://patrickcollison.com/questions). A
 ## Money & Investing
 
 - **How much of a portfolio should be in US stocks when the US is the most expensive market on earth?**
-	Grantham says none. Buffett says never bet against America, and Berkshire is buying again, including Alphabet. Munger wouldn't think in country weights at all; he'd ask whether the businesses are excellent and fairly priced. I've landed at roughly 31% (see [[Investment Philosphy|Investment Philosophy]]). What evidence would move me in either direction?
+	Grantham says none. Buffett says never bet against America, and Berkshire is buying again, including Alphabet. Munger wouldn't think in country weights at all; he'd ask whether the businesses are excellent and fairly priced. I've landed at roughly 31% (see [[Investment Philosophy|Investment Philosophy]]). What evidence would move me in either direction?
 
 - **Is a small value tilt meaningful, or just false precision?**
 	My guess at Munger's critique: if you believe the value thesis, own it properly; if you don't, why own it at all? Two 7.5% slices feel tidy, but would 25–30% be more honest, or more risk than I'd actually sit through in a bad year for value?

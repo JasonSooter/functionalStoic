@@ -2,14 +2,15 @@
 publish: true
 title: Investment Philosophy
 created: 2026-04-10T14:16:58-06:00
-modified: 2026-11-12T16:05:41.807Z
-published: 2026-11-12T16:05:41.807Z
+modified: 2026-11-12T16:12:42.981Z
+published: 2026-11-12T16:12:42.981Z
 date created: 2026-04-10T14:16:58-06:00
 date modified: 2026-11-12T16:20:00+01:00
 tags:
   - source/ai/claude
   - finance
   - investing
+aliases: Investment Philosphy
 ---
 
 # Investment Philosophy
