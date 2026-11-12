@@ -2,8 +2,8 @@
 publish: true
 title: Investment Philosophy
 created: 2026-04-10T14:16:58-06:00
-modified: 2026-11-12T15:16:23.266Z
-published: 2026-11-12T15:16:23.266Z
+modified: 2026-11-12T16:01:56.253Z
+published: 2026-11-12T16:01:56.253Z
 date created: 2026-04-10T14:16:58-06:00
 date modified: 2026-11-12T16:20:00+01:00
 tags:
@@ -168,6 +168,48 @@ xychart-beta
 **Why this allocation and not something bolder:** it's the only option that **doesn't lose in any scenario**. If GMO is right, it beats 100% VT by about 15%. If the last 5 years repeat, it matches VT. A 50/50 VT/VXUS split does better than VT only if GMO is right. Going to zero US would gain more if GMO is right and lose more if not.
 
 _Caveat:_ GMO's US forecasts have been too bearish for most of the last 15 years. These are projections from assumptions, not predictions.
+
+## Other opinions considered
+
+Grantham is one voice. Before committing, I checked the tilt against the two investors whose temperament I trust most: Warren Buffett and Charlie Munger. All three look at the same expensive US market. They disagree about what to do with that information.
+
+### Comparison with Buffett & Munger
+
+| | Grantham | Buffett | Munger |
+|---|---|---|---|
+| **Unit of analysis** | Asset classes and regions (GMO's 7-year forecasts) | Individual businesses he understands | A handful of excellent businesses |
+| **Valuation** | Cheapness, deep value | Price matters; never overpay | Quality first: "a wonderful company at a fair price" |
+| **Macro and timing** | Calls bubbles and reallocates | Won't predict; cash builds up when nothing is cheap | Dismissed macro forecasting entirely |
+| **The US** | "Don't own US stocks" | "Never bet against America" | Went abroad when it was cheaper (China) |
+| **Diversification** | Broad, by asset class | Concentrated for himself; S&P 500 index fund for everyone else | Extreme concentration |
+| **Crypto** | "Unnecessary nonsense" | Dismissive | "Rat poison" |
+
+**Where they agreed historically.** Both Grantham and Buffett called the late-1990s tech bubble and looked wrong for about two years before 2000 proved them right. Both turned buyers near the 2008–09 bottom: Buffett with "Buy American. I Am." (October 2008) and Grantham with "Reinvesting When Terrified" (March 2009). Munger said the 2021 market was crazier than the dot-com era, the same call as Grantham's superbubble warnings. _(From memory, not freshly sourced.)_
+
+**Where things stand in 2026:**
+- **Buffett is just as worried about valuations.** He's chairman now; Greg Abel became CEO in January 2026. Buffett has said investors have never been in a more "gambling mood". Berkshire sold more stock than it bought for 14 straight quarters and held a record ~$397B in cash in Q1 2026 ([WebProNews](https://www.webpronews.com/berkshires-400-billion-cash-fortress-signals-buffetts-enduring-market-skepticism)).
+- **Berkshire's biggest new conviction is international value, which is Grantham's playbook.** It owns over 10% of each of Japan's five big trading houses, and Abel called them comparable in importance to Berkshire's major US holdings ([Jiji/Adnkronos](https://english.adnkronos.com/2026/03/01/berkshire-stakes-in-3-japanese-trading-houses-exceed-10-pct/)).
+- **But Berkshire is buying again, including AI.** Under Abel it became a net buyer in Q2 2026 ([Motley Fool](https://www.webull.com/news/15430522333668352)), including large Alphabet purchases ([Motley Fool](https://www.fool.com/investing/2026/06/08/warren-buffett-2026-pullback-wasnt-big-berkshire/)). That's the opposite of Grantham's "sell US tech".
+- **Munger died in November 2023**, so there's no 2026 view. His late bets, BYD and Alibaba, were the same instinct as Grantham's: own the cheap market, not the familiar one.
+
+**An overlap worth noting:** Grantham's fallback, "if you must own US stocks, own quality", is pure Munger. They disagree about _when_ quality is worth paying for, not _whether_ it matters.
+
+### What I took from each
+
+```mermaid
+flowchart LR
+    G[Grantham<br/>valuation, international value] --> T[International value tilt<br/>VXUS + VDV + AVDV]
+    B[Buffett<br/>never bet against America] --> C[VT stays the core<br/>~31% US kept]
+    B --> K[Cash buffer<br/>patience over forced action]
+    M[Munger<br/>sit on your hands, quality] --> R[Annual rebalance only<br/>no tinkering]
+    BK[Berkshire in Japan] -.confirms.-> T
+```
+
+- **From Grantham:** the direction of the tilt and the reason for it: international value is where the cheapness is.
+- **From Buffett:** don't go to zero US. VT stays the core, so the portfolio still holds roughly 30% US.
+- **From Munger:** leave it alone. One rebalance a year, no reacting to headlines. Also his likely criticism: a 7.5% slice here and a 7.5% slice there can be false precision, so either own the value thesis meaningfully or don't own it. _That one is still an open question for me._
+
+_My speculation about how each would react to this portfolio:_ Buffett would call the tilt unnecessary but approve of the discipline about price. Grantham would say 31% US is still too much. Munger would ask why the value slice is so small if I believe in it.
 
 ## Principles
 
