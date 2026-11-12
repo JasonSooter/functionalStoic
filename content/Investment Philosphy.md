@@ -2,10 +2,10 @@
 publish: true
 title: Investment Philosophy
 created: 2026-04-10T14:16:58-06:00
-modified: 2026-11-12T14:54:55.657Z
-published: 2026-11-12T14:54:55.657Z
+modified: 2026-11-12T15:08:49.930Z
+published: 2026-11-12T15:08:49.930Z
 date created: 2026-04-10T14:16:58-06:00
-date modified: 2026-11-12T16:10:00+01:00
+date modified: 2026-11-12T16:15:00+01:00
 tags:
   - source/ai/claude
   - finance
@@ -20,6 +20,7 @@ tags:
 ## Changelog
 
 - **2026-11-12: international / value tilt.** Prompted by [[#The Grantham thesis|Jeremy Grantham's "Don't own US stocks"]] (Diary of a CEO, June 2026) and GMO's 7-year forecasts. The 401k moves from 100% VT to 50 VT / 35 VXUS / 7.5 VDV / 7.5 AVDV in three steps; taxable new money goes to VXUS. Step 1 executed Nov 12.
+	- Dropped the earlier plan of an 80/20 VT/VBR (US small-cap value) split in the taxable account; VBR was never bought. GMO's forecasts favour _international_ value over US value, and the value tilt now lives in the 401k, where it costs nothing in tax.
 - **2026-02: VTSAX → VT.** Migrated from the total US market to the total world market. I think this was the post that originally prompted it: [JL goes international and to ETFs, oh my!](https://jlcollinsnh.com/2026/02/08/jl-goes-international-and-to-etfs-oh-my/)
 
 ## Core Position
@@ -31,7 +32,6 @@ flowchart TD
     A --> D[401k · Fidelity BrokerageLink<br/>Traditional + Roth]
     C --> C1[VT: existing stake, held]
     C --> C2[New contributions → VXUS]
-    C --> C3[VBR: existing small-cap value tilt]
     D --> D1[50% VT · global core]
     D --> D2[35% VXUS · ex-US broad]
     D --> D3[7.5% VDV · ex-US value]
@@ -62,7 +62,7 @@ pie showData
 
 - **VT:** existing stake, held. Selling would trigger German capital-gains tax (Abgeltungsteuer), so I don't.
 - **New contributions → VXUS** (from Nov 2026). This shifts the mix without selling anything.
-- **VBR:** the existing small-cap value tilt. _Open question:_ VBR is US small-cap value, the one corner of the US market GMO is not negative on, so does it stay as the new-money destination for part of contributions, or does VXUS take all of it?
+- **Two funds, deliberately.** Every extra ETF here is another line on two tax returns, so the value tilt stays in the 401k instead.
 
 ## How exposure shifts
 
@@ -179,7 +179,7 @@ The dual-tax situation creates a fundamental tension:
 
 | | US Tax | German Tax |
 |---|---|---|
-| **US-domiciled ETFs (VT, VXUS, VBR)** | Clean | Punitive (opaque fund treatment under InvStG 2018) |
+| **US-domiciled ETFs (VT, VXUS)** | Clean | Punitive (opaque fund treatment under InvStG 2018) |
 | **UCITS ETFs (e.g., VWCE)** | Punitive (PFIC reporting) | Favorable (30% Teilfreistellung on equity ETFs) |
 
 Current approach: hold US-domiciled ETFs via IBKR with MiFID II professional client status. Accept the German opaque-fund treatment as the lesser evil compared to PFIC reporting on the US side.
