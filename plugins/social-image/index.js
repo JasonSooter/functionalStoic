@@ -117,6 +117,12 @@ export const SocialImage = () => ({
       () => (tree, file) => {
         const fm = file.data.frontmatter
         let cover = firstString(fm, PAGE_IMAGE_KEYS)
+        // A stale `image:` (the file was renamed or moved) would render a broken
+        // card; drop it so the first embedded image is used instead.
+        if (cover && !isAbsoluteURL(cover) && !exists(vaultPath(cover))) {
+          console.warn(`social-image: ${file.data.slug}: image not found: ${cover}`)
+          cover = undefined
+        }
         if (cover && isAbsoluteURL(cover)) {
           file.data.coverImage = cover
           if (firstString(fm, HERO_KEYS) === cover && !embeds(tree, file, cover)) {

@@ -179,7 +179,7 @@ plugins:
     # The header nav already links these root pages. The explorer only
     # stringifies filterFn and rebuilds it in the browser, so a string works here.
     options:
-      filterFn: '(node) => node.slugSegment !== "tags" && !["about", "map", "notes"].includes(node.slug)'
+      filterFn: '(node) => node.slugSegment !== "tags" && !["about", "map", "notes", "questions"].includes(node.slug)'
     layout:
       position: left
       priority: 50
@@ -268,7 +268,7 @@ plugins:
         GitHub: https://github.com/JasonSooter
         LinkedIn: https://www.linkedin.com/in/jason-sooter/
         Uses: /blog/uses
-        Questions: /blog/questions
+        Tags: /tags
         RSS: /feed.xml
     layout:
       position: footer
@@ -356,8 +356,8 @@ plugins:
         Bookshelf: /bookshelf
         Map: /map
         Projects: /projects
+        Questions: /questions
         About: /about
-        Tags: /tags
     layout:
       position: header
       priority: 10

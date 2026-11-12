@@ -39,7 +39,7 @@ const isPost = (page) =>
   page.slug?.startsWith("blog/") && (page.frontmatter?.tags ?? []).includes("blog")
 
 // Site pages that aren't notes, so they stay out of "Recently updated notes".
-const SITE_PAGES = new Set(["index", "about", "projects", "notes"])
+const SITE_PAGES = new Set(["index", "about", "projects", "notes", "questions"])
 const isNote = (page) =>
   page.slug &&
   !page.slug.startsWith("blog/") &&
