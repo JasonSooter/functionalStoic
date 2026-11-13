@@ -7,8 +7,8 @@ aliases:
   - Stockholm, Sweden
 title: Sweden
 created: 2024-10-05T01:15:15.417Z
-modified: 2026-11-13T06:55:16.034Z
-published: 2026-11-13T06:55:16.034Z
+modified: 2026-11-13T06:57:06.036Z
+published: 2026-11-13T06:57:06.036Z
 tags:
   - travel/europe/sweden/malmo
   - travel/europe/europe-2023
@@ -105,7 +105,7 @@ Sweden is a country in northern Europe. It groups the places below that come up 
 
 It is neat how similar it remains after more than 100 years
 
-- Find the missing photo with filename `PXL_20230923_102958649.MP.jpg`
+- [ ] Find the missing photo with filename `PXL_20230923_102958649.MP.jpg`
 
 SL: Android App: [SL-Journey planner and Tickets](https://play.google.com/store/apps/details?id=com.sl.SLBiljetter\&hl=en_US\&gl=US)
 
