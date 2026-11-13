@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Costanera Sur Ecological Reserve
-created: 2026-11-08
-modified: 2026-11-11T23:22:13.500Z
-published: 2026-11-11T23:22:13.500Z
 aliases:
   - Reserva Ecológica Costanera Sur
   - Parque Ecológico
+title: Costanera Sur Ecological Reserve
+created: 2026-11-08
+modified: 2026-11-11T23:22:14.000Z
+published: 2026-11-11T23:22:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Costanera Sur Ecological Reserve.svg
 books:
   - Bicycle Diaries
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - -34.6039
   - -58.3525
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Buenos Aires]]"
 image: Attachments/Places/Costanera Sur Ecological Reserve.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Costanera Sur Ecological Reserve.svg
 Wetland nature reserve on the River Plate waterfront beside Puerto Madero, [[Buenos Aires]]. David Byrne, who calls it the Parque Ecológico, rides its marsh paths in _Bicycle Diaries_.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | journey waypoint | Byrne rides marsh paths that hide the city next door, like the Meadowlands bolted onto Manhattan. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76e99dw25k16kyec5qakt9f)
 
 > I bike through the Parque Ecológico, a park that has paths through the wetlands that border one whole side of the city.

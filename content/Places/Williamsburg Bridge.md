@@ -2,8 +2,13 @@
 publish: true
 title: Williamsburg Bridge
 created: 2026-11-08
-modified: 2026-11-12T05:23:43.662Z
-published: 2026-11-12T05:23:43.662Z
+modified: 2026-11-12T05:23:44.000Z
+published: 2026-11-12T05:23:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Williamsburg Bridge.svg
 aliases: []
 books:
   - Bicycle Diaries
@@ -16,10 +21,6 @@ icon: book
 location:
   - 40.7136
   - -73.972
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Williamsburg Bridge.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Williamsburg Bridge.svg
 Suspension bridge over the East River between Manhattan's Lower East Side and Williamsburg, Brooklyn, in [[New York City]]. In _Bicycle Diaries_ David Byrne crosses it during a blackout and concludes that "electrical power is political."
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | turning point | From the bridge he sees which neighborhoods got their power back first: "So, electrical power is political." |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772xcv6nwhvvc1by124ydes)
 
 > I assume that the party is still on, so as it gets dark I bike over the Williamsburg Bridge.

@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Marcos Mausoleum (Batac)
-created: 2026-11-08
-modified: 2026-11-12T02:25:51.636Z
-published: 2026-11-12T02:25:51.636Z
 aliases:
   - Ferdinand E. Marcos Presidential Center
   - Marcos Mausoleum
+title: Marcos Mausoleum (Batac)
+created: 2026-11-08
+modified: 2026-11-12T02:25:52.000Z
+published: 2026-11-12T02:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Marcos Mausoleum (Batac).svg
 books:
   - Bicycle Diaries
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 18.055
   - 120.5629
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Philippines]]"
 image: Attachments/Places/Marcos Mausoleum (Batac).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Marcos Mausoleum (Batac).svg
 Mausoleum in Batac, Ilocos Norte, where Ferdinand Marcos's embalmed body lay on display. In _Bicycle Diaries_ David Byrne visits it and finds it eerily theatrical.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Marcos's waxy body in a refrigerated glass casket, blue light and piped-in Mozart: "almost Egyptian". |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76rhzryksyxw56zrd9xfms5)
 
 > I continue by bus to Batac, a small town where Marcos lies in state (supposedly it is his real body) in a refrigerated glass casket that sinks into the floor when no one is around.

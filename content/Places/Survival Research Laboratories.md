@@ -1,11 +1,15 @@
 ---
 publish: true
-title: Survival Research Laboratories
-created: 2026-11-08
-modified: 2026-11-12T05:16:03.324Z
-published: 2026-11-12T05:16:03.324Z
 aliases:
   - SRL
+title: Survival Research Laboratories
+created: 2026-11-08
+modified: 2026-11-12T05:16:03.000Z
+published: 2026-11-12T05:16:03.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books:
   - Bicycle Diaries
 categories:
@@ -13,10 +17,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 ---
 
@@ -25,11 +25,13 @@ within: "[[San Francisco]]"
 Mark Pauline's machine-performance group, based in a warehouse in the Bay Area. In _Bicycle Diaries_ David Byrne tours its terrifying machines while asking about San Francisco's dark side.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Mark Pauline shows Byrne machines that shoot molten copper and giant flames: "glorious and frightening." |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772wwvkgmwxpdpywv6pk7tq)
 
 > I visit Mark Pauline at the warehouse base of his art performance organization Survival Research Laboratories.

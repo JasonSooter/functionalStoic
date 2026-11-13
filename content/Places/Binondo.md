@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Binondo
-created: 2026-11-08
-modified: 2026-11-12T02:25:51.576Z
-published: 2026-11-12T02:25:51.576Z
 aliases:
   - Manila Chinatown
+title: Binondo
+created: 2026-11-08
+modified: 2026-11-12T02:25:52.000Z
+published: 2026-11-12T02:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Binondo.svg
 books:
   - Bicycle Diaries
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 14.6
   - 120.967
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manila]]"
 image: Attachments/Places/Binondo.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Binondo.svg
 Old Chinese quarter and trading district of [[Manila]]. In _Bicycle Diaries_ it is where David Byrne finds karaoke on the street and markets of winding lanes and one-table stalls.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Winding lanes of one-table stalls and street karaoke, where Byrne's bike outpaces the jeepneys. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76rhv9gxrwwsp74mvy67q9c)
 
 > Binondo is the area I end up biking to today. Karaoke machines are everywhere. Right on the street!

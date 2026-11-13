@@ -2,18 +2,18 @@
 publish: true
 title: South Australia
 created: 2026-10-22T14:40:43.000Z
-modified: 2026-11-12T02:18:38.488Z
-published: 2026-11-12T02:18:38.488Z
+modified: 2026-11-12T02:18:38.000Z
+published: 2026-11-12T02:18:38.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Australia]]"
 ---
 

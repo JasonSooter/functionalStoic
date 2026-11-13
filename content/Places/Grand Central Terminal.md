@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Grand Central Terminal
-created: 2026-11-08
-modified: 2026-11-12T02:25:51.904Z
-published: 2026-11-12T02:25:51.904Z
 aliases:
   - Grand Central Station
   - Grand Central
+title: Grand Central Terminal
+created: 2026-11-08
+modified: 2026-11-12T02:25:52.000Z
+published: 2026-11-12T02:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Grand Central Terminal.svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.7528
   - -73.9772
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Grand Central Terminal.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Grand Central Terminal.svg
 Railway terminal in Midtown [[Manhattan]]. In Aoibheann Sweeney's novel it is Miranda's gateway between Nate's Connecticut family and Ana's New York.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | journey waypoint | Miranda crosses its marble lobby for the train to Connecticut and comes back through it to go straight to Ana. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > Robert showed me how to get to Grand Central Station, and an hour later I was walking across the marble lobby and down onto the platforms for the trains to Connecticut.

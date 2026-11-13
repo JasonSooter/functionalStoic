@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Museum of Modern Art
-created: 2026-11-08
-modified: 2026-11-11T23:22:13.584Z
-published: 2026-11-11T23:22:13.584Z
 aliases:
   - MoMA
+title: Museum of Modern Art
+created: 2026-11-08
+modified: 2026-11-11T23:22:14.000Z
+published: 2026-11-11T23:22:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Museum of Modern Art.svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.7617
   - -73.9775
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Museum of Modern Art.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Museum of Modern Art.svg
 Modern art museum on West 53rd Street in Midtown [[Manhattan]]. In Aoibheann Sweeney's novel Miranda walks through a Mondrian show there and feels for the first time that she could change everything.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | setting | Miranda goes through a Mondrian show, from flowering trees to grids, and senses she could change everything. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > after a while I took the subway up to the Museum of Modern Art, just for the sake of going somewhere. It was in midtown, near the row of swanky department stores on Fifth Avenue.

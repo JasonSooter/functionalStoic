@@ -2,8 +2,13 @@
 publish: true
 title: Vigan
 created: 2026-11-08
-modified: 2026-11-12T02:25:51.676Z
-published: 2026-11-12T02:25:51.676Z
+modified: 2026-11-12T02:25:52.000Z
+published: 2026-11-12T02:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Vigan.svg
 aliases: []
 books:
   - Bicycle Diaries
@@ -16,10 +21,6 @@ icon: book
 location:
   - 17.5754
   - 120.3875
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Philippines]]"
 image: Attachments/Places/Vigan.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Vigan.svg
 Spanish colonial town in Ilocos Sur on Luzon's northwest coast, a UNESCO World Heritage Site. In _Bicycle Diaries_ David Byrne detours there and reflects on impermanence in the tropics.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | journey waypoint | An old town spared wartime bombing, whose flexible wooden buildings are endlessly patched and rebuilt. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76rj2s351naw8zynybj5gk8)
 
 > I travel on to Vigan, a small town that was spared the American carpet bombing at the end of World War II.

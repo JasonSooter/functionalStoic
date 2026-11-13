@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Manhattan Municipal Building
-created: 2026-11-08
-modified: 2026-11-11T23:22:13.620Z
-published: 2026-11-11T23:22:13.620Z
 aliases:
   - David N. Dinkins Municipal Building
   - Municipal Building
+title: Manhattan Municipal Building
+created: 2026-11-08
+modified: 2026-11-11T23:22:14.000Z
+published: 2026-11-11T23:22:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Manhattan Municipal Building.svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.7131
   - -74.0039
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Manhattan Municipal Building.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Manhattan Municipal Building.svg
 Civic skyscraper at 1 Centre Street in Lower [[Manhattan]], home of the city's marriage bureau for decades. In Aoibheann Sweeney's novel it is the backdrop of the wedding photo of Miranda's parents.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | subject | Her parents' wedding photo out front: her father stiff as a paper doll, her mother in a winter coat over her pale dress. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > He had a picture in his bedroom of the day they got married, standing in front of the Municipal Building in New York.

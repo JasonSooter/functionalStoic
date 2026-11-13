@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Mystic, Connecticut
-created: 2026-11-08
-modified: 2026-11-12T02:25:51.884Z
-published: 2026-11-12T02:25:51.884Z
 aliases:
   - Mystic
+title: Mystic, Connecticut
+created: 2026-11-08
+modified: 2026-11-12T02:25:52.000Z
+published: 2026-11-12T02:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Mystic, Connecticut.svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 41.3542
   - -71.9664
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Connecticut]]"
 image: Attachments/Places/Mystic, Connecticut.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Mystic, Connecticut.svg
 Seaport village on the Connecticut coast. In Aoibheann Sweeney's novel it is where Miranda's boyfriend Nate takes her for his sister's wedding, and where she walks out.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | turning point | Nate's family wedding by the sea, where Miranda wears the wrong dress, leaves a note and runs for the train. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > Nate was waiting for me on the platform at Mystic, wearing a bright red sweater, his shoulders hunched against the seaside chill.

@@ -2,14 +2,18 @@
 publish: true
 title: British Museum
 created: 2024-05-18
-modified: 2026-11-12T02:19:19.719Z
-published: 2026-11-12T02:19:19.719Z
+modified: 2026-11-12T02:19:20.000Z
+published: 2026-11-12T02:19:20.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/British Museum.svg
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
   - Three Men in a Boat
   - Life on Air
-  - Bicycle Diaries
 categories:
   - "[[Places]]"
 color: purple
@@ -20,10 +24,6 @@ image: Attachments/Places/British Museum.svg
 location:
   - 51.5194
   - -0.1269
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 ---
 
@@ -40,9 +40,10 @@ British Museum is the national museum of human history in London. It turns up in
 | Life on Air | David Attenborough | setting | A note during a Trustees' meeting tells Attenborough the Icelandic eruption has begun. |
 | Bicycle Diaries | David Byrne | setting | Byrne bikes over Waterloo Bridge to the Enlightenment show of curiosity cabinets and muses on taxonomy. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5194&mlon=-0.1269#map=16/51.5194/-0.1269) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5194,-0.1269)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5194\&mlon=-0.1269#map=16/51.5194/-0.1269) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.5194,-0.1269)
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
+
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcqq1jsryarrbkfdhe4crs)
 
 > watching tourists at the British Museum in London who weren’t really looking at the Rosetta Stone
@@ -52,6 +53,7 @@ Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22
 - **Why it matters:** A borrowed illustration of instrumental, future-focused attention. The Rosetta Stone setting is incidental.
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
+
 Source: [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gby9kjpsk1bya1nyjjp99a)
 
 > I remember going to the British Museum one day to read up the treatment for some slight ailment of which I had a touch – hay fever, I fancy it was.
@@ -61,6 +63,7 @@ Source: [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highli
 - **Why it matters:** The hypochondria born in the reading room is the joke that sets up the whole river holiday.
 
 ## Life on Air — David Attenborough (2002)
+
 Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Readwise highlight](https://read.readwise.io/read/01m5hy7xgt7qw6sdmb359h4yh3)
 
 > One Saturday morning in November 198 1 , I was sitting in the British Museum at a meeting of its Trustees, an extremely distinguished gathering, rich in dukes, ex-ambassadors, captains of industry and emeritus professors.

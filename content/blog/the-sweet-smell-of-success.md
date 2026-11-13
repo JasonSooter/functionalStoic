@@ -11,12 +11,12 @@ tags:
   - the-organic-bloom
 cssclasses:
   - photo-led
-socialImage: Attachments/Blog/Organic Bloom 1.jpg
+socialImage: Attachments/organic_bloom_1.jpg
 linter-yaml-title-alias: The Sweet Smell of Success
 date created: 2026-10-16T21:17:04+02:00
 date modified: 2026-10-16T21:17:04+02:00
 date: 2015-02-02
-image: Attachments/Blog/Organic Bloom 1.jpg
+image: Attachments/organic_bloom_1.jpg
 ---
 
 # The Sweet Smell of Success

@@ -1,20 +1,20 @@
 ---
 publish: true
-title: Marin County
-created: 2026-11-12T05:17:39.632Z
-modified: 2026-11-12T05:17:39.632Z
-published: 2026-11-12T05:17:39.632Z
 aliases:
   - Marin County, California
+title: Marin County
+created: 2026-11-12T05:17:40.000Z
+modified: 2026-11-12T05:17:40.000Z
+published: 2026-11-12T05:17:40.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[California]]"
 ---
 
@@ -23,4 +23,5 @@ within: "[[California]]"
 County north of the Golden Gate in California, across the bridge from San Francisco.
 
 ## Sub-places
+
 - [[Marin Headlands]]

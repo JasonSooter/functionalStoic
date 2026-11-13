@@ -2,8 +2,12 @@
 publish: true
 title: CELLspace
 created: 2026-11-08
-modified: 2026-11-12T05:16:08.920Z
-published: 2026-11-12T05:16:08.920Z
+modified: 2026-11-12T05:16:09.000Z
+published: 2026-11-12T05:16:09.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 aliases: []
 books:
   - Bicycle Diaries
@@ -12,10 +16,6 @@ categories:
 color: purple
 geo_status: needs-pin
 icon: book
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 ---
 
@@ -24,11 +24,13 @@ within: "[[San Francisco]]"
 Former alternative arts center in a warehouse in [[San Francisco]]. In _Bicycle Diaries_ David Byrne bikes there for a McSweeney's reading that a marching band takes over.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | A McSweeney's reading where the Extra Action Marching Band bursts in and Byrne ends up dancing on a table. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772wyeh5pxcdr3e8n00xbk2)
 
 > I bike over to an alternative arts center called CELLspace where the publisher McSweeney’s has organized an event. The venue is a warehouse in a neighborhood of warehouses.

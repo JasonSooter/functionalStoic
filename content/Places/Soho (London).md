@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Soho
-created: 2026-11-08
-modified: 2026-11-12T05:23:43.510Z
-published: 2026-11-12T05:23:43.510Z
 aliases:
   - Soho, London
+title: Soho
+created: 2026-11-08
+modified: 2026-11-12T05:23:44.000Z
+published: 2026-11-12T05:23:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Soho (London).svg
 books:
   - Bicycle Diaries
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.5128
   - -0.1311
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Soho (London).svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Soho (London).svg
 District of the West End of [[London]]. In _Bicycle Diaries_ David Byrne watches two football louts barge into a smart Soho restaurant, a scene he reads as British class antagonism.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Two tattooed louts shout threats at diners in a Soho restaurant next to the Ivy: class antagonism, toffs and yobs. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772wrkv74z8x66gjw5mp288)
 
 > We go for drinks at a nice place in Soho, a white tablecloth place, but nothing hoity-toity.

@@ -2,8 +2,13 @@
 publish: true
 title: Jamaica Bay
 created: 2026-11-08
-modified: 2026-11-12T05:24:02.037Z
-published: 2026-11-12T05:24:02.037Z
+modified: 2026-11-12T05:24:02.000Z
+published: 2026-11-12T05:24:02.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Jamaica Bay.svg
 aliases: []
 books:
   - Bicycle Diaries
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.6178
   - -73.8425
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[New York City]]"
 image: Attachments/Places/Jamaica Bay.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Jamaica Bay.svg
 Estuary of marshes and islands between Brooklyn and Queens in [[New York City]]. In _Bicycle Diaries_ David Byrne rides beside it on the Belt Parkway path.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | journey waypoint | Swamps and marshes beside the Belt Parkway bike path: "almost lovely if the ugly highway weren't so close." |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772x8f8ms4gv0yjegarxf1q)
 
 > On my left are the swamps and marshes of Jamaica Bay.

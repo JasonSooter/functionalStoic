@@ -2,8 +2,13 @@
 publish: true
 title: Tate Modern
 created: 2026-11-08
-modified: 2026-11-12T02:25:51.848Z
-published: 2026-11-12T02:25:51.848Z
+modified: 2026-11-12T02:25:52.000Z
+published: 2026-11-12T02:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Tate Modern.svg
 aliases: []
 books:
   - Bicycle Diaries
@@ -16,10 +21,6 @@ icon: book
 location:
   - 51.5074
   - -0.0993
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Tate Modern.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Tate Modern.svg
 Modern art museum in a former power station on Bankside, [[London]]. In _Bicycle Diaries_ David Byrne finds a room of Soviet propaganda layouts there.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | A room of _USSR in Construction_ spreads by Rodchenko and Lissitzky: beautiful design in the service of Stalinist propaganda. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76rjkxpf2yd0012hkny4z5t)
 
 > I cycle back along the South Bank promenade until I reach the Tate Modern.

@@ -2,8 +2,13 @@
 publish: true
 title: Superkilen
 created: 2026-11-12
-modified: 2026-11-12T20:17:26.049Z
-published: 2026-11-12T20:17:26.049Z
+modified: 2026-11-12T20:17:26.000Z
+published: 2026-11-12T20:17:26.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Superkilen.svg
 aliases: []
 books:
   - Where The City Meets The Wild
@@ -16,10 +21,6 @@ icon: video
 location:
   - 55.7
   - 12.5458
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Nørrebro]]"
 image: Attachments/Places/Superkilen.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Superkilen.svg
 Public park in [[Nørrebro]], Copenhagen. Jack Harries calls it his favourite example of a city designed for play and for bringing people together.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Where The City Meets The Wild | Jack Harries | subject | A park of objects from around the world, held up as proof that design shapes how we feel and live. |
 
 ## Where The City Meets The Wild — Jack Harries (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=5QLzefF2kZQ) · [Readwise highlight](https://read.readwise.io/read/01m78pdawg2zfmrp735hra8zw5)
 
 > a public park and civic experiment

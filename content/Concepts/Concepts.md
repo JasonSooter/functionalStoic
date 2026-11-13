@@ -194,6 +194,7 @@ image: Attachments/Site Headers/Concepts Hero.jpg
 - [[Concepts/Integrity.md|Integrity]]
 - [[Concepts/Interdisciplinary Education.md|Interdisciplinary Education]]
 - [[Concepts/Introvert.md|Introvert]]
+- [[Concepts/Investment Philosophy.md|Investment Philosophy]]
 - [[Concepts/Jokes.md|Jokes]]
 - [[Concepts/Journey vs. Destination.md|Journey vs. Destination]]
 - [[Concepts/Jugendfeier.md|Jugendfeier]]

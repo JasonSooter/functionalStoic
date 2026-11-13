@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Arturo's
-created: 2026-11-08
-modified: 2026-11-12T05:23:43.642Z
-published: 2026-11-12T05:23:43.642Z
 aliases:
   - Arturo's Coal Oven Pizza
+title: Arturo's
+created: 2026-11-08
+modified: 2026-11-12T05:23:44.000Z
+published: 2026-11-12T05:23:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Arturo's.svg
 books:
   - Bicycle Diaries
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.7274
   - -74.0004
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Greenwich Village]]"
 image: Attachments/Places/Arturo's.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Arturo's.svg
 Pizza restaurant and jazz bar on West Houston Street in [[Greenwich Village]], New York. In _Bicycle Diaries_ it is David Byrne's example of the "old crazy New York" that survives.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Jazz bar and pizza joint where regulars sing standards amid the owner's paintings and model airplanes. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772xa2yhvn3byag9z32gbdq)
 
 > Arturo’s is a weird combination of two throwbacks in one: It’s a jazz bar, where regulars sing standards and musicians often stop by after a recording session or a paying gig and sit in.

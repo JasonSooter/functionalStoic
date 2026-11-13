@@ -1,11 +1,16 @@
 ---
 publish: true
-title: 49 Calhoun Terrace
-created: 2026-11-08
-modified: 2026-11-11T23:22:13.560Z
-published: 2026-11-11T23:22:13.560Z
 aliases:
   - 49 Calhoun Street
+title: 49 Calhoun Terrace
+created: 2026-11-08
+modified: 2026-11-11T23:22:14.000Z
+published: 2026-11-11T23:22:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/49 Calhoun Terrace.svg
 books:
   - "[[Frida - A Biography of Frida Kahlo]]"
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 37.801
   - -122.4037
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[San Francisco]]"
 image: Attachments/Places/49 Calhoun Terrace.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/49 Calhoun Terrace.svg
 Address on Telegraph Hill, [[San Francisco]]. In Hayden Herrera's _Frida_ it is where Diego Rivera settles with Irene Bohus after leaving Mexico in 1940, and where Frida stays with him before entering hospital.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Frida - A Biography of Frida Kahlo\|Frida]] | Hayden Herrera | backdrop | Rivera's 1940 studio flat with Irene Bohus after fleeing Mexico; Frida spends a few days here before Saint Luke's. |
 
 ## Frida — Hayden Herrera (1983)
+
 Source: [[Frida - A Biography of Frida Kahlo]] · [Original](https://openlibrary.org/works/OL4114749W) · [Readwise highlight](https://read.readwise.io/read/01m76e9fb6fqw0sch9e9v04mjm)
 
 > Soon he was installed with Irene Bohus in a studio apartment at 49 Calhoun Street on Telegraph Hill.

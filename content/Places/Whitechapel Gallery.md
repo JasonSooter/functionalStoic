@@ -2,8 +2,13 @@
 publish: true
 title: Whitechapel Gallery
 created: 2026-11-08
-modified: 2026-11-12T02:25:51.788Z
-published: 2026-11-12T02:25:51.788Z
+modified: 2026-11-12T02:25:52.000Z
+published: 2026-11-12T02:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Whitechapel Gallery.svg
 aliases: []
 books:
   - Bicycle Diaries
@@ -16,10 +21,6 @@ icon: book
 location:
   - 51.516
   - -0.0705
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Whitechapel Gallery.svg
 ---
@@ -29,11 +30,13 @@ image: Attachments/Places/Whitechapel Gallery.svg
 Public art gallery in Whitechapel, East [[London]]. In _Bicycle Diaries_ David Byrne bikes across the whole city to meet its director.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Byrne crosses London west to east by landmark to meet director Iwona Blazwick, whose talk sets off his essay on self-censorship. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76rjdterd2e3h1pkc72w7fd)
 
 > In the morning I bike east from the hotel in Shepherd’s Bush across town to the Whitechapel Gallery, where I have a meeting with Iwona Blazwick, the director, about a possible talk later in the fall.

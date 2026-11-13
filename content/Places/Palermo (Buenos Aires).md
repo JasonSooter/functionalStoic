@@ -1,12 +1,17 @@
 ---
 publish: true
-title: Palermo (Buenos Aires)
-created: 2026-11-08
-modified: 2026-11-11T23:22:13.520Z
-published: 2026-11-11T23:22:13.520Z
 aliases:
   - Palermo
   - Palermo Soho
+title: Palermo (Buenos Aires)
+created: 2026-11-08
+modified: 2026-11-11T23:22:14.000Z
+published: 2026-11-11T23:22:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Palermo (Buenos Aires).svg
 books:
   - Bicycle Diaries
 categories:
@@ -19,10 +24,6 @@ icon: book
 location:
   - -34.5803
   - -58.4245
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Buenos Aires]]"
 image: Attachments/Places/Palermo (Buenos Aires).svg
 ---
@@ -32,11 +33,13 @@ image: Attachments/Places/Palermo (Buenos Aires).svg
 Large barrio in the north of [[Buenos Aires]], known for its parks and, lately, boutiques and bars. In _Bicycle Diaries_ David Byrne stays there and uses it to argue about gentrification and creativity.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | subject | Over a sandwich during the World Cup, Palermo's gentrification leads Byrne to argue that pushing artists out kills creativity. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76e9b6xk7qh7nf08r01xm26)
 
 > Palermo, the district where we are now having a sandwich, used to be a quiet neighborhood with lots of pocket parks—which are still here, though it’s not so quiet anymore.

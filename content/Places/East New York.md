@@ -1,11 +1,16 @@
 ---
 publish: true
-title: East New York
-created: 2026-11-08
-modified: 2026-11-12T05:23:43.626Z
-published: 2026-11-12T05:23:43.626Z
 aliases:
   - East New York, Brooklyn
+title: East New York
+created: 2026-11-08
+modified: 2026-11-12T05:23:44.000Z
+published: 2026-11-12T05:23:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/East New York.svg
 books:
   - Bicycle Diaries
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 40.67
   - -73.89
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Brooklyn]]"
 image: Attachments/Places/East New York.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/East New York.svg
 Neighborhood in eastern [[Brooklyn]], New York City. In _Bicycle Diaries_ David Byrne rides there to see an art piece powder-coated and is struck by the city's plain neglect.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | journey waypoint | Derelict housing and crumbling industry that remind him of the former Soviet bloc: "The official neglect is obvious and plain." |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772x74m70bvjg2rrtct6y2a)
 
 > A few days later I bike to East New York (a neighborhood in Brooklyn) to see one of my art chair pieces being powder coated.

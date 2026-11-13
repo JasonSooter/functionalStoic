@@ -1,11 +1,18 @@
 ---
 publish: true
-title: Copenhagen
-created: 2026-10-21T11:09:08.000Z
-modified: 2026-11-12T20:16:25.202Z
-published: 2026-11-12T20:16:25.202Z
 aliases:
   - København
+title: Copenhagen
+created: 2026-10-21T11:09:08.000Z
+modified: 2026-11-12T20:16:25.000Z
+published: 2026-11-12T20:16:25.000Z
+tags:
+  - travel/europe/denmark/copenhagen
+  - people/authors/meik-wiking
+  - source/ai/claude
+  - places
+  - place/literary
+socialImage: Attachments/Places/Copenhagen.svg
 books:
   - "[[080 Cycling in Copenhagen]]"
   - Transit in the City of Bikes - Copenhagen
@@ -23,12 +30,6 @@ icon: book
 location:
   - 55.6761
   - 12.5683
-tags:
-  - travel/europe/denmark/copenhagen
-  - people/authors/meik-wiking
-  - source/ai/claude
-  - places
-  - place/literary
 image: Attachments/Places/Copenhagen.svg
 ---
 
@@ -38,22 +39,22 @@ Copenhagen is the capital of Denmark and a hub for the places below. It shows up
 
 ## Summary
 
-- [Photo Album](https://photos.google.com/share/AF1QipPoYwP1foQnLLwWNVISrtexmSeX-yiUpD62A6kH2XEqn-2BYOUKT2wEphZHBM5-OQ?obfsgid=107485953341554495988&email=jason.sooter@gmail.com&key=V1ZINkJ0YjdiQTFHSEJHWjEzNm9rUmVwRlVDb0dR)
+- [Photo Album](https://photos.google.com/share/AF1QipPoYwP1foQnLLwWNVISrtexmSeX-yiUpD62A6kH2XEqn-2BYOUKT2wEphZHBM5-OQ?obfsgid=107485953341554495988\&email=jason.sooter@gmail.com\&key=V1ZINkJ0YjdiQTFHSEJHWjEzNm9rUmVwRlVDb0dR)
 
 ## Key Ideas
 
 - Stefano at the Stella Rosa Bike Shop
-	- Bike Shop Address
-		- STELLA ROSSA CYKLER - CVR 35082859
-		- Oehlenschlagersgade 26, kld.tv.
-		- 663 Kobenhavn V
-		- stefano.clari@gmail.com - Tel. +45.60641523
-	- I had such a wonderful discussion with him
+  - Bike Shop Address
+    - STELLA ROSSA CYKLER - CVR 35082859
+    - Oehlenschlagersgade 26, kld.tv.
+    - 663 Kobenhavn V
+    - stefano.clari@gmail.com - Tel. +45.60641523
+  - I had such a wonderful discussion with him
 - Kastellet
 - Experimentarium
 - Amager Bakke / Copenhill
 - Thomas Dambo Trolls
-	- Captain Nalle
+  - Captain Nalle
 
 ## Further Lines of Inquiry
 
@@ -66,15 +67,15 @@ Copenhagen is the capital of Denmark and a hub for the places below. It shows up
 ## Resources Mentioned
 
 - Public Transportation
-	- Skånetrafiken:
-		- Train from [[Sweden|Sweden]] → Copenhagen
-		- Mobile App: [Skånetrafiken - Apps on Google Play](https://play.google.com/store/apps/details?id=se.skanetrafiken.washington&hl=en_US&gl=US)
-		- I had to get a Swedish number through Twilio to get this to work. It would not send to my US number and it was required for verification. Buying tickets at the station might have made more sense
+  - Skånetrafiken:
+    - Train from [[Sweden|Sweden]] → Copenhagen
+    - Mobile App: [Skånetrafiken - Apps on Google Play](https://play.google.com/store/apps/details?id=se.skanetrafiken.washington\&hl=en_US\&gl=US)
+    - I had to get a Swedish number through Twilio to get this to work. It would not send to my US number and it was required for verification. Buying tickets at the station might have made more sense
 
 ## What We Did
 
 - Visited the Castelet
-	- [A star fort like all of these](https://www.theatlantic.com/photo/2023/11/photos-star-forts/675936/)
+  - [A star fort like all of these](https://www.theatlantic.com/photo/2023/11/photos-star-forts/675936/)
 
 # Future Activities — Wiking's Hygge Safari
 
@@ -106,8 +107,8 @@ _Added 2026-09-25 by Claude from two Wiking highlights (Superlist tasks: smørre
 > [!quote] Meik Wiking
 > For dinner, _50 Shades of Meat and Potatoes_ would be an apt title for a traditional Danish cookbook. Danes are meat lovers and, on average, every person consumes around forty-eight kilos of meat per year – with pork being the nation's favourite.
 
-- **The dish to order: _stegt flæsk med persillesovs*** (crisp fried pork belly slices, boiled potatoes, parsley sauce). In **2014 it was voted Denmark's official national dish** in a public vote run by the **Ministry of Food (Fødevareministeriet)**, out of eight finalists that included smørrebrød. A YouGov poll of 1,000+ Danes beforehand already had it ahead, 28% to smørrebrød's 25% ([Landbrugsavisen](https://landbrugsavisen.dk/her-er-danskernes-nationalret-10044); DR headline *"Stegt flæsk er kåret til Danmarks officielle nationalret"_). ⚠️ The final vote count wasn't retrieved.
-- **The Christmas one: _flæskesteg*** is roast pork with salted, scored rind cracked into crackling, served with boiled and caramelised potatoes (*brunede kartofler_) and red cabbage. It's the centre of Danish Christmas Eve dinner, and leftovers go on smørrebrød ([Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A6skesteg)).
+- **The dish to order: _stegt flæsk med persillesovs_** (crisp fried pork belly slices, boiled potatoes, parsley sauce). In **2014 it was voted Denmark's official national dish** in a public vote run by the **Ministry of Food (Fødevareministeriet)**, out of eight finalists that included smørrebrød. A YouGov poll of 1,000+ Danes beforehand already had it ahead, 28% to smørrebrød's 25% ([Landbrugsavisen](https://landbrugsavisen.dk/her-er-danskernes-nationalret-10044); DR headline _"Stegt flæsk er kåret til Danmarks officielle nationalret"_). ⚠️ The final vote count wasn't retrieved.
+- **The Christmas one: _flæskesteg_** is roast pork with salted, scored rind cracked into crackling, served with boiled and caramelised potatoes (_brunede kartofler_) and red cabbage. It's the centre of Danish Christmas Eve dinner, and leftovers go on smørrebrød ([Wikipedia](https://en.wikipedia.org/wiki/Fl%C3%A6skesteg)).
 - ⚠️ Wiking's "forty-eight kilos of meat per person" wasn't checked against Danish statistics.
 
 **Done-when for both tasks:** eaten, or on the itinerary. The checkboxes above are the itinerary. Eating it is up to you.
@@ -132,6 +133,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 - [ ] **His grave, Assistens Kirkegård, Nørrebro.** The cemetery is also a park where locals picnic and cycle; Hans Christian Andersen is buried there too ⚠️ (Andersen from general knowledge) ([VisitCopenhagen](https://www.visitcopenhagen.com/copenhagen/planning/assistens-cemetery-gdk964360)).
 
 **Ready-made routes:**
+
 - **"The Philosopher's Last Walk"**, a self-guided audio tour on VoiceMap ending at his grave ([VoiceMap](https://voicemap.me/tour/copenhagen/the-philosopher-s-last-walk-2)).
 - **Hans Halvorson's (Princeton) self-guided Kierkegaard map** ([hanshalvorson.com](https://hanshalvorson.com/kierkegaard/)).
 - **An ArcGIS StoryMap, "Kierkegaard in Copenhagen"** ([StoryMaps](https://storymaps.arcgis.com/stories/1a8a28d1d78b41dba284f29683e82d00)).
@@ -149,7 +151,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 | [[Walkable City]] | Jeff Speck | subject | Speck cites Jan Gehl's work in Copenhagen, where the car-free central zone grew sevenfold from 1962 to 2005 and downtown parking has been… |
 | Where The City Meets The Wild | Jack Harries | journey waypoint | A last city detour before the wild: swimmable water, street trees and play designed into the city. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.6761&mlon=12.5683#map=12/55.6761/12.5683) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.6761,12.5683)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.6761\&mlon=12.5683#map=12/55.6761/12.5683) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=55.6761,12.5683)
 
 ## Sub-places
 
@@ -171,6 +173,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 - [[Værnedamsvej]]
 
 ## #080 Cycling in Copenhagen — Diagram Club (2026)
+
 Source: [[080 Cycling in Copenhagen]] · [Original](https://diagramclub.substack.com/p/080-cycling-in-copenhagen) · [Readwise highlight](https://read.readwise.io/read/01m5bre3r3nmd07p17sa5fqh34)
 
 > This week we went to Copenhagen. It’s a wonderful city.
@@ -180,6 +183,7 @@ Source: [[080 Cycling in Copenhagen]] · [Original](https://diagramclub.substack
 - **Why it matters:** The city as a whole is the subject: it is held up as what a cycling city feels like from the saddle.
 
 ## Transit in the City of Bikes - Copenhagen — Day Pass (2026)
+
 Source: [Readwise highlight](https://read.readwise.io/read/01m5bs7dp5tpp8qjckjan4r97k)
 
 > Copenhagen is known for its vibrant cycling culture, but its transit system is just as impressive.
@@ -189,6 +193,7 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5bs7dp5tpp8qjckjan
 - **Why it matters:** The city's network is the subject; it complements the Diagram Club view from the bike lane. ⚠️ Only the description was available as text.
 
 ## Scotch Eggs, cycling and Danish parental leave (together at last) — Helen Russell (2024)
+
 Source: [[Scotch Eggs, Cycling and Danish Parental Leave]] · [Original](https://mshelenrussell.substack.com/p/scotch-eggs-cycling-and-danish-parental) · [Readwise highlight](https://read.readwise.io/read/01m5f0rs1n6gd2pm56fw4atda5)
 
 > I’ve been in Copenhagen and was honoured to give a keynote closing speech at an event opened by none other than former Danish Prime Minister, Helle Thorning-Schmidt.
@@ -198,6 +203,7 @@ Source: [[Scotch Eggs, Cycling and Danish Parental Leave]] · [Original](https:/
 - **Why it matters:** Copenhagen is the stage for her public goodbye.
 
 ## The Year of Living Danishly — Helen Russell (2015)
+
 Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highlight](https://read.readwise.io/read/01m5f1x2nyq81zchdg66z8ftp0)
 
 > It’s our wedding anniversary and we’re in Denmark’s pocket-sized capital of just 550,000 people to celebrate.
@@ -207,6 +213,7 @@ Source: [Original](https://openlibrary.org/works/OL20000553W) · [Readwise highl
 - **Why it matters:** It is the setting for the book's chapter on culture and food.
 
 ## Walkable City — Jeff Speck (2012)
+
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjzgz5pmbc0tn402q1g9p)
 
 > In his work in Copenhagen, Gehl has presided over a gradual removal of cars from the heart of the city. From 1962 to 2005, a central zone dedicated to pedestrians and bicycles has grown sevenfold in size, from about four acres to over twenty-five acres.
@@ -216,6 +223,7 @@ Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695
 - **Why it matters:** Copenhagen is the model of gradual pedestrianization, held up and then qualified as non-transferable to dissimilar places.
 
 ## Where The City Meets The Wild — Jack Harries (2026)
+
 Source: [Original](https://www.youtube.com/watch?v=5QLzefF2kZQ) · [Readwise highlight](https://read.readwise.io/read/01m78pdejspsymjrj7csm99kg6)
 
 > Copenhagen felt like looking into a more hopeful future.

@@ -1,11 +1,16 @@
 ---
 publish: true
-title: 42nd Street
-created: 2026-11-08
-modified: 2026-11-12T05:23:43.738Z
-published: 2026-11-12T05:23:43.738Z
 aliases:
   - Forty-second Street
+title: 42nd Street
+created: 2026-11-08
+modified: 2026-11-12T05:23:44.000Z
+published: 2026-11-12T05:23:44.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/42nd Street (Manhattan).svg
 books:
   - Bicycle Diaries
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.7541
   - -73.9823
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/42nd Street (Manhattan).svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/42nd Street (Manhattan).svg
 Crosstown street through Midtown [[Manhattan]]. In _Bicycle Diaries_ David Byrne proposes turning it into a pedestrian street.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | subject | Byrne imagines it as an elongated plaza of theaters, trees, cafés and free WiFi, since cars barely move there anyway. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772xjhrqgr43zeyztwmvtzv)
 
 > In my opinion, Forty-second Street could easily be a pedestrian street—well, it almost is now, with all the stalled traffic, picture taking, and jaywalking.

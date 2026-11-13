@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Old Melbourne Gaol
-created: 2026-11-08
-modified: 2026-11-12T02:25:51.752Z
-published: 2026-11-12T02:25:51.752Z
 aliases:
   - Melbourne Gaol
+title: Old Melbourne Gaol
+created: 2026-11-08
+modified: 2026-11-12T02:25:52.000Z
+published: 2026-11-12T02:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Old Melbourne Gaol.svg
 books:
   - Bicycle Diaries
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - -37.8081
   - 144.9653
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Melbourne]]"
 image: Attachments/Places/Old Melbourne Gaol.svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Old Melbourne Gaol.svg
 Former jail in central [[Melbourne]], now a museum, where the bushranger Ned Kelly was hanged. In _Bicycle Diaries_ David Byrne bikes there for its Kelly exhibition.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Byrne pays homage to outlaw Ned Kelly at the jail where he was executed, and retells the Kelly legend. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76rjahpqyn9keke5x4th1c5)
 
 > I decide to pay homage to the local outlaw legend Ned Kelly, so I bike back through town to the exhibition at the jail where he was executed.

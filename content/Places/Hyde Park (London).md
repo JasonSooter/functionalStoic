@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Hyde Park (London)
-created: 2026-11-08
-modified: 2026-11-12T02:25:51.808Z
-published: 2026-11-12T02:25:51.808Z
 aliases:
   - Hyde Park
+title: Hyde Park (London)
+created: 2026-11-08
+modified: 2026-11-12T02:25:52.000Z
+published: 2026-11-12T02:25:52.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Hyde Park (London).svg
 books:
   - Bicycle Diaries
 categories:
@@ -17,10 +22,6 @@ icon: book
 location:
   - 51.5086
   - -0.1636
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[London]]"
 image: Attachments/Places/Hyde Park (London).svg
 ---
@@ -30,11 +31,13 @@ image: Attachments/Places/Hyde Park (London).svg
 Royal park in central [[London]]. In _Bicycle Diaries_ David Byrne rides through it and reads class in its dogs and clothes.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Upper-class dogs and a matron in hunting jacket and Wellies: "country life" worn as costume in the city. |
 
 ## Bicycle Diaries — David Byrne (2009)
+
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m76rjfbqg93mtby0h6b9439h)
 
 > On my way back to the hotel, I ride through Hyde Park. The sun is shining brightly, rare for this town.

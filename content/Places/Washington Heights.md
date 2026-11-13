@@ -1,11 +1,16 @@
 ---
 publish: true
-title: Washington Heights
-created: 2026-11-08
-modified: 2026-11-11T23:22:13.652Z
-published: 2026-11-11T23:22:13.652Z
 aliases:
   - Washington Heights, Manhattan
+title: Washington Heights
+created: 2026-11-08
+modified: 2026-11-11T23:22:14.000Z
+published: 2026-11-11T23:22:14.000Z
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+socialImage: Attachments/Places/Washington Heights.svg
 books:
   - Among Other Things, I've Taken Up Smoking
 categories:
@@ -18,10 +23,6 @@ icon: book
 location:
   - 40.84
   - -73.94
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Washington Heights.svg
 ---
@@ -31,11 +32,13 @@ image: Attachments/Places/Washington Heights.svg
 Neighbourhood at the northern tip of [[Manhattan]], below the George Washington Bridge. In Aoibheann Sweeney's novel it is Ana's home, where Miranda has a dress made and the two first make love.
 
 ## At a glance
+
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Among Other Things, I've Taken Up Smoking | Aoibheann Sweeney | turning point | Ana's neighbourhood: Coco's tailor shop, a red silk dress for a wedding, and the flat where Ana and Miranda first make love. |
 
 ## Among Other Things, I've Taken Up Smoking — Aoibheann Sweeney (2007)
+
 Source: [Original](https://www.penguin.com.au/books/among-other-things-ive-taken-up-smoking-9781101202227)
 
 > The dressmaker’s shop was on a busy street full of small shops in Ana’s neighborhood, above a grocery store and advertised by the word TAILOR in pink neon lighting; WEDDINGS & COMMUNIONS was painted in neat letters in the next window.
