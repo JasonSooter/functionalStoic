@@ -7,8 +7,8 @@ aliases:
   - Stockholm, Sweden
 title: Sweden
 created: 2024-10-05T01:15:15.417Z
-modified: 2026-11-07T07:05:47.000Z
-published: 2026-11-07T07:05:47.000Z
+modified: 2026-11-13T06:55:16.034Z
+published: 2026-11-13T06:55:16.034Z
 tags:
   - travel/europe/sweden/malmo
   - travel/europe/europe-2023
@@ -26,7 +26,7 @@ categories:
 color: blue
 coordinates: 59.3293,18.0686
 date created: 2023-09-26T12:55:16+02:00
-date modified: 2026-08-16T12:56:52+02:00
+date modified: 2026-11-13T07:54:51+01:00
 flag: 🇸🇪
 icon: flag
 linter-yaml-title-alias: Sweden
@@ -110,8 +110,7 @@ It is neat how similar it remains after more than 100 years
 SL: Android App: [SL-Journey planner and Tickets](https://play.google.com/store/apps/details?id=com.sl.SLBiljetter\&hl=en_US\&gl=US)
 
 - [ ] Explore Functionalism #🗓️/2023/09/23
-  - Reference: "1930 – Functionalism made its breakthrough at the Stockholm Exhibition”
-  - ![[Attachments/PXL_20230923_101947073.MP.jpg]]
+  - Reference: "1930 – Functionalism made its breakthrough at the Stockholm Exhibition.”
 
 ### Resources Mentioned
 
@@ -164,7 +163,7 @@ SL: Android App: [SL-Journey planner and Tickets](https://play.google.com/store/
 - The Subway was so cool. Like a cave
 - The lighthouse at the Botanic Garden. Brunnsviken
 
-## At a glance
+## At a Glance
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
@@ -197,7 +196,7 @@ Source: [[Ditching Tech - Finland Returns to Books and Sweden Says No to Screens
 - **In the article:** The same post reports Sweden's Public Health Agency advising no screens at all for children under two, and discusses its parental leave and subsidised childcare.
 - **Why it matters:** Sweden is the second case, extending the argument to toddlers.
 
-## Sweden wants to trademark its name - and honestly, I get it — Helen Russell (2024)
+## Sweden Wants to Trademark Its Name - and Honestly, I Get it — Helen Russell (2024)
 
 Source: [Original](https://mshelenrussell.substack.com/p/sweden-wants-to-trademark-its-nameand) · [Readwise highlight](https://read.readwise.io/read/01m5f0rvk891cz2x5wtpqb3w4e)
 
