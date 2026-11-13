@@ -1,16 +1,16 @@
 ---
 publish: true
-aliases: Investment Philosphy
 title: Investment Philosophy
 created: 2026-11-12T16:12:43.000Z
-modified: 2026-11-13T06:42:29.265Z
-published: 2026-11-13T06:42:29.265Z
+modified: 2026-11-13T15:28:13.612Z
+published: 2026-11-13T15:28:13.612Z
+date created: 2026-11-12T17:12:43+01:00
+date modified: 2026-11-13T07:34:09+01:00
 tags:
   - source/ai/claude
   - finance
   - investing
-date created: 2026-11-12T17:12:43+01:00
-date modified: 2026-11-13T07:34:09+01:00
+aliases: Investment Philosphy
 ---
 
 # Investment Philosophy
@@ -21,7 +21,7 @@ date modified: 2026-11-13T07:34:09+01:00
 ## Changelog
 
 - **2026-11-12: international/value tilt.** Prompted by [[#The Grantham thesis|Jeremy Grantham's "Don't own US stocks"]] (Diary of a CEO, June 2026) and GMO's 7-year forecasts. The 401k moves from 100% VT to 50 VT / 35 VXUS / 7.5 VDV / 7.5 AVDV in three steps; taxable new money goes to VXUS. Step 1 was executed on Nov. 12.
-  - Dropped the earlier plan of an 80/20 VT/VBR (US small-cap value) split in the taxable account; VBR was never bought. GMO's forecasts favor _international_ value over US value, and the value tilt now lives in the 401k, where it costs nothing in tax.
+	- Dropped the earlier plan of an 80/20 VT/VBR (US small-cap value) split in the taxable account; VBR was never bought. GMO's forecasts favor _international_ value over US value, and the value tilt now lives in the 401k, where it costs nothing in tax.
 - **2026-02: VTSAX → VT.** Migrated from the total US market to the total world market. I think this was the post that originally prompted it: [JL goes international and to ETFs, oh my!](https://jlcollinsnh.com/2026/02/08/jl-goes-international-and-to-etfs-oh-my/)
 
 ## Core Position
@@ -64,6 +64,154 @@ pie showData
 - **VT:** existing stake, held. Selling would trigger German capital-gains tax (Abgeltungsteuer), so I don't.
 - **New contributions → VXUS** (from Nov 2026). This shifts the mix without selling anything.
 - **Two funds, deliberately.** Every extra ETF here is another line on two tax returns, so the value tilt stays in the 401k instead.
+
+## The Funds and Their Roles
+
+Each fund has to earn its place. This section records the job each one does, why it's this fund and not a near-substitute, and what would make me reconsider it.
+
+```mermaid
+flowchart TD
+    P[Portfolio] --> CORE[Core: own the world<br/>VT]
+    P --> TILT[Tilt: away from US expense]
+    TILT --> BROAD[Broad ex-US<br/>VXUS]
+    TILT --> VAL[Cheap ex-US]
+    VAL --> LV[Large/mid value<br/>VDV]
+    VAL --> SV[Small value<br/>AVDV]
+```
+
+### VT: the core
+
+**Vanguard Total World Stock ETF** tracks the FTSE Global All Cap Index: large, mid and small companies in developed and emerging markets, each weighted by size. Owning it is the closest thing to owning every listed company on earth in proportion. That makes it the baseline every other choice here is measured against.
+
+**Resources:** [Vanguard fund page](https://investor.vanguard.com/etf/profile/VT) · [Fact sheet (PDF)](https://fund-docs.vanguard.com/F3141.pdf)
+
+| Key facts | |
+|---|---|
+| Index | FTSE Global All Cap |
+| Expense ratio | 0.06% |
+| Holdings | ~10,000 stocks |
+| Launched | June 2008 |
+| US share | ~60% (approx.) |
+| Top holdings | NVIDIA, Apple, Microsoft (~4% each) |
+| Where I hold it | 50% of the 401k; existing taxable stake (held, not added to) |
+
+```mermaid
+xychart-beta
+    title "VT calendar-year total return (%)"
+    x-axis ["2022", "2023", "2024", "2025", "2026 YTD"]
+    y-axis "Return %" -20 --> 55
+    bar [-18.0, 22.0, 17.5, 22.3, 11.2]
+```
+
+- **Role:** the anchor, and the hedge against my own thesis. If Grantham is early or wrong, as he was in 2023–24, VT keeps me in whatever is winning without my having to call it. It's Buffett's "never bet against America", held at a reduced weight.
+- **Why not something else:** VTSAX or VTI would be all US, the opposite of the thesis. Building the same thing from separate US and ex-US funds would mean more holdings for nothing.
+- **Reconsider if:** never as the core. Its _weight_ is the lever, and that's set by the allocation, not by the fund.
+
+### VXUS: the "not US" half of the thesis
+
+**Vanguard Total International Stock ETF** is VT with the US removed. It tracks the FTSE Global All Cap ex US Index: every size of company in developed and emerging markets outside America, weighted by size. Its valuation gap with the US is the whole argument. Its price-to-earnings ratio is around 16, compared with roughly 22 for VT and the mid-20s for the US market on its own.
+
+**Resources:** [Vanguard fund page](https://investor.vanguard.com/etf/profile/VXUS) · [Fact sheet (PDF)](https://workplace.vanguard.com/iippdf/pdfs/FS3369R.pdf)
+
+| Key facts | |
+|---|---|
+| Index | FTSE Global All Cap ex US |
+| Expense ratio | 0.05% |
+| Holdings | ~8,900 stocks |
+| Launched | January 2011 |
+| Valuation | P/E 16.1x, P/B 2.2x (Sep 2026) |
+| Top holdings | TSMC 3.9%, Samsung 1.6%, ASML 1.3%, SK Hynix 1.1% |
+| Where I hold it | 35% of the 401k; all new taxable contributions |
+
+```mermaid
+xychart-beta
+    title "VXUS (bars) vs VT (line), calendar-year return (%)"
+    x-axis ["2022", "2023", "2024", "2025", "2026 YTD"]
+    y-axis "Return %" -20 --> 55
+    bar [-16.1, 15.9, 5.5, 33.8, 9.8]
+    line [-18.0, 22.0, 17.5, 22.3, 11.2]
+```
+
+- **Role:** the cheapest, broadest way to lower the US share, and the main destination for the shift.
+- **What it isn't:** a hedge against a fall. It moved with VT about 92% of the time over the last 5 years and fell about as far in 2022. Its case is starting from cheaper prices, not falling less. Its largest holdings are the non-US AI supply chain, so an AI unwind would hit it too, just less.
+- **Why not something else:** VEA + VWO would split the same exposure into two funds. UCITS equivalents are PFICs for a US taxpayer.
+- **Reconsider if:** the ex-US valuation discount closes, or GMO's international forecasts turn worse than its US ones.
+
+### VDV: the "cheap" half, large and mid caps
+
+**Vanguard Developed Markets ex-US Value Index ETF** launched in April 2026. It tracks the S&P Developed Ex-U.S. LargeMidCap Value Index: the value-classified large and mid caps of developed countries outside the US, including Canada, Japan, Europe, Australia and Korea. It's dominated by banks, energy, materials and old-economy giants. Think Samsung, Nestlé, Shell, BHP and HSBC rather than chipmakers and software.
+
+**Resources:** [Vanguard fund page](https://investor.vanguard.com/etf/profile/VDV) · [Fact sheet (PDF)](https://fund-docs.vanguard.com/FV070.pdf)
+
+| Key facts | |
+|---|---|
+| Index | S&P Developed Ex-U.S. LargeMidCap Value |
+| Expense ratio | 0.08% (cheapest in its category) |
+| Holdings | ~790 stocks |
+| Launched | April 2026 |
+| Valuation | P/E 16.7x, P/B 1.8x (Jun 2026) |
+| Top holdings | Samsung 3.2%, Nestlé 2.0%, Shell 1.7%, BHP 1.6%, HSBC 1.5% |
+| Fund size | ~$30M; very small and thinly traded |
+| Where I hold it | 7.5% of the 401k |
+
+```mermaid
+xychart-beta
+    title "VDV stand-in EFV (bars) vs VT (line), calendar-year return (%)"
+    x-axis ["2022", "2023", "2024", "2025", "2026 YTD"]
+    y-axis "Return %" -20 --> 55
+    bar [-5.1, 18.8, 3.8, 43.5, 14.6]
+    line [-18.0, 22.0, 17.5, 22.3, 11.2]
+```
+
+_VDV is too new to have a track record. The bars show the iShares MSCI EAFE Value ETF (EFV), a similar but not identical index; it excludes Canada._
+
+- **Role:** brings the _value_ part of Grantham's thesis at near-index cost. In GMO's forecasts, broad international is roughly flat after inflation; the expected return is in the cheap part.
+- **Why not something else:** EFV and similar funds cost more, and VDV keeps the core in one fund family.
+- **Watch:** it's tiny (about $30M) and thinly traded, so always use limit orders. If it fails to attract assets, Vanguard could close it. Small new funds sometimes get shut down, and a closure would force a sale. That costs nothing in tax inside the 401k, but it's a nuisance.
+- **Reconsider if:** the value discount closes, the fund stays tiny or tracks its index poorly, or a merger or closure is announced.
+
+### AVDV: the deepest value, small caps
+
+**Avantis International Small Cap Value ETF** is actively managed but rules-based. Avantis was founded by former Dimensional Fund Advisors people. The fund doesn't track an index. It holds developed ex-US small caps that are both cheap (low price relative to book value) _and_ highly profitable, keeping index-like breadth and low turnover. The profitability screen is what separates it from a plain "cheap small stocks" fund, because it avoids companies that are cheap because they're dying.
+
+**Resources:** [Avantis fund page](https://www.avantisinvestors.com/avantis-investments/en-us/avantis-international-small-cap-value-etf/) · [Full holdings](https://www.avantisinvestors.com/avantis-investments/en-us/total-holdings/120/?type=etf)
+
+| Key facts | |
+|---|---|
+| Index | None (rules-based active) |
+| Expense ratio | 0.36% (the most expensive here) |
+| Holdings | ~1,400 stocks, none above ~1% |
+| Launched | September 2019 |
+| Fund size | ~$14.7B |
+| Screens | Small cap + low valuation + high profitability |
+| Where I hold it | 7.5% of the 401k |
+
+```mermaid
+xychart-beta
+    title "AVDV (bars) vs VT (line), calendar-year return (%)"
+    x-axis ["2022", "2023", "2024", "2025", "2026 YTD"]
+    y-axis "Return %" -20 --> 55
+    bar [-11.5, 16.9, 9.2, 50.0, 13.4]
+    line [-18.0, 22.0, 17.5, 22.3, 11.2]
+```
+
+- **Role:** the most concentrated form of the thesis. Small, cheap and profitable is where the historical size-and-value premium has sat, and it's closest to GMO's "deep value" (the cheapest 20% of the market). 14.1% a year over the last 5 years, against VT's 9.9%.
+- **Why I kept it over cheaper options (Nov 2026):**
+	- _VSS_ (Vanguard ex-US small cap, 0.06%) drops the value and profitability screens and mostly duplicates what VXUS already holds. It returned about 30% in 2025 against AVDV's 50%.
+	- _Putting the full 15% in VDV_ would keep a value tilt but lose the small-cap part.
+	- The fee gap on this slice is roughly $100 a year per $35k invested. One good year for value, or one bad year in which it holds up better than VT, covers that.
+- **Reconsider if:** the value premium disappears for an extended period, it drifts away from its own rules, or a cheaper fund with the same value-and-profitability screen appears.
+
+### How they fit together
+
+| Fund | Job | 401k weight | Fee | Thesis exposure |
+|---|---|---|---|---|
+| VT | Core and hedge against being wrong | 50% | ~0.06% | Neutral |
+| VXUS | Lower the US share cheaply | 35% | 0.05% | "Not US" |
+| VDV | Value at index cost | 7.5% | 0.08% | "Cheap" (large/mid) |
+| AVDV | Deep value, small caps | 7.5% | 0.36% | "Cheap" (deepest) |
+
+**Weighted 401k fee:** about 0.08% a year, roughly what VT alone costs. The tilt adds almost nothing in fees.
 
 ## How Exposure Shifts
 
@@ -110,7 +258,7 @@ _I matched the labels to the chart's order myself, so treat this as my reading, 
 
 ## Looking Back: the Last 5 Years
 
-\$100 invested Nov 2021, dividends reinvested, rebalanced each January (weekly price data; EFV stands in for VDV, which only launched in 2026):
+$100 invested Nov 2021, dividends reinvested, rebalanced each January (weekly price data; EFV stands in for VDV, which only launched in 2026):
 
 ```mermaid
 xychart-beta
@@ -128,7 +276,7 @@ xychart-beta
 | 1 · 100% VT | $159.9 | 9.9% | 15.6% | −25.7% |
 | 2 · 100% VXUS | $149.5 | 8.4% | 15.8% | −27.7% |
 | 3 · 50/50 VT/VXUS | $155.1 | 9.2% | 15.4% | −26.7% |
-| 4 · **New 401k mix** (50/35/7.5/7.5) | **$161.6\*\* | **10.1%** | **15.3%** | −25.9% |
+| 4 · **New 401k mix** (50/35/7.5/7.5) | **$161.6** | **10.1%** | **15.3%** | −25.9% |
 
 **Each fund on its own** (5-year return per year): VDV stand-in 14.3% · AVDV 14.1% · VT 9.9% · VXUS 8.4%.
 
@@ -148,7 +296,7 @@ xychart-beta
 
 ## Looking Forward: the Next 5 Years
 
-Per \$100 today, three scenarios. GMO's after-inflation forecasts are converted to dollar returns with an assumed 2.5% inflation; "last 5 years repeat" replays each fund's own history.
+Per $100 today, three scenarios. GMO's after-inflation forecasts are converted to dollar returns with an assumed 2.5% inflation; "last 5 years repeat" replays each fund's own history.
 
 ```mermaid
 xychart-beta
@@ -164,7 +312,7 @@ xychart-beta
 |---|---|---|---|
 | 100% VT | $90 | $104 | $160 |
 | 50/50 VT/VXUS | $101 | $114 | $155 |
-| **New 401k mix** | **$104** | **$116** | **\$162** |
+| **New 401k mix** | **$104** | **$116** | **$162** |
 
 **Why this allocation and not something bolder:** it's the only option that **doesn't lose in any scenario**. If GMO is right, it beats 100% VT by about 15%. If the last 5 years repeat, it matches VT. A 50/50 VT/VXUS split does better than VT only if GMO is right. Going to zero US would gain more if GMO is right and lose more if not.
 
@@ -182,14 +330,13 @@ Grantham is one voice. Before committing, I checked the tilt against the two inv
 | **Valuation** | Cheapness, deep value | Price matters; never overpay | Quality first: "a wonderful company at a fair price" |
 | **Macro and timing** | Calls bubbles and reallocates | Won't predict; cash builds up when nothing is cheap | Dismissed macro forecasting entirely |
 | **The US** | "Don't own US stocks" | "Never bet against America" | Went abroad when it was cheaper (China) |
-| **Diversification** | Broad, by asset class | Concentrated for himself; S\&P 500 index fund for everyone else | Extreme concentration |
+| **Diversification** | Broad, by asset class | Concentrated for himself; S&P 500 index fund for everyone else | Extreme concentration |
 | **Crypto** | "Unnecessary nonsense" | Dismissive | "Rat poison" |
 
 **Where they agreed historically.** Both Grantham and Buffett called the late-1990s tech bubble and looked wrong for about two years before 2000 proved them right. Both turned buyers near the 2008–09 bottom: Buffett with "Buy American. I Am." (October 2008) and Grantham with "Reinvesting When Terrified" (March 2009). Munger said the 2021 market was crazier than the dot-com era, the same call as Grantham's superbubble warnings. _(From memory, not freshly sourced.)_
 
 **Where things stand in 2026:**
-
-- **Buffett is just as worried about valuations.** He's chairman now; Greg Abel became CEO in January 2026. Buffett has said investors have never been in a more "gambling mood". Berkshire sold more stock than it bought for 14 straight quarters and held a record ~\$397B in cash in Q1 2026 ([WebProNews](https://www.webpronews.com/berkshires-400-billion-cash-fortress-signals-buffetts-enduring-market-skepticism)).
+- **Buffett is just as worried about valuations.** He's chairman now; Greg Abel became CEO in January 2026. Buffett has said investors have never been in a more "gambling mood". Berkshire sold more stock than it bought for 14 straight quarters and held a record ~$397B in cash in Q1 2026 ([WebProNews](https://www.webpronews.com/berkshires-400-billion-cash-fortress-signals-buffetts-enduring-market-skepticism)).
 - **Berkshire's biggest new conviction is international value, which is Grantham's playbook.** It owns over 10% of each of Japan's five big trading houses, and Abel called them comparable in importance to Berkshire's major US holdings ([Jiji/Adnkronos](https://english.adnkronos.com/2026/03/01/berkshire-stakes-in-3-japanese-trading-houses-exceed-10-pct/)).
 - **But Berkshire is buying again, including AI.** Under Abel it became a net buyer in Q2 2026 ([Motley Fool](https://www.webull.com/news/15430522333668352)), including large Alphabet purchases ([Motley Fool](https://www.fool.com/investing/2026/06/08/warren-buffett-2026-pullback-wasnt-big-berkshire/)). That's the opposite of Grantham's "sell US tech".
 - **Munger died in November 2023**, so there's no 2026 view. His late bets, BYD and Alibaba, were the same instinct as Grantham's: own the cheap market, not the familiar one.
