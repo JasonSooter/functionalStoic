@@ -2,18 +2,18 @@
 publish: true
 title: Baden-Württemberg
 created: 2026-10-20T01:36:30.000Z
-modified: 2026-10-23T11:13:58.000Z
-published: 2026-10-23T11:13:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-16T02:22:36.128Z
+published: 2026-11-16T02:22:36.128Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Baden-Württemberg
@@ -27,6 +27,7 @@ Germany's south-western state; see [[Freiburg]] and the Travel note [[Germany]].
 - [[Blautopf]]
 - [[Feldberg]]
 - [[Hohlenstein-Stadel]]
+- [[Landkreis Emmendingen]]
 - [[Mannheim]]
 - [[Marbach am Neckar]]
 - [[Old Rhine Bridge (Konstanz)]]

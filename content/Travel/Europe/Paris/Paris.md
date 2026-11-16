@@ -2,13 +2,8 @@
 publish: true
 title: Paris
 created: 2026-07-17T14:36:02.899Z
-modified: 2026-11-10T20:18:59.000Z
-published: 2026-11-10T20:18:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Paris.svg
+modified: 2026-11-16T02:22:14.663Z
+published: 2026-11-16T02:22:14.663Z
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
@@ -17,6 +12,7 @@ books:
   - "Here comes everybody: participatory budgeting, explained"
   - To Paris for the Talent, to San Francisco for the Energy
   - "[[Candide]]"
+  - "[[Die Stadt Der Viertelstunde]]"
 categories:
   - "[[Places]]"
 color: green
@@ -25,6 +21,10 @@ icon: building-2
 location:
   - 48.8566
   - 2.3522
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 reading_icon: book
 image: Attachments/Places/Paris.svg
 ---
@@ -56,8 +56,9 @@ Capital of [[France]]. Each `geo:` link below is a separate map marker in Map Vi
 | Here comes everybody: participatory budgeting, explained | The Long and Short | subject | Paris is the article's main example of blending online and offline participation. |
 | To Paris for the Talent, to San Francisco for the Energy | Yura Riphyak | subject | The interview argues Paris is where Sqreen finds committed engineering talent and builds the product, with a co-located early team in… |
 | [[Candide]] | Voltaire | setting | Ill at an inn, Candide is fleeced by doctors, critics, a Périgord abbé and swindlers, then arrested and bribes his way out |
+| [[Die Stadt Der Viertelstunde]] | Björn Schwarze et al. (BBSR) | subject | The model 15-minute city: school yards, 180 km of cycle lanes, 30 km/h and car trips halved since 2002. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.8566\&mlon=2.3522#map=12/48.8566/2.3522) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=48.8566,2.3522)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.8566&mlon=2.3522#map=12/48.8566/2.3522) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.8566,2.3522)
 
 ## Sub-places
 
@@ -92,7 +93,6 @@ Source: [Readwise highlight](https://read.readwise.io/read/01m5a86gz0wjjw3dzn0xq
 - **Not pinned separately:** Centre Pompidou (the target of the architecture rant). ⚠️ No coordinate from a standard source could be fetched this run.
 
 ## How '15-Minute Cities' Will Change the Way We Socialise — Peter Yeung (2020)
-
 Source: [[How '15-Minute Cities' Will Change the Way We Socialise]] · [Original](https://www.bbc.com/worklife/article/20201214-how-15-minute-cities-will-change-the-way-we-socialise) · [Readwise highlight](https://read.readwise.io/read/01m5d218ap56a9v45z1rmpax6r)
 
 > “I discovered it’s possible to feel like you're in a small village in Paris,” she says.
@@ -102,7 +102,6 @@ Source: [[How '15-Minute Cities' Will Change the Way We Socialise]] · [Original
 - **Why it matters:** Paris is the test case the article holds up for cities that want to copy the model.
 
 ## Not the End of the World — Hannah Ritchie (2024)
-
 Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwise.io/read/01m5ebvffxyf7mdy9s4m2gq0v3)
 
 > In 2015, I went to Paris for the big, famous climate conference, COP21.
@@ -112,7 +111,6 @@ Source: [[Not the End of the World]] · [Readwise highlight](https://read.readwi
 - **Why it matters:** The setting is the personal hinge for the chapter's optimism: seeing the target adopted there contrasts with her earlier fatalism. The argument rests on data trajectories, so the city itself is incidental; any summit venue would serve.
 
 ## The Price of Civilization — Jim Wright (2015)
-
 Source: [Original](https://www.stonekettle.com/2015/11/the-price-of-civilization.html) · [Readwise highlight](https://read.readwise.io/read/01m5hk4yxnym2bhsh2xzwb8tah)
 
 > We created this. Paris. Yes we did.
@@ -122,7 +120,6 @@ Source: [Original](https://www.stonekettle.com/2015/11/the-price-of-civilization
 - **Why it matters:** The attacks are the occasion and the conclusion of the essay; the city stands for the cost of past wars.
 
 ## Here comes everybody: participatory budgeting, explained — The Long and Short (2016)
-
 Source: [Original](http://thelongandshort.org/society/participatory-budgeting-explained) · [Readwise highlight](https://read.readwise.io/read/01m5k5qerqjhebnb4z7p54q3w0)
 
 > In Paris, for example, the web resources are supplemented with lots of local meetings where people can meet to suggest and develop ideas, and both civil society organisations and civil servants are involved in supporting people to participate offline.
@@ -132,7 +129,6 @@ Source: [Original](http://thelongandshort.org/society/participatory-budgeting-ex
 - **Why it matters:** Worked example used to answer the digital-divide question.
 
 ## To Paris for the Talent, to San Francisco for the Energy — Yura Riphyak (2019)
-
 Source: [Original](https://youteam.io/blog/to-paris-for-the-talent-to-san-francisco-for-the-energy/) · [Readwise highlight](https://read.readwise.io/read/01m5k7bmk9vv3ysjb60z5xs75y)
 
 > 90% of the engineering & product teams are located in Paris, with 2-3 people working remotely. Most of our growth & operations teams are based in San Francisco now.
@@ -142,7 +138,6 @@ Source: [Original](https://youteam.io/blog/to-paris-for-the-talent-to-san-franci
 - **Why it matters:** Paris is half of the company's two-city model: where the product is built.
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m75k22x3q9ra6n23jckb4s)
 
 > "Is it true that they always laugh in Paris?" said Candide.
@@ -150,3 +145,12 @@ Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [R
 - **Role:** setting
 - **In the book:** Candide enters by the suburb of St. Marceau and falls ill at his inn, besieged by doctors and devotees. A Périgord abbé takes him to the theatre and to a gaming house in the Faubourg St. Honoré, and a forged letter from 'Cunegonde' lures him into arrest. Martin describes Paris as 'a chaos' where he was robbed at the fair of St. Germain. Candide bribes the officer and is taken to Dieppe.
 - **Why it matters:** Voltaire's satire of his own city: its theatre quarrels, critics, card sharps and police. It is the longest European episode after Lisbon.
+
+## Die Stadt Der Viertelstunde — Björn Schwarze et al. (BBSR) (2025)
+Source: [[Die Stadt Der Viertelstunde]] · [Original](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/bbsr-online/2025/bbsr-online-027-2025-dl.pdf?__blob=publicationFile&v=2) · [Readwise highlight](https://read.readwise.io/read/01m7h2ch4ybtzsb8h2pn9sqf3b)
+
+> Seit den Kommunalwahlen 2020 ist die Stadt der Viertelstunde fest in der Pariser Stadtentwicklung verankert.
+
+- **Role:** subject
+- **In the book:** The German federal planning institute's report presents Paris as the city pursuing the 15-minute city most consistently, since Carlos Moreno's idea became Anne Hidalgo's 2020 re-election platform. It lists more than 130 school yards opened up, 180 km of protected cycle lanes, 30 km/h on almost every street and half of 30,000 parking spaces converted, and reports that car mileage inside the city fell by over 50 percent against 2002 while walking makes up 53 percent of trips.
+- **Why it matters:** Paris is the benchmark the report measures German cities against, which it finds acting far more cautiously.

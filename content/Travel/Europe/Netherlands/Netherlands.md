@@ -1,24 +1,17 @@
 ---
 publish: true
+title: Netherlands
+created: 2026-09-26T05:01:00.000Z
+modified: 2026-11-16T02:23:05.748Z
+published: 2026-11-16T02:23:05.748Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
-title: Netherlands
-created: 2026-09-26T05:01:00.000Z
-modified: 2026-11-07T07:06:07.000Z
-published: 2026-11-07T07:06:07.000Z
-tags:
-  - travel/europe/europe-2023
-  - travel/europe/netherlands/utrecht
-  - travel/europe/netherlands
-  - places
-  - source/ai/claude
-  - place/literary
-socialImage: Attachments/Places/Netherlands.svg
 books:
   - What Americans Can Learn From the New Dutch Dietary Guidelines
   - How the West (and the Rest) Got Rich
   - "[[Candide]]"
+  - "[[Die Stadt Der Viertelstunde]]"
 categories:
   - "[[Places]]"
 color: blue
@@ -38,6 +31,13 @@ locations:
     name: Utrecht
   - coordinates: 52.3676,4.9041
     name: Amsterdam
+tags:
+  - travel/europe/europe-2023
+  - travel/europe/netherlands/utrecht
+  - travel/europe/netherlands
+  - places
+  - source/ai/claude
+  - place/literary
 reading_icon: book
 image: Attachments/Places/Netherlands.svg
 ---
@@ -56,12 +56,11 @@ Netherlands is a country in Europe, and it groups the places in the Netherlands 
 
 ## Action Items
 
-- [ ] Go to Ferdinand Bolstraat when in Amsterdam
+ - [ ] Go to Ferdinand Bolstraat when in Amsterdam
 
 ## FAQ
 
 ---
-
 🙋
 ✨
 
@@ -87,23 +86,23 @@ Netherlands is a country in Europe, and it groups the places in the Netherlands 
 
 ### Resources
 
-- [Google Earth View of Rijksmuseum](https://artsandculture.google.com/streetview/rijksmuseum/iwH5aYGoPwSf7g?hl=en\&sv_lng=4.885283712508563\&sv_lat=52.35984312584405\&sv_h=319\&sv_p=0\&sv_pid=fOVcUXQW2wpRf33iUmxEfg\&sv_z=1)
+- [Google Earth View of Rijksmuseum](https://artsandculture.google.com/streetview/rijksmuseum/iwH5aYGoPwSf7g?hl=en&sv_lng=4.885283712508563&sv_lat=52.35984312584405&sv_h=319&sv_p=0&sv_pid=fOVcUXQW2wpRf33iUmxEfg&sv_z=1)
 - Public Transit
-  - [9292 for local Utrecht Travel](https://play.google.com/store/apps/details?id=nl.negentwee\&hl=en\&gl=US\&pli=1)
-    - 9292 is the most used app for public transport in the Netherlands with more than 5 million users.
-    - It combines all current train, bus, tram, metro and ferry timetables of all public transport companies in the Netherlands in 1 app.
-  - [NS](https://www.ns.nl/en)
-    - City to City [[Trains]] within the Netherlands
-  - [NS International](https://www.nsinternational.com/en)
-    - [[Trains]] for leaving the Netherlands
-    - We used it to go from Utrecht → [[Belgium]]
+	- [9292 for local Utrecht Travel](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en&gl=US&pli=1)
+		- 9292 is the most used app for public transport in the Netherlands with more than 5 million users.
+		- It combines all current train, bus, tram, metro and ferry timetables of all public transport companies in the Netherlands in 1 app.
+	- [NS](https://www.ns.nl/en)
+		- City to City [[Trains]] within the Netherlands
+	- [NS International](https://www.nsinternational.com/en)
+		- [[Trains]] for leaving the Netherlands
+		- We used it to go from Utrecht → [[Belgium]]
 
 ## De Hogeweyk: the dementia village (Weesp)
 
 _Added 2026-09-25 (#source/ai/claude)._
 
 > [!quote] Linnesby-Maria, "Indulgence Is Not the Same as Care"
-> \[A] few years ago I read an article about a dementia home in the Netherlands. The home is actually a village. The entire open-air establishment is designed to feel like — in fact, to be — a village, in which residents live together in ordinary houses with carers, and move freely indoors and out, going to stores and cafes and so forth. ([View Highlight](https://readwise.io/open/853000640))
+> [A] few years ago I read an article about a dementia home in the Netherlands. The home is actually a village. The entire open-air establishment is designed to feel like — in fact, to be — a village, in which residents live together in ordinary houses with carers, and move freely indoors and out, going to stores and cafes and so forth. ([View Highlight](https://readwise.io/open/853000640))
 
 - **What it is:** **De Hogeweyk** in **Weesp**, near Amsterdam, opened **December 2009** on a four-acre site ([Wikipedia](https://en.wikipedia.org/wiki/Hogeweyk)).
 - **Scale:** **152 residents in 27 houses**, about six or seven per house (23 original houses, 4 added in 2018) ([official site](https://hogeweyk.dementiavillage.com/)).
@@ -136,11 +135,11 @@ _Added 2026-09-25 (#source/ai/claude)._
 | What Americans Can Learn From the New Dutch Dietary Guidelines | Mark Hay | subject | Country whose new meat-limiting, sustainability-based dietary guidelines are compared with the US ones. |
 | How the West (and the Rest) Got Rich | Deirdre N. McCloskey | turning point | Named as where the Great Enrichment first began around 1600, spreading to England, the colonies, Scotland and the Rhineland, driven by… |
 | [[Candide]] | Voltaire | journey waypoint | Begging in Holland, Candide is rebuffed by a zealous orator and rescued by James the Anabaptist, who later sails with him to Lisbon |
+| [[Die Stadt Der Viertelstunde]] | Björn Schwarze et al. (BBSR) | subject | Utrecht's 2040 strategy aims for a "10-minute city" built around transport hubs. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.0907\&mlon=5.1214#map=7/52.0907/5.1214) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.0907,5.1214)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.0907&mlon=5.1214#map=7/52.0907/5.1214) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.0907,5.1214)
 
 ## What Americans Can Learn From the New Dutch Dietary Guidelines — Mark Hay (2016)
-
 Source: [Original](https://www.good.is/articles/dutch-nutritional-guidelines-meat-sustainability) · [Readwise highlight](https://read.readwise.io/read/01m5jjrzdy1p4w8nn2f3251f81)
 
 > Last month the Voedingscentrum, the Netherland’s state-funded nutrition authority, issued an aggressive new
@@ -150,7 +149,6 @@ Source: [Original](https://www.good.is/articles/dutch-nutritional-guidelines-mea
 - **Why it matters:** The country is the subject of a policy comparison with the US; the argument is about national guidelines rather than any specific location.
 
 ## How the West (and the Rest) Got Rich — Deirdre N. McCloskey (2016)
-
 Source: [Original](http://www.wsj.com/articles/why-the-west-and-the-rest-got-rich-1463754427) · [Readwise highlight](https://read.readwise.io/read/01m5jvp1ekdw1kyes8d2dj2dvw)
 
 > Why did it all start at first in Holland about 1600 and then England about 1700 and then the North American colonies and England’s impoverished neighbor, Scotland, and then Belgium and northern France and the Rhineland?
@@ -160,7 +158,6 @@ Source: [Original](http://www.wsj.com/articles/why-the-west-and-the-rest-got-ric
 - **Why it matters:** The starting point of the enrichment in the argument.
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m757d4nd2fvwg1a1pmq8f0)
 
 > His provisions failed him when he arrived in Holland; but having heard that everybody was rich in that country, and that they were Christians, he did not doubt but he should meet with the same treatment from them as he had met with in the Baron's castle
@@ -168,3 +165,12 @@ Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [R
 - **Role:** journey waypoint
 - **In the book:** Fleeing the Bulgarian army, Candide reaches Holland penniless. An orator who has just preached on charity refuses him bread when he will not say the Pope is Anti-Christ, and the orator's wife pours the contents of a full pot over him from the window. The Anabaptist James takes him in, and Candide finds the diseased Pangloss here as a beggar; James has him cured and takes both men on his ship to Lisbon.
 - **Why it matters:** A short episode that sets religious zeal against plain charity. It reunites Candide with Pangloss and launches the voyage to Lisbon.
+
+## Die Stadt Der Viertelstunde — Björn Schwarze et al. (BBSR) (2025)
+Source: [[Die Stadt Der Viertelstunde]] · [Original](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/bbsr-online/2025/bbsr-online-027-2025-dl.pdf?__blob=publicationFile&v=2) · [Readwise highlight](https://read.readwise.io/read/01m7h2cmhqac86rj52hadbb4c2)
+
+> In ihrer Stadtentwicklungsstrategie für das Jahr 2040 formuliert die Stadt Utrecht die 10-Minuten-Stadt als übergreifendes Ziel
+
+- **Role:** subject
+- **In the book:** In its review of international practice, the German federal planning institute's report describes Utrecht's 2040 strategy: a polycentric city of transport hubs (the main station named as a national hub), compact development, priority for walking, cycling and public transport, and distance targets for green space.
+- **Why it matters:** With Paris and Vienna, Utrecht is one of three example cities; it shows a variant of the idea (ten minutes, organised around hubs) already written into a city's plan.
