@@ -1,20 +1,20 @@
 ---
 publish: true
-aliases:
-  - Bayern
 title: Bavaria
 created: 2026-10-20T01:36:23.000Z
-modified: 2026-11-09T08:19:58.000Z
-published: 2026-11-09T08:19:58.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-17T02:16:33.991Z
+published: 2026-11-17T02:16:33.991Z
+aliases:
+  - Bayern
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Bavaria
@@ -29,6 +29,7 @@ Germany's south-eastern state; see the Travel note [[Germany]]. Hub for literary
 - [[Dokumentation Obersalzberg]]
 - [[Isar (Munich)]]
 - [[Königssee]]
+- [[Landshut]]
 - [[Magdalenenkirche (Münnerstadt)]]
 - [[Munich]]
 - [[Ofnet Caves]]

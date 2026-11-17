@@ -2,19 +2,15 @@
 publish: true
 title: Iceland
 created: 2016-04-14
-modified: 2026-11-07T06:53:28.000Z
-published: 2026-11-07T06:53:28.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Iceland.svg
+modified: 2026-11-17T02:16:23.039Z
+published: 2026-11-17T02:16:23.039Z
 aliases: []
 books:
   - "[[The Comfort Crisis]]"
   - Panama Papers Prove World Leaders Are Funneling Money Into Tax Shelters
   - What the Icelandic Know
   - "[[Brave New World]]"
+  - Are there larger things than Independence?
 categories:
   - "[[Places]]"
 color: purple
@@ -25,6 +21,10 @@ icon: book
 location:
   - 65
   - -18
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Iceland.svg
 ---
 
@@ -40,8 +40,9 @@ Island country in the North Atlantic. In The Comfort Crisis (Michael Easter) its
 | Panama Papers Prove World Leaders Are Funneling Money Into Tax Shelters | Bridey Heing | turning point | Mass protests over the Panama Papers push the prime minister to resign - the leak's first casualty |
 | What the Icelandic Know | Pixel Magazine | subject | An interview with photographer Gabrielle Motola about her portrait project on gender equality in Iceland, a country that tops global… |
 | [[Brave New World]] | Aldous Huxley | subject | The threatened place of exile: the Director warns Bernard of a transfer, and Mond explains the islands of exile. |
+| Are there larger things than Independence? | Michael Rance | setting | The cold, warm island of Laxness's Independent People, and of the winter trip where the author found the novel. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=65\&mlon=-18#map=11/65/-18) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=65,-18)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=65&mlon=-18#map=11/65/-18) · [Google Maps](https://www.google.com/maps/search/?api=1&query=65,-18)
 
 ## Sub-places
 
@@ -59,7 +60,6 @@ Island country in the North Atlantic. In The Comfort Crisis (Michael Easter) its
 - [[Svartsengi Power Station]]
 
 ## The Comfort Crisis — Michael Easter (2021)
-
 Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/books/634446/the-comfort-crisis-by-michael-easter/) · [Readwise highlight](https://read.readwise.io/read/01m5g8w9mzhympf4absgjrb0r2)
 
 > It was a patch of volcanic rock about the size of Kentucky that was covered in jagged rock, ice, and moss.
@@ -69,7 +69,6 @@ Source: [[The Comfort Crisis]] · [Original](https://www.penguinrandomhouse.com/
 - **Why it matters:** The island's harshness is the argument itself, the book's closing case for discomfort.
 
 ## Panama Papers Prove World Leaders Are Funneling Money Into Tax Shelters — Bridey Heing (2016)
-
 Source: [Original](http://www.good.is/posts/panama-papers) · [Readwise highlight](https://read.readwise.io/read/01m5jjs12r2a0w7p1xeshkrymh)
 
 > In Iceland, massive demonstrations aimed at forcing Prime Minister Sigmundur Gunnlaugsson to resign have drawn thousands into the streets.
@@ -79,7 +78,6 @@ Source: [Original](http://www.good.is/posts/panama-papers) · [Readwise highligh
 - **Why it matters:** Iceland is where the leak first produces a concrete political result, a prime minister giving way to street protest. The text names no particular square or building.
 
 ## What the Icelandic Know — Pixel Magazine (2016)
-
 Source: [Original](https://medium.com/the-coffeelicious/what-the-icelandic-know-9f34c9d827cf) · [Readwise highlight](https://read.readwise.io/read/01m5jvmfkgn33hkmkxt1hpgwtj)
 
 > Women experience sexism in Iceland as they do in other countries but perhaps it’s not as prevalent.
@@ -89,7 +87,6 @@ Source: [Original](https://medium.com/the-coffeelicious/what-the-icelandic-know-
 - **Why it matters:** Iceland is the whole subject of the interview, but treated as a country-level case study rather than through specific locations.
 
 ## Brave New World — Aldous Huxley (1932)
-
 Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W) · [Readwise highlight](https://read.readwise.io/read/01m5kvavevkyrpwyjqtr4gm1xq)
 
 > I shall ask for your transference to a Sub-Centre—preferably to Iceland.
@@ -97,3 +94,12 @@ Source: [[Brave New World]] · [Original](https://openlibrary.org/works/OL64365W
 - **Role:** subject
 - **In the book:** The Director threatens Bernard with transfer to a Sub-Centre, "preferably to Iceland"; Bernard first finds the idea stimulating, then is appalled. In the closing debate Mustapha Mond explains that islands like Iceland hold the self-consciously individual, and Helmholtz picks the Falkland Islands for its bad climate.
 - **Why it matters:** Iceland is never visited, but as the byword for exile it shapes Bernard's swings between bravado and fear.
+
+## Are there larger things than Independence? — Michael Rance (2025)
+Source: [Original](https://michaelrance.substack.com/p/are-there-larger-things-than-independence) · [Readwise highlight](https://read.readwise.io/read/01m7kmfbvaq3p5z23c2e7pcfas)
+
+> But I have a special fondness for a little nation called Iceland. It is such a deceptively simple country.
+
+- **Role:** setting
+- **In the article:** Subtitled "Thoughts from Iceland, and Halldór Laxness' Independent People", the essay opens on Iceland as cold in name but warm underneath: snowy mountains over magma, light-blue volcanic pools, hidden folk and sheep. The novel's sheep farm stands in the Iceland of a century ago, and two years earlier the author found the book by chance in a Reykjavík bookshop at the end of a winter trip. He closes wishing he were back gliding across Iceland's fields and floating in its warm waters.
+- **Why it matters:** Iceland is both the novel's world of isolation and hard independence and the author's image of the warmth he lacks; the essay's argument about independence is framed by it.
