@@ -2,13 +2,8 @@
 publish: true
 title: London
 created: 2016-04-07
-modified: 2026-11-12T05:19:27.000Z
-published: 2026-11-12T05:19:27.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/London.svg
+modified: 2026-11-19T02:16:57.580Z
+published: 2026-11-19T02:16:57.580Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -22,6 +17,10 @@ icon: book
 location:
   - 51.5072
   - -0.1275
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/London.svg
 ---
 
@@ -36,11 +35,13 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 | Muslims March Against Isis in London, and It’s Ignored by the Media | Mike Albo | setting | City where the annual Arbaeen procession marched against ISIS with little media coverage |
 | The Country Girls Trilogy | Edna O'Brien | setting | Where Kate and Baba end up: bedsits, bad marriages, Kate's broken home with Eugene, and Baba's money and mischief. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5072\&mlon=-0.1275#map=11/51.5072/-0.1275) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.5072,-0.1275)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.5072&mlon=-0.1275#map=11/51.5072/-0.1275) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5072,-0.1275)
 
 ## Sub-places
 
 - [[10 Downing Street]]
+- [[32 Smith Square]]
+- [[42 Holland Park]]
 - [[Albany (London)]]
 - [[Alexandra Palace]]
 - [[Alhambra Theatre (London)]]
@@ -53,6 +54,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[British Museum]]
 - [[Buckingham Palace]]
 - [[Canada Water]]
+- [[Century House]]
 - [[Charing-T Tower (Brave New World)]]
 - [[City of London]]
 - [[Crossness Pumping Station]]
@@ -62,6 +64,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Half Moon Street]]
 - [[Hampstead]]
 - [[Haymarket Stores]]
+- [[Holiday Inn Sloane Street]]
 - [[Hyde Park (London)]]
 - [[IFS Cloud Cable Car]]
 - [[Islington]]
@@ -91,6 +94,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Seven Kings station]]
 - [[Soho (London)]]
 - [[Southwark Cathedral]]
+- [[Soviet Embassy in London]]
 - [[St Mary's Hospital, London]]
 - [[Tate Modern]]
 - [[The Hospital Club]]
@@ -103,7 +107,6 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Wimbledon Common]]
 
 ## Muslims March Against Isis in London, and It’s Ignored by the Media — Mike Albo (2016)
-
 Source: [Original](http://www.good.is/posts/anti-isis-march-london) · [Readwise highlight](https://read.readwise.io/read/01m5jjr7y49gwtnh1g2vnqbqfx)
 
 > Thousands of peace-promoting Muslims took to the streets of London last week, and it was barely covered by the media
@@ -113,7 +116,6 @@ Source: [Original](http://www.good.is/posts/anti-isis-march-london) · [Readwise
 - **Why it matters:** London is the setting but the text offers no specific site, so it is a whole-city reference. The argument concerns media coverage rather than the place.
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
-
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m76bxvgx09xkg6rpbreb6b)
 
 > When we vamoosed from the convent we went to a linoleum slum in Dublin, and then on to another slum here in London, where, over a period of eighteen months, we got asked out to about three good dinners apiece, which meant six meals for both of us because we had a pact that whoever got asked out would bring back food for the Cinderella.

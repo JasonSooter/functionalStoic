@@ -2,8 +2,8 @@
 publish: true
 title: Moscow
 created: 2015-11-28
-modified: 2026-11-18T02:19:32.954Z
-published: 2026-11-18T02:19:32.954Z
+modified: 2026-11-19T02:16:44.386Z
+published: 2026-11-19T02:16:44.386Z
 aliases: []
 books:
   - Successful People Start Before They Feel Ready
@@ -38,8 +38,11 @@ Capital of Russia. In a James Clear article it is where he hears Richard Branson
 ## Sub-places
 
 - [[103 Leninsky Prospekt]]
+- [[Kutuzovsky Prospekt signal site]]
 - [[Lubyanka Building]]
 - [[MGIMO]]
+- [[Moscow Central Market]]
+- [[Saint Basil's Cathedral]]
 
 ## Successful People Start Before They Feel Ready — James Clear (2012)
 Source: [Original](http://jamesclear.com/successful-people-start-before-they-feel-ready?__s=opxsejwkn4yzqzgashdp) · [Readwise highlight](https://read.readwise.io/read/01m5fye4hqj0gg9etas71svd3j)
