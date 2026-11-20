@@ -2,8 +2,8 @@
 publish: true
 title: Moscow
 created: 2015-11-28
-modified: 2026-11-19T02:16:44.386Z
-published: 2026-11-19T02:16:44.386Z
+modified: 2026-11-20T02:16:55.857Z
+published: 2026-11-20T02:16:55.857Z
 aliases: []
 books:
   - Successful People Start Before They Feel Ready
@@ -42,6 +42,7 @@ Capital of Russia. In a James Clear article it is where he hears Richard Branson
 - [[Lubyanka Building]]
 - [[MGIMO]]
 - [[Moscow Central Market]]
+- [[Red Square]]
 - [[Saint Basil's Cathedral]]
 
 ## Successful People Start Before They Feel Ready — James Clear (2012)

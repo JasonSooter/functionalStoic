@@ -2,13 +2,8 @@
 publish: true
 title: New Mayflower Hotel (Stranger in a Strange Land)
 created: 2024-05-18
-modified: 2026-11-07T07:01:59.000Z
-published: 2026-11-07T07:01:59.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/New Mayflower Hotel (Stranger in a Strange Land).svg
+modified: 2026-11-20T02:17:03.794Z
+published: 2026-11-20T02:17:03.794Z
 aliases: []
 books:
   - Stranger in a Strange Land
@@ -17,13 +12,18 @@ categories:
 color: gray
 confidence: inferred
 coordinates: 38.9044,-77.0398
-geo_note: "inferred: the novel's 'New Mayflower' in the capital points to the Mayflower Hotel, Washington, D.C."
+geo_note: "inferred: the novel's 'New Mayflower' in the capital points to the Mayflower\
+  \ Hotel, Washington, D.C."
 geo_source: Wikipedia (en) Mayflower Hotel
 icon: book
 location:
   - 38.9044
   - -77.0398
-within: "[[Washington DC]]"
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
+within: "[[Mayflower Hotel]]"
 image: Attachments/Places/New Mayflower Hotel (Stranger in a Strange Land).svg
 ---
 
@@ -32,15 +32,13 @@ image: Attachments/Places/New Mayflower Hotel (Stranger in a Strange Land).svg
 Hotel in Washington, D.C. in Stranger in a Strange Land (Robert A. Heinlein), where Jubal's party settles Mike's affairs after the Palace meeting. The pin is the real Mayflower Hotel the name points to.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Stranger in a Strange Land | Robert A. Heinlein | turning point | Guarded suite where Jubal's party lunches, talks strategy and receives Douglas's signed papers. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9044\&mlon=-77.0398#map=16/38.9044/-77.0398) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.9044,-77.0398)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9044&mlon=-77.0398#map=16/38.9044/-77.0398) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9044,-77.0398)
 
 ## Stranger in a Strange Land — Robert A. Heinlein (1961)
-
 Source: [Original](https://openlibrary.org/works/OL59688W)
 
 > a few minutes later the driver left them on the roof of the New Mayflower.

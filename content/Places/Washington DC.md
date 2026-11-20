@@ -2,13 +2,8 @@
 publish: true
 title: Washington, D.C.
 created: 2024-05-18
-modified: 2026-11-07T06:59:10.000Z
-published: 2026-11-07T06:59:10.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Washington DC.svg
+modified: 2026-11-20T02:17:02.198Z
+published: 2026-11-20T02:17:02.198Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 38.9047
   - -77.0164
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/Washington DC.svg
 ---
 
@@ -29,12 +28,11 @@ image: Attachments/Places/Washington DC.svg
 Capital of the United States. Hub for literary places in the region.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Speck moved to Washington in 2003, went car-free, lost ten pounds, met his wife on a transit platform and built a house with a garden… |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9047\&mlon=-77.0164#map=11/38.9047/-77.0164) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.9047,-77.0164)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.9047&mlon=-77.0164#map=11/38.9047/-77.0164) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.9047,-77.0164)
 
 ## Sub-places
 
@@ -52,10 +50,11 @@ Capital of the United States. Hub for literary places in the region.
 - [[K Street (Washington, D.C.)]]
 - [[La Casa Permanent Supportive Housing]]
 - [[Lincoln Memorial]]
+- [[Mayflower Hotel]]
 - [[National Mall]]
 - [[National Press Club]]
-- [[New Mayflower Hotel (Stranger in a Strange Land)]]
 - [[Rubell Museum]]
+- [[Soviet Embassy in Washington]]
 - [[Tidal Basin]]
 - [[Town Danceboutique]]
 - [[Washington Union Station]]
@@ -64,7 +63,6 @@ Capital of the United States. Hub for literary places in the region.
 - [[World War II Memorial]]
 
 ## Walkable City — Jeff Speck (2012)
-
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbjp2f70req13ce2rpvyy8)
 
 > Ironically, the city that resisted the greatest amount of federal highway spending was probably the nation’s capital. Most current residents are unaware that, at one time, the Washington area was slated to receive 450 miles of interstate highways, 38 of which would have plowed through the District itself.
