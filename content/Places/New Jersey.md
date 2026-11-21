@@ -2,18 +2,18 @@
 publish: true
 title: New Jersey
 created: 2026-10-20T07:53:42.000Z
-modified: 2026-10-23T11:14:55.000Z
-published: 2026-10-23T11:14:55.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-21T23:15:03.166Z
+published: 2026-11-21T23:15:03.166Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # New Jersey
@@ -29,6 +29,7 @@ US state between New York and Pennsylvania. Hub for literary places in the state
 - [[Columbia Trail]]
 - [[Farnsworth Avenue (Bordentown)]]
 - [[Historic Smithville Park]]
+- [[Holmdel Horn Antenna]]
 - [[Interstate 80 sinkhole (Wharton)]]
 - [[Juliustown Park]]
 - [[L'Annexe de Mamie Colette]]
