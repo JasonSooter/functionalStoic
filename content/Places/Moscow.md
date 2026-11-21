@@ -2,8 +2,8 @@
 publish: true
 title: Moscow
 created: 2015-11-28
-modified: 2026-11-20T02:16:55.857Z
-published: 2026-11-20T02:16:55.857Z
+modified: 2026-11-21T02:18:26.595Z
+published: 2026-11-21T02:18:26.595Z
 aliases: []
 books:
   - Successful People Start Before They Feel Ready
@@ -38,7 +38,9 @@ Capital of Russia. In a James Clear article it is where he hears Richard Branson
 ## Sub-places
 
 - [[103 Leninsky Prospekt]]
+- [[British Embassy in Moscow]]
 - [[Kutuzovsky Prospekt signal site]]
+- [[Lefortovo Prison]]
 - [[Lubyanka Building]]
 - [[MGIMO]]
 - [[Moscow Central Market]]

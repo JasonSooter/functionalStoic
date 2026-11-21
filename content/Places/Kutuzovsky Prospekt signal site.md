@@ -2,8 +2,8 @@
 publish: true
 title: Kutuzovsky Prospekt signal site
 created: 2026-11-15
-modified: 2026-11-19T02:19:40.038Z
-published: 2026-11-19T02:19:40.038Z
+modified: 2026-11-21T02:20:01.077Z
+published: 2026-11-21T02:20:01.077Z
 aliases:
   - Kutuzovsky Prospekt bread shop
   - Kutz
@@ -17,6 +17,7 @@ geo_note: approximate (Hotel Ukraina; the book puts the bread shop in its shadow
   across Kutuzovsky Prospekt from the diplomats' complex)
 geo_source: Wikipedia (en) Hotel Ukraina, Moscow
 icon: book
+image: Attachments/Places/Kutuzovsky Prospekt signal site.svg
 location:
   - 55.7516
   - 37.5662
@@ -25,7 +26,6 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Moscow]]"
-image: Attachments/Places/Kutuzovsky Prospekt signal site.svg
 ---
 
 # Kutuzovsky Prospekt signal site
@@ -45,6 +45,6 @@ Source: [Original](https://openlibrary.org/works/OL19749410W) · [Readwise highl
 > Many of the British diplomats in Moscow, including the MI6 station of two officers and a secretary, were housed in the same complex on Kutuzovsky Prospekt, known as Kutz, a wide avenue to the west of the Moscow River.
 
 - **Role:** turning point
-- **In the book:** Across the avenue from the diplomats' complex, beside billboards and a bread shop much used by foreigners, MI6 sets up the only way to activate the escape plan: Gordievsky standing there at 7:30 p.m. holding a Safeway bag. Every Tuesday when he is in Moscow an MI6 officer "polices" the site, and an officer carrying a Harrods bag would acknowledge the signal. For years the officers keep watch; "Gordievsky never appeared." The KGB watches the same pavement from the top of the Hotel Ukraine.
+- **In the book:** Across the avenue from the diplomats' complex, beside billboards and a bread shop much used by foreigners, MI6 sets up the only way to activate the escape plan: Gordievsky standing there at 7:30 p.m. holding a Safeway bag. Every Tuesday when he is in Moscow an MI6 officer "polices" the site, and an officer carrying a Harrods bag would acknowledge the signal. For years the officers keep watch; "Gordievsky never appeared." The KGB watches the same pavement from the top of the Hotel Ukraine. On Tuesday, July 16, 1985, he finally does stand there; Arthur Gee walks past tearing the wrapper off a chocolate bar, "their eyes locked for less than a second," and PIMLICO is under way.
 - **Why it matters:** It is the hinge of the book's escape plot, a patch of pavement that a single plastic bag can turn into an emergency. Set anywhere less public, the signal would not have worked: the crowd at the billboards is what hides it.
 - **Real vs. fictional:** Real. The book gives no house number; the pin is the Hotel Ukraina named in the text.

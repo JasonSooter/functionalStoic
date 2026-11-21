@@ -2,8 +2,8 @@
 publish: true
 title: Fort Monckton
 created: 2026-11-15
-modified: 2026-11-18T02:23:48.165Z
-published: 2026-11-18T02:23:48.165Z
+modified: 2026-11-21T02:20:05.573Z
+published: 2026-11-21T02:20:05.573Z
 aliases: []
 books:
   - The Spy and the Traitor
@@ -13,6 +13,7 @@ color: purple
 coordinates: 50.7768,-1.1334
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Fort Monckton.svg
 location:
   - 50.7768
   - -1.1334
@@ -21,7 +22,6 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[England]]"
-image: Attachments/Places/Fort Monckton.svg
 ---
 
 # Fort Monckton
@@ -41,5 +41,5 @@ Source: [Original](https://openlibrary.org/works/OL19749410W) · [Readwise highl
 > the senior officers of MI6 were gathered for a conference at the service’s secret training base in Fort Monckton, a Napoleonic-era fortress near Portsmouth on England’s south coast.
 
 - **Role:** turning point
-- **In the book:** With MI6's senior officers gathered there for a conference, a small group meets at 10 p.m. to weigh Bromhead's report of the SAS hotel meeting. They argue over and over whether it is a provocation or a dangle, then decide to go ahead: the case "might seem too good to be true, but it was also too good to pass up."
+- **In the book:** With MI6's senior officers gathered there for a conference, a small group meets at 10 p.m. to weigh Bromhead's report of the SAS hotel meeting. They argue over and over whether it is a provocation or a dangle, then decide to go ahead: the case "might seem too good to be true, but it was also too good to pass up." After his escape the fort becomes his home for four months, in the gatehouse, while MI6 debriefs him; on September 16 CIA director Bill Casey arrives by helicopter to meet him there.
 - **Why it matters:** It is the institutional decision that launches the SUNBEAM case. The scene is short, but it is where the British side commits.

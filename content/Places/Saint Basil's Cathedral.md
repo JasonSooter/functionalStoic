@@ -2,8 +2,8 @@
 publish: true
 title: Saint Basil's Cathedral
 created: 2026-11-15
-modified: 2026-11-19T02:19:40.074Z
-published: 2026-11-19T02:19:40.074Z
+modified: 2026-11-21T02:19:54.861Z
+published: 2026-11-21T02:19:54.861Z
 aliases:
   - St Basil's Cathedral
   - St. Basil's Cathedral
@@ -15,6 +15,7 @@ color: purple
 coordinates: 55.7525,37.6231
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Saint Basil's Cathedral.svg
 location:
   - 55.7525
   - 37.6231
@@ -23,7 +24,6 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Moscow]]"
-image: Attachments/Places/Saint Basil's Cathedral.svg
 ---
 
 # Saint Basil's Cathedral
@@ -43,5 +43,5 @@ Source: [Original](https://openlibrary.org/works/OL19749410W) · [Readwise highl
 > he should go to St. Basil’s Cathedral in Red Square and ascend the spiral staircase at the rear of the building at exactly 3 p.m.
 
 - **Role:** setting
-- **In the book:** It is the second phase of the Moscow contact plan. Three Sundays after a signal at the Central Market, Gordievsky, in his gray cap and trousers, would climb the staircase at 3 p.m. while an MI6 officer, probably a woman holding something gray, timed her descent so they could pass abreast and he could hand over a written message. It was to be used only for information bearing directly on British national security.
+- **In the book:** It is the second phase of the Moscow contact plan. Three Sundays after a signal at the Central Market, Gordievsky, in his gray cap and trousers, would climb the staircase at 3 p.m. while an MI6 officer, probably a woman holding something gray, timed her descent so they could pass abreast and he could hand over a written message. It was to be used only for information bearing directly on British national security. When he finally comes, on Sunday, June 30, 1985, with a note written in a Lenin Museum lavatory, the stairs are taped off behind a sign, "UPPER FLOORS CLOSED FOR REDECORATION," and the brush contact fails.
 - **Why it matters:** A plan rather than a scene, but it shows MI6 choosing a tourist landmark in the heart of Moscow because its crowds and cramped stairs make a hand-over invisible.

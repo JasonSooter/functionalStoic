@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-11-18T02:19:40.635Z
-published: 2026-11-18T02:19:40.635Z
+modified: 2026-11-21T02:18:57.568Z
+published: 2026-11-21T02:18:57.568Z
 aliases: []
 books:
   - How the West (and the Rest) Got Rich
@@ -119,6 +119,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Portsmouth Harbour]]
 - [[Robin Hood's Bay]]
 - [[Silbury Hill]]
+- [[South Ormsby Hall]]
 - [[Surrey]]
 - [[Tardebigge Locks]]
 - [[Walton-on-Thames]]

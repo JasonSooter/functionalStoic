@@ -2,18 +2,18 @@
 publish: true
 title: Russia
 created: 2026-10-21T04:45:19.000Z
-modified: 2026-11-08T20:15:35.000Z
-published: 2026-11-08T20:15:35.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-21T02:18:22.859Z
+published: 2026-11-21T02:18:22.859Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Russia
@@ -32,6 +32,7 @@ Country spanning eastern Europe and northern Asia.
 - [[Gizhiga]]
 - [[Kalar River]]
 - [[Khonuu]]
+- [[Kilometer Post 836 turnout]]
 - [[Königsberg]]
 - [[Kyzyl]]
 - [[Lake Baikal]]
@@ -45,6 +46,7 @@ Country spanning eastern Europe and northern Asia.
 - [[Plastun Bay]]
 - [[Russky Bridge]]
 - [[Saint Petersburg]]
+- [[Semyonovskoye sanatorium]]
 - [[Sikhote-Alin]]
 - [[Stanovoy Range]]
 - [[Sungir]]

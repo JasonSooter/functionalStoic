@@ -2,8 +2,8 @@
 publish: true
 title: Paris
 created: 2026-07-17T14:36:02.899Z
-modified: 2026-11-16T02:22:14.663Z
-published: 2026-11-16T02:22:14.663Z
+modified: 2026-11-21T02:18:59.608Z
+published: 2026-11-21T02:18:59.608Z
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
@@ -63,6 +63,7 @@ Capital of [[France]]. Each `geo:` link below is a separate map marker in Map Vi
 ## Sub-places
 
 - [[42 Rue Fontaine]]
+- [[Alliance Française (Paris)|Alliance Française]]
 - [[American Hospital of Paris]]
 - [[Avenue de la Grande Armée]]
 - [[Centre Pompidou]]

@@ -2,8 +2,8 @@
 publish: true
 title: Century House
 created: 2026-11-15
-modified: 2026-11-19T02:19:40.014Z
-published: 2026-11-19T02:19:40.014Z
+modified: 2026-11-21T02:20:10.061Z
+published: 2026-11-21T02:20:10.061Z
 aliases:
   - MI6 headquarters (Century House)
 books:
@@ -14,6 +14,7 @@ color: purple
 coordinates: 51.4987,-0.1108
 geo_source: OSM way 23485807
 icon: book
+image: Attachments/Places/Century House.svg
 location:
   - 51.4987
   - -0.1108
@@ -22,7 +23,6 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[London]]"
-image: Attachments/Places/Century House.svg
 ---
 
 # Century House
@@ -42,5 +42,5 @@ Source: [Original](https://openlibrary.org/works/OL19749410W) · [Readwise highl
 > Century House was the headquarters of MI6, and the most secret premises in London. Officially, it did not exist, and nor did MI6.
 
 - **Role:** setting
-- **In the book:** Chapter 5 opens on this "large, ugly" glass-and-concrete block, where the Sovbloc controllerate fills the twelfth floor and the P5 section runs Soviet operations. Veronica Price commutes here from the Home Counties and works out the escape plan for Gordievsky. After he reaches London in 1982, a small group of senior officers gathers here to hear the first results of his debriefing.
+- **In the book:** Chapter 5 opens on this "large, ugly" glass-and-concrete block, where the Sovbloc controllerate fills the twelfth floor and the P5 section runs Soviet operations. Veronica Price commutes here from the Home Counties and works out the escape plan for Gordievsky. After he reaches London in 1982, a small group of senior officers gathers here to hear the first results of his debriefing. On escape day the PIMLICO team waits in P5's office on the twelfth floor for Shawford's call from Finland, and whoops when he reports, "We have ONE guest."
 - **Why it matters:** It is the British end of the case: decisions about the spy, his escape and what to do with his secrets are taken here. Its deliberate dullness matches the book's picture of a service that officially did not exist.
