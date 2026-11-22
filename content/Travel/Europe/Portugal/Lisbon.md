@@ -2,16 +2,12 @@
 publish: true
 title: Lisbon
 created: 2026-07-17T14:36:22.287Z
-modified: 2026-11-08T11:23:37.051Z
-published: 2026-11-08T11:23:37.051Z
-tags:
-  - places
-  - source/ai/claude
-  - place/literary
-socialImage: Attachments/Places/Lisbon.svg
+modified: 2026-11-22T08:23:24.813Z
+published: 2026-11-22T08:23:24.813Z
 books:
   - "[[Candide]]"
   - Robinson Crusoe
+  - A Short History of Nearly Everything
 categories:
   - "[[Places]]"
 color: green
@@ -22,6 +18,10 @@ icon: building-2
 location:
   - 38.7223
   - -9.1393
+tags:
+  - places
+  - source/ai/claude
+  - place/literary
 reading_icon: book
 image: Attachments/Places/Lisbon.svg
 ---
@@ -49,9 +49,9 @@ Capital of [[Portugal]]. Each `geo:` link below is a separate map marker in Map 
 ### FAQ
 
 ---
-
 🙋
 ✨
+
 
 ---
 
@@ -63,8 +63,8 @@ Capital of [[Portugal]]. Each `geo:` link below is a separate map marker in Map 
 
 View of the bridge on the way to [[#Resvés Cowork Space]] along the [Tagus River](https://en.wikipedia.org/wiki/Tagus)
 
-![[Attachments/Travel/25 de Abril Bridge.png]]
-\#🗓️/2023/10/30
+![[25 de Abril Bridge.png]]
+#🗓️/2023/10/30
 
 #### Resvés Co-Work Space
 
@@ -90,11 +90,11 @@ Source highlight: [Readwise](https://readwise.io/open/739134113).
 |---|---|---|---|
 | [[Candide]] | Voltaire | turning point | Candide and Pangloss reach Lisbon as the earthquake strikes; the auto-da-fé follows. |
 | Robinson Crusoe | Daniel Defoe | journey waypoint | Crusoe recovers the fortune from his Brazilian plantation. |
+| A Short History of Nearly Everything | Bill Bryson | subject | The 1755 All Saints' Day earthquake and wave, perhaps the most intense in recorded history; 60,000 die. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.7223\&mlon=-9.1393#map=12/38.7223/-9.1393) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.7223,-9.1393)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.7223&mlon=-9.1393#map=12/38.7223/-9.1393) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.7223,-9.1393)
 
 ## Candide — Voltaire (1759)
-
 Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [Readwise highlight](https://read.readwise.io/read/01m5m758eh76eg7yyx2fbwbp79)
 
 > Scarcely had they reached the city, lamenting the death of their benefactor, when they felt the earth tremble under their feet. The sea swelled and foamed in the harbour, and beat to pieces the vessels riding at anchor.
@@ -104,7 +104,6 @@ Source: [[Candide]] · [Original](https://openlibrary.org/works/OL100672W) · [R
 - **Why it matters:** The book's central disaster and its sharpest attack on optimism, set on a real catastrophe. It also brings in the Inquisition and reunites Candide with Cunegonde.
 
 ## Robinson Crusoe — Daniel Defoe (1719)
-
 Source: [Original](https://openlibrary.org/works/OL45237W) · [Readwise highlight](https://read.readwise.io/read/01m5ne5dnbsrdegv8d7gvyqmdq)
 
 > With this view I took shipping for Lisbon, where I arrived in April following
@@ -112,3 +111,13 @@ Source: [Original](https://openlibrary.org/works/OL45237W) · [Readwise highligh
 - **Role:** journey waypoint
 - **In the book:** After reaching England in June 1687 and finding his family dead, Crusoe sails with Friday to Lisbon in April. There he finds the old Portuguese captain who rescued him off Africa, learns what became of his Brazilian plantation, registers a notarised affidavit that he is alive, and receives the fleet's accounts and goods from Brazil. He rewards the captain, writes to the Prior of St. Augustine, the trustees and his partner, and turns his wealth into bills of exchange before leaving overland.
 - **Why it matters:** Lisbon is the hinge where Crusoe's lost colonial fortune is legally restored, turning the castaway into a rich man.
+
+## A Short History of Nearly Everything — Bill Bryson (2003)
+
+Source: [Original](https://openlibrary.org/works/OL74128W) · [Readwise highlight](https://read.readwise.io/read/01m815acz649q1s0gga1a2tgxb)
+
+> probably the most intense earthquake in recorded history was one that struck—and essentially shook to pieces—Lisbon, Portugal, on All Saints Day (November 1), 1755.
+
+- **Role:** subject
+- **In the book:** Bryson calls the Lisbon earthquake of 1 November 1755 probably the most intense in recorded history. A shock of roughly magnitude 9 shakes the city for seven minutes, the harbour empties and returns as a fifty-foot wave, two more shocks follow, and sixty thousand people die as almost every building falls.
+- **Why it matters:** It is the book's benchmark for earthquake devastation, in a chapter about how unpredictable quakes are.

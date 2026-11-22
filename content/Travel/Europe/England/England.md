@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-11-22T05:22:52.077Z
-published: 2026-11-22T05:22:52.077Z
+modified: 2026-11-22T08:24:20.871Z
+published: 2026-11-22T08:24:20.871Z
 aliases: []
 books:
   - How the West (and the Rest) Got Rich
@@ -126,6 +126,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Tardebigge Locks]]
 - [[Walton-on-Thames]]
 - [[Whitby]]
+- [[White Cliffs of Dover]]
 
 ## At a glance
 | Source | Author | Role | In one line |

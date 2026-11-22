@@ -2,12 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-11-12T05:19:33.000Z
-published: 2026-11-12T05:19:33.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-22T08:24:32.311Z
+published: 2026-11-22T08:24:32.311Z
 aliases: []
 books: []
 categories:
@@ -18,6 +14,10 @@ date created: 2023-12-10T08:50:24-07:00
 date modified: 2026-02-21T09:56:46-07:00
 icon: map
 linter-yaml-title-alias: California
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # California
@@ -35,9 +35,9 @@ California is a state on the US West Coast; this note also groups the literary p
 ## FAQ
 
 ---
-
 🙋
 ✨
+
 
 ---
 
@@ -47,7 +47,7 @@ California is a state on the US West Coast; this note also groups the literary p
 
 With [[Kolt Kane|Kolt]], Kelly, & Ellie
 
-\#🗓️/2016/03/02
+#🗓️/2016/03/02
 
 | Jason |  |  | [[Kolt Kane\|Kolt]] |  |  | Kelly |  |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -96,6 +96,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Emeryville station]]
 - [[Esalen Institute]]
 - [[Fairfax, California]]
+- [[Farallon Islands]]
 - [[Foothill College]]
 - [[Foresthill Bridge]]
 - [[Fountain Valley, California]]

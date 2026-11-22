@@ -2,16 +2,12 @@
 publish: true
 title: Georges Bank
 created: 2025-08-29
-modified: 2026-11-07T06:57:12.000Z
-published: 2026-11-07T06:57:12.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Georges Bank.svg
+modified: 2026-11-22T08:23:32.165Z
+published: 2026-11-22T08:23:32.165Z
 aliases: []
 books:
   - "[[Cod]]"
+  - A Short History of Nearly Everything
 categories:
   - "[[Places]]"
 color: purple
@@ -22,6 +18,10 @@ icon: book
 location:
   - 41.21
   - -67.3811
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 image: Attachments/Places/Georges Bank.svg
 ---
@@ -35,11 +35,11 @@ Shallow fishing bank in the Atlantic off Cape Cod and Nova Scotia. In _Cod_ it i
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Cod]] | Mark Kurlansky | subject | Gloucester's deadly cod ground, split with Canada and, by the 1990s, the last Atlantic bank still fished for cod. |
+| A Short History of Nearly Everything | Bill Bryson | subject | One of the vast cod banks Cabot found, bigger than Massachusetts; part of Bryson's story of overfishing. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.21\&mlon=-67.3811#map=10/41.21/-67.3811) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.21,-67.3811)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.21&mlon=-67.3811#map=10/41.21/-67.3811) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.21,-67.3811)
 
 ## Cod: A Biography of the Fish That Changed the World — Mark Kurlansky (1997)
-
 Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [Readwise highlight](https://read.readwise.io/read/01m5kksda6y3nd3gzvjx24088v)
 
 > From Newfoundland to southern New England, there is a series of shallow areas called banks, the southernmost being Georges Bank off of Massachusetts, which is larger than the state.
@@ -47,3 +47,13 @@ Source: [[Cod]] · [Original](https://www.penguin.co.uk/books/1032753/cod) · [R
 - **Role:** subject
 - **In the book:** A gale in 1862 drowns 120 Gloucester men on the bank in one night. After the 200-mile limits, New England and Nova Scotia fight over it, a few shots are fired, and Canada is awarded the Northeast Peak. By 1994 its cod are at about 40 percent of the 1990 level, and the U.S. closes its part of the Northeast Peak while cutting Gloucester boats' days at sea.
 - **Why it matters:** It shows the collapse reaching the last Atlantic bank that still had cod fishing.
+
+## A Short History of Nearly Everything — Bill Bryson (2003)
+
+Source: [Original](https://openlibrary.org/works/OL74128W)
+
+> Georges Banks off Massachusetts is bigger than the state it abuts.
+
+- **Role:** subject
+- **In the book:** Bryson names Georges Bank off Massachusetts, bigger than the state it abuts, as one of the shallow banks where John Cabot found cod in incredible numbers. It belongs to his account of how the north Atlantic cod stocks were fished almost to nothing.
+- **Why it matters:** A supporting example beside the [[Grand Banks]]; the scale of the bank shows how large the lost fishery was.

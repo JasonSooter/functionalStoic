@@ -2,8 +2,8 @@
 publish: true
 title: Russia
 created: 2026-10-21T04:45:19.000Z
-modified: 2026-11-21T02:18:22.859Z
-published: 2026-11-21T02:18:22.859Z
+modified: 2026-11-22T08:23:56.438Z
+published: 2026-11-22T08:23:56.438Z
 aliases: []
 books: []
 categories:
@@ -33,6 +33,7 @@ Country spanning eastern Europe and northern Asia.
 - [[Kalar River]]
 - [[Khonuu]]
 - [[Kilometer Post 836 turnout]]
+- [[Kola Superdeep Borehole]]
 - [[Königsberg]]
 - [[Kyzyl]]
 - [[Lake Baikal]]

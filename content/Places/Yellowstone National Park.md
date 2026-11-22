@@ -2,17 +2,13 @@
 publish: true
 title: Yellowstone National Park
 created: 2025-03-29
-modified: 2026-11-07T07:02:19.000Z
-published: 2026-11-07T07:02:19.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Yellowstone National Park.svg
+modified: 2026-11-22T08:23:22.281Z
+published: 2026-11-22T08:23:22.281Z
 aliases: []
 books:
   - "What We’re Reading: A Genetic Milestone for Yellowstone’s Bison"
   - Abundance
+  - A Short History of Nearly Everything
 categories:
   - "[[Places]]"
 color: purple
@@ -22,6 +18,10 @@ icon: book
 location:
   - 44.6
   - -110.5
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Wyoming]]"
 image: Attachments/Places/Yellowstone National Park.svg
 ---
@@ -36,11 +36,18 @@ National park in Wyoming, Montana and Idaho, USA (part of [[Wyoming]] here), whi
 |---|---|---|---|
 | What We’re Reading: A Genetic Milestone for Yellowstone’s Bison | RTBC Staff | subject | The park's bison herd was rebuilt in 1902 from several herds and is now reported to be a single, genetically healthy population. |
 | Abundance | Ezra Klein & Derek Thompson | subject | A hot-springs bacterium isolated here in the 1960s later made PCR, and modern diagnostics, possible. |
+| A Short History of Nearly Everything | Bill Bryson | setting | The whole park is the caldera of a supervolcano over a hot spot, Bryson's central case of Earth's hidden danger. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.6\&mlon=-110.5#map=16/44.6/-110.5) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=44.6,-110.5)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=44.6&mlon=-110.5#map=16/44.6/-110.5) · [Google Maps](https://www.google.com/maps/search/?api=1&query=44.6,-110.5)
+
+## Sub-places
+
+- [[Duck Lake (Yellowstone)]]
+- [[Emerald Pool (Yellowstone)]]
+- [[Mammoth Hot Springs]]
+- [[Yellowstone Lake]]
 
 ## What We’re Reading: A Genetic Milestone for Yellowstone’s Bison — RTBC Staff (2025)
-
 Source: [Original](https://reasonstobecheerful.world/what-were-reading-genetic-milestone-yellowstone-bison/) · [Readwise highlight](https://read.readwise.io/read/01m5ebqfy34cgd0739tsa3777j)
 
 > After near-extinction over a century ago, the bison herd in Yellowstone National Park was cobbled together in 1902 from multiple herds in Texas and Montana.
@@ -50,7 +57,6 @@ Source: [Original](https://reasonstobecheerful.world/what-were-reading-genetic-m
 - **Why it matters:** It is the subject of the item, though only as the home of the bison; the text gives no scene there.
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
-
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m755eskksagp9vzxbq1kc2)
 
 > Fortunately, two decades earlier, in the 1960s, biologists in Yellowstone National Park had isolated a hot-springs bacteria that thrived in boiling conditions.
@@ -58,3 +64,13 @@ Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highl
 - **Role:** subject
 - **In the book:** Chapter 4 explains that PCR needed enzymes that survive high heat, and that biologists had isolated a heat-loving bacterium from Yellowstone's hot springs in the 1960s. That bacterium helped launch a revolution in diagnostics and genetics, including the Human Genome Project.
 - **Why it matters:** A small but telling example of how science moves through unplanned connections that no funder would have predicted.
+
+## A Short History of Nearly Everything — Bill Bryson (2003)
+
+Source: [Original](https://openlibrary.org/works/OL74128W) · [Readwise highlight](https://read.readwise.io/read/01m8158j182tcqgtgw8ke8yvk1)
+
+> Yellowstone, it turns out, is a supervolcano. It sits on top of an enormous hot spot, a reservoir of molten rock that rises from at least 125 miles down in the Earth.
+
+- **Role:** setting
+- **In the book:** Bob Christiansen of the USGS cannot find the park's volcano until NASA high-altitude photos show that virtually the whole park, 2.2 million acres, is a caldera more than forty miles across. Bryson explains the hot spot beneath it, the roughly 600,000-year eruption cycle ("Yellowstone, it appears, is due"), the ash that reached Nebraska, and the absence of any evacuation plan; he then tours the park with geologist Paul Doss.
+- **Why it matters:** It is the heart of the chapter on the fire below: the most dangerous place in the book is also a national park full of tourists.
