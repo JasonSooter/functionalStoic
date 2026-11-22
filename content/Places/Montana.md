@@ -2,8 +2,8 @@
 publish: true
 title: Montana
 created: 2026-10-22T14:40:45.000Z
-modified: 2026-11-22T08:23:49.342Z
-published: 2026-11-22T08:23:49.342Z
+modified: 2026-11-22T23:18:30.805Z
+published: 2026-11-22T23:18:30.805Z
 aliases: []
 books: []
 categories:
@@ -26,6 +26,7 @@ US state in the northern Rockies; hub for places from the reading.
 - [[Bozeman, Montana]]
 - [[Drummond, Montana]]
 - [[Hebgen Lake]]
+- [[Hell Creek Formation]]
 - [[Mann Gulch]]
 - [[Museum of the Rockies]]
 - [[Two Medicine Formation]]

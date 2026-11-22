@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-11-22T08:24:20.871Z
-published: 2026-11-22T08:24:20.871Z
+modified: 2026-11-22T23:18:47.007Z
+published: 2026-11-22T23:18:47.007Z
 aliases: []
 books:
   - How the West (and the Rest) Got Rich
@@ -97,6 +97,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Brooks England factory]]
 - [[Buckinghamshire]]
 - [[Caen Hill Locks]]
+- [[Charnwood Forest]]
 - [[Cornwall]]
 - [[Custom House, Liverpool]]
 - [[Durham University]]

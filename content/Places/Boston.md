@@ -2,18 +2,18 @@
 publish: true
 title: Boston
 created: 2026-10-21T13:56:40.000Z
-modified: 2026-10-23T11:13:57.000Z
-published: 2026-10-23T11:13:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-22T23:18:37.482Z
+published: 2026-11-22T23:18:37.482Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Massachusetts]]"
 ---
 
@@ -29,6 +29,7 @@ Capital of Massachusetts, on Massachusetts Bay. It collects places from Jason's 
 - [[Boston Common]]
 - [[Boston Consulting Group]]
 - [[Codman Academy]]
+- [[Deer Island (Boston Harbor)|Deer Island]]
 - [[Harvard Business School]]
 - [[Logan International Airport]]
 - [[Museum of Fine Arts, Boston]]

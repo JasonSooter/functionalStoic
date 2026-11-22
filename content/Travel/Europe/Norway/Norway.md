@@ -2,8 +2,8 @@
 publish: true
 title: Norway
 created: 2025-02-24T04:31:10.411Z
-modified: 2026-11-16T02:22:41.068Z
-published: 2026-11-16T02:22:41.068Z
+modified: 2026-11-22T23:18:39.266Z
+published: 2026-11-22T23:18:39.266Z
 aliases:
   - Norway (literary places)
 books:
@@ -81,6 +81,7 @@ Overall, Norway is characterized by its commitment to sustainability, equality, 
 
 ## Sub-places
 
+- [[Bergen]]
 - [[Finnmark]]
 - [[Hammerfest]]
 - [[Juvet Landscape Hotel]]
