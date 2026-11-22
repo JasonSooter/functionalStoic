@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-11-22T02:19:09.761Z
-published: 2026-11-22T02:19:09.761Z
+modified: 2026-11-22T05:22:52.077Z
+published: 2026-11-22T05:22:52.077Z
 aliases: []
 books:
   - How the West (and the Rest) Got Rich
@@ -99,6 +99,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Caen Hill Locks]]
 - [[Cornwall]]
 - [[Custom House, Liverpool]]
+- [[Durham University]]
 - [[Fort Monckton]]
 - [[Halifax, West Yorkshire]]
 - [[Hampton Court Maze]]

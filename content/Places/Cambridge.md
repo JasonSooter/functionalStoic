@@ -2,8 +2,8 @@
 publish: true
 title: Cambridge
 created: 2026-10-19T22:29:24.000Z
-modified: 2026-11-22T02:18:47.124Z
-published: 2026-11-22T02:18:47.124Z
+modified: 2026-11-22T05:22:35.205Z
+published: 2026-11-22T05:22:35.205Z
 aliases: []
 books: []
 categories:
@@ -23,5 +23,6 @@ University city on the River Cam in eastern England; see also the [[England]] tr
 ## Sub-places
 
 - [[Cambridge Conservation Initiative]]
+- [[Cavendish Laboratory]]
 - [[St John's College, Cambridge]]
 - [[Trinity College, Cambridge]]

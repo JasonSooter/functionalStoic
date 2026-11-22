@@ -2,13 +2,8 @@
 publish: true
 title: Mexico
 created: 2024-12-22T21:32:19.528Z
-modified: 2026-11-10T20:19:09.000Z
-published: 2026-11-10T20:19:09.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Site Headers/Mexico Hero.jpg
+modified: 2026-11-22T05:23:12.040Z
+published: 2026-11-22T05:23:12.040Z
 books: []
 categories:
   - "[[Places]]"
@@ -24,6 +19,10 @@ linter-yaml-title-alias: Mexico
 location:
   - 23.6345
   - -102.5528
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Mexico
@@ -52,6 +51,7 @@ Mexico is a country in North America. It groups the places below that come up in
 ## Sub-places
 
 - [[Aguascalientes]]
+- [[Chicxulub crater]]
 - [[Chihuahua]]
 - [[Coahuila]]
 - [[Cozumel]]

@@ -2,18 +2,18 @@
 publish: true
 title: Texas
 created: 2026-10-20T16:28:47.000Z
-modified: 2026-11-11T20:21:21.000Z
-published: 2026-11-11T20:21:21.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-22T05:23:05.472Z
+published: 2026-11-22T05:23:05.472Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Texas
@@ -42,6 +42,7 @@ US state on the Gulf of Mexico. Hub for literary places in the state.
 - [[Red Rock, Texas]]
 - [[Robert LB Tobin Land Bridge]]
 - [[San Antonio River Walk]]
+- [[Superconducting Super Collider]]
 - [[Sweetwater, Texas]]
 - [[Uvalde, Texas]]
 - [[Wichita Falls]]

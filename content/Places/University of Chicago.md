@@ -1,47 +1,46 @@
 ---
 publish: true
-aliases:
-  - UChicago
 title: University of Chicago
 created: 2016-07-09
-modified: 2026-11-07T06:55:17.000Z
-published: 2026-11-07T06:55:17.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/University of Chicago.svg
+modified: 2026-11-22T05:22:06.390Z
+published: 2026-11-22T05:22:06.390Z
+aliases:
+  - UChicago
 books:
   - "#savings: Can Social Media Nudge Teens into Smarter Money Choices?"
   - "[[Range]]"
+  - A Short History of Nearly Everything
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 41.7897,-87.5997
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/University of Chicago.svg
 location:
   - 41.7897
   - -87.5997
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Chicago]]"
-image: Attachments/Places/University of Chicago.svg
 ---
 
 # University of Chicago
 
-University in the Hyde Park neighbourhood of [[Chicago]]'s South Side. In an article on teen money habits, studying there during the 2008 crash prompts a financial-literacy non-profit.
+University in the Hyde Park neighbourhood of [[Chicago]]'s South Side. In an article on teen money habits, studying there during the 2008 crash prompts a financial-literacy non-profit; _Range_ tests its core curriculum, and _A Short History of Nearly Everything_ starts the dating of the Earth here.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | #savings: Can Social Media Nudge Teens into Smarter Money Choices? | Chris Berdik | turning point | Studying economics here during the 2008 crash, beside a neighbourhood hit by foreclosures. |
 | [[Range\|Range: Why Generalists Triumph in a Specialized World]] | David Epstein | subject | Flynn's alma mater, whose core curriculum is used to argue that even top universities teach too narrowly. |
+| A Short History of Nearly Everything | Bill Bryson | setting | In the 1940s Libby invents radiocarbon dating here and Patterson begins trying to date the Earth. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7897\&mlon=-87.5997#map=16/41.7897/-87.5997) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=41.7897,-87.5997)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.7897&mlon=-87.5997#map=16/41.7897/-87.5997) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.7897,-87.5997)
 
 ## #savings: Can Social Media Nudge Teens into Smarter Money Choices? — Chris Berdik (2016)
-
 Source: [Original](http://ww2.kqed.org/mindshift/2016/03/16/savings-can-social-media-nudge-teens-into-smarter-money-choices/) · [Readwise highlight](https://read.readwise.io/read/01m5j7tfnqf6ryzn91kfkj42st)
 
 > In the fall of 2008, Ted Gonder was studying economics at the University of Chicago as the world economy melted down around him.
@@ -51,7 +50,6 @@ Source: [Original](http://ww2.kqed.org/mindshift/2016/03/16/savings-can-social-m
 - **Why it matters:** It is the origin story of the nonprofit the article profiles.
 
 ## Range: Why Generalists Triumph in a Specialized World — David Epstein (2019)
-
 Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/) · [Readwise highlight](https://read.readwise.io/read/01m5jjsfgrzxreasm1evdax79x)
 
 > Chicago has long prided itself on a core curriculum dedicated to interdisciplinary critical thinking.
@@ -59,3 +57,13 @@ Source: [[Range]] · [Original](https://www.penguinrandomhouse.com/books/550188/
 - **Role:** subject
 - **In the book:** Flynn recalls his own education at the University of Chicago, where he captained the cross-country team. The text examines its two-year core curriculum and Flynn's argument that even there the education did not maximize conceptual thinking across domains.
 - **Why it matters:** It serves as the test case for the claim that even the best, broadest-minded universities push narrow specialization.
+
+## A Short History of Nearly Everything — Bill Bryson (2003)
+
+Source: [Original](https://openlibrary.org/works/OL74128W) · [Readwise highlight](https://read.readwise.io/read/01m80txvqv074wh001rftt2zqg)
+
+> If you were interested in finding out the ages of things, the University of Chicago in the 1940s was the place to be.
+
+- **Role:** setting
+- **In the book:** In the 1940s Chicago is the place to be for dating things: Willard Libby is inventing radiocarbon dating, and Harrison Brown's new method for counting lead isotopes is handed to his graduate student Clair Patterson, who sets out to find the age of the Earth before moving to Caltech.
+- **Why it matters:** It is where the effort to date the Earth gets going.

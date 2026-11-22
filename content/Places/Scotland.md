@@ -2,8 +2,8 @@
 publish: true
 title: Scotland
 created: 2026-10-20T13:48:08.000Z
-modified: 2026-11-22T02:18:45.632Z
-published: 2026-11-22T02:18:45.632Z
+modified: 2026-11-22T05:22:55.073Z
+published: 2026-11-22T05:22:55.073Z
 aliases: []
 books: []
 categories:
@@ -25,6 +25,7 @@ Country of the United Kingdom. Hub for literary places in Scotland.
 - [[Antonine Wall]]
 - [[Aonach Mòr]]
 - [[Balmoral Castle]]
+- [[Ben Nevis]]
 - [[Edinburgh]]
 - [[Falkirk Wheel]]
 - [[Forth and Clyde Canal]]

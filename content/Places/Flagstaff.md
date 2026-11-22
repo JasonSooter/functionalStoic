@@ -2,8 +2,8 @@
 publish: true
 title: Flagstaff
 created: 2025-12-01
-modified: 2026-11-21T23:14:51.653Z
-published: 2026-11-21T23:14:51.653Z
+modified: 2026-11-22T05:22:55.980Z
+published: 2026-11-22T05:22:55.980Z
 aliases:
   - Flagstaff, Arizona
   - Lowell Observatory
@@ -38,6 +38,9 @@ City on the Colorado Plateau in [[Arizona]], home of Lowell Observatory. Its obs
 | A Short History of Nearly Everything | Bill Bryson | setting | Pluto was found here in 1930 at Lowell Observatory, and its moon Charon here in 1978. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=35.1806&mlon=-111.62#map=16/35.1806/-111.62) · [Google Maps](https://www.google.com/maps/search/?api=1&query=35.1806,-111.62)
+
+## Sub-places
+- [[Lowell Observatory]]
 
 ## The vanishing groves — Ross Andersen (2013)
 Source: [Original](https://aeon.co/essays/trees-of-deep-time-are-a-portal-to-the-past-and-the-future) · [Readwise highlight](https://read.readwise.io/read/01m5dqtaw466w0p0bx3ejfytnz)
