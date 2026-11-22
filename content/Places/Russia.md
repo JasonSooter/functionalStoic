@@ -2,8 +2,8 @@
 publish: true
 title: Russia
 created: 2026-10-21T04:45:19.000Z
-modified: 2026-11-22T08:23:56.438Z
-published: 2026-11-22T08:23:56.438Z
+modified: 2026-11-22T20:22:22.597Z
+published: 2026-11-22T20:22:22.597Z
 aliases: []
 books: []
 categories:
@@ -53,6 +53,7 @@ Country spanning eastern Europe and northern Asia.
 - [[Sungir]]
 - [[Tsipa River]]
 - [[Uchur River]]
+- [[Varzina]]
 - [[Vladivostok]]
 - [[Wrangel Island]]
 - [[Zavitinsk]]

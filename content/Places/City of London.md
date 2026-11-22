@@ -2,8 +2,8 @@
 publish: true
 title: City of London
 created: 2019-04-17
-modified: 2026-11-20T02:16:57.257Z
-published: 2026-11-20T02:16:57.257Z
+modified: 2026-11-22T20:22:37.491Z
+published: 2026-11-22T20:22:37.491Z
 aliases:
   - Square Mile
 books:
@@ -40,6 +40,7 @@ The historic 'Square Mile' financial district of London. Fast Company describes 
 
 - [[Fleet Street]]
 - [[Fordson Community Singery (Brave New World)]]
+- [[Founders' Hall (Lothbury)|Founders' Hall]]
 - [[Old Bailey]]
 - [[Steelyard]]
 

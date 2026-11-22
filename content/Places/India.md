@@ -2,13 +2,8 @@
 publish: true
 title: India
 created: 2024-11-03
-modified: 2026-11-07T06:53:50.000Z
-published: 2026-11-07T06:53:50.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/India.svg
+modified: 2026-11-22T20:22:18.869Z
+published: 2026-11-22T20:22:18.869Z
 aliases: []
 books:
   - Planes, trains, and smartphones – Bill Gates
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 21
   - 78
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/India.svg
 ---
 
@@ -30,12 +29,11 @@ image: Attachments/Places/India.svg
 Country in South Asia. Hub for literary places in the country.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Planes, trains, and smartphones – Bill Gates | Bill Gates | subject | India's Aadhaar ID and UPI payments as digital public infrastructure. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21\&mlon=78#map=11/21/78) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=21,78)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=21&mlon=78#map=11/21/78) · [Google Maps](https://www.google.com/maps/search/?api=1&query=21,78)
 
 ## Sub-places
 
@@ -59,6 +57,7 @@ Country in South Asia. Hub for literary places in the country.
 - [[Mumbai]]
 - [[New Delhi]]
 - [[Odisha]]
+- [[Old Goa]]
 - [[Pagoda of Pillaji (Around the World in Eighty Days)]]
 - [[Prayagraj]]
 - [[Pune]]
@@ -75,7 +74,6 @@ Country in South Asia. Hub for literary places in the country.
 - [[Zojila Tunnel]]
 
 ## Planes, trains, and smartphones – Bill Gates — Bill Gates (2024)
-
 Source: [Original](https://www.gatesnotes.com/Digital-public-infrastructure) · [Readwise highlight](https://read.readwise.io/read/01m5f0rwfs1mwqc4k018z10gcc)
 
 > Take India, where I spent time earlier this year. The country’s digital ID system, Aadhaar, gives every resident the ability to prove who they are, while its Unified Payments Interface facilitates instant payment via mobile phone.
