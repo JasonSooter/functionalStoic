@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2016-04-07
-modified: 2026-11-20T02:17:16.759Z
-published: 2026-11-20T02:17:16.759Z
+modified: 2026-11-22T02:18:43.635Z
+published: 2026-11-22T02:18:43.635Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -57,9 +57,12 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Century House]]
 - [[Charing-T Tower (Brave New World)]]
 - [[City of London]]
+- [[Clapham Common]]
 - [[Crossness Pumping Station]]
 - [[Croydon]]
+- [[Crystal Palace Dinosaurs]]
 - [[Design Museum (Shad Thames)]]
+- [[Freemasons' Tavern]]
 - [[Grenfell Tower]]
 - [[Half Moon Street]]
 - [[Hampstead]]
@@ -90,6 +93,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Royal Agricultural Hall]]
 - [[Royal Albert Hall]]
 - [[Royal Festival Hall]]
+- [[Royal Institution]]
 - [[Royal Observatory, Greenwich]]
 - [[Savile Row]]
 - [[Seven Kings station]]
@@ -100,6 +104,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Tate Modern]]
 - [[The Hospital Club]]
 - [[The Serpentine]]
+- [[Tower of London]]
 - [[Upper Grosvenor Street]]
 - [[Victoria Embankment]]
 - [[Victoria Road (Coulsdon)]]

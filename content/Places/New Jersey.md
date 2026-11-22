@@ -2,8 +2,8 @@
 publish: true
 title: New Jersey
 created: 2026-10-20T07:53:42.000Z
-modified: 2026-11-21T23:15:03.166Z
-published: 2026-11-21T23:15:03.166Z
+modified: 2026-11-22T02:19:05.660Z
+published: 2026-11-22T02:19:05.660Z
 aliases: []
 books: []
 categories:
@@ -49,4 +49,5 @@ US state between New York and Pennsylvania. Hub for literary places in the state
 - [[Sourland Mountain]]
 - [[Spacetown (The Caves of Steel)]]
 - [[Voorhees State Park]]
+- [[Woodbury Creek]]
 - [[Yeast-town (The Caves of Steel)]]

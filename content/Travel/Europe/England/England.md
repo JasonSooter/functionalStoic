@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-11-21T02:18:57.568Z
-published: 2026-11-21T02:18:57.568Z
+modified: 2026-11-22T02:19:09.761Z
+published: 2026-11-22T02:19:09.761Z
 aliases: []
 books:
   - How the West (and the Rest) Got Rich
@@ -110,6 +110,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Kirkdale Cave]]
 - [[Leicester]]
 - [[Liverpool and Manchester Railway]]
+- [[Lyme Regis]]
 - [[Manchester]]
 - [[Molesey Lock]]
 - [[Norfolk]]

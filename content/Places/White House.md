@@ -2,29 +2,29 @@
 publish: true
 title: White House
 created: 2015-11-28
-modified: 2026-11-07T07:00:53.000Z
-published: 2026-11-07T07:00:53.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/White House.svg
+modified: 2026-11-22T02:18:19.067Z
+published: 2026-11-22T02:18:19.067Z
 aliases: []
 books:
   - "[[Peace Corps - The Great Adventure]]"
   - How Did President Zachary Taylor Actually Die?
   - Abundance
+  - A Short History of Nearly Everything
 categories:
   - "[[Places]]"
 color: purple
 coordinates: 38.8978,-77.0364
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/White House.svg
 location:
   - 38.8978
   - -77.0364
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Washington DC]]"
-image: Attachments/Places/White House.svg
 ---
 
 # White House
@@ -38,11 +38,11 @@ Residence of the US president in [[Washington DC]], which appears in the reading
 | [[Peace Corps - The Great Adventure\|Peace Corps: The Great Adventure]] | Peace Corps | setting | A state-visit thank-you that saved the Peace Corps budget. |
 | How Did President Zachary Taylor Actually Die? | Zachary Crockett | setting | Taylor falls ill after supper on July 4, 1850 and dies here five days later. |
 | Abundance | Ezra Klein & Derek Thompson | turning point | Where Vannevar Bush pitched the OSRD to Roosevelt in 1940, and where Reagan later removed Carter's solar panels. |
+| A Short History of Nearly Everything | Bill Bryson | setting | The young, penniless Michelson waits at the door to walk with President Grant and talks his way into the Naval Academy. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8978\&mlon=-77.0364#map=16/38.8978/-77.0364) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=38.8978,-77.0364)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=38.8978&mlon=-77.0364#map=16/38.8978/-77.0364) · [Google Maps](https://www.google.com/maps/search/?api=1&query=38.8978,-77.0364)
 
 ## Peace Corps: The Great Adventure — Peace Corps (2002)
-
 Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.org/works/OL16050643W) · [Readwise highlight](https://read.readwise.io/read/01m5ce5jse03861h7j94asy3kv)
 
 > In 1983, I was invited to the White House for the state visit of Prime Minister Ratu Mara of Fiji. Everyone took their seats around an enormous table-President Reagan, Vice President Bush, Caspar Weinberger, the rest of the Cabinet, with the prime minister and his delegation, and myself.
@@ -52,7 +52,6 @@ Source: [[Peace Corps - The Great Adventure]] · [Original](https://openlibrary.
 - **Why it matters:** The anecdote shows the agency's survival turning on one personal moment in the room.
 
 ## How Did President Zachary Taylor Actually Die? — Zachary Crockett (2015)
-
 Source: [Original](https://priceonomics.com/how-did-president-zachary-taylor-actually-die/) · [Readwise highlight](https://read.readwise.io/read/01m5g8vwncn4dfwapw470naphp)
 
 > On July 4th, 1850, at around 4 o'clock in the afternoon, Zachary Taylor returned to the White House for supper.
@@ -62,7 +61,6 @@ Source: [Original](https://priceonomics.com/how-did-president-zachary-taylor-act
 - **Why it matters:** It is the scene of the death the whole article investigates.
 
 ## Abundance — Ezra Klein & Derek Thompson (2025)
-
 Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highlight](https://read.readwise.io/read/01m5m75a7tt43m1vrqq61x99tc)
 
 > In June 1940, as the German army invaded and occupied Paris, the eminent engineer Vannevar Bush delivered grave news to President Franklin D. Roosevelt in an urgent White House meeting: America was technologically unprepared to take on the Axis powers.
@@ -70,3 +68,13 @@ Source: [Original](https://openlibrary.org/works/OL44034521W) · [Readwise highl
 - **Role:** turning point
 - **In the book:** In June 1940 Vannevar Bush hands Roosevelt a one-page proposal in a White House meeting, which becomes the Office of Scientific Research and Development. Chapter 5 adds that in 1986 Reagan removed the solar hot-water panels Jimmy Carter had installed on the White House roof, and that Operation Warp Speed was launched in a Rose Garden kickoff in May 2020.
 - **Why it matters:** It marks the beginnings and the reversals of the federal science policy the book wants to revive.
+
+## A Short History of Nearly Everything — Bill Bryson (2003)
+
+Source: [Original](https://openlibrary.org/works/OL74128W) · [Readwise highlight](https://read.readwise.io/read/01m80gjjdabxpydeaqqwzjr7fx)
+
+> took to loitering by the front door of the White House so that he could fall in beside President Ulysses S. Grant when the President emerged for his daily constitutional.
+
+- **Role:** setting
+- **In the book:** Before the ether experiments, the young Albert Michelson travels to Washington and loiters by the White House door to fall in beside Ulysses S. Grant on his daily walk. Grant helps him to a free place at the US Naval Academy, where he learns physics.
+- **Why it matters:** A small anecdote of pluck: without the walk, no physicist, and no Michelson-Morley experiment.
