@@ -1,19 +1,15 @@
 ---
 publish: true
-aliases:
-  - Disney Hall
 title: Walt Disney Concert Hall
 created: 2015-11-28
-modified: 2026-11-07T06:58:44.000Z
-published: 2026-11-07T06:58:44.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Walt Disney Concert Hall.svg
+modified: 2026-11-23T11:19:54.439Z
+published: 2026-11-23T11:19:54.439Z
+aliases:
+  - Disney Hall
 books:
   - "[[Walkable City]]"
   - The Software Behind Frank Gehry’s Geometrically Complex Architecture
+  - Happy City
 categories:
   - "[[Places]]"
 color: purple
@@ -23,6 +19,10 @@ icon: book
 location:
   - 34.0553
   - -118.25
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Los Angeles]]"
 image: Attachments/Places/Walt Disney Concert Hall.svg
 ---
@@ -37,11 +37,11 @@ Walt Disney Concert Hall is a building in Los Angeles. It turns up in Walkable C
 |---|---|---|---|
 | [[Walkable City]] | Jeff Speck | subject | Speck uses Gehry's Disney Hall as an example of a building whose perimeter is mostly blank wall. |
 | The Software Behind Frank Gehry’s Geometrically Complex Architecture | Priceonomics | subject | Over-budget bids nearly sank the hall until Gehry's CATIA methods got it built, opening in 2003. |
+| Happy City | Charles Montgomery | subject | A $110 million garage under the hall lets concertgoers skip the street entirely, so Bunker Hill stays desolate. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0553\&mlon=-118.25#map=16/34.0553/-118.25) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=34.0553,-118.25)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=34.0553&mlon=-118.25#map=16/34.0553/-118.25) · [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0553,-118.25)
 
 ## Walkable City — Jeff Speck (2012)
-
 Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695M/Walkable_City) · [Readwise highlight](https://read.readwise.io/read/01m5fbp37fkt48a0z1qpzfc19c)
 
 > His Disney Hall, in Los Angeles, has about fifteen hundred feet of perimeter, perhaps one thousand feet of which is blank wall of the most slippery sort.
@@ -51,7 +51,6 @@ Source: [[Walkable City]] · [Original](https://openlibrary.org/books/OL36883695
 - **Why it matters:** A second example in the 'slippery edges' argument. It is brief and minor next to Bilbao.
 
 ## The Software Behind Frank Gehry’s Geometrically Complex Architecture — Priceonomics (2015)
-
 Source: [Original](http://priceonomics.com/the-software-behind-frank-gehrys-geometrically/) · [Readwise highlight](https://read.readwise.io/read/01m5g0dy35tp2159y8z5c3s9x3)
 
 > Meanwhile, Gehry had been struggling with a larger project: the Walt Disney Concert Hall in Los Angeles.
@@ -59,3 +58,12 @@ Source: [Original](http://priceonomics.com/the-software-behind-frank-gehrys-geom
 - **Role:** subject
 - **In the article:** Contractors' 1994 bids came in at about double the budget, a public scandal; Gehry returned with the CATIA-based methods proven in Bilbao and the hall opened in 2003 to acclaim.
 - **Why it matters:** The hall is the article's main example of how the software made Gehry's forms buildable.
+
+## Happy City — Charles Montgomery (2013)
+Source: [Original](https://openlibrary.org/works/OL21093281W) · [Readwise highlight](https://read.readwise.io/read/01m841xky67aaww9qdh44z7zra)
+
+> The city raised $110 million in bonds to build space for more than two thousand cars—six levels of parking right beneath the hall.
+
+- **Role:** subject
+- **In the book:** Civic boosters hoped Gehry's hall would bring life to Bunker Hill, in a downtown said to have more parking per acre than anywhere on earth. The six-level garage beneath it saddles the Los Angeles Philharmonic with 128 concerts a season to service the debt, and, as parking scholar Donald Shoup notes, people who drive to the hall never actually leave the building, so the surrounding streets stay empty.
+- **Why it matters:** It is the book's example of how easy, built-in parking kills the street life a landmark was meant to create.

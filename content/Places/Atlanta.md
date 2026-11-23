@@ -2,8 +2,8 @@
 publish: true
 title: Atlanta
 created: 2026-10-20T07:34:58.000Z
-modified: 2026-11-23T08:24:44.691Z
-published: 2026-11-23T08:24:44.691Z
+modified: 2026-11-23T11:20:18.151Z
+published: 2026-11-23T11:20:18.151Z
 aliases: []
 books:
   - Happy City
@@ -37,10 +37,13 @@ Capital of the US state of Georgia. In _Happy City_ it is the case study of how 
 ## Sub-places
 
 - [[AmericasMart]]
+- [[Atlantic Station]]
 - [[Buford Highway (Atlanta)]]
 - [[Garnett Station Plaza]]
 - [[Hartsfield–Jackson Atlanta International Airport]]
 - [[Historic Fourth Ward Park]]
+- [[Midtown Atlanta]]
+- [[Peachtree Center]]
 - [[Ponce City Market]]
 
 ## Happy City — Charles Montgomery (2013)

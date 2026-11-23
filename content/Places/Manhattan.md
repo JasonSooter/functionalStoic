@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2016-07-30
-modified: 2026-11-23T08:19:52.206Z
-published: 2026-11-23T08:19:52.206Z
+modified: 2026-11-23T11:20:14.852Z
+published: 2026-11-23T11:20:14.852Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -53,6 +53,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[Dalton School]]
 - [[Dwight School]]
 - [[Garment District]]
+- [[General Motors Building]]
 - [[Grand Central Terminal]]
 - [[Greenwich Village]]
 - [[Hampshire House]]
@@ -70,8 +71,10 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[New York City Center]]
 - [[Ninth Avenue (Manhattan)]]
 - [[NYU Stern School of Business]]
+- [[Park Avenue (Manhattan)|Park Avenue]]
 - [[Polo Grounds]]
 - [[Port Authority Bus Terminal]]
+- [[Rockefeller Center]]
 - [[Sheraton New York Times Square Hotel]]
 - [[The Battery (Manhattan)]]
 - [[The Four Seasons Restaurant]]

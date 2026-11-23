@@ -2,8 +2,8 @@
 publish: true
 title: Copenhagen
 created: 2026-10-21T11:09:08.000Z
-modified: 2026-11-23T08:19:58.887Z
-published: 2026-11-23T08:19:58.887Z
+modified: 2026-11-23T11:20:26.957Z
+published: 2026-11-23T11:20:26.957Z
 aliases:
   - København
 books:
@@ -172,6 +172,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 - [[Sankt Annæ Plads]]
 - [[SAS hotel (The Spy and the Traitor)|SAS hotel (The Spy and the Traitor)]]
 - [[Soviet Embassy in Copenhagen]]
+- [[Strøget]]
 - [[Tivoli Gardens]]
 - [[Vesterbro]]
 - [[Værnedamsvej]]

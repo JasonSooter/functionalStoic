@@ -2,8 +2,8 @@
 publish: true
 title: Lower East Side
 created: 2024-05-18
-modified: 2026-11-23T08:19:08.658Z
-published: 2026-11-23T08:19:08.658Z
+modified: 2026-11-23T11:20:16.136Z
+published: 2026-11-23T11:20:16.136Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -42,6 +42,7 @@ Lower East Side is a historically Jewish neighborhood in Manhattan. It turns up 
 
 - [[Allen Street (Manhattan)|Allen Street]]
 - [[M'Finda Kalunga Garden]]
+- [[Whole Foods Market (East Houston Street)]]
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcqky32gk5b569xkdg3x3r)
