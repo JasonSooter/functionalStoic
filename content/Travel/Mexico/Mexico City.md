@@ -2,11 +2,12 @@
 publish: true
 title: Mexico City
 created: 2024-12-22T21:32:36.142Z
-modified: 2026-11-23T11:20:22.046Z
-published: 2026-11-23T11:20:22.046Z
+modified: 2026-11-23T14:20:50.862Z
+published: 2026-11-23T14:20:50.862Z
 books:
   - Retiring Abroad – Could We Do It?
   - Eating Our Way Across Mexico
+  - Happy City
 categories:
   - "[[Places]]"
 color: green
@@ -24,7 +25,7 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[Mexico]]"
-reading_icon: newspaper
+reading_icon: book
 image: Attachments/Places/Mexico City.svg
 ---
 
@@ -70,6 +71,7 @@ In [[Mexico City]], the things we enjoyed the most were:
 |---|---|---|---|
 | Retiring Abroad – Could We Do It? | JustinRoG | subject | Rented apartment that is the family's base for comparing the cost of life in Mexico with Raleigh. |
 | Eating Our Way Across Mexico | JustinRoG | backdrop | One-dollar burgers, a supermarket bakery and a pastry shop worth two visits. |
+| Happy City | Charles Montgomery | subject | Mayor Ebrard copies Paris Plages, Bogotá's Ciclovía and rapid buses, and plans 186 miles of road space for cyclists. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=19.4326&mlon=-99.1332#map=11/19.4326/-99.1332) · [Google Maps](https://www.google.com/maps/search/?api=1&query=19.4326,-99.1332)
 
@@ -116,3 +118,12 @@ Source: [Original](http://rootofgood.com/amazing-food-mexico/) · [Readwise high
 - **Role:** backdrop
 - **In the article:** In the family's food tour of their Mexico trip, Mexico City supplies the one-dollar burger stand, a Bodega Aurrera bakery and a pastry shop they visit twice.
 - **Why it matters:** One of three cities in a post about eating well cheaply; the city itself is backdrop.
+
+## Happy City — Charles Montgomery (2013)
+Source: [Original](https://openlibrary.org/works/OL21093281W) · [Readwise highlight](https://read.readwise.io/read/01m84c87rmxpye9yg0keen56ss)
+
+> Mexico City has caught the happiness bug, too.
+
+- **Role:** subject
+- **In the book:** Chapter 11, "Everything Is Connected to Everything Else". Mayor Marcelo Ebrard built a giant ice rink and igloos on the central plaza so poor residents could enjoy a white Christmas, built replicas of Paris Plages, and launched a version of Bogotá's Ciclovía that closes miles of downtown roads on Sundays. He copied Bogotá's rapid buses and called in Gil Peñalosa and Jan Gehl to plan 186 miles of road space for cyclists. Chapter 10 also has a brief scene on the Ciclovía, where a driver shouts that the closed road violates her human rights.
+- **Why it matters:** Mexico City shows the happy-city ideas from Bogotá and Paris spreading, with climate and safety goals bundled into the same programme.

@@ -2,8 +2,8 @@
 publish: true
 title: Paris
 created: 2026-07-17T14:36:02.899Z
-modified: 2026-11-23T05:21:40.621Z
-published: 2026-11-23T05:21:40.621Z
+modified: 2026-11-23T14:22:03.314Z
+published: 2026-11-23T14:22:03.314Z
 books:
   - Neither Here Nor There
   - "[[How '15-Minute Cities' Will Change the Way We Socialise]]"
@@ -73,7 +73,9 @@ Capital of [[France]]. Each `geo:` link below is a separate map marker in Map Vi
 - [[Hôtel Meurice]]
 - [[La Zone (Paris)]]
 - [[Louvre]]
+- [[Luxembourg Gardens]]
 - [[Palais-Royal]]
+- [[Place de la Bastille]]
 - [[Place de la Concorde]]
 - [[Rives de Seine]]
 - [[Rue Dauphine]]

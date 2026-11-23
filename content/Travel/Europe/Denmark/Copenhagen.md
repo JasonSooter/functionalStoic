@@ -2,8 +2,8 @@
 publish: true
 title: Copenhagen
 created: 2026-10-21T11:09:08.000Z
-modified: 2026-11-23T11:20:26.957Z
-published: 2026-11-23T11:20:26.957Z
+modified: 2026-11-23T14:22:11.824Z
+published: 2026-11-23T14:22:11.824Z
 aliases:
   - København
 books:
@@ -152,6 +152,8 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=55.6761&mlon=12.5683#map=12/55.6761/12.5683) · [Google Maps](https://www.google.com/maps/search/?api=1&query=55.6761,12.5683)
 
 ## Sub-places
+
+- [[Amager Bakke]]
 
 - [[Ballerup]]
 - [[Charlottenlund]]

@@ -2,8 +2,8 @@
 publish: true
 title: Atlanta
 created: 2026-10-20T07:34:58.000Z
-modified: 2026-11-23T11:20:18.151Z
-published: 2026-11-23T11:20:18.151Z
+modified: 2026-11-23T14:21:34.648Z
+published: 2026-11-23T14:21:34.648Z
 aliases: []
 books:
   - Happy City
@@ -42,6 +42,7 @@ Capital of the US state of Georgia. In _Happy City_ it is the case study of how 
 - [[Garnett Station Plaza]]
 - [[Hartsfield–Jackson Atlanta International Airport]]
 - [[Historic Fourth Ward Park]]
+- [[Mableton]]
 - [[Midtown Atlanta]]
 - [[Peachtree Center]]
 - [[Ponce City Market]]

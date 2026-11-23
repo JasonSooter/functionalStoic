@@ -2,8 +2,8 @@
 publish: true
 title: Vancouver
 created: 2017-02-05
-modified: 2026-11-23T08:18:31.606Z
-published: 2026-11-23T08:18:31.606Z
+modified: 2026-11-23T14:21:09.004Z
+published: 2026-11-23T14:21:09.004Z
 aliases: []
 books:
   - Why Successful People Spend 10 Hours A Week Just Thinking
@@ -41,9 +41,12 @@ City in British Columbia, Canada. It is Brian Scudamore's thinking-day city, and
 
 - [[Commercial Drive]]
 - [[Gastown]]
+- [[Lonsdale Avenue]]
+- [[Olympic Village (Vancouver)|Olympic Village]]
 - [[Seymour Creek Indian Reserve 2]]
 - [[Stanley Park]]
 - [[The 501 (Yaletown)|The 501]]
+- [[Woodward's Building]]
 
 ## Why Successful People Spend 10 Hours A Week Just Thinking — Brian Scudamore (2016)
 Source: [Original](https://medium.com/@BrianScudamore/why-successful-people-spend-10-hours-a-week-just-thinking-79a5b16eb404) · [Readwise highlight](https://read.readwise.io/read/01m5jkzfjq9s4vzm0q7n0xtdz1)
