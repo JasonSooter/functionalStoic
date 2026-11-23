@@ -2,8 +2,8 @@
 publish: true
 title: Berlin
 created: 2016-06-27
-modified: 2026-11-18T02:19:36.330Z
-published: 2026-11-18T02:19:36.330Z
+modified: 2026-11-23T08:19:56.280Z
+published: 2026-11-23T08:19:56.280Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -48,6 +48,7 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 - [[Berlin Ostbahnhof]]
 - [[Berlin Palace]]
 - [[Berlin Tegel Airport]]
+- [[Berolina (Berlin)]]
 - [[Brandenburg Gate]]
 - [[Checkpoint Charlie]]
 - [[Karl-Marx-Allee]]

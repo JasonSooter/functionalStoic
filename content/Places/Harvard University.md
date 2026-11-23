@@ -2,8 +2,8 @@
 publish: true
 title: Harvard University
 created: 2025-12-07
-modified: 2026-11-23T02:21:49.546Z
-published: 2026-11-23T02:21:49.546Z
+modified: 2026-11-23T08:18:58.629Z
+published: 2026-11-23T08:18:58.629Z
 aliases: []
 books:
   - The Queen of Code | Documentary
@@ -39,6 +39,8 @@ University in Cambridge, [[Massachusetts]], USA. It is where Grace Hopper's comp
 ## Sub-places
 
 - [[Harvard Law School]]
+- [[Lowell House]]
+- [[Mather House]]
 - [[Museum of Comparative Zoology]]
 
 ## The Queen of Code | Documentary — Data The Destroyer

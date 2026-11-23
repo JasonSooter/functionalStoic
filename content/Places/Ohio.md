@@ -2,8 +2,8 @@
 publish: true
 title: Ohio
 created: 2026-10-21T04:45:15.000Z
-modified: 2026-11-22T05:22:49.225Z
-published: 2026-11-22T05:22:49.225Z
+modified: 2026-11-23T08:18:56.708Z
+published: 2026-11-23T08:18:56.708Z
 aliases: []
 books: []
 categories:
@@ -30,6 +30,7 @@ U.S. state.
 - [[Columbus, Ohio]]
 - [[Coshocton, Ohio]]
 - [[Dayton]]
+- [[Euclid, Ohio]]
 - [[Lakewood, Ohio]]
 - [[Main Street (Akron)]]
 - [[River View High School (Coshocton County)]]

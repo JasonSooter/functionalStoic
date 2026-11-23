@@ -2,8 +2,8 @@
 publish: true
 title: Copenhagen
 created: 2026-10-21T11:09:08.000Z
-modified: 2026-11-18T02:19:44.083Z
-published: 2026-11-18T02:19:44.083Z
+modified: 2026-11-23T08:19:58.887Z
+published: 2026-11-23T08:19:58.887Z
 aliases:
   - København
 books:
@@ -162,6 +162,7 @@ _Added 2026-09-25 by Claude (`source/ai/claude`). Superlist task `94082b35-0cd4-
 - [[Gråbrødretorv]]
 - [[Hirschsprung Collection]]
 - [[La Glace (Copenhagen)]]
+- [[Mountain Dwellings]]
 - [[Noma]]
 - [[Novo Nordisk headquarters (Bagsværd)]]
 - [[Nyhavn]]

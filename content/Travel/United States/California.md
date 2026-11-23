@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-11-23T05:21:50.065Z
-published: 2026-11-23T05:21:50.065Z
+modified: 2026-11-23T08:19:25.545Z
+published: 2026-11-23T08:19:25.545Z
 aliases: []
 books: []
 categories:
@@ -156,6 +156,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Steamer Lane]]
 - [[Stockton, California]]
 - [[Tesla Fremont Factory]]
+- [[Tracy, California]]
 - [[Travis Air Force Base]]
 - [[Truckee River]]
 - [[Tulare, California]]
