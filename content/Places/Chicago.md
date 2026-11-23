@@ -2,8 +2,8 @@
 publish: true
 title: Chicago
 created: 2015-06-22
-modified: 2026-11-23T08:20:34.785Z
-published: 2026-11-23T08:20:34.785Z
+modified: 2026-11-23T17:18:25.908Z
+published: 2026-11-23T17:18:25.908Z
 aliases:
   - Chicawgo
 books:
@@ -14,6 +14,7 @@ books:
   - The Chicago Bungalow
   - How A Million Dollars Bought Me Happiness
   - "[[The Martian]]"
+  - Happy City
 categories:
   - "[[Places]]"
 color: purple
@@ -45,6 +46,7 @@ City on Lake Michigan in [[Illinois]], USA, and the northern escape route in Ric
 | The Chicago Bungalow | David Friedlander | subject | The modest, dense brick bungalow built by the tens of thousands for immigrant families. |
 | How A Million Dollars Bought Me Happiness | Mr. 1500 | turning point | Where he wanders, numb, on the day his portfolio passes $1 million. |
 | [[The Martian]] | Andy Weir | setting | A cutaway to a middle-aged couple in Chicago watching the rescue on TV. |
+| Happy City | Charles Montgomery | turning point | The 1995 heat wave, where isolation proved deadly, sends Jan Semenza home to build neighbourhood ties. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=41.8819&mlon=-87.6278#map=11/41.8819/-87.6278) · [Google Maps](https://www.google.com/maps/search/?api=1&query=41.8819,-87.6278)
 
@@ -119,3 +121,12 @@ Source: [[The Martian]] · [Original](https://openlibrary.org/works/OL17091839W)
 - **Role:** setting
 - **In the book:** During the MAV launch the narrative cuts to Chicago, where a middle-aged couple clutch each other's hands as they watch the story play out on television. A NASA representative stands by to answer questions. After Watney is aboard Hermes, the same couple embrace in relief and pull the NASA representative into a group hug.
 - **Why it matters:** Chicago is the one named city where a scene plays out on Earth beyond Houston, giving the human, family-level view of the rescue.
+
+## Happy City — Charles Montgomery (2013)
+Source: [Original](https://openlibrary.org/works/OL21093281W) · [Readwise highlight](https://read.readwise.io/read/01m84phag5b2v7d2gfyr1ege1w)
+
+> Semenza and his team of eighty investigators, including his wife, Lisa Weasel, fanned out across the city, interviewing the families and friends of those who died.
+
+- **Role:** turning point
+- **In the book:** Chapter 13. During the July 1995 heat wave, the CDC sends epidemiologist Jan Semenza to Chicago; by the time he lands at O'Hare, seven hundred people have died of the heat. His team interviews the families and friends of the dead. In the red, dim lobby of a run-down residential hotel, the manager can tell them nothing about a man who died upstairs: he was totally alone.
+- **Why it matters:** The investigation found that isolation made the heat deadly, and it sends Semenza home to Portland to rebuild neighbourly ties at [[Sunnyside Piazza]].

@@ -2,18 +2,18 @@
 publish: true
 title: New York State
 created: 2026-10-20T22:55:57.000Z
-modified: 2026-10-23T07:54:40.000Z
-published: 2026-10-23T07:54:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-23T17:17:57.426Z
+published: 2026-11-23T17:17:57.426Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # New York State
@@ -33,6 +33,7 @@ US state; see also [[New York City]].
 - [[Hill Cumorah]]
 - [[Little Falls, New York]]
 - [[Lockport Locks]]
+- [[Maple Avenue Middle School]]
 - [[Mohawk Valley]]
 - [[Montezuma Marsh]]
 - [[Oneida Carry]]

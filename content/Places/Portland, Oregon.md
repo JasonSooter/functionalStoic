@@ -2,8 +2,8 @@
 publish: true
 title: Portland, Oregon
 created: 2015-11-20
-modified: 2026-11-23T14:20:36.890Z
-published: 2026-11-23T14:20:36.890Z
+modified: 2026-11-23T17:18:05.119Z
+published: 2026-11-23T17:18:05.119Z
 aliases:
   - Portland
 books:
@@ -66,7 +66,9 @@ City on the Willamette River in [[Oregon]], which shows up in the reading as Ame
 - [[Marysville School (Portland)]]
 - [[Pambiche]]
 - [[Portland Streetcar]]
+- [[Share-It-Square]]
 - [[Star Theater (Portland)]]
+- [[Sunnyside Piazza]]
 
 ## It's All About the Bike — Robert Penn (2010)
 Source: [[It's All About the Bike]] · [Original](https://openlibrary.org/works/OL21030895W) · [Readwise highlight](https://read.readwise.io/read/01m5bs7mmaas76thxcxxjtykx8)

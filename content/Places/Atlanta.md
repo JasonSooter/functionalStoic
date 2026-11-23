@@ -2,8 +2,8 @@
 publish: true
 title: Atlanta
 created: 2026-10-20T07:34:58.000Z
-modified: 2026-11-23T14:21:34.648Z
-published: 2026-11-23T14:21:34.648Z
+modified: 2026-11-23T17:17:50.982Z
+published: 2026-11-23T17:17:50.982Z
 aliases: []
 books:
   - Happy City
@@ -46,6 +46,7 @@ Capital of the US state of Georgia. In _Happy City_ it is the case study of how 
 - [[Midtown Atlanta]]
 - [[Peachtree Center]]
 - [[Ponce City Market]]
+- [[Smyrna Market Village]]
 
 ## Happy City — Charles Montgomery (2013)
 Source: [Original](https://openlibrary.org/works/OL21093281W) · [Readwise highlight](https://read.readwise.io/read/01m83qhx3jf0ke9k4qcsbt97kz)
