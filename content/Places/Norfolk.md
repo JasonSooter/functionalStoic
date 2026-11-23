@@ -2,18 +2,18 @@
 publish: true
 title: Norfolk
 created: 2026-10-21T11:07:37.000Z
-modified: 2026-10-23T22:39:07.000Z
-published: 2026-10-23T22:39:07.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-23T23:16:10.501Z
+published: 2026-11-23T23:16:10.501Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
 ---
 
@@ -25,6 +25,7 @@ County in East Anglia, England.
 
 - [[Aylsham]]
 - [[Great Yarmouth Workhouse]]
+- [[Lynford Hall]]
 - [[River Yare]]
 - [[Sandringham]]
 - [[Yarmouth Roads]]

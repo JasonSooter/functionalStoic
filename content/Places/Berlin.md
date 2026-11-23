@@ -2,8 +2,8 @@
 publish: true
 title: Berlin
 created: 2016-06-27
-modified: 2026-11-23T08:19:56.280Z
-published: 2026-11-23T08:19:56.280Z
+modified: 2026-11-23T23:16:05.933Z
+published: 2026-11-23T23:16:05.933Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -59,6 +59,7 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 - [[Neue Wache]]
 - [[Potsdamer Platz]]
 - [[Prussian National Monument for the Liberation Wars]]
+- [[Reich Chancellery]]
 - [[Reichstag building]]
 - [[Spandau Prison]]
 - [[Spree Canal]]
