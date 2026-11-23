@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2016-04-07
-modified: 2026-11-23T02:21:27.255Z
-published: 2026-11-23T02:21:27.255Z
+modified: 2026-11-23T05:21:20.501Z
+published: 2026-11-23T05:21:20.501Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -108,6 +108,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[The Serpentine]]
 - [[Tower of London]]
 - [[Upper Grosvenor Street]]
+- [[Vauxhall Gardens]]
 - [[Victoria Embankment]]
 - [[Victoria Road (Coulsdon)]]
 - [[Westminster Abbey]]

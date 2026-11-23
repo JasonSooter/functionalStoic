@@ -2,8 +2,8 @@
 publish: true
 title: Kenya
 created: 2024-05-18
-modified: 2026-11-23T02:22:00.406Z
-published: 2026-11-23T02:22:00.406Z
+modified: 2026-11-23T05:20:36.454Z
+published: 2026-11-23T05:20:36.454Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -42,6 +42,7 @@ Country in East Africa. Hub for literary places in Kenya.
 - [[Makueni County]]
 - [[Nataruk]]
 - [[Ol Pejeta Conservancy]]
+- [[Olorgesailie]]
 - [[Taranganya]]
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)

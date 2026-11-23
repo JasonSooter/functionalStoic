@@ -2,18 +2,18 @@
 publish: true
 title: Hertfordshire
 created: 2026-10-23T11:13:55.000Z
-modified: 2026-10-23T22:38:18.000Z
-published: 2026-10-23T22:38:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-23T05:20:45.171Z
+published: 2026-11-23T05:20:45.171Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[England]]"
 ---
 
@@ -25,3 +25,4 @@ County just north of London in the Home Counties of England. Hub for literary pl
 
 - [[Rickmansworth]]
 - [[The Manor House (The Importance of Being Earnest)]]
+- [[Tring]]

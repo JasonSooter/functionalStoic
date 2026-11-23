@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-11-22T08:24:32.311Z
-published: 2026-11-22T08:24:32.311Z
+modified: 2026-11-23T05:21:50.065Z
+published: 2026-11-23T05:21:50.065Z
 aliases: []
 books: []
 categories:
@@ -120,6 +120,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[Marin County]]
 - [[Menlo Park]]
 - [[Mokelumne River]]
+- [[Mountain House, California]]
 - [[Mountain View]]
 - [[N Street Cohousing]]
 - [[Napa Valley]]
