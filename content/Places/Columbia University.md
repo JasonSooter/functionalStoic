@@ -2,13 +2,8 @@
 publish: true
 title: Columbia University
 created: 2026-11-08
-modified: 2026-11-12T05:23:44.000Z
-published: 2026-11-12T05:23:44.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Columbia University.svg
+modified: 2026-11-23T02:21:51.826Z
+published: 2026-11-23T02:21:51.826Z
 aliases: []
 books:
   - Bicycle Diaries
@@ -21,6 +16,10 @@ icon: book
 location:
   - 40.8075
   - -73.9619
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Manhattan]]"
 image: Attachments/Places/Columbia University.svg
 ---
@@ -30,13 +29,14 @@ image: Attachments/Places/Columbia University.svg
 University in Morningside Heights, upper [[Manhattan]]. In _Bicycle Diaries_ David Byrne hears Enrique Peñalosa lecture there on what Bogotá did for its streets.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Bicycle Diaries | David Byrne | setting | Peñalosa shows slides of Bogotá to New York officials: "a sidewalk is a symbol of equality." |
 
-## Bicycle Diaries — David Byrne (2009)
+## Sub-places
+- [[Schermerhorn Hall]]
 
+## Bicycle Diaries — David Byrne (2009)
 Source: [Original](https://openlibrary.org/works/OL14993423W) · [Readwise highlight](https://read.readwise.io/read/01m772xn9svap9fc4a611ckhb3)
 
 > While at Columbia University I am introduced to some of the local New York political players: the head of the Taxi and Limousine Commission, someone from the Department of Transportation, a rep from the borough president’s office.

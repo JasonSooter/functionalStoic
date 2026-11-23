@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2016-04-07
-modified: 2026-11-22T02:18:43.635Z
-published: 2026-11-22T02:18:43.635Z
+modified: 2026-11-23T02:21:27.255Z
+published: 2026-11-23T02:21:27.255Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -72,8 +72,10 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[IFS Cloud Cable Car]]
 - [[Islington]]
 - [[Kew Bridge]]
+- [[King's College London]]
 - [[Koko (Camden)]]
 - [[Lime Grove Studios]]
+- [[Linnean Society of London]]
 - [[London congestion charge zone]]
 - [[London Transport Museum Depot]]
 - [[London Underground]]

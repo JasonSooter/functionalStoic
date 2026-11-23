@@ -2,13 +2,8 @@
 publish: true
 title: Oxford
 created: 2025-04-19
-modified: 2026-11-07T06:53:18.000Z
-published: 2026-11-07T06:53:18.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Oxford.svg
+modified: 2026-11-23T02:21:09.944Z
+published: 2026-11-23T02:21:09.944Z
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -21,6 +16,10 @@ icon: book
 location:
   - 51.7519
   - -1.2578
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Oxfordshire]]"
 image: Attachments/Places/Oxford.svg
 ---
@@ -30,19 +29,18 @@ image: Attachments/Places/Oxford.svg
 University city on the Thames in [[Oxfordshire]]. In Three Men in a Boat it is the upstream end of the trip, where the friends spend two days and turn back for home.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Exploration of Three Men in a Boat\|Three Men in a Boat]] | Jerome K. Jerome | turning point | Two pleasant days and many dogfights for Montmorency; the party hires a new boat and turns downstream. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.7519\&mlon=-1.2578#map=11/51.7519/-1.2578) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.7519,-1.2578)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.7519&mlon=-1.2578#map=11/51.7519/-1.2578) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.7519,-1.2578)
 
 ## Sub-places
 
 - [[22 Northmoor Road]]
+- [[Oxford University Museum of Natural History]]
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
-
 Source: [[Exploration of Three Men in a Boat]] · [[Three Men in a Boat]] · [Original](https://openlibrary.org/works/OL1793164W) · [Readwise highlight](https://read.readwise.io/read/01m5gkzb34mc1cm7pwwdn4dtk3)
 
 > We spent two very pleasant days at Oxford. There are plenty of dogs in the town of Oxford.

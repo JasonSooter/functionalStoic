@@ -2,18 +2,18 @@
 publish: true
 title: Alaska
 created: 2026-10-21T11:07:13.000Z
-modified: 2026-10-23T22:38:40.000Z
-published: 2026-10-23T22:38:40.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-23T02:21:55.342Z
+published: 2026-11-23T02:21:55.342Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: newspaper
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 ---
 
 # Alaska
@@ -32,6 +32,7 @@ US state in the far north-west of North America.
 - [[Kodiak Island]]
 - [[Matanuska-Susitna Valley]]
 - [[Noatak River]]
+- [[Prince William Sound]]
 - [[Ralph Wien Memorial Airport]]
 - [[Saint Paul Island]]
 - [[Skagway, Alaska]]

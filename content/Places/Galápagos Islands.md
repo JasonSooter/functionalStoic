@@ -2,8 +2,8 @@
 publish: true
 title: Galápagos Islands
 created: 2015-11-28
-modified: 2026-11-22T08:23:29.637Z
-published: 2026-11-22T08:23:29.637Z
+modified: 2026-11-23T02:19:58.357Z
+published: 2026-11-23T02:19:58.357Z
 aliases:
   - Galapagos Islands
 books:
@@ -37,7 +37,7 @@ Volcanic archipelago in the Pacific belonging to [[Ecuador]], the first stop of 
 |---|---|---|---|
 | Early Retirement from the Sale of a Multi-Million Dollar Business with Steve Miller | Steve Miller | journey waypoint | On the first retirement trip, Miller and his wife watch a tortoise dig a nest for her eggs. |
 | Life on Air | David Attenborough | setting | Life in Cold Blood opens with marine iguanas filmed by thermal camera. |
-| A Short History of Nearly Everything | Bill Bryson | turning point | In 1977 Alvin finds whole ecosystems around deep-sea vents off the islands, living on chemical energy. |
+| A Short History of Nearly Everything | Bill Bryson | turning point | Alvin finds deep-sea vent life off the islands in 1977; Bryson also debunks the finch-beak myth. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=-0.5&mlon=-90.5#map=11/-0.5/-90.5) · [Google Maps](https://www.google.com/maps/search/?api=1&query=-0.5,-90.5)
 
@@ -64,10 +64,12 @@ Source: [Original](https://openlibrary.org/books/OL24547776M/Life_on_air) · [Re
 
 ## A Short History of Nearly Everything — Bill Bryson (2003)
 
-Source: [Original](https://openlibrary.org/works/OL74128W)
+Source: [Original](https://openlibrary.org/works/OL74128W) · [Readwise highlight](https://read.readwise.io/read/01m833150prmg45wj1s5gt66fr)
 
 > found teeming colonies of large organisms living on and around deep-sea vents off the Galápagos Islands—tube worms over ten feet long, clams a foot wide, shrimps and mussels in profusion, wriggling spaghetti worms.
 
+> Nor, above all, were his conclusions in any way inspired by his noticing, during his time in the Galápagos Islands, an interesting diversity in the beaks of finches.
+
 - **Role:** turning point
-- **In the book:** In 1977 the submersible _Alvin_ finds teeming colonies around deep-sea vents off the Galápagos: tube worms over ten feet long, foot-wide clams, shrimps and mussels, all living on bacteria that feed on hydrogen sulphide. Bryson calls it one of the most important biological discoveries of the century and notes that the vents also help keep the seas from growing saltier.
-- **Why it matters:** It overturns the idea that all life depends on sunlight, a turning point for the book's story of life.
+- **In the book:** In 1977 the submersible _Alvin_ finds teeming colonies around deep-sea vents off the Galápagos: tube worms over ten feet long, foot-wide clams, shrimps and mussels, all living on bacteria that feed on hydrogen sulphide. Bryson calls it one of the most important biological discoveries of the century and notes that the vents also help keep the seas from growing saltier. Later, in the Darwin chapter, he debunks the story that finch beaks seen here inspired natural selection: it was John Gould who realised the birds were all finches, and Darwin, still an inexperienced naturalist, had not even noted which island each came from.
+- **Why it matters:** It overturns the idea that all life depends on sunlight, a turning point for the book's story of life; the finch passage shows Bryson correcting a popular myth about how Darwin's idea arose.

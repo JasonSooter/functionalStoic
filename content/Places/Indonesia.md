@@ -2,8 +2,8 @@
 publish: true
 title: Indonesia
 created: 2015-11-28
-modified: 2026-11-22T20:22:09.721Z
-published: 2026-11-22T20:22:09.721Z
+modified: 2026-11-23T02:21:20.218Z
+published: 2026-11-23T02:21:20.218Z
 aliases: []
 books:
   - Faster and lighter mobile web pages for Indonesia
@@ -52,11 +52,13 @@ Island country in Southeast Asia. It is the test market in a 2015 Google post ab
 - [[Lake Toba]]
 - [[Madura]]
 - [[Maumere]]
+- [[Mount Tambora]]
 - [[Nusantara]]
 - [[Sunda Strait]]
 - [[Surabaya]]
 - [[Ternate]]
 - [[Tidore]]
+- [[Trinil]]
 
 ## Faster and lighter mobile web pages for Indonesia — Google Developers (2015)
 Source: [Original](http://googlewebmastercentral.blogspot.com/2015/04/faster-and-lighter-mobile-web-pages-for.html) · [Readwise highlight](https://read.readwise.io/read/01m5fzby3djm7xgcqef5ez0eyb)
