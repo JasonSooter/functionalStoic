@@ -1,17 +1,11 @@
 ---
 publish: true
-aliases:
-  - Belgium (literary places)
 title: Belgium
 created: 2026-10-21T04:45:29.697Z
-modified: 2026-11-07T07:05:52.000Z
-published: 2026-11-07T07:05:52.000Z
-tags:
-  - travel/europe/europe-2023
-  - travel/europe/belgium
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-24T02:17:06.973Z
+published: 2026-11-24T02:17:06.973Z
+aliases:
+  - Belgium (literary places)
 books:
   - 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow
 categories:
@@ -28,6 +22,12 @@ locations:
     name: Antwerp
   - coordinates: 51.0891,4.3664
     name: Boom
+tags:
+  - travel/europe/europe-2023
+  - travel/europe/belgium
+  - places
+  - place/literary
+  - source/ai/claude
 reading_icon: newspaper
 ---
 
@@ -49,7 +49,6 @@ Belgium is a country in Europe, and it groups the places in Belgium that show up
 ## FAQ
 
 ---
-
 🙋
 ✨
 
@@ -60,12 +59,11 @@ Belgium is a country in Europe, and it groups the places in Belgium that show up
 [[Boom]]
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow | David Friedlander | journey waypoint | Start and end of a seven-year family bike trip: they leave in 2004 and come back in 2013. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.2194\&mlon=4.4025#map=7/51.2194/4.4025) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=51.2194,4.4025)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.2194&mlon=4.4025#map=7/51.2194/4.4025) · [Google Maps](https://www.google.com/maps/search/?api=1&query=51.2194,4.4025)
 
 ## Sub-places
 
@@ -75,11 +73,11 @@ Belgium is a country in Europe, and it groups the places in Belgium that show up
 - [[Brussels]]
 - [[Durbuy]]
 - [[Liège]]
+- [[Ridderborn Castle]]
 - [[Spa]]
 - [[Vladslo German war cemetery]]
 
 ## 1 Couple + 2 Bikes + 2 Kids + 5 Continents + 7 Years = Wow — David Friedlander (2015)
-
 Source: [Original](https://lifeedited.com/1-couple-2-bikes-2-kids-5-continents-7-years-wow/) · [Readwise highlight](https://read.readwise.io/read/01m5hk5r03e9ndce3hjagr5qyn)
 
 > They set out from Belgium in 2004 en route to Berlin.

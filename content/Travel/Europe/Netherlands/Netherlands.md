@@ -2,8 +2,8 @@
 publish: true
 title: Netherlands
 created: 2026-09-26T05:01:00.000Z
-modified: 2026-11-23T23:16:13.497Z
-published: 2026-11-23T23:16:13.497Z
+modified: 2026-11-24T02:17:23.393Z
+published: 2026-11-24T02:17:23.393Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
@@ -118,6 +118,7 @@ _Added 2026-09-25 (#source/ai/claude)._
 - [[Delft]]
 - [[Duijvestijn Tomaten (Pijnacker)]]
 - [[Flevoland]]
+- [[Fort Blauwkapel]]
 - [[Groningen]]
 - [[Houten]]
 - [[Maastricht]]

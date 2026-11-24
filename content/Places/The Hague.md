@@ -2,8 +2,8 @@
 publish: true
 title: The Hague
 created: 2026-11-23T23:14:42.471Z
-modified: 2026-11-23T23:14:42.471Z
-published: 2026-11-23T23:14:42.471Z
+modified: 2026-11-24T02:16:59.548Z
+published: 2026-11-24T02:16:59.548Z
 aliases:
   - Den Haag
 books: []
@@ -24,5 +24,9 @@ Seat of the Dutch government on the North Sea coast of the [[Netherlands]]. It c
 
 ## Sub-places
 
+- [[Bezuidenhout]]
+- [[Groot Hertoginnelaan]]
 - [[Huize Katwijk]]
+- [[Junostraat]]
+- [[Scheveningen prison]]
 - [[Voorburg]]
