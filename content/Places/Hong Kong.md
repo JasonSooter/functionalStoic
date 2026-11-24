@@ -2,8 +2,8 @@
 publish: true
 title: Hong Kong
 created: 2020-02-20
-modified: 2026-11-23T20:12:25.889Z
-published: 2026-11-23T20:12:25.889Z
+modified: 2026-11-24T20:18:28.754Z
+published: 2026-11-24T20:18:28.754Z
 aliases: []
 books:
   - Jackie Chan’s Plan to Keep Kicking Forever
@@ -47,6 +47,7 @@ Former British colony on China's south coast, now a special administrative regio
 
 - [[Central Yards]]
 - [[Hong Kong Hilton]]
+- [[Kowloon Walled City]]
 
 ## Jackie Chan’s Plan to Keep Kicking Forever — Alex Pappademas (2017)
 Source: [Original](https://www.gq.com/story/jackie-chans-gq-profile-2017) · [Readwise highlight](https://read.readwise.io/read/01m5k7gs34paaps6afrfwnt0vs)

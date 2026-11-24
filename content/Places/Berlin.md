@@ -2,8 +2,8 @@
 publish: true
 title: Berlin
 created: 2016-06-27
-modified: 2026-11-24T17:18:11.936Z
-published: 2026-11-24T17:18:11.936Z
+modified: 2026-11-24T20:18:23.606Z
+published: 2026-11-24T20:18:23.606Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -53,8 +53,10 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 - [[Checkpoint Charlie]]
 - [[Geyer-Werke]]
 - [[Goebbels residence (Hermann-Göring-Strasse)]]
+- [[Hotel Adlon]]
 - [[Karl-Marx-Allee]]
 - [[Karlshorst]]
+- [[Köpenick]]
 - [[Kreuzberg]]
 - [[Memorial to the Murdered Jews of Europe]]
 - [[Museum Island]]
@@ -65,12 +67,14 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 - [[Regattastrecke Berlin-Grünau]]
 - [[Reich Chancellery]]
 - [[Reichstag building]]
+- [[Rotes Rathaus]]
 - [[Spandau Prison]]
 - [[Spree Canal]]
 - [[Stasi Museum]]
 - [[Tempelhof Airport]]
 - [[Tiergarten]]
 - [[Tränenpalast]]
+- [[UFA-Palast am Zoo]]
 - [[Unter den Linden]]
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)

@@ -2,8 +2,8 @@
 publish: true
 title: University of Washington
 created: 2016-08-25
-modified: 2026-11-24T08:17:42.398Z
-published: 2026-11-24T08:17:42.398Z
+modified: 2026-11-24T20:18:30.246Z
+published: 2026-11-24T20:18:30.246Z
 aliases: []
 books:
   - Science says lasting relationships come down to 2 basic traits
@@ -41,6 +41,7 @@ Public university in Seattle. Business Insider describes John Gottman's 1990 "lo
 ## Sub-places
 
 - [[ASUW Shell House]]
+- [[Conibear Shellhouse]]
 
 ## Science says lasting relationships come down to 2 basic traits — Emily Esfahani Smith (2015)
 Source: [Original](http://www.businessinsider.com/lasting-relationships-rely-on-traits-2015-11) · [Readwise highlight](https://read.readwise.io/read/01m5jy7b0nxkfkhxqv6bwwa9ye)
