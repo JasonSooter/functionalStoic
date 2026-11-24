@@ -2,8 +2,8 @@
 publish: true
 title: Seattle
 created: 2025-03-25T12:06:03.737Z
-modified: 2026-11-24T08:18:19.602Z
-published: 2026-11-24T08:18:19.602Z
+modified: 2026-11-24T11:16:36.573Z
+published: 2026-11-24T11:16:36.573Z
 books:
   - How $100 Per Voter Makes Seattle’s Elections More Inclusive
   - "[[Four Thousand Weeks]]"
@@ -98,7 +98,11 @@ Airport → Downtown
 - [[Cove 2 (Seacrest Park)]]
 - [[Evergreen Point Floating Bridge]]
 - [[Homer M Hadley Memorial Bridge]]
+- [[King Street Station]]
 - [[Lacey V Murrow Memorial Bridge]]
+- [[Lake Union]]
+- [[Phinney Ridge]]
+- [[Rantz house (Thirty-Ninth and Bagley)]]
 - [[Recycled Cycles]]
 - [[Roosevelt High School (Seattle)]]
 - [[Seattle Aquarium]]

@@ -2,8 +2,8 @@
 publish: true
 title: Berlin
 created: 2016-06-27
-modified: 2026-11-24T08:18:33.956Z
-published: 2026-11-24T08:18:33.956Z
+modified: 2026-11-24T11:16:40.202Z
+published: 2026-11-24T11:16:40.202Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -51,6 +51,8 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 - [[Berolina (Berlin)]]
 - [[Brandenburg Gate]]
 - [[Checkpoint Charlie]]
+- [[Geyer-Werke]]
+- [[Goebbels residence (Hermann-Göring-Strasse)]]
 - [[Karl-Marx-Allee]]
 - [[Karlshorst]]
 - [[Kreuzberg]]

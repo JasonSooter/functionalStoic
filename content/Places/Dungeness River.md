@@ -2,8 +2,8 @@
 publish: true
 title: Dungeness River
 created: 2026-11-17
-modified: 2026-11-24T08:16:57.687Z
-published: 2026-11-24T08:16:57.687Z
+modified: 2026-11-24T11:16:04.291Z
+published: 2026-11-24T11:16:04.291Z
 aliases: []
 books:
   - The Boys in the Boat
@@ -32,7 +32,7 @@ River flowing from the Olympic Mountains past Sequim into the Strait of Juan de 
 ## At a glance
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The Boys in the Boat | Daniel James Brown | setting | Joe gaffs chinook salmon to sell, cuts cottonwoods on its bottomlands and proposes to Joyce on its bank. |
+| The Boys in the Boat | Daniel James Brown | setting | Joe gaffs chinook salmon to sell until a game warden knocks him out on a gravel bar; he proposes to Joyce on its bank. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=48.1508&mlon=-123.1356#map=12/48.1508/-123.1356) · [Google Maps](https://www.google.com/maps/search/?api=1&query=48.1508,-123.1356)
 
@@ -42,5 +42,5 @@ Source: [Original](https://www.penguinrandomhouse.com/books/310727/the-boys-in-t
 > Months before, he and his friend Harry Secor had discovered a spot on the Dungeness River where huge chinook salmon—some as much as four feet long—lay in a deep, green, swirling pool, waiting to spawn.
 
 - **Role:** setting
-- **In the book:** Left alone on the farm, Joe and his friend Harry Secor gaff spawning salmon from a deep pool and sell them around Sequim. Joe later earns money cutting cottonwoods on the river bottomlands. One April day he leads Joyce Simdars to a meadow among the cottonwoods on the south bank of the river to propose. The family farm drew its water and the rocks for its fireplace from the river.
+- **In the book:** Left alone on the farm, Joe and his friend Harry Secor gaff spawning salmon from a deep pool and sell them around Sequim. Joe later earns money cutting cottonwoods on the river bottomlands. One April day he leads Joyce Simdars to a meadow among the cottonwoods on the south bank of the river to propose. The family farm drew its water and the rocks for its fireplace from the river. In the summer of 1934 a game warden sneaks up on Joe on a long gravel bar and knocks him unconscious with driftwood; Harry chases the warden off with a gaffing pole, and they never snag another salmon.
 - **Why it matters:** The river is how Joe survives on his own and where his life with Joyce begins; it ties together the self-reliance and the hope of a family that drive him.

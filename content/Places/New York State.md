@@ -2,8 +2,8 @@
 publish: true
 title: New York State
 created: 2026-10-20T22:55:57.000Z
-modified: 2026-11-23T17:17:57.426Z
-published: 2026-11-23T17:17:57.426Z
+modified: 2026-11-24T11:16:28.043Z
+published: 2026-11-24T11:16:28.043Z
 aliases: []
 books: []
 categories:
@@ -37,6 +37,7 @@ US state; see also [[New York City]].
 - [[Mohawk Valley]]
 - [[Montezuma Marsh]]
 - [[Oneida Carry]]
+- [[Poughkeepsie Bridge]]
 - [[Rochester, New York]]
 - [[Rome, New York]]
 - [[Scarsdale High School]]

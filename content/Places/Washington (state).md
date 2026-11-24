@@ -2,8 +2,8 @@
 publish: true
 title: Washington (state)
 created: 2026-10-20T22:56:01.000Z
-modified: 2026-11-24T08:18:28.499Z
-published: 2026-11-24T08:18:28.499Z
+modified: 2026-11-24T11:16:20.270Z
+published: 2026-11-24T11:16:20.270Z
 aliases: []
 books: []
 categories:
@@ -26,6 +26,7 @@ US state in the Pacific Northwest; see [[Seattle]].
 - [[Auburn (Washington)]]
 - [[Chicken Coop (Blyn)]]
 - [[Dungeness River]]
+- [[Ephrata, Washington]]
 - [[Hood Canal]]
 - [[Hood Canal Bridge]]
 - [[Lake Washington]]
