@@ -2,18 +2,18 @@
 publish: true
 title: Lower Saxony
 created: 2026-10-21T02:07:25.000Z
-modified: 2026-10-23T11:14:43.000Z
-published: 2026-10-23T11:14:43.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
+modified: 2026-11-24T05:18:33.112Z
+published: 2026-11-24T05:18:33.112Z
 aliases: []
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Germany]]"
 ---
 
@@ -25,4 +25,5 @@ Hub note; sits within [[Germany]].
 
 - [[Göttingen]]
 - [[Hanover]]
+- [[Lingen]]
 - [[Wolfsburg Volkswagen Plant]]

@@ -2,8 +2,8 @@
 publish: true
 title: Netherlands
 created: 2026-09-26T05:01:00.000Z
-modified: 2026-11-24T02:17:23.393Z
-published: 2026-11-24T02:17:23.393Z
+modified: 2026-11-24T05:18:49.657Z
+published: 2026-11-24T05:18:49.657Z
 aliases:
   - Utrecht, Netherlands
   - Utrecht
@@ -115,6 +115,8 @@ _Added 2026-09-25 (#source/ai/claude)._
 
 - [[Afsluitdijk]]
 - [[Apeldoorn]]
+- [[Bladel]]
+- [[Brunssummerheide]]
 - [[Delft]]
 - [[Duijvestijn Tomaten (Pijnacker)]]
 - [[Flevoland]]
@@ -122,6 +124,7 @@ _Added 2026-09-25 (#source/ai/claude)._
 - [[Groningen]]
 - [[Houten]]
 - [[Maastricht]]
+- [[Netersel]]
 - [[Oosterscheldekering]]
 - [[Oosterwolde]]
 - [[Oss]]
@@ -131,6 +134,7 @@ _Added 2026-09-25 (#source/ai/claude)._
 - [[Veluwemeer Aqueduct]]
 - [[Wageningen University & Research]]
 - [[Waltha Castle (Wieuwerd)]]
+- [[Zionsburg]]
 
 ## At a glance
 

@@ -2,8 +2,8 @@
 publish: true
 title: Baden-Württemberg
 created: 2026-10-20T01:36:30.000Z
-modified: 2026-11-16T02:22:36.128Z
-published: 2026-11-16T02:22:36.128Z
+modified: 2026-11-24T05:18:37.108Z
+published: 2026-11-24T05:18:37.108Z
 aliases: []
 books: []
 categories:
@@ -30,6 +30,7 @@ Germany's south-western state; see [[Freiburg]] and the Travel note [[Germany]].
 - [[Landkreis Emmendingen]]
 - [[Mannheim]]
 - [[Marbach am Neckar]]
+- [[Mergentheim Castle]]
 - [[Old Rhine Bridge (Konstanz)]]
 - [[Stuttgart]]
 - [[Taubenkopf wind turbines]]

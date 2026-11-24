@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2016-04-07
-modified: 2026-11-23T05:21:20.501Z
-published: 2026-11-23T05:21:20.501Z
+modified: 2026-11-24T05:18:57.373Z
+published: 2026-11-24T05:18:57.373Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -114,6 +114,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[Westminster Abbey]]
 - [[Westminster Hall]]
 - [[Whitechapel Gallery]]
+- [[Wimbledon]]
 - [[Wimbledon Common]]
 
 ## Muslims March Against Isis in London, and It’s Ignored by the Media — Mike Albo (2016)

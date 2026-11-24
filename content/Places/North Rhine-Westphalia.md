@@ -2,8 +2,8 @@
 publish: true
 title: North Rhine-Westphalia
 created: 2026-10-20T04:23:39.000Z
-modified: 2026-11-17T02:16:35.415Z
-published: 2026-11-17T02:16:35.415Z
+modified: 2026-11-24T05:18:31.496Z
+published: 2026-11-24T05:18:31.496Z
 aliases:
   - Nordrhein-Westfalen
   - NRW
@@ -28,3 +28,4 @@ Germany's most populous state, in the west; see the Travel note [[Germany]]. Hub
 - [[Essen]]
 - [[Hermannsdenkmal]]
 - [[Monschau]]
+- [[Palenberg]]
