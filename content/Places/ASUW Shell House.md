@@ -2,8 +2,8 @@
 publish: true
 title: ASUW Shell House
 created: 2026-11-17
-modified: 2026-11-24T14:16:08.524Z
-published: 2026-11-24T14:16:08.524Z
+modified: 2026-11-24T17:17:13.438Z
+published: 2026-11-24T17:17:13.438Z
 aliases:
   - Washington shell house
   - Conibear Shellhouse (old)
@@ -34,7 +34,7 @@ Former Navy seaplane hangar on the Montlake Cut at the [[University of Washingto
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The Boys in the Boat | Daniel James Brown | setting | 175 freshmen sign up in the old seaplane hangar on the Cut; in its loft George Pocock teaches Joe about cedar and shells. |
+| The Boys in the Boat | Daniel James Brown | setting | Freshmen sign up in the old seaplane hangar; in its loft Pocock teaches Joe to trust his crew, and christens the Husky Clipper. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=47.6478&mlon=-122.3#map=16/47.6478/-122.3) · [Google Maps](https://www.google.com/maps/search/?api=1&query=47.6478,-122.3)
 
@@ -45,5 +45,5 @@ Source: [Original](https://www.penguinrandomhouse.com/books/310727/the-boys-in-t
 > It was an old airplane hangar built by the U.S. Navy in 1918 to house seaplanes for the Naval Aviation Training Corps during the Great War.
 
 - **Role:** setting
-- **In the book:** On a grey October day in 1933, Joe Rantz and Roger Morris walk down from campus to the point where the Montlake Cut enters Union Bay and join 175 boys crowding the ramp of the shell house, a hangar handed to the university in 1919. The freshmen gather on its ramp every afternoon to hear Coach Bolles, and on November 28, 1933, Bolles announces the first boat here, with Joe in it. At fall turnout on October 5, 1934, drought has left the floating dock "high, dry, and useless." In the winter of 1935 Ulbrickson summons Joe and four others to his office here and warns them they could lose their seats. In September 1935 George Pocock invites Joe up to his bright, varnish-scented loft, where an eight-oared shell lies on a long I beam; he shows him his tools and the cedar, flexing a thin sheet to show how wood under tension gives a shell life. Afterwards Joe returns often to sit with Pocock.
+- **In the book:** On a grey October day in 1933, Joe Rantz and Roger Morris walk down from campus to the point where the Montlake Cut enters Union Bay and join 175 boys crowding the ramp of the shell house, a hangar handed to the university in 1919. The freshmen gather on its ramp every afternoon to hear Coach Bolles, and on November 28, 1933, Bolles announces the first boat here, with Joe in it. At fall turnout on October 5, 1934, drought has left the floating dock "high, dry, and useless." In the winter of 1935 Ulbrickson summons Joe and four others to his office here and warns them they could lose their seats. In September 1935 George Pocock invites Joe up to his bright, varnish-scented loft, where an eight-oared shell lies on a long I beam; he shows him his tools and the cedar, flexing a thin sheet to show how wood under tension gives a shell life. Afterwards Joe returns often to sit with Pocock. On a stormy day in early March 1936, varnishing a new hull in the loft, Pocock tells Joe to think of a race as a symphony and to start trusting the other boys: "Sometimes, you will feel as if you have rowed right off the planet and are rowing among the stars." On March 21 Joe finds his name on the chalkboard at seat seven in boat two, the boat everyone is watching, and on March 28 Ulbrickson makes it the varsity and Pocock christens its new shell the _Husky Clipper_, "Especially in Berlin."
 - **Why it matters:** It is where the crew's story begins and the base the boys return to every day; the cathedral-like hangar, and Pocock's loft above it, carry the book's sense of rowing as craft and devotion.

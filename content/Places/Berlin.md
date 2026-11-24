@@ -2,8 +2,8 @@
 publish: true
 title: Berlin
 created: 2016-06-27
-modified: 2026-11-24T14:15:23.181Z
-published: 2026-11-24T14:15:23.181Z
+modified: 2026-11-24T17:18:11.936Z
+published: 2026-11-24T17:18:11.936Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -16,6 +16,7 @@ coordinates: 52.5200,13.4050
 geo_note: approximate (city centre)
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Berlin.svg
 location:
   - 52.52
   - 13.405
@@ -23,7 +24,6 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-image: Attachments/Places/Berlin.svg
 ---
 
 # Berlin
@@ -69,7 +69,9 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 - [[Spree Canal]]
 - [[Stasi Museum]]
 - [[Tempelhof Airport]]
+- [[Tiergarten]]
 - [[Tränenpalast]]
+- [[Unter den Linden]]
 
 ## Four Thousand Weeks — Oliver Burkeman (2021)
 Source: [[Four Thousand Weeks]] · [Original](https://openlibrary.org/works/OL22355777W) · [Readwise highlight](https://read.readwise.io/read/01m5fcqh6yff0xza3cyhbhrm1q)

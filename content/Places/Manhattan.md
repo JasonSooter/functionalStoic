@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2016-07-30
-modified: 2026-11-24T14:15:28.374Z
-published: 2026-11-24T14:15:28.374Z
+modified: 2026-11-24T17:18:24.563Z
+published: 2026-11-24T17:18:24.563Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -15,6 +15,7 @@ color: purple
 coordinates: 40.7127,-74.0059
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/Manhattan.svg
 location:
   - 40.7127
   - -74.0059
@@ -23,7 +24,6 @@ tags:
   - place/literary
   - source/ai/claude
 within: "[[New York City]]"
-image: Attachments/Places/Manhattan.svg
 ---
 
 # Manhattan
@@ -53,6 +53,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[Commodore Hotel (New York)]]
 - [[Dalton School]]
 - [[Dwight School]]
+- [[Empire State Building]]
 - [[Garment District]]
 - [[General Motors Building]]
 - [[Grand Central Terminal]]
@@ -73,6 +74,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[Ninth Avenue (Manhattan)]]
 - [[NYU Stern School of Business]]
 - [[Park Avenue (Manhattan)|Park Avenue]]
+- [[Pier 60]]
 - [[Polo Grounds]]
 - [[Port Authority Bus Terminal]]
 - [[Rockefeller Center]]

@@ -2,8 +2,8 @@
 publish: true
 title: New Jersey
 created: 2026-10-20T07:53:42.000Z
-modified: 2026-11-22T02:19:05.660Z
-published: 2026-11-22T02:19:05.660Z
+modified: 2026-11-24T17:18:02.785Z
+published: 2026-11-24T17:18:02.785Z
 aliases: []
 books: []
 categories:
@@ -33,6 +33,7 @@ US state between New York and Pennsylvania. Hub for literary places in the state
 - [[Interstate 80 sinkhole (Wharton)]]
 - [[Juliustown Park]]
 - [[L'Annexe de Mamie Colette]]
+- [[Lake Carnegie]]
 - [[Lillo's Tomato Pies]]
 - [[Lyceum Hall (Burlington)]]
 - [[Menlo Park laboratory]]

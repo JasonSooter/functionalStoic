@@ -2,8 +2,8 @@
 publish: true
 title: Seattle
 created: 2025-03-25T12:06:03.737Z
-modified: 2026-11-24T14:15:19.217Z
-published: 2026-11-24T14:15:19.217Z
+modified: 2026-11-24T17:19:05.174Z
+published: 2026-11-24T17:19:05.174Z
 books:
   - How $100 Per Voter Makes Seattle’s Elections More Inclusive
   - "[[Four Thousand Weeks]]"
@@ -19,6 +19,7 @@ date created: 2025-03-25T06:06:03-06:00
 date modified: 2026-02-21T09:56:46-07:00
 geo_source: GeoNames 5809844
 icon: book
+image: Attachments/Places/Seattle.svg
 linter-yaml-title-alias: Seattle
 location:
   - 47.6062
@@ -27,7 +28,6 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-image: Attachments/Places/Seattle.svg
 ---
 
 # Seattle
@@ -110,6 +110,7 @@ Airport → Downtown
 - [[South Lake Union]]
 - [[U.S. District Court for the Western District of Washington (Project Hail Mary)]]
 - [[Union Bay (Seattle)]]
+- [[Union Station (Seattle)]]
 - [[University of Washington]]
 - [[Washington Athletic Club]]
 

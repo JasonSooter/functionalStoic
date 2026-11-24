@@ -2,8 +2,8 @@
 publish: true
 title: New York City
 created: 2015-11-28
-modified: 2026-11-23T02:21:35.624Z
-published: 2026-11-23T02:21:35.624Z
+modified: 2026-11-24T17:18:41.503Z
+published: 2026-11-24T17:18:41.503Z
 aliases:
   - NYC
 books:
@@ -19,6 +19,7 @@ color: purple
 coordinates: 40.7128,-74.0061
 geo_source: Wikipedia (en)
 icon: book
+image: Attachments/Places/New York City.svg
 location:
   - 40.7128
   - -74.0061
@@ -26,7 +27,6 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-image: Attachments/Places/New York City.svg
 ---
 
 # New York City
@@ -98,6 +98,7 @@ Largest city in the USA (see the Travel note [[New York]]), which shows up in th
 - [[West Village]]
 - [[Williamsburg Bridge]]
 - [[World Trade Center]]
+- [[Yankee Stadium (1923)]]
 - [[YMCA on 125th Street (Harlem)]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)

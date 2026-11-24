@@ -2,8 +2,8 @@
 publish: true
 title: New York State
 created: 2026-10-20T22:55:57.000Z
-modified: 2026-11-24T11:16:28.043Z
-published: 2026-11-24T11:16:28.043Z
+modified: 2026-11-24T17:17:58.870Z
+published: 2026-11-24T17:17:58.870Z
 aliases: []
 books: []
 categories:
@@ -42,8 +42,10 @@ US state; see also [[New York City]].
 - [[Rome, New York]]
 - [[Scarsdale High School]]
 - [[Schenectady, New York]]
+- [[Springwood]]
 - [[Stony Brook University]]
 - [[Syracuse, New York]]
+- [[Travers Island]]
 - [[Tree-Ring Lab (Lamont-Doherty)]]
 - [[Utica, New York]]
 - [[Village of Hamburg, New York]]
