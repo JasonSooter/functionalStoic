@@ -2,8 +2,8 @@
 publish: true
 title: Share-It-Square
 created: 2026-11-15
-modified: 2026-11-23T17:17:05.847Z
-published: 2026-11-23T17:17:05.847Z
+modified: 2026-11-24T08:18:48.945Z
+published: 2026-11-24T08:18:48.945Z
 aliases:
   - Share-It Square
   - SE Sherrett Street and SE 9th Avenue (Portland)
@@ -12,8 +12,14 @@ books:
 categories:
   - "[[Places]]"
 color: purple
-geo_status: needs-pin
+coordinates: 45.4615,-122.657
+geo_source: OSM way 112641938 / way 5520187 (shared node at SE Sherrett St and SE
+  9th Ave)
 icon: book
+image: Attachments/Places/Share-It-Square.svg
+location:
+  - 45.4615
+  - -122.657
 tags:
   - places
   - place/literary
@@ -29,6 +35,8 @@ Painted street intersection at SE Sherrett Street and SE 9th Avenue in Sellwood,
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Happy City | Charles Montgomery | setting | Neighbours paint circles on an intersection, beat the city, and turn it into a village square. |
+
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=45.4615&mlon=-122.657#map=17/45.4615/-122.657) · [Google Maps](https://www.google.com/maps/search/?api=1&query=45.4615,-122.657)
 
 ## Happy City — Charles Montgomery (2013)
 Source: [Original](https://openlibrary.org/works/OL21093281W) · [Readwise highlight](https://read.readwise.io/read/01m84ph7bc63ncrnyw46ndvfgb)

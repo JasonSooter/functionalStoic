@@ -2,8 +2,8 @@
 publish: true
 title: Vancouver
 created: 2017-02-05
-modified: 2026-11-23T14:21:09.004Z
-published: 2026-11-23T14:21:09.004Z
+modified: 2026-11-24T08:18:36.440Z
+published: 2026-11-24T08:18:36.440Z
 aliases: []
 books:
   - Why Successful People Spend 10 Hours A Week Just Thinking
@@ -39,6 +39,7 @@ City in British Columbia, Canada. It is Brian Scudamore's thinking-day city, and
 
 ## Sub-places
 
+- [[Coal Harbour]]
 - [[Commercial Drive]]
 - [[Gastown]]
 - [[Lonsdale Avenue]]
