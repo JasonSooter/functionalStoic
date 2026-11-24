@@ -2,8 +2,8 @@
 publish: true
 title: Seattle
 created: 2025-03-25T12:06:03.737Z
-modified: 2026-11-24T11:16:36.573Z
-published: 2026-11-24T11:16:36.573Z
+modified: 2026-11-24T14:15:19.217Z
+published: 2026-11-24T14:15:19.217Z
 books:
   - How $100 Per Voter Makes Seattle’s Elections More Inclusive
   - "[[Four Thousand Weeks]]"
@@ -97,6 +97,7 @@ Airport → Downtown
 - [[Ballard Locks]]
 - [[Cove 2 (Seacrest Park)]]
 - [[Evergreen Point Floating Bridge]]
+- [[Golden Rule Dairy and Bakery (Fremont)]]
 - [[Homer M Hadley Memorial Bridge]]
 - [[King Street Station]]
 - [[Lacey V Murrow Memorial Bridge]]
@@ -108,7 +109,9 @@ Airport → Downtown
 - [[Seattle Aquarium]]
 - [[South Lake Union]]
 - [[U.S. District Court for the Western District of Washington (Project Hail Mary)]]
+- [[Union Bay (Seattle)]]
 - [[University of Washington]]
+- [[Washington Athletic Club]]
 
 ## How $100 Per Voter Makes Seattle’s Elections More Inclusive — Amy Sundberg (2025)
 Source: [Original](https://reasonstobecheerful.world/how-100-per-voter-makes-seattles-elections-more-inclusive/) · [Readwise highlight](https://read.readwise.io/read/01m5dcjcjjt68kf96836eftrty)

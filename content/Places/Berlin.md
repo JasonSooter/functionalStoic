@@ -2,8 +2,8 @@
 publish: true
 title: Berlin
 created: 2016-06-27
-modified: 2026-11-24T11:16:40.202Z
-published: 2026-11-24T11:16:40.202Z
+modified: 2026-11-24T14:15:23.181Z
+published: 2026-11-24T14:15:23.181Z
 aliases: []
 books:
   - "[[Four Thousand Weeks]]"
@@ -62,6 +62,7 @@ Capital of Germany; see also the [[Germany]] travel note. Hub for literary place
 - [[Olympiastadion (Berlin)]]
 - [[Potsdamer Platz]]
 - [[Prussian National Monument for the Liberation Wars]]
+- [[Regattastrecke Berlin-Grünau]]
 - [[Reich Chancellery]]
 - [[Reichstag building]]
 - [[Spandau Prison]]

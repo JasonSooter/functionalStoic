@@ -2,8 +2,8 @@
 publish: true
 title: California
 created: 2024-10-05T01:35:23.962Z
-modified: 2026-11-23T08:19:25.545Z
-published: 2026-11-23T08:19:25.545Z
+modified: 2026-11-24T14:15:40.304Z
+published: 2026-11-24T14:15:40.304Z
 aliases: []
 books: []
 categories:
@@ -112,6 +112,7 @@ With [[Kolt Kane|Kolt]], Kelly, & Ellie
 - [[La Quinta Resort]]
 - [[Lakewood, California]]
 - [[Lassen Volcanic National Park]]
+- [[Long Beach Marine Stadium]]
 - [[Los Angeles Aqueduct]]
 - [[Los Gatos]]
 - [[Lost Hills, California]]

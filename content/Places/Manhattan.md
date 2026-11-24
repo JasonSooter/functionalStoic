@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2016-07-30
-modified: 2026-11-23T11:20:14.852Z
-published: 2026-11-23T11:20:14.852Z
+modified: 2026-11-24T14:15:28.374Z
+published: 2026-11-24T14:15:28.374Z
 aliases: []
 books:
   - The iPhone Thought Experiment
@@ -50,6 +50,7 @@ Island borough at the heart of New York City. Wait But Why's iPhone thought expe
 - [[BMW Guggenheim Lab]]
 - [[City Hall Park]]
 - [[Columbia University]]
+- [[Commodore Hotel (New York)]]
 - [[Dalton School]]
 - [[Dwight School]]
 - [[Garment District]]
