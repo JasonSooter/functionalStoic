@@ -2,8 +2,8 @@
 publish: true
 title: Athens
 created: 2016-07-11
-modified: 2026-11-25T17:12:19.658Z
-published: 2026-11-25T17:12:19.658Z
+modified: 2026-11-25T20:14:22.683Z
+published: 2026-11-25T20:14:22.683Z
 aliases: []
 books:
   - Financial Independence is Not a Marathon
@@ -28,7 +28,7 @@ within: "[[Greece]]"
 
 # Athens
 
-Capital of Greece. In Jason's reading it is the finish line of Pheidippides' run, the city that shaped Plato, and the city the Persian army occupies while Xerxes hears the story told in _Gates of Fire_.
+Capital of Greece. In Jason's reading it is the finish line of Pheidippides' run, the city that shaped Plato, and the city the Persian army occupies and burns while Xerxes hears the story told in _Gates of Fire_.
 
 ## At a glance
 
@@ -36,7 +36,7 @@ Capital of Greece. In Jason's reading it is the finish line of Pheidippides' run
 |---|---|---|---|
 | Financial Independence is Not a Marathon | MaggieBanks | journey waypoint | Athens is the end of Pheidippides' run and the place where he dies; the author later says each financial step 'gets you closer to… |
 | A Primer on Plato: His Life, Works, and Philosophy | Brett and Kate McKay | setting | Plato is born into plague-stricken, war-torn Athens, whose oligarchic coup, the Thirty Tyrants and the restored democracy that executes… |
-| Gates of Fire | Steven Pressfield | backdrop | The emptied city falls to the Persians; archers clear the Acropolis and Xerxes plans to burn it in sight of the refugees on Salamis. |
+| Gates of Fire | Steven Pressfield | backdrop | The emptied city falls; archers clear the Acropolis, and six weeks after Thermopylae the army burns it while Xeones fears for Phaleron. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=37.9842&mlon=23.7281#map=11/37.9842/23.7281) · [Google Maps](https://www.google.com/maps/search/?api=1&query=37.9842,23.7281)
 
@@ -45,6 +45,7 @@ Capital of Greece. In Jason's reading it is the finish line of Pheidippides' run
 - [[Ancient Agora of Athens]]
 - [[Athens International Airport]]
 - [[Pedion tou Areos]]
+- [[Phaleron]]
 - [[Platonic Academy]]
 - [[Stoa Poikile]]
 - [[Victoria Square (Athens)]]
@@ -73,5 +74,5 @@ Source: [Original](https://www.penguinrandomhouse.com/books/133742/gates-of-fire
 > The advance force of Persian infantry and cavalry, fifty thousand strong, had entered Athens and taken possession of the city.
 
 - **Role:** backdrop
-- **In the book:** In the frame story, Xerxes's council hears that the Athenians have abandoned the city and crossed the strait to Troezen and Salamis, where they huddle as refugees on the hillsides. A small band holding the Acropolis, trusting the oracle of the "wooden wall", is shot down by imperial archers. The Empire's fires now burn on the Acropolis, and the king plans to enter the city next day and raze its temples, with the smoke visible to the refugees across the strait. Xeones also mentions a recent embassy to Athens with Dienekes, when he could have looked for his cousin Diomache there.
+- **In the book:** In the frame story, Xerxes's council hears that the Athenians have abandoned the city and crossed the strait to Troezen and Salamis, where they huddle as refugees on the hillsides. A small band holding the Acropolis, trusting the oracle of the "wooden wall", is shot down by imperial archers. The Empire's fires now burn on the Acropolis, and the king plans to enter the city next day and raze its temples, with the smoke visible to the refugees across the strait. Xeones also mentions a recent embassy to Athens with Dienekes, during which he crossed the evacuating city at night to look for his cousin Diomache at [[Phaleron]]. Six weeks after Thermopylae the imperial army, drawn up inside the western walls, puts temples, houses, gymnasia and warehouses to the torch; the sight sends the recovering Xeones into a relapse, and he keeps asking whether the Phaleron sanctuary survived.
 - **Why it matters:** The fall of Athens sets the stakes of the frame: the pass has been lost, and Xerxes is weighing whether to push on into the Peloponnese. It is reported, not seen. The book's action happens elsewhere, so the city is backdrop rather than setting.

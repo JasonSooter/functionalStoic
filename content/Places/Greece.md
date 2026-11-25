@@ -2,8 +2,8 @@
 publish: true
 title: Greece
 created: 2026-10-21T02:07:09.000Z
-modified: 2026-11-25T14:13:12.730Z
-published: 2026-11-25T14:13:12.730Z
+modified: 2026-11-25T20:14:27.540Z
+published: 2026-11-25T20:14:27.540Z
 aliases: []
 books: []
 categories:
@@ -40,3 +40,4 @@ Hub note for places from reading.
 - [[Rhion]]
 - [[Sparta]]
 - [[Thermopylae]]
+- [[Trachis]]
