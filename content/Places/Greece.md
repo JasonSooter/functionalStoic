@@ -2,8 +2,8 @@
 publish: true
 title: Greece
 created: 2026-10-21T02:07:09.000Z
-modified: 2026-11-25T20:14:27.540Z
-published: 2026-11-25T20:14:27.540Z
+modified: 2026-11-25T23:12:58.389Z
+published: 2026-11-25T23:12:58.389Z
 aliases: []
 books: []
 categories:
@@ -37,6 +37,7 @@ Hub note for places from reading.
 - [[Oenophyta]]
 - [[Olympia]]
 - [[Piraeus]]
+- [[Plataea]]
 - [[Rhion]]
 - [[Sparta]]
 - [[Thermopylae]]
