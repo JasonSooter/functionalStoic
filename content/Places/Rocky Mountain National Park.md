@@ -2,13 +2,8 @@
 publish: true
 title: Rocky Mountain National Park
 created: 2024-09-07
-modified: 2026-11-07T07:01:00.000Z
-published: 2026-11-07T07:01:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Rocky Mountain National Park.svg
+modified: 2026-11-26T11:18:45.283Z
+published: 2026-11-26T11:18:45.283Z
 aliases: []
 books:
   - Looking To The Road Ahead
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 40.3466
   - -105.7364
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Colorado]]"
 image: Attachments/Places/Rocky Mountain National Park.svg
 ---
@@ -31,15 +30,18 @@ image: Attachments/Places/Rocky Mountain National Park.svg
 National park in the Rocky Mountains of northern Colorado. Neguse's newsletter reports a naturalization ceremony there.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | Looking To The Road Ahead | Congressman Joe Neguse | setting | 33 people take the oath of citizenship at a ceremony in the park. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.3466\&mlon=-105.7364#map=10/40.3466/-105.7364) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=40.3466,-105.7364)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.3466&mlon=-105.7364#map=10/40.3466/-105.7364) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.3466,-105.7364)
+
+## Sub-places
+
+- [[Longs Peak]]
+- [[Milner Pass]]
 
 ## Looking To The Road Ahead — Congressman Joe Neguse (2024)
-
 Source: [Readwise highlight](https://read.readwise.io/read/01m5f1x1dvqp1ddb0cxyavn0j8)
 
 > Our team was also honored to attend the U.S. Citizenship Naturalization Ceremony at Rocky Mountain National Park last week, where 33 of our neighbors, friends, and community members took the oath and began a new chapter as American citizens.
