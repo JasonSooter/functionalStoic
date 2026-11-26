@@ -2,8 +2,8 @@
 publish: true
 title: Yellowstone National Park
 created: 2025-03-29
-modified: 2026-11-22T08:23:22.281Z
-published: 2026-11-22T08:23:22.281Z
+modified: 2026-11-26T08:17:49.152Z
+published: 2026-11-26T08:17:49.152Z
 aliases: []
 books:
   - "What We’re Reading: A Genetic Milestone for Yellowstone’s Bison"
@@ -45,6 +45,8 @@ National park in Wyoming, Montana and Idaho, USA (part of [[Wyoming]] here), whi
 - [[Duck Lake (Yellowstone)]]
 - [[Emerald Pool (Yellowstone)]]
 - [[Mammoth Hot Springs]]
+- [[Old Faithful Inn]]
+- [[Summit Lake (Yellowstone)|Summit Lake]]
 - [[Yellowstone Lake]]
 
 ## What We’re Reading: A Genetic Milestone for Yellowstone’s Bison — RTBC Staff (2025)

@@ -2,8 +2,8 @@
 publish: true
 title: Wyoming
 created: 2026-10-20T19:39:45.000Z
-modified: 2026-11-22T02:18:51.017Z
-published: 2026-11-22T02:18:51.017Z
+modified: 2026-11-26T08:17:47.289Z
+published: 2026-11-26T08:17:47.289Z
 aliases: []
 books: []
 categories:
@@ -25,9 +25,11 @@ US state in the Rocky Mountains. Hub for literary places in the state.
 - [[Bone Cabin Quarry]]
 - [[Chokecherry and Sierra Madre Wind Energy Project]]
 - [[Grand Teton National Park]]
+- [[Green River Lakes]]
 - [[Kemmerer]]
 - [[Kemmerer Power Station (TerraPower)]]
 - [[Medicine Bow, Wyoming]]
 - [[Moose, Wyoming]]
 - [[Sheridan, Wyoming]]
+- [[Union Pass]]
 - [[Yellowstone National Park]]
