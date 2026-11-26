@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2016-04-07
-modified: 2026-11-26T17:15:19.712Z
-published: 2026-11-26T17:15:19.712Z
+modified: 2026-11-26T20:14:36.406Z
+published: 2026-11-26T20:14:36.406Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -111,6 +111,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[St Mary's Hospital, London]]
 - [[Tate Modern]]
 - [[The Hospital Club]]
+- [[The Mall (London)]]
 - [[The Serpentine]]
 - [[Tower of London]]
 - [[Upper Grosvenor Street]]
