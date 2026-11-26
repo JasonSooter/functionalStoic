@@ -2,8 +2,8 @@
 publish: true
 title: England
 created: 2026-09-23T04:55:24.000Z
-modified: 2026-11-22T23:18:47.007Z
-published: 2026-11-22T23:18:47.007Z
+modified: 2026-11-26T14:16:31.872Z
+published: 2026-11-26T14:16:31.872Z
 aliases: []
 books:
   - How the West (and the Rest) Got Rich
@@ -100,6 +100,7 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Charnwood Forest]]
 - [[Cornwall]]
 - [[Custom House, Liverpool]]
+- [[Dudley]]
 - [[Durham University]]
 - [[Fort Monckton]]
 - [[Halifax, West Yorkshire]]
@@ -117,17 +118,21 @@ _Added 2026-09-26 by Claude (`source/ai/claude`), from a Readwise task (your not
 - [[Molesey Lock]]
 - [[Norfolk]]
 - [[Norwich]]
+- [[Nottingham]]
 - [[Oxfordshire]]
 - [[Penton Hook Lock]]
 - [[Portsmouth Harbour]]
 - [[Robin Hood's Bay]]
+- [[Sheffield]]
 - [[Silbury Hill]]
 - [[South Ormsby Hall]]
 - [[Surrey]]
 - [[Tardebigge Locks]]
+- [[Walsall]]
 - [[Walton-on-Thames]]
 - [[Whitby]]
 - [[White Cliffs of Dover]]
+- [[Wilton International]]
 
 ## At a glance
 | Source | Author | Role | In one line |

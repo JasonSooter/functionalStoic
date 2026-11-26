@@ -2,8 +2,8 @@
 publish: true
 title: Poland
 created: 2026-10-20T16:29:01.000Z
-modified: 2026-11-23T23:16:07.509Z
-published: 2026-11-23T23:16:07.509Z
+modified: 2026-11-26T14:16:33.476Z
+published: 2026-11-26T14:16:33.476Z
 aliases: []
 books: []
 categories:
@@ -25,6 +25,7 @@ Country in central Europe. Hub for literary places in Poland.
 - [[Auschwitz]]
 - [[Central Communication Port]]
 - [[Gdańsk Shipyard]]
+- [[Katowice]]
 - [[Poznań]]
 - [[Warsaw]]
 - [[Warsaw Radio Mast]]
