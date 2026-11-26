@@ -2,8 +2,8 @@
 publish: true
 title: Alaska
 created: 2026-10-21T11:07:13.000Z
-modified: 2026-11-23T02:21:55.342Z
-published: 2026-11-23T02:21:55.342Z
+modified: 2026-11-26T23:15:25.201Z
+published: 2026-11-26T23:15:25.201Z
 aliases: []
 books: []
 categories:
@@ -29,6 +29,7 @@ US state in the far north-west of North America.
 - [[Fox Island (Alaska)]]
 - [[Glacier Bay National Park]]
 - [[Iditarod Trail]]
+- [[Kenai, Alaska]]
 - [[Kodiak Island]]
 - [[Matanuska-Susitna Valley]]
 - [[Noatak River]]
