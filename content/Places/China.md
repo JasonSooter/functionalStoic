@@ -2,8 +2,8 @@
 publish: true
 title: China
 created: 2016-05-10
-modified: 2026-11-25T02:14:03.478Z
-published: 2026-11-25T02:14:03.478Z
+modified: 2026-11-26T17:15:07.290Z
+published: 2026-11-26T17:15:07.290Z
 aliases: []
 books:
   - The coming debt bust
@@ -48,6 +48,7 @@ Country in East Asia. A subject in “The coming debt bust”: Subject of the Ec
 - [[Fuyan Cave (Daoxian)]]
 - [[Guan County]]
 - [[Guizhou]]
+- [[Hangzhou]]
 - [[Henan]]
 - [[Hong Kong]]
 - [[Jiuquan Satellite Launch Center]]

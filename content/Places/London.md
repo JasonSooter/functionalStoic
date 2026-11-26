@@ -2,8 +2,8 @@
 publish: true
 title: London
 created: 2016-04-07
-modified: 2026-11-26T14:16:27.080Z
-published: 2026-11-26T14:16:27.080Z
+modified: 2026-11-26T17:15:19.712Z
+published: 2026-11-26T17:15:19.712Z
 aliases: []
 books:
   - Muslims March Against Isis in London, and It’s Ignored by the Media
@@ -42,6 +42,7 @@ Capital of the United Kingdom. A setting in Mike Albo's “Muslims March Against
 - [[10 Downing Street]]
 - [[32 Smith Square]]
 - [[42 Holland Park]]
+- [[69 Long Acre]]
 - [[Albany (London)]]
 - [[Alexandra Palace]]
 - [[Alhambra Theatre (London)]]

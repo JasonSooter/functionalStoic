@@ -2,8 +2,8 @@
 publish: true
 title: Japan
 created: 2026-10-23
-modified: 2026-11-22T08:24:10.478Z
-published: 2026-11-22T08:24:10.478Z
+modified: 2026-11-26T17:15:04.731Z
+published: 2026-11-26T17:15:04.731Z
 aliases: []
 books:
   - "[[Exploration of Moby Dick]]"
@@ -37,6 +37,7 @@ Japan is an island country in East Asia. In Melville's _Moby-Dick_ it is the nea
 
 ## Sub-places
 
+- [[Brompton Junction Kobe]]
 - [[Dewa Sanzan]]
 - [[Fukushima Daiichi Nuclear Power Plant]]
 - [[Group Home Ingleside (Hunchback)]]
