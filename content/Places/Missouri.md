@@ -2,8 +2,8 @@
 publish: true
 title: Missouri
 created: 2015-12-14
-modified: 2026-11-25T23:14:22.662Z
-published: 2026-11-25T23:14:22.662Z
+modified: 2026-11-26T05:12:15.887Z
+published: 2026-11-26T05:12:15.887Z
 aliases: []
 books:
   - What Happens After Calls for New Gun Restrictions? Sales Go Up
@@ -41,6 +41,7 @@ US state in the Midwest; its 2007 repeal of a handgun permit rule is a New York 
 - [[Columbia, Missouri]]
 - [[Hannibal, Missouri]]
 - [[Kansas City]]
+- [[Lake Ozark]]
 - [[New Madrid]]
 - [[Warrensburg, Missouri]]
 

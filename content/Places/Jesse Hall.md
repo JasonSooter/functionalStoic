@@ -2,8 +2,8 @@
 publish: true
 title: Jesse Hall
 created: 2026-11-21
-modified: 2026-11-26T02:12:46.865Z
-published: 2026-11-26T02:12:46.865Z
+modified: 2026-11-26T05:12:45.549Z
+published: 2026-11-26T05:12:45.549Z
 aliases:
   - Francis Quadrangle columns
   - The Columns
@@ -34,7 +34,7 @@ Main administration building of the University of Missouri in Columbia, facing t
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| Stoner | John Williams | turning point | Sloane's office, where Stoner finds his vocation and Sloane later dies; Lomax's arrival; Walker's seminar and failed orals. |
+| Stoner | John Williams | turning point | Where Stoner finds his vocation and Sloane dies; the Lomax feud; the dawn after the affair; his retirement climb. |
 
 ## Stoner — John Williams (1965)
 
@@ -43,5 +43,5 @@ Source: [Original](https://www.nyrb.com/products/stoner) · [Readwise highlight]
 > Sometimes he stood in the center of the quad, looking at the five huge columns in front of Jesse Hall that thrust upward into the night out of the cool grass; he had learned that these columns were the remains of the original main building of the University, destroyed many years ago by fire.
 
 - **Role:** turning point
-- **In the book:** In the winter of his fourth year, Stoner climbs the wide stone steps into Jesse Hall and the "smooth marble stairs to Archer Sloane's second-floor office", a long narrow room lined with books. Sloane tells him he is going to be a teacher: "It's love, Mr. Stoner." He gives up the farm for graduate study. The columns in front, the remains of the burned main building, come to mean the way of life he has embraced, "as a temple represents a god." In the war years a student hangs a straw effigy of the Kaiser from one of them, and on Armistice Day a crowd sweeps Stoner through the hall's corridors past Sloane's open door, where the old man sits weeping. The senile Dean Claremont gets lost in the same corridors. In 1924 Sloane dies alone at his desk over a weekend and is "discovered shortly after dawn the following Monday by a janitor who made the rounds of the offices in Jesse Hall." That fall the department meets "in a large lecture room in the east wing of Jesse Hall" to see its new chairman, Hollis Lomax. Years later Stoner's graduate seminar meets "in a small basement room in the south wing of Jesse Hall," where Lomax's protégé Charles Walker attacks a fellow student's paper, and Walker's preliminary orals are held "in the seminar room on the third floor of Jesse Hall"; Stoner's questions expose him and he votes to fail him, and he walks out down the marble steps.
-- **Why it matters:** The decision that shapes Stoner's whole life is made here, and the columns are the novel's emblem of the university as a refuge. The same building holds his mentor's lonely death and the orals that turn Lomax into his lifelong enemy. The building is real, though Williams writes in his prefatory note that he took liberties with the University, "so that in effect it, too, is a fictional place."
+- **In the book:** In the winter of his fourth year, Stoner climbs the wide stone steps into Jesse Hall and the "smooth marble stairs to Archer Sloane's second-floor office", a long narrow room lined with books. Sloane tells him he is going to be a teacher: "It's love, Mr. Stoner." He gives up the farm for graduate study. The columns in front, the remains of the burned main building, come to mean the way of life he has embraced, "as a temple represents a god." In the war years a student hangs a straw effigy of the Kaiser from one of them, and on Armistice Day a crowd sweeps Stoner through the hall's corridors past Sloane's open door, where the old man sits weeping. The senile Dean Claremont gets lost in the same corridors. In 1924 Sloane dies alone at his desk over a weekend and is "discovered shortly after dawn the following Monday by a janitor who made the rounds of the offices in Jesse Hall." That fall the department meets "in a large lecture room in the east wing of Jesse Hall" to see its new chairman, Hollis Lomax. Years later Stoner's graduate seminar meets "in a small basement room in the south wing of Jesse Hall," where Lomax's protégé Charles Walker attacks a fellow student's paper, and Walker's preliminary orals are held "in the seminar room on the third floor of Jesse Hall"; Stoner's questions expose him and he votes to fail him, and he walks out down the marble steps. In Dean Finch's office Lomax threatens charges and, once chairman, strips Stoner of his upper-level courses. On the morning his affair with Katherine Driscoll ends, Stoner sits "on the stone steps in front of Jesse Hall" at dawn, watching the light reach the columns. Decades later, light-headed from a painkiller after his cancer diagnosis, he climbs the same marble stairs, now worn into "gentle troughs", to tell Finch he will retire at the end of the semester.
+- **Why it matters:** The decision that shapes Stoner's whole life is made here, and the columns are the novel's emblem of the university as a refuge. The same building holds his mentor's lonely death, the orals that turn Lomax into his lifelong enemy, and, on the stairs he first climbed as a student, the end of his career. The building is real, though Williams writes in his prefatory note that he took liberties with the University, "so that in effect it, too, is a fictional place."
