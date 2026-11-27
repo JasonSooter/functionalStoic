@@ -2,8 +2,8 @@
 publish: true
 title: Malawi
 created: 2026-11-27T05:15:26.903Z
-modified: 2026-11-27T05:15:26.903Z
-published: 2026-11-27T05:15:26.903Z
+modified: 2026-11-27T11:17:09.045Z
+published: 2026-11-27T11:17:09.045Z
 aliases: []
 books: []
 categories:
@@ -29,3 +29,6 @@ Landlocked country in southeast Africa, along the western shore of Lake Malawi; 
 - [[Dowa]]
 - [[Kasungu]]
 - [[Lilongwe]]
+- [[Madisi Secondary School]]
+- [[Mtunthama]]
+- [[Zomba]]

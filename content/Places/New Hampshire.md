@@ -2,13 +2,8 @@
 publish: true
 title: New Hampshire
 created: 2025-11-26
-modified: 2026-11-07T07:01:57.000Z
-published: 2026-11-07T07:01:57.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/New Hampshire.svg
+modified: 2026-11-27T11:17:42.529Z
+published: 2026-11-27T11:17:42.529Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -22,6 +17,10 @@ icon: newspaper
 location:
   - 43.667
   - -71.4998
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 image: Attachments/Places/New Hampshire.svg
 ---
 
@@ -30,22 +29,21 @@ image: Attachments/Places/New Hampshire.svg
 State in New England, USA, which Kyla Scanlon's essay uses to give its housing argument a place: an ageing state where building is hard.
 
 ## At a glance
-
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go\|30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go?]] | Kyla Scanlon | setting | An ageing state and the trade-offs of building housing. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.667\&mlon=-71.4998#map=11/43.667/-71.4998) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.667,-71.4998)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.667&mlon=-71.4998#map=11/43.667/-71.4998) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.667,-71.4998)
 
 ## Sub-places
 
+- [[Dartmouth College]]
 - [[Dublin Lake]]
 - [[Franconia Notch]]
 - [[Lonesome Lake]]
 - [[White Mountains (New Hampshire)]]
 
 ## 30 Days, 9 Cities, 1 Question: Where Did American Prosperity Go? — Kyla Scanlon (2025)
-
 Source: [[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]] · [Original](https://kyla.substack.com/p/30-days-9-cities-1-question-where) · [Readwise highlight](https://read.readwise.io/read/01m5ce5db01zwgmj8jjk6tpsvp)
 
 > New Hampshire is the second-oldest state in the country. The median homeowner is in their late fifties.

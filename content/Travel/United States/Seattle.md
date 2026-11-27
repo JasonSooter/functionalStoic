@@ -2,8 +2,8 @@
 publish: true
 title: Seattle
 created: 2025-03-25T12:06:03.737Z
-modified: 2026-11-24T17:19:05.174Z
-published: 2026-11-24T17:19:05.174Z
+modified: 2026-11-27T11:17:35.848Z
+published: 2026-11-27T11:17:35.848Z
 books:
   - How $100 Per Voter Makes Seattle’s Elections More Inclusive
   - "[[Four Thousand Weeks]]"
@@ -107,6 +107,7 @@ Airport → Downtown
 - [[Recycled Cycles]]
 - [[Roosevelt High School (Seattle)]]
 - [[Seattle Aquarium]]
+- [[Seattle Central Library]]
 - [[South Lake Union]]
 - [[U.S. District Court for the Western District of Washington (Project Hail Mary)]]
 - [[Union Bay (Seattle)]]

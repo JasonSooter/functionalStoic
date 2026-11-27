@@ -2,8 +2,8 @@
 publish: true
 title: Wimbe
 created: 2026-11-24
-modified: 2026-11-27T08:14:08.297Z
-published: 2026-11-27T08:14:08.297Z
+modified: 2026-11-27T11:16:49.211Z
+published: 2026-11-27T11:16:49.211Z
 aliases:
   - Masitala
   - Wimbe trading center
@@ -37,7 +37,7 @@ Village and trading centre east of [[Kasungu]] in central Malawi. It is William 
 
 | Source | Author | Role | In one line |
 |---|---|---|---|
-| The Boy Who Harnessed the Wind | William Kamkwamba and Bryan Mealer | setting | Home village of the memoir: famine at the trading centre, the school library's _Using Energy_, and the windmill in the yard. |
+| The Boy Who Harnessed the Wind | William Kamkwamba and Bryan Mealer | setting | Home village of the memoir: famine, the school library's _Using Energy_, the windmill in the yard, and the school William later rebuilds. |
 
 ## The Boy Who Harnessed the Wind — William Kamkwamba and Bryan Mealer (2009)
 
@@ -47,5 +47,7 @@ Source: [Original](https://www.penguinrandomhouse.com/books/314792/the-boy-who-h
 
 - **Role:** setting
 - **In the book:** The family comes from [[Dowa]] to Masitala, where the father turns farmer on a plot from Uncle John: "This is where my father became a farmer and my childhood began." The trading centre is the boys' world. It has Chief Wimbe's house with petitioners under the blue gums, the Ofesi Boozing Centre, whose cartons become toy trucks, the Iponga Barber Shop, the thatched "video show", and the bins where William scavenges batteries for radio repairs. He sits the Standard Eight exam at Wimbe Primary School, where Muluzi had made empty promises in 1999. In the famine the chief's blue gum grove fills with starving travellers: "The blue gum grove had become a patchwork of Gilbert’s family’s bedding." People sell their furniture and roofs at the trading centre, and starving crowds "converged at the trading center like herds of crazed and wasting animals driven together by fire". Cholera follows, with the dead buried at night by the Catholic church. William's dog Khamba dies in the blue gums near the house. Out of school, William borrows books from the small library at Wimbe Primary. There he finds _Using Energy_, an American textbook with a row of windmills on its cover, and "this book has since changed my life." He builds the windmill in the family compound, where the east winds come over the mountains from the lake.
-- **Why it matters:** This is the village whose lack of power, money and food drives the whole memoir. It is the place the windmill will be built for, so the story only works here.
+- **After the windmill:** The lit bulb in the valley becomes "a kind of roadside attraction, a must-stop while passing through Wimbe", and soon a line of people waits to charge their phones. Chief Wimbe, who "had lived in fear for his life" since the president's thugs beat him, dies; his funeral is held "in the yard of the primary school underneath the big blue gums", with Gule Wamkulu dancers and a shotgun fired over the grave by the Catholic church. In December 2005 William is beaten by a guard in the fertilizer-coupon crush at the ADMARC in Wimbe. He joins the Wimbe Youth Friendly Health Services Club and writes an HIV play, _Don’t Judge the Book by Its Cover_, performed in the trading centre, and builds a small windmill at Wimbe Primary, where officials of the Malawi Teacher Training Activity first notice his work. With money from his TED supporters he drills a borehole at home; its solar-pumped spigot "is also free for all the women in Wimbe to use."
+- **Afterword:** From 2010 William's charity and buildOn rebuild Wimbe Primary with four new two-classroom blocks, solar lights and ten thousand new titles for "the library where I first learned about science".
+- **Why it matters:** This is the village whose lack of power, money and food drives the whole memoir. It is the place the windmill is built for, and the place William returns to rebuild, so the story only works here.
 - **Real vs. fictional:** Real. ⚠️ Masitala itself isn't pinned: GeoNames lists two Masitalas in Kasungu District, and neither clearly matches "down the road" from Wimbe, so the pin is on Wimbe village.

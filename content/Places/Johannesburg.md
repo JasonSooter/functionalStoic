@@ -1,21 +1,21 @@
 ---
 publish: true
+title: Johannesburg
+created: 2026-11-08T23:17:28.000Z
+modified: 2026-11-27T11:17:41.164Z
+published: 2026-11-27T11:17:41.164Z
 aliases:
   - Joburg
   - Jozi
-title: Johannesburg
-created: 2026-11-08T23:17:28.000Z
-modified: 2026-11-09T05:14:28.000Z
-published: 2026-11-09T05:14:28.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
 books: []
 categories:
   - "[[Places]]"
 color: purple
 icon: book
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[South Africa]]"
 ---
 
@@ -25,6 +25,7 @@ Largest city in South Africa, in Gauteng. Hub for literary places in and around 
 
 ## Sub-places
 
+- [[African Leadership Academy]]
 - [[Alexandra (Johannesburg)|Alexandra]]
 - [[Bruma]]
 - [[H A Jack Primary School|H. A. Jack Primary School]]

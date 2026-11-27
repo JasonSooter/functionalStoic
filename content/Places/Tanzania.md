@@ -2,8 +2,8 @@
 publish: true
 title: Tanzania
 created: 2026-10-20T22:56:20.000Z
-modified: 2026-11-23T02:21:59.634Z
-published: 2026-11-23T02:21:59.634Z
+modified: 2026-11-27T11:17:38.140Z
+published: 2026-11-27T11:17:38.140Z
 aliases: []
 books: []
 categories:
@@ -29,3 +29,4 @@ Country in East Africa.
 - [[Lake Eyasi]]
 - [[Lake Manyara]]
 - [[Mount Kilimanjaro]]
+- [[Ngurdoto Mountain Lodge]]
