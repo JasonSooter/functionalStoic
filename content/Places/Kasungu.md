@@ -2,8 +2,8 @@
 publish: true
 title: Kasungu
 created: 2026-11-24
-modified: 2026-11-27T05:19:06.293Z
-published: 2026-11-27T05:19:06.293Z
+modified: 2026-11-27T08:14:09.433Z
+published: 2026-11-27T08:14:09.433Z
 aliases:
   - Nguru ya Nawambe
   - Mwala wa Nyenje
@@ -37,6 +37,9 @@ District town in Malawi's Central Region, beneath the hill of Nguru ya Nawambe. 
 | The Boy Who Harnessed the Wind | William Kamkwamba and Bryan Mealer | turning point | The Chewa legend's hill, Banda's boyhood home, and the famine rally where Chief Wimbe is beaten for speaking out. |
 
 ## Sub-places
+
+- [[Chamama]]
+- [[Kachokolo Secondary School]]
 - [[Wimbe]]
 
 ## The Boy Who Harnessed the Wind — William Kamkwamba and Bryan Mealer (2009)
