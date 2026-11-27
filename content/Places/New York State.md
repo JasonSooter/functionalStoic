@@ -2,8 +2,8 @@
 publish: true
 title: New York State
 created: 2026-10-20T22:55:57.000Z
-modified: 2026-11-24T17:17:58.870Z
-published: 2026-11-24T17:17:58.870Z
+modified: 2026-11-27T12:27:45.180Z
+published: 2026-11-27T12:27:45.180Z
 aliases: []
 books: []
 categories:
@@ -31,6 +31,7 @@ US state; see also [[New York City]].
 - [[Genesee River Aqueduct (Broad Street Bridge)]]
 - [[Great Embankment (Irondequoit Creek)]]
 - [[Hill Cumorah]]
+- [[Hudson River]]
 - [[Little Falls, New York]]
 - [[Lockport Locks]]
 - [[Maple Avenue Middle School]]

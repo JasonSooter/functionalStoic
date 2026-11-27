@@ -2,8 +2,8 @@
 publish: true
 title: India
 created: 2024-11-03
-modified: 2026-11-22T20:22:18.869Z
-published: 2026-11-22T20:22:18.869Z
+modified: 2026-11-27T12:27:56.919Z
+published: 2026-11-27T12:27:56.919Z
 aliases: []
 books:
   - Planes, trains, and smartphones – Bill Gates
@@ -37,6 +37,7 @@ Country in South Asia. Hub for literary places in the country.
 
 ## Sub-places
 
+- [[Agra Fort]]
 - [[Atal Tunnel]]
 - [[Auroville]]
 - [[Beas]]
@@ -68,6 +69,7 @@ Country in South Asia. Hub for literary places in the country.
 - [[Srinagar]]
 - [[Statue of Unity]]
 - [[Sugauli]]
+- [[Surat]]
 - [[Taj Mahal]]
 - [[Varanasi]]
 - [[Wainganga River]]
