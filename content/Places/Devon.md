@@ -2,8 +2,8 @@
 publish: true
 title: Devon
 created: 2026-10-20T01:35:21.000Z
-modified: 2026-11-27T12:27:48.679Z
-published: 2026-11-27T12:27:48.679Z
+modified: 2026-11-27T17:20:04.182Z
+published: 2026-11-27T17:20:04.182Z
 aliases: []
 books: []
 categories:
@@ -23,6 +23,7 @@ County in south-west England; see the Travel note [[England]]. Hub for literary 
 ## Sub-places
 
 - [[Appledore]]
+- [[Burgh Island]]
 - [[Clovelly]]
 - [[Dartmouth]]
 - [[Instow–Appledore ferry]]

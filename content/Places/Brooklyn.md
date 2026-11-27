@@ -2,13 +2,14 @@
 publish: true
 title: Brooklyn
 created: 2016-04-25
-modified: 2026-11-23T17:18:03.507Z
-published: 2026-11-23T17:18:03.507Z
+modified: 2026-11-27T17:17:04.415Z
+published: 2026-11-27T17:17:04.415Z
 aliases: []
 books:
   - "[[Dept. Of Speculation.md]]"
   - "[[Four Thousand Weeks]]"
   - The Secret Shame of Middle-Class Americans Living Paycheck to Paycheck
+  - "[[Great Short Books]]"
 categories:
   - "[[Places]]"
 color: purple
@@ -36,6 +37,7 @@ Borough of [[New York City]], USA (see also [[New York]]), and the home city of 
 | [[Dept. Of Speculation.md\|Dept. of Speculation]] | Jenny Offill | setting | The couple's home city for most of the book, and what the daughter mourns after the move to the country. |
 | [[Four Thousand Weeks]] | Oliver Burkeman | turning point | Burkeman recalls sitting on a park bench near his Brooklyn home one winter morning in 2014, anxious about undone tasks, and realising his… |
 | The Secret Shame of Middle-Class Americans Living Paycheck to Paycheck | Neal Gabler | turning point | The family bought a small co-op in Brooklyn; after moving out, the co-op board kept rejecting buyers, forcing him to carry two mortgages… |
+| [[Great Short Books]] | Kenneth C. Davis | setting | Another Brooklyn's pre-gentrified 1970s borough of white flight and Son of Sam, remembered by August at her father's funeral. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=40.65&mlon=-73.95#map=11/40.65/-73.95) · [Google Maps](https://www.google.com/maps/search/?api=1&query=40.65,-73.95)
 
@@ -49,6 +51,7 @@ Borough of [[New York City]], USA (see also [[New York]]), and the home city of 
 - [[Coney Island]]
 - [[Crown Heights]]
 - [[East New York]]
+- [[February House]]
 - [[I.S. 318 (Brooklyn)]]
 - [[Kings County Hospital]]
 - [[Marcy Houses]]
@@ -85,3 +88,13 @@ Source: [Original](https://www.theatlantic.com/magazine/archive/2016/05/my-secre
 - **Role:** turning point
 - **In the article:** The family bought a small co-op in Brooklyn; after moving out, the co-op board kept rejecting buyers, forcing him to carry two mortgages for years before selling at a steep loss.
 - **Why it matters:** One of the unforeseen shocks that dug the hole.
+
+## Great Short Books — Kenneth C. Davis (2022)
+Source: [[Great Short Books]] · [Readwise highlight](https://read.readwise.io/read/01m8f01e9tcm2kv3x40g0w5r5e)
+
+> Set in Brooklyn in the 1970s, this is the poetic, elegiac story of the life stage in which the Woman emerges from the Girl-Child, an account of the perils and pressure of growing up in that chrysalis time of transformation.
+
+- **Role:** setting
+- **In the book:** Davis's entry on Jacqueline Woodson's _Another Brooklyn_ (2016): August, an anthropologist, returns to Brooklyn for her father's funeral, and memory takes the story back to a pre-gentrified borough during white flight, its streets full of young Black men damaged by Vietnam. Her neighbourhood is "vibrantly alive yet filled with threats": men lurking in corridors, "Son of Sam" terrorizing the city. She and her brother were brought there from Tennessee by their father as small children and wait for their mother to follow.
+- **Why it matters:** The borough is the novel's subject as much as its backdrop, as the title says; Davis names no neighbourhood, so only the borough is pinned. The February House, where Carson McCullers conceived _The Ballad of the Sad Café_, has its own note: [[February House]].
+- **Read so far:** about 25% (still reading).

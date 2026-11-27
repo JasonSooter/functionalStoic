@@ -2,8 +2,8 @@
 publish: true
 title: New York State
 created: 2026-10-20T22:55:57.000Z
-modified: 2026-11-27T12:27:45.180Z
-published: 2026-11-27T12:27:45.180Z
+modified: 2026-11-27T17:20:08.203Z
+published: 2026-11-27T17:20:08.203Z
 aliases: []
 books: []
 categories:
@@ -37,6 +37,7 @@ US state; see also [[New York City]].
 - [[Maple Avenue Middle School]]
 - [[Mohawk Valley]]
 - [[Montezuma Marsh]]
+- [[Mount Vernon Public Library]]
 - [[Oneida Carry]]
 - [[Poughkeepsie Bridge]]
 - [[Rochester, New York]]

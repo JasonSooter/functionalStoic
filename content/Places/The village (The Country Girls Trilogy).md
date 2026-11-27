@@ -1,30 +1,32 @@
 ---
 publish: true
+title: The village (The Country Girls Trilogy)
+created: 2026-06-17
+modified: 2026-11-27T17:18:54.297Z
+published: 2026-11-27T17:18:54.297Z
 aliases:
   - Caithleen's village
   - The Brady farm
-title: The village (The Country Girls Trilogy)
-created: 2026-06-17
-modified: 2026-11-07T06:52:36.000Z
-published: 2026-11-07T06:52:36.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The village (The Country Girls Trilogy).svg
 books:
   - The Country Girls Trilogy
+  - "[[Great Short Books]]"
 categories:
   - "[[Places]]"
 color: gray
 confidence: inferred
 coordinates: 52.9,-8.5333
-geo_note: "inferred: Text clues (the 'great Shannon lake', Lough Derg, buses to Portumna and Limerick, train from Nenagh) place it on Lough Derg's west shore; O'Brien grew up at Tuamgraney there."
+geo_note: "inferred: Text clues (the 'great Shannon lake', Lough Derg, buses to Portumna\
+  \ and Limerick, train from Nenagh) place it on Lough Derg's west shore; O'Brien\
+  \ grew up at Tuamgraney there."
 geo_source: Wikipedia (en) Tuamgraney
 icon: book
 location:
   - 52.9
   - -8.5333
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[County Clare]]"
 image: Attachments/Places/The village (The Country Girls Trilogy).svg
 ---
@@ -38,11 +40,11 @@ The unnamed village and the Brady farm where Caithleen and Baba grow up, in the 
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | The Country Girls Trilogy | Edna O'Brien | setting | Caithleen's home village and failing farm by the Shannon lake, the world she and Baba long to escape and keep returning to. |
+| [[Great Short Books]] | Kenneth C. Davis | setting | Cait's "hardscrabble property" in a west-of-Ireland village; Davis draws the parallels with O'Brien's Tuamgraney. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.9\&mlon=-8.5333#map=16/52.9/-8.5333) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=52.9,-8.5333)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.9&mlon=-8.5333#map=16/52.9/-8.5333) · [Google Maps](https://www.google.com/maps/search/?api=1&query=52.9,-8.5333)
 
 ## The Country Girls Trilogy — Edna O'Brien (1986)
-
 Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highlight](https://read.readwise.io/read/01m5m75k52yrrxfzv0v78cjj1b)
 
 > It was a red cut-stone house set among the trees, and in the evening time, when the sun was going down, it had a luster of its own, with fields rolling out from it in a flat, uninterrupted expanse of green.
@@ -52,3 +54,13 @@ Source: [Original](https://openlibrary.org/works/OL69252W) · [Readwise highligh
 - **Why it matters:** This is the 'enclosed' world the whole trilogy reacts against: the drink, the priests, the gossip and the land that kept women in their place. Set anywhere less closed in, the flight to Dublin and London would mean much less.
 - **Real vs. fictional:** Edna O'Brien was born at Tuamgraney and grew up at Drewsboro, a large two-storey farmhouse whose land her father, like Caithleen's, sold off in pieces to pay debts.
 - **Where is it?:** ⚠️ The text never names the village or its county. Clues: Mama is lost when 'they had dragged the great Shannon lake'; Mr. Gentleman's trout was 'CAUGHT BY J. W. GENTLEMAN AT LOUGH DERG'; Mr. Gentleman 'sailed a boat on the Shannon'; Jack Holland might 'catch the evening bus to Portumna'; 'the bus for Limerick passed at the front gate'; Aunt Molly lives 'in the Shannon island'; Kate gets a lift 'to Nenagh to catch the eleven o’clock train'. Together these put the village on or near the Clare shore of Lough Derg. Reference works (Wikipedia, Clare Libraries) say only that O'Brien was born at Tuamgraney, Co. Clare, on that shore, in a large farmhouse called Drewsboro, and that Clare people 'continue to find themselves in her works'. I found no source that formally names Tuamgraney as the model. Chosen: Tuamgraney, the author's home village, which fits every clue. Alternatives: neighbouring Scarriff or Mountshannon.
+
+## Great Short Books — Kenneth C. Davis (2022)
+Source: [[Great Short Books]] · [Readwise highlight](https://read.readwise.io/read/01m8f0235z0esde2dkcekd5mg9)
+
+> Born on December 15, 1930, Josephine Edna O’Brien grew up in Tuamgraney, a village in Ireland’s county Clare. Her father, like Cait’s, was a profligate drinker.
+
+- **Role:** setting
+- **In the book:** Davis's entry on _The Country Girls_ (1960): the story opens with fourteen-year-old Cait Brady on "a hardscrabble property in a small village in the west of Ireland" with her mother and the farmhand Hickey, while her father is a reckless hard drinker who has not come home. In O'Brien's biography Davis lists the parallels: she grew up in Tuamgraney, her father drank like Cait's, she went to a convent boarding school and left for Dublin as a teenager. When the novel appeared, the parish priest in Tuamgraney burned it.
+- **Why it matters:** Davis's parallels support the inferred pin at Tuamgraney, though he too stops short of saying the village is Tuamgraney.
+- **Read so far:** about 25% (still reading).

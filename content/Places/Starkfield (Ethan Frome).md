@@ -1,18 +1,14 @@
 ---
 publish: true
-aliases:
-  - Starkfield, Massachusetts
 title: Starkfield
 created: 2026-08-14
-modified: 2026-11-07T06:58:28.000Z
-published: 2026-11-07T06:58:28.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/Starkfield (Ethan Frome).svg
+modified: 2026-11-27T17:19:13.462Z
+published: 2026-11-27T17:19:13.462Z
+aliases:
+  - Starkfield, Massachusetts
 books:
   - "[[Ethan Frome]]"
+  - "[[Great Short Books]]"
 categories:
   - "[[Places]]"
 color: gray
@@ -24,6 +20,10 @@ icon: book
 location:
   - 42.3564
   - -73.2853
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Lenox]]"
 image: Attachments/Places/Starkfield (Ethan Frome).svg
 ---
@@ -37,11 +37,11 @@ Fictional hill village in western Massachusetts, pinned at a best-guess location
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Ethan Frome]] | Edith Wharton | setting | Starkfield is the hill village where the whole story is set and where the narrator is stranded for a winter. |
+| [[Great Short Books]] | Kenneth C. Davis | setting | The "bleak, wintry Massachusetts village"; Davis calls Wharton's Berkshires home at Lenox the setting for the book. |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3564\&mlon=-73.2853#map=16/42.3564/-73.2853) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=42.3564,-73.2853)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=42.3564&mlon=-73.2853#map=16/42.3564/-73.2853) · [Google Maps](https://www.google.com/maps/search/?api=1&query=42.3564,-73.2853)
 
 ## Ethan Frome — Edith Wharton (1911)
-
 Source: [[Ethan Frome]] · [Original](https://openlibrary.org/works/OL98501W) · [Readwise highlight](https://read.readwise.io/read/01m5dr0d4f95ncdke2vh2sverm)
 
 > If you know Starkfield, Massachusetts, you know the post-office.
@@ -51,3 +51,13 @@ Source: [[Ethan Frome]] · [Original](https://openlibrary.org/works/OL98501W) ·
 - **Why it matters:** Starkfield is the book's governing image of isolation ("Guess he's been in Starkfield too many winters"); the town is the trap that keeps Ethan from leaving. Wharton calls it 'imaginary' and places it only in 'the same county' as her home.
 - **Real vs. fictional:** Fictional. Wharton: 'my home in the same county as my imaginary Starkfield'. Wikipedia: 'small (fictional) town of Starkfield, Massachusetts'; setting drawn from her ten years at The Mount, Lenox, Berkshire County.
 - **Where is it?:** ⚠️ best-guess. Clues in the text: “my home in the same county as my imaginary Starkfield”; “If you know Starkfield, Massachusetts”; “the bigger towns in the valleys, such as Bettsbridge and Shadd’s Falls”; “the nearest habitable spot”. Chosen: Lenox. No source names a model. Only evidence: (1) the intro puts Starkfield in the same county as Wharton's home (The Mount, Lenox, Berkshire County); (2) Wikipedia says she based her sense of New England place on ten years at The Mount and the sledding accident that inspired the crash was on Courthouse Hill in Lenox (already mapped as Courthouse Hill, Lenox). Alternatives: Berkshire County hill-town region in general (EBSCO: 'fictional village in the hills of western Massachusetts's Berkshire County'); a hill town near Lenox such as Washington or Becket (no source)
+
+## Great Short Books — Kenneth C. Davis (2022)
+Source: [[Great Short Books]] · [Readwise highlight](https://read.readwise.io/read/01m8f0263jst5a6dkj1txqcya4)
+
+> Set in a bleak, wintry Massachusetts village, appropriately named Starkfield, Wharton’s compact novella tells a simple, and yes, stark, story about a character who is a “ruin of a man.”
+
+- **Role:** setting
+- **In the book:** Davis's summary: Ethan scrapes a living from a hardscrabble family farm, in "one of those lonely New England farm-houses that make the landscape lonelier", which the narrator reaches in a raging snowstorm. Ethan is married to the hypochondriac Zeena, falls for her orphaned relative Mattie, the live-in housekeeper, and plots to head west with her, an ill-fated dream. In Wharton's biography Davis says she moved in 1902 into The Mount, the house she helped design in Lenox, "in the Berkshires region of Massachusetts, the setting for _Ethan Frome_."
+- **Why it matters:** Davis ties the book's setting to the Berkshires around Lenox, which supports the best-guess pin; he does not identify Starkfield with a real town.
+- **Read so far:** about 25% (still reading).

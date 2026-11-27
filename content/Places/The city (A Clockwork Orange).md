@@ -1,30 +1,31 @@
 ---
 publish: true
+title: The city (A Clockwork Orange)
+created: 2025-11-07
+modified: 2026-11-27T17:18:34.595Z
+published: 2026-11-27T17:18:34.595Z
 aliases:
   - Korova Milkbar
   - Staja 84F
-title: The city (A Clockwork Orange)
-created: 2025-11-07
-modified: 2026-11-07T06:52:00.000Z
-published: 2026-11-07T06:52:00.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The city (A Clockwork Orange).svg
 books:
   - "[[A Clockwork Orange]]"
+  - "[[Great Short Books]]"
 categories:
   - "[[Places]]"
 color: gray
 confidence: best-guess
 coordinates: 53.4794,-2.2453
-geo_note: "best-guess: unnamed city; Burgess blended his home town Manchester with Leningrad"
+geo_note: "best-guess: unnamed city; Burgess blended his home town Manchester with\
+  \ Leningrad"
 geo_source: Wikipedia (en) Manchester
 icon: book
 location:
   - 53.4794
   - -2.2453
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Manchester]]"
 image: Attachments/Places/The city (A Clockwork Orange).svg
 ---
@@ -38,11 +39,11 @@ The unnamed near-future city of _A Clockwork Orange_, home of the Korova Milkbar
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[A Clockwork Orange]] | Anthony Burgess | setting | Alex's city: the Korova Milkbar, Flatblock 18a, the Public Biblio, Staja 84F and the cottage called HOME. |
+| [[Great Short Books]] | Kenneth C. Davis | setting | "A future city that seems like Manchester, England, but could be Leningrad or New York." |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.4794\&mlon=-2.2453#map=16/53.4794/-2.2453) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=53.4794,-2.2453)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=53.4794&mlon=-2.2453#map=16/53.4794/-2.2453) · [Google Maps](https://www.google.com/maps/search/?api=1&query=53.4794,-2.2453)
 
 ## A Clockwork Orange — Anthony Burgess (1962)
-
 Source: [[A Clockwork Orange]] · [Original](https://openlibrary.org/works/OL261794W) · [Readwise highlight](https://read.readwise.io/read/01m5kvaymnxcpeghhaym2xkfkd)
 
 > we sat in the Korova Milkbar making up our rassoodocks what to do with the evening, a flip dark chill winter bastard though dry.
@@ -52,3 +53,13 @@ Source: [[A Clockwork Orange]] · [Original](https://openlibrary.org/works/OL261
 - **Why it matters:** The city is never named, and its mix of English streets, council flats and Russian-tinged slang is the point: a generic welfare-state future where violence and state control mirror each other.
 - **Real vs. fictional:** The city and all its places are fictional.
 - **Where is it?:** ⚠️ The text gives English street names after politicians and writers (Attlee Avenue, Priestley Place, Kingsley Avenue, Wilsonsway), council flatblocks, a river to the north, an Industrial Canal, and a village reached by driving west out of town into the winter countryside; no real place is named. The International Anthony Burgess Foundation says the city is "deliberately unspecified" and blends Burgess's home town, Manchester, with Leningrad, which he visited in 1961. Pinned at Manchester. Alternatives: Leningrad (Saint Petersburg), London.
+
+## Great Short Books — Kenneth C. Davis (2022)
+Source: [[Great Short Books]] · [Readwise highlight](https://read.readwise.io/read/01m8f01zx3edy620rrt4arkxse)
+
+> a future city that seems like Manchester, England, but could be Leningrad or New York.
+
+- **Role:** setting
+- **In the book:** Davis quotes the opening in the Korova Milkbar, then describes Alex and his droogs spending drug-fuelled evenings stealing, fighting rival gangs and terrorizing the population of this city. In Burgess's biography he adds that a 1961 voyage to Russia shaped the novel's invented language and dark social climate, and that the wartime assault on Burgess's pregnant wife during London's blackout inspired its brutality.
+- **Why it matters:** Davis's reading matches the note's best guess: an unnamed city that looks like Burgess's Manchester but deliberately could be elsewhere.
+- **Read so far:** about 25% (still reading).

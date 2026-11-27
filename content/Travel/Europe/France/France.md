@@ -2,8 +2,8 @@
 publish: true
 title: France
 created: 2024-10-05T01:12:38.489Z
-modified: 2026-11-20T02:17:06.638Z
-published: 2026-11-20T02:17:06.638Z
+modified: 2026-11-27T17:20:11.647Z
+published: 2026-11-27T17:20:11.647Z
 aliases:
   - Paris, France
   - Paris
@@ -88,6 +88,7 @@ Upon return, we watched a PBS Nova video that launched about the [building of th
 - [[Brittany]]
 - [[Canal du Midi]]
 - [[Chauvet Cave]]
+- [[Château de Ferney]]
 - [[Circuit de la Sarthe]]
 - [[Corsica]]
 - [[Culmont-Chalindrey station]]

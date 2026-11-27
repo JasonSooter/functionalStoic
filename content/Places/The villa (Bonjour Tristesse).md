@@ -2,27 +2,30 @@
 publish: true
 title: The villa (Bonjour Tristesse)
 created: 2025-12-15
-modified: 2026-11-07T06:52:34.000Z
-published: 2026-11-07T06:52:34.000Z
-tags:
-  - places
-  - place/literary
-  - source/ai/claude
-socialImage: Attachments/Places/The villa (Bonjour Tristesse).svg
+modified: 2026-11-27T17:17:51.253Z
+published: 2026-11-27T17:17:51.253Z
 aliases: []
 books:
   - "[[Bonjour Tristesse]]"
+  - "[[Great Short Books]]"
 categories:
   - "[[Places]]"
 color: gray
 confidence: inferred
 coordinates: 43.4252,6.7684
-geo_note: "inferred: the rented white villa on the Mediterranean (and Cyril's family villa next door) pinned at Estérel coast near Saint-Raphaël / Fréjus, Var, French Riviera; see Where is it? (Town centre used as representative point for the unnamed villa and Cyril's neighbouring villa.)"
+geo_note: "inferred: the rented white villa on the Mediterranean (and Cyril's family\
+  \ villa next door) pinned at Estérel coast near Saint-Raphaël / Fréjus, Var, French\
+  \ Riviera; see Where is it? (Town centre used as representative point for the unnamed\
+  \ villa and Cyril's neighbouring villa.)"
 geo_source: Wikipedia (en) Saint-Raphaël, Var
 icon: book
 location:
   - 43.4252
   - 6.7684
+tags:
+  - places
+  - place/literary
+  - source/ai/claude
 within: "[[Saint-Raphaël]]"
 image: Attachments/Places/The villa (Bonjour Tristesse).svg
 ---
@@ -36,11 +39,11 @@ Fictional rented white villa on a pine-hidden promontory above the Mediterranean
 | Source | Author | Role | In one line |
 |---|---|---|---|
 | [[Bonjour Tristesse]] | Françoise Sagan | setting | Cécile, her father Raymond and his girlfriend Elsa spend two idle summer months in a secluded white villa above a small rocky inlet. |
+| [[Great Short Books]] | Kenneth C. Davis | setting | Cécile's Riviera summer of sailing with Cyril, upended when Anne Larsen arrives; one of Davis's "Dangerous Beach Holidays". |
 
-📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.4252\&mlon=6.7684#map=16/43.4252/6.7684) · [Google Maps](https://www.google.com/maps/search/?api=1\&query=43.4252,6.7684)
+📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=43.4252&mlon=6.7684#map=16/43.4252/6.7684) · [Google Maps](https://www.google.com/maps/search/?api=1&query=43.4252,6.7684)
 
 ## Bonjour Tristesse — Françoise Sagan (1954)
-
 Source: [[Bonjour Tristesse]] · [Original](https://openlibrary.org/works/OL584333W) · [Readwise highlight](https://read.readwise.io/read/01m5ebwgrrtk4qkx1d2qe4x28b)
 
 > He had rented a large white villa on the Mediterranean, a gorgeous, secluded house that we had been dreaming of since the beginning of the warm weather in June.
@@ -49,3 +52,13 @@ Source: [[Bonjour Tristesse]] · [Original](https://openlibrary.org/works/OL5843
 - **In the book:** Cécile, her father Raymond and his girlfriend Elsa spend two idle summer months in a secluded white villa on a pine-hidden promontory above a small rocky inlet. Cyril, a law student, capsizes his sailing boat at the inlet and turns out to live in a neighbouring villa with his mother. Anne arrives by train at Fréjus and the villa becomes the stage for the central conflict.
 - **Why it matters:** The text places the household within reach of Fréjus station, Saint-Raphaël and Cannes, so the Estérel coast around Saint-Raphaël is the most consistent real location. Saint-Raphaël is used as the representative point because the villa itself is fictional.
 - **Where is it?:** ⚠️ inferred. Clues in the text: "a large white villa on the Mediterranean"; "It stood on a promontory overlooking the sea and was hidden from the road by a pine wood."; "my father and Elsa would go to meet her at the station in Fréjus"; "a nightclub in Saint-Raphaël"; "spend the evening in Cannes"; "the Route de l’Esterel"; "a Côte d’Azur" What reference works say: English Wikipedia says only Riviera and gives no real model for the villa. The text itself ties daily life to Fréjus station (Anne arrives by train), Saint-Raphaël nightlife, Cannes by car, and Anne dies on the Route de l’Esterel, which puts the villa on the Estérel coast between Saint-Raphaël and Cannes. No author statement of a specific model was found; fr.wikipedia was not reachable. Chosen: Estérel coast near Saint-Raphaël / Fréjus, Var, French Riviera. Alternatives: Saint-Tropez area; Juan-les-Pins (next summer villa, outside the main story); Cannes
+
+## Great Short Books — Kenneth C. Davis (2022)
+Source: [[Great Short Books]] · [Readwise highlight](https://read.readwise.io/read/01m8f01ney8b99agxmvkzk1nee)
+
+> Seventeen, bored, and motherless, Cécile is spending the summer on the French Riviera with her father, Raymond, and Elsa, his current girlfriend.
+
+- **Role:** setting
+- **In the book:** Davis's summary: the summer on the beach gets better for Cécile when Cyril, a college student, offers to teach her to sail, but the idyll is interrupted by Anne Larsen, the best friend of Raymond's late wife. Fearing that Anne will end her romance with Cyril, Cécile plots to sabotage Anne's plans with her father.
+- **Why it matters:** Davis files the book among his "Dangerous Beach Holidays": swimsuits, beaches and casinos as the backdrop, but "bad things can happen at the seaside". He names only the Riviera, not the villa or a town.
+- **Read so far:** about 25% (still reading).
