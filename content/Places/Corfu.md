@@ -2,8 +2,8 @@
 publish: true
 title: Corfu
 created: 2026-10-07
-modified: 2026-11-27T20:17:52.831Z
-published: 2026-11-27T20:17:52.831Z
+modified: 2026-11-27T23:14:16.039Z
+published: 2026-11-27T23:14:16.039Z
 aliases:
   - Kerkyra
   - Corfu island
@@ -39,6 +39,7 @@ Greek island in the Ionian Sea, off the coast of Albania. It is the setting of G
 ## Sub-places
 - [[Corfu Town]]
 - [[Daffodil-Yellow Villa]]
+- [[Snow-White Villa]]
 - [[Strawberry-Pink Villa]]
 
 ## My Family and Other Animals — Gerald Durrell (1956)
@@ -47,6 +48,6 @@ Source: [[My Family and Other Animals]] · [Original](https://www.penguinrandomh
 > This was Corfu, and we strained our eyes to make out the exact shapes of the mountains, to discover valleys, peaks, ravines, and beaches, but it remained a silhouette.
 
 - **Role:** subject
-- **In the book:** After fleeing a wet Bournemouth summer, the family wakes on a small ship from the heel of Italy and watches the island come out of the dawn mist: olive-green mountains, white beaches, cypresses, the noise of cicadas. They round the northern cape, a rust-red cliff carved into caves, and land at the town. Durrell's preface calls it a "five-year sojourn" on Corfu, and what follows is the island itself: its olive groves, peasant neighbours such as Agathi and the shepherd Yani, the Rose-Beetle Man, and the insects, tortoises and birds that Gerry studies.
+- **In the book:** After fleeing a wet Bournemouth summer, the family wakes on a small ship from the heel of Italy and watches the island come out of the dawn mist: olive-green mountains, white beaches, cypresses, the noise of cicadas. They round the northern cape, a rust-red cliff carved into caves, and land at the town. Durrell's preface calls it a "five-year sojourn" on Corfu, and what follows is the island itself: its olive groves, peasant neighbours such as Agathi and the shepherd Yani, the Rose-Beetle Man, and the insects, tortoises and birds that Gerry studies. The family moves through three villas, and the seasons turn from a summer of moonlit bathing to autumn siroccos and a winter of woodcock shooting.
 - **Why it matters:** Durrell says he set out to write a natural history of the island before his family took over the book. Corfu's mix of wildlife and comic-opera society is the book's engine; set anywhere else, the book would not exist.
-- **Read so far:** about 26% (still reading).
+- **Read so far:** about 52% (still reading).
