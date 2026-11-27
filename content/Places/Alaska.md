@@ -2,8 +2,8 @@
 publish: true
 title: Alaska
 created: 2026-10-21T11:07:13.000Z
-modified: 2026-11-26T23:15:25.201Z
-published: 2026-11-26T23:15:25.201Z
+modified: 2026-11-27T02:14:54.730Z
+published: 2026-11-27T02:14:54.730Z
 aliases: []
 books: []
 categories:
@@ -24,6 +24,7 @@ US state in the far north-west of North America.
 
 - [[Chilkoot Pass]]
 - [[Circle, Alaska]]
+- [[Cordova, Alaska]]
 - [[Costco West Dimond Boulevard (Anchorage)]]
 - [[Dyea, Alaska]]
 - [[Fox Island (Alaska)]]
