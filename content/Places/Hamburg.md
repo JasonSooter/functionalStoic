@@ -2,8 +2,8 @@
 publish: true
 title: Hamburg
 created: 2025-08-18
-modified: 2026-11-24T20:18:25.034Z
-published: 2026-11-24T20:18:25.034Z
+modified: 2026-11-27T14:14:45.012Z
+published: 2026-11-27T14:14:45.012Z
 aliases: []
 books:
   - "[[Journey to the Centre of the Earth]]"
@@ -39,6 +39,7 @@ Port city on the Elbe in northern Germany, built around the two Alster lakes. In
 - [[Außenalster]]
 - [[Elbphilharmonie]]
 - [[Hamburg Rathaus]]
+- [[Port of Hamburg]]
 - [[Reeperbahn]]
 
 ## Journey to the Centre of the Earth — Jules Verne (1864)

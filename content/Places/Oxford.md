@@ -2,8 +2,8 @@
 publish: true
 title: Oxford
 created: 2025-04-19
-modified: 2026-11-23T05:20:40.094Z
-published: 2026-11-23T05:20:40.094Z
+modified: 2026-11-27T14:14:43.268Z
+published: 2026-11-27T14:14:43.268Z
 aliases: []
 books:
   - "[[Exploration of Three Men in a Boat]]"
@@ -39,6 +39,7 @@ University city on the Thames in [[Oxfordshire]]. In Three Men in a Boat it is t
 
 - [[22 Northmoor Road]]
 - [[Ashmolean Museum]]
+- [[Magdalen College, Oxford]]
 - [[Oxford University Museum of Natural History]]
 
 ## Three Men in a Boat — Jerome K. Jerome (1889)
