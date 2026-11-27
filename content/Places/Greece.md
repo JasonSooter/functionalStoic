@@ -2,8 +2,8 @@
 publish: true
 title: Greece
 created: 2026-10-21T02:07:09.000Z
-modified: 2026-11-25T23:12:58.389Z
-published: 2026-11-25T23:12:58.389Z
+modified: 2026-11-27T20:15:09.070Z
+published: 2026-11-27T20:15:09.070Z
 aliases: []
 books: []
 categories:
@@ -24,6 +24,7 @@ Hub note for places from reading.
 
 - [[Astakos]]
 - [[Athens]]
+- [[Corfu]]
 - [[Corinth]]
 - [[Crete]]
 - [[Delos]]
