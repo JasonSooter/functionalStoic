@@ -2,8 +2,8 @@
 publish: true
 title: Texas
 created: 2026-10-20T16:28:47.000Z
-modified: 2026-11-22T05:23:05.472Z
-published: 2026-11-22T05:23:05.472Z
+modified: 2026-11-28T05:15:29.682Z
+published: 2026-11-28T05:15:29.682Z
 aliases: []
 books: []
 categories:
@@ -45,4 +45,5 @@ US state on the Gulf of Mexico. Hub for literary places in the state.
 - [[Superconducting Super Collider]]
 - [[Sweetwater, Texas]]
 - [[Uvalde, Texas]]
+- [[Waco, Texas]]
 - [[Wichita Falls]]

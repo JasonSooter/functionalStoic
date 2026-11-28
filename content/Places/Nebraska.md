@@ -2,8 +2,8 @@
 publish: true
 title: Nebraska
 created: 2026-10-23T22:34:56.000Z
-modified: 2026-11-22T05:23:12.944Z
-published: 2026-11-22T05:23:12.944Z
+modified: 2026-11-28T05:15:28.862Z
+published: 2026-11-28T05:15:28.862Z
 books: []
 categories:
   - "[[Places]]"
@@ -23,3 +23,4 @@ State on the Great Plains of the central United States.
 
 - [[Ashfall Fossil Beds]]
 - [[Fort Kearny]]
+- [[Platte River]]

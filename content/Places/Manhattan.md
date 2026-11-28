@@ -2,8 +2,8 @@
 publish: true
 title: Manhattan
 created: 2016-07-30
-modified: 2026-11-27T12:26:46.957Z
-published: 2026-11-27T12:26:46.957Z
+modified: 2026-11-28T05:15:28.098Z
+published: 2026-11-28T05:15:28.098Z
 aliases:
   - Manna-hata
 books:
@@ -85,6 +85,7 @@ Island borough at the heart of New York City. Henry Hudson lands here in 1609 in
 - [[Sheraton New York Times Square Hotel]]
 - [[The Battery (Manhattan)]]
 - [[The Four Seasons Restaurant]]
+- [[The Public Theater]]
 - [[The Tombs]]
 - [[The Town Hall]]
 - [[Union League Club of New York]]
