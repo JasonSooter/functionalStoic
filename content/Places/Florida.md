@@ -2,8 +2,8 @@
 publish: true
 title: Florida
 created: 2025-11-26
-modified: 2026-11-23T17:17:56.126Z
-published: 2026-11-23T17:17:56.126Z
+modified: 2026-11-28T11:14:30.930Z
+published: 2026-11-28T11:14:30.930Z
 aliases: []
 books:
   - "[[30 Days, 9 Cities, 1 Question - Where Did American Prosperity Go]]"
@@ -41,6 +41,7 @@ State in the south-eastern [[United States]], appearing in the reading as one st
 - [[Cape Canaveral]]
 - [[Daytona International Speedway]]
 - [[Delray Beach]]
+- [[Eatonville, Florida]]
 - [[Fifth Avenue South (Naples, Florida)]]
 - [[Gadsden County, Florida]]
 - [[GORUCK headquarters]]

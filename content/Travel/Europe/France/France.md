@@ -2,8 +2,8 @@
 publish: true
 title: France
 created: 2024-10-05T01:12:38.489Z
-modified: 2026-11-27T17:20:11.647Z
-published: 2026-11-27T17:20:11.647Z
+modified: 2026-11-28T11:14:32.866Z
+published: 2026-11-28T11:14:32.866Z
 aliases:
   - Paris, France
   - Paris
@@ -100,6 +100,7 @@ Upon return, we watched a PBS Nova video that launched about the [building of th
 - [[Hall of Mirrors]]
 - [[La Chaise-Dieu]]
 - [[Latche]]
+- [[Le Suquet (Laguiole)|Le Suquet]]
 - [[Lyon]]
 - [[Lyon Part-Dieu]]
 - [[Marseille]]

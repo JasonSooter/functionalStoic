@@ -2,8 +2,8 @@
 publish: true
 title: Washington, D.C.
 created: 2024-05-18
-modified: 2026-11-20T02:17:02.198Z
-published: 2026-11-20T02:17:02.198Z
+modified: 2026-11-28T11:14:31.722Z
+published: 2026-11-28T11:14:31.722Z
 aliases: []
 books:
   - "[[Walkable City]]"
@@ -57,6 +57,7 @@ Capital of the United States. Hub for literary places in the region.
 - [[Soviet Embassy in Washington]]
 - [[Tidal Basin]]
 - [[Town Danceboutique]]
+- [[United States Capitol]]
 - [[Washington Union Station]]
 - [[White House]]
 - [[White House kitchen garden]]
