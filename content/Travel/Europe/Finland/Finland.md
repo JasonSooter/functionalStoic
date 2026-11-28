@@ -2,8 +2,8 @@
 publish: true
 title: Finland
 created: 2024-01-04T20:21:47.000Z
-modified: 2026-11-21T02:19:00.708Z
-published: 2026-11-21T02:19:00.708Z
+modified: 2026-11-28T02:12:28.142Z
+published: 2026-11-28T02:12:28.142Z
 aliases:
   - Helsinki, Finland
   - Helsinki
@@ -15,6 +15,7 @@ books:
   - What’s So Special About Finland?
   - How the Finnish survive without small talk
   - How to Homeschool Like the Finnish
+  - Of Boys and Men
 categories:
   - "[[Places]]"
 color: blue
@@ -38,7 +39,7 @@ tags:
   - places
   - place/literary
   - source/ai/claude
-reading_icon: newspaper
+reading_icon: book
 image: Attachments/Places/Finland.svg
 ---
 
@@ -193,6 +194,7 @@ tags: #source/publications/the-atlantic #🗓️/2016/09/19
 | What’s So Special About Finland? | Uri Friedman | subject | The interview with Anu Partanen argues that Finland and its Nordic neighbours deliver the American Dream's freedom and opportunity… |
 | How the Finnish survive without small talk | Laura Studarus | subject | The article examines Finnish culture's aversion to small talk, with the saying 'Silence is gold, talking is silver', minimal interaction… |
 | How to Homeschool Like the Finnish | Weird, Unsocialized Homeschoolers | subject | The piece holds up the Finnish school system as a model: minimal testing, teachers who stay with students for years, school starting at… |
+| Of Boys and Men | Richard V. Reeves | subject | Finland's top PISA scores turn out to be a girls' success story: its boys read no better than American boys. |
 
 📍 [OpenStreetMap](https://www.openstreetmap.org/?mlat=60.1699&mlon=24.9384#map=5/60.1699/24.9384) · [Google Maps](https://www.google.com/maps/search/?api=1&query=60.1699,24.9384)
 
@@ -241,3 +243,12 @@ Source: [Original](https://www.weirdunsocializedhomeschoolers.com/how-to-homesch
 - **Role:** subject
 - **In the article:** The piece holds up the Finnish school system as a model: minimal testing, teachers who stay with students for years, school starting at 7, cozy classrooms where kids warm up in socks, 15-minute outdoor recesses between lessons and hours outside even in winter.
 - **Why it matters:** The piece holds up the Finnish school system as a model: minimal testing, teachers who stay with students for years, school starting at 7, cozy classrooms where kids warm up in socks, 15-minute outdoor recesses between lessons and hours outside even in winter.
+
+## Of Boys and Men — Richard V. Reeves (2022)
+Source: [Original](https://www.brookings.edu/books/of-boys-and-men/) · [Readwise highlight](https://read.readwise.io/read/01m8fys27qa58h1s6whv7gswj4)
+
+> The bottom line is that Finland’s internationally acclaimed educational performance is entirely explained by the stunning performance of Finnish girls. (In fact, American boys do just as well as Finnish boys do on the PISA reading test.)
+
+- **Role:** subject
+- **In the book:** Chapter 1 opens its K-12 evidence with Finland, the high performer that reformers "flock to". Reeves uses PISA reading results to show a large gender gap behind the headline: 20% of Finnish girls score at the top reading levels against 9% of boys, while 20% of boys score at the bottom against 7% of girls.
+- **Why it matters:** Finland is his sharpest example of a gap seen across the OECD: even the model school system is failing its boys. Set anywhere less admired, the point that the problem isn't just weak schools would lose its force.
